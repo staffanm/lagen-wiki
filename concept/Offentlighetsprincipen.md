@@ -6,3 +6,5 @@ I processrätt används offentlighetsprincipen som begrepp för den princip som 
 Källa: Heuman: Process- och straffätt för juridisk översiktskurs (ISBN 91-39-20368-9) s 25
 
 Begreppet har dock betydelse utöver processrätten, se ffa [TF Kap. 2](begrepp:TF Kap. 2)
+
+
