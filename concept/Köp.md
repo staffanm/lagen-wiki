@@ -6,3 +6,5 @@ Ett köp är en [onerös](begrepp:onerös) [förmögenhetsrättslig avtalstyp](b
 De viktigaste lagarna för köp är [Köplagen](begrepp:KöpL) och [Konsumentköplagen](begrepp:KKL). Den senare ska alltid tillämpas för [konsumentköp](begrepp:konsumentköp), dvs när en [konsument](begrepp:konsument) köper från en [näringsidkare](begrepp:näringsidkare) i sin yrkesutövning, och den är alltid [tvingande](begrepp:tvingande lag), till skillnad från den [dispositiva](begrepp:dispositiv lag) Köplagen, som gäller annars.
 
 
+
+Se även [Konsumentköp](begrepp:Konsumentköp) och [Kreditköp](begrepp:Kreditköp).
