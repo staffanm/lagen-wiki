@@ -5,4 +5,4 @@ Förmåga att vara part i en rättegång. Motsvaras av [Rättskapacitet](begrepp
 
 Se även [Processhabilitet](begrepp:Processhabilitet) och [Ställföreträdarskap](begrepp:Ställföreträdarskap)
 
-Källa: Heuman: Process- och straffätt för juridisk översiktskurs (ISBN 91-39-20368-9) s 17
+Källa: Heuman: Process- och straffätt för juridisk översiktskurs (ISBN 91-39-20368-9) s 17 f
