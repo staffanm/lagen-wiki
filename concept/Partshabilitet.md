@@ -5,4 +5,4 @@ Förmåga att vara part i en rättegång. Motsvaras av [Rättskapacitet](begrepp
 
 Se även [Ställföreträdare](begrepp:Ställföreträdare)
 
-Källa: Heuman: Process- och straffätt för juridisk översiktskurs (ISBN 91-39-20368-9) s 17 ff
+Källa: [Heuman, Process- och straffrätt](begrepp:Heuman, Process- och straffrätt) s 17 ff
