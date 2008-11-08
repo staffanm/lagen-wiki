@@ -5,4 +5,4 @@ Läran om: "Hur hade man skrivit avtalet om man kände till senare inträffade h
 
 Källa: Föreläsning 050202
 
-Kihlman, Förutsättningsläran � obligationsrättsliga och sakrättsliga aspekter: http://www.garde.se/swe/pdf/Forutsattningslaran.pdf
+Kihlman, Förutsättningsläran � obligationsrättsliga och sakrättsliga aspekter: http://www.garde.se/filer/forutsattningslaran.pdf
