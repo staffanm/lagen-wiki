@@ -1,8 +1,8 @@
 ---
 title: Straffteori
+categories:
+  - Straffrätt
 ---
-[rättsområde::Straffrätt](begrepp:rättsområde::Straffrätt)
-
 Inom straffrätten finns det olika teorier kring straffets syfte och funktion. De kan indelas i absoluta och relativa.
 
 De absoluta straffteorierna uppfattar straffet som ett uttryck för ett befintligt etiskt krav, och motiverar inte straffet med dess praktiska betydelse (exempelvis dess avskräckande effekt). Retributiva straffteorier (eller vedergällningsteorier), som utgår från att straffet utgör en sorts hämnd eller vedergällning, tillhör denna kategori.
