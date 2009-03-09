@@ -5,6 +5,6 @@ categories:
 ---
 Grunden för ett domstolsavgörande.
 
-Jfr [obiter dicta](begrepp:obiter dicta).
+Jfr [obiter dictum](begrepp:obiter dictum).
 
 
