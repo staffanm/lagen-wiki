@@ -1,9 +1,9 @@
 ---
 title: Preklusion
 ---
-Av latinets Proecludere (i förväg stänga, avskära, förhindra)
+Upphörande/förlust av en rätt
 
-Källa: Nordisk Familjebok, "Uggleupplagan" [s 159-160](http://runeberg.org/nfcb/0096.html)
+Inom fordringsrätt: En fordringsägare kan förlora sin rätt, om denne inte hörsammar en offentligt kallelse, exempelvis [kallelse på okända borgenärer](begrepp:kallelse på okända borgenärer).
 
 I processrätt: Förlust av rätt att anropa nytt processmaterial.
 
