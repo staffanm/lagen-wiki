@@ -1,6 +1,6 @@
 ---
 title: Borgenär
 ---
-Fordringsägare.
+[Fordring](begrepp:Fordring)sägare.
 
 
