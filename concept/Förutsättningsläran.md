@@ -1,8 +1,8 @@
 ---
 title: Förutsättningsläran
 ---
-Läran om: "Hur hade man skrivit avtalet om man kände till senare inträffade händelser när man skrev det?"
+En princip för avtalstolkning som utgår från hur man hade skrivit avtalet om man vid avtalstillfället hade känt till senare inträffade händelser.
 
-Källa: Föreläsning 050202
+# Externa länkar
 
-Kihlman, Förutsättningsläran � obligationsrättsliga och sakrättsliga aspekter: http://www.garde.se/filer/forutsattningslaran.pdf
+[Kihlman, Förutsättningsläran - obligationsrättsliga och sakrättsliga aspekter](http://www.garde.se/filer/forutsattningslaran.pdf)
