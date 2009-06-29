@@ -1,5 +1,7 @@
 ---
 title: Tradition
+categories:
+  - Sakrätt
 aliases:
   - Besittningsövergång
 ---
@@ -7,6 +9,4 @@ aliases:
 
 Vid ett köp ger tradition förvärvaren ett skydd mot säljarens borgenärer, vilket han annars inte har (undantaget konsumentköp).
 
-Se [SFS 1845:50 s. 1](http://lagen.nu/1845:50_s.1) och KKL 48 §.
-
-Källa: [Agell & Malmström, Civilrätt](begrepp:Agell & Malmström, Civilrätt) s 139 f. (9.2.4)
+Se exempelvis lösöresköpslagen och KKöpL 48 §.
