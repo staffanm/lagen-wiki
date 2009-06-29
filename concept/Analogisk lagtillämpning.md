@@ -1,5 +1,7 @@
 ---
 title: Analogisk lagtillämpning
+categories:
+  - Juridisk metod
 aliases:
   - Analogislut
 ---
