@@ -1,5 +1,7 @@
 ---
 title: Rättsteori
+categories:
+  - Juridisk metod
 ---
 Läran om rättssystemet
 
