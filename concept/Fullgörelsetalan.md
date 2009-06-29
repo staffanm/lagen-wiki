@@ -1,6 +1,8 @@
 ---
 title: Fullgörelsetalan
+categories:
+  - Processrätt
 ---
-Ett yrkande om att en part ska tvingas fullgöra något, exempelvis betala pengar enligt skuldebrev eller utge viss egendom.
+En talan för att få en annan part att fullgöra något.
 
-Källa: Heuman: Process- och straffätt för juridisk översiktskurs (ISBN 91-39-20368-9) s 35 f
+En fullgörelsetalan väcks av en part ([kärande](begrepp:kärande)n) för att få en annan part ([svarande](begrepp:svarande)n) att fullgöra något, exempelvis betala pengar enligt skuldebrev eller utge viss egendom. Om talan [bifalles](begrepp:bifallande) blir domen en [exekutionstitel](begrepp:exekutionstitel).
