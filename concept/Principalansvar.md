@@ -1,6 +1,6 @@
 ---
 title: Principalansvar
+categories:
+  - Skadeståndsrätt
 ---
-Arbetsgivarens (principalens) ansvar för skador som de anställda orsakar.
-
-
+[Arbetsgivaren](begrepp:Arbetsgivaren)s (principalens) ansvar för skador som de anställda orsakar.
