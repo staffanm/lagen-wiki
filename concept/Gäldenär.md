@@ -1,8 +1,8 @@
 ---
 title: Gäldenär
+categories:
+  - Fordringsrätt
 ---
 Den som har en skuld till en annan.
 
-Jfr [Borgenär](begrepp:Borgenär)
-
-
+Jfr [borgenär](begrepp:borgenär).
