@@ -1,6 +1,9 @@
 ---
 title: Oklarhetsregeln
+categories:
+  - Avtalsrätt
+  - Konsumenträtt
 ---
-Den i stort oskrivna rättsprincip som säger att oklarheter i avtalsvillkor bör tolkas till nackdel för den part som svarat för villkorsformulerandet. För konsumentförhållanden finns detta uttryckt i [1994:1512 10 §](begrepp:1994:1512 10 §), men den gäller även i andra förhållanden.
+Oklarheter i avtalsvillkor tolkas till nackdel för den som formulerat villkoret.
 
-Källa: [Agell & Malmström, Civilrätt](begrepp:Agell & Malmström, Civilrätt) s 115 f. (8.5.2)
+Den i stort oskrivna rättsprincip som säger att oklarheter i avtalsvillkor bör tolkas till nackdel för den part som svarat för villkorsformulerandet. För konsumentförhållanden finns detta uttryckt i AVKL 10 §, men den gäller även i andra förhållanden.
