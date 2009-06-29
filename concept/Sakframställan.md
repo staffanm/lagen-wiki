@@ -1,5 +1,7 @@
 ---
 title: Sakframställan
+categories:
+  - Processrätt
 aliases:
   - Sakframställning
 ---
