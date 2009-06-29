@@ -1,6 +1,7 @@
 ---
 title: Res derelictae
+categories:
+  - Latinska uttryck
+  - Sakrätt
 ---
-Övergivna saker.
-
-
+Övergivna [saker](begrepp:lös sak).
