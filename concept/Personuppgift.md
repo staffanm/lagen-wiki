@@ -1,15 +1,13 @@
 ---
 title: Personuppgift
+categories:
+  - IT-rätt
 aliases:
   - Personuppgifter
 ---
 Information som direkt eller indirekt handlar om en levande person.
 
-Begreppet personuppgifter defineras i 3 § personuppgiftslagen (1998:204):
-
-: All slags information som direkt eller indirekt kan hänföras till en fysisk person som är i livet.
-
-Eftersom personuppgiftslagen är den svenska implementationen av dataskyddsdirektivet (95/46/EG) är även dess definition, i artikel 2 a), av begreppet intressant:
+Begreppet defineras i 3 § personuppgiftslagen (1998:204). Eftersom personuppgiftslagen är den svenska implementationen av dataskyddsdirektivet (95/46/EG) är även dess definition, i artikel 2 a), av begreppet intressant:
 
 : varje upplysning som avser en identifierad eller identifierbar fysisk person (den registrerade). En identifierbar person är en person som kan identifieras, direkt eller indirekt, framför allt genom hänvisning till ett identifikationsnummer eller till en eller flera faktorer som är specifika för hans fysiska, fysiologiska, psykiska, ekonomiska, kulturella eller sociala identitet
 
