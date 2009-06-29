@@ -1,6 +1,9 @@
 ---
 title: Naturrätt
+categories:
+  - Latinska uttryck
+  - Rättsfilosofi
 aliases:
   - Lex naturalis
 ---
-\#REDIRECT [Lex naturalis](begrepp:Lex naturalis)
+Tanken att man ur naturen själv eller det mänskliga förnuftet skulle kunna härleda generella rättsliga principer.
