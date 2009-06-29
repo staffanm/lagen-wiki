@@ -1,5 +1,7 @@
 ---
 title: Preskription
+categories:
+  - Fordringsrätt
 aliases:
   - Preskription (fordran)
 ---
