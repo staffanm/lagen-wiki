@@ -1,5 +1,7 @@
 ---
 title: Accept
+categories:
+  - Avtalsrätt
 ---
 Ett jakande svar på ett [anbud](begrepp:anbud).
 
