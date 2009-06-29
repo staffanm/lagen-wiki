@@ -1,9 +1,11 @@
 ---
 title: Rättegångshinder
+categories:
+  - Processrätt
 ---
-En omständighet som förbjuder en viss domstol att ta upp en viss fråga (AKA processhinder).
+En omständighet som förbjuder en viss domstol att ta upp en viss fråga.
 
-Rättegångshinder kan vara avhjälpbara eller oavhjälpbara. Om en talan inte kan tas upp på grund av ett avhjälpbart rättegångshinder ska domstolen hjälpa den sökande att ändra talan så att den kan tas upp. Rättegångshinder ska som huvudregel tas upp av domstolen ex officio, men för att vissa rättegångshinder ska tillämpas krävs att endera parten påtalar dem.
+Rättegångshinder (även benämnda processhinder) kan vara avhjälpbara eller oavhjälpbara. Om en talan inte kan tas upp på grund av ett avhjälpbart rättegångshinder ska domstolen hjälpa den sökande att ändra talan så att den kan tas upp. Rättegångshinder ska som huvudregel tas upp av domstolen ex officio, men för att vissa rättegångshinder ska tillämpas krävs att endera parten påtalar dem.
 
 Man kan dela in hindren i fyra kategorier: De som har med domstolen, saken, parterna respektive talans väckande att göra.
 
