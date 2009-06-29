@@ -1,10 +1,12 @@
 ---
 title: Förordning (EU-rätt)
+categories:
+  - EG-rätt
 aliases:
   - Förordning (EG-rätt)
 ---
-Inom [EG-rätt](begrepp:EG-rätt) är en förordning en rättsakt som är omedelbart tillämpbar i medlemsländernas rättstillämpning. Framförallt administrativa föreskrifter är utfärdade som förordningar. Jämför [direktiv](begrepp:direktiv).
+En [EG-rätt](begrepp:EG-rätt)slig lagstiftning som är omedelbart tillämpbar i medlemsländerna
 
-Källa: [Agell & Malmström, Civilrätt](begrepp:Agell & Malmström, Civilrätt) s 38 (2.2)
+Framförallt administrativa föreskrifter är utfärdade som förordningar.
 
-Se även [Förordning (svensk rätt)](begrepp:Förordning (svensk rätt%29)
+Jämför [direktiv](begrepp:direktiv), se även [Förordning (svensk rätt)](begrepp:Förordning (svensk rätt%29)
