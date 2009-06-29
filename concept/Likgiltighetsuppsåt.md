@@ -1,7 +1,9 @@
 ---
 title: Likgiltighetsuppsåt
+categories:
+  - Straffrätt
 ---
-[rättsområde::Straffrätt](begrepp:rättsområde::Straffrätt)
+Att vara likgiltig till förverkligandet av en effekt och risken för detta.
 
 För att en handling ska kunna utgöra ett brott måste gärningsmannen ha haft [begrepp::uppsåt](begrepp:begrepp::uppsåt) till handlingen - det ska "ha varit meningen". Skillnaden mellan att göra något med vilje och att göra något av vårdslöshet är dock svår att dra -- man brukar prata om uppsåtets nedre gräns.
 
