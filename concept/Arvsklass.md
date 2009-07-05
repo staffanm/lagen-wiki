@@ -10,7 +10,7 @@ aliases:
   - Stirpalgrundsatsen
   - Tredje arvsklassen
 ---
-Arvsklass är de tre grupper som den avlidnes släktingar delas in i.
+Arvsklasser är de tre grupper som den avlidnes släktingar delas in i.
 
 I första arvsklassen finns den avlidnes barn ([bröstarvingar](begrepp:bröstarvingar)) eller, då barnet är avlidet innan förälderns bortgång, barnbarn som då träder i sin avlidna förälders ställe (s.k. [istadarätt](begrepp:istadarätt)).
 
