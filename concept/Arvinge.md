@@ -1,5 +1,7 @@
 ---
 title: Arvinge
+categories:
+  - Familjerätt
 aliases:
   - Arvtagare
 ---
