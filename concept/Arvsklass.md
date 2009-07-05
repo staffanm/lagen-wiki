@@ -18,4 +18,4 @@ I den andra arvsklassen finns den avlidnes föräldrar. Om endera föräldern ä
 
 I den tredje arvsklassen finns den avlidnes far- och morfärldrar. Om någon av dessa är avliden ärver dennes barn, det vill säga den avlidnes moster, morbror, faster eller farbror, sin avlidne förälders del. Kusiner ärver däremot inte (har ingen istadarätt), och inte heller andra släktingar.
 
-Möjligheten för att någon i en arvsklass ska ärva ska helt utömmas innan arvingar från nästa arvsklass kan komma ifråga. Har den avlidne exempelvis barn kommer således inga andra arvingar ifråga för arv.
+Möjligheten för att någon i en arvsklass ska ärva ska helt utömmas innan arvingar från nästa arvsklass kan komma ifråga. Har den avlidne exempelvis barn kommer således inga andra arvingar ifråga för arv. Alla arvingar inom samma arvsklass tar lika [lott](begrepp:arvslott).
