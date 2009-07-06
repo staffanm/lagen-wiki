@@ -7,7 +7,7 @@ aliases:
 ---
 Bodelning innebär att makarnas egendom delas upp mellan dem.
 
-Bodelning ska ske vid äktenskapsskillnad eller den ena makens död. Bodelning kan också ske under pågående äktenskap om makarna vill det.
+Bodelning ska ske vid äktenskapsskillnad eller den ena makens död, men kan också ske under pågående äktenskap om makarna vill det.
 
 Vid bodelning läggs värdet av makarnas [giftorättsgods](begrepp:giftorättsgods) samman efter att skulder dragits ifrån det totala värdet, och summan delas sedan i två. En makes [enskilda egendom](begrepp:enskild egendom) är undantagen från bodelningen och räknas alltså inte in.
 
