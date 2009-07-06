@@ -5,8 +5,10 @@ categories:
 ---
 Den person som för talan vid domstol för en person som inte själv har [processhabilitet](begrepp:processhabilitet).
 
-I fallet omyndiga personer är vanligtvis [förmyndarna](begrepp:förmyndare) ställföreträdare.
+För den som inte fyllt 18 år (underårig) ska finnas förmyndare. Dessa är då ställföreträdare för barnet.https://lagen.nu/1949:381#K10P2 För den som har förvaltare är denne ställföreträdare.https://lagen.nu/1949:381#K11P9
 
-I fallet aktiebolag är vanligtvis en eller flera styrelseledamöter eller firmatecknare ställföreträdare.
+När det gäller juridiska personer är styrelsen eller de får tecna den juridiska personens firma ställföreträdare. Behörigheten framgår av registreringsbevis.
 
-Att vara ställföreträdare är inte samma sak som att vara [ombud](begrepp:ombud).
+## Jämför
+
+[Rättegångsombud](begrepp:Rättegångsombud)
