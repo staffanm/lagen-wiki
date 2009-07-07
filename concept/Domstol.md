@@ -1,5 +1,7 @@
 ---
 title: Domstol
+categories:
+  - Processrätt
 aliases:
   - Förvaltningsdomstol
 ---
@@ -16,6 +18,10 @@ De allmänna domstolarna är *[Högsta domstolen](begrepp:Högsta domstolen) *[H
 ## Förvaltningsdomstolar
 
 Förvaltningsdomstolarna är *[Regeringsrätten](begrepp:Regeringsrätten) *[Kammarrätt](begrepp:Kammarrätt)erna *[Länsrätt](begrepp:Länsrätt)erna
+
+## Specialdomstolar
+
+Specialdomstolar har befogenhet att pröva [mål](begrepp:mål) och [ärende](begrepp:ärende)n inom ett rättsligt avgränsat område. Dessa är i Sverige *Arbetsdomstolen *Arrendenämnder *Fastighetsdomstolarna varav det finns en i varje län *Hyresnämnder *Marknadsdomstolen *Migrationsöverdomstolen och tre migrationsdomstolar *Miljööverdomstolen och fyra miljödomstolar *Patentbesvärsrätten *Riksrätt *Sjörättsdomstolar varav det finns sju *Tryckfrihetsdomstolar
 
 De allmänna domstolarna handlägger [brottmål](begrepp:brottmål), [tvistemål](begrepp:tvistemål) och ett antal domstols[ärende](begrepp:ärende)n. De grundläggande reglerna för detta finns i [rättegångsbalken](begrepp:rättegångsbalken) och [lagen om domstolsärenden](begrepp:lagen om domstolsärenden).
 
