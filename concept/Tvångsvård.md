@@ -1,4 +1,4 @@
 ---
 title: Tvångsvård
 ---
-Tvångsvård kan i Sverige ske med stöd av tre lagar * Lagen (1991:1128) om psykiatrisk tvångsvård ([LPT](begrepp:LPT))
+Tvångsvård kan i Sverige ske med stöd av tre lagar * Lagen (1991:1128) om psykiatrisk tvångsvård ([LPT](begrepp:LPT)) * Lagen (1988:870) om vård av missbrukare i vissa fall ([LVM](begrepp:LVM))
