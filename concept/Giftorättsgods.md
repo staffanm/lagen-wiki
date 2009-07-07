@@ -3,7 +3,7 @@ title: Giftorättsgods
 categories:
   - Familjerätt
 ---
-Giftorättsgods är det som tillhör den ena maken i ett äktenskap/registrerat partnerskap.
+Giftorättsgods är det som tillhör den ena maken i ett äktenskap/registrerat partnerskap och som omfattas av [giftorätt](begrepp:giftorätt).
 
 Parterna i ett äktenskap/registrerat partnerskap har äganderätt till det denne införskaffar eller hade med sig in i förhållandet. Har parterna införskaffat egendom gemensamt kan de vara gemensamma ägare, så kallad [samäganderätt](begrepp:samäganderätt).
 
