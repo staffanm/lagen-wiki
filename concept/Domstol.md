@@ -15,7 +15,7 @@ I Sverige finns Allmänna domstolar, förvaltningsdomstolar och [specialdomstol]
 
 De allmänna domstolarna är *[Högsta domstolen](begrepp:Högsta domstolen) *[Hovrätt](begrepp:Hovrätt)erna *[Tingsrätt](begrepp:Tingsrätt)erna
 
-De allmänna domstolarna handlägger [brottmål](begrepp:brottmål), [tvistemål](begrepp:tvistemål) och ett antal domstols[ärende](begrepp:ärende)n. De grundläggande reglerna för detta finns i [rättegångsbalken](begrepp:rättegångsbalken) och [lagen om domstolsärenden](begrepp:lagen om domstolsärenden).
+De allmänna domstolarna handlägger [brottmål](begrepp:brottmål), [tvistemål](begrepp:tvistemål) och ett antal domstols[ärende](begrepp:ärende)n. De grundläggande reglerna för detta finns i [rättegångsbalken](begrepp:SFS/1942:740) och [lagen om domstolsärenden](begrepp:lagen om domstolsärenden).
 
 ## Förvaltningsdomstolar
 
