@@ -9,6 +9,4 @@ För den som inte fyllt 18 år (underårig) ska finnas förmyndare. Dessa eller,
 
 För juridiska personer är styrelsen eller de som får teckna den juridiska personens [firma](begrepp:firma) ställföreträdare. Behörigheten framgår av [registreringsbevis](begrepp:registreringsbevis).
 
-## Jämför
-
-[Rättegångsombud](begrepp:Rättegångsombud)
+Om rättegångsombud se 12 kap. rättegångsbalken.
