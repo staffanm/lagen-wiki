@@ -7,7 +7,7 @@ aliases:
 ---
 Domstol är en speciell myndighet som som självständigt utövar dömande och rättsvårdande verksamhet.
 
-Den självständiga ställningen innebär att varken [regering](begrepp:regering)en, [riksdagen](begrepp:riksdagen)en, någon [myndighet](begrepp:myndighet) eller annan får bestämma hur en domstol ska döma i det enskilda fallet.
+Den självständiga ställningen innebär att varken [regering](begrepp:regering)en, [riksdag](begrepp:riksdag)en, någon [myndighet](begrepp:myndighet) eller annan får bestämma hur en domstol ska döma i det enskilda fallet.
 
 I Sverige finns Allmänna domstolar, förvaltningsdomstolar och [specialdomstol](begrepp:specialdomstol)ar.
 
