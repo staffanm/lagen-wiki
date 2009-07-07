@@ -7,4 +7,4 @@ Huvudregeln är att det enligt [10 kap. 1 § ÄB](https://lagen.nu/1958:637#K10)
 
 Är någon av sjukdom eller annat nödfall förhindrad att upprätta skriftligt testamente får han enligt [10 kap. 3 § ÄB](https://lagen.nu/1958:637#K10P3) förordna om sin kvarlåtenskap muntligen inför två vittnen eller ock utan vittnen genom egenhändigt skriven och undertecknad handling. Att sådant testamente betecknas holografiskt.
 
-Ett sådant testamente är ogiltigt, om testator sedan under tre månader varit i tillfälle att förordna om sin kvarlåtenskap genom skriftligt testamnte.
+Ett sådant testamente är ogiltigt, om testator sedan under tre månader varit i tillfälle att förordna om sin kvarlåtenskap genom skriftligt testamente.
