@@ -3,7 +3,7 @@ title: Omedelbarhetsprincipen
 categories:
   - Processrätt
 ---
-Rättens [dom](begrepp:dom) får bara grundas på vad som förekommit vid huvudförhandlingen enligt [17 kap. 2 § rättegångsbalken för tvistemål](https://lagen.nu/1942:740#K17P2) och [30 kap. 2§ i brottmål](https://lagen.nu/1942:740#K17P2).
+Rättens [dom](begrepp:dom) får bara grundas på vad som förekommit vid huvudförhandlingen enligt [17 kap. 2 § rättegångsbalken för tvistemål](https://lagen.nu/1942:740#K17P2) och [30 kap. 2 § för brottmål](https://lagen.nu/1942:740#K17P2).
 
 Rätten får enligt omedelbarhetsprincipen endast fästa avseende vid [bevisfakta](begrepp:bevisfakta) som direkt iakttagits av rätten under huvudförhandlingen eller bevisfakta som man kan sluta sig till från vad som direkt iakttagits. Om en part framför något under förberedelsen får alltså inte inte rätten ta hänsyn till detta om det inte upprepas under huvudförhandlingen. Principen syftar till att rätten ska ha bra förutsättningar att få överblick och kunna värdera hela bevismaterialet i ett sammanhang.
 
