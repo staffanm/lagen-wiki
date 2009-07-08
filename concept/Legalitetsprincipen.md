@@ -11,11 +11,13 @@ Ingen får straffas för en handling som vid tidpunkten inte var uttryckligen f�
 
 Ett grundläggande krav på rättsskipningen inom svensk straffrätt (synonym: [legalitetsgrundsatsen](begrepp:legalitetsgrundsatsen)), kan uttryckas som två förbud:Leijonhufvud/Wennberg, Straffansvar, s 22 ff
 
-\# Förbud mot [analog](begrepp:Analogisk lagtillämpning) strafflagstillämpning # Förbud mot retroaktiv strafflagstillämpning - grundlagstadgat genom RF 2:10 och utvecklat i BrP 5 §.
+\# Förbud mot [analog](begrepp:Analogisk lagtillämpning) strafflagstillämpning # Förbud mot retroaktiv strafflagstillämpning - grundlagstadgat genom RF 2:10 och utvecklat i [BrP 5 §](https://lagen.nu/1964:163#P5).
 
-Legalitetsprincipen har sedan 1994 lagstöd genom [1 kap. 1 § brottsbalken](https://lagen.nu/1962:700#K1P1).
+Legalitetsprincipen har sedan 1994 uttryckligt lagstöd genom [1 kap. 1 § brottsbalken](https://lagen.nu/1962:700#K1P1).
 
 Legalitetsprincipen kan även uttryckas genom det latinska uttrycket nulla poena sine lege (Inget straff utan lag).
+
+Sedan Sverige ratificerat Europeiska konventionen om skydd för de mänskliga rättigheterna och de grundläggande friheterna har genom [artikel 7](http://www.echr.coe.int/NR/rdonlyres/1009F7DB-87E3-4056-8E17-8A8A41768BA7/0/SwedishSuédois.pdf) ytterligare förstäkning skett.
 
 ### Noter
 
