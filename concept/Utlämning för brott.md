@@ -5,7 +5,7 @@ Utlämning för brott för brott kan ske från Sverige till annan utomnordisk st
 
 Lagen gäller inte för nordiska medborgare då istället [(1959:254) lagen](https://lagen) om utlämning för brott till Danmark, Finland, Island och Norge ska tillämpas.
 
-Lagen gäller inte heller om [lagen (2003:1156)](https://lagen.nu/2003:1156) om överlämnande från Sverige enligt en europeisk arresteringsorder är tillämplig i förhållande till den andra staten.
+Lagen gäller inte heller om [lagen (2003:1156)](https://lagen.nu/2003:1156) om överlämnande från Sverige enligt en [europeisk arresteringsorder](begrepp:europeisk arresteringsorder) är tillämplig i förhållande till den andra staten.
 
 Det är [regeringen](begrepp:regeringen) som beslutar om utlämning ska ske.
 
