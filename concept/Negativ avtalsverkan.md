@@ -1,7 +1,9 @@
 ---
 title: Negativ avtalsverkan
+categories:
+  - Avtalsrätt
 ---
-Huvudregeln i svensk rätt är att man måste acceptera ett avtal för att vara bunden av det. Man kan inte bli bunden på grund av sin passivitet.
+Huvudregeln i svensk rätt är att man måste acceptera ett avtal för att bli bunden av det. Man kan inte bli bunden på grund av sin passivitet.
 
 Negativa säljmetoder godtas som huvudregel alltså inte i svensk rätt. Ett exempel på detta är att försäljare ibland kan skicka fakturor (anbud) eller varor utan att man beställt någonting aktivt. Normalt behöver man då inte skicka tillbaka varan eller tacka nej för att slippa betala.
 
