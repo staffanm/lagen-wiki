@@ -1,0 +1,4 @@
+---
+title: Tvistemål
+---
+Tvistemål är den typ av mål som handläggs enligt reglerna för tvistemål i [10 - 18 kap](https://lagen.nu/1942:740#K10) och 42 kap
