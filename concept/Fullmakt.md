@@ -6,7 +6,7 @@ categories:
 ---
 En utfästelse om att en person har rätt att handla för en annan persons räkning
 
-En fullmakt är en utfästelse från en fullmaktsgivare till tredje man om att en särskilt utsedd person (fullmäktigen) har rätt att företa [rättshandling](begrepp:rättshandling)ar (exv slutande av avtal) i fullmaktsgivarens namn. Fullmäktigen medverkar till avtalets slutande, men det resulterande avtalet involverar bara fullmaktsgivaren och tredje man (10 § AvtL).
+En fullmakt är en utfästelse från en fullmaktsgivare/huvudman till tredje man om att en särskilt utsedd person (fullmäktigen) har rätt att företa [rättshandling](begrepp:rättshandling)ar (exv slutande av avtal) i fullmaktsgivarens namn. Fullmäktigen medverkar till avtalets slutande, men det resulterande avtalet involverar bara fullmaktsgivaren och tredje man (10 § 1 st AvtL).
 
 En fullmakt är vanligtvis skriftlig (och för vissa typer av avtal är den skriftliga formen obligatorisk enligt 27 § 2 st), men även [ställningsfullmakt](begrepp:ställningsfullmakt) och s.k. [§ 18-fullmakt](begrepp:§ 18-fullmakt) gäller.
 
