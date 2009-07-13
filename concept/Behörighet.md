@@ -3,6 +3,8 @@ title: Behörighet
 ---
 Fullmaktens yttre gräns. Vad fullmäktigen kan göra enligt fullmakten.
 
+Observera att behörighet och befogenhet sammanfaller vid så kallad [§ 18-fullmakt](begrepp:§ 18-fullmakt).
+
 Exempel: Fullmäktigen X får en skriftlig fullmakt av huvudmannen Y om att X är behörig att köpa en bil å Y:s vägnar för 75 000 kr.
 
 På vägen till bilaffären ringer Y till X och säger att bilen ska vara röd. Hos bilhandlaren (tredje man) köper X en grön bil för 75 000 kr. Bilhandlaren har ingen aning om att X har fått instruktioner om vilken färg bilen skulle ha av Y (han är i god tro).
