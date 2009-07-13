@@ -5,7 +5,7 @@ aliases:
 ---
 Det finns både fysiska och rättsliga tillbehör till fastighet.
 
-Till de rättsliga tillbehören räknas [servitut](begrepp:servitut), andel i [samfällighet](begrepp:samfällighet), [gemensamhetsanläggning](begrepp:gemensamhetsanläggning)och [ledningsrätt](begrepp:ledningsrätt).
+Till de rättsliga tillbehören räknas [servitut](begrepp:servitut), andel i [samfällighet](begrepp:samfällighet), [gemensamhetsanläggning](begrepp:gemensamhetsanläggning) och [ledningsrätt](begrepp:ledningsrätt).
 
 De fysiska tillbehören behandlas i JB 2 kap.
 
