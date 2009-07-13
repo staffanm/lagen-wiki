@@ -1,5 +1,7 @@
 ---
 title: Kvarlåtenskap
+categories:
+  - Familjerätt
 ---
 Den egendom som tillhört en avliden person.
 
