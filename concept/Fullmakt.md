@@ -10,7 +10,7 @@ En fullmakt är en utfästelse från en fullmaktsgivare/huvudman till tredje man
 
 En kritiserad men dock ofta använd definition av fullmakt är " en till tredje man riktad förklaring av huvudmannen varigenom denne åtar sig följderna av den rättshandling ställföreträdaren å hans vägnar företager".
 
-En fullmakt är ofta skriftlig (och för vissa typer av avtal är den skriftliga formen obligatorisk enligt 27 § 2 st), men även [ställningsfullmakt](begrepp:ställningsfullmakt) och s.k. [§ 18-fullmakt](begrepp:§ 18-fullmakt) gäller.
+En fullmakt är ofta skriftlig (för vissa typer av avtal är den skriftliga formen obligatorisk se 27 § 2 st AvtL), men även [ställningsfullmakt](begrepp:ställningsfullmakt) och s.k. [§ 18-fullmakt](begrepp:§ 18-fullmakt) gäller.
 
 En fullmakts gränser utgörs av fullmäktigens [befogenhet](begrepp:befogenhet) (vad han har rätt/kan att göra enligt fullmakten) och hans [behörighet](begrepp:behörighet) (vad han har rätt att/får göra enligt fullmaktsgivaren). För § 18-fullmakter är dessa alltid samma sak.
 
