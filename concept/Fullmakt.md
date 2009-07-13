@@ -16,8 +16,30 @@ En fullmakts gränser utgörs av fullmäktigens [befogenhet](begrepp:befogenhet)
 
 Om fullmäktigen går utöver sin behörighet blir det resulterande avtalet inte bindande för fullmaktsgivaren (såvida denne inte väljer att [ratihabera](begrepp:ratihabera) avtalet). Tredje man får då ett skadeståndsanspråk mot fullmäktigen (AvtL 25 §), om tredje man inte var i [ond tro](begrepp:ond tro). Typer av fullmakter:
 
-Självständiga fullmakter (dvs fullmakter där tredje man kan bilda sig en uppfattning om fullmaktens existens och innehåll) 1 [Ställningsfullmakt](begrepp:Ställningsfullmakt) se 10 § 2 st AvtL 2 Meddelande till tredje man se 13 § AvtL 3 Kunggörelsefullmakt 14 § AvtL 4 Skriftlig fullmakt 16 § AvtL 5 [Prokura](begrepp:Prokura) se även ProkuraL 6 [Toleransfullmakt](begrepp:Toleransfullmakt) (ej lagreglerad) 7 [Kombinationsfullmakt](begrepp:Kombinationsfullmakt) (ej lagreglerad)
+Självständiga fullmakter (dvs fullmakter där tredje man kan bilda sig en uppfattning om fullmaktens existens och innehåll)
 
-Osjälvständig fullmakt Uppdragsfullmakt se 18 § AvtL så kallad [§ 18-fullmakt](begrepp:§ 18-fullmakt)
+1 [Ställningsfullmakt](begrepp:Ställningsfullmakt) se 10 § 2 st AvtL
 
-Lagrum som reglerar förhållandet mellan de olika parterna: - Förhållandet huvudmannen/fullmaktsgivaren och tredje man - 10 § 1 st och 26 § AvtL - Förhållandet huvudmannen/fullmaktsgivaren och fullmäktigen - 18:4 HB - Förhållandet fullmäktigen och tredje man - 25 § AvtL
+2 Meddelande till tredje man se 13 § AvtL
+
+3 Kunggörelsefullmakt 14 § AvtL
+
+4 Skriftlig fullmakt 16 § AvtL
+
+5 [Prokura](begrepp:Prokura) se även ProkuraL
+
+6 [Toleransfullmakt](begrepp:Toleransfullmakt) (ej lagreglerad)
+
+7 [Kombinationsfullmakt](begrepp:Kombinationsfullmakt) (ej lagreglerad)
+
+Osjälvständig fullmakt
+
+Uppdragsfullmakt se 18 § AvtL så kallad [§ 18-fullmakt](begrepp:§ 18-fullmakt)
+
+Lagrum som reglerar förhållandet mellan de olika parterna:
+
+- Förhållandet huvudmannen/fullmaktsgivaren och tredje man - 10 § 1 st och 26 § AvtL
+
+- Förhållandet huvudmannen/fullmaktsgivaren och fullmäktigen - 18:4 HB
+
+- Förhållandet fullmäktigen och tredje man - 25 § AvtL
