@@ -1,7 +1,7 @@
 ---
 title: Behörighet
 ---
-Fullmaktens yttre gräns. Vad fullmäktigen kan göra enligt fullmakten.
+Fullmaktens yttre gräns. Vad fullmäktigen kan göra enligt fullmakten. Se 11 § AvtL.
 
 Observera att behörighet och befogenhet sammanfaller vid så kallad [§ 18-fullmakt](begrepp:§ 18-fullmakt). Se även [befogenhet](begrepp:befogenhet).
 
