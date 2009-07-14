@@ -7,7 +7,7 @@ Det finns både fysiska och rättsliga tillbehör till fastighet.
 
 Till de rättsliga tillbehören räknas [servitut](begrepp:servitut), andel i [samfällighet](begrepp:samfällighet), [gemensamhetsanläggning](begrepp:gemensamhetsanläggning) och [ledningsrätt](begrepp:ledningsrätt).
 
-De fysiska tillbehören behandlas i JB 2 kap. 1 § behandlar [allmänna fastighetstillbehör](begrepp:allmänna fastighetstillbehör), 2 § behandlar [byggnadstillbehör](begrepp:byggnadstillbehör), 3 § behandlar [industritillbehör](begrepp:industritillbehör).
+De fysiska tillbehören behandlas i JB 2 kap.: 1 § [allmänna fastighetstillbehör](begrepp:allmänna fastighetstillbehör), 2 § [byggnadstillbehör](begrepp:byggnadstillbehör) och 3 § [industritillbehör](begrepp:industritillbehör).
 
 Tillbehör kan vara omedelbara eller medelbara. De förstnämnda har direkt anknytning till marken medan de senare har indirekt anknytning till marken genom en byggnad.
 
