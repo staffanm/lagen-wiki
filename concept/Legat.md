@@ -9,4 +9,4 @@ Legaten återfinns i [11 kapitlet 10 § ÄB](https://lagen.nu/1958:637#K11) och 
 
 Legatet kan vara successivt, vilket innebär att någon tilldelas något i [testamente](begrepp:testamente) men att egendomen eller förmånen sedan ska gå till någon annan. Ett exempel är att A har upprättat ett testamente som ger B rätt att bo i en [fastighet](begrepp:fastighet) fram till B:s död, men som efter B:s frånfälle ska gå till C.
 
-[Testamentstagare](begrepp:Testamentstagare)n som mottar legatet kallas [legetarie](begrepp:legetarie).
+[Testamentstagare](begrepp:Testamentstagare)n som mottar legatet kallas [legatarie](begrepp:legatarie).
