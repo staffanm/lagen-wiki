@@ -1,5 +1,7 @@
 ---
 title: Brottmål
+categories:
+  - Processrätt
 ---
 Brottmål är beteckningen på den typ av mål där åtal väckts med påstående att den tilltalade eller de tilltalade begått brott.
 
