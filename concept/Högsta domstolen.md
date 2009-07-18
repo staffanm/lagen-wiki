@@ -1,5 +1,7 @@
 ---
 title: Högsta domstolen
+categories:
+  - Processrätt
 ---
 Högsta domstolen är överrätt i mål, som fullföljas från [hovrätt](begrepp:hovrätt).
 
