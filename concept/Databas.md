@@ -1,8 +1,12 @@
 ---
 title: Databas
+categories:
+  - IT-rätt
 ---
-Databas är en samling information som är organiserad och lagrad på dator eller server på ett sådant sätt att den är sökbar och så att enskilda delar av informationen är lätta att läsa, skriva ut eller kopiera.
+En samling information som är organiserad och lagrad på ett digitalt lagringsmedium.
 
-Begreppet databas används med delvis olika betydlser i olika delningar av lagstiftningen.
+Informationen i en databas är vanligtvis lagrad på ett sådant sätt att den är sökbar samt att enskilda delar av informationen är lätta att läsa, skriva ut eller kopiera.
 
-* YGL * TF 2 kap. * URL * PUL
+Begreppet databas används sällan i själva lagstiftningen, men ofta i diskussioner kring lagen. Några exempel på definitioner av databaser:
+
+* 1 kap. 1 § 4 st yttrandefrihetsgrundlagen: "Med databas avses i denna grundlag en samling av information lagrad för automatiserad behandling" * 2 kap. tryckfrihetsförordningen (lagtexten använder begreppet "En sammanställning av uppgifter ur en upptagning för automatiserad behandling") * 49 § upphovsrättslagen (lagtexten använder begreppet "En katalog, en tabell eller ett annat dylikt arbete i vilket ett stort antal uppgifter har sammanställts eller vilket är resultatet av en väsentlig investering") * 5 a § personuppgiftslagen (lagtexten använder begreppet "En samling av personuppgifter som har strukturerats för att påtagligt underlätta sökning efter eller sammanställning av personuppgifter")
