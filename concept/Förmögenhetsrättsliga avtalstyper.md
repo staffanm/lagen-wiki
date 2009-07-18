@@ -1,7 +1,7 @@
 ---
 title: Förmögenhetsrättsliga avtalstyper
 categories:
-  - :Avtalsrätt
+  - Speciell avtalsrätt
 ---
 Även om ett avtal i princip kan handla om vad som helst faller det vanligtvis in i någon etablerad avtalstyp. För vissa avtalstyper gäller olika skrivna eller oskrivna regler. Vanliga avtalstyper är:
 
