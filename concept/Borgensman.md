@@ -1,5 +1,7 @@
 ---
 title: Borgensman
+categories:
+  - Fordringsrätt
 aliases:
   - Löftesman
 ---
