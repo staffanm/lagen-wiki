@@ -1,5 +1,7 @@
 ---
 title: EU
+categories:
+  - Statsrätt
 ---
 EU är en akronym för Europeiska unionen, som är ett fördragsbundet samarbete mellan 27 europeiska stater.
 
