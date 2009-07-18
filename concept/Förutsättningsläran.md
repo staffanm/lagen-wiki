@@ -1,5 +1,7 @@
 ---
 title: Förutsättningsläran
+categories:
+  - Allmän avtalsrätt
 ---
 En princip för avtalstolkning som utgår från hur man hade skrivit avtalet om man vid avtalstillfället hade känt till senare inträffade händelser.
 
