@@ -1,5 +1,7 @@
 ---
 title: Anställningsförhållande
+categories:
+  - Arbetsrätt
 ---
 Ett avtal om arbetsskyldighet mot ersättning föreligger.
 
