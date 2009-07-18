@@ -1,5 +1,7 @@
 ---
 title: Borgen
+categories:
+  - Fordringsrätt
 ---
 Borgen innebär att en [fysisk person](begrepp:fysisk person) eller en [juridisk person](begrepp:juridisk person), åtar sig [ekonomi](begrepp:ekonomi)skt [ansvar](begrepp:ansvar) för någon annan, ofta betecknad [gäldenär](begrepp:gäldenär)en.
 
