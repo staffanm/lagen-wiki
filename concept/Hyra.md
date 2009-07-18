@@ -1,5 +1,7 @@
 ---
 title: Hyra
+categories:
+  - Speciell avtalsrätt
 ---
 [Upplåtelse](begrepp:Upplåtelse) av [nyttjanderätt](begrepp:nyttjanderätt) mot ersättning.
 
