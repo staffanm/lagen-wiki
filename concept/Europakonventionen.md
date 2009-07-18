@@ -1,5 +1,7 @@
 ---
 title: Europakonventionen
+categories:
+  - Statsrätt
 aliases:
   - EKMR
 ---
