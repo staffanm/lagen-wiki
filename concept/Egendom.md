@@ -1,5 +1,7 @@
 ---
 title: Egendom
+categories:
+  - Förmögenhetsrätt
 aliases:
   - Tillgång
 ---
