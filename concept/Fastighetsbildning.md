@@ -1,5 +1,7 @@
 ---
 title: Fastighetsbildning
+categories:
+  - Fastighetsrätt
 ---
 Regler om fastighetsbildning finns i fastighetsbildningslagen, FBL.
 
