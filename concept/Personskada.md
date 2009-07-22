@@ -1,5 +1,7 @@
 ---
 title: Personskada
+categories:
+  - Skadeståndsrätt
 ---
 Kroppslig eller psykisk skada som orsakats av någons handlande.
 
