@@ -1,7 +1,7 @@
 ---
 title: Domstolsärende
 categories:
-  - Juridik
+  - Processrätt
 ---
 Domstolsärende är sådana [rätt](begrepp:rätt)sliga angelägenheter, som inte ska handläggas som mål vid [domstol](begrepp:domstol). De upptas som ärenden och handläggs enligt lagen om domstolsärenden.
 
