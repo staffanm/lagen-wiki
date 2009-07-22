@@ -1,5 +1,7 @@
 ---
 title: Res judicata
+categories:
+  - Processrätt
 ---
 Res judicata är ett ursprungligen latinsk uttryck för att ett rättsligt förhållande redan är rättskraftigt avgjort.
 
