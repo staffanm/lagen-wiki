@@ -1,8 +1,10 @@
 ---
 title: Kontraheringstvång
+categories:
+  - Allmän avtalsrätt
 ---
-En näringsidkare kan under vissa förutsättningar få sin [avtalsfrihet](begrepp:avtalsfrihet) begränsad. Exempelvis får ett försäkringsbolag som hanterar trafikförsäkringar inte vägra att sluta försäkringsavtal med en fordonsägare om försäkringstypen är obligatorisk för fordonsägaren och denne faller inom bolagets kundkrets ([TSL 5 §](begrepp:TSL 5 §) 2 st). även när ett företag har en monopolställning kan kontraheringstvång gälla.
+En plikt att ingå avtal.
 
-(Förut kunde en bank inte vägra att ta emot inlåning från allmänheten enligt [BankrL 2:1](begrepp:BankrL 2:1), men sedan BankrL upphävdes verkar det inte finnas något motsvarande kontraheringstvång i den nya [Lag (2004:297) om bank- och finansieringsrörelse](http://lagen.nu/2004:297))
+En näringsidkare kan under vissa förutsättningar få sin [avtalsfrihet](begrepp:avtalsfrihet) begränsad. Exempelvis får ett försäkringsbolag som hanterar trafikförsäkringar inte vägra att sluta försäkringsavtal med en fordonsägare om försäkringstypen är obligatorisk för fordonsägaren och denne faller inom bolagets kundkrets (5 § 2 st trafikskadelagen (1975:1410)). Även när ett företag har en monopolställning kan kontraheringstvång gälla.
 
-De bestämmelser mot olaglig diskriminering som finns i [BrB 16:9](begrepp:BrB 16:9) och [Lagen om förbud mot diskriminering](begrepp:2003:307) utgör ett indirekt kontraheringstvång; näringsidkaren kan bli skadeståndsskyldig, men inte tvingas ingå avtal.
+De bestämmelser mot olaglig diskriminering som finns i BrB 16:9 och [Lagen om förbud mot diskriminering](begrepp:SFS/2008:567) utgör ett indirekt kontraheringstvång; näringsidkaren kan bli skadeståndsskyldig, men inte tvingas ingå avtal.
