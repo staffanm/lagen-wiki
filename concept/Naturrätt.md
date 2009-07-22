@@ -1,7 +1,6 @@
 ---
 title: Naturrätt
 categories:
-  - Latinska uttryck
   - Rättsfilosofi
 aliases:
   - Lex naturalis
