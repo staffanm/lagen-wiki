@@ -1,5 +1,7 @@
 ---
 title: Prisbasbelopp
+categories:
+  - Grundläggande begrepp
 aliases:
   - Basbelopp
 ---
