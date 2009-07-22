@@ -1,5 +1,7 @@
 ---
 title: Lagrumshänvisning
+categories:
+  - Juridisk metod
 ---
 Ett standardiserat sätt att skriva en hänvisning till en viss del av en lag.
 
