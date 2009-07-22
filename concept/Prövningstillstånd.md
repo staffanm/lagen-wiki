@@ -1,5 +1,7 @@
 ---
 title: Prövningstillstånd
+categories:
+  - Processrätt
 ---
 Prövningstillstånd är ett tillstånd som [hovrätt](begrepp:hovrätt) och [Högsta domstolen](begrepp:Högsta domstolen) i vissa fall måste bevilja för att ett [mål](begrepp:mål) eller [domstolsärende](begrepp:domstolsärende) ska kunna tas upp och prövas av domstolen.
 
