@@ -1,5 +1,7 @@
 ---
 title: Specialdomstol
+categories:
+  - Processrätt
 ---
 Specialdomstol är en domstol som har befogenhet att pröva [mål](begrepp:mål) och [ärende](begrepp:ärende)n inom ett rättsligt avgränsat område.
 
