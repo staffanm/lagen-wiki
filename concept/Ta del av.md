@@ -1,5 +1,7 @@
 ---
 title: Ta del av
+categories:
+  - Allmän avtalsrätt
 aliases:
   - Tagit del av
 ---
