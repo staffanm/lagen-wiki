@@ -1,7 +1,7 @@
 ---
 title: Myndighet
 categories:
-  - Juridiska termer
+  - Offentlig rätt
 ---
 Myndighet är samtliga statliga och kommunala organ med - undantag för beslutande politiska församlingar - är myndigheter enligt [regeringsformen](begrepp:regeringsformen).
 
