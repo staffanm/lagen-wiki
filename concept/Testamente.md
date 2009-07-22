@@ -1,5 +1,7 @@
 ---
 title: Testamente
+categories:
+  - Familjerätt
 ---
 Testamente är ett förordnande för dödsfall.
 
