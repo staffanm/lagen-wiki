@@ -1,5 +1,7 @@
 ---
 title: Kontraktsbrott
+categories:
+  - Allmän avtalsrätt
 aliases:
   - Avtalsbrott
 ---
