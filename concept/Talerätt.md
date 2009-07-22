@@ -1,5 +1,7 @@
 ---
 title: Talerätt
+categories:
+  - Processrätt
 ---
 Talerätt är rätten att föra talan inför [domstol](begrepp:domstol) i en rättslig angelägenhet.
 
