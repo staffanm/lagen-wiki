@@ -1,5 +1,7 @@
 ---
 title: Utlämning för brott
+categories:
+  - Straffrätt
 ---
 Utlämning för brott för brott kan ske från Sverige till annan utomnordisk stat enligt [lagen (1957:668)](https://lagen.nu/1957:668) om utlämning för brott.
 
