@@ -1,5 +1,8 @@
 ---
 title: Ursprungslandsprincipen
+categories:
+  - Offentlig rätt
+  - Internationella rättsförhållanden
 ---
 Lagen i aktörens land ska gälla.
 
