@@ -1,5 +1,7 @@
 ---
 title: Resning
+categories:
+  - Processrätt
 ---
 Resning är ett [extraordinärt rättsmedel](begrepp:extraordinära rättsmedel), det vill säga att huvudregeln är att [dom](begrepp:dom) som vunnit [laga kraft](begrepp:laga kraft) ska gälla.
 
