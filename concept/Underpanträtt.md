@@ -1,7 +1,7 @@
 ---
 title: Underpanträtt
 categories:
-  - :Fordringsrätt
+  - Fordringsrätt
 aliases:
   - Hypotekarisk panträtt
 ---
