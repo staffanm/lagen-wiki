@@ -1,7 +1,7 @@
 ---
 title: Avtal
 categories:
-  - Avtalsrätt
+  - Allmän avtalsrätt
 ---
 En rättsligt bindande överenskommelse mellan två parter om deras rättigheter och skyldigheter gentemot varandra.
 
