@@ -1,7 +1,7 @@
 ---
 title: Fastställelsetalan
 categories:
-  - Procesrätt
+  - Processrätt
 ---
 En talan för att slå fast om ett visst [rättsförhållande](begrepp:rättsförhållande) föreligger.
 
