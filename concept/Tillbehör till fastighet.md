@@ -1,5 +1,7 @@
 ---
 title: Tillbehör till fastighet
+categories:
+  - Fastighetsrätt
 aliases:
   - Fastighetstillbehör
 ---
