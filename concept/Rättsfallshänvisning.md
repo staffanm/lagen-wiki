@@ -1,5 +1,7 @@
 ---
 title: Rättsfallshänvisning
+categories:
+  - Juridisk metod
 ---
 Ett standardiserat sätt att skriva en hänvisning till ett visst rättsfall.
 
