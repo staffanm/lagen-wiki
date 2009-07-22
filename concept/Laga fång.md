@@ -1,5 +1,7 @@
 ---
 title: Laga fång
+categories:
+  - Förmögenhetsrätt
 ---
 Ett laga fång är ett lagligt sätt att få äganderätten till något. De kan delas upp på följande sätt:
 
