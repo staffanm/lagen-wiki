@@ -5,7 +5,7 @@ categories:
 ---
 Ett antagande som gäller så länge inget annat visats.
 
-Detta antagande följer av att ett annat förhållande har visats. Exempel på presumtioner i lagstiftningen:
+Exempel på presumtioner i lagstiftningen:
 
 * När ett barn föds av en gift kvinna presumeras den äkta mannen vara barnets far (FB 1:1) * När en arbetstagare har anställts av en arbetsgivare presumeras anställningen gälla tills vidare (3 § AvtL)
 
