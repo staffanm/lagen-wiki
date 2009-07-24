@@ -1,5 +1,7 @@
 ---
 title: Arbetsgivarprerogativet
+categories:
+  - Arbetsrätt
 aliases:
   - Arbetsledningsrätt
 ---
