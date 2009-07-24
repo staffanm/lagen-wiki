@@ -1,5 +1,7 @@
 ---
 title: Arbetsbrist
+categories:
+  - Arbetsrätt
 ---
 Relaterat till verksamheten, bygger på ekonomiska bedömningar.
 
