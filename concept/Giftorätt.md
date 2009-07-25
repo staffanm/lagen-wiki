@@ -3,8 +3,12 @@ title: Giftorätt
 categories:
   - Familjerätt
 ---
-En make har giftorätt till den andra makens egendom.
+Giftorätt innebär att en make har viss framtida rätt i den andre makens egendom.
 
-I 1:3 äktenskapsbalken står det att "[v]arje make råder över sin egendom och svarar för sina skulder". Det innebär att en makes ägande inte påverkas av äktenskap/registrerat partnerskap - den andre maken har ingen äganderätt till den första makens egendom. Däremot har makarna en ömsesidig rätt att dela varandras [giftorättsgods](begrepp:giftorättsgods) vid äktenskapets upplösning.
+Enligt [1 kap. 3 § äktenskapsbalken](https://lagen.nu/1987:230#K1P3) ska varje make råda över sin egendom och svara för sina skulder.
 
-En makes [enskilda egendom](begrepp:enskild egendom) omfattas inte av giftorätt och ingår därför inte i [bodelningen](begrepp:bodelning).
+Det innebär att en makes äganderätt inte påverkas av äktenskap eller registrerat partnerskap.
+
+Make har ingen äganderätt till den andre makens egendom. Däremot har makarna en ömsesidig rätt att dela varandras [giftorättsgods](begrepp:giftorättsgods) vid äktenskapets upplösning.
+
+En makes [enskilda egendom](begrepp:enskild egendom) omfattas inte av giftorätt och ingår därför inte - om inte makarna är överens om det - i [bodelningen](begrepp:bodelning).
