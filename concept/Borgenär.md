@@ -4,5 +4,3 @@ categories:
   - Sakrätt
 ---
 [Fordring](begrepp:Fordring)sägare.
-
-
