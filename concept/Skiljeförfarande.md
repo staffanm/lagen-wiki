@@ -13,4 +13,4 @@ Normalt utses tre skiljemän på så så sätt att vardera parten utser en skilj
 
 Om parterna inte kan komma överens gäller i Sverige [lagen (1999:116) om skiljeförfarande](https://lagen.nu/1999:116).
 
-Stockholms Handelskammare har ett internationellt etablerat [skiljedomsinstitut](http://www.sccinstitute.se/).
+Stockholms Handelskammare har ett internationellt etablerat [skiljedomsinstitut](http://www.sccinstitute.se/skiljeforfarande.aspx).
