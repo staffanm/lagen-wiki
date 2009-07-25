@@ -1,5 +1,7 @@
 ---
 title: Skiljeförfarande
+categories:
+  - Processrätt
 aliases:
   - Skiljedom
 ---
