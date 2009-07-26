@@ -13,4 +13,4 @@ Jämför [Brott mot tystnadsplikt](begrepp:Brott mot tystnadsplikt) och Justitie
 
 ## Jämför
 
-Kommentaren till [http://wiki.lagen.nu/index.php?title=SFS/1942:740&action=edit&section=29](http://wiki.lagen.nu/index.php?title=SFS/1942:740&action=edit&section=29)
+Kommentaren till [9 kap. 6 § RB](http://wiki.lagen.nu/index.php?title=SFS/1942:740&action=edit&section=29)
