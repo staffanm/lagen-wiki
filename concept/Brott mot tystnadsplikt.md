@@ -1,5 +1,7 @@
 ---
 title: Brott mot tystnadsplikt
+categories:
+  - Processrätt
 ---
 Brott mot tystnadsplikt är ett brott enligt [9 kap. 6 § rättegångsbalken](https://lagen.nu/1942:740#K9P6).
 
