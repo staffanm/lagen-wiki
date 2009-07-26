@@ -2,7 +2,7 @@
 title: Dataintrång
 categories:
   - IT-rätt
-  - Straffrätt
+  - Straffrättens speciella del
 ---
 Dataintrång är ett [brott](begrepp:brott) enligt [4 kap 9 c § brottsbalken](https://lagen.nu/1962:700#K4P9c).
 
