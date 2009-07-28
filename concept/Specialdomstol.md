@@ -9,9 +9,7 @@ I Sverige finns följande specialdomstolar:
 
 ## Arbetsdomstolen
 
-[Arbetsdomstolen](begrepp:Arbetsdomstolen) ligger i [Stockholm](begrepp:Stockholm) och är inte knuten till någon annan domstol. Arbetsdomstolens beslut får inte överklagas.
-
-Arbetsdomstolen prövar olika sorters tvister mellan [arbetstagare](begrepp:arbetstagare) och [arbetsgivare](begrepp:arbetsgivare) samt överklaganden från [tingsrätt](begrepp:tingsrätt)en om arbetstvisten inletts där (gäller arbetstagare som inte är fackligt anslutna).
+Arbetsdomstolen prövar tvister mellan [arbetstagare](begrepp:arbetstagare) och [arbetsgivare](begrepp:arbetsgivare) samt överklaganden från [tingsrätt](begrepp:tingsrätt)en om arbetstvisten inletts där, vilket är fallet om arbetstagaren som inte är fackligt ansluten.
 
 ## Marknadsdomstolen
 
