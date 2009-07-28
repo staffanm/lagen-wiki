@@ -53,4 +53,10 @@ Patentbesvärsrätten är en specialdomstol som efter överklagande överprövar
 
 Tryckfrihetsmål upptas av [tingsrätt](begrepp:tingsrätt) inom vars domkrets [länsstyrelse](begrepp:länsstyrelse) har sitt [säte](begrepp:säte) enligt [12 kap tryckfrihetsförordningen (1949:105)](https://lagen.nu/1949:105#K12).
 
-*Riksrätt *Sjörättsdomstolar varav det finns sju
+## Sjörättsdomstolar
+
+Sjörättsdomstol är sju av [Regeringen](begrepp:Regeringen) utsedda [tingsrätt](begrepp:tingsrätt)er, nämligen [Luleå](begrepp:Luleå), [Sundsvall](begrepp:Sundsvall)s, [Stockholm](begrepp:Stockholm)s, [Kalmar](begrepp:Kalmar), [Malmö](begrepp:Malmö), [Göteborg](begrepp:Göteborg)s och [Karlstad](begrepp:Karlstad) tingsrätter.https://lagen.nu/1994:1009#K21
+
+De mål som handläggs är i första hand sådana som avser förhållanden som regleras i [Sjölagen (1994:1009)](https://lagen.nu/1994:1009#K21P1).
+
+Både tvistemål och brottmål handlaggs av sjörättsdomstol även i de fall gärningen är belagd med strängare straff i [brottsbalken](begrepp:brottsbalken) enligt 21 kap 1 § [sjölagen](https://lagen.nu/1994:1009#K21P1).
