@@ -1,5 +1,7 @@
 ---
 title: Primär förhandlingsskyldighet
+categories:
+  - Arbetsrätt
 aliases:
   - Primära förhandlingsskyldigheten
 ---
