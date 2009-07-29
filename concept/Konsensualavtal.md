@@ -1,7 +1,7 @@
 ---
 title: Konsensualavtal
 categories:
-  - Avtalsrätt
+  - Allmän avtalsrätt
 ---
 Ett [avtal](begrepp:avtal) som är giltigt oavsett formen det ingåtts på.
 
