@@ -1,5 +1,7 @@
 ---
 title: Stämningsansökan
+categories:
+  - processrätt
 ---
 Stämningsansökan är det den handling som inges till domstol för att väcka [talan](begrepp:talan) eller väcka [åtal](begrepp:åtal).
 
