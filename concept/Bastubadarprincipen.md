@@ -16,3 +16,5 @@ Arbetsdomstolen fann dock att omplaceringen inte föll in under någon av dessa 
 En särskilt ingripande omplacering kan dock accepteras om arbetsgivaren kan visa godtagbara skäl till omplaceringen. Exempel på detta är samarbetssvårigheter, allvarliga konflikter eller om arbetsgivaren har varit tvungen att omplacera en arbetstagare p.g.a. sexuella trakasserier enligt diskrimineringslagen.
 
 Bastubadarprincipen utgör en arbetsrättslig grundsats och är även en [dold kollektivavtalsklausul](begrepp:dold klausul). Den är dock en undantagsmöjlighet och ska tillämpas restriktivt.
+
+Bastubadarprincipen har tillämpats i [AD 2006:12](https://lagen.nu/dom/ad/2006:12) där arbetsgivarsidan förlorade.
