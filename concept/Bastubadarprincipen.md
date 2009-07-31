@@ -17,4 +17,4 @@ En särskilt ingripande omplacering kan dock accepteras om arbetsgivaren kan vis
 
 Bastubadarprincipen utgör en arbetsrättslig grundsats och är även en [dold kollektivavtalsklausul](begrepp:dold klausul). Den är dock en undantagsmöjlighet och ska tillämpas restriktivt.
 
-Bastubadarprincipen har tillämpats i [AD 2006:12](https://lagen.nu/dom/ad/2006:12) där arbetsgivarsidan förlorade.
+Bastubadarprincipen har tillämpats i [AD 2006:12](https://lagen.nu/dom/ad/2006:12) där godtagbara skäl för omplacering inte ansågs föreligga.
