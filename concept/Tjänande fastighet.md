@@ -1,5 +1,7 @@
 ---
 title: Tjänande fastighet
+categories:
+  - Fastighetsrätt
 aliases:
   - Den tjänande fastigheten
 ---
