@@ -1,5 +1,7 @@
 ---
 title: Personliga skäl
+categories:
+  - Arbetsrätt
 ---
 En uppsägning p.g.a. personliga skäl ska som huvudregel grunda sig på en bedömning av arbetstagarens lämplighet till att utföra arbetet och inte på enstaka fall av misskötsamhet. Undantaget är om förseelsen är så pass allvarlig att arbetstagaren har visat sig klart olämplig till fortsatt arbete.
 
