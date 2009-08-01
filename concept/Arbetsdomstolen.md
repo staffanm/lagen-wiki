@@ -1,5 +1,8 @@
 ---
 title: Arbetsdomstolen
+categories:
+  - Arbetsrätt
+  - Processrätt
 ---
 Arbetsdomstolen är en specialdomstol med uppgift att pröva arbetsrättsliga tvister.
 
