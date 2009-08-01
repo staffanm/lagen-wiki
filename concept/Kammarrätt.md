@@ -1,5 +1,7 @@
 ---
 title: Kammarrätt
+categories:
+  - Processrätt
 ---
 Kammarrätt är administrativ domstol i andra instans.
 
