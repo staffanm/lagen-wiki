@@ -1,5 +1,7 @@
 ---
 title: Justitieråd
+categories:
+  - Processrätt
 ---
 Justitieråd är den titel ledamöterna i [Högsta domstolen](begrepp:Högsta domstolen) (HD) i Sverige och Finland har.
 
