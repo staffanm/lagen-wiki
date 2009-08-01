@@ -1,7 +1,7 @@
 ---
 title: Narkotika
 categories:
-  - Straffrätt
+  - Specialstraffrätt
 ---
 Narkotika är vad som klassats som narkotika av [Läkemedelsverket](http://www.lakemedelsverket.se/).
 
