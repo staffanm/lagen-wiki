@@ -1,7 +1,7 @@
 ---
 title: Fängelse
 categories:
-  - Straffrätt
+  - Straffrättens allmänna del
 ---
 Fängelse är ett straff enligt 1 kap. 3 § och 26 kap. brottsbalken.
 
