@@ -1,5 +1,7 @@
 ---
 title: Servitut
+categories:
+  - Fastighetsrätt
 ---
 Servitut som tillkommit genom avtal regleras i 14 kap. JB, andra bestämmelser om servitut finns i 7 kap. JB.
 
