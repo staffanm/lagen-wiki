@@ -1,5 +1,7 @@
 ---
 title: Härskande fastighet
+categories:
+  - Fastighetsrätt
 aliases:
   - Den härskande fastigheten
 ---
