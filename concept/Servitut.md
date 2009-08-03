@@ -5,7 +5,7 @@ categories:
 ---
 En rätt för en [fastighet](begrepp:fastighet) att i något avseende nyttja annan fastighet.
 
-Ägaren till en fastighet ([den härskande fastigheten](begrepp:den härskande fastigheten)) kan ges rätt att i visst hänseende nyttja eller på annat sätt ta i anspråk en annan fastighet ([den tjänande fastigheten](begrepp:den tjänande fastigheten)) eller byggnad eller annan anläggning på denna eller råda över den tjänande fastigheten i visst hänseende.
+Ägaren till en fastighet ([den härskande fastigheten](begrepp:härskande fastighet)) kan ges rätt att i visst hänseende nyttja eller på annat sätt ta i anspråk en annan fastighet ([den tjänande fastigheten](begrepp:tjänande fastighet)) eller byggnad eller annan anläggning på denna eller råda över den tjänande fastigheten i visst hänseende.
 
 Servitut kan skapas på tre sätt.
 
