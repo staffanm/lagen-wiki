@@ -3,7 +3,7 @@ title: Anställningsförhållande
 categories:
   - Arbetsrätt
 ---
-Ett avtal om arbetsskyldighet mot ersättning föreligger.
+Ett avtal om [arbetsskyldighet](begrepp:arbetsskyldighet) mot ersättning föreligger.
 
 Ett anställningsavtal kan dock ingås formlöst. Avtalsbundenhet kan uppstå genom att det finns en gemensam viljeförklaring enligt avtalslagens modell för anbud och accept. Den kan också uppkomma genom [konkludent handlande](begrepp:konkludent handlande), t.ex. genom att en person tillgodogör sig en annan persons arbetsinsats.
 
