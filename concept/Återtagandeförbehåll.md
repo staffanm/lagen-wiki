@@ -1,7 +1,7 @@
 ---
 title: Återtagandeförbehåll
 categories:
-  - Säkerhetsrätt
+  - Sakrätt
 ---
 Återtagandeförbehåll innebär att en säljare som säljer på kredit har förbehållit sig att under vissa förutsättningar kunna ta tillbaka varan om köparen inte fullgör betalningen i tid.
 
