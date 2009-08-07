@@ -6,8 +6,8 @@ categories:
 aliases:
   - Preskription (fordran)
 ---
-Upphörande av en [fordran](begrepp:fordran) efter att viss tid ([preskriptionstiden](begrepp:preskriptionstiden)) förflutit.
+Preskription är ett begrepp som används både inom [civilrätt](begrepp:civilrätt)en och inom [straffrätt](begrepp:straffrätt)en.
 
-Begreppet preskription används vanligen inom [civilrätt](begrepp:civilrätt)en, och innebär att en fordran upphör, vanligtvis efter tio år, såvida inte ett [preskriptionsavbrott](begrepp:preskriptionsavbrott) inträffar (2 § preskriptionslagen (1981:130)).
+Inom [civilrätt](begrepp:civilrätt)en innebär det att en fordran efter viss tid upphör att gälla mot [gäldenär](begrepp:gäldenär)en enligt 2 § preskriptionslagen (1981:130).
 
-Begreppet används även inom [straffrätt](begrepp:straffrätt)en, vanligtvis som en förkortning för [åtalspreskription](begrepp:åtalspreskription) eller vad brottsbalken kallar "bortfallande av påföljd", dvs den tidsperiod, räknat från brottet, efter vilken åtal inte får väckas. Reglerna för detta finns i BrB 35:1. Jfr dock [påföljdspreskription](begrepp:påföljdspreskription).
+Inom [straffrätt](begrepp:straffrätt)en betecknas preskription som "bortfallande av påföljd", dvs den tidsperiod, räknat från brottet, efter vilken åtal inte får väckas enligt BrB 35:1. Jfr också [påföljdspreskription](begrepp:påföljdspreskription).
