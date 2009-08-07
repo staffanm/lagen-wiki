@@ -25,7 +25,7 @@ I tvistemål:
 
 I brottmål:
 
-* Om gärningen redan prövats (I princip samma bedömning som res judicata, men utgår från bestämmelsen i RB 30:9) * Observera att preskription inte är ett rättegångshinder, utan en sakomständighet som ska prövas i målet.
+* Om gärningen redan prövats (I princip samma bedömning som res judicata, men utgår från bestämmelsen i RB 30:9) * Observera att [preskription](begrepp:åtalspreskription) inte är ett rättegångshinder, utan en sakomständighet som ska prövas i målet.
 
 ## Parterna
 
