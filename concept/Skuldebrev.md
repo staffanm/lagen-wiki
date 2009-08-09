@@ -10,7 +10,7 @@ Omk flera utfärdat skuldebrev utan förbehåll om delad ansvarighet är de [sol
 
 Om en av dem tvingas att betala får han [regressrätt](begrepp:regressrätt) mot de andra.
 
-Skuldebrev är antingen ställda * till innehavaren eller * till viss man eller order * så framgår det inte till vem det ställt.
+Skuldebrev är antingen ställda * till innehavaren eller * till viss man eller order * till någon vars namn inte framgår.
 
 Dessa skuldebrev kallas [löpande skuldebrev](begrepp:löpande skuldebrev) enligt 2 kap 11 §.
 
