@@ -2,7 +2,7 @@
 title: Skuldebrev
 categories:
   - Civilrätt
-  - Fordringrätt
+  - Fordringsrätt
 ---
 Skuldebrev är ett handling utfärdad och undertecknad enligt [1 kap. 1 § lagen (1936:81) om skuldebrev](https://lagen.nu/1936:81#p1).
 
