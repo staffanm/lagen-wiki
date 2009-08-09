@@ -6,7 +6,7 @@ categories:
 ---
 Skuldebrev är ett handling utfärdad och undertecknad enligt [1 kap. 1 § lagen (1936:81) om skuldebrev](https://lagen.nu/1936:81#p1).
 
-Omk flera utfärdat skuldebrev utan förbehåll om delad ansvarighet är de [solidarisk](begrepp:solidarisk)t betalningsskyldiga.
+Omk flera utfärdat skuldebrev utan förbehåll om delad ansvarighet är de [solidariskt betalningsskyldiga](http://sv.wikipedia.org/wiki/Solidarisk_betalningsskyldighet).
 
 Om en av dem tvingas att betala får han [regressrätt](begrepp:regressrätt) mot de andra.
 
