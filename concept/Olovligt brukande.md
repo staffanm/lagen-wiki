@@ -1,7 +1,7 @@
 ---
 title: Olovligt brukande
 categories:
-  - Brottsbalken
+  - Straffrätt
 ---
 Olovligt brukande är ett [brott](begrepp:brott) enligt 10 kap. 7 § [Brottsbalken](begrepp:Brottsbalken) (BrB).
 
