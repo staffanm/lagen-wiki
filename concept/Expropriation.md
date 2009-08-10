@@ -10,3 +10,5 @@ Expropriation får ske för att ge en [kommun](begrepp:kommun) möjlighet att f�
 Expropriation får ske för att ge staten möjlighet att förfoga över mark eller annat utrymme som genom en förestående ändring av [riksgräns](begrepp:riksgräns)en skall föras över till det andra landet enligt [2 kap. 6 a](https://lagen.nu/1972:719#K2P6a).
 
 Fråga om tillstånd till expropriation prövas av regeringen enligt [3 kap. 1 §](https://lagen.nu/1972:719#K3P1).
+
+Att viss begränsad ersättning ska utgå framgår av [Miljööverdomstolens beslut MÖD 2007:13](https://lagen.nu/dom/mod/2007:13).
