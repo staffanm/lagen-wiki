@@ -2,6 +2,7 @@
 title: Socialtjänst
 categories:
   - Kommunalrätt
+  - Socialrätt
 ---
 Socialtjänsten eller socialförvaltningen är i Sverige namnet på den [kommun](begrepp:kommun)ala [förvaltning](begrepp:förvaltning) som lyder under varje kommuns [socialnämnd](begrepp:socialnämnd) eller annan nämnd som svarar för det praktiska arbete som regleras av [socialtjänstlagen](https://lagen.nu/2001:453).
 
