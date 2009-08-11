@@ -3,8 +3,4 @@ title: Polisman
 categories:
   - Offentlig rätt
 ---
-\#REDIRECT [Polis](http://sv.wikipedia.org/wiki/Polisman_i_Sverige).
-
-### Jämför
-
-[Polismyndighet](begrepp:Polismyndighet)
+En tjänsteman hos en [polismyndighet](begrepp:polismyndighet).
