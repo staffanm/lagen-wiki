@@ -12,3 +12,7 @@ En EES-medborgare som är barn eller som har vistats i Sverige under de tio när
 En utlänning får utvisas ur Sverige, om han eller hon döms för ett[brott](begrepp:brott) som kan leda till [fängelse](begrepp:fängelse). En utlänning får också utvisas, om en [domstol](begrepp:domstol) undanröjer en [villkorlig dom](begrepp:villkorlig dom) eller [skyddstillsyn](begrepp:skyddstillsyn) som utlänningen har dömts till och dömer till annan påföljd.
 
 En utlänning får dock utvisas endast om han eller hon döms till svårare påföljd än [böter](begrepp:böter) och #om gärningen är av sådant slag och övriga omständigheter är sådana att det kan antas att han eller hon kommer att göra sig skyldig till fortsatt brottslighet här i landet, eller #om brottet med hänsyn till den skada, fara eller kränkning som det har inneburit för enskilda eller allmänna intressen är så allvarligt att han eller hon inte bör få stanna kvar [8 kap. 8 §](https://lagen.nu/2005:716#K8P8).
+
+### Jämför
+
+[Avvisning](begrepp:Avvisning)
