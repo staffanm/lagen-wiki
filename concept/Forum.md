@@ -2,6 +2,7 @@
 title: Forum
 categories:
   - Processrätt
+  - Latinska uttryck
 ---
 Forum är ursprungligen ett [latin](begrepp:latin)skt ord som betyder torg.
 
