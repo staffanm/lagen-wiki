@@ -1,6 +1,6 @@
 ---
 title: Misshandel
 categories:
-  - Brott
+  - Straffrättens speciella del
 ---
-Misshandel är ett [brott](begrepp:brott) enligt 3 kap 1 § [Brottsbalken](http://sv.wikipedia.org/wiki/Misshandel).
+Misshandel är ett [brott](begrepp:brott) enligt 3 kap 1 § brottsbalken.
