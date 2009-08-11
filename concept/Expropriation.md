@@ -17,8 +17,8 @@ Både staten, kommuner och enskilda kan begära expropriation genom ansökan til
 
 Fastigheter som ägs av staten kan inte exproprieras.
 
-För att expropriation ska beviljas krävs dels att den sker för ett berättigat ändamål. I ExprL 2 kap. finns en uttömande uppräkning av expropriationsändamål, exempelvis kommmunala behov av tätbebyggelse (2:1), allmänt behov av transport eller annan kommunikation (2:2), allmänna behov av elkraft (2:3), utrymme för näringsverksamhet av stor betydelse (2:4), m.fl.
+För att expropriation ska beviljas krävs dels att den sker för ett berättigat ändamål. I ExprL 2 kap. finns en uttömande uppräkning av expropriationsändamål, exempelvis kommmunala behov av tätbebyggelse (ExprL 2:1), allmänt behov av transport eller annan kommunikation (ExprL 2:2), allmänna behov av elkraft (ExprL 2:3), utrymme för näringsverksamhet av stor betydelse (ExprL 2:4), m.fl.
 
-Utöver detta ska även en proportionalitetsbedömning ske: Det krävs att ändamålet inte bör tillgodoses på annat sätt, samt att olägenheterna av expropriationen inte överväger de fördelar som kan vinnas genom den (2:14). Eftersom expropriation är ett intrång i äganderätten krävs även enligt 2 kap. 18 § regeringsformen att expropriationen sker för tillgodose angelägna allmänna intressen.
+Utöver detta ska även en proportionalitetsbedömning ske: Det krävs att ändamålet inte bör tillgodoses på annat sätt, samt att olägenheterna av expropriationen inte överväger de fördelar som kan vinnas genom den (ExprL 2:14). Eftersom expropriation är ett intrång i äganderätten krävs även enligt 2 kap. 18 § regeringsformen att expropriationen sker för tillgodose angelägna allmänna intressen.
 
 Den vars fastighet exproprieras ska ersättas ekonomiskt. Enligt huvudregeln ska ersättningen motsvara marknadsvärdet på fastigheten (ExprL 4:1). Om endast en del av fastigheten exproprieras ska ersättningen motsvara det minskade marknadsvärdet för den kvarvarande fastigheten.
