@@ -1,7 +1,7 @@
 ---
 title: Inbördes testamente
 categories:
-  - Familjerätt
+  - Successionsrätt
 ---
 Inbördes testamente är beteckningen på ett [testamente](begrepp:testamente) där två eller flera personer i ett gemensamt testamente förordnar om sin egendom.
 
