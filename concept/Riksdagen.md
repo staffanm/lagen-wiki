@@ -7,4 +7,4 @@ aliases:
 ---
 Riksdagen är folkets främsta företrädare enligt 1 kap. 4 § regeringsformen.
 
-För riksdagens arbete gäller [SFS/1974:153|Riksdagsordningen].
+För riksdagens arbete gäller [Riksdagsordningen](begrepp:SFS/1974:153).
