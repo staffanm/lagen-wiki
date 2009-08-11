@@ -2,10 +2,10 @@
 title: Trolovning
 categories:
   - Rättshistoria
-  - Familjerätt
+  - Äktenskapsrätt
 ---
-[Trolovning](http://sv.wikipedia.org/wiki/Trolovning) är ett rättshistoriskt begrepp som innebar löfte att ingå äktenskap.
+Trolovning är ett rättshistoriskt begrepp som innebar löfte att ingå äktenskap.
 
-### Jämför
+### Se även
 
-* [Trolovning](http://aforum.genealogi.se/discus/messages/22540/75714.html)
+* Diskussion på Nättidningen RÖTTERs Anbytarforum: [Trolovning, bekräftelse och separation, juridiskt eller kyrkligt avtal?](http://aforum.genealogi.se/discus/messages/22540/75714.html)
