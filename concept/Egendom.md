@@ -1,7 +1,7 @@
 ---
 title: Egendom
 categories:
-  - Förmögenhetsrätt
+  - Sakrätt
 aliases:
   - Tillgång
 ---
