@@ -1,4 +1,6 @@
 ---
 title: Granne
+categories:
+  - Fastighetsrätt
 ---
-Grannfastighetens ägare eller nyttjare.
+[Grannfastighet](begrepp:Grannfastighet)ens ägare eller nyttjare.
