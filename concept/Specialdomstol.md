@@ -1,6 +1,7 @@
 ---
 title: Specialdomstol
 categories:
+  - Utlänningsrätt
   - Processrätt
 ---
 Specialdomstol är en domstol som har befogenhet att pröva [mål](begrepp:mål) och [ärende](begrepp:ärende)n inom ett rättsligt avgränsat område.
@@ -25,9 +26,11 @@ Miljödomstolarna handlägger mål och ärenden gällande bland annat tillstånd
 
 ## Migrationsdomstolar samt Migrationsöverdomstolen
 
-Det finns tre [migrationsdomstolar](begrepp:Migrationsdomstolen) i landet och dessa är knutna till [Länsrätten i Stockholms län](begrepp:Länsrätten i Stockholms län), [Länsrätten i Göteborg](begrepp:Länsrätten i Göteborg) samt [Länsrätten i Skåne län](begrepp:Länsrätten i Skåne län). Migrationsöverdomstolen är knuten till [Kammarrätten](begrepp:Kammarrätten) i Stockholm. Migrationsöverdomstolens beslut får inte överklagas.
+Det finns tre [migrationsdomstol](begrepp:migrationsdomstol) i landet och dessa är knutna till [länsrätt](begrepp:länsrätt)en i Stockholms län, länsrätten i Göteborg samt länsrätten i Skåne län. Migrationsöverdomstolen är knuten till [kammarrätt](begrepp:kammarrätt)en i Stockholm.
 
-Migrationsdomstolarna handlägger överklaganden av beslut från [Migrationsverket](begrepp:Migrationsverket) samt [Rikspolisstyrelsen](begrepp:Rikspolisstyrelsen) gällande utlänningars rätt till vistelse i landet med mera, samt gällande ansökningar om svenskt medborgarskap.
+Migrationsöverdomstolens beslut får inte överklagas.
+
+Migrationsdomstolarna handlägger överklaganden av beslut från [Migrationsverket](begrepp:Migrationsverket) samt [Rikspolisstyrelsen](begrepp:Rikspolisstyrelsen) gällande [utlänning](begrepp:utlänning)ars rätt till vistelse i landet med mera samt gällande ansökningar om svenskt medborgarskap.
 
 ## Hyresnämnd
 
