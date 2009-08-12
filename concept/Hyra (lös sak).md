@@ -3,7 +3,7 @@ title: Hyra (lös sak)
 categories:
   - Obligationsrätt
 ---
-Att [upplåta](begrepp:upplåtelse) [nyttjanderätt](begrepp:nyttjanderätt)en til en [[sak] mot ersättning.
+Att [upplåta](begrepp:upplåtelse) [nyttjanderätt](begrepp:nyttjanderätt)en til en [sak](begrepp:sak) mot ersättning.
 
 I äldre lagtexter kallas detta saklega. Själva begreppet hyra används både för avtalet och för den avgift som erläggs.
 
