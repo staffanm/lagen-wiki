@@ -3,6 +3,6 @@ title: Tredskodom
 categories:
   - Processrätt
 ---
-När en tvist avgörs helt enligt [käranden](begrepp:käranden)s yrkanden, beroende på att [svaranden](begrepp:svaranden) inte avgett skriftligt svaromål eller inställt sig vid en förberedelseförhandling.
+När en tvist avgörs helt enligt [kärande](begrepp:kärande)ns yrkanden, beroende på att [svarande](begrepp:svarande)n inte avgett skriftligt svaromål eller inställt sig vid en förberedelseförhandling.
 
-En tredskodom kan överklagas genom [återvinning](begrepp:återvinning).
+En tredskodom kan omprövas genom [återvinning](begrepp:återvinning).
