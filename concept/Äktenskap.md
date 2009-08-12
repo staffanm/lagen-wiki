@@ -1,5 +1,7 @@
 ---
 title: Äktenskap
+categories:
+  - Äktenskapsrätt
 ---
 En formbunden överenskommelse mellan två personer om att leva tillsammas som [makar](begrepp:make).
 
