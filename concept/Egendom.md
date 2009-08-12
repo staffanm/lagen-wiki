@@ -1,7 +1,7 @@
 ---
 title: Egendom
 categories:
-  - Sakrätt
+  - Grundläggande begrepp
 aliases:
   - Tillgång
 ---
