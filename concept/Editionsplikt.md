@@ -1,5 +1,7 @@
 ---
 title: Editionsplikt
+categories:
+  - Processrätt
 ---
 Skyldighet att lämna ut eller visa upp en skriftlig handling.
 
