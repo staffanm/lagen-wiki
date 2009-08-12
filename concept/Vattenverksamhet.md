@@ -9,4 +9,6 @@ De viktigaste bestämmelserna finns i [11 kap. Miljöbalken](https://lagen.nu/19
 
 Hänsyn ska tas till uppsatta miljömål och till fiskeintresset.
 
+Anläggande av mikrokraftverk har inte ansetts samhällsekonomiskt motiverat med hänsyn till den ringa fördelen, jämfört med de skador som anläggningen medför för naturvärdena i området enligt [MÖD 2000:37](http://ferenda.lagen.nu/dom/mod/2000:37).
+
 [Miljöprocessutredningen](begrepp:Miljöprocessutredningen) har lagt fram ett betänkande kring vattenkraft och annan vattenverksamhet den 28 april 2009 i [SOU 2009:42](http://www.regeringen.se/sb/d/11597/a/125366).
