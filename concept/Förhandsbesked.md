@@ -1,5 +1,9 @@
 ---
 title: Förhandsbesked
+categories:
+  - Skatterätt
+  - Fastighetsrätt
+  - Allmän förvaltningsrätt
 ---
 Ett [myndighetsbeslut](begrepp:myndighetsbeslut) som, även fast det inte har vunnit [laga kraft](begrepp:laga kraft), är bindande för myndigheten i den mening att det inte får ändras till det sämre för den enskilde.
 
