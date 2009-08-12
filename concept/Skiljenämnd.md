@@ -14,7 +14,7 @@ En nackdel med skiljenämnd är att det blir dyrt eftersom förlorande part får
 
 I allmänhet går det till så att vardera parten väljer en skiljeman. Dessa två valda enas sedan om en tredje skiljeman som blir ordförande. Parterna kan även komma överens om att endast välja en skiljeman. Parterna kan också avtala bort rätten att överklaga skiljedom.
 
-I Sverige gäller lagen [(1999:116)](https://lagen.nu/1999:116) om skiljeförfarande, som dock är icke tvingande lagstiftning.
+I Sverige gäller [lagen om skiljeförfarande](begrepp:SFS/1999:116), som dock är [dispositiv](begrepp:Dispositiv lag).
 
 Parterna får bestämma hur många skiljemännen skall vara och hur de skall utses.
 
