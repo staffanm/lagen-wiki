@@ -11,4 +11,4 @@ Har en förhandling i en rättegång hållits bakom stängda dörrar och har det
 
 ## Jämför
 
-*Kommentaren till [9 kap. 6 § RB](http://wiki.lagen.nu/index.php?title=SFS/1942:740&action=edit&section=29) *[Brott mot tystnadsplikt](begrepp:Brott mot tystnadsplikt) *Justitiekanslerns [utredning](http://www.jk.se/Beslut/XmlToHtml.asp?XML=Files/1708-04-71.xml&XSL=../xsl/JK_Beslut.xsl) om en [advokat](begrepp:advokat), som senare dömdes av Borås [tingsrätt](begrepp:tingsrätt).
+* Kommentaren till [9 kap. 6 § RB](begrepp:SFS/1942:740) * [Brott mot tystnadsplikt](begrepp:Brott mot tystnadsplikt) * Justitiekanslerns [utredning](http://www.jk.se/Beslut/XmlToHtml.asp?XML=Files/1708-04-71.xml&XSL=../xsl/JK_Beslut.xsl) (Dnr 1708-04-71) om en [advokat](begrepp:advokat), som senare dömdes av Borås [tingsrätt](begrepp:tingsrätt).
