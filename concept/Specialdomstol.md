@@ -57,4 +57,4 @@ Sjörättsdomstol är sju av [Regeringen](begrepp:Regeringen) utsedda [tingsrät
 
 De mål som handläggs är i första hand sådana som avser förhållanden som regleras i [sjölagen (1994:1009)](https://lagen.nu/1994:1009#K21P1).
 
-Både tvistemål och brottmål handläggs av sjörättsdomstol även i de fall gärningen är belagd med strängare straff i [brottsbalken](begrepp:brottsbalken) enligt 21 kap 1 § [sjölagen](https://lagen.nu/1994:1009#K21P1).
+Både tvistemål och brottmål handläggs av sjörättsdomstol även i de fall gärningen är belagd med strängare straff i [brottsbalken](begrepp:brottsbalken) än enligt 21 kap 1 § [sjölagen](https://lagen.nu/1994:1009#K21P1).
