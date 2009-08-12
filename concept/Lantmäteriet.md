@@ -1,5 +1,7 @@
 ---
 title: Lantmäteriet
+categories:
+  - Fastighetsrätt
 ---
 En statlig myndighet som ansvarar för geografisk information, fastighetsindelning, det geodetiska referenssystemet samt fastställer ortsnamn.
 
