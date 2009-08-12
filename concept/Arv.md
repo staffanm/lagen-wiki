@@ -22,9 +22,7 @@ Arvet går i första hand till [bröstarvingarna](begrepp:bröstarvinge), det vi
 
 Om det inte finns någon arvinge i arvsklass 1 går arvet till den avlidnes [föräldrar](begrepp:förälder), syskon eller syskonens barn (arvsklass 2) enligt [2 kap. 2 § ÄB](https://lagen.nu/1958:637#K2P2).
 
-Om det inte finns några i arvsklass 2 går arvet till den avlidnes far- och morföräldrar och deras avkomlingar (arvsklass 3) enligt [2 kap. 3 § ÄB](https://lagen.nu/1958:637#K2P3).
-
-Kusiner har ingen arvsrätt.
+Om det inte finns några i arvsklass 2 går arvet till den avlidnes far- och morföräldrar och deras avkomlingar (arvsklass 3) enligt [2 kap. 3 § ÄB](https://lagen.nu/1958:637#K2P3). Kusiner har ingen arvsrätt.
 
 Bröstarvingarna delar arvet lika om den avlidne var ogift och inte skrivit testamente. Om den avlidna testamenterat bort kvarlåtenskap har egna barn ändå alltid rätt till sin [laglott](begrepp:laglott). Laglotten är hälften av arvslotten, som är den del som arvingen skulle ha ärvt utan testamente.
 
