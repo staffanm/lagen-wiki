@@ -7,7 +7,7 @@ aliases:
 ---
 Domstol är en speciell myndighet som som självständigt utövar dömande och rättsvårdande verksamhet.
 
-Den självständiga ställningen innebär att varken [regering](begrepp:regering)en, [riksdag](begrepp:riksdag)en, någon [myndighet](begrepp:myndighet) eller annan får bestämma hur en domstol ska döma i det enskilda fallet.
+Den självständiga ställningen innebär att varken [regeringen](begrepp:regeringen), [riksdagen](begrepp:riksdagen), någon [myndighet](begrepp:myndighet) eller annan får bestämma hur en [domstol](begrepp:domstol) ska döma i det enskilda fallet.
 
 I Sverige finns [allmänna domstolar](begrepp:allmän domstol), [förvaltningsdomstol](begrepp:förvaltningsdomstol)ar och [specialdomstol](begrepp:specialdomstol)ar.
 
@@ -15,16 +15,16 @@ I Sverige finns [allmänna domstolar](begrepp:allmän domstol), [förvaltningsdo
 
 De allmänna domstolarna är *[Högsta domstolen](begrepp:Högsta domstolen) *[Hovrätt](begrepp:Hovrätt)erna *[Tingsrätt](begrepp:Tingsrätt)erna
 
-De allmänna domstolarna handlägger [brottmål](begrepp:brottmål), [tvistemål](begrepp:tvistemål) och ett antal [domstolsärende](begrepp:domstolsärende)n. De grundläggande reglerna för detta finns i [rättegångsbalken](begrepp:SFS/1942:740) och [lagen om domstolsärenden](begrepp:SFS/1996:242) (ärendelagen).
+De allmänna domstolarna handlägger [brottmål](begrepp:brottmål), [tvistemål](begrepp:tvistemål) och ett antal [domstolsärende](begrepp:domstolsärende)n. De grundläggande reglerna för dessa finns i [rättegångsbalken](begrepp:SFS/1942:740) och [lagen om domstolsärenden](begrepp:SFS/1996:242) ([ärendelagen](begrepp:ärendelagen)).
 
 ## Förvaltningsdomstolar
 
 Förvaltningsdomstolarna är *[Regeringsrätten](begrepp:Regeringsrätten) *[Kammarrätt](begrepp:Kammarrätt)erna *[Länsrätt](begrepp:Länsrätt)erna
 
-De allmänna förvaltningsdomstolarna handlägger mål som rör tvister mellan enskilda personer och förvaltningsmyndigheter. Sådana mål är skattemål, försäkringskassans beslut, kommunala beslut, prövning av beslut enligt [LVU](begrepp:LVU), [LPT](begrepp:LPT) och [LVM](begrepp:LVM). Reglerna för handläggningen i förvaltningsdomstol finns i första hand i [förvaltningsprocesslagen](begrepp:SFS/1971:291).
+De allmänna förvaltningsdomstolarna handlägger mål som rör tvister mellan enskilda personer och förvaltningsmyndigheter. Sådana mål är skattemål, [försäkringskassa](begrepp:försäkringskassa)ns [beslut](begrepp:beslut), kommun|kommunala beslut]].
 
 ## Specialdomstolar
 
-Specialdomstolar har befogenhet att pröva [mål](begrepp:mål) och [ärende](begrepp:ärende)n inom ett rättsligt avgränsat område. Dessa är i Sverige *[Arbetsdomstolen](begrepp:Arbetsdomstolen) *Arrendenämnder *Fastighetsdomstolarna varav det finns en i varje län *[Hyresnämnd](begrepp:Hyresnämnd)er *Marknadsdomstolen *Migrationsöverdomstolen och tre migrationsdomstolar *Miljööverdomstolen och fyra miljödomstolar *Patentbesvärsrätten *Riksrätt *Sjörättsdomstolar varav det finns sju *Tryckfrihetsdomstolar
+Specialdomstolar har befogenhet att pröva [mål](begrepp:mål) och [ärende](begrepp:ärende)n inom ett rättsligt avgränsat område. Dessa är i Sverige *[Arbetsdomstolen](begrepp:Arbetsdomstolen) *[Arrendenämnd](begrepp:Arrendenämnd)er *[Fastighetsdomstol](begrepp:Fastighetsdomstol)arna varav det finns en i varje län *[Hyresnämnd](begrepp:Hyresnämnd)er *[Marknadsdomstolen](begrepp:Marknadsdomstolen) *Migrationsöverdomstolen och tre [migrationsdomstol](begrepp:migrationsdomstol)ar *Miljööverdomstolen och fyra [miljödomstol](begrepp:miljödomstol)ar *[Patentbesvärsrätten](begrepp:Patentbesvärsrätten) *[Riksrätt]] *[Sjörättsdomstol](begrepp:Sjörättsdomstol)ar varav det finns sju *[Tryckfrihetsdomstol](begrepp:Tryckfrihetsdomstol)ar
 
-[Domstolsverket](begrepp:Domstolsverket) är central förvaltningsmyndighet för Sveriges domstolar.
+[Domstolsverket](begrepp:Domstolsverket) är central förvaltnings[myndighet](begrepp:myndighet) för Sveriges [domstol](begrepp:domstol)ar.
