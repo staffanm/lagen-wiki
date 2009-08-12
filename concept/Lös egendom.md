@@ -1,7 +1,7 @@
 ---
 title: Lös egendom
 categories:
-  - Sakrätt
+  - Grundläggande begrepp
 ---
 Alla [förmögenhetstillgångar](begrepp:Förmögenhetsrätter) som inte är [fast egendom](begrepp:fast egendom).
 
