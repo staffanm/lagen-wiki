@@ -5,7 +5,7 @@ categories:
 aliases:
   - Skiljedom
 ---
-Skiljeförfarande är ett avgörande av en tvist som avgörs av skiljeman eller skiljemän istället för av domstol.
+Skiljeförfarande är ett avgörande av en tvist som avgörs av skiljeman eller [skiljenämnd](begrepp:skiljenämnd) istället för av [domstol](begrepp:domstol).
 
 Förfarandet är ofta inskrivet i en skiljeklausul i t.ex. ett avtal mellan parterna eller i ett aktiebolags bolagsordning.
 
