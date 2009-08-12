@@ -3,4 +3,6 @@ title: EU-rätt
 categories:
   - Internationell rätt
 ---
-EU-rätt, ibland EG-rätt, syftar på den samling rättsakter, som är upprättade genom samarbetet mellan de 27 medlemsstaterna i Europeiska unionen ([EU](begrepp:EU)). Unionen är unik bland andra [internationella organisationer](begrepp:Internationell organisation) eftersom den har ett komplext och högt utvecklat system av interna rättsakter, som har direkt verkan inom [rättssystem](begrepp:rättssystem)et hos de enskilda medlemsstaterna.
+EU-rätt syftar på den samling rättsakter, som är upprättade genom samarbetet mellan de 27 medlemsstaterna i Europeiska unionen ([EU](begrepp:EU)). Unionen är unik bland andra [internationella organisationer](begrepp:Internationell organisation) eftersom den har ett komplext och högt utvecklat system av interna rättsakter, som har direkt verkan inom [rättssystem](begrepp:rättssystem)et hos de enskilda medlemsstaterna.
+
+EU-rätten omfattar, till skillnad från [EG-rätt](begrepp:EG-rätt)en, även beslut inom Europeiska unionens tre pelare, som inkluderar [utrikes- och säkerhetspolitik](begrepp:Gemensam utrikes- och säkerhetspolitik) (GUSP) respektive [polisiärt och straffrättsligt samarbete](begrepp:polisiärt och straffrättsligt samarbete) (PSS).
