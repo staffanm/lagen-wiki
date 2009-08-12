@@ -8,11 +8,11 @@ aliases:
 ---
 Skiljenämnd är beteckningen på ett organ som istället för [domstol](begrepp:domstol) kan rättskraftigt avgöra tvister i vilka förlikning kan träffas.
 
-Att skiljenämnd väljs i stället för domstol beror på att skiljenämnd kan avgöra tvisten snabbare eftersom skiljedom ska meddelas inom sex månader och på att en skiljedom inte är offentlig.
+Att skiljenämnd väljs i stället för [domstol](begrepp:domstol) beror på att skiljenämnd kan avgöra tvisten snabbare eftersom skiljedom ska meddelas inom sex månader och på att en skiljedom inte är offentlig.
 
 En nackdel med skiljenämnd är att det blir dyrt eftersom förlorande part får betala kostnaderna för skiljemännen förutom motpartens och egna rättegångskostnader.
 
-I allmänhet går det till så att vardera parten väljer en skiljeman. Dessa två valda enas sedan om en tredje skiljeman som blir ordförande. Parterna kan även komma överens om att endast välja en skiljeman. Parterna kan också avtala bort rätten att överklaga skiljedom.
+I allmänhet går det till så att vardera parten väljer en [skiljeman](begrepp:skiljeman). Dessa två valda enas sedan om en tredje skiljeman som blir ordförande. Parterna kan även komma överens om att endast välja en skiljeman. Parterna kan avtala bort rätten att överklaga skiljedom.
 
 I Sverige gäller [lagen om skiljeförfarande](begrepp:SFS/1999:116), som dock är [dispositiv](begrepp:Dispositiv lag).
 
