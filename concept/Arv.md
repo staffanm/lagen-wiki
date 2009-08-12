@@ -28,7 +28,7 @@ Kusiner har ingen arvsrätt.
 
 Bröstarvingarna delar arvet lika om den avlidne var ogift och inte skrivit testamente. Om den avlidna testamenterat bort kvarlåtenskap har egna barn ändå alltid rätt till sin [laglott](begrepp:laglott). Laglotten är hälften av arvslotten, som är den del som arvingen skulle ha ärvt utan testamente.
 
-Det fordras att bröstarvingen påkallar [jämkning](begrepp:jämkning) för att laglotten ska utgå om laglotten inte respekteras frivilligt av testamenttagaren enligt [7 kap. 3 § ÄB](https://lagen.nu/1958:637#K7P3).
+Det fordras att bröstarvingen påkallar [jämkning](begrepp:jämkning) för att laglotten ska utgå om laglotten inte respekteras frivilligt av testamentstagaren enligt [7 kap. 3 § ÄB](https://lagen.nu/1958:637#K7P3).
 
 Om den avlidna är gift och barnen är gemensamma tillfaller hela arvet den efterlevande maken med [fri förfoganderätt](begrepp:fri förfoganderätt) enligt [3 kap. 1 § ÄB](https://lagen.nu/1958:637#K3P1).
 
