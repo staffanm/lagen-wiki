@@ -1,7 +1,6 @@
 ---
 title: Brott
 categories:
-  - Latinska uttryck
   - Processrätt
   - Straffrätt
 ---
