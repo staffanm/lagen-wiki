@@ -9,7 +9,7 @@ En lag (eller bestämmelse i lag) som inte kan avtalas bort av [part](begrepp:pa
 
 Inom avtalsrätten är tvingande bestämmelser i lag vanliga inom förhållanden mellan två ojämbördiga parter, exempelvis [näringsidkare](begrepp:näringsidkare) gentemot [konsument](begrepp:konsument) eller [arbetsgivare](begrepp:arbetsgivare) i förhållande till [arbetstagare](begrepp:arbetstagare).
 
-Ett exempel på en tvingande bestämmelse finns i 2 § andra st [LAS](begrepp:LAS).
+Ett exempel på en tvingande bestämmelse finns i 2 § andra stycket LAS.
 
 Jämför
 
