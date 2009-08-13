@@ -8,9 +8,9 @@ aliases:
   - Försumlighet
   - Oaktsamhet
 ---
-Vårdslöshet är ett juridiskt begrepp som används närmast synonymt med oaktsamhet eller försumlighet.
+Oaktsamhet eller försumlighet.
 
-När man bedömer [rättsföljden](begrepp:rättsföljden) för en [rättsregel](begrepp:rättsregel) är vårdslöshet ett viktigt [rättsfaktum](begrepp:rättsfaktum).
+(lat. Culpa). När man bedömer [rättsföljden](begrepp:rättsföljden) för en [rättsregel](begrepp:rättsregel) är vårdslöshet ett viktigt [rättsfaktum](begrepp:rättsfaktum).
 
 Om någon har handlat med culpa ("culpöst") (från lat. culpa) menar man att denne har handlat vårdslöst.
 
