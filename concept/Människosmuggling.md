@@ -1,5 +1,7 @@
 ---
 title: Människosmuggling
+categories:
+  - Straffrättens speciella del
 ---
 Människosmuggling är när någon [uppsåt](begrepp:uppsåt)ligen hjälper en [utlänning](begrepp:utlänning) att olovligen komma in i eller passera genom Sverige, medlemsstat i [EU](begrepp:EU) eller Island, Norge eller Schweiz enligt [20 kap. 8 § utlänningslagen](https://lagen.nu/2005:716#K20P8).
 
