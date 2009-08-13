@@ -5,7 +5,7 @@ categories:
 aliases:
   - Varusmuggling
 ---
-Smuggling är att in i landet föra en vara som omfattas av ett förbud mot eller villkor för införsel, i strid mot förbudet eller villkoret.
+Smuggling är att föra in en vara i landet eller föra ut en vara ur landet i strid mot förbud eller villkor.
 
 Smuggling bestraffas enligt [3 § lagen (2000:1225) om straff för smuggling](https://lagen.nu/2000:1225#P3) (smugglingslagen) med [böter](begrepp:böter) eller [fängelse](begrepp:fängelse) i högst två år.
 
