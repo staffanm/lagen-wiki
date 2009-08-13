@@ -1,7 +1,7 @@
 ---
 title: Skyddstillsyn
 categories:
-  - Brottspåföljd
+  - Straffrättens allmänna del
 ---
 Skyddstillsyn är en [påföljd](begrepp:påföljd) enligt [Brottsbalken](begrepp:Brottsbalken)s [28 kap BrB](https://lagen.nu/1962:700#K28).
 
