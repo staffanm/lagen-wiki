@@ -2,15 +2,18 @@
 title: Rikspolisstyrelsen
 categories:
   - Statsrätt
+  - Politirätt
 ---
-Rikspolisstyrelsen, (RPS), är central förvaltningsmyndighet för [polismyndighet](begrepp:polismyndighet)en i Sverige.
+Rikspolisstyrelsen (RPS) är polisens centrala [förvaltnings-](begrepp:förvaltningsmyndighet) och [tillsynsmyndighet](begrepp:tillsynsmyndighet).
 
-Styrelsen är dels ett förvaltningsorgan åt [regeringen](begrepp:regeringen), dels ett serviceorgan åt polisorganisationen. RPS bildades [1964](begrepp:1964).
+Dess ena huvuduppgift är att planera, samordna och rationalisera polisens verksamhet (7 § 1 st. polislagen(1984:387)). Detta inkluderar bland annat att föra centrala polisregister och att organisera den [nationella insatsstyrkan](http://www.polisen.se/Om-polisen/Sa-arbetar-Polisen/Specialkompetenser/Nationella-insatsstyrkan/).
 
-Rikspolisstyrelsen leds av rikspolischefen, som utses av regeringen.
+Dess andra huvuduppgift är att utöva tillsyn över polisverksamheten, och särskilt tillse att verksamheten bedrivs enligt de de prioriteringar och riktlinjer som fastslagits, att verksamheten är effektiv och rättssäker, samt att förvaltningen fungerar väl (2 a § [förordningen (1989:773) med instruktion för Rikspolisstyrelsen](begrepp:SFS/1989:773)
 
-[Rikspolisstyrelsens huvuduppgifter](http://www.polisen.se/Om-polisen/Polisen-i-Sverige/Organisation/Rikspolisstyrelsen/) är att utöva tillsyn över polisen och verka för planmässighet, samordning och rationalisering.
+Rikspolischefen är ytterst ansvarig för polisens verksamhet. Denne utses av [regeringen](begrepp:regeringen).
 
-### Extern länk
+Rikspolisstyrelsens arbete regleras genom [Förordning (1989:773) med instruktion för Rikspolisstyrelsen](begrepp:SFS/1989:773).
 
-*[Förordning (1989:773) med instruktion för Rikspolisstyrelsen](http://www.riksdagen.se/webbnav/index.aspx?nid=3911&bet=1989:773).
+## Externa länkar
+
+[Rikspolisstyrelsen](http://www.polisen.se/Om-polisen/Polisen-i-Sverige/Organisation/Rikspolisstyrelsen/)
