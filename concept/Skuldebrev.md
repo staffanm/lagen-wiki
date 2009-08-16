@@ -1,21 +1,14 @@
 ---
 title: Skuldebrev
 categories:
-  - Civilrätt
   - Fordringsrätt
 ---
-Skuldebrev är ett handling utfärdad och undertecknad enligt [1 kap. 1 § lagen (1936:81) om skuldebrev](https://lagen.nu/1936:81#p1).
+En skriftlig handling som innehåller en utfästelse att betala ett visst belopp i pengar.
 
-Omk flera utfärdat skuldebrev utan förbehåll om delad ansvarighet är de [solidariskt betalningsskyldiga](http://sv.wikipedia.org/wiki/Solidarisk_betalningsskyldighet).
+Regler för hur ett skuldebrev ska utfärdas och undertecknas finns i 1 § lagen (1936:81) om skuldebrev (SkbrL).
 
-Om en av dem tvingas att betala får han [regressrätt](begrepp:regressrätt) mot de andra.
+Om flera utfärdat skuldebrev utan förbehåll om delad ansvarighet är de [solidarisk betalningsskyldighet](begrepp:solidarisk betalningsskyldighet). Om en av dem tvingas att betala får han [regressrätt](begrepp:regressrätt) mot de andra.
 
-Skuldebrev är antingen ställda * till innehavaren eller * till viss man eller order * till någon vars namn inte framgår.
+Skuldebrev kan delas upp i [enkla skuldebrev](begrepp:enkelt skuldebrev), som är ställda till en specifik namngiven person ("viss man") enligt 26 § SkbrL, och [löpande skuldebrev](begrepp:löpande skuldebrev) enligt 11 § SkbrL. Namnet på de senare kommer från att de är avsedda att kunna löpa, dvs överlåtas fritt mellan personer.
 
-Dessa skuldebrev kallas [löpande skuldebrev](begrepp:löpande skuldebrev) enligt 2 kap 11 §.
-
-Innehavaren av ett löpande skuldebrev ska förmodas äga rätt att kräva och uppbära betalning enligt 2 kap.13 §.
-
-Den som betalar ett löpande skuldebrev har rätt att få det återställt till sig enligt 2 kap. 21 §.
-
-Skuldebrev som är ställt till viss man kallas [enkelt skuldebrev](begrepp:enkelt skuldebrev).
+De löpande skuldebreven kan i sin tur delas upp i [innehavarskuldebrev](begrepp:innehavarskuldebrev) och [orderskuldebrev](begrepp:orderskuldebrev) (ställda till "viss man eller order"). Innehavaren av ett löpande skuldebrev ska förmodas äga rätt att kräva och uppbära betalning enligt 13 § SkbrL. Den som betalar ett löpande skuldebrev har rätt att få det återställt till sig enligt 21 § SkbrL.
