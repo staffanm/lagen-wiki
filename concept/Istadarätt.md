@@ -1,6 +1,6 @@
 ---
 title: Istadarätt
 categories:
-  - Familjerätt
+  - Arvsrätt
 ---
-Istadarätt innebär en rätt för en person att ärva i sin avlidna förälders ställe.
+Rätt för en person att ärva i sin avlidna förälders ställe.
