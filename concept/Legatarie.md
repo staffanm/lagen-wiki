@@ -1,7 +1,7 @@
 ---
 title: Legatarie
 categories:
-  - Familjerätt
+  - Testamentsrätt
 ---
 Den som på grund av testamente mottar specifik förmån eller egendom.
 
