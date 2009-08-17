@@ -1,6 +1,6 @@
 ---
 title: Arvlåtare
 categories:
-  - Familjerätt
+  - Arvsrätt
 ---
-Arvlåtaren är den avlidne; den som arv ska utgå efter.
+Den avlidne; den som arv ska utgå efter.
