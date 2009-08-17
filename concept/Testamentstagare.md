@@ -1,7 +1,7 @@
 ---
 title: Testamentstagare
 categories:
-  - Familjerätt
+  - Testamentsrätt
 ---
 Den som mottar något på grund av ett testamente.
 
