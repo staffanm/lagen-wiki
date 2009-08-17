@@ -9,6 +9,6 @@ Förr var det ett vanligt sätt att se till att [fastigheter](begrepp:fastighet)
 
 Ägaren till ett fideikommiss kan inte sälja, testamentera bort eller på andra sätt avhända sig egendomen, men har rätt att bruka och ta del av avkastning från den.
 
-I Sverige kom 1963 den s.k.[avvecklingslagen](https://lagen.nu/1963:583) som innebär att ett fideikommiss avvecklas när den som var innehavaren till det den första januari 1964 avlider, avvecklas fideikommisset.
+I Sverige kom 1963 den s.k.[avvecklingslagen](https://lagen.nu/1963:583) som innebär att ett fideikommiss avvecklas när den som var innehavaren till det den första januari 1964 avlider.
 
 Mer information om fideikommiss finns hos [www.kammarkollegiet.se/ovriga/PMFideikommiss.pdf Kammarkollegiet].
