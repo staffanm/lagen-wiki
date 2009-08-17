@@ -1,7 +1,7 @@
 ---
 title: Fideikommiss
 categories:
-  - Familjerätt
+  - Arvsrätt
 ---
 Egendom som måste gå i arv enligt en speciell ordning.
 
