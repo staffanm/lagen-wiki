@@ -5,4 +5,4 @@ categories:
 aliases:
   - Särkullsbarn
 ---
-Ett särkullbarn är ett barn där endast den ena personen i ett par är barnets adoptivförälder eller biologiska förälder.
+Ett barn där endast den ena personen i ett par är barnets adoptivförälder eller biologiska förälder.
