@@ -1,6 +1,6 @@
 ---
 title: Testamentsgivare
 categories:
-  - Familjerätt
+  - Testamentsrätt
 ---
 Den som skriver ett [testamente](begrepp:testamente).
