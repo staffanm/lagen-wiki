@@ -1,7 +1,7 @@
 ---
 title: Sekundosuccession
 categories:
-  - Familjerätt
+  - Successionsrätt
 aliases:
   - Efterarv
 ---
