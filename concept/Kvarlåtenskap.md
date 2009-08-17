@@ -1,7 +1,7 @@
 ---
 title: Kvarlåtenskap
 categories:
-  - Familjerätt
+  - Successionsrätt
 ---
 Den [egendom](begrepp:egendom) som tillhört en avliden person.
 
