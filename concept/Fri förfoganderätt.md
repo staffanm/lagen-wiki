@@ -2,6 +2,7 @@
 title: Fri förfoganderätt
 categories:
   - Familjerätt
+  - Sakrätt
 ---
 Fri förfoganderätt innebär att mottagaren fritt kan disponera egendomen i fråga så länge den fria förfoganderätten består, vanligtvis så länge mottagaren är i livet.
 
