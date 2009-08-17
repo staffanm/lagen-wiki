@@ -1,7 +1,7 @@
 ---
 title: Testatrix
 categories:
-  - Familjerätt
+  - Testamentsrätt
 ---
 Kvinnlig testamentsgivare.
 
