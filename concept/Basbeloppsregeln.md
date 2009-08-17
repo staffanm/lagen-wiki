@@ -11,4 +11,4 @@ Basbeloppsregeln, som hittas i 3 kap. 1 § ärvdabalken, går före eventuellt [
 
 Enda gången den efterlevande maken inte får åtminstone ett värde som motsvarar fyra prisbasbelopp är om det inte finns ett sammanlagt värde som motsvarar den summan. Den efterlevande maken får då istället det som finns.
 
-I 18 § 2 st sambolagen (2003:376) finns den lilla basbeloppsregeln, som innebär att om den ena i ett [sambo](begrepp:sambo)förhållande dör har den andre i förhållandet rätt att i den mån det räcker få ut värde motsvarande två prisbasbelopp ur samboegendomen (jfr 3 § sambolagen).
+I 18 § 2 st. sambolagen (2003:376) finns den lilla basbeloppsregeln, som innebär att om den ena i ett [sambo](begrepp:sambo)förhållande dör har den andre i förhållandet rätt att i den mån det räcker få ut värde motsvarande två prisbasbelopp ur samboegendomen (jfr 3 § sambolagen).
