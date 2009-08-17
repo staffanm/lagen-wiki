@@ -1,6 +1,8 @@
 ---
 title: Avkomling
 categories:
-  - Familjerätt
+  - Barn- och föräldrarätt
 ---
-En avkomling är en persons biologiska eller adopterade barn.
+En persons biologiska eller [adopterade](begrepp:adoption) barn.
+
+Att adoptivbarn likställs med biologiska barn framgår av 4 kap. 8 § föräldrabalken.
