@@ -7,7 +7,7 @@ Lex Britannia består av 25 a §, 31 a § och 42 § 3 st. MBL och infördes av r
 
 Eftersom detta inte var vad riksdagen hade tänkt sig när MBL infördes antogs Lex Britannia. Lagändringen innebär att en svensk facklig organisation har rätt att kräva anslutning till svenskt kollektivavtal av företag som är tillfälligt verksamma i Sverige, även om företaget tidigare har ingått kollektivavtal i sitt hemland, samt att det svenska avtalet har företräde i de delar där kollektivavtalen inte överensstämmer (ett avsteg från [första avtalets princip](begrepp:första avtalets princip)).
 
-EG-domstolen har i Lavalmålet (mål C-341/05) fastslagit att Lex Britannia utgör en inskränkning i friheten att tillhandahålla tjänster och är dessutom direkt diskriminerande mot utländska företag, och kan därför för närvarande inte tillämpas mot företag från EES-området.
+EG-domstolen har i [Lavalmålet](http://curia.europa.eu/jcms/upload/docs/application/pdf/2009-02/cp070098sv.pdf) (mål C-341/05) fastslagit att Lex Britannia utgör en inskränkning i friheten att tillhandahålla tjänster och är dessutom direkt diskriminerande mot utländska företag, och kan därför för närvarande inte tillämpas mot företag från EES-området.
 
 En lagändring är därmed nödvändig och regeringen tillsatte en utredning som lämnade sitt slutbetänkande 12 december 2008 (SOU 2008:123 Förslag till åtgärder med anledning av Lavaldomen) där man föreslår en begränsning av fackliga organisationers möjligheter att med stöd av stridsåtgärder kräva kollektivavtal med arbetsgivare från ett annat EES-land för att reglera villkoren för utstationerade arbetstagare.
 
