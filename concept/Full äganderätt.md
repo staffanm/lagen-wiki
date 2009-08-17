@@ -2,6 +2,7 @@
 title: Full äganderätt
 categories:
   - Familjerätt
+  - Sakrätt
 ---
 Full äganderätt innebär att ägaren kan göra vad den vill med egendomen i fråga.
 
