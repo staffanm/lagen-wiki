@@ -9,4 +9,6 @@ Avgränsningen mot [industritillbehör](begrepp:industritillbehör) görs på s�
 
 Flisanläggning för uppvärmning av växthus som ersatt annat uppvärmningssystem har ansett vara byggnadstillbehör i [NJA 1985 s. 232](https://lagen.nu/dom/nja/1985s232).
 
+## Vidare läsning
+
 * Uppsats av Carin Isaksson om [byggnadstillbehör](http://www.uppsatser.se/uppsats/adf3624acc/).
