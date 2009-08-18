@@ -1,4 +1,6 @@
 ---
 title: Socialtjänst
+categories:
+  - Socialrätt
 ---
 
