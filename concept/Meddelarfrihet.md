@@ -1,5 +1,7 @@
 ---
 title: Meddelarfrihet
+categories:
+  - Tryckfrihetsrätt
 ---
 Med meddelarfrihet menas de regler i tryckfrihetsförordningen respektive yttrandefrihetsgrundlagen som innebär att det i viss utsträckning är möjligt att straffritt lämna normalt sekretessbelagda uppgifter för publicering i massmedier t.ex. till författare, nyhetsbyråer, radioredaktioner eller databaser under förutsättning att finns ett utgivningsbevis.
 
