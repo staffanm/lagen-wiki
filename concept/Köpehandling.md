@@ -1,5 +1,7 @@
 ---
 title: Köpehandling
+categories:
+  - fastighetsrätt
 ---
 En skriftlig handling som används vid fastighetsförvärv.
 
