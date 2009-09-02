@@ -1,5 +1,7 @@
 ---
 title: Utomobligatoriskt skadestånd
+categories:
+  - Skadeståndsrätt
 aliases:
   - Utomobligatoriska förhållanden
 ---
