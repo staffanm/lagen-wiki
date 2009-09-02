@@ -1,5 +1,7 @@
 ---
 title: Culparegeln
+categories:
+  - Skadeståndsrätt
 ---
 För att skadeståndsansvar ska uppstå krävs i allmänhet åtminstone vårdslöst eller oaktsamt handlande från [skadevållare](begrepp:skadevållare)ns sida (också kallat [culpa](begrepp:culpa)).
 
