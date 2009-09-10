@@ -1,6 +1,6 @@
 ---
 title: Skadevållare
+categories:
+  - Skadeståndsrätt
 ---
 Den som orsakar en skada.
-
-[Kateori:Skadeståndsrätt](begrepp:Kateori:Skadeståndsrätt)
