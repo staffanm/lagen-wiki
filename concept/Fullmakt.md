@@ -20,11 +20,11 @@ Om fullmäktigen går utöver sin behörighet blir det resulterande avtalet inte
 
 Självständiga fullmakter (dvs fullmakter där tredje man kan bilda sig en uppfattning om fullmaktens existens och innehåll)
 
-\# [Ställningsfullmakt](begrepp:Ställningsfullmakt) se 10 § 2 st AvtL # Meddelande till tredje man se 13 § AvtL # Kunggörelsefullmakt 14 § AvtL # Skriftlig fullmakt 16 § AvtL # [Prokura](begrepp:Prokura) se även ProkuraL # [Toleransfullmakt](begrepp:Toleransfullmakt) (ej lagreglerad) # [Kombinationsfullmakt](begrepp:Kombinationsfullmakt) (ej lagreglerad)
+\# [Ställningsfullmakt](begrepp:Ställningsfullmakt): se 10 § 2 st AvtL # Meddelande till tredje man: se 13 § AvtL # Kunggörelsefullmakt: 14 § AvtL # Skriftlig fullmakt: 16 § AvtL # [Prokura](begrepp:Prokura): se även prokuralagen # [Toleransfullmakt](begrepp:Toleransfullmakt) (ej lagreglerad) # [Kombinationsfullmakt](begrepp:Kombinationsfullmakt) (ej lagreglerad)
 
 Osjälvständig fullmakt
 
-Uppdragsfullmakt se 18 § AvtL så kallad [§ 18-fullmakt](begrepp:§ 18-fullmakt)
+Uppdragsfullmakt: se 18 § AvtL så kallad [§ 18-fullmakt](begrepp:§ 18-fullmakt)
 
 Lagrum som reglerar förhållandet mellan de olika parterna:
 
