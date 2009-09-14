@@ -28,4 +28,4 @@ Uppdragsfullmakt: se 18 § AvtL så kallad [§ 18-fullmakt](begrepp:§ 18-fullma
 
 Lagrum som reglerar förhållandet mellan de olika parterna:
 
-* Förhållandet huvudmannen/fullmaktsgivaren och tredje man - 10 § 1 st och 26 § AvtL * Förhållandet huvudmannen/fullmaktsgivaren och fullmäktigen - 18:4 HB * Förhållandet fullmäktigen och tredje man - 25 § AvtL
+* Förhållandet huvudmannen/fullmaktsgivaren och tredje man - 10 § 1 st AvtL och 26 § AvtL * Förhållandet huvudmannen/fullmaktsgivaren och fullmäktigen - HB 18:4 * Förhållandet fullmäktigen och tredje man - 25 § AvtL
