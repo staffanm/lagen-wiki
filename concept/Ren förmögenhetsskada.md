@@ -9,4 +9,4 @@ Viktigt att lägga märke till är att ingen ska ha drabbats av en person- eller
 
 ## Mer läsning
 
-* [Jacob Heidbrink: http://jheidbrink.wordpress.com/2009/09/15/varfor-har-ingen-tankt-pa-det-har-forut/ Varför har ingen tänkt på det här förut?] (om bland annat ren förmögenhetsskada och förutsättningarna för ersättningsskyldighet)
+* [Jakob Heidbrink: Varför har ingen tänkt på det här förut?](http://jheidbrink.wordpress.com/2009/09/15/varfor-har-ingen-tankt-pa-det-har-forut/) (om bland annat ren förmögenhetsskada och förutsättningarna för ersättningsskyldighet)
