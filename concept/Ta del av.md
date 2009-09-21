@@ -1,7 +1,7 @@
 ---
 title: Ta del av
 categories:
-  - Allmän avtalsrätt
+  - Avtalsrätt
 aliases:
   - Tagit del av
 ---
