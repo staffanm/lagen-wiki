@@ -1,5 +1,7 @@
 ---
 title: Hyrestid
+categories:
+  - Fastighetsrätt
 ---
 Den tid som framgår av hyresavtalet.
 
