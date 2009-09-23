@@ -1,5 +1,7 @@
 ---
 title: Hyresförhållande
+categories:
+  - Fastighetsrätt
 ---
 Den sammanlagda tid som lägenheten upplåtits till hyresgästen.
 
