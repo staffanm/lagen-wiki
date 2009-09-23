@@ -7,4 +7,4 @@ För att förändra en grundlag eller stifta en ny grundlag, gäller regeln att 
 
 Om ja-sidan får majoritet är resultatet inte direkt bindande. Den nyvalda riksdagen kan dock i detta fall anta förslaget med ett beslut och enkel majoritet.
 
-Möjligheten till beslutande folkomröstning om en grundlagsfråga har hittils aldrig utnyttjats. 
+Möjligheten till beslutande folkomröstning om en grundlagsfråga har hittills aldrig utnyttjats. 
