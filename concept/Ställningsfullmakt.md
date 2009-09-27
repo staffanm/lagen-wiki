@@ -11,7 +11,7 @@ För att fastställa ställningsfullmaktens yttre gräns tar man hjälp av:
 
 Lag - T.ex 8:29 ABL, 5:1 DistansavtalsL
 
-Sedvänja för den yrkeskategori som fullmäktigen representerar. För att ta reda på den brukar man ta in yttranden från branschsammanslutningar och liknande organisationer och försöka fastställa någon slags norm för hur man grukar göra. Se t.ex NJA 1990 s 591, NJA 1992 S 782 och NJA 2002 s 244.
+Sedvänja för den yrkeskategori som fullmäktigen representerar. För att ta reda på den brukar man ta in yttranden från branschsammanslutningar och liknande organisationer och försöka fastställa någon slags norm för hur man grukar göra. Se t.ex NJA 1990 s 591, NJA 1992 s 782 och NJA 2002 s 244.
 
 Ändamålsövervägande från domstolens sida se NJA 2001 s 191
 
