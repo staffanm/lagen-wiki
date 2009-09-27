@@ -5,7 +5,7 @@ categories:
 ---
 Inkomst av näringsverksamhet är ett av inkomstskattelagens tre [inkomstslag](begrepp:inkomstslag), de andra två är inkomst av [kapital](begrepp:inkomst av kapital) och [tjänst](begrepp:inkomst av tjänst). Juridiska personer beskattas enbart i detta inkomstslag.
 
-För fysiska personer sker beskattning i detta inkomstslag då verksamheten bedrivs [självständigt](begrepp:Självständighet, varaktighet, vinstsyfte), [varaktigt](begrepp:Självständighet, varaktighet, vinstsyfte) och med [vinstsyfte](begrepp:Självständighet, varaktighet, vinstsyfte). Om inkomsten saknar vinstsyfte betraktas det som [hobby](begrepp:hobby), och beskattas enligt särskilda regler.
+För fysiska personer sker beskattning i detta inkomstslag då verksamheten bedrivs [självständigt](begrepp:Självständighet, varaktighet, vinstsyfte), [varaktigt](begrepp:Självständighet, varaktighet, vinstsyfte) och med [vinstsyfte](begrepp:Självständighet, varaktighet, vinstsyfte).
 
 Översikt över kapitel om inkomstslaget näringsverksamhet
 
