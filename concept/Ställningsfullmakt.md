@@ -5,7 +5,7 @@ En persons ställning utåt kan utgöra en ställningsfullmakt med rätt att fö
 
 Ett exempel på ställningsfullmakt är arbetstagaren (fullmäktigen) som inom ramen för sin anställning/sin ställning har rätt att företräda arbetsgivaren (huvudmannen). Problemet är att fastställa fullmäktigens [behörighet](begrepp:behörighet) man då det inte finns något tydligt dokument eller liknande som mot tredje man reglerar vad fullmäktigen får göra med bindande verkan för huvudmannen.
 
-Exempel: Expediten i teaffären borde utan tvekan ha behörighet att sälja te och andra varor som förknippas med försäljningen i butiken. Skulle hon få för sig att sälja kassaapparaten eller försöka hyra ut lokalen hon arbetar i blir det dock svårare att bedöma om hon handlat inom sin behörighet och alltså kan binda sin arbetsgivare mot [tredje man](begrepp:tredje man).
+Exempel: Expediten i teaffären borde utan tvekan ha behörighet att sälja te och andra varor som förknippas med försäljningen i butiken. Skulle hon få för sig att sälja kassaapparaten eller försöka hyra ut lokalen hon arbetar i blir det dock svårare att bedöma om hon handlat inom sin behörighet och bundit sin arbetsgivare mot [tredje man](begrepp:tredje man).
 
 För att fastställa ställningsfullmaktens yttre gräns tar man hjälp av:
 
