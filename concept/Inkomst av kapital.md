@@ -5,6 +5,12 @@ categories:
 ---
 Inkomst av kapital är ett av inkomstskattelagens tre [inkomstslag](begrepp:inkomstslag), de andra två är inkomst av [näringsverksamhet](begrepp:inkomst av näringsverksamhet) och [tjänst](begrepp:inkomst av tjänst). Endast fysiska personer beskattas i detta inkomstslag.
 
+Beskattning sker vanligen i detta inkomstslag då verksamheten bedrivs [självständigt](begrepp:Självständighet, varaktighet, vinstsyfte) och med [vinstsyfte](begrepp:Självständighet, varaktighet, vinstsyfte), men saknar [varaktighet](begrepp:Självständighet, varaktighet, vinstsyfte).
+
+Det finns i huvudsak två typer av kapitalinkomster, avkastning och vinst. Avkastning är löpande kapitalinkomster, t.ex. utdelning och ränta. Källan till avkastningen, aktierna eller fodringen, påverkas inte i sig av att de ger avkastning. Kapitalvinst eller förlust handlar det istället om när källan på något sätt avyttrats.
+
+Kapital beskattas vanligen separat från näringsverksamhet och tjänst.
+
 Översikt över kapitel om inkomstslaget kapital:
 
 * Kapitel 41
