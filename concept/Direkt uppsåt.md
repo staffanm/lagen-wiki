@@ -1,7 +1,7 @@
 ---
 title: Direkt uppsåt
 ---
-Direkt uppsåt innebär att gärningsmannen haft avsikt att åstakomma en effekt, som ett mål eller ett led till ett mål, se NJA 2004 s. 176.
+Direkt uppsåt innebär att gärningsmannen haft avsikt att åstadkomma en effekt, som ett mål eller ett led till ett mål, se NJA 2004 s. 176.
 
 Uppsåtet kan ha en direkt koppling till gärningsmannens handlande vilken leder till en direkt effekt eller så har gärningsmannen ett syfte med hela sitt agerande som inte kommer visa sig förrän senare och den första effekten var tvungen att passeras för att nå målet.
 
