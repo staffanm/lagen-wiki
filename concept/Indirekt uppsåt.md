@@ -1,4 +1,4 @@
 ---
 title: Indirekt uppsåt
 ---
-Indirekt uppsåt är numera förlegat
+Begreppet indirekt uppsåt är numera förlegat men innebar att även om gärningsmannen inte haft för avsikt att åstadkomma en viss effekt uppfattat den som nödvändig för det mål han egentligen eftersträvade. Jämför insiktsuppsåt.
