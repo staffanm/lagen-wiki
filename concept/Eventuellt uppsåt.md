@@ -1,7 +1,7 @@
 ---
 title: Eventuellt uppsåt
 ---
-Även kallat Hypotetiskt eventuella uppsåtet är förlegat inom svensk rätt efter NJA 2004 s. 176. Det kallas ibland dolus eventualis och uppsåtsbedömningen gjordes i två steg.
+Även kallat hypotetiskt eventuella uppsåtet eller dolus eventualis. Detta uppsåt är förlegat inom svensk rätt efter NJA 2004 s. 176. Uppsåtsbedömningen gjordes i två steg.
 
 Steg 1: Insåg gärningsmannen att en viss effekt var möjlig? Om ja, gå till steg 2, om nej inget eventuellt uppsåt.
 
