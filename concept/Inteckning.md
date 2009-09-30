@@ -20,3 +20,5 @@ De olika inteckningsåtgärderna är:
 [Dödning](begrepp:Dödning) (22 kap. 10 § jordabalken).
 
 [Relaxation](begrepp:Relaxation) (22 kap. 11 § jordabalken).
+
+Läs mer på [Lantmäteriets hemsida](http://www.lantmateriet.se/templates/LMV_FaqList.aspx?id=15369)
