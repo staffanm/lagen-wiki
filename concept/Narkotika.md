@@ -11,4 +11,4 @@ Den senaste förteckningen är LVFS (1997:12), ändrad och omtryckt 2000:7, sena
 
 En mer lättläst förteckning är fogad som bilaga till [förordningen (1992:1554) om kontroll av narkotika](https://lagen.nu/1992:1554).
 
-Straffrättens klassificering av narkotikas farlighet [Narkotikas farlighetsklassificering](http://wiki.lagen.nu/index.php/Narkotikas_farlighetsklassificering.).
+Straffrättens klassificering av narkotikas farlighet: [Narkotikas farlighetsklassificering.](begrepp:Narkotikas farlighetsklassificering.)
