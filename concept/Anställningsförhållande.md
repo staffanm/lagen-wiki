@@ -11,18 +11,4 @@ En [arbetsgivare](begrepp:arbetsgivare) kan slutligen bli avtalsrättsligt bunde
 
 I litteratur, förarbeten och praxis har det uppställts ett antal kriterier som talar för att en anställning föreligger, varav de två första utgör kärnan i [arbetstagarbegreppet](begrepp:arbetstagare):
 
-Det finns ett avtal om personlig arbetsskyldighet mot ersättning.
-
-Arbetet utförs för annans räkning och under dennes ledning och kontroll
-
-Det rör sig om ett varaktigt samarbete där den arbetspresterande parten står till förfogande för uppgifter som uppkommer efterhand.
-
-Den arbetspresterande parten är förhindrad att utföra liknande arbetsuppgifter åt annan.
-
-Råvaror, maskiner och redskap tillhandahålls av beställaren.
-
-Den arbetspresterande ersätts för utlägg, t.ex. tjänsteresor.
-
-Den arbetspresterande får åtminstone delvis sin ersättning i form av garanterad lön.
-
-Den arbetspresterande är i ekonomiskt och socialt hänseende att jämställa med en arbetstagare.
+* Det finns ett avtal om personlig arbetsskyldighet mot ersättning. * Arbetet utförs för annans räkning och under dennes ledning och kontroll * Det rör sig om ett varaktigt samarbete där den arbetspresterande parten står till förfogande för uppgifter som uppkommer efterhand. * Den arbetspresterande parten är förhindrad att utföra liknande arbetsuppgifter åt annan. * Råvaror, maskiner och redskap tillhandahålls av beställaren. * Den arbetspresterande ersätts för utlägg, t.ex. tjänsteresor. * Den arbetspresterande får åtminstone delvis sin ersättning i form av garanterad lön. * Den arbetspresterande är i ekonomiskt och socialt hänseende att jämställa med en arbetstagare.
