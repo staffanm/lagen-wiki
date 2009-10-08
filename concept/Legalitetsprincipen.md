@@ -18,5 +18,3 @@ Legalitetsprincipen har sedan 1994 uttryckligt lagstöd genom [1 kap. 1 § brott
 Legalitetsprincipen kan även uttryckas genom de latinska uttrycken nullum crimen sine lege (Inget brott utan lag) samt nulla poena sine lege (inget straff utan lag).
 
 Sedan Sverige ratificerat [Europakonventionen](begrepp:Europakonventionen) har genom dess artikel 7 ytterligare förstärkning skett.
-
-* Efter [miljödomstol](begrepp:miljödomstol)s [dom](begrepp:dom) har ändringar i 30 kap. miljöbalken och förordningen (1998:950) om [miljösanktionsavgift](begrepp:miljösanktionsavgift)er trätt ikraft. [Miljööverdomstolen](begrepp:Miljööverdomstolen) (MÖD) har i avgörande MÖD 2007:8, med hänsyn till miljösanktionsavgifternas straffliknande karaktär, tillämpat 5 § andra stycket lagen (1964:163) om införande av brottsbalken analogt för att avgöra vilka bestämmelser som skall tillämpas på överträdelser som ägt rum före de nya bestämmelsernas ikraftträdande. Detta innebär att de bestämmelser som gällde vid överträdelsen skall tillämpas.
