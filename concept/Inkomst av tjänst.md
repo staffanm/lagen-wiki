@@ -9,14 +9,4 @@ Beskattning sker vanligen i detta inkomstslag då verksamheten bedrivs [varaktig
 
 Översikt över kapitel om inkomstslaget tjänst
 
-* Kapitel 10
-
-Grundläggande bestämmelser samt vad som ska tas upp i inkomstslaget tjänst, sätter ramarna för inkomstslaget.
-
-* Kapitel 11
-
-Vad som skall tas upp inom ramarna för ramarna av inkomstslaget.
-
-* Kapitel 12
-
-Vad som skall dras av inom ramarna för ramarna av inkomstslaget.
+; Kapitel 10 : Grundläggande bestämmelser samt vad som ska tas upp i inkomstslaget tjänst, sätter ramarna för inkomstslaget. ; Kapitel 11 : Vad som skall tas upp inom ramarna för ramarna av inkomstslaget. ; Kapitel 12 : Vad som skall dras av inom ramarna för ramarna av inkomstslaget.
