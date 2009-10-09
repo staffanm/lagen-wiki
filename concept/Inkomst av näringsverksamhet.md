@@ -9,20 +9,12 @@ För fysiska personer sker beskattning i detta inkomstslag då verksamheten bedr
 
 Översikt över kapitel om inkomstslaget näringsverksamhet
 
-* Kapitel 13
+; Kapitel 13 : Kapitlet sätter gränserna för vilka verksamheter som ska beskattas inom inkomstslaget näringsverksamhet.
 
-Kapitlet sätter gränserna för vilka verksamheter som ska beskattas inom inkomstslaget näringsverksamhet.
+: Enligt huvudregeln ska inkomster och utgifter på grund av näringsverksamhet räknas till inkomstslaget näringsverksamhet (1 §).
 
-Enligt huvudregeln ska inkomster och utgifter på grund av näringsverksamhet räknas till inkomstslaget näringsverksamhet (1§).
+; Kapitel 14 : Medan 13 kap. slår fast att inkomster och utgifter som hör till näringsverksamhet ska beskattas inom det inkomstslaget, behandlar 14 kap. hur de inkomsterna och utgifterna ska räknas ut.
 
-* Kapitel 14
+; Kapitel 15 : I inkomstslaget näringsverksamhet ska inkomster och utgifter som hör till sådan verksamhet tas upp. Kapitel 15 behandlar vad som ska betraktas som sådan inkomst.
 
-Medan 13 kap. slår fast att inkomster och utgifter som hör till näringsverksamhet ska beskattas inom det inkomstslaget, behandlar 14 kap. hur de inkomsterna och utgifterna ska räknas ut.
-
-* Kapitel 15
-
-I inkomstslaget näringsverksamhet ska inkomster och utgifter som hör till sådan verksamhet tas upp. Kapitel 15 behandlar vad som ska betraktas som sådan inkomst.
-
-* Kapitel 16
-
-I inkomstslaget näringsverksamhet ska inkomster och utgifter som hör till sådan verksamhet tas upp. Kapitel 16 behandlar vad som ska betraktas som sådan utgift.
+; Kapitel 16 : I inkomstslaget näringsverksamhet ska inkomster och utgifter som hör till sådan verksamhet tas upp. Kapitel 16 behandlar vad som ska betraktas som sådan utgift.
