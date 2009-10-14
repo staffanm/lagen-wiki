@@ -1,4 +1,6 @@
 ---
 title: Taxeringsår
+categories:
+  - Skatterätt
 ---
-Taxeringsåret är det år då beskattningen sker. Under taxeringsår deklarareras föregående års ([beskattningsåret](begrepp:beskattningsår)) inkomster.
+Taxeringsåret är det år då beskattningen sker. Under taxeringsår deklarareras föregående års ([beskattningsår](begrepp:beskattningsår)et) inkomster.
