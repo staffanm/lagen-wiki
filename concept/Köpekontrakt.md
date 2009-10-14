@@ -1,5 +1,7 @@
 ---
 title: Köpekontrakt
+categories:
+  - Fastighetsrätt
 ---
 En skriftlig [köpehandling](begrepp:köpehandling) som upprättas i samband med ett fastighetsförvärv.
 
