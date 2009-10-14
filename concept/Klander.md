@@ -1,5 +1,7 @@
 ---
 title: Klander
+categories:
+  - Grundläggande begrepp
 aliases:
   - Klandertalan
 ---
