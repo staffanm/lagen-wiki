@@ -1,5 +1,7 @@
 ---
 title: Faktiskt fel
+categories:
+  - Köprätt
 aliases:
   - Faktiska fel
 ---
