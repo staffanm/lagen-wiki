@@ -1,5 +1,7 @@
 ---
 title: Benefik
+categories:
+  - Grundläggande begrepp
 ---
 Utan vederlag.
 
