@@ -1,5 +1,7 @@
 ---
 title: Grundlag
+categories:
+  - Konstitutionell rätt
 ---
 I Sverige finns fyra grundlagar: regeringsformen, tryckfrihetsförordningen, yttrandefrihetsgrundlagen och successionsordningen. De utgör Sveriges författning, eller konstitution. Ett lands konstitution reglerar landets statsskick.
 
