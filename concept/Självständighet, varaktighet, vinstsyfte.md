@@ -1,5 +1,7 @@
 ---
 title: Självständighet, varaktighet, vinstsyfte
+categories:
+  - Skatterätt
 ---
 Näringsverksamhet definieras enligt 13 kap. 1 § inkomstskattelagen (1999:1229) som en förvärvsverksamhet som bedrivs yrkesmässigt och självständigt. Dessa krav brukar beskrivas som att verksamheten ska bedrivas självständigt, varaktigt och med vinstsyfte. Uttrycket "självständighet, varaktighet, vinstsyfte" återkommer ofta, och brukar även användas för att beskriva avgränsningen mot inkomstslagen [tjänst](begrepp:inkomst av tjänst) och [kapital](begrepp:inkomst av kapital).
 
