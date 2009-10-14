@@ -1,5 +1,7 @@
 ---
 title: Direkt uppsåt
+categories:
+  - Straffrätt
 ---
 Direkt uppsåt innebär att gärningsmannen haft avsikt att åstadkomma en effekt, som ett mål eller ett led till ett mål, se NJA 2004 s. 176.
 
