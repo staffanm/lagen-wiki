@@ -1,5 +1,7 @@
 ---
 title: Direkt skada
+categories:
+  - Köprätt
 aliases:
   - Direkta skador
 ---
