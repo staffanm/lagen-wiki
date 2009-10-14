@@ -1,5 +1,7 @@
 ---
 title: Rusläran
+categories:
+  - Straffrätt
 aliases:
   - Ruslära
 ---
