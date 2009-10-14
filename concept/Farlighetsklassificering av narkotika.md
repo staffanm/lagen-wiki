@@ -1,5 +1,7 @@
 ---
 title: Farlighetsklassificering av narkotika
+categories:
+  - Specialstraffrätt
 aliases:
   - Narkotikas farlighetsklassificering.
 ---
