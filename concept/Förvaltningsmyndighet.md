@@ -1,5 +1,7 @@
 ---
 title: Förvaltningsmyndighet
+categories:
+  - Förvaltningsrätt
 ---
 Begreppet "förvaltningsmyndighet" definieras inte särskilt i förvaltningslagen, utan den intresserade får vända sig till definitionen i andra författningar (såsom regeringsformen). Ett första viktigt steg för att förstå vilka organ som ingår i begreppet och vilka som inte gör det, är att se ”förvaltningsmyndighet” som ett organisatoriskt begrepp (till skillnad från en funktionell definition). Utanför begreppet faller således allmänna organ vars verksamhet mycket väl kan likna den som bedrivs på en förvaltningsmyndighet, men som inte har organiserats i offentligrättsliga former och därför inte (organisatoriskt) utgör en förvaltningsmyndighet (t ex ett statligt aktiebolag som Posten). Inom begreppet ryms dock en stor del av den statliga och kommunala verksamheten, bland annat riksdagens myndigheter, centrala myndigheter under regeringen (t ex Skatteverket), regionala statliga myndigheter, svenska utlandsmyndigheter (ambassader) och kommunala nämnder. Till listan kan läggas Regeringskansliet i de fall det uppträder som självständig myndighet (alltså inte endast som beredningsorgan åt regeringen) och den del av polismyndigheternas verksamhet som inte är brottsbekämpande. Den här gjorda uppräkningen är inte uttömmande, utan ska endast ses som exempel på vilka allmänna organ som utgör förvaltningsmyndigheter.
 
