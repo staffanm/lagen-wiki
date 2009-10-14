@@ -1,5 +1,7 @@
 ---
 title: E contrario
+categories:
+  - Juridisk metod
 aliases:
   - E contrario-slut
 ---
