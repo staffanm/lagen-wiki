@@ -1,5 +1,7 @@
 ---
 title: Eventuellt uppsåt
+categories:
+  - Straffrätt
 ---
 Även kallat hypotetiskt eventuella uppsåtet eller dolus eventualis. Detta uppsåt är förlegat inom svensk rätt efter NJA 2004 s. 176. Uppsåtsbedömningen gjordes i två steg.
 
