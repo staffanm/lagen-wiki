@@ -1,5 +1,7 @@
 ---
 title: Ställningsfullmakt
+categories:
+  - Allmän avtalsrätt
 ---
 En persons ställning utåt kan utgöra en ställningsfullmakt med rätt att företräda någon (se 10 § 2 st AvtL). Ställningsfullmakten grundas i någon slags avtal mellan huvudmannen och fullmäktigen.
 
