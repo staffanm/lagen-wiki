@@ -1,5 +1,7 @@
 ---
 title: Indirekt skada
+categories:
+  - Köprätt
 aliases:
   - Indirekta skador
 ---
