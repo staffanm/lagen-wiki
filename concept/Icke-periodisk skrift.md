@@ -1,5 +1,7 @@
 ---
 title: Icke-periodisk skrift
+categories:
+  - Tryckfrihetsrätt
 aliases:
   - Icke-periodisk
 ---
