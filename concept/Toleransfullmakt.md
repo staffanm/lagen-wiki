@@ -1,7 +1,9 @@
 ---
 title: Toleransfullmakt
+categories:
+  - Allmän avtalsrätt
 ---
-Toleransfullmakt finns inte lagreglerad. Den har dock förekommit i praxis.
+Toleransfullmakt är en form av [fullmakt](begrepp:fullmakt) som inte är lagreglerad. Den har dock förekommit i praxis.
 
 Man kan säga att den uppkommer genom att man tidigare har tolererat att någon har handlat för ens räkning. Man tar hänsyn till om det skett under en längre tid, upprepade gånger osv.
 
