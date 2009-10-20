@@ -3,8 +3,8 @@ title: Koncentrationsprincipen
 categories:
   - Processrätt
 ---
-Huvudförhandlingen ska ske utan avbrott.
+Principen att [huvudförhandling](begrepp:huvudförhandling)en i en [rättegång](begrepp:rättegång) ska ske utan avbrott.
 
-Koncentrationsprincipen, som hänger samman med [omedelbarhetsprincipen](begrepp:omedelbarhetsprincipen), innebär att huvudförhandlingen i ett mål som regel ska ske utan avbrott ("fortgå i ett sammanhang"), och finns uttryckt i RB 43:11 (tvistemål) samt 46:11 (brottmål).
+Koncentrationsprincipen, som hänger samman med [omedelbarhetsprincipen](begrepp:omedelbarhetsprincipen), innebär att huvudförhandlingen i ett mål som regel ska ske utan avbrott ("fortgå i ett sammanhang"), och finns uttryckt i RB 43:11 (för [tvistemål](begrepp:tvistemål)) samt 46:11 (för [brottmål](begrepp:brottmål)).
 
 Innan koncentrationsprincipen infördes genom processreformen 1948 gällde istället den muntligt-protokollariska principen, där ett mål kunde handläggas under flera rättegångstillfällen under en lång period. Domen grundades då på vad som protokollförts om förhandlingen, vilket var hanterbart när den legala bevisteorin (en äldre bevisprincip) användes, men blev ohållbart efter man gått över till [den fria bevisföringens princip](begrepp:den fria bevisföringens princip).
