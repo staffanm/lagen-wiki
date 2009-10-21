@@ -10,3 +10,5 @@ Formerna för att ingå ett avtal kan skilja sig åt beroende på vad avtalet ha
 * [Konsensualavtal](begrepp:Konsensualavtal) * [Formalavtal](begrepp:Formalavtal) * [Realavtal](begrepp:Realavtal)
 
 Ett avtal sluts vanligtvis genom att den ena parten ger ett [anbud](begrepp:anbud) som den andra parten [accept](begrepp:accept)erar.
+
+En synonym till avtal är [kontrakt](begrepp:kontrakt). Detta begrepp används dock främst om skriftliga avtal.
