@@ -3,6 +3,8 @@ title: FT-mål
 categories:
   - Processrätt
 ---
-FT-mål, tidigare kallade "småmål, är mål som handläggs "förenklat" enligt [3 kap. 1 § d](http://wiki.lagen.nu/index.php/SFS/1942:740#1_kap._3_d_.C2.A7).
+FT-mål, tidigare kallade "småmål", är mål som handläggs "förenklat" enligt 1 kap. 3 d § rättegångsbalken.
 
-Jämför med kommentaren till [18 kap.8 a §](http://wiki.lagen.nu/index.php/SFS/1942:740#18_kap._8_a_.C2.A7).
+Jämför med kommentaren till 18 kap. 8 a § rättegångsbalken.
+
+Se även Domstolsverkets handbok om tvistemål, [7. Mål om mindre värden](http://www.dvhandbok.dom.se/tvistemal/avsnitt%2007.htm,)
