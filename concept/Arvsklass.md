@@ -22,4 +22,4 @@ Möjligheten för att någon i en arvsklass ska ärva ska helt utömmas innan ar
 
 Alla arvingar inom samma arvsklass tar lika [lott](begrepp:arvslott) men ett illustrerande exempel kan behövas: En kvinna, A, har två döttrar, B och C. B har två söner, D och E, men är själv avliden. C är i livet och har en dotter, F. När A avlider kommer arvet delas lika mellan B och C. Eftersom B är avliden kommer D och E genom [istadarätt](begrepp:istadarätt)en dela på hennes halva, d.v.s. få en fjärdedel var av arvet. F kommer däremot inte få någonting alls, då hennes mor är i livet. Släktingar i andra och tredje arvsklasserna ärver inte i exemplet eftersom det finns arvingar i första arvsklassen.
 
-Arvsklass kan även benämnas parentel.
+Arvsklass kan även benämnas parentel. Principen att alla inom varje arvsklass tar lika lott benämns Stirpalgrundsatsen
