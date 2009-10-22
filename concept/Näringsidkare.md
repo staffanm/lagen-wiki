@@ -3,6 +3,8 @@ title: Näringsidkare
 categories:
   - Konsumenträtt
 ---
-Näringsidkare är enligt [1 § 4 st. konsumentköplagen](https://lagen.nu/1990:932#P1S4) "en fysisk eller juridisk person som handlar för ändamål som har samband med den egna näringsverksamheten".
+"En [fysisk](begrepp:fysisk person) eller [juridisk person](begrepp:juridisk person) som handlar för ändamål som har samband med den egna [näringsverksamhet](begrepp:näringsverksamhet)en" (1 § 4 st konsumentköplagen).
 
-Distansavtalslagen har samma definition och lagen (1994:1512) om avtalvillkor i konsumentförhållanden en liknande.
+Begreppet defineras på samma eller liknande sätt i ett stort antal andra lagar, framförallt på [konsumenträtt](begrepp:konsumenträtt)ens område. Med näringsverksamhet avses att verksamheten ska vara av ekonomisk art, samt att den ska drivas yrkesmässigt och med viss omfattning och varaktighet.
+
+En fysisk person kan i ett sammanhang räknas som näringsidkare och i ett annat räknas som privatperson eller [konsument](begrepp:konsument). En bilförsäljare räknas som näringsidkare när denne säljer bilar i sin egen verksamhet, men räknas som konsument när denne handlar matvaror för eget bruk på sitt lokala snabbköp.
