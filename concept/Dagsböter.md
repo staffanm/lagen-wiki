@@ -3,14 +3,8 @@ title: Dagsböter
 categories:
   - Straffrättens allmänna del
 ---
-Dagsböter är en [påföljd](begrepp:brottspåföljd) vid [brott](begrepp:brott) enligt [25 kap. 2 § brottsbalken](https://lagen.nu/1962:700#K25P2).
+En brottspåföljd i form av ett bötesbelopp som anpassas efter brottets svårighetsgrad och den dömdes ekonomiska förhållanden.
 
-Antalet dagsböter anger hur strängt [domstol](begrepp:domstol)en sett på brottet.
+Beloppet har två komponenter: Dels antalet dagsböter, som anger hur strängt [domstol](begrepp:domstol)en sett på själva brottet, och dels storleken på varje dagsbot, som anpassas efter den dömdes ekonomiska situation. Huvudregeln är att en dagsbot ska motsvara en tusendel av årsinkomsten, efter vissa avdrag.
 
-Dagsbotens storlek fastställs till ett visst belopp från och med femtio till och med ettusen kronor, efter vad som bedöms som skäligt med hänsyn till den tilltalades inkomst, förmögenhet, försörjningsskyldighet och ekonomiska förhållanden i övrigt.
-
-Dagsböter ska bestämmas till ett antal av minst trettio och högst etthundrafemtio.
-
-Om det finns särskilda skäl, får dagsbotens belopp jämkas.
-
-Minsta bötesbelopp är sjuhundrafemtio kronor.
+Bestämmelser om dagsböter finns i 25 kap. 2 § brottsbalken. Riktlinjer för hur dagsbotsbeloppet ska beräknas finns i [Riksåklagarens riktlinjer RåR 2007:2](http://www.aklagare.se/upload/Dokumentsamling/F%C3%B6reskrifter%20och%20riktlinjer/Riks%C3%A5klagarens%20riktlinjer%20(R%C3%A5R%29/R%C3%A5R%202007%2002%20Ber%C3%A4kningen%20av%20dagsbotsbeloppet.pdf)
