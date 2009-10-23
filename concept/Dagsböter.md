@@ -3,7 +3,7 @@ title: Dagsböter
 categories:
   - Straffrättens allmänna del
 ---
-En brottspåföljd i form av ett bötesbelopp som anpassas efter brottets svårighetsgrad och den dömdes ekonomiska förhållanden.
+En [brottspåföljd](begrepp:brottspåföljd) i form av ett bötesbelopp som anpassas efter [brott](begrepp:brott)ets svårighetsgrad och den dömdes ekonomiska förhållanden.
 
 Beloppet har två komponenter: Dels antalet dagsböter, som anger hur strängt [domstol](begrepp:domstol)en sett på själva brottet, och dels storleken på varje dagsbot, som anpassas efter den dömdes ekonomiska situation. Huvudregeln är att en dagsbot ska motsvara en tusendel av årsinkomsten, efter vissa avdrag.
 
