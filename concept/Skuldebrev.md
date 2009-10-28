@@ -7,7 +7,7 @@ En skriftlig handling som innehåller en utfästelse att betala ett visst belopp
 
 Regler för hur ett skuldebrev ska utfärdas och undertecknas finns i 1 § lagen (1936:81) om skuldebrev (SkbrL).
 
-Om flera utfärdat skuldebrev utan förbehåll om delad ansvarighet är de [solidarisk betalningsskyldighet](begrepp:solidarisk betalningsskyldighet). Om en av dem tvingas att betala får han [regressrätt](begrepp:regressrätt) mot de andra.
+Om flera utfärdat skuldebrev utan förbehåll om delad ansvarighet är de [solidariskt betalningsskyldiga](begrepp:solidarisk betalningsskyldighet). Om en av dem tvingas att betala får han [regressrätt](begrepp:regressrätt) mot de andra.
 
 Skuldebrev kan delas upp i [enkla skuldebrev](begrepp:enkelt skuldebrev), som är ställda till en specifik namngiven person ("viss man") enligt 26 § SkbrL, och [löpande skuldebrev](begrepp:löpande skuldebrev) enligt 11 § SkbrL. Namnet på de senare kommer från att de är avsedda att kunna löpa, dvs överlåtas fritt mellan personer.
 
