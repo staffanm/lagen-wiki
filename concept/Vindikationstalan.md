@@ -3,6 +3,4 @@ title: Vindikationstalan
 categories:
   - Fordringsrätt
 ---
-Återkrav.
-
-Om en rätmätig ägare av lös eller fast egendom blivit av med denna, kallas hans krav att återfå egendomen vindikationstalan.
+Den rätmätiga ägarens återkrav på [fast](begrepp:fast egendom) eller [lös egendom](begrepp:lös egendom) som denne blivit av med.
