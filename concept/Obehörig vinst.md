@@ -5,7 +5,7 @@ En vinst som en part gjort på en annan parts bekostnad, utan stöd i avtal elle
 
 Generellt anses det inte finnas någon skyldighet att återbetala en sådan vinst enligt svensk rätt.
 
-[Conditio indebiti](begrepp:Conditio indebiti) kan dock anses vara en form av obehörig vinst (se exv HD:s resonemang i NJA 1999 s 575 - resonemanget har dock kritiserats av Hellner i artikeln "Betalning av misstag", JT 1999-2000 s 413), och för sådana vinster finns det i allmänhet ett återbetalningskrav.
+[Condictio indebiti](begrepp:Condictio indebiti) kan dock anses vara en form av obehörig vinst (se exv HD:s resonemang i NJA 1999 s 575 - resonemanget har dock kritiserats av Hellner i artikeln "Betalning av misstag", JT 1999-2000 s 413), och för sådana vinster finns det i allmänhet ett återbetalningskrav.
 
 ## Se även
 
