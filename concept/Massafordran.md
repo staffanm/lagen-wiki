@@ -1,5 +1,7 @@
 ---
 title: Massafordran
+categories:
+  - Fordringsrätt
 ---
 En [fordran](begrepp:fordran) som uppstått efter att en [gäldenär](begrepp:gäldenär) gått i [konkurs](begrepp:konkurs), och alltså gäller mot själva [konkursbo](begrepp:konkursbo)et.
 
