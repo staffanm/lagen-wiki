@@ -6,7 +6,7 @@ categories:
 aliases:
   - Hyresnämnden
 ---
-Hyresnämnd medlar i hyres- och bostadsrättsliga tvister och kan avgöra flertalet av dessa tvister genom beslut.
+Medlar i hyres- och bostadsrättsliga tvister som rör bostäder och lokaler och kan avgöra flertalet av dessa tvister genom beslut. T.ex. kan nämnden fatta beslut om överlåtelse av hyreskontrakt enligt 12 kap. 34-37 §§ jordabalken.
 
 Vilka tvister som kan komma i fråga framgår av 4 § lagen (1973:188) om arrendenämnder och hyresnämnder.
 
