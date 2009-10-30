@@ -1,5 +1,7 @@
 ---
 title: Obehörig vinst
+categories:
+  - Sakrätt
 ---
 En vinst som en part gjort på en annan parts bekostnad, utan stöd i avtal eller lag.
 
