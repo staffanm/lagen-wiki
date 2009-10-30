@@ -3,4 +3,4 @@ title: Svarande
 categories:
   - Processrätt
 ---
-Svarande är den juridiska beteckningen på den person som blivit stämd i ett mål inför domstol.
+Den [fysiska](begrepp:fysisk person) eller [juridiska person](begrepp:juridisk person) som blivit [stämd](begrepp:stämning) i ett [tvistemål](begrepp:tvistemål) inför [domstol](begrepp:domstol).
