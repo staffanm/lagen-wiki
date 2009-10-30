@@ -13,4 +13,4 @@ Definitionen återfinns i JB 2:2. Maskiner och annan utrustning kan räknas som 
 
 ## Vidare läsning
 
- * Uppsats av Carin Isaksson om [byggnadstillbehör](http://epubl.ltu.se/1402-1773/2008/013/).
+ * Carin Isaksson: [Hur den moderna tekniken förhåller sig till jordabalkens 2 kapitel 2 paragrafen om "Byggnadstillbehör"](http://epubl.ltu.se/1402-1773/2008/013/) (C-uppsats i rättsvetenskap).
