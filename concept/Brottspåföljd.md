@@ -1,7 +1,7 @@
 ---
 title: Brottspåföljd
 categories:
-  - Straffrätt
+  - Straffrättens allmänna del
 ---
 [Straff](begrepp:Straff) eller annan påföljd för ett brott.
 
