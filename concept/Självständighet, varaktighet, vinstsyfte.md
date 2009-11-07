@@ -18,5 +18,3 @@ Den som vill ansöka om F-skattesedel måste uppfylla samtliga tre krav. Läs me
 ; Varaktighet : Högst tillfällig verksamhet innebär inte näringsverksamhet. Om det handlar om försäljning av ett fåtal produkter kan det istället vara fråga om en inkomst som beskattas som kapital. Handlar det om tillfälligt utförda tjänster är varken inkomstslaget näringsverksamhet eller kapital aktuellt, och beskattningen sker sannolikt i inkomstslaget tjänst.
 
 ; Vinstsyfte : Verksamheten måste inte rent faktiskt gå med vinst, däremot ska det vara syftet. Är kraven på självständighet och varaktighet uppfyllda, men verksamheten bedrivs utan vinstsyfte, beskattas eventuella inkomster som inkomst av tjänst, enligt de särskilda regler som gäller för hobbyverksamhet.
-
-Okynnesändring
