@@ -13,7 +13,7 @@ Enligt [Lag (1949:345) om rätten till arbetstagares uppfinningar (LAU)](begrepp
 
 Huvudregeln inom upphovsrätt är att den som skapar ett verk har upphovsrätten till det. För verk som skapats inom ramen för ett anställningsförhållande har dock en princip vuxit fram, enligt vilken arbetsgivaren får upphovsrätt till den anställdes verk, om sambandet mellan verket och anställningen är tillräckligt starkt. 
 
-För anställda lärare finns dock ett undantag från denna princip, som ibland omnämns som det upphovsrättsliga lärarundantaget. Enligt detta tillfaller upphovsrätten lärarna själva, i enlighet med huvudregeln inom upphovsrätt (det är dock oklart vad som gäller för datorprogram, jfr 40 a § URL).
+För anställda lärare finns dock ett undantag från denna princip, som ibland omnämns som det upphovsrättsliga lärarundantaget. Enligt detta tillfaller upphovsrätten lärarna själva, i enlighet med huvudregeln inom upphovsrätt (det är dock oklart vad som gäller för datorprogram, jfr 40 a § URL). Detta undantag är baserat på sedvänja, som kan skilja sig mellan olika universitet och högskolor.
 
 ## Vidare läsning
 
