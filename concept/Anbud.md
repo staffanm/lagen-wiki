@@ -9,4 +9,4 @@ Ett [avtalsförfarande](begrepp:avtal) inleds med ett anbud (synonym: offert) fr
 
 För att inte anses vara ett oförbindande [utbud](begrepp:utbud) måste ett anbud innehålla: # Ett erbjudande eller löfte # med ett preciserat innehåll # som riktar sig till en bestämd adressat # erbjudandet måste vara utan reservation om att anbudet inte är bindande (jfr AvtL 9 §)
 
-Om avtalsformen i sig har [formkrav](begrepp:formkrav) måste även anbudet vara på denna form. I Sverige är ett anbud bindande för. Principen med bindande anbud kallas [löftesprincipen](begrepp:löftesprincipen). Bundenheten varar under [acceptfrist](begrepp:acceptfrist)en som kan anges i anbudet, eller annars fastställs enligt AvtL 3 §.
+Om avtalsformen i sig har [formkrav](begrepp:formkrav) måste även anbudet vara på denna form. I Sverige är ett anbud bindande för anbudsgivaren. Principen med bindande anbud kallas [löftesprincipen](begrepp:löftesprincipen). Bundenheten varar under [acceptfrist](begrepp:acceptfrist)en som kan anges i anbudet, eller annars fastställs enligt AvtL 3 §.
