@@ -591,7 +591,9 @@ In accordance with Article 16 of the Treaty on the Functioning of the European U
 
 #### Article 40
 
-(ex Article 47 TEU) The implementation of the common foreign and security policy shall not affect the application of the procedures and the extent of the powers of the institutions laid down by the Treaties for the exercise of the Union competences referred to in Articles 3 to 6 of the Treaty on the Functioning of the European Union.
+(ex Article 47 TEU)
+
+The implementation of the common foreign and security policy shall not affect the application of the procedures and the extent of the powers of the institutions laid down by the Treaties for the exercise of the Union competences referred to in Articles 3 to 6 of the Treaty on the Functioning of the European Union.
 
 Similarly, the implementation of the policies listed in those Articles shall not affect the application of the procedures and the extent of the powers of the institutions laid down by the Treaties for the exercise of the Union competences under this Chapter.
 
@@ -699,7 +701,9 @@ The Union shall have legal personality.
 
 #### Article 48
 
-(ex Article 48 TEU) 1. The Treaties may be amended in accordance with an ordinary revision procedure. They may also be amended in accordance with simplified revision procedures.
+(ex Article 48 TEU)
+
+1. The Treaties may be amended in accordance with an ordinary revision procedure. They may also be amended in accordance with simplified revision procedures.
 
 Ordinary revision procedure
 
