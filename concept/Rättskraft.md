@@ -12,9 +12,7 @@ Negativ rättskraft tar sikte på hur ett avgörande kan hindra att ett mål tas
 
 Endast en fastställelsetalan kan utöva negativ rättskraft på en senare fastställelsetalan och på liknande sätt kan endast en fullgörelsetalan utöva negativ rättskraft på en senare väckt fullgörelsetalan.
 
-Med samma sak avses samma rättsföljd där en bedömning görs om den nya rättegången avser 1. Samma parter, där själva partställningen inte spelar någon roll och 2. det skall avse samma förpliktelse eller rättighet samt 3. avse samma tidsperiod.
-
-Om man kan besvara ja på dessa frågor kommer rättegång #1 att utöva rättskraft i rättegång #2 och den talan får inte väckas.
+Med samma sak avses samma rättsföljd där en bedömning görs om den nya rättegången avser 1. Samma parter, där själva partställningen inte spelar någon roll och 2. det skall avse samma förpliktelse eller rättighet samt 3. avse samma tidsperiod. Om man kan besvara ja på dessa frågor kommer rättegång #1 att utöva rättskraft i rättegång #2 och den talan får inte väckas.
 
 Detta medför att rättskraften hindrar att en ny talan väcks i rättegång #2 då det handlar om 1. Yrkanden om samma rättsföljd med samma grunder som i rättegång #1 2. Yrkanden om samma rättsföljd men med andra grunder än de som togs upp i rättegång #1 då de nya grunderna tolkas som saker som borde ha tagits upp i #1. 3. Yrkanden som leder till alternativa rättsföljder och således inte handlar om samma sak men som anses ha samma ekonomiska innebörd och hade de tagits upp i en och samma rättegång skulle de inte båda ha kunnat leda till bifallande dom. Till exempel kan man inte i en och samma rättegång vinna bifall både för ett prisavdrag och häva ett köp även om det avser olika rättsföljder, se NJA 1999 s. 520.
 
