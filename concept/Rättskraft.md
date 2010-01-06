@@ -4,9 +4,7 @@ aliases:
   - Negativ rättskraft
   - Positiv rättskraft
 ---
-Med rättskraft avses en tidigare doms betydelse i senare rättegångar och regleras i 17 kap. 11 § RB avseende tvistemål och 30 kap. 9 § RB avseende brottmål. Rättskraft i tvistemål kan vara av två slag, positiv och negativ.
-
-Med positiv rättskraft avses vilken betydelse tidigare faställelsetalan har i en senare väckt fullgörelsetalan. Detta kallas fastställelsetalans prejudiciella värde i en senare fullgörelsetalan.
+Med rättskraft avses en tidigare doms betydelse i senare rättegångar och regleras i 17 kap. 11 § RB avseende tvistemål och 30 kap. 9 § RB avseende brottmål. Rättskraft i tvistemål kan vara av två slag, positiv och negativ. Med positiv rättskraft avses vilken betydelse tidigare faställelsetalan har i en senare väckt fullgörelsetalan. Detta kallas fastställelsetalans prejudiciella värde i en senare fullgörelsetalan.
 
 Negativ rättskraft tar sikte på hur ett avgörande kan hindra att ett mål tas upp igen, det tidigare målets egenskap i form av rättegångshinder i en senare rättegång. Huvudregeln är att samma sak inte skall kunna prövas igen och som även kallas principen om ne bis in idem 17 kap. 11 § 3 st. RB. Om någon väcker en talan rörande en sak som redan avgjorts utgör detta ett rättegångshinder som skall avvisas av rätten på grund av att det föreligger res judicata 17 kap. 11 § 3 st. RB.
 
