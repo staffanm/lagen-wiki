@@ -18,3 +18,5 @@ Legalitetsprincipen har sedan 1994 uttryckligt lagstöd genom [1 kap. 1 § brott
 Legalitetsprincipen kan även uttryckas genom de latinska uttrycken nullum crimen sine lege (Inget brott utan lag) samt nulla poena sine lege (inget straff utan lag).
 
 Sedan Sverige ratificerat [Europakonventionen](begrepp:Europakonventionen) har genom dess artikel 7 ytterligare förstärkning skett.
+
+Legalitetsprincipen återfinns även i 24 kap. 23 § RB där den i huvudsak tar sikte på att tvångsprocessuella tvångsmedel skall ha stöd i lag och skapar rättssäkerhet genom att individen ges möjlighet till förutsägbarhet.
