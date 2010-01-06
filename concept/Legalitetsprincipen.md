@@ -19,4 +19,4 @@ Legalitetsprincipen kan även uttryckas genom de latinska uttrycken nullum crime
 
 Sedan Sverige ratificerat [Europakonventionen](begrepp:Europakonventionen) har genom dess artikel 7 ytterligare förstärkning skett.
 
-Legalitetsprincipen återfinns även i [24 kap. 23 § RB](https://lagen.nu/1942:740#k24p23) där den tar sikte på att tvångsprocessuella tvångsmedel skall ha stöd i lag, därigenom skapas rättssäkerhet genom att individen ges en möjlighet till förutsägbarhet.
+Legalitetsprincipen återfinns även som en processrättslig princip i [24 kap. 23 § RB](https://lagen.nu/1942:740#k24p23) där den tar sikte på att tvångsprocessuella tvångsmedel skall ha stöd i lag, därigenom skapas rättssäkerhet genom att individen ges en möjlighet till förutsägbarhet.
