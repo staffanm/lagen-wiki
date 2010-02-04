@@ -12,7 +12,7 @@ En kritiserad men dock ofta använd definition av fullmakt är " en till tredje 
 
 En fullmakt är ofta skriftlig (för vissa typer av avtal är den skriftliga formen obligatorisk se 27 § 2 st AvtL), men även [ställningsfullmakt](begrepp:ställningsfullmakt) och s.k. [§ 18-fullmakt](begrepp:§ 18-fullmakt) gäller.
 
-En fullmakts gränser utgörs av fullmäktigens [befogenhet](begrepp:befogenhet) (vad han har rätt/kan att göra enligt fullmakten) och hans [behörighet](begrepp:behörighet) (vad han har rätt att/får göra enligt fullmaktsgivaren). För § 18-fullmakter är dessa alltid samma sak.
+En fullmakts gränser utgörs av fullmäktigens [befogenhet](begrepp:befogenhet) (vad han har rätt att/får göra enligt fullmaktsgivaren) och hans [behörighet](begrepp:behörighet) (vad han har rätt/kan att göra enligt fullmakten). För § 18-fullmakter är dessa alltid samma sak.
 
 Om fullmäktigen går utöver sin behörighet blir det resulterande avtalet inte bindande för fullmaktsgivaren (såvida denne inte väljer att [ratihabera](begrepp:ratihabera) avtalet). Tredje man får då ett skadeståndsanspråk mot fullmäktigen (AvtL 25 §), om tredje man inte var i [ond tro](begrepp:ond tro).
 
