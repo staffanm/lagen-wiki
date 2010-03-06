@@ -1,4 +1,6 @@
 ---
 title: Diskretionär prövning
 ---
-En sådan situationer där lag eller författning ger möjlighet för domaren såväl tjänstemannen att pröva rättssaken efter eget godtycke och besluta om rättssaken vart för sig. Ett tolkningsutrymme för fria skön.
+När en domare, tjänsteman eller liknande prövar en rättssak och beslutar efter eget godtycke i det enskilda fallet.
+
+Diskretionär prövning kräver att det finns utrymme för sådana egna bedömningar i lag eller författning.
