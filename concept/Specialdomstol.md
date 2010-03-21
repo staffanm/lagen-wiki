@@ -56,8 +56,6 @@ Tryckfrihetsmål upptas av [tingsrätt](begrepp:tingsrätt) inom vars domkrets [
 
 ## Sjörättsdomstolar
 
-Sjörättsdomstol är sju av [Regeringen](begrepp:Regeringen) utsedda [tingsrätt](begrepp:tingsrätt)er, nämligen [Luleå](begrepp:Luleå), [Sundsvall](begrepp:Sundsvall)s, [Stockholm](begrepp:Stockholm)s, [Kalmar](begrepp:Kalmar), [Malmö](begrepp:Malmö), [Göteborg](begrepp:Göteborg)s och [Karlstad](begrepp:Karlstad) tingsrätter.https://lagen.nu/1994:1009#K21
+Sjörättsdomstol är sju av [Regeringen](begrepp:Regeringen) utsedda [tingsrätt](begrepp:tingsrätt)er, nämligen [Luleå](begrepp:Luleå), [Sundsvall](begrepp:Sundsvall)s, [Stockholm](begrepp:Stockholm)s, [Kalmar](begrepp:Kalmar), [Malmö](begrepp:Malmö), [Göteborg](begrepp:Göteborg)s och [Karlstad](begrepp:Karlstad) tingsrätter (21 kap. 1 § sjölagen)
 
-De mål som handläggs är i första hand sådana som avser förhållanden som regleras i [sjölagen (1994:1009)](https://lagen.nu/1994:1009#K21P1).
-
-Både tvistemål och brottmål handläggs av sjörättsdomstol även i de fall gärningen är belagd med strängare straff i [brottsbalken](begrepp:brottsbalken) än enligt 21 kap 1 § [sjölagen](https://lagen.nu/1994:1009#K21P1).
+De mål som handläggs är i första hand sådana som avser förhållanden som regleras i sjölagen. Både tvistemål och brottmål handläggs av sjörättsdomstol även i de fall gärningen är belagd med strängare straff i [brottsbalken](begrepp:brottsbalken) än enligt sjölagen.
