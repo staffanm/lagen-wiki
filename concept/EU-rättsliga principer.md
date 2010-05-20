@@ -15,9 +15,9 @@ Effektprincipen
 
 Effektivitetsprincipen
 
-Ekonomiska enhetens princip
+[Ekonomiska enhetens princip]
 
-Enhetsprincipen
+[Enhetsprincipen]
 
 Francovichprincipen
 
