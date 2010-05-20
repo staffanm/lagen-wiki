@@ -7,7 +7,7 @@ aliases:
   - Legalitetsgrundsatsen
   - Nullum crimen sine lege
 ---
-Ingen får straffas för en handling som vid tidpunkten inte var uttryckligen förbjudet i lag.
+Den straffrättsliga tillämpningen av principen innebär att ingen får straffas för en handling som vid tidpunkten inte var uttryckligen förbjudet i lag.
 
 Ett grundläggande krav på rättsskipningen inom svensk straffrätt (synonym: [legalitetsgrundsatsen](begrepp:legalitetsgrundsatsen)), kan uttryckas som två förbud:
 
@@ -17,6 +17,8 @@ Legalitetsprincipen har sedan 1994 uttryckligt lagstöd genom [1 kap. 1 § brott
 
 Legalitetsprincipen kan även uttryckas genom de latinska uttrycken nullum crimen sine lege (Inget brott utan lag) samt nulla poena sine lege (inget straff utan lag).
 
-Sedan Sverige ratificerat [Europakonventionen](begrepp:Europakonventionen) har genom dess artikel 7 ytterligare förstärkning skett.
-
 Legalitetsprincipen återfinns även som en processrättslig princip i [RB 24 kap. 23 §](https://lagen.nu/1942:740#k24p23) där den tar sikte på att tvångsprocessuella tvångsmedel skall ha stöd i lag, därigenom skapas rättssäkerhet genom att individen ges en möjlighet till förutsägbarhet.
+
+Legalitetsprincipen tillämpas även inom EU-rätten där den dels har en intern, dels en extern tolkning.
+
+Den interna legalitetsprincipen innebär att de olika institutionerna måste respektera varandras befogenheter och den därpå baserade maktbalansen. Den externa legalitetsprincipen innebär att EU skall verka inom sin kompetens, den kompetens som medelmsstaterna genom fördraget erhållit och inte verka inom andra områden.
