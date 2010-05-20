@@ -3,7 +3,7 @@ title: EU-rättsliga principer
 aliases:
   - Eu rättsliga principer
 ---
-Allmänna rättsprinciper
+[Allmänna EU rättsliga principer](begrepp:Allmänna EU rättsliga principer)
 
 [Cassis doktrinen](begrepp:Cassis doktrinen)
 
