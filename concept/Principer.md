@@ -1,4 +1,6 @@
 ---
 title: Principer
 ---
-[EU rättsliga principer ][br] [Processrättsliga principer](https://lagen.nu/wiki/Processprinciper)
+[Eu rättsliga principer]
+
+[Processrättsliga principer](http://sv.wikipedia.org/wiki/Schengensamarbetet)
