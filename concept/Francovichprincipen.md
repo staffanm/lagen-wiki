@@ -1,0 +1,4 @@
+---
+title: Francovichprincipen
+---
+Enskilda som lidit skada på grund av att en medlemsstat inte har genomfört ett direktiv korrekt kan kräva skadestånd av staten. se [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61990J0006:SV:HTML Domstolens dom den 19 november 1991. - Andrea Francovich och Danila Bonifaci m.fl. mot Italienska republiken. - Begäran om förhandsavgörande: Pretura di Vicenza och Pretura di Bassano del Grappa - Italien. - Underlåtenhet att införliva ett direktiv - Medlemsstatens skadeståndsansvar. - Förenade målen C-6/90 och C-9/90.](begrepp:http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61990J0006:SV:HTML Domstolens dom den 19 november 1991. - Andrea Francovich och Danila Bonifaci m.fl. mot Italienska republiken. - Begäran om förhandsavgörande: Pretura di Vicenza och Pretura di Bassano del Grappa - Italien. - Underlåtenhet att införliva ett direktiv - Medlemsstatens skadeståndsansvar. - Förenade målen C-6/90 och C-9/90.)
