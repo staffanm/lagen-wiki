@@ -21,4 +21,4 @@ Legalitetsprincipen återfinns även som en processrättslig princip i [RB 24 ka
 
 Legalitetsprincipen tillämpas även inom EU-rätten där den dels har en intern, dels en extern tolkning.
 
-Den interna legalitetsprincipen innebär att de olika institutionerna måste respektera varandras befogenheter och den därpå baserade maktbalansen. Den externa legalitetsprincipen innebär att EU skall verka inom sin kompetens, den kompetens som medelmsstaterna genom fördraget erhållit och inte verka inom andra områden.
+Den interna legalitetsprincipen innebär att de olika institutionerna måste respektera varandras befogenheter och den därpå baserade maktbalansen. Den externa legalitetsprincipen innebär att EU skall verka inom sin kompetens, den kompetens som medlemsstaterna genom fördraget erhållit och inte verka inom andra områden.
