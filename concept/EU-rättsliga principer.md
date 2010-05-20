@@ -9,7 +9,7 @@ aliases:
 
 [Colson principen](begrepp:Colson principen)
 
-[Doktrinen om de tvingande hänsynen](begrepp:Doktrinen om de tvingande hänsynen)
+[Doktrinen om tvingande hänsynen](begrepp:Doktrinen om tvingande hänsynen)
 
 Effektprincipen
 
