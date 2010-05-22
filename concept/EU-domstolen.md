@@ -1,7 +1,7 @@
 ---
 title: EU-domstolen
 categories:
-  - EG-rätt
+  - EU-rätt
 aliases:
   - EG-domstolen
 ---
