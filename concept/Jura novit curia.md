@@ -2,6 +2,7 @@
 title: Jura novit curia
 categories:
   - Processrätt
+  - Latinska uttryck
 ---
 Lat. Domstolen känner rätten
 
