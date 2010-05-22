@@ -1,5 +1,7 @@
 ---
 title: EU-rättsliga principer
+categories:
+  - EU-rätt
 aliases:
   - Eu rättsliga principer
 ---
