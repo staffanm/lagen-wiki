@@ -1,6 +1,8 @@
 ---
 title: Effektivitetsprincipen
+categories:
+  - EU-rätt
 ---
 Principen innebär att de rättigheter som följer av gemenskapsrätten inte får vara praktiskt taget omöjliga eller alltför svåra att utöva i praktiken.
 
-Se [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61996J0326:SV:HTML Domstolens dom den 1 december 1998. - B.S. Levez mot T.H. Jennings (Harlow Pools) Ltd. - Begäran om förhandsavgörande: Employment Appeal Tribunal, London - Förenade kungariket. - Socialpolitik - Manliga och kvinnliga arbetstagare - Lika lön - Artikel 119 i EG-fördraget - Direktiv 75/117/EEG - Sanktioner vid överträdelser av diskrimineringsförbudet - Utestående lön - Nationell lagstiftning som begränsar rätten till utestående lön till de två år som föregår talans väckande - Likartade inhemska åtgärder. - Mål C-326/96.](begrepp:http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61996J0326:SV:HTML Domstolens dom den 1 december 1998. - B.S. Levez mot T.H. Jennings (Harlow Pools%29 Ltd. - Begäran om förhandsavgörande: Employment Appeal Tribunal, London - Förenade kungariket. - Socialpolitik - Manliga och kvinnliga arbetstagare - Lika lön - Artikel 119 i EG-fördraget - Direktiv 75/117/EEG - Sanktioner vid överträdelser av diskrimineringsförbudet - Utestående lön - Nationell lagstiftning som begränsar rätten till utestående lön till de två år som föregår talans väckande - Likartade inhemska åtgärder. - Mål C-326/96.)
+Se fallet [Levez (Mål C-326/96)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61996J0326:SV:HTML).
