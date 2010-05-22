@@ -1,4 +1,10 @@
 ---
 title: Jura novit curia
+categories:
+  - Processrätt
 ---
-Jura novit curia är en allmän processrättslig princip som betyder att domstolen känner lagen och innebär att det är rätten som prövar vilka rättsregler som är tillämpliga se RÅ 1995 ref. 45 och NJA 2004 s. 743.
+Lat. Domstolen känner rätten
+
+Allmän processrättslig princip som nnebär att det är rätten som prövar vilka rättsregler som är tillämpliga.
+
+Se RÅ 1995 ref. 45 och NJA 2004 s. 743.
