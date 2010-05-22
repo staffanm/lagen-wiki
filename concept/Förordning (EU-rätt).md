@@ -1,11 +1,11 @@
 ---
 title: Förordning (EU-rätt)
 categories:
-  - EG-rätt
+  - EU-rätt
 aliases:
   - Förordning (EG-rätt)
 ---
-En [EG-rätt](begrepp:EG-rätt)slig lagstiftning som är omedelbart tillämpbar i medlemsländerna
+En [EU-rätt](begrepp:EU-rätt)slig lagstiftning som är omedelbart tillämpbar i medlemsländerna
 
 Framförallt administrativa föreskrifter är utfärdade som förordningar.
 
