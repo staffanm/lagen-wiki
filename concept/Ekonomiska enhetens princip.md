@@ -1,8 +1,8 @@
 ---
 title: Ekonomiska enhetens princip
+categories:
+  - EU-rätt
 ---
 Koncerner betraktas som en enhet vid konkurrensrättsliga bedömningar.
 
 Se [Viho Europe v Commission (Mål C-73/95 P)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61995J0073:SV:HTML).
-
-[EU-rätt](begrepp:EU-rätt)
