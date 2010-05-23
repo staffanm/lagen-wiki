@@ -1,5 +1,7 @@
 ---
 title: Arbetsmiljöombud
+categories:
+  - Arbetsrätt
 ---
 En alternativ beteckning för [skyddsombud](begrepp:skyddsombud).
 
