@@ -5,4 +5,4 @@ title: Principer
 
 [Kommunalrättsliga principer](begrepp:Kommunalrättsliga principer)
 
-[https://lagen.nu/wiki/Processprinciper Processrättsliga principer](begrepp:https://lagen.nu/wiki/Processprinciper Processrättsliga principer)
+[Processrättsliga principer](https://lagen.nu/wiki/Processprinciper)
