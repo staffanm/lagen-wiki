@@ -1,5 +1,7 @@
 ---
 title: Kommunicering
+categories:
+  - Förvaltningsrätt
 ---
 När en part underrättas om något.
 
