@@ -1,5 +1,8 @@
 ---
 title: Kreditprövning
+categories:
+  - Fordringsrätt
+  - Konsumenträtt
 ---
 Att, inför ett [kreditavtal](begrepp:kreditavtal), göra en kvalificerad bedömning av en [konsument](begrepp:konsument)s ekonomiska förutsättningar.
 
