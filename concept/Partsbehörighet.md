@@ -1,5 +1,7 @@
 ---
 title: Partsbehörighet
+categories:
+  - Processrätt
 ---
 Rätten att vara part i en rättegång.
 
