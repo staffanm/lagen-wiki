@@ -1,5 +1,7 @@
 ---
 title: Företagshypotek
+categories:
+  - Fordringsrätt
 ---
 [Hypotekarisk panträtt](begrepp:Hypotekarisk panträtt) till förmån för [borgenärerna](begrepp:borgenärerna)/kreditgivarna.
 
