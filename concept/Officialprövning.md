@@ -1,5 +1,7 @@
 ---
 title: Officialprövning
+categories:
+  - Processrätt
 ---
 En [myndighet](begrepp:myndighet)s eller [domstol](begrepp:domstol)s prövning av en fråga på eget initiativ.
 
