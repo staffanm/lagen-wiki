@@ -1,5 +1,7 @@
 ---
 title: Gärningsman
+categories:
+  - Straffrätt
 ---
 Den person som utfört en gärning som enligt lag utgör ett brott.
 
