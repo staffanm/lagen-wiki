@@ -1,5 +1,7 @@
 ---
 title: Instansordningens princip
+categories:
+  - Processrätt
 ---
 Processrättslig princip som återfinns i 13 kap. 3 § 2 st. 2 p. RB.
 
