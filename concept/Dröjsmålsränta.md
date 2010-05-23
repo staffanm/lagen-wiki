@@ -1,5 +1,7 @@
 ---
 title: Dröjsmålsränta
+categories:
+  - Fordringsrätt
 ---
 En ränta som ska erläggas vid försenad betalning av en fordran.
 
