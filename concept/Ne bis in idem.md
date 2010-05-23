@@ -1,5 +1,7 @@
 ---
 title: Ne bis in idem
+categories:
+  - Processrätt
 ---
 En [processrätt](begrepp:processrätt)slig princip som innebär att samma sak får inte prövas två gånger.
 
