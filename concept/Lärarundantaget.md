@@ -1,5 +1,7 @@
 ---
 title: Lärarundantaget
+categories:
+  - Upphovsrätt
 ---
 Undantag från regeln att en arbetsgivare äger ensamrätten till ett verk eller en uppfinning som en anställd skapat som en del i sitt arbete.
 
