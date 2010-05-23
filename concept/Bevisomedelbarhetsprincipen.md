@@ -1,5 +1,7 @@
 ---
 title: Bevisomedelbarhetsprincipen
+categories:
+  - Processrätt
 ---
 Bevisomedelbarhetsprincipen är en processrättsliga princip som återfinns dels i RB 35 kap. 8 § och dels i RB 35 kap. 14 §
 
