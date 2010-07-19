@@ -9,4 +9,4 @@ aliases:
 
 Vid ett köp ger tradition förvärvaren ett skydd mot säljarens borgenärer, vilket han annars inte har (undantaget konsumentköp).
 
-Se exempelvis lösöresköpslagen och KKöpL 48 §.
+Se exempelvis lösöresköpslagen och KKöpL 49 §.
