@@ -19,7 +19,7 @@ De allmänna domstolarna handlägger [brottmål](begrepp:brottmål), [tvistemål
 
 ## Förvaltningsdomstolar
 
-Förvaltningsdomstolarna är *[Regeringsrätten](begrepp:Regeringsrätten) *[Kammarrätt](begrepp:Kammarrätt)erna *[Länsrätt](begrepp:Länsrätt)erna (från 2010-02-15 [Förvaltningsrätt](begrepp:Förvaltningsrätt)erna)
+Förvaltningsdomstolarna är *[Högsta förvaltningsdomstolen](begrepp:Högsta förvaltningsdomstolen) (tidigare [Regeringsrätten](begrepp:Regeringsrätten)) *[Kammarrätt](begrepp:Kammarrätt)erna *[Förvaltningsrätt](begrepp:Förvaltningsrätt)erna (tidigare [Länsrätt](begrepp:Länsrätt)erna)
 
 De allmänna förvaltningsdomstolarna handlägger mål som rör tvister mellan enskilda personer och [förvaltningsmyndighet](begrepp:förvaltningsmyndighet)er. Sådana mål är exempelvis skattemål, [försäkringskassa](begrepp:försäkringskassa)ns [beslut](begrepp:beslut), och [kommunala beslut](begrepp:kommun).
 
