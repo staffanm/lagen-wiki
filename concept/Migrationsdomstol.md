@@ -9,6 +9,6 @@ Migrationsdomstol är en [specialdomstol](begrepp:specialdomstol) som handlägge
 
 Det finns tre migrationsdomstolar i landet och dessa är knutna till [förvaltningsrätten i Stockholms län](http://www.domstol.se/default____2664.aspx), [förvaltningsrätten i Göteborg](http://www.domstol.se/default____2751.aspx/) samt [förvaltningsrätten i Skåne län](http://www.domstol.se/templates/DV_ContactInfo____600.aspx).
 
-Migrationsöverdomstolen, dit mål från migrationsdomstolarna kan överklagas, är en avdelning på [kammarrätt](begrepp:kammarrätt)en i Stockholm.
+Migrationsöverdomstolen, dit mål från migrationsdomstolarna kan överklagas, är en avdelning på [kammarrätten i Stockholm](begrepp:kammarrätten i Stockholm).
 
 Migrationsöverdomstolens beslut kan inte överklagas.
