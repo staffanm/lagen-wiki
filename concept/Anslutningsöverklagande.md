@@ -1,0 +1,4 @@
+---
+title: Anslutningsöverklagande
+---
+Anslutningsöverklagande är när åklagaren överklagar en tingsrättsdom till hovrätten i anslutning till den tilltalades överklagande. Detta utgör ett mellanläge mellan åklagarens "bestrider ändring" och att åklagaren själv aktiv överklagar målet. Den praktiska konsekvensen av ett anslutningsöverklagande är att vid fällande dom kan påföljden antingen skärpas eller mildras. Vid ett överklagande av den tilltalade, som åklagaren bara bestrider ändring på, kan domen endast fastställas/upphävas eller mildras såväl vad avser skuldfrågan som påföljdsfrågan. Vid anslutningsöverklagande har den tilltalade/den överklagande parten möjlighet att återkalla målet. om han/hon fruktar att domen kan komma att skärpas. Om åklagaren däremot aktivt överklagat domen, måste målet genomföras i den högre instansen.
