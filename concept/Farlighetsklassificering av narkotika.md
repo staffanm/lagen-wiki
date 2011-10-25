@@ -9,7 +9,7 @@ Olika slags narkotika anses vara olika farlig. Tidigare har domstolarna ansett a
 
 Som jämförelseenhet mellan olika preparat angav HD att det med hänsyn till att preparatens renhetsgrad ofta varierar förhållandevis kraftig är aktuellt att använda sig av termen missbrukardoser och att en bedömning ska grundas på omständigheterna i det särskilda fallet. - antalet missbrukardoser - narkotikans monetära värde - att de tilltalade hade haft ekonomisk vinning av brotten och att dessa inte hade haft samband med något eget missbruk
 
-HD ansåg att särskilda bedömningsgrunder för om det förelåg grovt narkotikabrott utgjordes av, om verksmaheten utgjorde led i en verksamhet som bedrivits - i större omfattning yrkesmässigt - avsett särskilt stor mängd narkotika - varit av särskilt farlig art hänsynslös art - organiserad narkotikahandel med inriktning på att i vinningssyfte sprida missbruk och utnyttja missbrukarnas beroende
+HD ansåg att särskilda bedömningsgrunder för om det förelåg grovt narkotikabrott utgjordes av, om verksamheten utgjorde led i en verksamhet som bedrivits - i större omfattning yrkesmässigt - avsett särskilt stor mängd narkotika - varit av särskilt farlig art hänsynslös art - organiserad narkotikahandel med inriktning på att i vinningssyfte sprida missbruk och utnyttja missbrukarnas beroende
 
 Den stränga straffskala som gäller för narkotikabrott ska förbehållas de allvarligaste gärningarna om det avsett - Internationella brottssyndikat - I kalkylen för att begå brottet har det närmast haft karaktären av en företagsekonomisk riskfaktor
 
