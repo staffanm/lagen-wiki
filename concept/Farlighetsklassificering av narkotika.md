@@ -1,5 +1,6 @@
 ---
 title: Farlighetsklassificering av narkotika
+author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Kirk]"
 categories:
   - Specialstraffrätt
 aliases:
