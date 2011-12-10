@@ -10,7 +10,7 @@ Sammanfattning av olika prejudikat avseende narkotikabedömningar
 
 Även om det i lagrummen för narkotikastraff förekommer olika bedömningsgrunder var gränsdragningen mellan olika grader av narkotikabrott tidigare helt baserad på mängdresonemang. Två personer kunde genom att dela på 200 g narkotika, komma att inneha 100 g narkotika var med samma egenskaper. Om nu den ene spädde ut sina 100 g med 4 900 g druvsocker sekunden innan polisen stormade in i huset togs det inte i beaktelse när straffvärdebedömningen gjordes. Domstolar dömde båda gärningsmännen endast utifrån den mängd substans med narkotiska egenskaper de innehade, oavsett renhetsgrad. Den ene kunde på grund av detta dömas för innehav av 100 gram narkotika, den andre för innehav av 5 kg narkotika.
 
-Idag utgör mängden narkotika fortfarande en stor del av bedömningen, men i och med NJA 2011 s. 357 utgör mängden inte längre den enda bedömningsgrunden (NJA 2011 s. 357 p. 11.).
+Idag utgör mängden narkotika fortfarande en stor del av bedömningen, men i och med NJA 2011 s. 357 utgör mängden inte längre den enda bedömningsgrunden p. 11.
 
 I målet uttalar HD att bruket av tabeller och schabloner upprättade med stöd av praxis där narkotikaart och mängd anges, är värdefulla hjälpmedel men bara när det inte avser grov brottslighet och särskilt vid mindre mängder, se NJA 2011 s. 357 p. 22 samt NJA 2008 s. 653.
 
