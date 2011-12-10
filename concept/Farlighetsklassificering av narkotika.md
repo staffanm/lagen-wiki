@@ -26,7 +26,7 @@ Försäljning av narkotika enligt 1 § 5 p. NSL har högre straffvärdet än inn
 
 En sådan bedömning ska även grundas på omständigheterna i det särskilda fallet, se NJA 2011 s. 357 p.25-27. * - antalet missbrukardoser * - narkotikans monetära värde * - att de tilltalade hade haft ekonomisk vinning av brotten och att dessa inte hade haft samband med något eget missbruk
 
-HD ansåg att särskilda bedömningsgrunder för om det förelåg grovt narkotikabrott utgjordes av, om verksamheten utgjorde led i en verksamhet som bedrivits, se NJA 2011 s. 357 p.27-28 * - i större omfattning yrkesmässigt * - avsett särskilt stor mängd narkotika * - varit av särskilt farlig art hänsynslös art * - organiserad narkotikahandel med inriktning på att i vinningssyfte sprida missbruk och utnyttja missbrukarnas beroende
+HD ansåg att särskilda bedömningsgrunder för om det förelåg grovt narkotikabrott utgjordes av, om verksamheten utgjorde led i en verksamhet som bedrivits, se NJA 2011 s. 357 p.27-28 * - i större omfattning yrkesmässigt * - avsett särskilt stor mängd narkotika * - varit av särskilt farlig art hänsynslös art * - organiserad narkotikahandel med inriktning på att i vinningssyfte sprida missbruk och utnyttja missbrukarnas beroende * - om det vid ett samköp inte funnits någon uppdelning av narkotikan mellan köparna utan narkotikan har inhandlats med syfte att gemensamt säljas vidare vid olika fester eller liknande där personerna kanske avsett att dela på förtjänsten, finns det skäl att se allvarligare på situationen.
 
 Den stränga straffskala som gäller för narkotikabrott ska förbehållas de allvarligaste gärningarna om det avsett * - internationella brottssyndikat * - i kalkylen för att begå brottet har det närmast haft karaktären av en företagsekonomisk riskfaktor
 
