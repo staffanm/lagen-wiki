@@ -34,7 +34,7 @@ Den stränga straffskala som gäller för narkotikabrott ska förbehållas de al
 
 Omständigheter som kan tala mot att det är grovt brott är att - de tilltalade hade haft en oklar uppfattning om farligheten hos olika narkotikapreparat, se NJA 2011 s. 357 p. 13. - narkotikabrott som står i ett direkt samband med eget missbruk, se NJA 2011 s. 357 p. 15. Dock är det inte att läsa som att eget missbruk utgör förmildrande omständighet då det vore att läsa fallet motsatsvis, vilket inte får göras. - framför allt, det inflytande som brottslighetens huvudman hade utövat på dem (HD är oklar på denna punkt. Det vore rimligast att uppfatta det så att HD avser huvudmans inflytande på de tilltalade, då det inte går att utöva något inflytande på narkotika), se NJA 2011 s. 357 p. 13.
 
-Slutsats på hur användningen av renhetsgrad bör tillämpas vid bedömning i fråga om narkotikabrott
+Slutsats på hur användningen av renhetsgrad bör tillämpas i fråga om narkotikabrott
 
 Rimligt vore att resonemang om renhet föregår alla resonemang om missbrukardoser. Sådant resonemang skulle resultera i att 100 gram amfetamin med en renhet på exempelvis 4 %, i relation till den normala renheten i missbrukarled på 20-40 % kommer vara från (20% delat med 4 %)=5 ggr svagare upp till och med (40 % delat med 4%)= 10 ggr svagare.
 
