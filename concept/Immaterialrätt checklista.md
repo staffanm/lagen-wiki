@@ -87,4 +87,10 @@ D) Spridning
 
 ## 3
 
-Upphovsmannens ideella rättigheter. Kan ej överlåtas.
+Upphovsmannens ideella rättigheter. Kan ej överlåtas, endast efterges i mycket liten omfattning.
+
+A) Paternitetsrätt, enligt 1 st. (namngivning)
+
+B) Respekträtt (1. Ändringar, 2. form och sammanhang)
+
+OBS! Parodier och travestier är okej, enligt gammal hävd. Se även Alfonsfallet!
