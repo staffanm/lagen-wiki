@@ -111,14 +111,18 @@ Nej -> Verket är fritt.
 
 ## 5
 
-OBS! Den ideella rätten inskränks inte!
+OBS! Den ideella rätten inskränks inte! (11§)
 
 U: 26 c §
 
-Framställning
+Inskränkningar vid framställning
 
-Undervisning:
+- 14 §: Upptagningar av egna framföranden för undervisning.
 
-14 §: Upptagningar av egna framföranden.
+- 18 §: Samlingsverk för undervisning.
 
-18 §: Samlingsverk för undervisning.
+- 16 §: Arkiv och bibliotek.
+
+- 11a §: Tillfälliga kopior.
+
+- 12 §: Exemplar för privat bruk.
