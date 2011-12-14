@@ -103,7 +103,7 @@ OBS! Parodier och travestier är okej, enligt gammal hävd, och utgör undantag 
 
 ## 4
 
-Är situationen sådan som beskrivs under 3 eller 4?
+Är situationen sådan som beskrivs under 2 eller 3?
 
 Ja -> Vidare till punkt 5 och leta efter inskränkningar i upphovsmannens rättigheter.
 
