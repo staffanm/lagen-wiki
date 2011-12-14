@@ -57,7 +57,7 @@ A) Överföring till allmänheten
 
 B) Offentligt framförande
 
-- Offentligt
+- Offentligt: Dvs när det inte är en sluten krets (1. Individuellt bestämd, 2. utåt avgränsad enhet, 3. med påvisbart samband mellan medlemmarna.)
 
 - Framförande
 
