@@ -39,9 +39,11 @@ Nej -> Vidare till punkt 2.
 
 2
 
-Upphovsmannens ekonomiska rättigheter (2§):
+Upphovsmannens ekonomiska rättigheter (2§). Dessa rättigheter kan överlåtas.
 
 1. Exemplarframställning (2st)
+
+- Behöver inte vara någon exakt kopia. Fotografier, ljudupptagningar, avbildningar mha noter är också exemplarframställning.
 
 2. Rätt att göra verket tillgängligt för allmänheten. (3st)
 
