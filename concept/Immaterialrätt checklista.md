@@ -141,4 +141,4 @@ Anlita utomstående, som kopierar åt en: Det är okej. Men ej om ej utomståend
 
 Inskränkningar vid spridning
 
-- KONSUMTIONSREGELN, 19 §.
+- KONSUMTIONSREGELN, 19 §. -> Se dock 26 n, om följerätt vid konstverk.
