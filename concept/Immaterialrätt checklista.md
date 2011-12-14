@@ -13,7 +13,9 @@ title: Immaterialrätt checklista
 
 ## Upphovsrätt
 
-1: Är verket originellt, enligt 1:1 URL?
+## 1
+
+Är verket originellt, enligt 1:1 URL?
 
 Ja -> vidare till 1.1
 
