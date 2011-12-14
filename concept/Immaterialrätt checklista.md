@@ -133,6 +133,8 @@ Inskränkningar vid framställning
 
 3. Privat bruk
 
+## Varumärkesrätt
+
 4. Förlagan ska vara lovlig. (4st)
 
 Arbetsplats: Får ta kopior åt sig själv, men ej åt kollegor (NJA II 1961 s 122). Se dock 42 b §, om avtalslicens för företagskopiering.
