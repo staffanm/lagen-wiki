@@ -33,9 +33,15 @@ Skyddssubjektet. Skyddet tillfaller:
 
 Tumregeln - Anställningsförhållande
 
-Är upphovsrätten preskriberad (43 – 44a §§)?
+1.2 Är upphovsrätten preskriberad (43 – 44a §§)?
 
 Ja -> Verket är fritt, men glöm inte klassikerskyddet i 51§.
+
+Nej -> Vidare till punkt 1.3.
+
+1.3 Faller verket in under undantagen i 9§?
+
+Ja -> Verket är fritt.
 
 Nej -> Vidare till punkt 2.
 
