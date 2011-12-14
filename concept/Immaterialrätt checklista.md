@@ -55,6 +55,8 @@ A) Överföring till allmänheten
 
 - Från samma plats
 
+- SE ÄVEN KOMPLETTERINGSREGELN (sista stycket)!
+
 B) Offentligt framförande
 
 - Offentligt: Dvs när det inte är en sluten krets (1. Individuellt bestämd, 2. utåt avgränsad enhet, 3. med påvisbart samband mellan medlemmarna.)
@@ -65,6 +67,8 @@ B) Offentligt framförande
 
 - Med eller utan teknik
 
+- SE ÄVEN KOMPLETTERINGSREGELN (sista stycket)!
+
 C) Offentlig visning
 
 - Görs tillgängligt
@@ -74,3 +78,11 @@ C) Offentlig visning
 - Utan tekniska hjälpmedel
 
 D) Spridning
+
+- Allmänheten
+
+- Spridning
+
+## 3
+
+Upphovsmannens ideella rättigheter. Kan ej överlåtas.
