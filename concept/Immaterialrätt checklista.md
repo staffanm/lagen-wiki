@@ -19,8 +19,10 @@ Ja -> vidare till 1.1
 
 Nej -> Se [närstående rättigheter](begrepp:närstående rättigheter)
 
-1.1: Skyddet är formlöst och uppkommer i samband med skapandet. Upphovsmannen (1§ - den som skapat, 6§ - flera upphovsmän, 7§ - okänd upphovsman) får då ideella och ekonomiska rättigheter.
+1.1: Skyddet är formlöst och uppkommer i samband med skapandet. Skyddet tillfaller: 1§ - den som skapat, 6§ - flera upphovsmän, 7§ - okänd upphovsman, Tumregeln - Anställningsförhållande
 
-OBS! Anställningsförhållande: Tumregeln
+Är upphovsrätten preskriberad (43 – 44a §§)?
 
-OBS! Preskription:
+Ja -> Verket är fritt, men glöm inte klassikerskyddet i 51§. Nej -> Vidare till punkt 2.
+
+2
