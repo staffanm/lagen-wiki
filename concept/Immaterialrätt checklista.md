@@ -170,3 +170,9 @@ OBS! Ritningar får ej ändras/avbildas!
 Citat
 
 - 22 §: Ok att citera ur offentliggjorda verk.
+
+Datorprogram
+
+- 26g §
+
+- 26h §
