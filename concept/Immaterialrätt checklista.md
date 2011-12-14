@@ -37,7 +37,7 @@ Ja -> Verket är fritt, men glöm inte klassikerskyddet i 51§.
 
 Nej -> Vidare till punkt 2.
 
-2
+## 2
 
 Upphovsmannens ekonomiska rättigheter (2§). Dessa rättigheter kan överlåtas.
 
