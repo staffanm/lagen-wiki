@@ -31,7 +31,7 @@ Skyddssubjektet. Skyddet tillfaller:
 
 7§ - okänd upphovsman,
 
-Tumregeln - Anställningsförhållande
+Tumregeln - Anställningsförhållande (vid datorprogram gäller 40a §)
 
 1.2 Är upphovsrätten preskriberad (43 – 44a §§)?
 
