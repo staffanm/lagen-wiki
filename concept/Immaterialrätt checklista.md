@@ -19,7 +19,7 @@ title: Immaterialrätt checklista
 
 Ja -> vidare till 1.1
 
-Nej -> Se [närstående rättigheter](begrepp:närstående rättigheter)
+Nej -> Se [närstående rättigheter (1)](begrepp:närstående rättigheter (1%29)
 
 1.1: Skyddet är formlöst och uppkommer i samband med skapandet.
 
