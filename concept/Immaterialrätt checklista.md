@@ -19,7 +19,9 @@ Ja -> vidare till 1.1
 
 Nej -> Se [närstående rättigheter](begrepp:närstående rättigheter)
 
-1.1: Skyddet är formlöst och uppkommer i samband med skapandet. Skyddet tillfaller: 1§ - den som skapat, 6§ - flera upphovsmän, 7§ - okänd upphovsman, Tumregeln - Anställningsförhållande
+1.1: Skyddet är formlöst och uppkommer i samband med skapandet.
+
+Skyddet tillfaller: 1§ - den som skapat, 6§ - flera upphovsmän, 7§ - okänd upphovsman, Tumregeln - Anställningsförhållande
 
 Är upphovsrätten preskriberad (43 – 44a §§)?
 
