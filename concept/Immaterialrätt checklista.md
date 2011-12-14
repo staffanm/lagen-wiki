@@ -59,9 +59,9 @@ B) Offentligt framförande
 
 - Offentligt: Dvs när det inte är en sluten krets (1. Individuellt bestämd, 2. utåt avgränsad enhet, 3. med påvisbart samband mellan medlemmarna.)
 
-- Framförande
+- Framförande (även kortare uppspelningar räknas som framförande, se NJA 86 s. 702, försäljaren)
 
-- På samma plats
+- På samma plats (t ex en restaurang spelar radiomusik)
 
 - Med eller utan teknik
 
