@@ -142,3 +142,11 @@ Anlita utomstående, som kopierar åt en: Det är okej. Men ej om ej utomståend
 Inskränkningar vid spridning
 
 - KONSUMTIONSREGELN, 19 §. -> Se dock 26 n, om följerätt vid konstverk.
+
+Inskränkningar vid visning av exemplar
+
+- 20 §: Exemplar får visas offentligt i vissa fall.
+
+Inskränkningar vid offentligt framförande
+
+- 21 §:
