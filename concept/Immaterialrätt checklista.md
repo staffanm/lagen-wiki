@@ -126,3 +126,13 @@ Inskränkningar vid framställning
 - 11a §: Tillfälliga kopior.
 
 - 12 §: Exemplar för privat bruk.
+
+1. skriftlig form (dvs ej kartor och grafik), men både analog och digital skrift.
+
+2. begränsade delar eller begränsat omfång.
+
+3. Privat bruk
+
+(Arbetsplats: Får ta kopior åt sig själv, men ej åt kollegor (NJA II 1961 s 122). Se dock 42 b §, om avtalslicens för företagskopiering.)
+
+(Anlita utomstående, som kopierar åt en: Det är okej. men ej om ej utomstående "anlitar sig själv")
