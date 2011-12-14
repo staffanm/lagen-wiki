@@ -110,3 +110,15 @@ Ja -> Vidare till punkt 5 och leta efter inskränkningar i upphovsmannens rätti
 Nej -> Verket är fritt.
 
 ## 5
+
+OBS! Den ideella rätten inskränks inte!
+
+U: 26 c §
+
+Framställning
+
+Undervisning:
+
+14 §: Upptagningar av egna framföranden.
+
+18 §: Samlingsverk för undervisning.
