@@ -150,3 +150,23 @@ Inskränkningar vid visning av exemplar
 Inskränkningar vid offentligt framförande
 
 - 21 §:
+
+1. Ej det huvudsakliga, ej inträde, utan förvärvssyfte.
+
+Eller:
+
+2. Vid undervisning och gudstjänst
+
+Inskränkningar vid konstverk
+
+- 20a §
+
+- 23 §: Konstverk som återges tillsammans med text.
+
+- 24 §: Byggnader får fritt avbildas. Likaså vissa konstverk.
+
+OBS! Ritningar får ej ändras/avbildas!
+
+Citat
+
+- 22 §: Ok att citera ur offentliggjorda verk.
