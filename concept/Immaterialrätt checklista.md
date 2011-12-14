@@ -133,6 +133,12 @@ Inskränkningar vid framställning
 
 3. Privat bruk
 
+4. Förlagan ska vara lovlig. (4st)
+
 Arbetsplats: Får ta kopior åt sig själv, men ej åt kollegor (NJA II 1961 s 122). Se dock 42 b §, om avtalslicens för företagskopiering.
 
-Anlita utomstående, som kopierar åt en: Det är okej. men ej om ej utomstående "anlitar sig själv"
+Anlita utomstående, som kopierar åt en: Det är okej. Men ej om ej utomstående "anlitar sig själv".
+
+Inskränkningar vid spridning
+
+- KONSUMTIONSREGELN, 19 §.
