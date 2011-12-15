@@ -1,6 +1,10 @@
 ---
 title: Immaterialrätt checklista
 ---
+{|style="border: solid 1px #FF6666; background: #FFFFFF; padding: 5px 5px 0 5px; width:100%; margin-bottom: 2px;" | style="vertical-align:top"|Hej Viktor,
+
+Kul att du hittat till lagen.nu's wiki-del, och intressant arbete med checklistan. Jag måste dock fråga vad syftet med denna är? Eftersom den skrivs på huvuddelen av wikin är den synlig utåt som en del av lagen.nu på https://lagen.nu/begrepp/Immaterialrätt_checklista, och det är kanske inte meningen? --[Staffan Malmgren](begrepp:Användare:Staffan) 15 december 2011 kl. 21.22 (CET) |}
+
 ## Vilken typ av immaterialrätt?
 
 Gå igenom:
