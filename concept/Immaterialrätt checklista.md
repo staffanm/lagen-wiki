@@ -195,11 +195,15 @@ Nej -> Varumärket är fritt.
 
 1.1: Skyddet uppstår genom:
 
-- Registrering enligt 1:6 § hos PTV, som gäller i Sverige.
+A) Registrering enligt 1:6 § hos PTV, som gäller i Sverige.
 
-- Gemenskapsregistrering enligt 10:5 + förordning om gemenskapsvarumärken, som gäller i hela EU.
+- Vad ansökan ska innehålla, 2:1 §.
 
-- Inarbetning enligt 1:7 §, som gäller där varumärket är inarbetat.
+- Hinder för utfärdande, 2:4-2:10 §.
+
+B) Gemenskapsregistrering enligt 10:5 + förordning om gemenskapsvarumärken, som gäller i hela EU.
+
+C) Inarbetning enligt 1:7 §, som gäller där varumärket är inarbetat.
 
 Skyddssubjektet. Skyddet tillfaller:
 
