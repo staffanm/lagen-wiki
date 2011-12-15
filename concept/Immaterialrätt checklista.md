@@ -35,6 +35,8 @@ Tumregeln - Anställningsförhållande (vid datorprogram gäller 40a §)
 
 1.2 Är upphovsrätten preskriberad (43 – 44a §§)?
 
+OBS! Nyinspelningar av fria verk är dock upphovsrättsligt skyddade!
+
 Ja -> Verket är fritt, men glöm inte klassikerskyddet i 51§.
 
 Nej -> Vidare till punkt 1.3.
