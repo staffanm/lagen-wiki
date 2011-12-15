@@ -201,6 +201,8 @@ A) Registrering enligt 1:6 § hos PTV, som gäller i Sverige.
 
 - Hinder för utfärdande, 2:4-2:10 §.
 
+- Skyddet delas in i olika varu- och tjänsteklasser, 2:13.
+
 B) Gemenskapsregistrering enligt 10:5 + förordning om gemenskapsvarumärken, som gäller i hela EU.
 
 C) Inarbetning enligt 1:7 §, som gäller där varumärket är inarbetat.
