@@ -115,7 +115,7 @@ A) Paternitetsrätt, enligt 1 st. (namngivning)
 
 B) Respekträtt (1. Ändringar, 2. form och sammanhang)
 
-OBS! Parodier och travestier är okej, enligt gammal hävd, och utgör undantag från respekträtten. Se även Alfonsfallet!
+OBS! Parodier och travestier är okej, enligt gammal hävd, och utgör undantag från respekträtten. Se Alfonsfallet, där det fastslogs att det är ok om den skapade produkten innehåller en komisk effekt som är främmande för originalverket!
 
 ## 4
 
