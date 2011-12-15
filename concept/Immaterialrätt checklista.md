@@ -209,7 +209,7 @@ Ja -> Varumärket är fritt!
 
 Nej -> Vidare till punkt 1.3.
 
-1.3 Faller verket in under undantagen för ensamrätten?
+1.3 Faller varumärket in under undantagen för ensamrätten?
 
 - Kännetecken som består av en form som följer av varans art, en form som är nödvändig för att uppnå ett tekniskt resultat. (1:9 §)
 
