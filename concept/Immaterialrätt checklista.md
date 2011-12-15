@@ -219,7 +219,9 @@ Nej -> Vidare till punkt 1.3.
 
 - Hinder mot registrering enligt 2:4-11 §§.
 
-Ja -> Varumärket är fritt. Nej -> Vidare till punkt 2.
+Ja -> Varumärket är fritt.
+
+Nej -> Vidare till punkt 2.
 
 OBS! JU SVAGARE SÄRSKILJNINGSFÖRMÅGA, JU SVAGARE SKYDD!
 
