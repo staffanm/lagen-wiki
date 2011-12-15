@@ -37,7 +37,7 @@ Skyddssubjektet. Skyddet tillfaller:
 
 7§ - okänd upphovsman,
 
-Tumregeln - Anställningsförhållande (vid datorprogram gäller 40a §)
+OBS! Vid anställningsförhållande. Kan regleras i avtal (27§, om överlåtelse). Annars gäller "tumregeln": Om verket har uppkommit som resultat av ett åtagande som du har mot arbetsgivaren, får arbetsgivaren använda sig av verket. Vid datorprogram gäller 40a §!
 
 1.2 Är upphovsrätten preskriberad (43 – 44a §§)?
 
