@@ -185,15 +185,17 @@ Datorprogram
 
 Är varumärket:
 
-1) Särskiljande? (2:5 § och 1:5 §)
+1) Särskiljande? (2:5 § och 1:5 §) Det ska finnas en associativ förmåga - en koppling mellan märket och produkten.
 
-2) Möjligt att återge grafiskt? (1:4 §)
+2) Möjligt att återge grafiskt? (1:4 §) Noter är okej för ljud (hemglassfallet). Färger kan återges grafiskt, men dte är svårt att påvisa särskiljningsförmåga (samband mellan själva färgen och produkten).
 
 Ja -> vidare till 1.1
 
 Nej -> Varumärket är fritt.
 
-1.1: Skyddet uppstår genom registrering enligt 1:6 §. Eller genom gemenskapsregistrering. Eller genom inarbetning enligt 1:7 §.
+1.1: Skyddet uppstår genom:
+
+- Registrering enligt 1:6 § hos PTV, som gäller i Sverige. - Gemenskapsregistrering enligt 10:5 + förordning om gemenskapsvarumärken, som gäller i hela EU. - Inarbetning enligt 1:7 §, som gäller där varumärket är inarbetat.
 
 Skyddssubjektet. Skyddet tillfaller:
 
@@ -218,6 +220,8 @@ Nej -> Vidare till punkt 1.3.
 - Hinder mot registrering enligt 2:4-11 §§.
 
 Ja -> Varumärket är fritt. Nej -> Vidare till punkt 2.
+
+OBS! JU SVAGARE SÄRSKILJNINGSFÖRMÅGA, JU SVAGARE SKYDD!
 
 ## 2
 
