@@ -178,3 +178,31 @@ Datorprogram
 - 26h §
 
 ## Varumärkesrätt
+
+## 1
+
+Är varumärket:
+
+1) Särskiljande? (2:5 § och 1:5 §) 2) Möjligt att återge grafiskt? (1:4 §)
+
+Ja -> vidare till 1.1 Nej -> Varumärket är fritt.
+
+1.1: Skyddet uppstår genom registrering enligt 1:6 §. Eller genom inarbetning enligt 1:7 §.
+
+Skyddssubjektet. Skyddet tillfaller:
+
+- Den som registrerar. (1:6§) Eller - Den som inarbetar (1:7§)
+
+1.2 Är varumärkesskyddet preskriberat (2:32-33 §§)?
+
+Obegränsad skyddstid. Det krävs dock att registreringen förnyas vart 10:e år, vilket kan göras så länge märket används. Ett inarbetat varumärke är skyddat så länge inarbetningen fortgår.
+
+Ja -> Varumärket är fritt! Nej -> Vidare till punkt 1.3.
+
+1.3 Faller verket in under undantagen för ensamrätten?
+
+- Kännetecken som består av en form som följer av varans art, en form som är nödvändig för att uppnå ett tekniskt resultat. (1:9 §)
+
+- Hinder mot registrering enligt 2:4-11 §§.
+
+Ja -> Verket är fritt. Nej -> Vidare till punkt 2.
