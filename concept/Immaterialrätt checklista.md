@@ -59,6 +59,8 @@ OBS! JU SVAGARE ORIGINALITET, JU SVAGARE SKYDD! = Kopior kan lägga sig närmre.
 
 Upphovsmannens ekonomiska rättigheter (2§). Dessa rättigheter kan överlåtas.
 
+OBS! Ensamrätten gäller även om verket har ändrats på något sätt (dvs när dte inte är fråga om direkt avbildning), så länge verkets inre form bibehålls.
+
 1. Exemplarframställning (2st)
 
 - Behöver inte vara någon exakt kopia. Fotografier, ljudupptagningar, avbildningar mha noter är också exemplarframställning.
