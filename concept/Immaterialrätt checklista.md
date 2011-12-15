@@ -63,7 +63,7 @@ OBS! JU SVAGARE ORIGINALITET, JU SVAGARE SKYDD! = Kopior kan lägga sig närmre.
 
 Upphovsmannens ekonomiska rättigheter (2§). Dessa rättigheter kan överlåtas.
 
-OBS! Ensamrätten gäller även om verket har ändrats på något sätt (dvs när dte inte är fråga om direkt avbildning), så länge verkets inre form bibehålls.
+OBS! Ensamrätten gäller även om verket har ändrats på något sätt (dvs när dte inte är fråga om direkt avbildning), så länge verkets inre form bibehålls. Tänk dock på att det kan vara fråga om oberoende dubbelskapande, är dte troligt att två personer skulle ha kunnat skapa samma sak oberoende av varandra (tänk bla på variationsmöjligheterna)?
 
 1. Exemplarframställning (2st)
 
