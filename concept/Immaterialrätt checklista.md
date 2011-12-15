@@ -276,3 +276,13 @@ Nej -> Märket är fritt.
 Ja -> Gå vidare till punkt 4 och leta efter inskränkningar.
 
 ## 4
+
+Inskränkningar i ensamrätten:
+
+- 1:11 §: En rad inskränkningar.
+
+- 1:12 §: KONSUMTIONSREGELN
+
+- 3:2 §: Varumärket måste verkligen brukas.
+
+- 3:1 §: Degeneration
