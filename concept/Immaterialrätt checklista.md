@@ -3,13 +3,19 @@ title: Immaterialrätt checklista
 ---
 ## Vilken typ av immaterialrätt?
 
-1. [Upphovsrätt](begrepp:Upphovsrätt): Litterärt och konstnärligt verk
+Gå igenom:
 
-2. [Varumärkesrätt](begrepp:Varumärkesrätt): Särskiljande varukännetecken
+1. Skyddsobjekt, vilket passar in?
 
-3. [Mönsterrätt](begrepp:Mönsterrätt): Mönster
+2. Kvalitetskrav, uppfyller objektet kvalitetskravet?
 
-4. [Patenträtt](begrepp:Patenträtt): Uppfinningar
+A. [Upphovsrätt](begrepp:Upphovsrätt): Intellektuella prestationer, såsom konstnärliga och litterära verk.
+
+B. [Varumärkesrätt](begrepp:Varumärkesrätt): Särskiljande varukännetecken.
+
+C. [Mönsterrätt](begrepp:Mönsterrätt): Mönster
+
+D. [Patenträtt](begrepp:Patenträtt): Uppfinningar
 
 ## Upphovsrätt
 
