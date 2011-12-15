@@ -191,7 +191,7 @@ Ja -> vidare till 1.1
 
 Nej -> Varumärket är fritt.
 
-1.1: Skyddet uppstår genom registrering enligt 1:6 §. Eller genom inarbetning enligt 1:7 §.
+1.1: Skyddet uppstår genom registrering enligt 1:6 §. Eller genom gemenskapsregistrering. Eller genom inarbetning enligt 1:7 §.
 
 Skyddssubjektet. Skyddet tillfaller:
 
