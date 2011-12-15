@@ -47,6 +47,8 @@ Ja -> Verket är fritt.
 
 Nej -> Vidare till punkt 2.
 
+OBS! JU SVAGARE ORIGINALITET, JU SVAGARE SKYDD! = Kopior kan lägga sig närmre.
+
 ## 2
 
 Upphovsmannens ekonomiska rättigheter (2§). Dessa rättigheter kan överlåtas.
