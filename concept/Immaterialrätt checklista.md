@@ -183,21 +183,31 @@ Datorprogram
 
 Är varumärket:
 
-1) Särskiljande? (2:5 § och 1:5 §) 2) Möjligt att återge grafiskt? (1:4 §)
+1) Särskiljande? (2:5 § och 1:5 §)
 
-Ja -> vidare till 1.1 Nej -> Varumärket är fritt.
+2) Möjligt att återge grafiskt? (1:4 §)
+
+Ja -> vidare till 1.1
+
+Nej -> Varumärket är fritt.
 
 1.1: Skyddet uppstår genom registrering enligt 1:6 §. Eller genom inarbetning enligt 1:7 §.
 
 Skyddssubjektet. Skyddet tillfaller:
 
-- Den som registrerar. (1:6§) Eller - Den som inarbetar (1:7§)
+- Den som registrerar. (1:6§)
+
+Eller
+
+- Den som inarbetar (1:7§)
 
 1.2 Är varumärkesskyddet preskriberat (2:32-33 §§)?
 
 Obegränsad skyddstid. Det krävs dock att registreringen förnyas vart 10:e år, vilket kan göras så länge märket används. Ett inarbetat varumärke är skyddat så länge inarbetningen fortgår.
 
-Ja -> Varumärket är fritt! Nej -> Vidare till punkt 1.3.
+Ja -> Varumärket är fritt!
+
+Nej -> Vidare till punkt 1.3.
 
 1.3 Faller verket in under undantagen för ensamrätten?
 
@@ -206,3 +216,45 @@ Ja -> Varumärket är fritt! Nej -> Vidare till punkt 1.3.
 - Hinder mot registrering enligt 2:4-11 §§.
 
 Ja -> Varumärket är fritt. Nej -> Vidare till punkt 2.
+
+## 2
+
+Varumärkesinnehavarens ensamrätt innebär:
+
+Ensamrätt till förväxlingsbara kännetecken i näringsverksamhet (1:10 VmL).
+
+1p:
+
+- Identiska varukännetecken. (Vid en helhetsbedömning, bleknande minnesbilden)
+
+- Identiska varor eller tjänster.
+
+- Användningen skadar varukännetecknets funktion (ursprungsangivelsefunktion och reklamfunktion, överkurs)
+
+2p:
+
+- Liknande varukännetecken. (Vid en helhetsbedömning, bleknande minnesbilden)
+
+- Liknande varor eller tjänster.
+
+- Risk för förväxling (ta hjälp av produktregeln). Om varumärket är välkänt räcker det dock att användningen skapar associationer till det välkända varumärket, i enlighet med sista delen av meningen i p 2 (se Jägermeisterfallet).
+
+3p:
+
+- Liknande varukännetecken.
+
+- Känt inom en betydande del av omsättningskretsen (notoriskt välkänt)
+
+- Otillbörlig fördel, eller till skada för märkets särskiljningsförmåga eller anseende.
+
+Plus sista stycket!
+
+## 3
+
+Går användningen in under punkt 2?
+
+Nej -> Märket är fritt.
+
+Ja -> Gå vidare till punkt 4 och leta efter inskränkningar.
+
+## 4
