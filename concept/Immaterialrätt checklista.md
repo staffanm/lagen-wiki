@@ -207,6 +207,8 @@ Ja -> vidare till 1.1
 
 Nej -> Varumärket är fritt.
 
+OBS! JU SVAGARE SÄRSKILJNINGSFÖRMÅGA, JU SVAGARE SKYDD!
+
 1.1: Skyddet uppstår genom:
 
 A) Registrering enligt 1:6 § hos PTV, som gäller i Sverige.
@@ -246,8 +248,6 @@ Nej -> Vidare till punkt 1.3.
 Ja -> Varumärket är fritt.
 
 Nej -> Vidare till punkt 2.
-
-OBS! JU SVAGARE SÄRSKILJNINGSFÖRMÅGA, JU SVAGARE SKYDD!
 
 ## 2
 
