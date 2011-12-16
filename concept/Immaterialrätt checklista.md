@@ -31,6 +31,8 @@ Ja -> vidare till 1.1
 
 Nej -> Se [närstående rättigheter (1)](begrepp:närstående rättigheter (1%29)
 
+OBS! JU SVAGARE ORIGINALITET, JU SVAGARE SKYDD! = Kopior kan lägga sig närmre. (smultronfallet NJA 1994 s. 74.) Det inskränkta skyddet i smultronfallet omfattade endast: 1. Efterbildning, 2. Påfallande likhet.
+
 1.1: Skyddet är formlöst och uppkommer i samband med skapandet.
 
 Skyddssubjektet. Skyddet tillfaller:
@@ -45,7 +47,7 @@ OBS! Vid anställningsförhållande. Kan regleras i avtal (27§, om överlåtels
 
 1.2 Är upphovsrätten preskriberad (43 – 44a §§)?
 
-OBS! Nyinspelningar av fria verk är dock upphovsrättsligt skyddade!
+OBS! Nyinspelningar av fria verk är dock upphovsrättsligt skyddade, enligt 4§. Därutöver är det nya verket även skyddat av de närstående rättigheterna (45§). och även såsom utövande konstnär (45 §).
 
 Ja -> Verket är fritt, men glöm inte klassikerskyddet i 51§.
 
@@ -56,8 +58,6 @@ Nej -> Vidare till punkt 1.3.
 Ja -> Verket är fritt.
 
 Nej -> Vidare till punkt 2.
-
-OBS! JU SVAGARE ORIGINALITET, JU SVAGARE SKYDD! = Kopior kan lägga sig närmre.
 
 ## 2
 
