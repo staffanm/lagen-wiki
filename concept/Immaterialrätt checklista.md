@@ -185,7 +185,7 @@ OBS! Ritningar får ej ändras/avbildas!
 
 Citat
 
-- 22 §: Ok att citera ur offentliggjorda verk. HR: Hjälpmedel för framställningen. Pressen har dock en mer långtgående rätt till uttalanden, om det finns ett informationsintresse.
+- 22 §: Ok att citera ur offentliggjorda verk. HR: Hjälpmedel för framställningen. Pressen har dock en mer långtgående rätt till uttalanden, om det finns ett informationsintresse. (JAS-fallet)
 
 Datorprogram
 
