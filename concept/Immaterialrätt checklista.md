@@ -11,7 +11,7 @@ Gå igenom:
 
 1. Skyddsobjekt, vilket passar in?
 
-2. Kvalitetskrav, uppfyller objektet kvalitetskravet?
+2. Kvalitetskrav, uppfyller objektet verkshöjd?
 
 A. [Upphovsrätt](begrepp:Upphovsrätt): Intellektuella prestationer, såsom konstnärliga och litterära verk.
 
