@@ -300,3 +300,5 @@ Inskränkningar i ensamrätten:
 - 3:2 §: Varumärket måste verkligen brukas.
 
 - 3:1 §: Degeneration
+
+## Mönsterrätt
