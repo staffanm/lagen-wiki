@@ -36,7 +36,7 @@ categories:
 
 ### [http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf Fakultativt protokoll till Wienkonventionen om konsulära förbindelser : om förvärv av medborgarskap]
 
-(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+:(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
 ## EU-RÄTTSLIGA FÖRFATTNINGAR
 
