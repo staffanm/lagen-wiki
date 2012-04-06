@@ -7,11 +7,11 @@ FOLKRÄTTSLIGA FÖRFATTNINGAR
 
 *[FN stadgan](http://www.fn.se/PageFiles/1158/FN-stadgan.pdf) FN-stadgan anger FN:s uppgifter, befogenheter, arbetsordning och organisation. FN:s ändamål är att åstadkomma internationell samverkan vid lösande av internationella problem av ekonomisk, social, kulturell eller humanitär art samt vid befordrande och främjande av aktningen för mänskliga rättigheter och grundläggade friheter för alla utan åtskillnad med avseende på ras, kön, språk eller religion. Ett beslut där någon medlemsstat röstat nej kallas resolution, om ingen röstar nej benämns den deklaration. Resolutioner och deklarationer är inte bindande.
 
-[FN:s allmänna förklaring om de mänskliga rättigheterna](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/swd.pdf)
+*[FN:s allmänna förklaring om de mänskliga rättigheterna](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/swd.pdf)
 
-[Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning](http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment)
+*[Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning](http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment)
 
-[Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)](http://www.manskligarattigheter.gov.se/dynamaster/file_archive/021003/3cd145847c488eb4f214b0573d57788f/fn_510728.pdf) *Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas lokalt framför att öppna direkt från platsen.
+*[Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)](http://www.manskligarattigheter.gov.se/dynamaster/file_archive/021003/3cd145847c488eb4f214b0573d57788f/fn_510728.pdf) *Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas lokalt framför att öppna direkt från platsen.
 
 [Internationell konvention om medborgerliga och politiska rättigheter](http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf)
 
