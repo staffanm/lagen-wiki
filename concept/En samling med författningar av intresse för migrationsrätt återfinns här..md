@@ -4,6 +4,8 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Kirk
 categories:
   - Utlänningsrätt
 ---
+:
+
 ## Folkrättsliga författningar
 
 ### [http://www.fn.se/PageFiles/1158/FN-stadgan.pdf FN stadgan]
@@ -36,7 +38,7 @@ categories:
 
 ### [http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf Fakultativt protokoll till Wienkonventionen om konsulära förbindelser : om förvärv av medborgarskap]
 
-:(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+:(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.) : :
 
 ## EU-rättsliga författningar
 
@@ -87,6 +89,8 @@ categories:
 ### [Sanktionsdirektivet]
 
 ### [Viseringskodexen]
+
+: :
 
 ## Svenska författningar
 
