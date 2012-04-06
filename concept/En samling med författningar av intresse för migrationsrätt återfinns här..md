@@ -4,7 +4,7 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Kirk
 categories:
   - Utlänningsrätt
 ---
-FOLKRÄTTSLIGA FÖRFATTNINGAR
+## FOLKRÄTTSLIGA FÖRFATTNINGAR
 
 *[FN stadgan](http://www.fn.se/PageFiles/1158/FN-stadgan.pdf) FN-stadgan anger FN:s uppgifter, befogenheter, arbetsordning och organisation. FN:s ändamål är att åstadkomma internationell samverkan vid lösande av internationella problem av ekonomisk, social, kulturell eller humanitär art samt vid befordrande och främjande av aktningen för mänskliga rättigheter och grundläggade friheter för alla utan åtskillnad med avseende på ras, kön, språk eller religion. Ett beslut där någon medlemsstat röstat nej kallas resolution, om ingen röstar nej benämns den deklaration. Resolutioner och deklarationer är inte bindande.
 
@@ -28,7 +28,7 @@ FOLKRÄTTSLIGA FÖRFATTNINGAR
 
 *[Fakultativt protokoll till Wienkonventionen om konsulära förbindelser om förvärv av medborgarskap](http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf) *(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
-EU-RÄTTSLIGA FÖRFATTNINGAR
+## EU-RÄTTSLIGA FÖRFATTNINGAR
 
 *[Fördraget om Europeiska unionens funktionssätt (cit. FEU)](http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2010:083:SOM:SV:HTML)
 
@@ -66,7 +66,7 @@ EU-RÄTTSLIGA FÖRFATTNINGAR
 
 *[Viseringskodexen]
 
-SVENSKA FÖRFATTNINGAR
+## SVENSKA FÖRFATTNINGAR
 
 *[Utlänningslag (2005:716)](https://lagen.nu/2005:716)
 
