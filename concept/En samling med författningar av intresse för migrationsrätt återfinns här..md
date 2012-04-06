@@ -6,27 +6,37 @@ categories:
 ---
 ## FOLKRÄTTSLIGA FÖRFATTNINGAR
 
-*[FN stadgan](http://www.fn.se/PageFiles/1158/FN-stadgan.pdf) FN-stadgan anger FN:s uppgifter, befogenheter, arbetsordning och organisation. FN:s ändamål är att åstadkomma internationell samverkan vid lösande av internationella problem av ekonomisk, social, kulturell eller humanitär art samt vid befordrande och främjande av aktningen för mänskliga rättigheter och grundläggade friheter för alla utan åtskillnad med avseende på ras, kön, språk eller religion. Ett beslut där någon medlemsstat röstat nej kallas resolution, om ingen röstar nej benämns den deklaration. Resolutioner och deklarationer är inte bindande.
+### [http://www.fn.se/PageFiles/1158/FN-stadgan.pdf FN stadgan]
 
-*[FN:s allmänna förklaring om de mänskliga rättigheterna](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/swd.pdf)
+FN-stadgan anger FN:s uppgifter, befogenheter, arbetsordning och organisation. FN:s ändamål är att åstadkomma internationell samverkan vid lösande av internationella problem av ekonomisk, social, kulturell eller humanitär art samt vid befordrande och främjande av aktningen för mänskliga rättigheter och grundläggade friheter för alla utan åtskillnad med avseende på ras, kön, språk eller religion. Ett beslut där någon medlemsstat röstat nej kallas resolution, om ingen röstar nej benämns den deklaration. Resolutioner och deklarationer är inte bindande.
 
-*[Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning](http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment)
+### [http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/swd.pdf FN:s allmänna förklaring om de mänskliga rättigheterna]
 
-*[Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)](http://www.manskligarattigheter.gov.se/dynamaster/file_archive/021003/3cd145847c488eb4f214b0573d57788f/fn_510728.pdf) *Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas lokalt framför att öppna direkt från platsen.
+### [http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning]
 
-*[Internationell konvention om medborgerliga och politiska rättigheter](http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf)
+### [http://www.manskligarattigheter.gov.se/dynamaster/file_archive/021003/3cd145847c488eb4f214b0573d57788f/fn_510728.pdf Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)]
 
-*[Fakultativt protokoll till internationella konventionen om medborgerliga och politiska rättigheter](http://www.regeringen.se/download/0cf29d7e.pdf?major=1&minor=62651&cn=attachmentPublDuplicator_0_attachment)
+Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas lokalt framför att öppna direkt från platsen.
 
-*[Internationell konvention om ekonomiska, sociala och kulturella rättigheter](http://www.regeringen.se/download/0c5aa7ea.pdf?major=1&minor=62648&cn=attachmentPublDuplicator_0_attachment)
+### [http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf Internationell konvention om medborgerliga och politiska rättigheter]
 
-*[FN:s konvention om barnets rättigheter](http://www.regeringen.se/download/86f41911.pdf?major=1&minor=69025&cn=attachmentPublDuplicator_0_attachment)
+### [http://www.regeringen.se/download/0cf29d7e.pdf?major=1&minor=62651&cn=attachmentPublDuplicator_0_attachment Fakultativt protokoll till internationella konventionen om medborgerliga och politiska rättigheter]
 
-*[Wienkonventionen om diplomatiska förbindelser (cit. WK)](http://www.regeringen.se/content/1/c6/01/17/59/ab36c8f5.pdf) *(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+### [http://www.regeringen.se/download/0c5aa7ea.pdf?major=1&minor=62648&cn=attachmentPublDuplicator_0_attachment Internationell konvention om ekonomiska, sociala och kulturella rättigheter]
 
-*[Wienkonventionen om konsulära förbindelser](http://www.regeringen.se/content/1/c6/01/17/58/59ac5e44.pdf) *(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+### [http://www.regeringen.se/download/86f41911.pdf?major=1&minor=69025&cn=attachmentPublDuplicator_0_attachment FN:s konvention om barnets rättigheter]
 
-*[Fakultativt protokoll till Wienkonventionen om konsulära förbindelser om förvärv av medborgarskap](http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf) *(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+### [http://www.regeringen.se/content/1/c6/01/17/59/ab36c8f5.pdf Wienkonventionen om diplomatiska förbindelser (cit. WK)]
+
+(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+
+### [http://www.regeringen.se/content/1/c6/01/17/58/59ac5e44.pdf Wienkonventionen om konsulära förbindelser]
+
+(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+
+### [http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf Fakultativt protokoll till Wienkonventionen om konsulära förbindelser om förvärv av medborgarskap]
+
+(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
 ## EU-RÄTTSLIGA FÖRFATTNINGAR
 
