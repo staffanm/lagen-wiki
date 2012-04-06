@@ -8,7 +8,7 @@ categories:
 
 ### [http://www.fn.se/PageFiles/1158/FN-stadgan.pdf FN stadgan]
 
-FN-stadgan anger FN:s uppgifter, befogenheter, arbetsordning och organisation. FN:s ändamål är att åstadkomma internationell samverkan vid lösande av internationella problem av ekonomisk, social, kulturell eller humanitär art samt vid befordrande och främjande av aktningen för mänskliga rättigheter och grundläggade friheter för alla utan åtskillnad med avseende på ras, kön, språk eller religion. Ett beslut där någon medlemsstat röstat nej kallas resolution, om ingen röstar nej benämns den deklaration. Resolutioner och deklarationer är inte bindande.
+: FN-stadgan anger FN:s uppgifter, befogenheter, arbetsordning och organisation. FN:s ändamål är att åstadkomma internationell samverkan vid lösande av internationella problem av ekonomisk, social, kulturell eller humanitär art samt vid befordrande och främjande av aktningen för mänskliga rättigheter och grundläggade friheter för alla utan åtskillnad med avseende på ras, kön, språk eller religion. Ett beslut där någon medlemsstat röstat nej kallas resolution, om ingen röstar nej benämns den deklaration. Resolutioner och deklarationer är inte bindande.
 
 ### [http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/swd.pdf FN:s allmänna förklaring om de mänskliga rättigheterna]
 
@@ -16,7 +16,7 @@ FN-stadgan anger FN:s uppgifter, befogenheter, arbetsordning och organisation. F
 
 ### [http://www.manskligarattigheter.gov.se/dynamaster/file_archive/021003/3cd145847c488eb4f214b0573d57788f/fn_510728.pdf Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)]
 
-Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas lokalt framför att öppna direkt från platsen.
+: Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas lokalt framför att öppna direkt från platsen.
 
 ### [http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf Internationell konvention om medborgerliga och politiska rättigheter]
 
@@ -28,13 +28,13 @@ Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas l
 
 ### [http://www.regeringen.se/content/1/c6/01/17/59/ab36c8f5.pdf Wienkonventionen om diplomatiska förbindelser (cit. WK)]
 
-(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+: (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
 ### [http://www.regeringen.se/content/1/c6/01/17/58/59ac5e44.pdf Wienkonventionen om konsulära förbindelser]
 
-(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+:(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
-### [http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf Fakultativt protokoll till Wienkonventionen om konsulära förbindelser om förvärv av medborgarskap]
+### [http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf Fakultativt protokoll till Wienkonventionen om konsulära förbindelser : om förvärv av medborgarskap]
 
 (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
@@ -50,27 +50,25 @@ Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas l
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:326:0013:0034:SV:PDF Asylprocedurdirektivet]
 
-Uppställer miniminormer för att bevilja och återkalla flyktingstatus. I syfte att säkerställa detta krävs att asylansökningar fattas på grundval av fakta och, i första instans, av myndigheter vars personal har lämpliga kunskaper eller erhåller den utbildning som behövs om asyl- och flyktingfrågor. En konsekvens av direktivet inom EU är även att asylsökandes sekundära förflyttningar mellan medlemsstaterna begränsas. Direktivet uppställer även särskilda rättssäkerhetsgarantier för ensamkommande barn. Direktivet ger även en stat möjlighet att vid en efterföljande ansökan utan att nya bevis eller skäl läggs fram, genomföra ett förenklat förfarande med undantag från de garantier som den asylsökande vanligen har.
+:Uppställer miniminormer för att bevilja och återkalla flyktingstatus. I syfte att säkerställa detta krävs att asylansökningar fattas på grundval av fakta och, i första instans, av myndigheter vars personal har lämpliga kunskaper eller erhåller den utbildning som behövs om asyl- och flyktingfrågor. En konsekvens av direktivet inom EU är även att asylsökandes sekundära förflyttningar mellan medlemsstaterna begränsas. Direktivet uppställer även särskilda rättssäkerhetsgarantier för ensamkommande barn. Direktivet ger även en stat möjlighet att vid en efterföljande ansökan utan att nya bevis eller skäl läggs fram, genomföra ett förenklat förfarande med undantag från de garantier som den asylsökande vanligen har.
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:050:0001:0001:SV:PDF Dublinförordningen]
-
-Reglerar vilken EU-medlemsstat som har ansvaret för att pröva en asylansökan som en medborgare i tredje land gett in i någon EU-medlemsstat.
+:===[Dublinförordningen](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:050:0001:0001:SV:PDF)=== Reglerar vilken EU-medlemsstat som har ansvaret för att pröva en asylansökan som en medborgare i tredje land gett in i någon EU-medlemsstat.
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:316:0001:0001:SV:PDF Eurodacförordningen]
 
-Innehåller fingeravtryck av alla asylsökande och påträffade illegala invandrare över 14 år. Syftet med Eurodac är att kunna jämföra fingeravtryck för en effektiv tillämpning av Dublinkonventionen. Det är först när utlänningarna väl erhåller medborgarskap i en medlemsstat som det ges utrymme att radera uppgifter om fingeravtryck.
+:Innehåller fingeravtryck av alla asylsökande och påträffade illegala invandrare över 14 år. Syftet med Eurodac är att kunna jämföra fingeravtryck för en effektiv tillämpning av Dublinkonventionen. Det är först när utlänningarna väl erhåller medborgarskap i en medlemsstat som det ges utrymme att radera uppgifter om fingeravtryck.
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2001:212:0012:0023:SV:PDF Massflyktsdirektivet]
 
-Uppställer miniminormer för att ge tillfälligt skydd och möjliggöra för undantag från att ge skydd vid massiv tillströmning av fördrivna personer samt om åtgärder för att främja en balans mellan medlemsstaternas insatser för att ta emot dessa personer och bära följderna av detta. Av direktivet följer vidare att det uppställs principer och åtgärder för återvändande till ursprungslandet. Slutligen uppställs kriteriet att direktivet tillämpas med beaktande av de förpliktelser som följer av internationella rättsliga instrument som medlemsstaterna är parter i och som förbjuder diskriminering.
+:Uppställer miniminormer för att ge tillfälligt skydd och möjliggöra för undantag från att ge skydd vid massiv tillströmning av fördrivna personer samt om åtgärder för att främja en balans mellan medlemsstaternas insatser för att ta emot dessa personer och bära följderna av detta. Av direktivet följer vidare att det uppställs principer och åtgärder för återvändande till ursprungslandet. Slutligen uppställs kriteriet att direktivet tillämpas med beaktande av de förpliktelser som följer av internationella rättsliga instrument som medlemsstaterna är parter i och som förbjuder diskriminering.
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:031:0018:0025:SV:PDF Mottagandedirektivet]
 
-Fastställer grunderna för en gemensam asylpolitik inklusive ett gemensamt europeiskt asylsystem varvid det uppställs miniminormer för mottagande av asylsökande inklusive grupper med speciella behov och asylsökande som hålls i förvar. Direktivet uppställer krav på visst ansvar för den mottagande staten för att säkerställa en värdig levnadsstandard och redogör för boende, arbete, utbildning samt hälso- och sjukvård.
+:Fastställer grunderna för en gemensam asylpolitik inklusive ett gemensamt europeiskt asylsystem varvid det uppställs miniminormer för mottagande av asylsökande inklusive grupper med speciella behov och asylsökande som hålls i förvar. Direktivet uppställer krav på visst ansvar för den mottagande staten för att säkerställa en värdig levnadsstandard och redogör för boende, arbete, utbildning samt hälso- och sjukvård.
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:304:0012:0023:SV:PDF Skyddsgrundsdirektivet]
 
-Huvudsyftet med detta direktiv är dels att innebörd definiera innebörden av begreppet flyktingstatus, dels att garantera att medlemsstaterna tillämpar gemensamma kriterier för att fastställa vilka personer som har ett verkligt behov av internationellt skydd, dels att garantera att en miniminivå av förmåner är tillgänglig för dessa personer i samtliga medlemsstater. Direktivet garanterar även en rätt till familjeåterförening genom att reglera medföljande familjemedlemmars rätt till asyl.
+:Huvudsyftet med detta direktiv är dels att innebörd definiera innebörden av begreppet flyktingstatus, dels att garantera att medlemsstaterna tillämpar gemensamma kriterier för att fastställa vilka personer som har ett verkligt behov av internationellt skydd, dels att garantera att en miniminivå av förmåner är tillgänglig för dessa personer i samtliga medlemsstater. Direktivet garanterar även en rätt till familjeåterförening genom att reglera medföljande familjemedlemmars rätt till asyl.
 
 ### [Familjeåterföreningsdirektivet]
 
