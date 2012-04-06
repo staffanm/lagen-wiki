@@ -52,7 +52,9 @@ categories:
 
 :Uppställer miniminormer för att bevilja och återkalla flyktingstatus. I syfte att säkerställa detta krävs att asylansökningar fattas på grundval av fakta och, i första instans, av myndigheter vars personal har lämpliga kunskaper eller erhåller den utbildning som behövs om asyl- och flyktingfrågor. En konsekvens av direktivet inom EU är även att asylsökandes sekundära förflyttningar mellan medlemsstaterna begränsas. Direktivet uppställer även särskilda rättssäkerhetsgarantier för ensamkommande barn. Direktivet ger även en stat möjlighet att vid en efterföljande ansökan utan att nya bevis eller skäl läggs fram, genomföra ett förenklat förfarande med undantag från de garantier som den asylsökande vanligen har.
 
-:===[Dublinförordningen](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:050:0001:0001:SV:PDF)=== Reglerar vilken EU-medlemsstat som har ansvaret för att pröva en asylansökan som en medborgare i tredje land gett in i någon EU-medlemsstat.
+### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:050:0001:0001:SV:PDF Dublinförordningen]
+
+:Reglerar vilken EU-medlemsstat som har ansvaret för att pröva en asylansökan som en medborgare i tredje land gett in i någon EU-medlemsstat.
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:316:0001:0001:SV:PDF Eurodacförordningen]
 
