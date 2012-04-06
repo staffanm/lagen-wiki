@@ -110,7 +110,7 @@ categories:
 
 ### [https://lagen.nu/1958:122 Kungörelse (1958:122) angående tillämpning av en mellan Sverige, Danmark, Finland och Norge träffad överenskommelse om upphävande av passkontrollen vid de internordiska gränserna]
 
-===[Förordning (1996:442) om utländska besök vid vissa myndigheter inom Försvarsdepartementets verksamhetsområde](https://lagen.nu/1996:442)
+### [https://lagen.nu/1996:442 Förordning (1996:442) om utländska besök vid vissa myndigheter inom Försvarsdepartementets verksamhetsområde]
 
 ### [https://lagen.nu/1991:572 Lag (1992:160) om utländska filialer m.m.]
 
