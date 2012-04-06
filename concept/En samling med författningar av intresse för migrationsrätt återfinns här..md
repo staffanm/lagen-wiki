@@ -35,7 +35,19 @@ EU-RÄTTSLIGA FÖRFATTNINGAR
 
 [Skyddsgrundsdirektivet](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:304:0012:0023:SV:PDF) Huvudsyftet med detta direktiv är dels att innebörd definiera innebörden av begreppet flyktingstatus, dels att garantera att medlemsstaterna tillämpar gemensamma kriterier för att fastställa vilka personer som har ett verkligt behov av internationellt skydd, dels att garantera att en miniminivå av förmåner är tillgänglig för dessa personer i samtliga medlemsstater. Den garanterar även en rätt till familjeåterförening genom att reglera medföljande familjemedlemmars rätt till asyl.
 
-[Familjeåterföreningsdirektivet] [Rörlighetsdirektivet] [Återvändandedirektivet] [Direktivet om varaktigt bosatta] [Direktivet om gästforskare] [Förordning om enhetlig utformning av uppehållstillstånd för medborgare i tredjeland] [Sanktionsdirektivet]
+[Familjeåterföreningsdirektivet]
+
+[Rörlighetsdirektivet]
+
+[Återvändandedirektivet]
+
+[Direktivet om varaktigt bosatta]
+
+[Direktivet om gästforskare]
+
+[Förordning om enhetlig utformning av uppehållstillstånd för medborgare i tredjeland]
+
+[Sanktionsdirektivet]
 
 SVENSKA FÖRFATTNINGAR
 
