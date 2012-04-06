@@ -5,6 +5,14 @@ categories:
 ---
 FOLKRÄTTSLIGA FÖRFATTNINGAR
 
+[FN stadgan](http://www.fn.se/PageFiles/1158/FN-stadgan.pdf) FN-stadgan anger FN:s uppgifter, befogenheter, arbetsordning och organisation. FN:s ändamål är att åstadkomma internationell samverkan vid lösande av internationella problem av ekonomisk, social, kulturell eller humanitär art samt vid befordrande och främjande av aktningen för mänskliga rättigheter och grundläggade friheter för alla utan åtskillnad med avseende på ras, kön, språk eller religion. Ett beslut där någon medlemsstat röstat nej kallas resolution, om ingen röstar nej benämns den deklaration. Resolutioner och deklarationer är inte bindande.
+
+[Wienkonventionen om diplomatiska förbindelser (cit. WK)](http://www.regeringen.se/content/1/c6/01/17/59/ab36c8f5.pdf) (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+
+[Wienkonventionen om konsulära förbindelser](http://www.regeringen.se/content/1/c6/01/17/58/59ac5e44.pdf) (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+
+[Fakultativt protokoll till Wienkonventionen om konsulära förbindelser om förvärv av medborgarskap](http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf) (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+
 EU-RÄTTSLIGA FÖRFATTNINGAR
 
 [Fördraget om Europeiska unionens funktionssätt (cit. FEU)](http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2010:083:SOM:SV:HTML)
