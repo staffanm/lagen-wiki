@@ -7,7 +7,7 @@ FOLKRÄTTSLIGA FÖRFATTNINGAR
 
 EU-RÄTTSLIGA FÖRFATTNINGAR
 
-http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:050:0001:0001:SV:PDF Dublin förordningen] Reglerar vilken EU-medlemsstat som har ansvaret för att pröva en asylansökan som en medborgare i tredje land gett in i någon EU-medlemsstat .
+[Dublin förordningen](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:050:0001:0001:SV:PDF) Reglerar vilken EU-medlemsstat som har ansvaret för att pröva en asylansökan som en medborgare i tredje land gett in i någon EU-medlemsstat .
 
 [Eurodacförordningen](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:316:0001:0001:SV:PDF) Innehåller fingeravtryck av alla asylsökande och påträffade illegala invandrare över 14 år. Syftet med Eurodac är att kunna jämföra fingeravtryck för en effektiv tillämpning av Dublinkonventionen. Det är först när utlänningarna väl erhåller medborgarskap i en medlemsstat som det ges utrymme att radera uppgifter om fingeravtryck.
 
