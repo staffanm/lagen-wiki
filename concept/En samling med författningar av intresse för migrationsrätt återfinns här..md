@@ -4,7 +4,7 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Kirk
 categories:
   - Utlänningsrätt
 ---
-## FOLKRÄTTSLIGA FÖRFATTNINGAR
+## Folkrättsliga författningar
 
 ### [http://www.fn.se/PageFiles/1158/FN-stadgan.pdf FN stadgan]
 
@@ -38,7 +38,7 @@ categories:
 
 :(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
-## EU-RÄTTSLIGA FÖRFATTNINGAR
+## EU-rättsliga författningar
 
 ### [http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2010:083:SOM:SV:HTML Fördraget om Europeiska unionens funktionssätt (cit. FEU)]
 
@@ -88,7 +88,7 @@ categories:
 
 ### [Viseringskodexen]
 
-## SVENSKA FÖRFATTNINGAR
+## Svenska författningar
 
 ### [https://lagen.nu/2005:716 Utlänningslag (2005:716)]
 
