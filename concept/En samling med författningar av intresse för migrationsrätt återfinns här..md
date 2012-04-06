@@ -7,7 +7,13 @@ FOLKRÄTTSLIGA FÖRFATTNINGAR
 
 EU-RÄTTSLIGA FÖRFATTNINGAR
 
-[Fördraget om Europeiska unionens funktionssätt (FEU)](http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2010:083:SOM:SV:HTML) [Lissabonfördraget om ändring av fördraget om Europeiska unionen och fördraget om upprättandet av Europeiska gemenskapen, undertecknat i Lissabon den 13 december 2007 (Lissabonfördraget) (FEUF)](http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2007:306:SOM:SV:HTML) [Europeiska unionens stadga om de grundläggande rättigheterna (Rättighetsstadgan)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0389:0403:SV:PDF) [Europeiska konventionen om skydd för de mänskliga rättigheterna och de grundläggande friheterna (EKMR)](http://www.echr.coe.int/NR/rdonlyres/1009F7DB-87E3-4056-8E17-8A8A41768BA7/0/SWE_CONV.pdf)
+[Fördraget om Europeiska unionens funktionssätt (FEU)](http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2010:083:SOM:SV:HTML)
+
+[Lissabonfördraget om ändring av fördraget om Europeiska unionen och fördraget om upprättandet av Europeiska gemenskapen, undertecknat i Lissabon den 13 december 2007 (Lissabonfördraget) (FEUF)](http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2007:306:SOM:SV:HTML)
+
+[Europeiska unionens stadga om de grundläggande rättigheterna (Rättighetsstadgan)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0389:0403:SV:PDF)
+
+[Europeiska konventionen om skydd för de mänskliga rättigheterna och de grundläggande friheterna (EKMR)](http://www.echr.coe.int/NR/rdonlyres/1009F7DB-87E3-4056-8E17-8A8A41768BA7/0/SWE_CONV.pdf)
 
 [Asylprocedurdirektivet](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:326:0013:0034:SV:PDF) Uppställer miniminormer för att bevilja och återkalla flyktingstatus. I syfte att säkerställa detta krävs att asylansökningar fattas på grundval av fakta och, i första instans, av myndigheter vars personal har lämpliga kunskaper eller erhåller den utbildning som behövs om asyl- och flyktingfrågor. En konsekvens av direktivet inom EU är även att asylsökandes sekundära förflyttningar mellan medlemsstaterna begränsas. Direktivet uppställer även särskilda rättssäkerhetsgarantier för ensamkommande barn. Direktivet ger även en stat möjlighet att vid en efterföljande ansökan utan att nya bevis eller skäl läggs fram, genomföra ett förenklat förfarande med undantag från de garantier som den asylsökande vanligen har.
 
