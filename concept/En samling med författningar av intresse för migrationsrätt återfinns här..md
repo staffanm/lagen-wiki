@@ -9,7 +9,17 @@ FOLKRÄTTSLIGA FÖRFATTNINGAR
 
 [FN:s allmänna förklaring om de mänskliga rättigheterna](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/swd.pdf)
 
-[Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)](http://www.manskligarattigheter.gov.se/dynamaster/file_archive/021003/3cd145847c488eb4f214b0573d57788f/fn_510728.pdf)
+[Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning](http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment)
+
+[Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)](http://www.manskligarattigheter.gov.se/dynamaster/file_archive/021003/3cd145847c488eb4f214b0573d57788f/fn_510728.pdf) Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas lokalt framför att öppna direkt från platsen.
+
+[Internationell konvention om medborgerliga och politiska rättigheter](http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf)
+
+[Fakultativt protokoll till internationella konventionen om medborgerliga och politiska rättigheter](http://www.regeringen.se/download/0cf29d7e.pdf?major=1&minor=62651&cn=attachmentPublDuplicator_0_attachment)
+
+[Internationell konvention om ekonomiska, sociala och kulturella rättigheter](http://www.regeringen.se/download/0c5aa7ea.pdf?major=1&minor=62648&cn=attachmentPublDuplicator_0_attachment)
+
+[FN:s konvention om barnets rättigheter](http://www.regeringen.se/download/86f41911.pdf?major=1&minor=69025&cn=attachmentPublDuplicator_0_attachment)
 
 [Wienkonventionen om diplomatiska förbindelser (cit. WK)](http://www.regeringen.se/content/1/c6/01/17/59/ab36c8f5.pdf) (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
@@ -52,6 +62,8 @@ EU-RÄTTSLIGA FÖRFATTNINGAR
 [Förordning om enhetlig utformning av uppehållstillstånd för medborgare i tredjeland]
 
 [Sanktionsdirektivet]
+
+[Viseringskodexen]
 
 SVENSKA FÖRFATTNINGAR
 
