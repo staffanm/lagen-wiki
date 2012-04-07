@@ -76,6 +76,8 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Kirk
 
 ### [Rörlighetsdirektivet]
 
+:Rörlighetsdirektivet innebär att tredjelandsmedborgare som är familjemedlemmar till unionsmedborgare har rätt att ansluta sig till unionsmedborgaren i den mottagande medlemsstaten, oavsett om denne bosatt sig där före eller efter att ha bildat familj punkt 90 i Europadomstolens dom från den 25 juli 2008 i mål C-127/08. På samma sätt så det saknar betydelse ifall tredjelandsmedborgare som är familjemedlemmar till en unionsmedborgare reser in i den mottagande medlemsstaten före eller efter det att de blir familjemedlemmar till unionsmedborgaren, se punkt 92 tidigare mål.
+
 ### [Återvändandedirektivet]
 
 ### [Direktivet om varaktigt bosatta]
