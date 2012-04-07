@@ -72,23 +72,33 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Kirk
 
 :Huvudsyftet med detta direktiv är dels att innebörd definiera innebörden av begreppet flyktingstatus, dels att garantera att medlemsstaterna tillämpar gemensamma kriterier för att fastställa vilka personer som har ett verkligt behov av internationellt skydd, dels att garantera att en miniminivå av förmåner är tillgänglig för dessa personer i samtliga medlemsstater. Direktivet garanterar även en rätt till familjeåterförening genom att reglera medföljande familjemedlemmars rätt till asyl.
 
-### [Familjeåterföreningsdirektivet]
+### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:251:0012:0018:SV:PDF Familjeåterföreningsdirektivet]
 
-### [Rörlighetsdirektivet]
+:Familjeåterföreningsdirektivet möjliggör för medlemmar till en tredjelandsmedborgare som lagligen vistas på medlemsstaternas territorium att återförenas. Medlemmar i familj kan avse släktingar i rakt uppstigande led, ogifta myndiga barn, ogifta eller registrerade partners samt när det gäller polygama hushåll, underåriga barn till ytterligare en make/maka och referenspersonen. Familjeåterförening bör under alla omständigheter gälla medlemmarna i kärnfamiljen, det vill säga make/maka och underåriga barn. Tolkningen av direktivet ska iaktta de principer som erkänns särskilt i art. 8 EKMR.
+
+### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:229:0035:0048:SV:pdf Rörlighetsdirektivet]
 
 :Rörlighetsdirektivet innebär att tredjelandsmedborgare som är familjemedlemmar till unionsmedborgare har rätt att ansluta sig till unionsmedborgaren i den mottagande medlemsstaten, oavsett om denne bosatt sig där före eller efter att ha bildat familj punkt 90 i Europadomstolens dom från den 25 juli 2008 i mål C-127/08. På samma sätt så det saknar betydelse ifall tredjelandsmedborgare som är familjemedlemmar till en unionsmedborgare reser in i den mottagande medlemsstaten före eller efter det att de blir familjemedlemmar till unionsmedborgaren, se punkt 92 tidigare mål.
 
-### [Återvändandedirektivet]
+### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:348:0098:0098:SV:PDF Återvändandedirektivet]
 
-### [Direktivet om varaktigt bosatta]
+:Uppställer regler för tredjelandsmedborgare som inte, eller inte längre, uppfyller villkoren för inresa, vistelse eller bosättning i en medlemsstat samt regler för avlägsnande, återsändande av tredjelandsmedborgaren förutsatt att principen om [nonrefoulement] respekteras fullt ut. Direktivet uppställer även en tidsfrist för frivillig avresa samt regler för användning av tvångsmedel, förvar och inreseförbud.
 
-### [Direktivet om gästforskare]
+### 1. [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:016:0044:0053:SV:PDF Direktivet om varaktigt bosatta]
 
-### [Förordning om enhetlig utformning av uppehållstillstånd för medborgare i tredjeland]
+2. [DIREKTIV 2011/51/EU om ändring av rådets direktiv 2003/109/EG i syfte att utöka dess räckvidd till att omfatta även personer som beviljats internationellt skydd](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:132:0001:0004:SV:PDF)
 
-### [Sanktionsdirektivet]
+### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:289:0015:0022:SV:PDF Direktivet om gästforskare]
 
-### [Viseringskodexen]
+### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2002R1030:20080519:SV:PDF Förordning om enhetlig utformning av uppehållstillstånd för medborgare i tredjeland]
+
+### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:168:0024:0032:SV:PDF Sanktionsdirektivet]
+
+Syftet med direktivet är att motverka olaglig invandring till den Europeiska unionen. Genom direktivet åläggs medlemsstaterna att införa ett förbud för arbetsgivare att anställa tredjelandsmedborgare som saknar rätt att vistas på deras territorier eftersom sådan anställning kan bidra till en ökad olaglig invandring och snedvrida konkurrensen på arbetsmarknaden inom EU. Överträdelse av förbudet ska kunna medföra att arbetsgivare bland annat åläggs olika administrativa, finansiella och straffrättsliga sanktioner samt vissa andra åtgärder.
+
+### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:243:0001:0001:SV:PDF Viseringskodexen]
+
+:Genom viseringskodexen införs gemensamma förfaranden och villkor för utfärdande av viseringar för transitering genom medlemsstaternas territorium eller för planerade vistelser på medlemsstaternas territorium som inte varar längre än tre månader under en sexmånadersperiod. Bestämmelserna ska vara tillämpliga på alla tredjelandsmedborgare som enligt rådets förordning (EG) nr 539/2001 måste ha visering när de passerar de yttre gränserna. De ska dock inte påverka rätten till fri rörlighet för tredjelandsmedborgare som är familjemedlemmar till unionsmedborgare eller som har samma rätt till sådan rörlighet enligt avtal mellan å ena sidan gemenskapen och dessa medlemsstater samt, å andra sidan, dessa tredjeländer art. 1.2. Viseringskodexens bestämmelser omfattar också visering för flygplanstransitering (art. 1.3.
 
 
 
