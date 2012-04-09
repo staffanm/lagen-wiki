@@ -86,7 +86,7 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Kirk
 
 ### 1. [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:016:0044:0053:SV:PDF Direktivet om varaktigt bosatta]
 
-===2. [DIREKTIV 2011/51/EU om ändring av rådets direktiv 2003/109/EG i syfte att utöka dess räckvidd till att omfatta även personer som beviljats internationellt skydd](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:132:0001:0004:SV:PDF)
+### 2. [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:132:0001:0004:SV:PDF DIREKTIV 2011/51/EU om ändring av rådets direktiv 2003/109/EG i syfte att utöka dess räckvidd till att omfatta även personer som beviljats internationellt skydd]
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:289:0015:0022:SV:PDF Direktivet om gästforskare]
 
@@ -112,9 +112,9 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 
 ### [https://lagen.nu/1997:409 Förordning (1997:409) om särskild utlänningskontroll]
 
-===[Lag (2001:82) om svenskt medborgarskap](https://lagen.nu/2001:82)
+### [https://lagen.nu/2001:82 Lag (2001:82) om svenskt medborgarskap]
 
-===[Medborgarskapsförordning (2001:218)](https://lagen.nu/2001:218)
+### [https://lagen.nu/2001:218 Medborgarskapsförordning (2001:218)]
 
 ### [https://lagen.nu/2008:344 Lag (2008:344) om hälso- och sjukvård åt asylsökande m.fl.]
 
