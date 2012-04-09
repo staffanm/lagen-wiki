@@ -120,6 +120,8 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 
 ### [https://lagen.nu/2001:218 Medborgarskapsförordning (2001:218)]
 
+### [https://lagen.nu/1978:302 Passlag (1978:302)]
+
 ### [https://lagen.nu/1991:481 Folkbokföringslag (1991:481)]
 
 ### [https://lagen.nu/2008:344 Lag (2008:344) om hälso- och sjukvård åt asylsökande m.fl.]
@@ -128,6 +130,10 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 
 ### [https://lagen.nu/1994:362 Förordning (1994:362) om vårdavgifter m.m. för vissa utlänningar]
 
+### [https://lagen.nu/1997:691 Förordning (1997:691) om avgifter vid utlandsmyndigheterna]
+
+### [https://lagen.nu/2009:657 Lag (2009:657) om försöksverksamhet med prestationsbaserad stimulansersättning inom svenskundervisning för invandrare]
+
 ### [https://lagen.nu/1990:1361 Förordning (1990:1361) om lån till hemutrustning för flyktingar och vissa andra utlänningar]
 
 ### [https://lagen.nu/1980:307 Lag (1980:307) om skyldighet för utländska kärande att ställa säkerhet för rättegångskostnader]
@@ -135,6 +141,8 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 ### [https://lagen.nu/1986:1042 Lag (1986:1042) om verkställighet av vissa utländska beslut om rättegångskostnader]
 
 ### [https://lagen.nu/1990:927 Förordning (1990:927) om statlig ersättning för flyktingmottagande m.m.]
+
+### [https://lagen.nu/1984:936 Förordning (1984:936) om bidrag till flyktingar för kostnader för anhörigas resor till Sverige]
 
 ### [https://lagen.nu/1970:710 Kungörelse (1970:710) om utlämning till eller från Danmark, Finland, Island eller Norge för verkställighet av beslut om vård eller behandling]
 
@@ -145,5 +153,7 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 ### [https://lagen.nu/1996:442 Förordning (1996:442) om utländska besök vid vissa myndigheter inom Försvarsdepartementets verksamhetsområde]
 
 ### [https://lagen.nu/1991:572 Lag (1992:160) om utländska filialer m.m.]
+
+### [https://lagen.nu/2008:778 Förordning (2008:778) om återetableringsstöd för vissa utlänningar]
 
 ### [https://lagen.nu/1989:14 Lag (1989:14) om erkännande och verkställighet av utländska vårdnadsavgöranden m.m. och om överflyttning av barn]
