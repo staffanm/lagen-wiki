@@ -108,6 +108,10 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 
 ### [https://lagen.nu/2006:97 Utlänningsförordning (2006:97)]
 
+### [https://lagen.nu/1994:137 Lag (1994:137) om mottagande av asylsökande m.fl.]
+
+### [https://lagen.nu/1994:361 Förordning (1994:361) om mottagande av asylsökande m.fl.]
+
 ### [https://lagen.nu/1991:572 Lag (1991:572) om särskild utlänningskontroll]
 
 ### [https://lagen.nu/1997:409 Förordning (1997:409) om särskild utlänningskontroll]
@@ -116,15 +120,25 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 
 ### [https://lagen.nu/2001:218 Medborgarskapsförordning (2001:218)]
 
+### [https://lagen.nu/1991:481 Folkbokföringslag (1991:481)]
+
 ### [https://lagen.nu/2008:344 Lag (2008:344) om hälso- och sjukvård åt asylsökande m.fl.]
 
 ### [https://lagen.nu/2008:347 Förordning (2008:347) om hälso- och sjukvård åt asylsökande m.fl.]
+
+### [https://lagen.nu/1994:362 Förordning (1994:362) om vårdavgifter m.m. för vissa utlänningar]
+
+### [https://lagen.nu/1990:1361 Förordning (1990:1361) om lån till hemutrustning för flyktingar och vissa andra utlänningar]
 
 ### [https://lagen.nu/1980:307 Lag (1980:307) om skyldighet för utländska kärande att ställa säkerhet för rättegångskostnader]
 
 ### [https://lagen.nu/1986:1042 Lag (1986:1042) om verkställighet av vissa utländska beslut om rättegångskostnader]
 
+### [https://lagen.nu/1990:927 Förordning (1990:927) om statlig ersättning för flyktingmottagande m.m.]
+
 ### [https://lagen.nu/1970:710 Kungörelse (1970:710) om utlämning till eller från Danmark, Finland, Island eller Norge för verkställighet av beslut om vård eller behandling]
+
+### [https://lagen.nu/1989:152 Lag (1989:152) om underrättelseskyldighet m.m. när utlänningar är berövade friheten]
 
 ### [https://lagen.nu/1958:122 Kungörelse (1958:122) angående tillämpning av en mellan Sverige, Danmark, Finland och Norge träffad överenskommelse om upphävande av passkontrollen vid de internordiska gränserna]
 
