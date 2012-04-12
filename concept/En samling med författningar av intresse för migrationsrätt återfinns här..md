@@ -82,7 +82,7 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Kirk
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:348:0098:0098:SV:PDF Återvändandedirektivet]
 
-:Uppställer regler för tredjelandsmedborgare som inte, eller inte längre, uppfyller villkoren för inresa, vistelse eller bosättning i en medlemsstat samt regler för avlägsnande, återsändande av tredjelandsmedborgaren förutsatt att principen om [nonrefoulement] respekteras fullt ut. Direktivet uppställer även en tidsfrist för frivillig avresa samt regler för användning av tvångsmedel, förvar och inreseförbud.
+:Uppställer regler för tredjelandsmedborgare som inte, eller inte längre, uppfyller villkoren för inresa, vistelse eller bosättning i en medlemsstat samt regler för avlägsnande, återsändande av tredjelandsmedborgaren förutsatt att principen om [nonrefoulement]respekteras fullt ut. Direktivet uppställer även en tidsfrist för frivillig avresa samt regler för användning av tvångsmedel, förvar och inreseförbud.
 
 ### 1. [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:016:0044:0053:SV:PDF Direktivet om varaktigt bosatta]
 
