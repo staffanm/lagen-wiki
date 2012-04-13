@@ -14,13 +14,19 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Kirk
 
 ### [http://www.manskligarattigheter.gov.se/dynamaster/file_archive/021003/3cd145847c488eb4f214b0573d57788f/fn_510728.pdf Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)]
 
-: Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas lokalt framför att öppna direkt från platsen.
+: Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas lokalt framför att öppna direkt från platsen. Sverige har reserverat sig för artiklarna artiklarna 8, 12 (1), 17 (2), 24 (1)b, 24 (3) och 25.
 
 ### [http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf Internationell konvention om medborgerliga och politiska rättigheter]
 
+Sverige har reserverat sig för artiklarna 10 (3), 14 (7) och 20 (1).
+
 ### [http://www.regeringen.se/download/0cf29d7e.pdf?major=1&minor=62651&cn=attachmentPublDuplicator_0_attachment Fakultativt protokoll till internationella konventionen om medborgerliga och politiska rättigheter]
 
+Sverige har reserverat sig för artikel 5 moment 2.
+
 ### [http://www.regeringen.se/download/0c5aa7ea.pdf?major=1&minor=62648&cn=attachmentPublDuplicator_0_attachment Internationell konvention om ekonomiska, sociala och kulturella rättigheter]
+
+Sverige har reserverat sig för artikel 7 (d).
 
 ### [http://www.regeringen.se/download/86f41911.pdf?major=1&minor=69025&cn=attachmentPublDuplicator_0_attachment FN:s konvention om barnets rättigheter]
 
@@ -47,6 +53,8 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Kirk
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0389:0403:SV:PDF Europeiska unionens stadga om de grundläggande rättigheterna (Rättighetsstadgan)]
 
 ### [http://www.echr.coe.int/NR/rdonlyres/1009F7DB-87E3-4056-8E17-8A8A41768BA7/0/SWE_CONV.pdf Europeiska konventionen om skydd för de mänskliga rättigheterna och de grundläggande friheterna (cit. EKMR)]
+
+Sverige har reserverat sig för tilläggsprotokoll nr 7, 1984-11-22, artikel 7 (2).
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:326:0013:0034:SV:PDF Asylprocedurdirektivet]
 
