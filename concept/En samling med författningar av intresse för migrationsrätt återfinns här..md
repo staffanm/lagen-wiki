@@ -1,6 +1,6 @@
 ---
 title: En samling med författningar av intresse för migrationsrätt återfinns här.
-author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Kirk]"
+author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Ankerstedt]"
 ---
 ## Folkrättsliga författningar
 
