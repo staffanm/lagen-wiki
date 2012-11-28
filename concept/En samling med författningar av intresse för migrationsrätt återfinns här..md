@@ -62,7 +62,7 @@ Sverige har reserverat sig för tilläggsprotokoll nr 7, 1984-11-22, artikel 7 (
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:050:0001:0001:SV:PDF Dublinförordningen]
 
-:Reglerar vilken EU-medlemsstat som har ansvaret för att pröva en asylansökan som en medborgare i tredje land gett in i någon EU-medlemsstat.
+:Reglerar vilken EU-medlemsstat som har ansvaret för att pröva en asylansökan som en medborgare i tredje land gett in i någon EU-medlemsstat. Följande länder är anslutna till Dublinförordningen Belgien (1997), Bulgarien (2007), Cypern (2004), Danmark (2006), Estland (2004), Finland (1998), Frankrike (1997), Grekland (1997), Irland (1997), Italien (1997), Island (genom Schengenavtalet 2001) Lettland (2004), Litauen (2004), Luxemburg (1997), Malta (2004), Nederländerna (1997), Norge (genom Schengenavtalet 2001), Polen (2004), Portugal (1997), Rumänien (2007), Schweiz (2008), Slovakien (2004), Slovenien (2004), Spanien (1997), Storbritannien (1997), Sverige (1997), Tjeckien (2004), Tyskland (1997), Ungern (2004) och Österrike (1997).
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:316:0001:0001:SV:PDF Eurodacförordningen]
 
