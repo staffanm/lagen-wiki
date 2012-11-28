@@ -66,7 +66,7 @@ Sverige har reserverat sig för tilläggsprotokoll nr 7, 1984-11-22, artikel 7 (
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:316:0001:0001:SV:PDF Eurodacförordningen]
 
-:Innehåller fingeravtryck av alla asylsökande och påträffade illegala invandrare över 14 år. Syftet med Eurodac är att kunna jämföra fingeravtryck för en effektiv tillämpning av Dublinkonventionen. Det är först när utlänningarna väl erhåller medborgarskap i en medlemsstat som det ges utrymme att radera uppgifter om fingeravtryck.
+:Innehåller fingeravtryck av alla asylsökande och påträffade illegala invandrare över 14 år. Syftet med Eurodac är att kunna jämföra fingeravtryck för en effektiv tillämpning av Dublinkonventionen. Det är först när utlänningarna väl erhåller medborgarskap i en medlemsstat som det ges utrymme att radera uppgifter om fingeravtryck. Alla EU-länder är anslutna. Island, Norge och Schweiz är anslutna via särskilt avtal.
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2001:212:0012:0023:SV:PDF Massflyktsdirektivet]
 
