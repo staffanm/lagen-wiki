@@ -170,4 +170,4 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 
 ## Sammanställning av praxis från Europadomstolen
 
-### [Praxis från Europadomstolen]
+### [https://lagen.nu/wiki/Praxis_fr%C3%A5n_Europadomstolen Utvald praxis från Europadomstolen]
