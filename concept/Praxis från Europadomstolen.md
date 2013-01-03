@@ -3,17 +3,7 @@ title: Praxis från Europadomstolen
 ---
 Europadomstolens dom (2011-10-27) i målet Aborgeze mot Sverige
 
-Europadomstolens dom (2011-10-13) i målet Fexler mot Sverige
-
-Europadomstolens dom (2010-12-07) i målet Andersson mot Sverige
-
-Europadomstolens dom (2010-03-30) i målet Handölsdalens Sami village mot Sverige
-
 Europadomstolens dom (2010-03-09) i målet R.C. mot Sverige
-
-Europadomstolens dom (2009-04-07) i målet Mendel mot Sverige
-
-Europadomstolens dom (2009-06-30) i målet Synnelius och Edsbergs Taxi AB mot Sverige
 
 Europadomstolens dom (2009-01-20) i målet F.H. mot Sverige
 
@@ -21,29 +11,9 @@ Europadomstolens dom (2008-12-16) i målet Khurshid Mustafa m.fl. mot Sverige
 
 Europadomstolens dom (2008-11-04) i målet Iselsten mot Sverige
 
-Europadomstolens dom (2007-12-20) i målet Rey m.fl. mot Sverige
-
-Europadomstolens dom (2007-09-27) i målet Dödsboet Nitschke mot Sverige
-
 Europadomstolens dom (2007-02-22) i målet Ahmed mot Sverige
 
-Europadomstolens dom (2007-02-13) i målet Evaldsson m fl mot Sverige
-
-Europadomstolens dom (2007-02-06) i målet Wassdahl mot Sverige
-
-Europadomstolens dom (2006-12-19) i målet Klemeco Nord AB mot Sverige
-
 Europadomstolens dom (2005-11-08) i målet Bader mot Sverige (engelska)
-
-Europadomstolens dom (2006-12-19) i målet Klemeco Nord AB mot Sverige
-
-Europadomstolens dom (2007-02-22) i målet Valin mot Sverige
-
-Europadomstolens dom (2006-10-10) i målet Sali mot Sverige
-
-Europadomstolens dom (2006-09-19) i målet White mot Sverige
-
-Europadomstolens dom (2006-07-18) i målet Swedish Transport Workers Union mot Sverige
 
 Europadomstolens dom (2006-06-06) i målet Segerstedt Wiberg m fl mot Sverige
 
