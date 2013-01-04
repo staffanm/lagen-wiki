@@ -1,5 +1,6 @@
 ---
 title: Praxis från Europadomstolen
+author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderAlk Alexander Ankerstedt]"
 ---
 ## Domstolsverkets nyhetsbrev
 
