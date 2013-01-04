@@ -10,7 +10,7 @@ Domstolens domar är rättsligt bindande för den berörda staten men Europadoms
 
 Om du avser att klaga till Europadomstolen, så kontrollera att ditt klagomål uppfyller kraven i följande [checklista för överklaganden till Europadomstolen](http://www.echr.coe.int/NR/rdonlyres/EC86148F-BEE7-4EAB-9026-9A7F52F9EFC5/0/SWE_P0_pack.pdf).
 
-För den som önskar en [mer gedigen handbok så finns det mer utförliga instruktioner här](http://www.echr.coe.int/ECHR/EN/Header/Case-Law/Case-law+analysis/Admissibility+guide/).
+För den som önskar en [mer gedigen handbok så finns det mer utförliga instruktioner här](http://www.echr.coe.int/ECHR/EN/Header/Case-Law/Case-law+analysis/Admissibility+guide/), dock inte på svenska.
 
 ### 2. Domstolsverkets nyhetsbrev 2001-01 t.o.m. 2011-06
 
