@@ -1,6 +1,10 @@
 ---
 title: Praxis från Europadomstolen
 ---
+Domstolsverket ger ut ett nyhetsbrev rörande den europeiska konventionen angående skydd för de mänskliga rättigheterna. Sidan återfinns på Domstolsverkets webbplats [Nytt från Europadomstolen](http://www.domstol.se/Ladda-ner--bestall/Nytt-fran-Europadomstolen/)
+
+Nedanstående länkar utgör ett försök att i viss mån komplettera domstolsverkets nyhetsbrev.
+
 Europadomstolens dom (2011-10-27) i målet Aborgeze mot Sverige
 
 Europadomstolens dom (2010-03-09) i målet R.C. mot Sverige
@@ -16,10 +20,6 @@ Europadomstolens dom (2007-02-22) i målet Ahmed mot Sverige
 Europadomstolens dom (2005-11-08) i målet Bader mot Sverige (engelska)
 
 Europadomstolens dom (2006-06-06) i målet Segerstedt Wiberg m fl mot Sverige
-
-Europadomstolens dom (2006-02-28) i målet Hellborg mot Sverige (engelska)
-
-Europadomstolens dom (2006-01-17) i målet Elli Poluhas dödsbo mot Sverige
 
 Europadomstolens dom (2006-01-17) i målet Danell m.fl. mot Sverige (engelska)
 
