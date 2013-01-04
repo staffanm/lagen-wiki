@@ -8,7 +8,7 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderAlk Alexander Anker
 
 Domstolens domar är rättsligt bindande för den berörda staten men Europadomstolen är inte någon överinstans, den kan bara konstatera om staten brutit mot konventionen eller ej. Om domstolen finner att en stat brutit mot konventionen så kan den inte ändra eller undanröja ett tidigare fattat beslut som en nationell myndighet eller domstol fattat, utan endast döma ut ett skadestånd till klaganden
 
-Om du avser att klaga till Europadomstolen, så kontrollera att ditt klagomål uppfyller kraven i följande [checklista för överklaganden till Europadomstolen](http://www.echr.coe.int/NR/rdonlyres/EC86148F-BEE7-4EAB-9026-9A7F52F9EFC5/0/SWE_P0_pack.pdf)
+Om du avser att klaga till Europadomstolen, så kontrollera att ditt klagomål uppfyller kraven i följande [checklista för överklaganden till Europadomstolen](http://www.echr.coe.int/NR/rdonlyres/EC86148F-BEE7-4EAB-9026-9A7F52F9EFC5/0/SWE_P0_pack.pdf). Det finns även utförligare intruktioner att få på [följande sida innehållandes en handbok](http://www.echr.coe.int/ECHR/EN/Header/Case-Law/Case-law+analysis/Admissibility+guide/).
 
 ### 2. Domstolsverkets nyhetsbrev 2001-01 t.o.m. 2011-06
 
