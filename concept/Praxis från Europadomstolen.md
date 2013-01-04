@@ -9,4 +9,4 @@ På Sveriges domstolars webbsida finns också ett register över domar som har r
 
 Nedanstående länkar utgör ett försök att i viss mån komplettera domstolsverkets nyhetsbrev.
 
-## Sammanställning av Praxis från Europadomstolen
+## Sammanställning av Praxis från Europadomstolen av intresse för migrationsrätt
