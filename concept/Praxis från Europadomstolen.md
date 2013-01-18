@@ -30,6 +30,6 @@ Nedanstående länkar utgör ett försök att i viss mån komplettera domstolsve
 
 Även om allt från Europadomstolen kan vara av intresse så ligger fokus på utlänningsrätt.
 
-Beslut mot Sverige i Europadomstolen * [2011 Jul-Dec](https://lagen.nu/wiki/Praxis_fr%C3%A5n_europadomstolen_2011_Jul-Dec) * [2012 Jan-Jun](https://lagen.nu/wiki/Praxis_fr%C3%A5n_europadomstolen_2012_Jan-Jun) * [2012 Jul-Dec](https://lagen.nu/wiki/Praxis_fr%C3%A5n_europadomstolen_2012_Jul-Dec) * [2013 Jan-Jun](https://lagen.nu/wiki/Praxis_fr%C3%A5n_europadomstolen_2013_Jan-Jun)
+Domar mot Sverige i Europadomstolen * [2011 Jul-Dec](https://lagen.nu/wiki/Praxis_fr%C3%A5n_europadomstolen_2011_Jul-Dec) * [2012 Jan-Jun](https://lagen.nu/wiki/Praxis_fr%C3%A5n_europadomstolen_2012_Jan-Jun) * [2012 Jul-Dec](https://lagen.nu/wiki/Praxis_fr%C3%A5n_europadomstolen_2012_Jul-Dec) * [2013 Jan-Jun](https://lagen.nu/wiki/Praxis_fr%C3%A5n_europadomstolen_2013_Jan-Jun)
 
-Beslut av intresse mot övriga länder i Europadomstolen * 2011 Jul-Dec * 2012 Jan-Jun * 2012 Jul-Dec * 2013 Jan-Jun
+Domar av intresse mot övriga länder i Europadomstolen * 2011 Jul-Dec * 2012 Jan-Jun * 2012 Jul-Dec * 2013 Jan-Jun
