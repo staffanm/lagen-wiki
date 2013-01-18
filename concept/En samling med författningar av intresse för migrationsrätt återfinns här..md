@@ -18,15 +18,15 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Anke
 
 ### [http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf Internationell konvention om medborgerliga och politiska rättigheter]
 
-Sverige har reserverat sig för artiklarna 10 (3), 14 (7) och 20 (1).
+: Sverige har reserverat sig för artiklarna 10 (3), 14 (7) och 20 (1).
 
 ### [http://www.regeringen.se/download/0cf29d7e.pdf?major=1&minor=62651&cn=attachmentPublDuplicator_0_attachment Fakultativt protokoll till internationella konventionen om medborgerliga och politiska rättigheter]
 
-Sverige har reserverat sig för artikel 5 moment 2.
+: Sverige har reserverat sig för artikel 5 moment 2.
 
 ### [http://www.regeringen.se/download/0c5aa7ea.pdf?major=1&minor=62648&cn=attachmentPublDuplicator_0_attachment Internationell konvention om ekonomiska, sociala och kulturella rättigheter]
 
-Sverige har reserverat sig för artikel 7 (d).
+: Sverige har reserverat sig för artikel 7 (d).
 
 ### [http://www.regeringen.se/download/86f41911.pdf?major=1&minor=69025&cn=attachmentPublDuplicator_0_attachment FN:s konvention om barnets rättigheter]
 
@@ -36,11 +36,11 @@ Sverige har reserverat sig för artikel 7 (d).
 
 ### [http://www.regeringen.se/content/1/c6/01/17/58/59ac5e44.pdf Wienkonventionen om konsulära förbindelser]
 
-:(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+: (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
 ### [http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf Fakultativt protokoll till Wienkonventionen om konsulära förbindelser : om förvärv av medborgarskap]
 
-:(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+: (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
 ### [http://www.unhcr.se/se/no_cache/om-oss/1951-aars-flyktingkonvention.html?cid=6426&did=854&sechash=fbfd9893 UNHCR:s handbok]
 
@@ -104,11 +104,11 @@ Sverige har reserverat sig för tilläggsprotokoll nr 7, 1984-11-22, artikel 7 (
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:168:0024:0032:SV:PDF Sanktionsdirektivet]
 
-Syftet med direktivet är att motverka olaglig invandring till den Europeiska unionen. Genom direktivet åläggs medlemsstaterna att införa ett förbud för arbetsgivare att anställa tredjelandsmedborgare som saknar rätt att vistas på deras territorier eftersom sådan anställning kan bidra till en ökad olaglig invandring och snedvrida konkurrensen på arbetsmarknaden inom EU. Överträdelse av förbudet ska kunna medföra att arbetsgivare bland annat åläggs olika administrativa, finansiella och straffrättsliga sanktioner samt vissa andra åtgärder.
+: Syftet med direktivet är att motverka olaglig invandring till den Europeiska unionen. Genom direktivet åläggs medlemsstaterna att införa ett förbud för arbetsgivare att anställa tredjelandsmedborgare som saknar rätt att vistas på deras territorier eftersom sådan anställning kan bidra till en ökad olaglig invandring och snedvrida konkurrensen på arbetsmarknaden inom EU. Överträdelse av förbudet ska kunna medföra att arbetsgivare bland annat åläggs olika administrativa, finansiella och straffrättsliga sanktioner samt vissa andra åtgärder.
 
 ### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:243:0001:0001:SV:PDF Viseringskodexen]
 
-:Genom viseringskodexen införs gemensamma förfaranden och villkor för utfärdande av viseringar för transitering genom medlemsstaternas territorium eller för planerade vistelser på medlemsstaternas territorium som inte varar längre än tre månader under en sexmånadersperiod. Bestämmelserna ska vara tillämpliga på alla tredjelandsmedborgare som enligt rådets förordning (EG) nr 539/2001 måste ha visering när de passerar de yttre gränserna. De ska dock inte påverka rätten till fri rörlighet för tredjelandsmedborgare som är familjemedlemmar till unionsmedborgare eller som har samma rätt till sådan rörlighet enligt avtal mellan å ena sidan gemenskapen och dessa medlemsstater samt, å andra sidan, dessa tredjeländer art. 1.2. Viseringskodexens bestämmelser omfattar också visering för flygplanstransitering art. 1.3. se vidare [Prop. 2010/11:121](http://www.regeringen.se/download/2975f919.pdf?major=1&minor=166528&cn=attachmentPublDuplicator_0_attachment)
+: Genom viseringskodexen införs gemensamma förfaranden och villkor för utfärdande av viseringar för transitering genom medlemsstaternas territorium eller för planerade vistelser på medlemsstaternas territorium som inte varar längre än tre månader under en sexmånadersperiod. Bestämmelserna ska vara tillämpliga på alla tredjelandsmedborgare som enligt rådets förordning (EG) nr 539/2001 måste ha visering när de passerar de yttre gränserna. De ska dock inte påverka rätten till fri rörlighet för tredjelandsmedborgare som är familjemedlemmar till unionsmedborgare eller som har samma rätt till sådan rörlighet enligt avtal mellan å ena sidan gemenskapen och dessa medlemsstater samt, å andra sidan, dessa tredjeländer art. 1.2. Viseringskodexens bestämmelser omfattar också visering för flygplanstransitering art. 1.3. se vidare [Prop. 2010/11:121](http://www.regeringen.se/download/2975f919.pdf?major=1&minor=166528&cn=attachmentPublDuplicator_0_attachment)
 
 
 
