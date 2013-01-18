@@ -28,7 +28,7 @@ Nedanstående länkar utgör ett försök att i viss mån komplettera domstolsve
 
 ### Sammanställning av Praxis från Europadomstolen av intresse för migrationsrätt från 2011-06 och framåt
 
-Även om allt från Europadomstolen är av intresse så kommer fokus ligga på utlänningsrätt.
+Även om allt från Europadomstolen kan vara av intresse så ligger fokus på utlänningsrätt.
 
 Beslut mot Sverige i Europadomstolen * 2011 Jul-Dec * 2012 Jan-Jun * 2012 Jul-Dec * 2013 Jan-Jun
 
