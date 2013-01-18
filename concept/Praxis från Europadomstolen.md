@@ -12,6 +12,12 @@ Om du avser att klaga till Europadomstolen, så kontrollera att ditt klagomål u
 
 För den som önskar en [mer gedigen handbok så finns det mer utförliga instruktioner här](http://www.echr.coe.int/ECHR/EN/Header/Case-Law/Case-law+analysis/Admissibility+guide/), dock inte på svenska.
 
+### Europadomstolens domar
+
+[http://hudoc.echr.coe.int/sites/eng/Pages/search.aspx#{"documentcollectionid":["COMMITTEE","DECISIONS"](http://hudoc.echr.coe.int/sites/eng/Pages/search.aspx#{"documentcollectionid":["COMMITTEE","DECISIONS")} Databas över Europadomstolens domar]
+
+För att få en lista över domar så kan du uppe till vänster under fältet Document collections markera rutan Judgments. För att få fram en lista på domar där Sverige är part kan du under fältet Filters/State/More... markera Sweden och välja OK.
+
 ### Domstolsverkets nyhetsbrev 2001-01 t.o.m. 2011-06
 
 Domstolsverket gav under 2001-01 t.o.m. 2011-06 ut ett nyhetsbrev rörande den europeiska konventionen angående skydd för de mänskliga rättigheterna. Sidan återfinns på Domstolsverkets webbplats [Nytt från Europadomstolen](http://www.domstol.se/Ladda-ner--bestall/Nytt-fran-Europadomstolen/)
@@ -21,3 +27,5 @@ På Sveriges domstolars webbsida finns också ett register över domar som har r
 Nedanstående länkar utgör ett försök att i viss mån komplettera domstolsverkets nyhetsbrev.
 
 ### Sammanställning av Praxis från Europadomstolen av intresse för migrationsrätt från 2011-06 och framåt
+
+Även om allt från Europadomstolen är av intresse så kommer fokus ligga på utlänningsrätt.
