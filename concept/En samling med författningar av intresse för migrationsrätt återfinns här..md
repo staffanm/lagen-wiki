@@ -116,6 +116,12 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 
 ### [https://lagen.nu/2006:97 Utlänningsförordning (2006:97)]
 
+===[Migrationsverkets författningssamling (MIGRFS)](http://www.migrationsverket.se/info/1082.html)
+
+### [https://lagen.nu/2001:82 Lag (2001:82) om svenskt medborgarskap]
+
+### [https://lagen.nu/2001:218 Medborgarskapsförordning (2001:218)]
+
 ### [https://lagen.nu/1994:137 Lag (1994:137) om mottagande av asylsökande m.fl.]
 
 ### [https://lagen.nu/1994:361 Förordning (1994:361) om mottagande av asylsökande m.fl.]
@@ -123,10 +129,6 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 ### [https://lagen.nu/1991:572 Lag (1991:572) om särskild utlänningskontroll]
 
 ### [https://lagen.nu/1997:409 Förordning (1997:409) om särskild utlänningskontroll]
-
-### [https://lagen.nu/2001:82 Lag (2001:82) om svenskt medborgarskap]
-
-### [https://lagen.nu/2001:218 Medborgarskapsförordning (2001:218)]
 
 ### [https://lagen.nu/1978:302 Passlag (1978:302)]
 
