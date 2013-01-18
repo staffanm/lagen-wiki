@@ -108,7 +108,7 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 
 :Genom viseringskodexen införs gemensamma förfaranden och villkor för utfärdande av viseringar för transitering genom medlemsstaternas territorium eller för planerade vistelser på medlemsstaternas territorium som inte varar längre än tre månader under en sexmånadersperiod. Bestämmelserna ska vara tillämpliga på alla tredjelandsmedborgare som enligt rådets förordning (EG) nr 539/2001 måste ha visering när de passerar de yttre gränserna. De ska dock inte påverka rätten till fri rörlighet för tredjelandsmedborgare som är familjemedlemmar till unionsmedborgare eller som har samma rätt till sådan rörlighet enligt avtal mellan å ena sidan gemenskapen och dessa medlemsstater samt, å andra sidan, dessa tredjeländer art. 1.2. Viseringskodexens bestämmelser omfattar också visering för flygplanstransitering art. 1.3. se vidare [Prop. 2010/11:121](http://www.regeringen.se/download/2975f919.pdf?major=1&minor=166528&cn=attachmentPublDuplicator_0_attachment)
 
- p
+
 
 ## Svenska författningar
 
@@ -116,7 +116,7 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 
 ### [https://lagen.nu/2006:97 Utlänningsförordning (2006:97)]
 
-===[Migrationsverkets författningssamling (MIGRFS)](http://www.migrationsverket.se/info/1082.html)
+### [http://www.migrationsverket.se/info/1082.html Migrationsverkets författningssamling (MIGRFS)]
 
 ### [https://lagen.nu/2001:82 Lag (2001:82) om svenskt medborgarskap]
 
