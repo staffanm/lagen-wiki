@@ -8,6 +8,8 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Anke
 
 : FN-stadgan anger FN:s uppgifter, befogenheter, arbetsordning och organisation. FN:s ändamål är att åstadkomma internationell samverkan vid lösande av internationella problem av ekonomisk, social, kulturell eller humanitär art samt vid befordrande och främjande av aktningen för mänskliga rättigheter och grundläggade friheter för alla utan åtskillnad med avseende på ras, kön, språk eller religion. Ett beslut där någon medlemsstat röstat nej kallas resolution, om ingen röstar nej benämns den deklaration. Resolutioner och deklarationer är inte bindande.
 
+### [http://www.unhcr.se/se/no_cache/om-oss/1951-aars-flyktingkonvention.html?cid=6426&did=854&sechash=fbfd9893 UNHCR:s handbok]
+
 ### [http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/swd.pdf FN:s allmänna förklaring om de mänskliga rättigheterna]
 
 ### [http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning]
