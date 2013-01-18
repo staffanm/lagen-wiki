@@ -14,7 +14,7 @@ För den som önskar en [mer gedigen handbok så finns det mer utförliga instru
 
 ### Europadomstolens domar
 
-[Databas över Europadomstolens domar](http://hudoc.echr.coe.int/sites/eng/Pages/search.aspx#{"documentcollectionid":})
+[Databas över Europadomstolens domar](http://hudoc.echr.coe.int)
 
 För att få en lista över domar så kan du uppe till vänster under fältet Document collections markera rutan Judgments. För att få fram en lista på domar där Sverige är part kan du under fältet Filters/State/More... markera Sweden och välja OK.
 
