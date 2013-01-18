@@ -12,9 +12,9 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Anke
 
 ### [http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning]
 
-### [http://www.manskligarattigheter.gov.se/dynamaster/file_archive/021003/3cd145847c488eb4f214b0573d57788f/fn_510728.pdf Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)]
+### [http://www.humanrights.se/wp-content/uploads/2012/01/Konvention-angaende-flyktingars-rattsliga-stallning.pdf Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)]
 
-: Dokumentet är 40 mb stor och det rekommenderas att den laddas ner och öppnas lokalt framför att öppna direkt från platsen. Sverige har reserverat sig för artiklarna artiklarna 8, 12 (1), 17 (2), 24 (1)b, 24 (3) och 25.
+: Sverige har reserverat sig för artiklarna artiklarna 8, 12 (1), 17 (2), 24 (1)b, 24 (3) och 25.
 
 ### [http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf Internationell konvention om medborgerliga och politiska rättigheter]
 
@@ -41,6 +41,8 @@ Sverige har reserverat sig för artikel 7 (d).
 ### [http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf Fakultativt protokoll till Wienkonventionen om konsulära förbindelser : om förvärv av medborgarskap]
 
 :(Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+
+### [ ]
 
 
 
