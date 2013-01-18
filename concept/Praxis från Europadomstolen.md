@@ -30,6 +30,6 @@ Nedanstående länkar utgör ett försök att i viss mån komplettera domstolsve
 
 Även om allt från Europadomstolen är av intresse så kommer fokus ligga på utlänningsrätt.
 
-[Beslut mot Sverige]
+Beslut mot Sverige i Europadomstolen
 
-[Beslut mot övriga länder]
+Beslut mot övriga länder i Europadomstolen
