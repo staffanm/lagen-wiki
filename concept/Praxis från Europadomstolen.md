@@ -30,6 +30,6 @@ Nedanstående länkar utgör ett försök att i viss mån komplettera domstolsve
 
 Även om allt från Europadomstolen är av intresse så kommer fokus ligga på utlänningsrätt.
 
-Beslut mot Sverige i Europadomstolen
+Beslut mot Sverige i Europadomstolen Jul-Dec 2011 Jan-Jun 2012 Jul-Dec 2012 Jan-Jun 2013
 
-Beslut mot övriga länder i Europadomstolen
+Beslut av intresse mot övriga länder i Europadomstolen Jul-Dec 2011 Jan-Jun 2012 Jul-Dec 2012 Jan-Jun 2013
