@@ -4,7 +4,7 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderAlk Alexander Anker
 ---
 ## Praxis från Europadomstolen
 
-### 1. Lite kort om Europadomstolen
+### Lite kort om Europadomstolen
 
 Domstolens domar är rättsligt bindande för den berörda staten men Europadomstolen är inte någon överinstans, den kan bara konstatera om staten brutit mot konventionen eller ej. Om domstolen finner att en stat brutit mot konventionen så kan den inte ändra eller undanröja ett tidigare fattat beslut som en nationell myndighet eller domstol fattat, utan endast döma ut ett skadestånd till klaganden
 
@@ -12,7 +12,7 @@ Om du avser att klaga till Europadomstolen, så kontrollera att ditt klagomål u
 
 För den som önskar en [mer gedigen handbok så finns det mer utförliga instruktioner här](http://www.echr.coe.int/ECHR/EN/Header/Case-Law/Case-law+analysis/Admissibility+guide/), dock inte på svenska.
 
-### 2. Domstolsverkets nyhetsbrev 2001-01 t.o.m. 2011-06
+### Domstolsverkets nyhetsbrev 2001-01 t.o.m. 2011-06
 
 Domstolsverket gav under 2001-01 t.o.m. 2011-06 ut ett nyhetsbrev rörande den europeiska konventionen angående skydd för de mänskliga rättigheterna. Sidan återfinns på Domstolsverkets webbplats [Nytt från Europadomstolen](http://www.domstol.se/Ladda-ner--bestall/Nytt-fran-Europadomstolen/)
 
@@ -20,4 +20,4 @@ På Sveriges domstolars webbsida finns också ett register över domar som har r
 
 Nedanstående länkar utgör ett försök att i viss mån komplettera domstolsverkets nyhetsbrev.
 
-### 3. Sammanställning av Praxis från Europadomstolen av intresse för migrationsrätt från 2011-06 och framåt
+### Sammanställning av Praxis från Europadomstolen av intresse för migrationsrätt från 2011-06 och framåt
