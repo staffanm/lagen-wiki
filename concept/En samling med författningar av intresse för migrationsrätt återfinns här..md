@@ -112,11 +112,11 @@ Syftet med direktivet är att motverka olaglig invandring till den Europeiska un
 
 ## Svenska författningar
 
+### [http://www.migrationsverket.se/info/1082.html (MIGRFS) Migrationsverkets författningssamling]
+
 ### [https://lagen.nu/2005:716 Utlänningslag (2005:716)]
 
 ### [https://lagen.nu/2006:97 Utlänningsförordning (2006:97)]
-
-### [http://www.migrationsverket.se/info/1082.html Migrationsverkets författningssamling (MIGRFS)]
 
 ### [https://lagen.nu/2001:82 Lag (2001:82) om svenskt medborgarskap]
 
