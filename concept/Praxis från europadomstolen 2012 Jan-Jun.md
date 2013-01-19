@@ -2,6 +2,8 @@
 title: Praxis från europadomstolen 2012 Jan-Jun
 author: "[https://lagen.nu/wiki/Anv%C3%A4ndare:AlexanderAlk Alexander Ankerstedt]"
 ---
+[Tillbaka till huvudsidan för - Praxis från Europadomstolen](https://lagen.nu/wiki/Praxis_fr%C3%A5n_Europadomstolen)
+
 # CASE OF A.A. AND OTHERS v. SWEDEN
 
 [Länk till domen](http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-111553)
