@@ -38,11 +38,29 @@ Sammantaget ansågs en utlämning inte utgöra ett flagrant övergrepp av rättv
 
 Klaganden från Pakistan ansökte om asyl och permanent uppehållstillstånd i Sverige då den kände en välgrundad fruktan för förföljelse från både privatpersoner och staten p.g.a. sin religiösa tillhörighet. Klaganden påstod att den blivit efterlyst p.g.a.. blasfemi samt att dess familj försvunnit och att detta berodde på henne.
 
-De svenska domstolarna ansåg att den skriftliga bevisningen i form av efterlysningar och polisrapporter hade lågt bevisvärde då de var så enkla att förfalska och att faran inte var reell. Domstolarna ansåg också att det fanns ett internt flyktalternativ då den religiösa organisation klagande tillhörde verkade lokalt i en liten del av landet samt att klaganden hade släkt i delar av landet långt ifrån där hotet manifesterades. klaganden överklagade till Europadomstolen på den grunden att den riskerade att inte få en rättvis rättegång då; # ensamstående kvinnor och religiösa minoriteter hotades i Pakistan. # om hon deporterades riskerade hot från både staten och fundamentalister samt dömas till döden för blasfemi, # hon inte skulle ha råd till vård i Pakistan, # hon skulle vara extremt utsatt då de flesta i hennes familj försvunnit och inte kunde bo hos de kvarvarande då de utnyttjat hennes sexuellt.
+De svenska domstolarna ansåg att den skriftliga bevisningen i form av efterlysningar och polisrapporter hade lågt bevisvärde då de var så enkla att förfalska och att faran inte var reell. Domstolarna ansåg också att det fanns ett internt flyktalternativ då den religiösa organisation klagande tillhörde verkade lokalt i en liten del av landet samt att klaganden hade släkt i delar av landet långt ifrån där hotet manifesterades. klaganden överklagade till Europadomstolen på den grunden att den riskerade att inte få en rättvis rättegång då; # om hon deporterades riskerade hot från både staten och fundamentalister samt dömas till döden för blasfemi, # hon inte skulle ha råd till vård i Pakistan, # ensamstående kvinnor och religiösa minoriteter hotades i Pakistan. # hon skulle vara extremt utsatt då de flesta i hennes familj försvunnit och inte kunde bo hos de kvarvarande då de utnyttjat hennes sexuellt.
 
-#### Europadomstolens bedömning och resonemang
+#### Europadomstolens inledande bedömning och resonemang
 
-Om det kan påvisas en reell risk för att en utvisning kan resultera i art. 3 EKMR överträds så är konventionsstaten förhindrad att utvisa utlänningen till det aktuella landet (Saadi v. Italy). För att det ska kunna påvisas en sådan risk så måste konventionsstaten jämföra art. 3 EKMR mot situationen mot det land som utlänningen ska utvisas till (Mamatkulov and Askarov v. Turkey). Utlänningen måste således uppnå en minsta nivå av allvarlighet i relation till art. 3 EKMR vars bedömning kan variera beroende på omständigheterna i det aktuella fallet, (Hilal v. the United Kingdom). Om faran härrör från privatpersoner så måste det visas att den är reell och att staten inte kan ge adekvat skydd (H.L.R. v. France,
+Om det kan påvisas en reell risk för att en utvisning kan resultera i art. 3 EKMR överträds så är konventionsstaten förhindrad att utvisa utlänningen till det aktuella landet (Saadi v. Italy). För att det ska kunna påvisas en sådan risk så måste konventionsstaten jämföra art. 3 EKMR mot situationen mot det land som utlänningen ska utvisas till (Mamatkulov and Askarov v. Turkey). Utlänningen måste således uppnå en minsta nivå av allvarlighet i relation till art. 3 EKMR vars bedömning kan variera beroende på omständigheterna i det aktuella fallet, (Hilal v. the United Kingdom). Om faran härrör från privatpersoner så måste det visas att den är reell och att staten inte kan ge adekvat skydd (H.L.R. v. France). Bedömningen om risken är reell ska vara rigorös (Chahal v. the United Kingdom). Även om asylsökande kan åtnjuta benefit of the doubt så måste de, om det uppkommer starka skäl att ifrågasätta trovärdigheten av deras bevisning, presentera en tillförlitlig förklaring över eventuella avvikelser (N. v. Sweden).
+
+#### Angående förföljelsen
+
+Med anledning av att klaganden inte kunnat ge någon tillfredsställande förklaring till varför hon som volontär i den religiösa rörelsen, men inte ledarna, i den religiösa rörelsen var förföljda. Samt att delar av den av klaganden åberopade bevisningen visat sig vara falsk och att även om inte resten bevisats vara falska var lätta att förfalska medförde att hennes trovärdighet ifrågasattes.
+
+#### Vård i Pakistan
+
+Utlänningar som riskerar utvisning kan inte som skäl för uppehållstillstånd åberopa att vården i den utvisande staten är bättre än mottagarlandet. Den omständigheten att utlänningens livslängd drastiskt kommer att minska om den utvisas, är inte tillräckligt för att grunda brott mot art. 3 EKMR. Det kan förvisso tänkas att en person som lider av en allvarlig sjukdom, vid en utvisning kan riskera att den utvisande staten begår brott mot art. 3 EKMR men det lär hända endast i mycket exceptionella fall där det finns humanitära skäl mot utvisning, (D. v. the United Kingdom). Som exempel angavs en situation där en person var nära döden, saknade släktingar i mottagarlandet och i praktiken även möjligheten till vård var utesluten har grundat uppehållstillstånd (N. v. the United Kingdom).
+
+Då Sverige inte varit orsaken till skadan/sjukdomen samt den höga tröskel som krävs för att kunna grunda uppehållstillstånd p.g.a. vårdskäl ansåg inte domstolen att Sverige riskerade att begå brott mot art. 3 EKMR.
+
+#### Klagandens personliga situation
+
+Efter att en sambandsofficer i Pakistan besökt hennes familjs hus i Pakistan och rapporterat att de fortfarande bodde kvar ansåg domstolen inte att hon heller här nådde upp till de högt ställda kraven i art. 3 EKMR.
+
+#### Dom
+
+Domstolen ansåg en utvisning inte skulle grunda brott mot art. 3 EKMR
 
 # CASE OF HUSSEINI v. SWEDEN
 
