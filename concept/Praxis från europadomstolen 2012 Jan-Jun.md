@@ -1,5 +1,6 @@
 ---
 title: Praxis från europadomstolen 2012 Jan-Jun
+author: "[https://lagen.nu/wiki/Anv%C3%A4ndare:AlexanderAlk Alexander Ankerstedt]"
 ---
 CASE OF A.A. AND OTHERS v. SWEDEN
 
