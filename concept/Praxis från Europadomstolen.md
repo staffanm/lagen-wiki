@@ -2,6 +2,8 @@
 title: Praxis från Europadomstolen
 author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderAlk Alexander Ankerstedt]"
 ---
+[Tillbaka till huvudsidan för - En samling med författningar av intresse för migrationsrätt](https://lagen.nu/wiki/En_samling_med_f%C3%B6rfattningar_av_intresse_f%C3%B6r_migrationsr%C3%A4tt_%C3%A5terfinns_h%C3%A4r.)
+
 ## Praxis från Europadomstolen
 
 ### Lite kort om Europadomstolen
