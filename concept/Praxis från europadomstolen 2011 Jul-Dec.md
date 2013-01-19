@@ -16,7 +16,7 @@ Med flagrant övergrepp avses ett övergrepp som är så allvarligt att det är 
 
 #### Likställda parter och vittnen
 
-Det svåra för klaganden var att visa att domstolen i landet den riskerade utlämnas till inte skulle beakta principen om likställda parter och fråntas rätten att pröva bevisning och åberopa egna vittnen, (p 120). Rätten att få åeropa egna vittnen avser både möjligheten för vittnen att avge vittnesmål även om de befann sig i annat land än mottagarlandet samt vittnesskydd, (p 120-122). Denna prövning ska göras objektivt baserad på fakta i mottagarlandet och får inte avse en rimlighetbedömning, (p. 121). Domstolen fann inga skäl som talade för att ett övergrepp av art. 6 EKMR skulle ske i denna del (p. 123)
+Det svåra för klaganden var att visa att domstolen i landet den riskerade utlämnas till inte skulle beakta principen om likställda parter och fråntas rätten att pröva bevisning och åberopa egna vittnen, (p 120). Rätten att få åberopa egna vittnen avser både möjligheten för vittnen att avge vittnesmål även om de befann sig i annat land än mottagarlandet samt vittnesskydd, (p 120-122). Denna prövning ska göras objektivt baserad på fakta i mottagarlandet och får inte avse en rimlighetbedömning, (p. 121). Domstolen fann inga skäl som talade för att ett övergrepp av art. 6 EKMR skulle ske i denna del (p. 123)
 
 #### Brist på rättsskydd
 
