@@ -1,5 +1,6 @@
 ---
 title: Praxis från europadomstolen 2011 Jul-Dec
+author: "[https://lagen.nu/wiki/Anv%C3%A4ndare:AlexanderAlk Alexander Ankerstedt]"
 ---
 # CASE OF AHORUGEZE v. SWEDEN
 
