@@ -4,6 +4,8 @@ author: "[https://lagen.nu/wiki/Anv%C3%A4ndare:AlexanderAlk Alexander Ankerstedt
 ---
 # CASE OF AHORUGEZE v. SWEDEN
 
+[Länk till domen](http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-107183)
+
 #### Bakgrund
 
 På begäran av utländsk behörig myndighet beslutade domstol att utlämna en person med stöd av [23 § Lag (1957:668) om utlämning för brott](https://lagen.nu/1957:668#P23S1) pga. av bland annat folkrättsbrott. Personen överklagade på den grunden att den riskerade att inte få en rättvis rättegång på de grunder att; # mottagarlandet inte skulle respektera principen om likställda parter och fråntas rätten att pröva bevisning samt åberopa egna vittnen. # eventuella egna vittnen kunde inte garanteras skydd. # mottagarlandet saknade rättsskydd i hemlandet. # mottagarlandets domare skulle inte var objektiva. Domstolen konstaterade att art. 6 EKMR kunde bli aktuellt i fråga om utlämning men för att förhindra en utlämning måste det avse en “flagrant denial of justice" (p. 114).
@@ -30,6 +32,12 @@ Sammantaget ansågs en utlämning inte utgöra ett flagrant övergrepp av rättv
 
 # CASE OF SAMINA v. SWEDEN
 
+[Länk till domen](http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-107125)
+
 # CASE OF HUSSEINI v. SWEDEN
 
+[Länk till domen](http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-106976)
+
 # CASE OF FEXLER v. SWEDEN
+
+[Länk till domen](http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-106918)
