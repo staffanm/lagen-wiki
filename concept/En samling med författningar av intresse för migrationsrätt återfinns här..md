@@ -12,9 +12,11 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Anke
 
 ### [http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning (FN:s tortyrkonvention)]
 
+:FN:s tortyrkonvention innehåller bl.a. förbud mot att utvisa, återföra eller utlämna en person till en annan stat, i vilken det finns grundad anledning att tro att han eller hon skulle vara i fara att utsättas för tortyr. Tortyrkommittén övervakar konventionens efterlevnad. En konventionsstat kan avge en förklaring att den erkänner kommitténs behörighet att motta och pröva ansökningar från enskilda personer som anser sig ha blivit utsatta för kränkning av konventionens bestämmelser. Sverige har, i likhet med ett 50-tal andra länder, avgivit en sådan förklaring.
+
 ### [http://www.humanrights.se/wp-content/uploads/2012/01/Konvention-angaende-flyktingars-rattsliga-stallning.pdf Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)]
 
-: Sverige har reserverat sig för artiklarna artiklarna 8, 12 (1), 17 (2), 24 (1)b, 24 (3) och 25.
+: Innehåller de grundläggande internationella bestämmelserna om flyktingskap. I konventionen anges bl.a. kriterier för när en person ska betraktas som flykting. Definitionen av flykting anges i art. 1.A.2, en artikel som ska läsas tillsammans med art. 1 C-F : Sverige har reserverat sig för artiklarna artiklarna 8, 12 (1), 17 (2), 24 (1)b, 24 (3) och 25.
 
 ### [http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf Internationell konvention om medborgerliga och politiska rättigheter]
 
@@ -43,6 +45,8 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Anke
 : (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
 ### [http://www.unhcr.se/se/no_cache/om-oss/1951-aars-flyktingkonvention.html?cid=6426&did=854&sechash=fbfd9893 UNHCR:s handbok]
+
+: Handboken kompletteras med riktlinjer. Hittills har sju riktlinjer utfärdats # [om könsrelaterad förföljelse](http://www.unhcr.org/3d58ddef4.html), # [om tillhörighet till viss samhällsgrupp](http://www.unhcr.org/3d58de2da.html), # [om upphörande av flyktingstatus](http://www.unhcr.org/refworld/pdfid/3e50de6b4.pdf), # [om internt flyktalternativ](http://www.unhcr.org/3f28d5cd4.html), # [om uteslutning från flyktingskap](http://www.unhcr.org/refworld/pdfid/3f5857684.pdf), # [om religionsbaserade ansökningar](http://www.unhcr.org/40d8427a4.html), # [om tillämpningen av flyktingdefinitionen på asylansökningar från personer som varit utsatta för människohandel](http://www.unhcr.org/443b626b2.html). # [barn som asylsökande](http://www.unhcr.org/50ae46309.html) # [tillämpning baserad på sexuell läggning och könstillhörighet](http://www.unhcr.org/50ae466f9.html)
 
 
 
