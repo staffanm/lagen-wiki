@@ -2,99 +2,117 @@
 title: En samling med författningar av intresse för migrationsrätt återfinns här.
 author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Ankerstedt]"
 ---
-## Folkrättsliga författningar
+# Folkrättsliga författningar
 
-### [http://www.fn.se/PageFiles/1158/FN-stadgan.pdf FN stadgan]
+## [http://www.fn.se/PageFiles/1158/FN-stadgan.pdf FN stadgan]
 
 : FN-stadgan anger FN:s uppgifter, befogenheter, arbetsordning och organisation. FN:s ändamål är att åstadkomma internationell samverkan vid lösande av internationella problem av ekonomisk, social, kulturell eller humanitär art samt vid befordrande och främjande av aktningen för mänskliga rättigheter och grundläggade friheter för alla utan åtskillnad med avseende på ras, kön, språk eller religion. Ett beslut där någon medlemsstat röstat nej kallas resolution, om ingen röstar nej benämns den deklaration. Resolutioner och deklarationer är inte bindande.
 
-### [http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/swd.pdf FN:s allmänna förklaring om de mänskliga rättigheterna]
+## [http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/swd.pdf FN:s allmänna förklaring om de mänskliga rättigheterna]
 
-### [http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning (FN:s tortyrkonvention)]
+## [http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning (FN:s tortyrkonvention)]
 
 :FN:s tortyrkonvention innehåller bl.a. förbud mot att utvisa, återföra eller utlämna en person till en annan stat, i vilken det finns grundad anledning att tro att han eller hon skulle vara i fara att utsättas för tortyr. Tortyrkommittén övervakar konventionens efterlevnad. En konventionsstat kan avge en förklaring att den erkänner kommitténs behörighet att motta och pröva ansökningar från enskilda personer som anser sig ha blivit utsatta för kränkning av konventionens bestämmelser. Sverige har, i likhet med ett 50-tal andra länder, avgivit en sådan förklaring.
 
-### [http://www.humanrights.se/wp-content/uploads/2012/01/Konvention-angaende-flyktingars-rattsliga-stallning.pdf Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)]
+## [http://www.humanrights.se/wp-content/uploads/2012/01/Konvention-angaende-flyktingars-rattsliga-stallning.pdf Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen) ]
 
 : Innehåller de grundläggande internationella bestämmelserna om flyktingskap. I konventionen anges bl.a. kriterier för när en person ska betraktas som flykting. Definitionen av flykting anges i art. 1.A.2, en artikel som ska läsas tillsammans med art. 1 C-F : Sverige har reserverat sig för artiklarna artiklarna 8, 12 (1), 17 (2), 24 (1)b, 24 (3) och 25.
 
-### [http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf Internationell konvention om medborgerliga och politiska rättigheter]
+## [http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf Internationell konvention om medborgerliga och politiska rättigheter]
 
 : Sverige har reserverat sig för artiklarna 10 (3), 14 (7) och 20 (1).
 
-### [http://www.regeringen.se/download/0cf29d7e.pdf?major=1&minor=62651&cn=attachmentPublDuplicator_0_attachment Fakultativt protokoll till internationella konventionen om medborgerliga och politiska rättigheter]
+## [http://www.regeringen.se/download/0cf29d7e.pdf?major=1&minor=62651&cn=attachmentPublDuplicator_0_attachment Fakultativt protokoll till internationella konventionen om medborgerliga och politiska rättigheter]
 
 : Sverige har reserverat sig för artikel 5 moment 2.
 
-### [http://www.regeringen.se/download/0c5aa7ea.pdf?major=1&minor=62648&cn=attachmentPublDuplicator_0_attachment Internationell konvention om ekonomiska, sociala och kulturella rättigheter]
+## [http://www.regeringen.se/download/0c5aa7ea.pdf?major=1&minor=62648&cn=attachmentPublDuplicator_0_attachment Internationell konvention om ekonomiska, sociala och kulturella rättigheter]
 
 : Sverige har reserverat sig för artikel 7 (d).
 
-### [http://www.regeringen.se/download/86f41911.pdf?major=1&minor=69025&cn=attachmentPublDuplicator_0_attachment FN:s konvention om barnets rättigheter]
+## [http://www.regeringen.se/download/86f41911.pdf?major=1&minor=69025&cn=attachmentPublDuplicator_0_attachment FN:s konvention om barnets rättigheter]
 
-### [http://www.regeringen.se/content/1/c6/01/17/59/ab36c8f5.pdf Wienkonventionen om diplomatiska förbindelser (cit. WK)]
-
-: (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
-
-### [http://www.regeringen.se/content/1/c6/01/17/58/59ac5e44.pdf Wienkonventionen om konsulära förbindelser]
+## [http://www.regeringen.se/content/1/c6/01/17/59/ab36c8f5.pdf Wienkonventionen om diplomatiska förbindelser (cit. WK)]
 
 : (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
-### [http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf Fakultativt protokoll till Wienkonventionen om konsulära förbindelser : om förvärv av medborgarskap]
+## [http://www.regeringen.se/content/1/c6/01/17/58/59ac5e44.pdf Wienkonventionen om konsulära förbindelser]
 
 : (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
 
-### [http://www.unhcr.se/se/no_cache/om-oss/1951-aars-flyktingkonvention.html?cid=6426&did=854&sechash=fbfd9893 UNHCR:s handbok]
+## [http://www.regeringen.se/content/1/c6/01/17/57/e4f7b5eb.pdf Fakultativt protokoll till Wienkonventionen om konsulära förbindelser : om förvärv av medborgarskap]
 
-: Handboken kompletteras med riktlinjer. Hittills har sju riktlinjer utfärdats # [om könsrelaterad förföljelse](http://www.unhcr.org/3d58ddef4.html), # [om tillhörighet till viss samhällsgrupp](http://www.unhcr.org/3d58de2da.html), # [om upphörande av flyktingstatus](http://www.unhcr.org/refworld/pdfid/3e50de6b4.pdf), # [om internt flyktalternativ](http://www.unhcr.org/3f28d5cd4.html), # [om uteslutning från flyktingskap](http://www.unhcr.org/refworld/pdfid/3f5857684.pdf), # [om religionsbaserade ansökningar](http://www.unhcr.org/40d8427a4.html), # [om tillämpningen av flyktingdefinitionen på asylansökningar från personer som varit utsatta för människohandel](http://www.unhcr.org/443b626b2.html). # [barn som asylsökande](http://www.unhcr.org/50ae46309.html) # [tillämpning baserad på sexuell läggning och könstillhörighet](http://www.unhcr.org/50ae466f9.html)
+: (Notera att texten först återger den engelska och franska texten innan den svenska texten presenteras.)
+
+## [http://www.unhcr.se/se/no_cache/om-oss/1951-aars-flyktingkonvention.html?cid=6426&did=854&sechash=fbfd9893 UNHCR:s handbok]
+
+: Handboken kompletteras med riktlinjer. Hittills har nio riktlinjer utfärdats
+
+### [http://www.unhcr.org/3d58ddef4.html om könsrelaterad förföljelse]
+
+### [http://www.unhcr.org/3d58de2da.html om tillhörighet till viss samhällsgrupp]
+
+### [http://www.unhcr.org/refworld/pdfid/3e50de6b4.pdf om upphörande av flyktingstatus]
+
+### [http://www.unhcr.org/3f28d5cd4.html om internt flyktalternativ]
+
+### [http://www.unhcr.org/refworld/pdfid/3f5857684.pdf om uteslutning från flyktingskap]
+
+### [http://www.unhcr.org/40d8427a4.html om religionsbaserade ansökningar]
+
+### [http://www.unhcr.org/443b626b2.html om tillämpningen av flyktingdefinitionen på asylansökningar från personer som varit utsatta för människohandel]
+
+### [http://www.unhcr.org/50ae46309.html barn som asylsökande]
+
+### [http://www.unhcr.org/50ae466f9.html tillämpning baserad på sexuell läggning och könstillhörighet]
 
 
 
-## EU-rättsliga författningar
+# EU-rättsliga författningar
 
-### [http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2010:083:SOM:SV:HTML Fördraget om Europeiska unionens funktionssätt (cit. FEU)]
+## [http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2010:083:SOM:SV:HTML Fördraget om Europeiska unionens funktionssätt (cit. FEU)]
 
-### [http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2007:306:SOM:SV:HTML Lissabonfördraget om ändring av fördraget om Europeiska unionen och fördraget om upprättandet av Europeiska gemenskapen, undertecknat i Lissabon den 13 december 2007 (Lissabonfördraget) (cit. FEUF)]
+## [http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2007:306:SOM:SV:HTML Lissabonfördraget om ändring av fördraget om Europeiska unionen och fördraget om upprättandet av Europeiska gemenskapen, undertecknat i Lissabon den 13 december 2007 (Lissabonfördraget) (cit. FEUF)]
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0389:0403:SV:PDF Europeiska unionens stadga om de grundläggande rättigheterna (Rättighetsstadgan)]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2010:083:0389:0403:SV:PDF Europeiska unionens stadga om de grundläggande rättigheterna (Rättighetsstadgan)]
 
-### [http://www.echr.coe.int/NR/rdonlyres/1009F7DB-87E3-4056-8E17-8A8A41768BA7/0/SWE_CONV.pdf Europeiska konventionen om skydd för de mänskliga rättigheterna och de grundläggande friheterna (cit. EKMR)]
+## [http://www.echr.coe.int/NR/rdonlyres/1009F7DB-87E3-4056-8E17-8A8A41768BA7/0/SWE_CONV.pdf Europeiska konventionen om skydd för de mänskliga rättigheterna och de grundläggande friheterna (cit. EKMR)]
 
 Sverige har reserverat sig för tilläggsprotokoll nr 7, 1984-11-22, artikel 7 (2).
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:326:0013:0034:SV:PDF Asylprocedurdirektivet]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:326:0013:0034:SV:PDF Asylprocedurdirektivet]
 
 :Uppställer miniminormer för att bevilja och återkalla flyktingstatus. I syfte att säkerställa detta krävs att asylansökningar fattas på grundval av fakta och, i första instans, av myndigheter vars personal har lämpliga kunskaper eller erhåller den utbildning som behövs om asyl- och flyktingfrågor. En konsekvens av direktivet inom EU är även att asylsökandes sekundära förflyttningar mellan medlemsstaterna begränsas. Direktivet uppställer även särskilda rättssäkerhetsgarantier för ensamkommande barn. Direktivet ger även en stat möjlighet att vid en efterföljande ansökan utan att nya bevis eller skäl läggs fram, genomföra ett förenklat förfarande med undantag från de garantier som den asylsökande vanligen har.
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:050:0001:0001:SV:PDF Dublinförordningen]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:050:0001:0001:SV:PDF Dublinförordningen]
 
 :Reglerar vilken EU-medlemsstat som har ansvaret för att pröva en asylansökan som en medborgare i tredje land gett in i någon EU-medlemsstat. Följande länder är anslutna till Dublinförordningen Belgien (1997), Bulgarien (2007), Cypern (2004), Danmark (2006), Estland (2004), Finland (1998), Frankrike (1997), Grekland (1997), Irland (1997), Italien (1997), Island (genom Schengenavtalet 2001) Lettland (2004), Litauen (2004), Luxemburg (1997), Malta (2004), Nederländerna (1997), Norge (genom Schengenavtalet 2001), Polen (2004), Portugal (1997), Rumänien (2007), Schweiz (2008), Slovakien (2004), Slovenien (2004), Spanien (1997), Storbritannien (1997), Sverige (1997), Tjeckien (2004), Tyskland (1997), Ungern (2004) och Österrike (1997).
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:316:0001:0001:SV:PDF Eurodacförordningen]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2000:316:0001:0001:SV:PDF Eurodacförordningen]
 
 :Innehåller fingeravtryck av alla asylsökande och påträffade illegala invandrare över 14 år. Syftet med Eurodac är att kunna jämföra fingeravtryck för en effektiv tillämpning av Dublinkonventionen. Det är först när utlänningarna väl erhåller medborgarskap i en medlemsstat som det ges utrymme att radera uppgifter om fingeravtryck. Alla EU-länder är anslutna. Island, Norge och Schweiz är anslutna via särskilt avtal.
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2001:212:0012:0023:SV:PDF Massflyktsdirektivet]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2001:212:0012:0023:SV:PDF Massflyktsdirektivet]
 
 :Uppställer miniminormer för att ge tillfälligt skydd och möjliggöra för undantag från att ge skydd vid massiv tillströmning av fördrivna personer samt om åtgärder för att främja en balans mellan medlemsstaternas insatser för att ta emot dessa personer och bära följderna av detta. Av direktivet följer vidare att det uppställs principer och åtgärder för återvändande till ursprungslandet. Slutligen uppställs kriteriet att direktivet tillämpas med beaktande av de förpliktelser som följer av internationella rättsliga instrument som medlemsstaterna är parter i och som förbjuder diskriminering.
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:031:0018:0025:SV:PDF Mottagandedirektivet]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:031:0018:0025:SV:PDF Mottagandedirektivet]
 
 :Fastställer grunderna för en gemensam asylpolitik inklusive ett gemensamt europeiskt asylsystem varvid det uppställs miniminormer för mottagande av asylsökande inklusive grupper med speciella behov och asylsökande som hålls i förvar. Direktivet uppställer krav på visst ansvar för den mottagande staten för att säkerställa en värdig levnadsstandard och redogör för boende, arbete, utbildning samt hälso- och sjukvård.
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:304:0012:0023:SV:PDF Skyddsgrundsdirektivet]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:304:0012:0023:SV:PDF Skyddsgrundsdirektivet]
 
 :Huvudsyftet med detta direktiv är dels att innebörd definiera innebörden av begreppet flyktingstatus, dels att garantera att medlemsstaterna tillämpar gemensamma kriterier för att fastställa vilka personer som har ett verkligt behov av internationellt skydd, dels att garantera att en miniminivå av förmåner är tillgänglig för dessa personer i samtliga medlemsstater. Direktivet garanterar även en rätt till familjeåterförening genom att reglera medföljande familjemedlemmars rätt till asyl.
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:251:0012:0018:SV:PDF Familjeåterföreningsdirektivet]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2003:251:0012:0018:SV:PDF Familjeåterföreningsdirektivet]
 
 :Familjeåterföreningsdirektivet möjliggör för medlemmar till en tredjelandsmedborgare som lagligen vistas på medlemsstaternas territorium att återförenas. Medlemmar i familj kan avse släktingar i rakt uppstigande led, ogifta myndiga barn, ogifta eller registrerade partners samt när det gäller polygama hushåll, underåriga barn till ytterligare en make/maka och referenspersonen. Familjeåterförening bör under alla omständigheter gälla medlemmarna i kärnfamiljen, det vill säga make/maka och underåriga barn. Tolkningen av direktivet ska iaktta de principer som erkänns särskilt i art. 8 EKMR.
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:229:0035:0048:SV:pdf Rörlighetsdirektivet]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:229:0035:0048:SV:pdf Rörlighetsdirektivet]
 
 :Rörlighetsdirektivet innebär att tredjelandsmedborgare som är familjemedlemmar till unionsmedborgare har rätt att ansluta sig till unionsmedborgaren i den mottagande medlemsstaten, oavsett om denne bosatt sig där före eller efter att ha bildat familj punkt 90 i Europadomstolens dom från den 25 juli 2008 i mål C-127/08. På samma sätt så det saknar betydelse ifall tredjelandsmedborgare som är familjemedlemmar till en unionsmedborgare reser in i den mottagande medlemsstaten före eller efter det att de blir familjemedlemmar till unionsmedborgaren, se punkt 92 tidigare mål.
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:348:0098:0098:SV:PDF Återvändandedirektivet]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:348:0098:0098:SV:PDF Återvändandedirektivet]
 
 :Uppställer regler för tredjelandsmedborgare som inte, eller inte längre, uppfyller villkoren för inresa, vistelse eller bosättning i en medlemsstat samt regler för avlägsnande, återsändande av tredjelandsmedborgaren förutsatt att principen om [nonrefoulement]respekteras fullt ut. Direktivet uppställer även en tidsfrist för frivillig avresa samt regler för användning av tvångsmedel, förvar och inreseförbud.
 
@@ -102,21 +120,21 @@ Sverige har reserverat sig för tilläggsprotokoll nr 7, 1984-11-22, artikel 7 (
 
 ### 2. [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:132:0001:0004:SV:PDF DIREKTIV 2011/51/EU om ändring av rådets direktiv 2003/109/EG i syfte att utöka dess räckvidd till att omfatta även personer som beviljats internationellt skydd]
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:289:0015:0022:SV:PDF Direktivet om gästforskare]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:289:0015:0022:SV:PDF Direktivet om gästforskare]
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2002R1030:20080519:SV:PDF Förordning om enhetlig utformning av uppehållstillstånd för medborgare i tredjeland]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2002R1030:20080519:SV:PDF Förordning om enhetlig utformning av uppehållstillstånd för medborgare i tredjeland]
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:168:0024:0032:SV:PDF Sanktionsdirektivet]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:168:0024:0032:SV:PDF Sanktionsdirektivet]
 
 : Syftet med direktivet är att motverka olaglig invandring till den Europeiska unionen. Genom direktivet åläggs medlemsstaterna att införa ett förbud för arbetsgivare att anställa tredjelandsmedborgare som saknar rätt att vistas på deras territorier eftersom sådan anställning kan bidra till en ökad olaglig invandring och snedvrida konkurrensen på arbetsmarknaden inom EU. Överträdelse av förbudet ska kunna medföra att arbetsgivare bland annat åläggs olika administrativa, finansiella och straffrättsliga sanktioner samt vissa andra åtgärder.
 
-### [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:243:0001:0001:SV:PDF Viseringskodexen]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:243:0001:0001:SV:PDF Viseringskodexen]
 
 : Genom viseringskodexen införs gemensamma förfaranden och villkor för utfärdande av viseringar för transitering genom medlemsstaternas territorium eller för planerade vistelser på medlemsstaternas territorium som inte varar längre än tre månader under en sexmånadersperiod. Bestämmelserna ska vara tillämpliga på alla tredjelandsmedborgare som enligt rådets förordning (EG) nr 539/2001 måste ha visering när de passerar de yttre gränserna. De ska dock inte påverka rätten till fri rörlighet för tredjelandsmedborgare som är familjemedlemmar till unionsmedborgare eller som har samma rätt till sådan rörlighet enligt avtal mellan å ena sidan gemenskapen och dessa medlemsstater samt, å andra sidan, dessa tredjeländer art. 1.2. Viseringskodexens bestämmelser omfattar också visering för flygplanstransitering art. 1.3. se vidare [Prop. 2010/11:121](http://www.regeringen.se/download/2975f919.pdf?major=1&minor=166528&cn=attachmentPublDuplicator_0_attachment)
 
 
 
-## Svenska författningar
+# Svenska författningar
 
 ### [http://www.migrationsverket.se/info/1082.html (MIGRFS) Migrationsverkets författningssamling]
 
@@ -176,6 +194,6 @@ Sverige har reserverat sig för tilläggsprotokoll nr 7, 1984-11-22, artikel 7 (
 
 
 
-## Sammanställning av praxis från Europadomstolen
+# Sammanställning av praxis från Europadomstolen
 
 ### [https://lagen.nu/wiki/Praxis_fr%C3%A5n_Europadomstolen Utvald praxis från Europadomstolen]
