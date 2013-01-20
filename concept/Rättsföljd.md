@@ -5,4 +5,4 @@ categories:
 ---
 Vad som ska inträffa när det [rättsfaktum](begrepp:rättsfaktum) som krävs enligt någon viss [rättsregel](begrepp:rättsregel) föreligger.
 
-Exempel: Skyldighet att betala dröjsmålsränta, eller fängelsedom.
+Ex: Skyldighet att betala dröjsmålsränta, eller fängelsedom.
