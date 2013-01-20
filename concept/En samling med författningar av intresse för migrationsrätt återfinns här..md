@@ -68,8 +68,6 @@ Handboken kompletteras med riktlinjer. Hittills har nio riktlinjer utfärdats
 
 ### [http://www.unhcr.org/50ae466f9.html tillämpning baserad på sexuell läggning och könstillhörighet]
 
-
-
 # EU-rättsliga författningar
 
 ## [http://eur-lex.europa.eu/JOHtml.do?uri=OJ:C:2010:083:SOM:SV:HTML Fördraget om Europeiska unionens funktionssätt (cit. FEU)]
@@ -134,8 +132,6 @@ Sverige har reserverat sig för tilläggsprotokoll nr 7, 1984-11-22, artikel 7 (
 
 : Genom viseringskodexen införs gemensamma förfaranden och villkor för utfärdande av viseringar för transitering genom medlemsstaternas territorium eller för planerade vistelser på medlemsstaternas territorium som inte varar längre än tre månader under en sexmånadersperiod. Bestämmelserna ska vara tillämpliga på alla tredjelandsmedborgare som enligt rådets förordning (EG) nr 539/2001 måste ha visering när de passerar de yttre gränserna. De ska dock inte påverka rätten till fri rörlighet för tredjelandsmedborgare som är familjemedlemmar till unionsmedborgare eller som har samma rätt till sådan rörlighet enligt avtal mellan å ena sidan gemenskapen och dessa medlemsstater samt, å andra sidan, dessa tredjeländer art. 1.2. Viseringskodexens bestämmelser omfattar också visering för flygplanstransitering art. 1.3. se vidare [Prop. 2010/11:121](http://www.regeringen.se/download/2975f919.pdf?major=1&minor=166528&cn=attachmentPublDuplicator_0_attachment)
 
-
-
 # Svenska författningar
 
 ### [http://www.migrationsverket.se/info/1082.html (MIGRFS) Migrationsverkets författningssamling]
@@ -193,8 +189,6 @@ Sverige har reserverat sig för tilläggsprotokoll nr 7, 1984-11-22, artikel 7 (
 ### [https://lagen.nu/2008:778 Förordning (2008:778) om återetableringsstöd för vissa utlänningar]
 
 ### [https://lagen.nu/1989:14 Lag (1989:14) om erkännande och verkställighet av utländska vårdnadsavgöranden m.m. och om överflyttning av barn]
-
-
 
 # Sammanställning av praxis från Europadomstolen
 
