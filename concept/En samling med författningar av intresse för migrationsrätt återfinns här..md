@@ -46,7 +46,9 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Anke
 
 ## [http://www.unhcr.se/se/no_cache/om-oss/1951-aars-flyktingkonvention.html?cid=6426&did=854&sechash=fbfd9893 UNHCR:s handbok]
 
-: Handboken kompletteras med riktlinjer. Hittills har nio riktlinjer utfärdats
+Handboken kompletteras med riktlinjer. Hittills har nio riktlinjer utfärdats
+
+## UNHCR:s nio riktlinjer
 
 ### [http://www.unhcr.org/3d58ddef4.html om könsrelaterad förföljelse]
 
@@ -118,7 +120,7 @@ Sverige har reserverat sig för tilläggsprotokoll nr 7, 1984-11-22, artikel 7 (
 
 ### 1. [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:016:0044:0053:SV:PDF Direktivet om varaktigt bosatta]
 
-### 2. [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:132:0001:0004:SV:PDF DIREKTIV 2011/51/EU om ändring av rådets direktiv 2003/109/EG i syfte att utöka dess räckvidd till att omfatta även personer som beviljats internationellt skydd]
+### 2. [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:132:0001:0004:SV:PDF Direktiv 2011/51/EU om ändring av rådets direktiv 2003/109/EG i syfte att utöka dess räckvidd till att omfatta även personer som beviljats internationellt skydd]
 
 ## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:289:0015:0022:SV:PDF Direktivet om gästforskare]
 
