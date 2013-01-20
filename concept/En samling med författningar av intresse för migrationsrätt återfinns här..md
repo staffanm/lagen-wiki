@@ -10,7 +10,7 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Anke
 
 ### [http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/swd.pdf FN:s allmänna förklaring om de mänskliga rättigheterna]
 
-### [http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning]
+### [http://www.regeringen.se/download/a1664ae1.pdf?major=1&minor=69024&cn=attachmentPublDuplicator_0_attachment Konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning (FN:s tortyrkonvention)]
 
 ### [http://www.humanrights.se/wp-content/uploads/2012/01/Konvention-angaende-flyktingars-rattsliga-stallning.pdf Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen)]
 
