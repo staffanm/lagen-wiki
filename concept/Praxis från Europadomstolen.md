@@ -20,6 +20,8 @@ För den som önskar en [mer gedigen handbok så finns det mer utförliga instru
 
 För att få en lista över domar så kan du uppe till vänster under fältet "Document collections" markera rutan "Judgments". För att få fram en lista på domar där Sverige är part kan du under fältet Filters/State/More... markera Sweden och välja OK.
 
+## Svenska sammanställningar av praxis från Europadomstolen
+
 ### Domstolsverkets nyhetsbrev 2001-01 t.o.m. 2011-06
 
 Domstolsverket gav under 2001-01 t.o.m. 2011-06 ut ett nyhetsbrev rörande den europeiska konventionen angående skydd för de mänskliga rättigheterna. Sidan återfinns på Domstolsverkets webbplats [Nytt från Europadomstolen](http://www.domstol.se/Ladda-ner--bestall/Nytt-fran-Europadomstolen/)
