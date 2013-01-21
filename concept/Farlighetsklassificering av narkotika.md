@@ -40,9 +40,7 @@ Diagram 1. I följande mål har den tilltalade begått brottet inom ramen för d
 
 Diagram 2.
 
-Diagram 2. I följande diagram föreligger inga omständigheter som talar för att brottet skett inom ramen för yrkesmässig narkotikahandel med inriktning på att i vinningssyfte sprida missbruk och utnyttja missbrukarnas beroende eller organiserad narkotikahandel med inriktning på att i vinningssyfte sprida missbruk och utnyttja missbrukarnas beroende. Någon presumtion för att det i så fall avser ett grovt narkotikabrott föreligger inte utan det presumeras ett narkotikabrott av ringa- eller normalgrad. Däremot har syftet inte varit uteslutande för eget missbruk utan huvudsakligen att tjäna pengar och även om det förekommit samköp så har huvudsakligen av vinsten gått till personen, de övriga kanske fått narkotika som finansierat deras missbruk. Brottets omständigheter talar för att det ska bryta presumtionen om normalgraden av brott och övergå till att bedömas som grovt brott.
-
-Diagram 3.
+Diagram 2. I följande diagram föreligger inga omständigheter som talar för att brottet skett inom ramen för yrkesmässig narkotikahandel med inriktning på att i vinningssyfte sprida missbruk och utnyttja missbrukarnas beroende eller organiserad narkotikahandel med inriktning på att i vinningssyfte sprida missbruk och utnyttja missbrukarnas beroende. Någon presumtion för att det i så fall avser ett grovt narkotikabrott föreligger inte utan det presumeras ett narkotikabrott av ringa- eller normalgrad. Däremot har syftet inte varit uteslutande för eget missbruk utan huvudsakligen att tjäna pengar och även om det förekommit samköp så har huvudsakligen av vinsten gått till personen, de övriga kanske fått narkotika som finansierat deras missbruk. Brottets omständigheter talar för att det ska bryta presumtionen om normalgraden av brott och övergå till att bedömas som grovt brott. Diagram 3.
 
 Diagram 3. Det är inte heller uteslutet att det i en situation där ingen faktor ensam gör att brottet blir att bedöma som grovt narkotikabrott ändå sammantaget gör att gärningen blir att bedöma som grovt narkotikabrott.
 
@@ -485,8 +483,6 @@ OKÄNT.
 ## MDPV
 
 Jämställs i farlighetshänseende med amfetamin (Högsta domstolen B 2944-11 från den 21 oktober 2011).
-
-## MDPV
 
 ### Liten missbrukardos
 
