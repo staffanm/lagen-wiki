@@ -1,5 +1,6 @@
 ---
 title: Vittneskonfrontation
+author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Ankerstedt]"
 ---
 # Rättslig reglering
 
