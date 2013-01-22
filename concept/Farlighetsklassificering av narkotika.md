@@ -122,6 +122,10 @@ Hovrätten för Nedre Norrland har den 8 november 2011 i mål B 539-11, till fö
 
 Enligt praxis är narkotikabrott som inte är ringa brott av sådan art att påföljden normalt ska bestämmas till fängelse. Presumtionen för fängelse gör sig dock främst gällande beträffande gärningar som ingår som led i försäljning av narkotika.
 
+### Särskilt om påföljdsfrågor avseende doping
+
+Den straffrättsliga bedömningen av dopningsbrott är inte tänkt att vara "fullt lika sträng som beträffande narkotikabrott", se prop 1990/91:199 s 24 f. och NJA 1995 s 89 I.
+
 ## Bedömning av gärningsmannens roll i en kriminell organisation
 
 (Solna tingsrätts dom från den 1 mars 2012 i mål B 4345-11)
@@ -376,7 +380,7 @@ Industrihampa, som inte är narkotikaklassad, förutsätter tillstånd för odli
 
 ## Heroin
 
-[Heroin](http://sv.wikipedia.org/wiki/Heroin) är farligare än [sv.wikipedia.org/wiki/Morfin morfin] och [sv.wikipedia.org/wiki/Metado metadon] se NJA 1985 s. 726 och NJA 1996 s. 478. [Oxycontin/Oxikodon](http://sv.wikipedia.org/wiki/Oxikodon) är något mindre farligt än [sv.wikipedia.org/wiki/Buprenorfin Buprenorfin eller som det pckså kallas Subutex] (RH 2010:11). Subutex/Buprenorfin jämställs med Heroin (RH 2007:45).
+[Heroin](http://sv.wikipedia.org/wiki/Heroin) är farligare än [sv.wikipedia.org/wiki/Morfin morfin] och [sv.wikipedia.org/wiki/Metado metadon] se NJA 1985 s. 726 och NJA 1996 s. 478. [Oxycontin/Oxikodon](http://sv.wikipedia.org/wiki/Oxikodon) är något mindre farligt än [sv.wikipedia.org/wiki/Buprenorfin Buprenorfin eller som det också kallas Subutex] (RH 2010:11). Subutex/Buprenorfin jämställs med Heroin (RH 2007:45).
 
 ### Undre gräns för grovt brott i mängd
 
@@ -452,7 +456,7 @@ Torde vara ca 50 % (Borgeke/Sterzel, Studier rörande påföljdspraxis med mera,
 
 ## LSD
 
-[sv.wikipedia.org/wiki/LSD LSD:s] farlighet ligger mellan amfetamin och kokain (NJA 1992 s. 235). Hit kategoriseras Bromo-Dragonfly (RH 2008:82), PMMA och 2 C-B. Normal missbrukardos Bromo-Dragonfly 200 mikrogram (RH 2008:82).
+[sv.wikipedia.org/wiki/LSD LSD:s] farlighet ligger mellan amfetamin och kokain (NJA 1992 s. 235). Hit kategoriseras [Bromo-Dragonfly](http://sv.wikipedia.org/wiki/Bromo-dragonfly) (RH 2008:82), [PMMA](http://sv.wikipedia.org/wiki/Polymetylmetakrylat) och [2 C-B](http://sv.wikipedia.org/wiki/2C-B). Normal missbrukardos Bromo-Dragonfly 200 mikrogram (RH 2008:82).
 
 ### Normal renhetsgrad i missbrukardos
 
@@ -464,7 +468,7 @@ OKÄNT.
 
 ## Marijuana, Cannabisharts
 
-Innehav av hasch är lika strängt som marijuana (NJA 1998 s. 512).
+Innehav av [hasch](http://en.wikipedia.org/wiki/Hashish) är lika strängt som marijuana (NJA 1998 s. 512).
 
 ### Normal missbrukardos
 
@@ -480,7 +484,7 @@ OKÄNT.
 
 ## MDPV
 
-Jämställs i farlighetshänseende med amfetamin (Högsta domstolen B 2944-11 från den 21 oktober 2011).
+[MDPV](http://sv.wikipedia.org/wiki/Metylendioxipyrovaleron) jämställs i farlighetshänseende med amfetamin (Högsta domstolen B 2944-11 från den 21 oktober 2011).
 
 ### Liten missbrukardos
 
@@ -500,7 +504,7 @@ OKÄNT.
 
 ## Metadon
 
-Farligare än morfin men 1/2 gång så farligt som heroin (NJA 1996 s. 478 och NJA 1997 s. 193).
+[Metadon](http://sv.wikipedia.org/wiki/Metadon) är farligare än [morfin](http://sv.wikipedia.org/wiki/Morfin) men 1/2 gång så farligt som [sv.wikipedia.org/wiki/Heroin heroin] (NJA 1996 s. 478 och NJA 1997 s. 193).
 
 ### Normal missbrukardos
 
@@ -514,9 +518,29 @@ OKÄNT.
 
 OKÄNT.
 
+## Metandrostenolon
+
+[sv.wikipedia.org/wiki/Metandrostenolon Om Metandrostenolon även kallat ryssfemmor] Metandrostenolon var föremål för bedömning i NJA 1995 s 89 I och II. Dock argumenteras inte renhetsgrader.
+
+Beträffande dopningsmedels farlighet uttalade departementschefen vid tillkomsten av [lagen (1991:1969) om förbud mot vissa dopningsmedel](https://lagen.nu/1991:1969) följande. Det är delvis oklart hur en användning av läkemedel som innehåller anabola steroider påverkar den mänskliga organismen på lång sikt. De anabola steroidernas verkningssätt -- äggvitenybildande -- tyder dock på att de på ett allvarligt sätt kan rubba kroppens normala funktion och ger anledning att befara skadeverkningar i form av störningar i hormonbalansen och fettomsättningen, vilket bl a innebär höjd risk för åderförkalkning och kranskärlssjukdomar. Ungdomar som ännu inte slutat växa kan stanna i växten om de ges anabola steroider. Liksom naturligt testosteron kan anabola steroider leda till en bestående virilisering hos kvinnor samt sterilitet hos män. Även andra skador, bl a vissa sällsynta former av cancer, misstänks ha samband med användning av anabola steroider.
+
+Psykisk påverkan har också rapporterats, bl a ökad aggressivitet, se prop 1990/91:199 s 16.
+
+### Normal missbrukardos
+
+Pillerform styckvis. Introduktionsdos för en icke tillvand är 5 tabl/dag, se NJA 1995 s 89 I.
+
+### Normal renhetsgrad i missbrukardos
+
+OKÄNT.
+
+### Undre gräns för grovt brott i mängd
+
+OKÄNT.
+
 ## Morfin
 
-Mindre farligt än metadon och heroin, (NJA 1996 s. 478).
+[Morfin](http://sv.wikipedia.org/wiki/Morfin) är mindre farligt än metadon och heroin, (NJA 1996 s. 478).
 
 ### Normal missbrukardos
 
@@ -532,6 +556,8 @@ OKÄNT.
 
 ## PCP
 
+[sv.wikipedia.org/wiki/Fencyklidin Om PCP även kallat ängladamm samt fencyklidin]
+
 ### Normal missbrukardos
 
 OKÄNT.
@@ -546,7 +572,9 @@ OKÄNT.
 
 ## Opium
 
-Råopium är en tredjedel så farlig som samma mängd heroin (NJA 1994 s. 374).
+[sv.wikipedia.org/wiki/Opium Om opium]
+
+Råopium, mjölksaften ur vallmo, är en tredjedel så farlig som samma mängd heroin (NJA 1994 s. 374).
 
 ### Normal missbrukardos
 
@@ -562,6 +590,8 @@ OKÄNT.
 
 ## Psilobycin, magic mushrooms
 
+[en.wikipedia.org/wiki/Psilocybin Om Psilocybin]
+
 ### Normal missbrukardos
 
 OKÄNT.
@@ -575,6 +605,8 @@ OKÄNT.
 OKÄNT.
 
 ## Rohypnol (=flunitrazepam)
+
+[sv.wikipedia.org/wiki/Flunitrazepam Om Rohypnol]
 
 Jämställs i farlighet med GHB och ecstasy (NJA 2003 s. 339).
 
@@ -592,6 +624,8 @@ OKÄNT.
 
 ## Stanozolol
 
+[sv.wikipedia.org/wiki/Stanozolol Om Stanozolol en av många sorters anabola steroider]
+
 ### Normal missbrukardos
 
 100 mg/dag (Södertörns tingsrätts dom från den 24 maj 2012 i mål B 1998-11). Normal tidsperiod för en kur 16 veckor vilket motsvarar 2 240 enheter á 5 mg. (Södertörns tingsrätts dom från den 24 maj 2012 i mål B 1998-11) .
@@ -605,6 +639,8 @@ OKÄNT.
 OKÄNT.
 
 ## Tramadol
+
+[sv.wikipedia.org/wiki/Tramadol Om Tramadol]
 
 ### Normal missbrukardos
 
