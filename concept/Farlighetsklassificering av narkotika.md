@@ -370,7 +370,7 @@ Ligger på samma farlighetsnivå som ecstasy men inte lika farligt som heroin (N
 
 ### Undre gräns för grovt brott i mängd
 
-är 3 liter GHB (300 missbrukardoser utan hänsyn renhetsgrad), se NJA 2011 s. 357 på s. 19.
+3 liter GHB motsvarar 300 missbrukardoser utan hänsyn till renhetsgrad, se NJA 2011 s. 357 på s. 19.
 
 ## Industrihampa
 
