@@ -318,9 +318,9 @@ Haltanalys av cannabis utförs på begäran. Generellt utförs inte haltbestämn
 
 * 946,8 g cannabis med en varierande THC-halt mellan 1-6 % renhet ledde via omräkningar till att det skulle motsvara 600 g cannabis motsvarande normal renhetsgrad på 4-6%. All cannabis var självodlad för eget bruk har medfört 5 månaders fängelse.( Hudiksvalls tingsrätt från 2012-04-12 i mål B 2196-114.) Beslagen var exakt: 472 g med en THC-halt av 6 procent, 403 g och en THC-halt av 3 procent som sedan omräknades till ca 130 g pga. låg halt, 33,4 g med en THC-halt av 2 procent och 38,4 g med en THC-halt av 1 procent. * 2 582 gram cannabis och 1 % renhet har medfört fängelse tio månader. Den bedrivna verksamheten omfattande odlingsverksamhet om än att den varken varit systematisk eller avancerad vilket den låga renhetsgraden av narkotikan främst talade för, (Hovrätten för Nedre Norrland 2011-04-13 i mål B 88-11) * Sambo till person som i deras gemensamma lägenhet odlat 2 582 cannabis med 1 % renhet var medveten om att sambon odlat samt själv rökte av den cannabis som verksamheten resulterade i ansågs ha medverkat i mindre mån. Straffvärdet för sambons del ansågs inte vara högre än fängelse en månad. (Hovrätten för Övre norrland från den 2011- 01-28 i mål B 1060-10) * ca 2000 g cannabis från närmast obetydlig THC-halt upp till 1 % renhet ledde till 3 mån fängelse. * 1 317, 5 g cannabis med 4% halt ledde till 8 mån fängelse (sänkning pga. låg halt 4% men försvårande då varit avancerad verksamhet som upptagit stora delar av tilltalads bostad.)(Svea HovR från 2010-05-30 i mål B 9381-09) * 231 g med 10-11 % renhet och 46 g med 9 % renhethar med tanke på att verksamheten bedrivits yrkesmässigt och det avsett en väl utrustad odling till fängelse 2 år 6 månader. Påföljden avsåg förvisso även brottsligheten i avgörandena 2010-12-16 och 2011-09-26 (Hudiksvalls tingsrätt från 2011-12-22 i mål B 2329-11) * 165 g cannabisharts har, då tilltalad var 20 år gammal, medfört 3 månaders fängelse (Eskilstuna TR från 2012-01-16 i mål B 1358-11) * 10,9 gram cannabisharts ledde till dagsböter 60 å 50 kr. Avsikt sälja vidare 9 gram av haschet för 100 kr per gram i syfte att finansiera sitt köp. (Sundsvalls tingsrätt från 2011-11-08 i mål B 2356-11) * 88 tabletter Diazepam och 0,21 gram cannabisharts ledde till dagsböter 140 å 50 kr. (Örebro tingsrätt från 2011-10-31 i mål B 1411-11)
 
-## Ecstasy
+## Ecstacy
 
-* [Ecstasy](http://sv.wikipedia.org/wiki/MDMA) eller MDMA som det också kallas bedöms vara lika farligt som amfetamin (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. HD:s dom den 11 juli 2012 i mål B 965-12 p. 10) Men inte lika farligt som kokain (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 10)
+* [Ecstacy](http://sv.wikipedia.org/wiki/MDMA) eller MDMA som det också kallas bedöms vara lika farligt som amfetamin (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. HD:s dom den 11 juli 2012 i mål B 965-12 p. 10) Men inte lika farligt som kokain (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 10)
 
 ### Normal missbrukardos
 
@@ -492,7 +492,7 @@ OKÄNT.
 
 ### Normal missbrukardos
 
-mellan 50 och 100 mg, med beaktande av tvivelsmålets fördel 100 mg) Svea Hovrätts dom från den 4 maj 2011 i mål B 2247-11 s. 6). MDPV: Liten dos: 5-8 mg. Stark dos: 15-20 mg. (Göta HovR dom från den 1 juni 2010 i mål B 1027-10)
+Mellan 50 och 100 mg, med beaktande av tvivelsmålets fördel 100 mg) Svea Hovrätts dom från den 4 maj 2011 i mål B 2247-11 s. 6). MDPV: Liten dos: 5-8 mg. Stark dos: 15-20 mg. (Göta HovR dom från den 1 juni 2010 i mål B 1027-10)
 
 ### Normal renhetsgrad i missbrukardos
 
@@ -501,6 +501,16 @@ OKÄNT.
 ### Undre gräns för grovt brott i mängd
 
 OKÄNT.
+
+## Mefedron
+
+[sv.wikipedia.org/wiki/4-Metylmetkatinon Om mefedron]
+
+Mefedron ska i farlighetshänseende jämställas med ecstacy och amfetamin. * Angående jämförelse ecstacy se Svea hovrätts domar 2011-05-11 i mål nr B152-11 och 2010-11-23 i mål nr B 5785-1. * Angående jämförelse med amfetamin, se Högsta domstolens dom 2011-06-16 i mål B 5412-10 där HD förklarat att mefedrons generella farlighet inte på något för straffvärdebedömningen i det målet avgörande sätt skiljer sig från amfetamins generella farlighet (p. 33).
+
+### Normal missbrukardos
+
+En missbrukardos mefedron är 100 mg, se Svea hovrätts dom från 2011 -05-11 i mål nr B 152-11.
 
 ## Metadon
 
