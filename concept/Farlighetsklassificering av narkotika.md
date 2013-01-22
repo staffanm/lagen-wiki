@@ -634,7 +634,7 @@ OKÄNT.
 
 ## Rohypnol (=flunitrazepam)
 
-[sv.wikipedia.org/wiki/Flunitrazepam Om Rohypnol]
+[Om Rohypnol](http://sv.wikipedia.org/wiki/Flunitrazepam)
 
 Jämställs i farlighet med GHB och ecstasy (NJA 2003 s. 339).
 
