@@ -288,7 +288,7 @@ Av regeringens förteckning över substanser som ska anses som narkotika enligt 
 
 ### Gränsen mellan ringa brott och narkotikabrott av normalgraden
 
-anses vid rena mängdresonemang gå vid knappt 50 gram cannabis. (Solna tingsrätt dom från 2011-12-16 i mål B 8997-11)
+Anses vid rena mängdresonemang gå vid knappt 50 gram cannabis, se Solna tingsrätt dom från 2011-12-16 i mål B 8997-11.
 
 ### Något om cannabis renhetsgrad
 
