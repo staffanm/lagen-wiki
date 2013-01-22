@@ -76,7 +76,7 @@ Renhetsgraden har även betydelse för undre gränsen av vad som är att se som 
 
 # Socialstyrelsens narkotikaförteckningar (1974:712)
 
-2 § Till narkotika hänföres icke a) beredningar av opium eller morfin, som innehåller högst 0,2 procent morfin, beräknat som vattenfri morfinbas, i blandning med ett eller flera andra terapeutiskt verksamma, icke narkotiska ämnen; b) beredningar, som innehåller högst 0,1 procent kokain, beräknat som kokainbas, i blandning med ett eller flera andra terapeutiskt verksamma, icke narkotiska ämnen; c) beredningar, som i varje enkeldos innehåller högst 100 milligram av ett i förteckning III upptaget ämne i blandning med en eller flera andra ingredienser och högst 2,5 procent i ej doserade beredningar; d) beredningar av difenoxin, som i varje enkeldos ej innehåller mer än 0,5 milligram difenoxin och en mängd atropinsulfat, som motsvarar minst fem procent av difenoxindosen; e) beredningar av difenoxylat, som i varje enkeldos ej innehåller mer än 2,5 milligram difenoxylat, beräknat som bas, och en mängd atropinsulfat, som motsvarar minst en procent av difenoxylatdosen. f) beredningar av propiram, som i varje enkeldos ej innehåller mer än 100 mg propiram i blandning med minst samma mängd metylcellulosa.
+[I förteckningens p. 2 anges att](https://lagen.nu/1974:712) Till narkotika hänföres icke a) beredningar av opium eller morfin, som innehåller högst 0,2 procent morfin, beräknat som vattenfri morfinbas, i blandning med ett eller flera andra terapeutiskt verksamma, icke narkotiska ämnen; b) beredningar, som innehåller högst 0,1 procent kokain, beräknat som kokainbas, i blandning med ett eller flera andra terapeutiskt verksamma, icke narkotiska ämnen; c) beredningar, som i varje enkeldos innehåller högst 100 milligram av ett i förteckning III upptaget ämne i blandning med en eller flera andra ingredienser och högst 2,5 procent i ej doserade beredningar; d) beredningar av difenoxin, som i varje enkeldos ej innehåller mer än 0,5 milligram difenoxin och en mängd atropinsulfat, som motsvarar minst fem procent av difenoxindosen; e) beredningar av difenoxylat, som i varje enkeldos ej innehåller mer än 2,5 milligram difenoxylat, beräknat som bas, och en mängd atropinsulfat, som motsvarar minst en procent av difenoxylatdosen. f) beredningar av propiram, som i varje enkeldos ej innehåller mer än 100 mg propiram i blandning med minst samma mängd metylcellulosa.
 
 ## Narkotikaförteckningar och renhetsgradens betydelse för lovligt innehav
 
@@ -238,9 +238,11 @@ Person som endast vid ett tillfälle förvärvat 0,7 g kokain dömdes till VD + 
 
 # Missbrukardos/renhetsgrad/gräns mot grovt brott för narkotika
 
+Olika droger påverkar kroppen på olika sätt, [[här hittar du en kort förklaring på olika effekter](http://wiki.magiskamolekyler.org/index.php?title=Farmakologi).
+
 ## Amfetamin
 
-Hit kategoriseras metamfetamin, preludin, ritalina (Högsta domstolens dom från den 6 juni 2011 i mål B 5412/10). Hit hör även narkotikaklassade syntetiska katinoner som MDPV, mefedron, butylon och metedron (Högsta domstolen B 2944-11 från den 21 oktober 2011). Till gruppen narkotikaklassade syntetiska katinoner hör även preparaten metylon, flefedron, nefyron och N-etylkatinon (Högsta domstolens dom från den 21 oktober 2011 i mål nr B 2613-11). Ecstasy är lika farligt som amfetamin (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 9)
+Hit kategoriseras [amfetamin](http://sv.wikipedia.org/wiki/Amfetamin), [metamfetamin](http://sv.wikipedia.org/wiki/Metamfetamin), [preludin](http://sv.wikipedia.org/wiki/Fenmetrazin), [ritalin](http://sv.wikipedia.org/wiki/Ritalin) (Högsta domstolens dom från den 6 juni 2011 i mål B 5412/10). Hit hör även narkotikaklassade syntetiska [katinoner](http://sv.wikipedia.org/wiki/Katinon) som [MDPV](http://sv.wikipedia.org/wiki/MDPV), [mefedron](http://sv.wikipedia.org/wiki/4-Metylmetkatinon), [butylon](http://en.wikipedia.org/wiki/Butylone) och [metedron](http://sv.wikipedia.org/wiki/Metedron) (Högsta domstolen B 2944-11 från den 21 oktober 2011), [metylon](http://en.wikipedia.org/wiki/Methylone), [flefedron](http://en.wikipedia.org/wiki/Flephedrone), nefyron och N-etylkatinon (Högsta domstolens dom från den 21 oktober 2011 i mål nr B 2613-11). Ecstasy är lika farligt som amfetamin (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 9). De senare grupperna faller även in under benämningen [designerdrog](http://sv.wikipedia.org/wiki/Designerdrog). # En större [lista över huvudsakligen designerdrugs och viss annan narkotika som, såvitt jag vet, inte prövats i domstol återfinns efter denna länk](http://sv.wikipedia.org/wiki/Lista_%C3%B6ver_narkotika), # [samt här](http://wiki.magiskamolekyler.org/index.php?title=Kategori:Molekyler).
 
 ### Normal missbrukardos (Amfetamin)
 
@@ -264,11 +266,11 @@ lägst 100 mg (NJA 2011 s. 357 på s. 19).
 
 ## Cannabis
 
-Av regeringens förteckning över substanser som ska anses som narkotika enligt narkotikastrafflagen - bilaga 1 till förordningen (1992:1554) om kontroll av narkotika - framgår att med cannabis ska förstås de ovanjordiska delarna av varje växt av släktet Cannabis (med undantag av frön), från vilka hartset inte har blivit extraherat och oavsett under vilka benämningar de förekommer. Cannabis är att bedömas som en mindre farlig narkotikasort än amfetamin och som en avsevärt mindre farlig drog än kokain och heroin, Högsta domstolens dom den 26 mars 2012 i mål B 4343-11 p. 21.
+Av regeringens förteckning över substanser som ska anses som narkotika enligt narkotikastrafflagen - bilaga 1 till förordningen (1992:1554) om kontroll av narkotika - framgår att med [cannabis](http://sv.wikipedia.org/wiki/Cannabis) ska förstås de ovanjordiska delarna av varje växt av släktet Cannabis (med undantag av frön), från vilka hartset inte har blivit extraherat och oavsett under vilka benämningar de förekommer. Cannabis är att bedömas som en mindre farlig narkotikasort än amfetamin och som en avsevärt mindre farlig drog än kokain och heroin, Högsta domstolens dom den 26 mars 2012 i mål B 4343-11 p. 21. [Cannabis förekommer i olika former](http://wiki.magiskamolekyler.org/Hasch).
 
 ### Normal missbrukardos
 
-5-7 mg THC per ”joint” eller pipstopp (RH 2006:61) Denna dos erhålls om man av material, som innehåller ca 1 % THC, använder ca 0,5-1 gr.
+5-7 mg [THC](http://sv.wikipedia.org/wiki/Tetrahydrocannabinol) per ”joint” eller pipstopp (RH 2006:61) Denna dos erhålls om man av material, som innehåller ca 1 % THC, använder ca 0,5-1 gr.
 
 ### Normal renhetsgrad i missbrukardos
 
@@ -300,7 +302,7 @@ Småplantor/sticklingar mindre än 1 % THC Stjälkar, kvistar mindre än 1 % THC
 
 ### Cannabisolja/extrakt
 
-Dessa kan tillverkas genom att extrahera hela eller delar av cannabisplantan med lösningsmedel som sedan får avdunsta. Genom detta förfarande kan även material med låga THC-halter anrikas.
+[Cannabisolja](http://en.wikipedia.org/wiki/Hash_oil) kan tillverkas genom att extrahera hela eller delar av cannabisplantan med lösningsmedel som sedan får avdunsta. Genom detta förfarande kan även material med låga THC-halter anrikas.
 
 ### Analysmetod av odlad cannabis
 
@@ -314,7 +316,7 @@ Haltanalys av cannabis utförs på begäran. Generellt utförs inte haltbestämn
 
 ## Ecstasy
 
-* Ecstasy är lika farligt som amfetamin (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. HD:s dom den 11 juli 2012 i mål B 965-12 p. 10) Men inte lika farligt som kokain (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 10)
+* [Ecstasy](http://sv.wikipedia.org/wiki/MDMA) eller MDMA som det också kallas bedöms vara lika farligt som amfetamin (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. HD:s dom den 11 juli 2012 i mål B 965-12 p. 10) Men inte lika farligt som kokain (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 10)
 
 ### Normal missbrukardos
 
@@ -329,6 +331,8 @@ OKÄNT.
 5000 tabletter, (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 9)
 
 ## Fentanyl/Leptanal
+
+* Om [fentanyl/leptanal](http://sv.wikipedia.org/wiki/Fentanyl)
 
 Farligare än heroin (RH 2004:26).
 
@@ -346,6 +350,8 @@ OKÄNT.
 
 ## GHB
 
+* Om [GHB](http://sv.wikipedia.org/wiki/GHB)
+
 Ligger på samma farlighetsnivå som ecstasy men inte lika farligt som heroin (NJA 2002 s. 365).
 
 ### Normal missbrukardos
@@ -362,17 +368,19 @@ Ligger på samma farlighetsnivå som ecstasy men inte lika farligt som heroin (N
 
 ## Industrihampa
 
+* Om [hampa](http://sv.wikipedia.org/wiki/Hampa)
+
 Om det är industrihampa bedöms det inte som narkotika (NJA 2007 s. 219). För att hampa ska vara industrihampa gäller att förutsättningarna i bilaga 1 till förordningen (1992:1554) om kontroll av narkotika är uppfyllda. Där anges att med cannabis inte ska förstås hampa som dels är avsedd för fiberproduktion och har en THC-halt understigande 0,2 % (art. 39 Rådets förordning (EG) nr 73/2009), dels att det sökts om EU-stöd. :# är av sort som kan berättiga till stöd enligt rådets förordning (EG) nr 1782/2003 om upprättande av gemensamma bestämmelser för system för direktstöd inom den gemensamma jordbrukspolitiken och om upprättande av vissa stödsystem för jordbrukare (och om ändring av vissa angivna förordningar) och rådets förordning (EG) nr 1673/2000 om den gemensamma organisationen av marknaderna för lin och hampa som odlas för fiberproduktion och :# odlas efter det att ansökan om direktstöd för sådan odling enligt rådets förordning (EG) nr 1782/2003 givits in till behörig myndighet.
 
 Industrihampa, som inte är narkotikaklassad, förutsätter tillstånd för odling och frömaterialet skall ha THC-halter understigande 0,2 %, (uttalande av forensiker vid SKL i Hovrätten för Övre norrland från den 2011- 01-28 i mål B 1060-10)
 
 ## Heroin
 
-Heroin är farligare än morfin och metadon se NJA 1985 s. 726 och NJA 1996 s. 478. Oxycontin/Oxikodon är något mindre farligt än Buprenorfin (RH 2010:11). Subutex och Buprenorfin jämställs med Heroin (RH 2007:45).
+[Heroin](http://sv.wikipedia.org/wiki/Heroin) är farligare än [sv.wikipedia.org/wiki/Morfin morfin] och [sv.wikipedia.org/wiki/Metado metadon] se NJA 1985 s. 726 och NJA 1996 s. 478. [Oxycontin/Oxikodon](http://sv.wikipedia.org/wiki/Oxikodon) är något mindre farligt än [sv.wikipedia.org/wiki/Buprenorfin Buprenorfin eller som det pckså kallas Subutex] (RH 2010:11). Subutex/Buprenorfin jämställs med Heroin (RH 2007:45).
 
 ### Undre gräns för grovt brott i mängd
 
-Har i praxis ansetts vara 25 g vilket motsvarar ca 300 missbruksdoser utan att någon hänsyn getts till renhetsgraden, NJA 2011 s. 357 på s. 19.
+Har i praxis ansetts vara 25 g vilket motsvarar ca 300 missbrukardoser utan att någon hänsyn getts till renhetsgraden, NJA 2011 s. 357 på s. 19.
 
 ### Normal missbrukardos Buprenorfin/Subutex
 
@@ -398,9 +406,9 @@ OKÄNT.
 
 I analysbesked från SKL står ibland en hänvisning till en kommentar analysbeskedet att;
 
-Dextro-Levometorfan särskiljs ej rutinmässigt då det förekommer tillsammans med narkotika i förteckning (I) och (II)
+[sv.wikipedia.org/wiki/Dextrometorfan Dextrometorfan] och [sv.wikipedia.org/wiki/Levometorfan Levometorfan] särskiljs ej rutinmässigt då det förekommer tillsammans med narkotika i förteckning (I) och (II)
 
-Med detta avses att det i det förutom exempelvis koffein, potatisstärkelse, laktos, mikrokristallin cellulosa, gelatin, talk eller annat utspädningsämne även förekommer Dextro- respektive Levometorfan i den övriga utspädningsubstansen förutom heroin men att denna inte haltbestäms särskilt. Det förekommer däremot inte någon Dextro- respektive Levometorfan i den angivna heroinhalten.
+Med detta avses att det i det förutom exempelvis [sv.wikipedia.org/wiki/Koffein koffein], potatisstärkelse, laktos, mikrokristallin cellulosa, gelatin, talk eller annat utspädningsämne även förekommer Dextro- respektive Levometorfan i den övriga utspädningsubstansen förutom heroin men att denna inte haltbestäms särskilt.
 
 ### Påföljder avseende heroin där renhetsgrad och mängd beaktats
 
@@ -428,7 +436,7 @@ OKÄNT.
 
 ## Kokain
 
-Starkare än amfetamin (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 8), LSD och Ecstasy, däremot svagare än Heroin (NJA 1983 s. 754 och NJA 1992 s. 235). Crack ligger på samma nivå som kokain. När det avser cocablad, multiplicera mängden blad med 0.02.
+[sv.wikipedia.org/wiki/Kokain Kokain] är starkare än amfetamin (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 8), LSD och Ecstasy, däremot svagare än Heroin (NJA 1983 s. 754 och NJA 1992 s. 235). [sv.wikipedia.org/wiki/Crack Crack] ligger på samma nivå som kokain. När det avser [sv.wikipedia.org/wiki/Kokabuske cocablad], multiplicera mängden blad med 0.02.
 
 ### Normal missbrukardos
 
@@ -444,7 +452,7 @@ Torde vara ca 50 % (Borgeke/Sterzel, Studier rörande påföljdspraxis med mera,
 
 ## LSD
 
-Farlighet ligger mellan amfetamin och kokain (NJA 1992 s. 235). Hit kategoriseras Bromo-Dragonfly (RH 2008:82), PMMA och 2 C-B. Normal missbrukardos Bromo-Dragonfly 200 mikrogram (RH 2008:82).
+[sv.wikipedia.org/wiki/LSD LSD:s] farlighet ligger mellan amfetamin och kokain (NJA 1992 s. 235). Hit kategoriseras Bromo-Dragonfly (RH 2008:82), PMMA och 2 C-B. Normal missbrukardos Bromo-Dragonfly 200 mikrogram (RH 2008:82).
 
 ### Normal renhetsgrad i missbrukardos
 
