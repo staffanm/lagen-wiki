@@ -334,7 +334,7 @@ OKÄNT.
 
 ### Undre gräns för grovt brott i mängd
 
-5000 tabletter, (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 9)
+5000 tabletter, se HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 9.
 
 ## Fentanyl/Leptanal
 
