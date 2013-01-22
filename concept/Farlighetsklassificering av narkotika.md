@@ -440,6 +440,22 @@ OKÄNT.
 
 OKÄNT.
 
+## JWH-073
+
+[Om JWH-073](http://en.wikipedia.org/wiki/JWH-073) En syntetisk cannabinoid som ingår i bland annat [sv.wikipedia.org/wiki/Spice_(drog) Spice]. Vid bedömningen av spice, som preparerats med JWH-073, farlighet och betydelsen av halten av rusgivande substans bör den åtminstone jämställas med cannabis, se HovRätten för västra Sveriges dom från 2012-12-11 i mål B 2265-12.
+
+### Normal missbrukardos
+
+0,5 g, se HovRätten för västra Sveriges dom från 2012-12-11 i mål B 2265-12.
+
+### Normal renhetsgrad i missbrukardos
+
+En halt om 2,5 % JWH-073 i spice har inte ansetts så låg att den skulle påverka varken rubricering eller straffvärde, se se HovRätten för västra Sveriges dom från 2012-12-11 i mål B 2265-12. En rimlig slutsats är att renhetsgraden i en normaldos är högre än 2,5 %.
+
+### Undre gräns för grovt brott i mängd
+
+OKÄNT.
+
 ## Kokain
 
 [sv.wikipedia.org/wiki/Kokain Kokain] är starkare än amfetamin (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 8), LSD och Ecstasy, däremot svagare än Heroin (NJA 1983 s. 754 och NJA 1992 s. 235). [sv.wikipedia.org/wiki/Crack Crack] ligger på samma nivå som kokain. När det avser [sv.wikipedia.org/wiki/Kokabuske cocablad], multiplicera mängden blad med 0.02.
@@ -633,6 +649,16 @@ OKÄNT.
 ### Undre gräns för grovt brott i mängd
 
 1000 tabletter (200 missbrukardoser utan hänsyn renhetsgrad) (NJA 2003 s. 339 och NJA 2011 s. 357 på s. 19).
+
+## Spice
+
+[sv.wikipedia.org/wiki/Spice_(drog) Om spice]
+
+Med uttrycket spice avses växtmaterial preparerat med syntetiska cannabinoider som exempelvis den syntetiska cannabinoiden[JWH-073](http://en.wikipedia.org/wiki/JWH-073), se HovR för västra Sveriges dom från 2012-12-11 i mål B 2265-12.
+
+Vid bedömningen av spice, som preparerats med JWH-073, farlighet och betydelsen av halten av rusgivande substans bör den åtminstone jämställas med cannabis, se HovRätten för västra Sveriges dom från 2012-12-11 i mål B 2265-12.
+
+Se vidare under JWH-073.
 
 ## Stanozolol
 
