@@ -382,7 +382,7 @@ Industrihampa, som inte är narkotikaklassad, förutsätter tillstånd för odli
 
 ## Heroin
 
-[Heroin](http://sv.wikipedia.org/wiki/Heroin) är farligare än [sv.wikipedia.org/wiki/Morfin morfin] och [sv.wikipedia.org/wiki/Metado metadon] se NJA 1985 s. 726 och NJA 1996 s. 478. [Oxycontin/Oxikodon](http://sv.wikipedia.org/wiki/Oxikodon) är något mindre farligt än [sv.wikipedia.org/wiki/Buprenorfin Buprenorfin eller som det också kallas Subutex] (RH 2010:11). Subutex/Buprenorfin jämställs med Heroin (RH 2007:45).
+[Heroin](http://sv.wikipedia.org/wiki/Heroin) är farligare än [morfin](http://sv.wikipedia.org/wiki/Morfin) och [metadon](http://sv.wikipedia.org/wiki/Metado) se NJA 1985 s. 726 och NJA 1996 s. 478. [Oxycontin/Oxikodon](http://sv.wikipedia.org/wiki/Oxikodon) är något mindre farligt än [Buprenorfin eller som det också kallas Subutex](http://sv.wikipedia.org/wiki/Buprenorfin) (RH 2010:11). Subutex/Buprenorfin jämställs med Heroin (RH 2007:45).
 
 ### Undre gräns för grovt brott i mängd
 
@@ -412,9 +412,9 @@ OKÄNT.
 
 I analysbesked från SKL står ibland en hänvisning till en kommentar analysbeskedet att;
 
-[sv.wikipedia.org/wiki/Dextrometorfan Dextrometorfan] och [sv.wikipedia.org/wiki/Levometorfan Levometorfan] särskiljs ej rutinmässigt då det förekommer tillsammans med narkotika i förteckning (I) och (II)
+[Dextrometorfan](http://sv.wikipedia.org/wiki/Dextrometorfan) och [Levometorfan](http://sv.wikipedia.org/wiki/Levometorfan) särskiljs ej rutinmässigt då det förekommer tillsammans med narkotika i förteckning (I) och (II)
 
-Med detta avses att det i det förutom exempelvis [sv.wikipedia.org/wiki/Koffein koffein], potatisstärkelse, laktos, mikrokristallin cellulosa, gelatin, talk eller annat utspädningsämne även förekommer Dextro- respektive Levometorfan i den övriga utspädningsubstansen förutom heroin men att denna inte haltbestäms särskilt.
+Med detta avses att det i det förutom exempelvis [koffein](http://sv.wikipedia.org/wiki/Koffein), potatisstärkelse, laktos, mikrokristallin cellulosa, gelatin, talk eller annat utspädningsämne även förekommer Dextro- respektive Levometorfan i den övriga utspädningsubstansen förutom heroin men att denna inte haltbestäms särskilt.
 
 ### Påföljder avseende heroin där renhetsgrad och mängd beaktats
 
@@ -442,7 +442,7 @@ OKÄNT.
 
 ## JWH-073
 
-[Om JWH-073](http://en.wikipedia.org/wiki/JWH-073) En syntetisk cannabinoid som ingår i bland annat [sv.wikipedia.org/wiki/Spice_(drog) Spice]. Vid bedömningen av spice, som preparerats med JWH-073, farlighet och betydelsen av halten av rusgivande substans bör den åtminstone jämställas med cannabis, se HovRätten för västra Sveriges dom från 2012-12-11 i mål B 2265-12.
+[Om JWH-073](http://en.wikipedia.org/wiki/JWH-073) En syntetisk cannabinoid som ingår i bland annat [Spice](http://sv.wikipedia.org/wiki/Spice_(drog%29). Vid bedömningen av spice, som preparerats med JWH-073, farlighet och betydelsen av halten av rusgivande substans bör den åtminstone jämställas med cannabis, se HovRätten för västra Sveriges dom från 2012-12-11 i mål B 2265-12.
 
 ### Normal missbrukardos
 
@@ -458,7 +458,7 @@ OKÄNT.
 
 ## Kokain
 
-[sv.wikipedia.org/wiki/Kokain Kokain] är starkare än amfetamin (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 8), LSD och Ecstasy, däremot svagare än Heroin (NJA 1983 s. 754 och NJA 1992 s. 235). [sv.wikipedia.org/wiki/Crack Crack] ligger på samma nivå som kokain. När det avser [sv.wikipedia.org/wiki/Kokabuske cocablad], multiplicera mängden blad med 0.02.
+[Kokain](http://sv.wikipedia.org/wiki/Kokain) är starkare än amfetamin (HD:s dom från den 13 juli 2012 i mål B 1158-12 p. 8), LSD och Ecstasy, däremot svagare än Heroin (NJA 1983 s. 754 och NJA 1992 s. 235). [Crack](http://sv.wikipedia.org/wiki/Crack) ligger på samma nivå som kokain. När det avser [cocablad](http://sv.wikipedia.org/wiki/Kokabuske), multiplicera mängden blad med 0.02.
 
 ### Normal missbrukardos
 
@@ -474,7 +474,7 @@ Torde vara ca 50 % (Borgeke/Sterzel, Studier rörande påföljdspraxis med mera,
 
 ## LSD
 
-[sv.wikipedia.org/wiki/LSD LSD:s] farlighet ligger mellan amfetamin och kokain (NJA 1992 s. 235). Hit kategoriseras [Bromo-Dragonfly](http://sv.wikipedia.org/wiki/Bromo-dragonfly) (RH 2008:82), [PMMA](http://sv.wikipedia.org/wiki/Polymetylmetakrylat) och [2 C-B](http://sv.wikipedia.org/wiki/2C-B). Normal missbrukardos Bromo-Dragonfly 200 mikrogram (RH 2008:82).
+[LSD:s](http://sv.wikipedia.org/wiki/LSD) farlighet ligger mellan amfetamin och kokain (NJA 1992 s. 235). Hit kategoriseras [Bromo-Dragonfly](http://sv.wikipedia.org/wiki/Bromo-dragonfly) (RH 2008:82), [PMMA](http://sv.wikipedia.org/wiki/Polymetylmetakrylat) och [2 C-B](http://sv.wikipedia.org/wiki/2C-B). Normal missbrukardos Bromo-Dragonfly 200 mikrogram (RH 2008:82).
 
 ### Normal renhetsgrad i missbrukardos
 
@@ -522,7 +522,7 @@ OKÄNT.
 
 ## Mefedron
 
-[sv.wikipedia.org/wiki/4-Metylmetkatinon Om mefedron]
+[Om mefedron](http://sv.wikipedia.org/wiki/4-Metylmetkatinon)
 
 Mefedron ska i farlighetshänseende jämställas med ecstacy och amfetamin. * Angående jämförelse ecstacy se Svea hovrätts domar 2011-05-11 i mål nr B152-11 och 2010-11-23 i mål nr B 5785-1. * Angående jämförelse med amfetamin, se Högsta domstolens dom 2011-06-16 i mål B 5412-10 där HD förklarat att mefedrons generella farlighet inte på något för straffvärdebedömningen i det målet avgörande sätt skiljer sig från amfetamins generella farlighet (p. 33).
 
@@ -532,7 +532,7 @@ En missbrukardos mefedron är 100 mg, se Svea hovrätts dom från 2011 -05-11 i 
 
 ## Metadon
 
-[Metadon](http://sv.wikipedia.org/wiki/Metadon) är farligare än [morfin](http://sv.wikipedia.org/wiki/Morfin) men 1/2 gång så farligt som [sv.wikipedia.org/wiki/Heroin heroin] (NJA 1996 s. 478 och NJA 1997 s. 193).
+[Metadon](http://sv.wikipedia.org/wiki/Metadon) är farligare än [morfin](http://sv.wikipedia.org/wiki/Morfin) men 1/2 gång så farligt som [heroin](http://sv.wikipedia.org/wiki/Heroin) (NJA 1996 s. 478 och NJA 1997 s. 193).
 
 ### Normal missbrukardos
 
@@ -548,7 +548,7 @@ OKÄNT.
 
 ## Metandrostenolon
 
-[sv.wikipedia.org/wiki/Metandrostenolon Om Metandrostenolon även kallat ryssfemmor] Metandrostenolon var föremål för bedömning i NJA 1995 s 89 I och II. Dock argumenteras inte renhetsgrader.
+[Om Metandrostenolon även kallat ryssfemmor](http://sv.wikipedia.org/wiki/Metandrostenolon) Metandrostenolon var föremål för bedömning i NJA 1995 s 89 I och II. Dock argumenteras inte renhetsgrader.
 
 Beträffande dopningsmedels farlighet uttalade departementschefen vid tillkomsten av [lagen (1991:1969) om förbud mot vissa dopningsmedel](https://lagen.nu/1991:1969) följande. Det är delvis oklart hur en användning av läkemedel som innehåller anabola steroider påverkar den mänskliga organismen på lång sikt. De anabola steroidernas verkningssätt -- äggvitenybildande -- tyder dock på att de på ett allvarligt sätt kan rubba kroppens normala funktion och ger anledning att befara skadeverkningar i form av störningar i hormonbalansen och fettomsättningen, vilket bl a innebär höjd risk för åderförkalkning och kranskärlssjukdomar. Ungdomar som ännu inte slutat växa kan stanna i växten om de ges anabola steroider. Liksom naturligt testosteron kan anabola steroider leda till en bestående virilisering hos kvinnor samt sterilitet hos män. Även andra skador, bl a vissa sällsynta former av cancer, misstänks ha samband med användning av anabola steroider.
 
@@ -584,7 +584,7 @@ OKÄNT.
 
 ## Opium
 
-[sv.wikipedia.org/wiki/Opium Om opium]
+[Om opium](http://sv.wikipedia.org/wiki/Opium)
 
 Råopium, mjölksaften ur vallmo, är en tredjedel så farlig som samma mängd heroin (NJA 1994 s. 374).
 
@@ -602,7 +602,7 @@ OKÄNT.
 
 ## PCP
 
-[sv.wikipedia.org/wiki/Fencyklidin Om PCP även kallat ängladamm samt fencyklidin]
+[Om PCP även kallat ängladamm samt fencyklidin](http://sv.wikipedia.org/wiki/Fencyklidin)
 
 ### Normal missbrukardos
 
@@ -652,7 +652,7 @@ OKÄNT.
 
 ## Spice
 
-[sv.wikipedia.org/wiki/Spice_(drog) Om spice]
+[Om spice](http://sv.wikipedia.org/wiki/Spice_(drog%29)
 
 Med uttrycket spice avses växtmaterial preparerat med syntetiska cannabinoider som exempelvis den syntetiska cannabinoiden[JWH-073](http://en.wikipedia.org/wiki/JWH-073), se HovR för västra Sveriges dom från 2012-12-11 i mål B 2265-12.
 
@@ -662,7 +662,7 @@ Se vidare under JWH-073.
 
 ## Stanozolol
 
-[sv.wikipedia.org/wiki/Stanozolol Om Stanozolol en av många sorters anabola steroider]
+[Om Stanozolol en av många sorters anabola steroider](http://sv.wikipedia.org/wiki/Stanozolol)
 
 ### Normal missbrukardos
 
@@ -678,7 +678,7 @@ OKÄNT.
 
 ## Tramadol
 
-[sv.wikipedia.org/wiki/Tramadol Om Tramadol]
+[Om Tramadol](http://sv.wikipedia.org/wiki/Tramadol)
 
 ### Normal missbrukardos
 
