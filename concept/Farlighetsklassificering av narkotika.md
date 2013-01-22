@@ -378,7 +378,7 @@ Ligger på samma farlighetsnivå som ecstasy men inte lika farligt som heroin (N
 
 Om det är industrihampa bedöms det inte som narkotika (NJA 2007 s. 219). För att hampa ska vara industrihampa gäller att förutsättningarna i bilaga 1 till förordningen (1992:1554) om kontroll av narkotika är uppfyllda. Där anges att med cannabis inte ska förstås hampa som dels är avsedd för fiberproduktion och har en THC-halt understigande 0,2 % (art. 39 Rådets förordning (EG) nr 73/2009), dels att det sökts om EU-stöd. :# är av sort som kan berättiga till stöd enligt rådets förordning (EG) nr 1782/2003 om upprättande av gemensamma bestämmelser för system för direktstöd inom den gemensamma jordbrukspolitiken och om upprättande av vissa stödsystem för jordbrukare (och om ändring av vissa angivna förordningar) och rådets förordning (EG) nr 1673/2000 om den gemensamma organisationen av marknaderna för lin och hampa som odlas för fiberproduktion och :# odlas efter det att ansökan om direktstöd för sådan odling enligt rådets förordning (EG) nr 1782/2003 givits in till behörig myndighet.
 
-Industrihampa, som inte är narkotikaklassad, förutsätter tillstånd för odling och frömaterialet skall ha THC-halter understigande 0,2 %, (uttalande av forensiker vid SKL i Hovrätten för Övre norrland från den 2011- 01-28 i mål B 1060-10)
+Industrihampa, som inte är narkotikaklassad, förutsätter tillstånd för odling och frömaterialet skall ha THC-halter understigande 0,2 %, se uttalande av forensiker vid SKL i Hovrätten för Övre norrland från den 2011- 01-28 i mål B 1060-10.
 
 ## Heroin
 
