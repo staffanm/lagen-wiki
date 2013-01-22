@@ -582,9 +582,11 @@ OKÄNT.
 
 OKÄNT.
 
-## PCP
+## Opium
 
-[sv.wikipedia.org/wiki/Fencyklidin Om PCP även kallat ängladamm samt fencyklidin]
+[sv.wikipedia.org/wiki/Opium Om opium]
+
+Råopium, mjölksaften ur vallmo, är en tredjedel så farlig som samma mängd heroin (NJA 1994 s. 374).
 
 ### Normal missbrukardos
 
@@ -598,11 +600,9 @@ OKÄNT.
 
 OKÄNT.
 
-## Opium
+## PCP
 
-[sv.wikipedia.org/wiki/Opium Om opium]
-
-Råopium, mjölksaften ur vallmo, är en tredjedel så farlig som samma mängd heroin (NJA 1994 s. 374).
+[sv.wikipedia.org/wiki/Fencyklidin Om PCP även kallat ängladamm samt fencyklidin]
 
 ### Normal missbrukardos
 
