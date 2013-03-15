@@ -6,7 +6,7 @@ categories:
 aliases:
   - Narkotikas farlighetsklassificering.
 ---
-# Bakgrund om praxisreformen avseende narkotikabrott 2011
+## Bakgrund om praxisreformen avseende narkotikabrott 2011
 
 Även om det i lagrummen för narkotikastraff förekommer olika bedömningsgrunder var gränsdragningen mellan olika grader av narkotikabrott före praxisreformen 2011 helt baserad på mängdresonemang. Två personer kunde genom att dela på 200 g narkotika, komma att inneha 100 g narkotika var med samma egenskaper. Om nu den ene spädde ut sina 100 g med 4 900 g druvsocker sekunden innan polisen stormade in i huset togs det inte i beaktelse när straffvärdebedömningen gjordes. Domstolar dömde båda gärningsmännen endast utifrån den mängd substans med narkotiska egenskaper de innehade, oavsett renhetsgraden. Den ene kunde på grund av detta dömas för innehav av 100 gram narkotika, den andre för innehav av 5 kg narkotika.
 
