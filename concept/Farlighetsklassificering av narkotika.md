@@ -20,7 +20,7 @@ HD har dock framhållit att den betydelse som tillmäts den del av bedömningsgr
 
 ## Hur tillämpa bedömningsgrunder vid narkotikabrott
 
-### Hur bedömning av narkotikabrott går till
+## Hur bedömning av narkotikabrott går till
 
 Beteckningen grovt narkotikabrott är som HD redogör för i Högsta domstolens dom från den 11 juli 2012 i mål B 965-12 p. 12 avsedd för de allvarligaste gärningarna Som sådana gärningar avses sådana som ingår i
 
