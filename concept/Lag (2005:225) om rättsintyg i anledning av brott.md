@@ -4,7 +4,7 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderAlk Alexander Anker
 ---
 
 
-8Bestämmelser om rättsintyg samt andra föreskrifter avseende Rättsmedicinalverket publiceras i Socialstyrelsens serier allmänna råd SOSFS http://www.socialstyrelsen.se/sosfs] se särskilt [(SOSFS 2005:29) om utfärdande av intyg inom hälso- och sjukvården m.m http://www.socialstyrelsen.se/sosfs/2005-29]
+Bestämmelser om rättsintyg samt andra föreskrifter avseende Rättsmedicinalverket publiceras i Socialstyrelsens serier allmänna råd SOSFS http://www.socialstyrelsen.se/sosfs] se särskilt [(SOSFS 2005:29) om utfärdande av intyg inom hälso- och sjukvården m.m http://www.socialstyrelsen.se/sosfs/2005-29]
 
 ## 1 §
 
