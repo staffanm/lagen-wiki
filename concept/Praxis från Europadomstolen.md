@@ -26,8 +26,6 @@ Domstolsverket gav under 2001-01 t.o.m. 2011-06 ut ett nyhetsbrev rörande den e
 
 På Sveriges domstolars webbsida finns också ett register över domar som har refererats i tidigare nyhetsblad, från och med nr 1/01. Registret består av en Excel-fil som öppnas i ett nytt fönster och består av sju olika kolumner. Registret kan sorteras efter bl.a. part, svarandestat eller avgörandedag. Det finns även en hjälpinstruktion med anvisningar om hur man lättast hittar, sorterar och söker i registret. Där finns även en beskrivning med tydliga exempel på hur man går till väga för att hitta i registret.
 
-Nedanstående länkar utgör ett försök att i viss mån komplettera domstolsverkets nyhetsbrev.
-
 ## Svenska sammanställningar av praxis från Europadomstolen
 
 [Mänskliga rättigheter - Regeringens webplats om mänskliga rättigheter](http://www.manskligarattigheter.se/sv/manskliga-rattigheter-i-sverige/europadomstolens-domar-i-mal-mot-sverige)
