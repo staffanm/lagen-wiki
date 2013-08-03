@@ -16,7 +16,7 @@ author: "[http://wiki.lagen.nu/index.php/Användare:AlexanderKirk Alexander Anke
 
 ## [http://www.humanrights.se/wp-content/uploads/2012/01/Konvention-angaende-flyktingars-rattsliga-stallning.pdf Konventionen angående flyktingars rättsliga ställning (cit. Genèvekonventionen) ]
 
-: Innehåller de grundläggande internationella bestämmelserna om flyktingskap. I konventionen anges bl.a. kriterier för när en person ska betraktas som flykting. Definitionen av flykting anges i art. 1.A.2, en artikel som ska läsas tillsammans med art. 1 C-F : Sverige har reserverat sig för artiklarna artiklarna 8, 12 (1), 17 (2), 24 (1)b, 24 (3) och 25.
+: Innehåller de grundläggande internationella bestämmelserna om flyktingskap. I konventionen anges bl.a. kriterier för när en person ska betraktas som flykting. Definitionen av flykting anges i art. 1.A.2, en artikel som ska läsas tillsammans med art. 1 C-F : Sverige har reserverat sig för artiklarna artiklarna 8, 12 (1), 17 (2), 24 (1)b, 24 (3) och 25. EU-domstolen har i sitt avgörande den 21 december 2011 i de förenade målen C-411/10 och C-493/10 (N.S. m.fl.) slagit fast att det gemensamma europeiska asylsystemet grundas på en fullständig och total tillämpning av Genévekonventionen och en försäkran att ingen kommer att skickas tillbaka till en plats där han eller hon riskerar att förföljas (punkt 75).
 
 ## [http://www.regeringen.se/content/1/c6/06/26/50/ef9d339d.pdf Internationell konvention om medborgerliga och politiska rättigheter]
 
