@@ -122,7 +122,7 @@ Sverige har reserverat sig för tilläggsprotokoll nr 7, 1984-11-22, artikel 7 (
 
 ## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2005:289:0015:0022:SV:PDF Direktivet om gästforskare 2005/71/EG]
 
-## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2002R1030:20080519:SV:PDF Förordning om enhetlig utformning av uppehållstillstånd för medborgare i tredjeland]
+## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:157:0001:0007:SV:PDF Förordning om enhetlig utformning av uppehållstillstånd för medborgare i tredjeland (EG) nr 1030/2002]
 
 ## [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:168:0024:0032:SV:PDF Sanktionsdirektivet 2009/52/EG]
 
