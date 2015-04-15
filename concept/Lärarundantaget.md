@@ -9,7 +9,7 @@ Det finns två skilda undantag som båda benämns "Lärarundantaget": Dels ett l
 
 ## Patent på uppfinningar
 
-Enligt [Lag (1949:345) om rätten till arbetstagares uppfinningar (LAU)](begrepp:SFS/1949:345) så har som huvudregel en arbetstagare patenträtt till de uppfinningar som en anställd skapar. Det finns dock ett undantag för "lärare vid universitet, högskolor eller andra inrättningar som tillhör undervisningväsendet" (1 § 2 st LAU).
+Enligt [Lag (1949:345) om rätten till arbetstagares uppfinningar (LAU)](begrepp:SFS/1949:345) så kan en arbetsgivare kan under vissa förutsättningar få rätt till uppfinningar som en arbetstagare gjort. Det finns dock ett undantag för "lärare vid universitet, högskolor eller andra inrättningar som tillhör undervisningväsendet" som inte betraktas som arbetstagare enligt denna lag (1 § 2 st LAU).
 
 ## Upphovsrätt till verk
 
@@ -19,4 +19,4 @@ För anställda lärare finns dock ett undantag från denna princip, som ibland 
 
 ## Vidare läsning
 
-* ["Lärarundantaget och upphovsrätt"](http://www.sulf.se/templates/CopyrightPage.aspx?id=9128), Universitetsläraren nr 5/2009 * Sanna Wolk, "Anställdas immaterialrätt i arbetsgivarens konkurs (JT 2002/03 s 372)
+* ["Lärarundantaget och upphovsrätt"](http://www.sulf.se/Universitetslararen/Arkiv/2009/Nummer-5-091/Lararundantaget-och-upphovsratt/), Universitetsläraren nr 5/2009 * Sanna Wolk, "Anställdas immaterialrätt i arbetsgivarens konkurs (JT 2002/03 s 372)
