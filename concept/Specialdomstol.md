@@ -26,7 +26,7 @@ Miljödomstolarna handlägger mål och ärenden gällande bland annat tillstånd
 
 ## Migrationsdomstolar samt Migrationsöverdomstolen
 
-Det finns tre [migrationsdomstol](begrepp:migrationsdomstol) i landet och dessa är knutna till [länsrätt](begrepp:länsrätt)en i Stockholms län, länsrätten i Göteborg samt länsrätten i Skåne län. Migrationsöverdomstolen är knuten till [kammarrätt](begrepp:kammarrätt)en i Stockholm.
+Det finns tre [migrationsdomstol](begrepp:migrationsdomstol) i landet och dessa är knutna till [förvaltningsrätt](begrepp:förvaltningsrätt)en i Stockholms län, länsrätten i Göteborg samt länsrätten i Skåne län. Migrationsöverdomstolen är knuten till [kammarrätt](begrepp:kammarrätt)en i Stockholm.
 
 Migrationsöverdomstolens beslut får inte överklagas.
 
