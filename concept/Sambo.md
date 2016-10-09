@@ -3,7 +3,7 @@ title: Sambo
 categories:
   - Familjerätt
 ---
-En person som stadigvarande bor tillsammans med annan person i ett parförhållande och har gemensamt hushåll.
+En person som stadigvarande bor tillsammans s med annan person i ett parförhållande och har gemensamt hushåll.
 
 Begreppet defineras i 1 § [sambolagen (2003:376)](https://lagen.nu/2003:376). För att falla in under denna definition ska samboendet ha en viss varaktighet, eller åtminstone vara avsett att ha det.
 
