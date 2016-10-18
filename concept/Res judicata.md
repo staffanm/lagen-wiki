@@ -5,7 +5,7 @@ categories:
 ---
 Res judicata är ett ursprungligen latinsk uttryck för att ett rättsligt förhållande redan är rättskraftigt avgjort.
 
-Nytt mål om samma ska ska därför avvisas.
+Nytt mål om samma sak ska därför avvisas.
 
 ### Jämför
 
