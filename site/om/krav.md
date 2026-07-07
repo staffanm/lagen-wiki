@@ -8,7 +8,7 @@ Krav 1: Att få veta vem som står bakom Lagen.nu drivs av privatpersonen Staffa
 
 Krav 2: Att få veta vad databasen innehåller
 
-Lagen.nu innehåller författningar, vägledande rättsfall och beslut samt förarbeten. Se vidare under `innehåll <innehall>` för information om vilka källor som använts och hur fullständig informationen är. Lagen.nu utför ingen egen digitalisering, utan förlitar sig på det material som finns tillgängligt i elektronisk form från myndigheterna.
+Lagen.nu innehåller författningar, EU-rätt, vägledande rättsfall och beslut, förarbeten samt myndighetsföreskrifter. Se vidare under [innehåll](/om/innehall) för information om vilka källor som använts och hur fullständig informationen är. Lagen.nu utför ingen egen digitalisering, utan förlitar sig på det material som finns tillgängligt i elektronisk form från myndigheterna.
 
 Krav 3: Att få veta hur databaserna uppdateras Informationen på lagen.nu uppdateras automatiskt och kontinuerligt - när ny information görs tillgänglig i ovanstående källor finns den vanligtvis på lagen.nu inom ett dygn. På varje sida med lagtext finns även en länk tillbaka till ursprungsversionen hos RK, så att användaren själv kan kontrollera att informationen är aktuell.
 

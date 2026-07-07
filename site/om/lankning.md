@@ -12,6 +12,13 @@ https://lagen.nu/2003:389
 
 Du skriver alltså bara "https://lagen.nu/" följt av SFS-numret.
 
+Samma mönster -- prefixet följt av dokumentets egen beteckning -- gäller även för andra dokumenttyper:
+
+- **Lag / förordning (SFS):** `https://lagen.nu/<SFS-nummer>`, t.ex. `https://lagen.nu/2003:389`
+- **Proposition:** `https://lagen.nu/prop/<beteckning>`, t.ex. `https://lagen.nu/prop/2020/21:22`
+- **Rättsfall:** `https://lagen.nu/dom/<domstol>/<referat>`, t.ex. `https://lagen.nu/dom/ad/1993:100`
+- **EU-rättsakt:** `https://lagen.nu/celex/<CELEX>`, t.ex. `https://lagen.nu/celex/32016R0679`
+
 En länk till en enskild paragraf gör att webläsaren laddar hela lagtexten, och automatiskt hoppar till den specifika paragrafen.  För att länka till 6 kap. 18 § i samma lag använder du följande address:
 
 ```
@@ -43,5 +50,22 @@ Ibland kan man vilja länka till ett visst stycke eller t.o.m. en viss punkt i e
 ```
 https://lagen.nu/1942:740#K58P1S1N3
 ```
+
+Ankartecknens betydelse är alltså **K** = kapitel, **P** = paragraf, **S** = stycke, **N** = numrerad punkt.
+
+## Ankare i EU-rättsakter
+
+En EU-artikel pekas ut med sitt nummer, och finare delar med punktnotation. För att länka till artikel 6 i dataskyddsförordningen (CELEX 32016R0679):
+
+```
+https://lagen.nu/celex/32016R0679#6
+```
+
+- Artikel 6: `#6`
+- Artikel 6.2: `#6.2`
+- En definition (t.ex. artikel 2.21): `#2.21`
+- Skäl 15: `#recital-15`
+
+## Övrigt
 
 Tänk på att om du länkar till en paragraf långt nere i en lång lag så kommer webläsaren visa början av lagtexten ända tills rätt paragraf hämtats över Internet. Först då hoppar läsaren ner till rätt ställe. Detta märks särskilt tydligt om man använder en långsam internetuppkoppling.

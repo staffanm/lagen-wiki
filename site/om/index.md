@@ -22,4 +22,6 @@ Lagen.nu är ett ideellt projekt. Varför ägnar vi en massa timmar åt att driv
 
 Hur fungerar den här webtjänsten? [Läs mer om tekniken bakom lagen.nu](/om/teknik).
 
+Allt innehåll är öppna data som går att hämta via ett API eller som bulknedladdning. [Läs mer för utvecklare](/om/for-utvecklare).
+
 Har du frågor, synpunkter, klagomål, beröm? Hör gärna av dig - uppgifter finns under [kontaktinformation](/om/kontakt).

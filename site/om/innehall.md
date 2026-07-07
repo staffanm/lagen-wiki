@@ -2,82 +2,139 @@
 title: Innehåll på lagen.nu
 ---
 
-Lagen.nu innehåller lagar, förordningar, myndighetsföreskrifter, vägledande rättsfall och myndighetsavgöranden samt förarbeten. Nedan beskrivs innehållet i mer detalj. Under [ansvarsfriskrivning](/om/ansvarsfriskrivning) framgår även vilka fel som kan förekomma i materialet.
+Lagen.nu innehåller författningar, förarbeten, EU-rätt, vägledande
+domstolsavgöranden och myndighetsavgöranden, myndighetsföreskrifter, remissvar
+samt kommentarer och begreppsförklaringar -- allt sammanlänkat. Nedan beskrivs
+innehållet i mer detalj, med ungefärliga antal och hur långt tillbaka materialet
+sträcker sig (antalen växer med tiden). Under [ansvarsfriskrivning](/om/ansvarsfriskrivning)
+framgår även vilka fel som kan förekomma i materialet.
+
+Lagen.nu utför ingen egen digitalisering, utan bearbetar det elektroniska
+material som myndigheter och domstolar redan publicerar.
 
 ## Författningar i SFS
 
-På lagen.nu finns konsoliderade versioner av de nu gällande författningarna som publicerats i svensk författningssamling (SFS). Dessa hämtas från [Regeringskansliets rättsdatabaser](http://rkrattsbaser.gov.se/sfsr). Sammanlagt finns drygt 4000 författningar publicerade.
+På lagen.nu finns konsoliderade versioner av de nu gällande författningarna som
+publicerats i Svensk författningssamling (SFS). Dessa hämtas från
+[Regeringskansliets rättsdatabaser](http://rkrattsbaser.gov.se/sfsr). Sammanlagt
+finns drygt 11 000 författningar publicerade.
 
-När upphävandedatumet för en författning inträffar tas författningstexten bort. Detta gäller dessvärre även om författningen enligt övergångsbestämmelserna ska ha fortsatt giltighet i vissa delar. En framtida version av lagen.nu kommer -- förhoppningsvis -- att ha äldre författningar tillgängliga.
+**Hur långt tillbaka:** urvalet är de författningar som *gäller idag* -- den
+äldsta gällande rätten går tillbaka till 1734 års lag med dess balkar. Utöver den
+gällande lydelsen sparas numera **historiska lydelser** för varje lag, så att en
+lag kan läsas som den såg ut vid en tidigare tidpunkt (se panelen *Jämför
+lydelser* och registervyn längst ned på varje lagsida).
+
+När upphävandedatumet för en författning inträffar markeras den som **upphävd**
+och tas bort ur listningarna, men den går fortfarande att nå via direktlänk och
+sökning. Invid varje lagparagraf visas utdrag ur författningskommentaren från
+lagens förarbeten.
 
 ## Förarbeten
 
-Tjänsten har förarbeten från en rad olika källor. Det är mestadels regering och riksdag som ansvarar för de källor som finns, men olika avdelningar har ibland olika databaser med varierande format och grad av fullständighet.
+Tjänsten har förarbeten från en rad olika källor. Den primära källan är
+[Rättsdokument på regeringen.se](http://www.regeringen.se/rattsdokument/), där
+nya förarbeten publiceras. Om ett dokument saknas där men finns i en annan källa
+används den istället, och det framgår bredvid rubriken för varje enskilt
+förarbete vilken källa som använts. Äldre material är i regel inskannat och
+OCR-behandlat, så textfel kan förekomma.
 
-Den primära källan är `Rättsdokument på regeringens webbplats <http://www.regeringen.se/rattsdokument/>` där alla nya förarbeten publiceras. Om ett visst dokument saknas där, men finns i någon annan källa, används denna andra källa istället. Det framgår bredvid rubriken för varje enskilt förarbete vilken källa som använts.
+Hur långt tillbaka materialet sträcker sig, per typ:
 
-## Propositioner
+- **Propositioner** -- tillbaka till 1867. Källor: KB (1867--1970), [Riksdagens öppna data](https://www.riksdagen.se/sv/dokument-och-lagar/) (1971--), regeringen.se.
+- **Statens offentliga utredningar (SOU)** -- tillbaka till 1922 (seriens start). Källor: [KB:s digitalisering](http://regina.kb.se/sou/) (1922--1999), regeringen.se.
+- **Departementsserien (Ds)** -- tillbaka till ca 1993. Källa: regeringen.se.
+- **Kommittédirektiv** -- tillbaka till 1987. Källor: regeringen.se, äldre PDF-samlingar.
+- **Utskottsbetänkanden** -- från Riksdagens öppna data (data.riksdagen.se).
 
-Utöver regeringens rättsdokument hämtas propositioner från [Riksdagens dokument & lagar](https://www.riksdagen.se/sv/Dokument-Lagar/?doktyp=prop) och [Regeringskansliets rättsdatabaser](http://rkrattsbaser.gov.se/prop). Propositioner äldre än ca 1995 är som huvudregel inskannade från pappersoriginal. Sammantaget finns samtliga utgivna propositioner tillbaks till 1971 i tjänsten, ca 7 500 dokument.
+Invid varje lagparagraf visas utdrag ur författningskommentaren, och invid varje
+rättsfall visas vilka förarbeten som hänvisat till fallet.
 
-## Statens offentliga utredningar
+## EU-rätt
 
-Betänkanden utgivna i serien Statens offentliga utredningar ("SOU:er") hämtas, utöver från regeringens rättsdokument, från [Kungliga bibliotekets digitalisering av äldre SOU:er](http://regina.kb.se/sou/). Sammantaget finns därmed samtliga utgivna SOU:er från starten 1922 tillgängliga, ca 7 500 dokument.
+Förordningar, direktiv, beslut och domar från [EUR-Lex](https://eur-lex.europa.eu/),
+identifierade med CELEX-nummer. **Hur långt tillbaka:** materialet sträcker sig
+tillbaka till unionens äldsta rättsakter (grundfördragen och tidiga
+förordningar).
 
-## Departementsserien
-
-Betänkanden utgivna i departementsserien ("Ds:ar") hämtas enbart från [Rättsdokument](http://www.regeringen.se/rattsdokument/), sammanlagt ca 1 100 dokument.
-
-Vissa departement (framförallt finansdepartementet) ger numera ut betänkanden i PM-form, som till innehåll och funktion ligger nära Ds:ar, men som inte ges ut i departementsserien. Dessa publiceras inte på lagen.nu.
-
-## Kommittédirektiv
-
-Utöver regeringens rättsdokument hämtas kommittédirektiv även från [Regeringskansliets rättsdatabaser](http://rkrattsbaser.gov.se/dir/) och [PDF-samlingar](http://rkrattsdb.gov.se/kompdf/). Sammanlagt finns ca 3 900 kommittédirektiv tillbaks till 1987.
+En svensk lags genomförande av ett EU-direktiv visas som en länk från de
+paragrafer som genomför direktivet, och EU-akter som citeras med svenskt kortnamn
+(t.ex. "dataskyddsförordningen") länkas automatiskt.
 
 ## Vägledande domstolsavgöranden
 
-Tjänsten innehåller ett urval av avgöranden från Högsta domstolen (HD), Högsta förvaltningsdomstolen (HFD), hovrätterna, kammarrätterna, Mark- och miljööverdomstolen, Patent- och marknadsöverdomstolen, Migrationsöverdomstolen och Arbetsdomstolen. Det finns även äldre avgöranden från Regeringsrätten (numera HFD), Marknadsdomstolen och Miljööverdomstolen. Urvalet görs av domstolarna själva, och är detsamma som de rättsfall som publiceras i de rättsfallssamlingar som ges ut i tryckt form.
+Tjänsten innehåller ett urval av avgöranden från Högsta domstolen (HD), Högsta
+förvaltningsdomstolen (HFD), hovrätterna, kammarrätterna, Mark- och
+miljööverdomstolen, Patent- och marknadsöverdomstolen, Migrationsöverdomstolen
+och Arbetsdomstolen. Det finns även äldre avgöranden från Regeringsrätten (numera
+HFD) och Marknadsdomstolen. Urvalet görs av domstolarna själva, och är detsamma
+som de rättsfall som publiceras i de tryckta referatserierna. Sammanlagt finns
+drygt 17 000 avgöranden.
 
-## Referat
-
-## Notiser
-
-inte mig-notiser
+**Hur långt tillbaka:** 1981 och framåt, från domstolarnas publiceringstjänst.
+Äldre referat (bl.a. från Arbetsdomstolen) och HD:s notisfall tillkommer via
+importerat material från Domstolsverket.
 
 ## Vägledande myndighetsavgöranden
 
-## ARN
+Beslut från Justitieombudsmannen (JO), Justitiekanslern (JK) och Allmänna
+reklamationsnämnden (ARN). Materialet hämtas direkt från respektive myndighets
+webbplats; myndigheterna avgör själva vad som är vägledande.
 
-## Justitieombudsmannen
+- **JO** -- tillbaka till 1979, ca 3 700 beslut.
+- **JK** -- tillbaka till 1998, ca 1 400 beslut.
+- **ARN** -- tillbaka till 1991, ca 1 000 beslut.
 
-## Justitiekanslern
+Äldre praxis kan saknas trots att den fortfarande är vägledande.
 
 ## Myndigheters författningssamlingar
 
-Lagen.nu innehåller författningssamlingar från ett urval av myndigheter:
+Lagen.nu innehåller föreskrifter (och allmänna råd) ur ett urval av myndigheters
+författningssamlingar, som hämtas löpande från respektive myndighets egen
+webbplats. **Hur långt tillbaka varierar per myndighet** -- bara det en myndighet
+själv publicerar ingår, och det är oftast de föreskrifter som gäller.
+Konsoliderade föreskrifter publiceras normalt inte.
 
-- Arbetsmiljöverket (AFS)
-- Bolagsverket (BOLFS)
-- Datainspektionen (DIFS)
-- Domstolsverket (DVFS)
-- Energimarknadsinspektionen (EIFS)
-- Finansinspektionen (FFFS, inkl BFFS)
-- Försvarsmakten (FFS)
-- Folkhälsomyndigheten (FoHMFS, inkl HSLF-FS)
-- Kronofogdemyndigheten (KFMFS)
-- Konsumentverket (KOVFS)
-- Kriminalvården (KVFS)
-- Lotteriinspektonen (LIFS)
+Följande samlingar hämtas löpande:
+
+- Finansinspektionen (FFFS)
+- Strålsäkerhetsmyndigheten (SSMFS)
+- Naturvårdsverket (NFS)
+- Kemikalieinspektionen (KIFS)
+- Boverket (BFS)
+- Elsäkerhetsverket (ELSÄK-FS)
+- Riksgälden (RGKFS)
 - Lantmäteriet (LMFS)
-- Läkemedelsverket (LVFS)
-- Migrationsverket (MIGRFS)
-- Myndigheten för press radio och tv (MPRTVFS, inkl MRTVFS och RTVFS)
-- Myndigheten för yrkeshögskolan (MYHFS)
-- Myndigheten för samhällsskydd och beredskap (MSBFS, inkl SRVFS, KBMFS och SÄIFS)
-- Naturvårdsverket (NFS, inkl SNFS)
-- Riksgäldskontoret (RGKFS)
-- Revisorsnämnden (RNFS)
-- Statens jordbruksverk (SJVFS, inkl DFS)
-- Skatteverket (SKVFS, inkl RSFS)
-- Socialstyrelsen (SOSFS)
-På lagen.nu finns de föreskrifter som myndigheterna tillgängliggjort på sina respektive webbplatser. Detta inkluderar vanligtvis inte upphävda föreskrifter. Konsoliderade föreskrifter för en myndighet publiceras inte på lagen.nu i dagsläget, även om myndigheten gjort sådana tillgängliga. Sammanlagt finns drygt 1700 föreskrifter publicerade.
+- Konsumentverket (KOVFS)
+- Post- och telestyrelsen (PTSFS)
+- Myndigheten för civilt försvar, f.d. MSB (MCFFS) -- vars regelförteckning även bär kvarvarande MSBFS och äldre SRVFS/SÄIFS/KBMFS
+- Livsmedelsverket (LIVSFS)
+- Energimyndigheten (STEMFS)
+- Tullverket (TFS)
+- Spelinspektionen (SIFS)
+- Polismyndigheten (PMFS)
+- Rikspolisstyrelsen, numera Polismyndigheten (RPSFS)
+
+Därutöver finns äldre, engångsimporterade samlingar från Skatteverket (SKVFS,
+inkl. föregångaren RSFS) och Socialstyrelsen (SOSFS, inkl. HSLF-FS), som inte
+längre går att hämta löpande.
+
+Eftersom myndigheter hanterar ändringar olika -- vissa ger bara ut
+grundföreskrifter, vissa ändringsföreskrifter -- kan en visad föreskrift vara
+inaktuell. Vid osäkerhet bör kontroll mot myndighetens egen publicering göras.
+[Lagrummet](https://lagrummet.se/rattsinformation/myndigheters-foreskrifter) har
+en fullständig förteckning över myndigheters författningssamlingar.
+
+## Remissvar
+
+Svar på regeringens remisser (från [regeringen.se](http://www.regeringen.se/remisser/)),
+kopplade till det förarbete remissen gäller. Ett remissvar visas som ett avsnitt
+i kontextpanelen på det remitterade förarbetets sida. Materialet är nyare
+(regeringen publicerar remisser fortlöpande).
+
+## Kommentarer och begrepp
+
+För vissa lagar och EU-akter finns sektionsvisa **kommentarer**, och många
+juridiska **begrepp** är förklarade. Dessa skrivs för hand av enskilda personer
+och vävs in bredvid lagtexten. De är inte bindande eller officiell information --
+se [ansvarsfriskrivning](/om/ansvarsfriskrivning).

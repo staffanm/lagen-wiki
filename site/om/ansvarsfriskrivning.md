@@ -34,6 +34,10 @@ Det kan förekomma att vissa personuppgifter inte anonymiserats. När vi får ve
 
 De förarbeten (propositioner, utredningar i form av SOU- och Ds-betänkanden, samt komittédirektiv) som finns på lagen.nu hämtas från flera olika källor. I första hand hämtas dokumenten från [Regeringskansliets sida för rättsdokument](http://www.regeringen.se/rattsdokument), men äldre dokument hämtas även från [Riksdagen](https://www.riksdagen.se/sv/Dokument-Lagar/) (propositioner) och `KB <http://regina.kb.se/sou/>`. Det framgår bredvid rubriken för varje enskilt förarbete vilken källa som använts. Äldre material är i regel skannat från pappersoriginal och sedan OCR-behandlats för att få ut läsbar text. I denna process kan fel i texten uppstå. Om något verkar konstigt, kontrollera mot det inskannade källdokumentet.
 
+## EU-rätt
+
+EU-material hämtas från [EUR-Lex](https://eur-lex.europa.eu/). Äldre akter som saknar en strukturerad källversion tolkas ur HTML eller PDF, vilket kan ge fel i struktur och text.
+
 ## Föreskrifter
 
 Lagen.nu innehåller ett urval av myndigheters författningssamlingar. I dessa publiceras föreskrifter som myndigheter ger ut med stöd av bemyndiganden i lag eller förordning. På lagen.nu finns långt ifrån alla sådana författningssamlingar. På lagrummet finns [en fullständig lista](https://lagrummet.se/rattsinformation/myndigheters-foreskrifter).

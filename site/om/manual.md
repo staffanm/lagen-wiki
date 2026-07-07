@@ -18,14 +18,24 @@ Om du vet vad lagen heter, kan du gå via lagens inledningsbokstav istället. L�
 
 Om du varken vet namn eller nummer på den lag som du vill ha fatt på blir det svårare, men ofta kan man hitta något via sökfönstret längst uppe i hörnet. Om du exempelvis har hört att teleoperatörer numera är skyldiga att se till att privatpersoner kan behålla sitt telefonnummer när de byter operatör, kan lämpliga sökord vara "abonnent" och "telefonnummer". Om du matar in dem och trycker på Enter får du en kort lista träffar, där det snabbt framgår att det är "Lag (2003:389) om elektronisk kommunikation", mer specifikt [5 Kap. 9 §](/2003:389#K5P9), som är den intressanta författningen.
 
+Det finns också en snabb kommandopalett (öppnas med ⌘K eller Ctrl-K) som förstår hänvisningar direkt -- skriv exempelvis `avtalslagen 36 §`, `BrB 12:1` eller `GDPR art 32` så länkas du rakt till rätt paragraf eller artikel.
+
 ## Att hitta inuti lagtexten
 
 Innehållsförteckning: För lite längre lagar finns en innehållsförteckning i högerspalten.
 
 Interna lagreferenser: Om det, i den löpande lagtexten, finns en referens till en annan paragraf, i stil med *"Var och en får återge handlingar som är upprättade hos svenska myndigheter men inte är sådana som avses i [9 § första stycket](/1960:729#P9S1)"* (från [URL 26 a §](/1960:729#P26aS2) är den texten länkad (nästan jämt) till rätt ställe (nästan jämt). På så sätt kan du klicka dig runt få en översikt över en lag.
 
-Vidare referenser (domar och ändringsförfattningar): Bredvid vissa paragrafer finns det rutor med mindre text i. Den kan innehålla några olika sorters referenser: Ändringsförfattningar resp vägledande domar. Den första typen leder till information om lagändringar som införde, ändrade eller upphävde paragrafen i fråga, inklusive övergångsregler och länkar till förarbeten. Den andra typen leder till information om vägledande domslut som hänvisat till paragrafen. Det kan också finnas kommentarer eller författningskommentarer. Texten i dessa rutor är alltså inte en del av den officiella lagtexten.
+Kontextpanel: Bredvid lagtexten finns en panel som, för den paragraf du läser, visar vidare referenser: vilka vägledande domar och förarbeten som hänvisar dit, vilken EU-artikel bestämmelsen genomför, samt ändringshistorik (lagändringar som införde, ändrade eller upphävde paragrafen, med övergångsregler och länkar till förarbeten) och eventuell kommentar. Panelen följer med när du skrollar. Texten i panelen är alltså inte en del av den officiella lagtexten.
+
+## Läsa äldre lydelser
+
+På en lags sida kan du öppna en tidigare **konsoliderad lydelse** (märkt "Inaktuell författning"), **jämföra lydelser** för att se exakt vad en ändring ändrade (tillägg och strykningar markeras), och läsa registervyn **Ändringar och övergångsbestämmelser** längst ned, med länkar till publikationer och förarbeten per ändring.
+
+## Redigera kommentarer
+
+Kommentarer och begreppsförklaringar kan redigeras direkt på sajten av inloggade skribenter (en ✎-knapp dyker upp vid paragrafer och artiklar). Den officiella lag- och domstolstexten är alltid skrivskyddad. Vill du bidra, se [kontaktinformation](/om/kontakt).
 
 ## Länka till lagen.nu
 
-Se [Hur man länkar till lagen.nu](/om/lankning.html).
+Se [Hur man länkar till lagen.nu](/om/lankning).

@@ -2,20 +2,38 @@
 title: Hur ser det ut bakom kulisserna?
 ---
 
-*NB: Nedanståend är inaktuellt!*
+Lagen.nu består av hundratusentals sammanlänkade dokument. För att kunna hantera
+en så stor informationsmängd med mycket begränsade resurser är nästan allt
+automatiserat.
 
-Lagen.nu består av ca 15000 html-sidor med lagtexter och rättsfall. För att kunna hantera en sån stor informationsmängd på mycket begränsad tid är nästan allt automatiserat.
+Varje källa (SFS, domstolsavgöranden, förarbeten, EU-rätt, myndighetsföreskrifter
+med flera) har en egen bearbetningskedja i fyra steg:
 
-Lagtexter hämtas från Regeringskansliets webbserver. Den oformatterade och ostrukturerade textmassan som finns där konverteras till en strukturerad XML-version (XHTML2 med RDFa).
+1. **Hämtning** -- råmaterialet laddas ner från källan (Regeringskansliets
+   rättsdatabaser, domstolarnas publiceringstjänst, regeringen.se, EUR-Lex,
+   myndigheternas egna webbplatser, m.fl.).
+2. **Tolkning** -- den oformatterade texten (HTML, PDF eller Word) analyseras och
+   struktureras: kapitel, paragrafer, stycken, rubriker och listor identifieras,
+   och hänvisningar till andra lagar, rättsfall och förarbeten känns igen och
+   länkas.
+3. **Artefakt** -- resultatet sparas som en **JSON-fil per dokument**. Den filen
+   är källan till sanning för allt som utvunnits ur dokumentet (struktur,
+   metadata och länkar).
+4. **Härledning och publicering** -- ur alla JSON-artefakter byggs en katalog
+   (citeringsgrafen, dvs. vilka dokument som hänvisar till vilka), ett sökindex,
+   bulknedladdningar och slutligen de statiska, sammanlänkade webbsidorna.
 
-På samma sätt hämtas rättsfall från Domstolsverkets FTP-server, och konverteras, först från Word-format till en formatterad, men semantiskt ostrukturerad HTML (genom Microsoft Words "Spara som HTML"-funktion), och sedan till en strukturerad XML-version (även här XHTML2 med RDFa).
+Den viktigaste funktionen -- att bredvid varje paragraf visa vilka rättsfall och
+förarbeten som hänvisar till den -- kommer ur citeringsgrafen som byggs i steg 4.
 
-I nästa steg sammanställs all metadata från samtliga dokument i en stor s.k. RDF-graf. Denna används sedan tillsammans med en uppsättning XSLT-stylesheets för att skapa XHTML1.0-sidor, som är redo att visas direkt i en webbläsare.
+Webbplatsen serveras som statiska sidor, och samma process driver även ett
+[REST-API och bulknedladdningar](/om/for-utvecklare) av hela materialet.
 
-I ett avslutande steg skapas sedan innehållsförteckningar över samtliga dokument i tjänsten, samt sidor som listar nytillkomna och uppdaterade dokument.
+Kommentarerna och begreppsförklaringarna skrivs som versionshanterad markdown i
+ett separat innehållsförråd, och kan även redigeras direkt på sajten av inloggade
+skribenter.
 
-Webbsidorna görs sedan tillgängliga genom en vanlig Apache 2-server, som med hjälp av mod_rewrite översätter de enkla URL:erna (som `https://lagen.nu/1960:729`) till de faktiska filerna (som `sfs/generated/1960/729.html`).
-
-Koden är skriven i python, med vissa delar i XSLT. Den finns tillgänglig via subversion från `http://svn.lagen.nu/svnroot, och mer information finns på [utvecklingswikin](http://trac.lagen.nu/).
-
-Mer bakgrundsinformation finns i "lagen.nu"-kategorin på min [blogg](http://blog.tomtebo.org/tag/lagennu/).
+Koden är skriven i Python och är släppt som öppen källkod, så att den kan
+återanvändas för att bygga andra tjänster som hanterar liknande
+informationssamlingar. Mer bakgrund finns i "lagen.nu"-kategorin på
+[min blogg](http://blog.tomtebo.org/tag/lagennu/).
