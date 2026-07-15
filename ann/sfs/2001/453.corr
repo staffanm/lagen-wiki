@@ -1,0 +1,830 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "jamforelsetabell",
+    "generated": "2026-07-11",
+    "inputs": {
+      "artifact:sfs/2001:453": "0875698eada6fd6c7226a22f3a11a3984b4a8a55a5d5b38d33e7aa12b866f629",
+      "download:forarbete/prop/2000-01-80.pdf": "7f339e3ea29b03a24ecc1ad10d6f1f6b2db3998154cacac70fa8f677630b1558",
+      "download:forarbete/prop/2000-01-80-1.pdf": "347132f5e16fe085e9aea02dc3f29826f5428cd8cae1041d97ef7966e78b6791",
+      "download:forarbete/prop/2000-01-80-2.pdf": "1b0d115caaa80ef83ef39f113f88b1c81fbd619802806108fbe745852d14aeb6",
+      "artifact:sfs/1980:620": "6164f471d736bc202a569a46551d483ce5734bee2d8ccf078f8e63e88b709182",
+      "artifact:forarbete/prop/2000-01-80": "409e3bdcc07c9b4ad64784a9ad03f739862556b84074dc6e3a47b0c67009dc94"
+    }
+  },
+  "correspondence": {
+    "newLaw": "https://lagen.nu/2001:453",
+    "oldLaw": "https://lagen.nu/1980:620",
+    "proposition": "https://lagen.nu/prop/2000/01:80",
+    "edges": [
+      {
+        "newParagraf": "K1P1",
+        "oldParagraf": "P1",
+        "oldUri": "https://lagen.nu/1980:620#P1",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "1 § första–tredje stycket — 1 kap. 1 §"
+      },
+      {
+        "newParagraf": "K1P2",
+        "oldParagraf": "P1",
+        "oldUri": "https://lagen.nu/1980:620#P1",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "1 § fjärde stycket — 1 kap. 2 §"
+      },
+      {
+        "newParagraf": "K2P1",
+        "oldParagraf": "P2",
+        "oldUri": "https://lagen.nu/1980:620#P2",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "2 § — 2 kap. 1 §"
+      },
+      {
+        "newParagraf": "K2P4",
+        "oldParagraf": "P4",
+        "oldUri": "https://lagen.nu/1980:620#P4",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "4 § första och andra styckena — 2 kap. 4 §"
+      },
+      {
+        "newParagraf": "K2P5",
+        "oldParagraf": "P4",
+        "oldUri": "https://lagen.nu/1980:620#P4",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "4 § tredje stycket — 2 kap. 5 §"
+      },
+      {
+        "newParagraf": "K2P6",
+        "oldParagraf": "P4",
+        "oldUri": "https://lagen.nu/1980:620#P4",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "4 § fjärde och femte styckena — 2 kap. 6 §"
+      },
+      {
+        "newParagraf": "K3P1",
+        "oldParagraf": "P5",
+        "oldUri": "https://lagen.nu/1980:620#P5",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "5 § första stycket — 3 kap. 1 §"
+      },
+      {
+        "newParagraf": "K5P10",
+        "oldParagraf": "P5",
+        "oldUri": "https://lagen.nu/1980:620#P5",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "5 § andra stycket — 5 kap. 10 §"
+      },
+      {
+        "newParagraf": "K4P1",
+        "oldParagraf": "P6",
+        "oldUri": "https://lagen.nu/1980:620#P6",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "6 § — 4 kap. 1 § första stycket"
+      },
+      {
+        "newParagraf": "K4P1",
+        "oldParagraf": "P6a",
+        "oldUri": "https://lagen.nu/1980:620#P6a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "6 a § — 4 kap. 1 § andra stycket"
+      },
+      {
+        "newParagraf": "K4P3",
+        "oldParagraf": "P6b",
+        "oldUri": "https://lagen.nu/1980:620#P6b",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "6 b § — 4 kap. 3 §"
+      },
+      {
+        "newParagraf": "K4P4",
+        "oldParagraf": "P6c",
+        "oldUri": "https://lagen.nu/1980:620#P6c",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "6 c § — 4 kap. 4 §"
+      },
+      {
+        "newParagraf": "K4P5",
+        "oldParagraf": "P6d",
+        "oldUri": "https://lagen.nu/1980:620#P6d",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "6 d § — 4 kap. 5 §"
+      },
+      {
+        "newParagraf": "K4P6",
+        "oldParagraf": "P6e",
+        "oldUri": "https://lagen.nu/1980:620#P6e",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "6 e § — 4 kap. 6 §"
+      },
+      {
+        "newParagraf": "K4P2",
+        "oldParagraf": "P6g",
+        "oldUri": "https://lagen.nu/1980:620#P6g",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "6 g § — 4 kap. 2 §"
+      },
+      {
+        "newParagraf": "K3P2",
+        "oldParagraf": "P7",
+        "oldUri": "https://lagen.nu/1980:620#P7",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "7 § — 3 kap. 2 §"
+      },
+      {
+        "newParagraf": "K3P3",
+        "oldParagraf": "P7a",
+        "oldUri": "https://lagen.nu/1980:620#P7a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "7 a § första – tredje styckena — 3 kap. 3 §"
+      },
+      {
+        "newParagraf": "K5P12",
+        "oldParagraf": "P7a",
+        "oldUri": "https://lagen.nu/1980:620#P7a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "7 a § fjärde stycket — 5 kap. 12 §"
+      },
+      {
+        "newParagraf": "K3P4",
+        "oldParagraf": "P8",
+        "oldUri": "https://lagen.nu/1980:620#P8",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "8 § — 3 kap. 4 §"
+      },
+      {
+        "newParagraf": "K5P11",
+        "oldParagraf": "P8a",
+        "oldUri": "https://lagen.nu/1980:620#P8a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "8 a § — 5 kap. 11 §"
+      },
+      {
+        "newParagraf": "K3P5",
+        "oldParagraf": "P9",
+        "oldUri": "https://lagen.nu/1980:620#P9",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "9 § — 3 kap. 5 §"
+      },
+      {
+        "newParagraf": "K3P6",
+        "oldParagraf": "P10",
+        "oldUri": "https://lagen.nu/1980:620#P10",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "10 § — 3 kap. 6 §"
+      },
+      {
+        "newParagraf": "K3P7",
+        "oldParagraf": "P11",
+        "oldUri": "https://lagen.nu/1980:620#P11",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "11 § första och andra styckena — 3 kap. 7 §"
+      },
+      {
+        "newParagraf": "K5P9",
+        "oldParagraf": "P11",
+        "oldUri": "https://lagen.nu/1980:620#P11",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "11 § tredje stycket — 5 kap. 9 §"
+      },
+      {
+        "newParagraf": "K5P1",
+        "oldParagraf": "P12",
+        "oldUri": "https://lagen.nu/1980:620#P12",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "12 § — 5 kap. 1 §"
+      },
+      {
+        "newParagraf": "K5P3",
+        "oldParagraf": "P12a",
+        "oldUri": "https://lagen.nu/1980:620#P12a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "12 a § 13–18 a §§ upphävda — 5 kap. 3 §"
+      },
+      {
+        "newParagraf": "K5P4",
+        "oldParagraf": "P19",
+        "oldUri": "https://lagen.nu/1980:620#P19",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "19 § — 5 kap. 4 §"
+      },
+      {
+        "newParagraf": "K5P5",
+        "oldParagraf": "P20",
+        "oldUri": "https://lagen.nu/1980:620#P20",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "20 § — 5 kap. 5 §"
+      },
+      {
+        "newParagraf": "K5P6",
+        "oldParagraf": "P20a",
+        "oldUri": "https://lagen.nu/1980:620#P20a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "20 a § — 5 kap. 6 §"
+      },
+      {
+        "newParagraf": "K5P7",
+        "oldParagraf": "P21",
+        "oldUri": "https://lagen.nu/1980:620#P21",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "21 § — 5 kap. 7 §"
+      },
+      {
+        "newParagraf": "K5P8",
+        "oldParagraf": "P21a",
+        "oldUri": "https://lagen.nu/1980:620#P21a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "21 a § — 5 kap. 8 §"
+      },
+      {
+        "newParagraf": "K6P1",
+        "oldParagraf": "P22",
+        "oldUri": "https://lagen.nu/1980:620#P22",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "22 § första – tredje styckena — 6 kap. 1 §"
+      },
+      {
+        "newParagraf": "K6P5",
+        "oldParagraf": "P22",
+        "oldUri": "https://lagen.nu/1980:620#P22",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "22 § fjärde stycket — 6 kap. 5 §"
+      },
+      {
+        "newParagraf": "K6P2",
+        "oldParagraf": "P23",
+        "oldUri": "https://lagen.nu/1980:620#P23",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "23 § — 6 kap. 2 §"
+      },
+      {
+        "newParagraf": "K6P3",
+        "oldParagraf": "P23a",
+        "oldUri": "https://lagen.nu/1980:620#P23a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "23 a § — 6 kap. 3 §"
+      },
+      {
+        "newParagraf": "K6P4",
+        "oldParagraf": "P24",
+        "oldUri": "https://lagen.nu/1980:620#P24",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "24 § — 6 kap. 4 §"
+      },
+      {
+        "newParagraf": "K6P6",
+        "oldParagraf": "P25",
+        "oldUri": "https://lagen.nu/1980:620#P25",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "25 § första och andra styckena — 6 kap. 6 §"
+      },
+      {
+        "newParagraf": "K6P12",
+        "oldParagraf": "P25",
+        "oldUri": "https://lagen.nu/1980:620#P25",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "25 § tredje stycket — 6 kap. 12 §"
+      },
+      {
+        "newParagraf": "K6P13",
+        "oldParagraf": "P25",
+        "oldUri": "https://lagen.nu/1980:620#P25",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "25 § fjärde stycket — 6 kap. 13 §"
+      },
+      {
+        "newParagraf": "K6P14",
+        "oldParagraf": "P25",
+        "oldUri": "https://lagen.nu/1980:620#P25",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "25 § femte stycket — 6 kap. 14 §"
+      },
+      {
+        "newParagraf": "K6P7",
+        "oldParagraf": "P26",
+        "oldUri": "https://lagen.nu/1980:620#P26",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "26 § — 6 kap. 7 §"
+      },
+      {
+        "newParagraf": "K5P2",
+        "oldParagraf": "P27",
+        "oldUri": "https://lagen.nu/1980:620#P27",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "27 § — 5 kap. 2 §"
+      },
+      {
+        "newParagraf": "K6P8",
+        "oldParagraf": "P28",
+        "oldUri": "https://lagen.nu/1980:620#P28",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "28 § — 6 kap. 8 §"
+      },
+      {
+        "newParagraf": "K6P9",
+        "oldParagraf": "P30",
+        "oldUri": "https://lagen.nu/1980:620#P30",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "30 § första stycket och tredje stycket första meningen — 6 kap. 9 §"
+      },
+      {
+        "newParagraf": "K6P15",
+        "oldParagraf": "P30",
+        "oldUri": "https://lagen.nu/1980:620#P30",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "30 § andra stycket och tredje stycket andra meningen — 6 kap. 15 §"
+      },
+      {
+        "newParagraf": "K6P10",
+        "oldParagraf": "P31",
+        "oldUri": "https://lagen.nu/1980:620#P31",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "31 § första stycket — 6 kap. 10 §"
+      },
+      {
+        "newParagraf": "K6P16",
+        "oldParagraf": "P31",
+        "oldUri": "https://lagen.nu/1980:620#P31",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "31 § andra stycket — 6 kap. 16 §"
+      },
+      {
+        "newParagraf": "K9P2",
+        "oldParagraf": "P33",
+        "oldUri": "https://lagen.nu/1980:620#P33",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "33 § — 9 kap. 2 §"
+      },
+      {
+        "newParagraf": "K9P1",
+        "oldParagraf": "P33a",
+        "oldUri": "https://lagen.nu/1980:620#P33a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "33 a § — 9 kap. 1 §"
+      },
+      {
+        "newParagraf": "K8P1",
+        "oldParagraf": "P34",
+        "oldUri": "https://lagen.nu/1980:620#P34",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "34 § — 8 kap. 1 §"
+      },
+      {
+        "newParagraf": "K8P2",
+        "oldParagraf": "P35",
+        "oldUri": "https://lagen.nu/1980:620#P35",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "35 § — 8 kap. 2 §"
+      },
+      {
+        "newParagraf": "K9P3",
+        "oldParagraf": "P36",
+        "oldUri": "https://lagen.nu/1980:620#P36",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "36 § — 9 kap. 3 §"
+      },
+      {
+        "newParagraf": "K9P4",
+        "oldParagraf": "P37",
+        "oldUri": "https://lagen.nu/1980:620#P37",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "37 § — 9 kap. 4 §"
+      },
+      {
+        "newParagraf": "K10P1",
+        "oldParagraf": "P38",
+        "oldUri": "https://lagen.nu/1980:620#P38",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "38 § — 10 kap. 1 §"
+      },
+      {
+        "newParagraf": "K10P2",
+        "oldParagraf": "P39",
+        "oldUri": "https://lagen.nu/1980:620#P39",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "39 § — 10 kap. 2 §"
+      },
+      {
+        "newParagraf": "K10P3",
+        "oldParagraf": "P40",
+        "oldUri": "https://lagen.nu/1980:620#P40",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "40 § 41–46 §§ upphävda — 10 kap. 3 §"
+      },
+      {
+        "newParagraf": "K10P4",
+        "oldParagraf": "P47",
+        "oldUri": "https://lagen.nu/1980:620#P47",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "47 § — 10 kap. 4 §"
+      },
+      {
+        "newParagraf": "K10P5",
+        "oldParagraf": "P48",
+        "oldUri": "https://lagen.nu/1980:620#P48",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "48 § — 10 kap. 5 §"
+      },
+      {
+        "newParagraf": "K10P6",
+        "oldParagraf": "P49",
+        "oldUri": "https://lagen.nu/1980:620#P49",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "49 § — 10 kap. 6 §"
+      },
+      {
+        "newParagraf": "K11P1",
+        "oldParagraf": "P50",
+        "oldUri": "https://lagen.nu/1980:620#P50",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "50 § — 11 kap. 1 §"
+      },
+      {
+        "newParagraf": "K11P2",
+        "oldParagraf": "P50a",
+        "oldUri": "https://lagen.nu/1980:620#P50a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "50 a § — 11 kap. 2 §"
+      },
+      {
+        "newParagraf": "K11P4",
+        "oldParagraf": "P50b",
+        "oldUri": "https://lagen.nu/1980:620#P50b",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "50 b § — 11 kap. 4 §"
+      },
+      {
+        "newParagraf": "K11P5",
+        "oldParagraf": "P51",
+        "oldUri": "https://lagen.nu/1980:620#P51",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "51 § — 11 kap. 5 §"
+      },
+      {
+        "newParagraf": "K11P6",
+        "oldParagraf": "P52",
+        "oldUri": "https://lagen.nu/1980:620#P52",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "52 § — 11 kap. 6 §"
+      },
+      {
+        "newParagraf": "K11P7",
+        "oldParagraf": "P53",
+        "oldUri": "https://lagen.nu/1980:620#P53",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "53 § — 11 kap. 7 §"
+      },
+      {
+        "newParagraf": "K11P8",
+        "oldParagraf": "P54",
+        "oldUri": "https://lagen.nu/1980:620#P54",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "54 § — 11 kap. 8 §"
+      },
+      {
+        "newParagraf": "K11P9",
+        "oldParagraf": "P55",
+        "oldUri": "https://lagen.nu/1980:620#P55",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "55 § — 11 kap. 9 §"
+      },
+      {
+        "newParagraf": "K11P10",
+        "oldParagraf": "P56",
+        "oldUri": "https://lagen.nu/1980:620#P56",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "56 § — 11 kap. 10 §"
+      },
+      {
+        "newParagraf": "K11P11",
+        "oldParagraf": "P57",
+        "oldUri": "https://lagen.nu/1980:620#P57",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "57 § — 11 kap. 11 §"
+      },
+      {
+        "newParagraf": "K11P12",
+        "oldParagraf": "P58",
+        "oldUri": "https://lagen.nu/1980:620#P58",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "58 § — 11 kap. 12 §"
+      },
+      {
+        "newParagraf": "K12P1",
+        "oldParagraf": "P59",
+        "oldUri": "https://lagen.nu/1980:620#P59",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "59 § — 12 kap. 1 §"
+      },
+      {
+        "newParagraf": "K12P2",
+        "oldParagraf": "P60",
+        "oldUri": "https://lagen.nu/1980:620#P60",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "60 § — 12 kap. 2 §"
+      },
+      {
+        "newParagraf": "K12P5",
+        "oldParagraf": "P63",
+        "oldUri": "https://lagen.nu/1980:620#P63",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "63 § — 12 kap. 5 §"
+      },
+      {
+        "newParagraf": "K12P6",
+        "oldParagraf": "P64",
+        "oldUri": "https://lagen.nu/1980:620#P64",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "64 § — 12 kap. 6 §"
+      },
+      {
+        "newParagraf": "K12P7",
+        "oldParagraf": "P65",
+        "oldUri": "https://lagen.nu/1980:620#P65",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "65 § — 12 kap. 7 §"
+      },
+      {
+        "newParagraf": "K12P8",
+        "oldParagraf": "P65a",
+        "oldUri": "https://lagen.nu/1980:620#P65a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "65 a § — 12 kap. 8 §"
+      },
+      {
+        "newParagraf": "K12P9",
+        "oldParagraf": "P65b",
+        "oldUri": "https://lagen.nu/1980:620#P65b",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "65 b § — 12 kap. 9 §"
+      },
+      {
+        "newParagraf": "K12P10",
+        "oldParagraf": "P66",
+        "oldUri": "https://lagen.nu/1980:620#P66",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "66 § — 12 kap. 10 §"
+      },
+      {
+        "newParagraf": "K13P1",
+        "oldParagraf": "P67",
+        "oldUri": "https://lagen.nu/1980:620#P67",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "67 § — 13 kap. 1 §"
+      },
+      {
+        "newParagraf": "K13P2",
+        "oldParagraf": "P68",
+        "oldUri": "https://lagen.nu/1980:620#P68",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "68 § — 13 kap. 2 §"
+      },
+      {
+        "newParagraf": "K13P7",
+        "oldParagraf": "P68a",
+        "oldUri": "https://lagen.nu/1980:620#P68a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "68 a § — 13 kap. 7 §"
+      },
+      {
+        "newParagraf": "K7P1",
+        "oldParagraf": "P69",
+        "oldUri": "https://lagen.nu/1980:620#P69",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "69 § — 7 kap. 1 §"
+      },
+      {
+        "newParagraf": "K7P2",
+        "oldParagraf": "P69a",
+        "oldUri": "https://lagen.nu/1980:620#P69a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "69 a § — 7 kap. 2 §"
+      },
+      {
+        "newParagraf": "K13P3",
+        "oldParagraf": "P69b",
+        "oldUri": "https://lagen.nu/1980:620#P69b",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "69 b § första stycket — 13 kap. 3 §"
+      },
+      {
+        "newParagraf": "K13P4",
+        "oldParagraf": "P69b",
+        "oldUri": "https://lagen.nu/1980:620#P69b",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "69 b § andra stycket — 13 kap. 4 §"
+      },
+      {
+        "newParagraf": "K13P5",
+        "oldParagraf": "P69c",
+        "oldUri": "https://lagen.nu/1980:620#P69c",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "69 c § — 13 kap. 5 §"
+      },
+      {
+        "newParagraf": "K13P6",
+        "oldParagraf": "P70",
+        "oldUri": "https://lagen.nu/1980:620#P70",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "70 § — 13 kap. 6 §"
+      },
+      {
+        "newParagraf": "K7P3",
+        "oldParagraf": "P70a",
+        "oldUri": "https://lagen.nu/1980:620#P70a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "70 a § — 7 kap. 3 §"
+      },
+      {
+        "newParagraf": "K7P4",
+        "oldParagraf": "P70b",
+        "oldUri": "https://lagen.nu/1980:620#P70b",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "70 b § — 7 kap. 4 §"
+      },
+      {
+        "newParagraf": "K7P5",
+        "oldParagraf": "P70c",
+        "oldUri": "https://lagen.nu/1980:620#P70c",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "70 c § — 7 kap. 5 §"
+      },
+      {
+        "newParagraf": "K14P1",
+        "oldParagraf": "P71",
+        "oldUri": "https://lagen.nu/1980:620#P71",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "71 § — 14 kap. 1 §"
+      },
+      {
+        "newParagraf": "K14P2",
+        "oldParagraf": "P71a",
+        "oldUri": "https://lagen.nu/1980:620#P71a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "71 a § — 14 kap. 2 §"
+      },
+      {
+        "newParagraf": "K15P1",
+        "oldParagraf": "P71b",
+        "oldUri": "https://lagen.nu/1980:620#P71b",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "71 b § — 15 kap. 1 §"
+      },
+      {
+        "newParagraf": "K15P2",
+        "oldParagraf": "P71c",
+        "oldUri": "https://lagen.nu/1980:620#P71c",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "71 c § — 15 kap. 2 §"
+      },
+      {
+        "newParagraf": "K6P11",
+        "oldParagraf": "P72b",
+        "oldUri": "https://lagen.nu/1980:620#P72b",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "72 b § — 6 kap. 11 §"
+      },
+      {
+        "newParagraf": "K16P3",
+        "oldParagraf": "P73",
+        "oldUri": "https://lagen.nu/1980:620#P73",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "73 § — 16 kap. 3 §"
+      },
+      {
+        "newParagraf": "K16P4",
+        "oldParagraf": "P74",
+        "oldUri": "https://lagen.nu/1980:620#P74",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "74 § — 16 kap. 4 §"
+      },
+      {
+        "newParagraf": "K16P5",
+        "oldParagraf": "P74a",
+        "oldUri": "https://lagen.nu/1980:620#P74a",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "74 a § — 16 kap. 5 §"
+      },
+      {
+        "newParagraf": "K16P6",
+        "oldParagraf": "P75",
+        "oldUri": "https://lagen.nu/1980:620#P75",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "75 § — 16 kap. 6 §"
+      },
+      {
+        "newParagraf": "K16P8",
+        "oldParagraf": "P77",
+        "oldUri": "https://lagen.nu/1980:620#P77",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "77 § — 16 kap. 8 §"
+      },
+      {
+        "newParagraf": "K16P9",
+        "oldParagraf": "P78",
+        "oldUri": "https://lagen.nu/1980:620#P78",
+        "relation": "motsvarar",
+        "scope": "helt",
+        "quote": "78 § — 16 kap. 9 §"
+      }
+    ]
+  }
+}
