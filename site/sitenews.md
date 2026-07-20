@@ -1,6 +1,9 @@
 ---
 title: Nyheter om lagen.nu
 ---
+## 2026-07-20 16:28:00 Ny testversion tillgänglig
+
+Efter några års tystnad har arbetet återupptagits under sommarlovet. På https://ferenda.lagen.nu/ finns nu en ny version av tjänsten, nu med EU-rätt och många andra nya källor.
 
 ## 2020-09-17 23:00:00 Lagen.nu får stöd av föreningen Lysator
 
