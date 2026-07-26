@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2019-20-80": "925edd616b99caeb601347c5706ccb47d0307ae3fa9b228dbae8291f38841237",
+      "artifact:eurlex/32014L0049": "e3e0e4f6d17d5b16e40b06065a6b45ec9ba0234abf74c5dd06e13b875d2b7c51"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32014L0049"
+    ],
+    "proposition": "https://lagen.nu/prop/2019/20:80",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0049",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0049#6"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i lagen (1995:1571) om insättningsgaranti",
+        "chapter": null,
+        "paragraf": "4",
+        "sentence": "Det innebär att Riksgäldskontoret kan anpassa det högsta ersättningsbeloppet till motsvarande belopp i insättningsgarantidirektivet (100 000 euro) på grund av den omräkning av det högsta ersättningsbeloppet som ska göras åtminstone vart femte år (artikel 6).",
+        "page": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2022-23-59": "6e06f8a8079853a18960ca8c01adc83fbe20389c07d89f6dc9c4e98195c8adde",
+      "artifact:eurlex/32018L2001": "ad637361bd9b7daaee69bc05782630b08372c039ea561ef5b7f32edf37468e26",
+      "artifact:eurlex/32019L0944": "ab8f3e415ff78f6df29effc3a00fb2535c67d8c4131afbb32657983ce783be5b"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32018L2001",
+      "https://lagen.nu/ext/celex/32019L0944"
+    ],
+    "proposition": "https://lagen.nu/prop/2022/23:59",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.1",
+          "18.3",
+          "18.4",
+          "18.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#18"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "4",
+        "paragraf": "43",
+        "sentence": "Paragrafen är en del av genomförandet av artikel 18.1, 18.3, 18.4 och 18.6 och bilaga I i elmarknadsdirektivet när det gäller nätföretag.",
+        "page": 78
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#17"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "8",
+        "paragraf": "18",
+        "sentence": "Paragrafen genomför artikel 17.4 femte meningen i elmarknadsdirektivet.",
+        "page": 85
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.1",
+          "12.2",
+          "12.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#12"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 12.1, 12.2 och 12.4 i elmarknadsdirektivet.",
+        "page": 95
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#12"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "12",
+        "sentence": "Regleringen är ny och genomför artikel 12.3 i elmarknadsdirektivet.",
+        "page": 95
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.12"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#10"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "13",
+        "sentence": "Den genomför artikel 10.12 i elmarknadsdirektivet.",
+        "page": 96
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.2",
+          "11.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#11"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "17",
+        "sentence": "Regleringen är ny och genomför artikel 11.2 och 11.3 i elmarknadsdirektivet.",
+        "page": 97
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#11"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "18",
+        "sentence": "Regleringen är ny och genomför artikel 11.1 i elmarknadsdirektivet.",
+        "page": 98
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#10"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "19",
+        "sentence": "Ändringen genomför artikel 10.9 i elmarknadsdirektivet.",
+        "page": 98
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.3",
+          "10.5",
+          "10.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#10"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "21",
+        "sentence": "Ändringarna genomför artikel 10.3, 10.5 och 10.8 i elmarknadsdirektivet.",
+        "page": 99
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#10"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "22",
+        "sentence": "Regleringen är ny och genomför artikel 10.3 sista stycket i elmarknadsdirektivet.",
+        "page": 100
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#10"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "23",
+        "sentence": "Ändringarna är en del av genomförandet av artikel 10.4 i elmarknadsdirektivet.",
+        "page": 101
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#18"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "24",
+        "sentence": "Paragrafen genomför artikel 18 och bilaga I i elmarknadsdirektivet.",
+        "page": 101
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.1",
+          "18.3",
+          "18.4",
+          "18.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#18"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "25",
+        "sentence": "Paragrafen är en del av genomförandet av artikel 18.1, 18.3, 18.4 och 18.6 och bilaga I i elmarknadsdirektivet när det gäller elleverantörer.",
+        "page": 102
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#10"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "29",
+        "sentence": "Ändringarna genomför artikel 10.6 i elmarknadsdirektivet.",
+        "page": 103
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#17"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "30",
+        "sentence": "Regleringen är ny och genomför artikel 17.3 a i elmarknadsdirektivet.",
+        "page": 104
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13.1",
+          "13.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#13"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "31",
+        "sentence": "Regleringen är ny och genomför artikel 13.1 och 13.2 första stycket i elmarknadsdirektivet.",
+        "page": 104
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.3 e"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#17"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "33",
+        "sentence": "Regleringen är ny och genomför artikel 17.3 e i elmarknadsdirektivet.",
+        "page": 105
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "12",
+          "13",
+          "17"
+        ],
+        "pinpoints": [
+          "12.1",
+          "12.2",
+          "12.4",
+          "13.2",
+          "13.3",
+          "13.4",
+          "17.3 e"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#12",
+          "https://lagen.nu/ext/celex/32019L0944#13",
+          "https://lagen.nu/ext/celex/32019L0944#17"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "9",
+        "paragraf": "34",
+        "sentence": "Regleringen är ny och genomför artikel 12.1, 12.2 och 12.4, artikel 13.2 andra stycket, 13.3 och 13.4 och artikel 17.3 e i elmarknadsdirektivet.",
+        "page": 105
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.11"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#10"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "11",
+        "paragraf": "3",
+        "sentence": "Paragrafen ändras som en del av genomförandet av artikel 10.11 i elmarknadsdirektivet.",
+        "page": 106
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.11"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#10"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "11",
+        "paragraf": "4",
+        "sentence": "Paragrafen ändras som en del av genomförandet av artikel 10.11 i elmarknadsdirektivet.",
+        "page": 107
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#12"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "12",
+        "paragraf": "1",
+        "sentence": "Paragrafen är en del av genomförandet av artikel 12.3 i elmarknadsdirektivet.",
+        "page": 109
+      }
+    ]
+  }
+}

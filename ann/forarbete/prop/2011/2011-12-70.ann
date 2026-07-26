@@ -1,0 +1,843 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2011-12-70": "0d94c8b0c9e708f1d6270cb68fe33fc9b2f981cacf0443bad4796aa8bbe5936b",
+      "artifact:eurlex/31998L0026": "dde2f8d6b919e844eef01f8223a0ad66d7d0a44db473c25105b6a73c33c1d769",
+      "artifact:eurlex/32002L0087": "8ace4292fb2d39990c75f4e02396fc20b461ce810d83eff4eebd02380eec0812",
+      "artifact:eurlex/32004L0109": "3cc5c80ea404ebd9c7a3b9888f7d8e6f254a29633a20c19333081376b0c62faa",
+      "artifact:eurlex/32009L0065": "9a1032db65fc4d428deecbdad6be4b6703a12a247788c50fc315ef381a7e551e",
+      "artifact:eurlex/32010L0078": "f8518d92739acff611efd1dd1de475cd8944d864039f35f59fd90f6436909954"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31998L0026",
+      "https://lagen.nu/ext/celex/32002L0087",
+      "https://lagen.nu/ext/celex/32004L0109",
+      "https://lagen.nu/ext/celex/32009L0065",
+      "https://lagen.nu/ext/celex/32010L0078"
+    ],
+    "proposition": "https://lagen.nu/prop/2011/12:70",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.5 a",
+          "5.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#5"
+        ],
+        "partial": false,
+        "law": "7.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "26",
+        "sentence": "Ändringen innebär att artikel 5.5 a och 5.6 i omnibusdirektivet genomförs.",
+        "page": 78
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.5 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#5"
+        ],
+        "partial": false,
+        "law": "7.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "27",
+        "sentence": "Ändringen innebär att artikel 5.5 b i omnibusdirektivet genomförs.",
+        "page": 78
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.5 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#5"
+        ],
+        "partial": false,
+        "law": "7.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "34",
+        "sentence": "Den genomför artikel 5.5 a i omnibusdirektivet.",
+        "page": 78
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#5"
+        ],
+        "partial": false,
+        "law": "7.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "35",
+        "sentence": "Den genomför artikel 5.9 i omnibusdirektivet.",
+        "page": 79
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#5"
+        ],
+        "partial": false,
+        "law": "7.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "36",
+        "sentence": "Ändringen genomför artikel 5.9 i omnibusdirektivet.",
+        "page": 79
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.12 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#7"
+        ],
+        "partial": false,
+        "law": "7.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "4",
+        "paragraf": "23",
+        "sentence": "Den genomför artikel 7.12 a i omnibusdirektivet.",
+        "page": 79
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.12 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#7"
+        ],
+        "partial": false,
+        "law": "7.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "4",
+        "paragraf": "24",
+        "sentence": "Den genomför artikel 7.12 a i omnibusdirektivet.",
+        "page": 79
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.12"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#5"
+        ],
+        "partial": false,
+        "law": "7.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "6",
+        "paragraf": "1 e",
+        "sentence": "Den genomför artikel 5.12 i omnibusdirektivet.",
+        "page": 79
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.15"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#7"
+        ],
+        "partial": false,
+        "law": "7.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "6",
+        "paragraf": "1 h",
+        "sentence": "Den genomför artikel 7.15 i omnibusdirektivet.",
+        "page": 80
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "5",
+          "7"
+        ],
+        "pinpoints": [
+          "5.10 a",
+          "7.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#5",
+          "https://lagen.nu/ext/celex/32010L0078#7"
+        ],
+        "partial": false,
+        "law": "7.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "6",
+        "paragraf": "5",
+        "sentence": "Den genomför artiklarna 5.10 a och 7.14 i omnibusdirektivet.",
+        "page": 80
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "5",
+          "7"
+        ],
+        "pinpoints": [
+          "5.11 a",
+          "7.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#5",
+          "https://lagen.nu/ext/celex/32010L0078#7"
+        ],
+        "partial": false,
+        "law": "7.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "6",
+        "paragraf": "5 a",
+        "sentence": "Ändringarna innebär att artiklarna 5.11 a och 7.14 i omnibusdirektivet genomförs.",
+        "page": 80
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#1"
+        ],
+        "partial": false,
+        "law": "7.2 Förslaget till lag om ändring i lagen (1999:1309) om system för avveckling av förpliktelser på finansmarknaden",
+        "chapter": null,
+        "paragraf": "9",
+        "sentence": "Ändringen innebär att artikel 1.2 i omnibusdirektivet genomförs.",
+        "page": 80
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#1"
+        ],
+        "partial": false,
+        "law": "7.2 Förslaget till lag om ändring i lagen (1999:1309) om system för avveckling av förpliktelser på finansmarknaden",
+        "chapter": null,
+        "paragraf": "11",
+        "sentence": "Ändringen innebär att artikel 1.1 i omnibusdirektivet genomförs.",
+        "page": 81
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#1"
+        ],
+        "partial": false,
+        "law": "7.2 Förslaget till lag om ändring i lagen (1999:1309) om system för avveckling av förpliktelser på finansmarknaden",
+        "chapter": null,
+        "paragraf": "16",
+        "sfs": "S2",
+        "sentence": "Den innebär att artikel 1.2 i omnibusdirektivet genomförs.",
+        "page": 81
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.33"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#11"
+        ],
+        "partial": false,
+        "law": "7.3 Förslaget till lag om ändring i lagen (2004:46) om investeringsfonder",
+        "chapter": "10",
+        "paragraf": "5",
+        "sentence": "Den genomför artikel 11.33 i omnibusdirektivet.",
+        "page": 81
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.11 a",
+          "11.32 b",
+          "11.36"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#11"
+        ],
+        "partial": false,
+        "law": "7.3 Förslaget till lag om ändring i lagen (2004:46) om investeringsfonder",
+        "chapter": "10",
+        "paragraf": "5 a",
+        "sentence": "Ändringen innebär att artiklarna 11.11 a, 11.32 b och 11.36 i omnibusdirektivet genomförs.",
+        "page": 81
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.11 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#11"
+        ],
+        "partial": false,
+        "law": "7.3 Förslaget till lag om ändring i lagen (2004:46) om investeringsfonder",
+        "chapter": "12",
+        "paragraf": "15",
+        "sentence": "Ändringen innebär att artikel 11.11 b i omnibusdirektivet genomförs.",
+        "page": 82
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.36"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#11"
+        ],
+        "partial": false,
+        "law": "7.3 Förslaget till lag om ändring i lagen (2004:46) om investeringsfonder",
+        "chapter": "12",
+        "paragraf": "17 a",
+        "sentence": "Ändringen innebär att artikel 11.36 i omnibusdirektivet genomförs.",
+        "page": 82
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.17",
+          "9.18",
+          "9.35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#9"
+        ],
+        "partial": false,
+        "law": "7.4 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+        "chapter": "13",
+        "paragraf": "6 a",
+        "sentence": "Den genomför artiklarna 9.17, 9.18 och 9.35 i omnibusdirektivet.",
+        "page": 82
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.14",
+          "9.32",
+          "9.36"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#9"
+        ],
+        "partial": false,
+        "law": "7.4 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+        "chapter": "13",
+        "paragraf": "6 b",
+        "sentence": "Ändringen innebär att artiklarna 9.14, 9.32 och 9.36 i omnibusdirektivet genomförs.",
+        "page": 82
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#3"
+        ],
+        "partial": false,
+        "law": "7.5 Förslaget till lag om ändring i lagen (2005:377) om straff för marknadsmissbruk vid handel med finansiella instrument.",
+        "chapter": null,
+        "paragraf": "17",
+        "sentence": "Den genomför artikel 3.4 i omnibusdirektivet.",
+        "page": 83
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.6 a",
+          "3.6 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#3"
+        ],
+        "partial": false,
+        "law": "7.5 Förslaget till lag om ändring i lagen (2005:377) om straff för marknadsmissbruk vid handel med finansiella instrument.",
+        "chapter": null,
+        "paragraf": "17 b",
+        "sentence": "Ändringen innebär att artiklarna 3.6 a och 3.6 b i omnibusdirektivet genomförs.",
+        "page": 83
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#2"
+        ],
+        "partial": false,
+        "law": "7.6 Förslaget till lag om ändring i lagen (2006:531) om särskild tillsyn över finansiella konglomerat",
+        "chapter": "4",
+        "paragraf": "5",
+        "sentence": "Ändringen innebär att artikel 2.1 a i omnibusdirektivet genomförs.",
+        "page": 83
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.7",
+          "2.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#2"
+        ],
+        "partial": false,
+        "law": "7.6 Förslaget till lag om ändring i lagen (2006:531) om särskild tillsyn över finansiella konglomerat",
+        "chapter": "6",
+        "paragraf": "5",
+        "sentence": "Den genomför artiklarna 2.7 och 2.9 i omnibusdirektivet.",
+        "page": 83
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#18"
+        ],
+        "partial": false,
+        "law": "7.6 Förslaget till lag om ändring i lagen (2006:531) om särskild tillsyn över finansiella konglomerat",
+        "chapter": "6",
+        "paragraf": "5 a",
+        "sentence": "Den ger Finansinspektionen möjlighet att hänskjuta frågor som rör ett förfarande av en annan behörig myndighet inom EES till respektive europeisk tillsynsmyndighet för tvistlösning i de fall som framgår av artikel 18.1a i konglomeratdirektivet.",
+        "page": 84
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.11 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#2"
+        ],
+        "partial": false,
+        "law": "7.6 Förslaget till lag om ändring i lagen (2006:531) om särskild tillsyn över finansiella konglomerat",
+        "chapter": "6",
+        "paragraf": "5 a",
+        "sentence": "Ändringen innebär att artikel 2.11 b i omnibusdirektivet genomförs.",
+        "page": 84
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#18"
+        ],
+        "partial": false,
+        "law": "7.6 Förslaget till lag om ändring i lagen (2006:531) om särskild tillsyn över finansiella konglomerat",
+        "chapter": "8",
+        "paragraf": "2",
+        "sentence": "Bestämmelsen bygger på artikel 18 i konglomeratdirektivet.",
+        "page": 84
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.15 a",
+          "9.32"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#9"
+        ],
+        "partial": false,
+        "law": "7.7 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "6",
+        "sentence": "Ändringen innebär att artiklarna 9.15 a och 9.32 i omnibusdirektivet genomförs.",
+        "page": 84
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.15 a",
+          "9.32"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#9"
+        ],
+        "partial": false,
+        "law": "7.7 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "6 b",
+        "sentence": "Ändringen innebär att artiklarna 9.15 a och 9.32 i omnibusdirektivet genomförs.",
+        "page": 84
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.17",
+          "9.33",
+          "9.35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#9"
+        ],
+        "partial": false,
+        "law": "7.7 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "9",
+        "sentence": "Den genomför artiklarna 9.17, 9.33 och 9.35 i omnibusdirektivet.",
+        "page": 85
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.14",
+          "9.32",
+          "9.36"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#9"
+        ],
+        "partial": false,
+        "law": "7.7 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "9 a",
+        "sentence": "Ändringen innebär att artiklarna 9.14, 9.32 och 9.36 i omnibusdirektivet genomförs.",
+        "page": 85
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.38"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#9"
+        ],
+        "partial": false,
+        "law": "7.7 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "11",
+        "paragraf": "2",
+        "sfs": "S2",
+        "sentence": "Ändringen genomför artikel 9.38 i omnibusdirektivet.",
+        "page": 85
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.38"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#9"
+        ],
+        "partial": false,
+        "law": "7.7 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "11",
+        "paragraf": "3",
+        "sfs": "S3",
+        "sentence": "Ändringen genomför artikel 9.38 i omnibusdirektivet.",
+        "page": 85
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.12 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#7"
+        ],
+        "partial": false,
+        "law": "7.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "18",
+        "paragraf": "8",
+        "sentence": "Den genomför artikel 7.12 a i omnibusdirektivet.",
+        "page": 86
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.12 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#7"
+        ],
+        "partial": false,
+        "law": "7.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "18",
+        "paragraf": "9",
+        "sentence": "Den genomför artikel 7.12 a i omnibusdirektivet.",
+        "page": 86
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#6"
+        ],
+        "partial": false,
+        "law": "7.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "22",
+        "paragraf": "8",
+        "sentence": "Den innebär att artikel 6.14 i omnibusdirektivet genomförs.",
+        "page": 86
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "6",
+          "7"
+        ],
+        "pinpoints": [
+          "6.18",
+          "6.19",
+          "6.21 a",
+          "6.23 b",
+          "6.25",
+          "7.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#6",
+          "https://lagen.nu/ext/celex/32010L0078#7"
+        ],
+        "partial": false,
+        "law": "7.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "23",
+        "paragraf": "5",
+        "sentence": "Den genomför artiklarna 6.18, 6.19, 6.21 a och b, 6.23 b, 6.25 samt 7.14 i omnibusdirektivet.",
+        "page": 86
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "6",
+          "7"
+        ],
+        "pinpoints": [
+          "6.24",
+          "6.27",
+          "7.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#6",
+          "https://lagen.nu/ext/celex/32010L0078#7"
+        ],
+        "partial": false,
+        "law": "7.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "23",
+        "paragraf": "5 a",
+        "sentence": "Ändringen innebär att artiklarna 6.24, 6.27 och 7.14 i omnibusdirektivet genomförs.",
+        "page": 87
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.3",
+          "6.13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#6"
+        ],
+        "partial": false,
+        "law": "7.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "25",
+        "paragraf": "5",
+        "sfs": "S5",
+        "sentence": "Den innebär att artiklarna 6.3 och 6.13 i omnibusdirektivet genomförs.",
+        "page": 87
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.15"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#7"
+        ],
+        "partial": false,
+        "law": "7.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "25",
+        "paragraf": "24",
+        "sentence": "Ändringen innebär att artikel 7.15 i omnibusdirektivet genomförs.",
+        "page": 87
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0078",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0078#4"
+        ],
+        "partial": false,
+        "law": "7.9 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "16",
+        "paragraf": "12",
+        "sentence": "Ändringarna innebär att artikel 4.3 i omnibusdirektivet genomförs.",
+        "page": 88
+      }
+    ]
+  }
+}

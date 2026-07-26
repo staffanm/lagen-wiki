@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2013-14-81": "9921807d275eba11617084b4cf998d88d53c0bd8f84567429b4e676bfb193b5b",
+      "artifact:eurlex/32004L0038": "96279c9c2d821b667a4267296d05a36b4f23e156ad653b9715f763704de834ce",
+      "artifact:eurlex/32011L0051": "9bb26d81309b15280d32b41c4e88abfca6037a63a1228c9bdd834df2b60602d1"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32004L0038",
+      "https://lagen.nu/ext/celex/32011L0051"
+    ],
+    "proposition": "https://lagen.nu/prop/2013/14:81",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0038",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.2 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0038#3"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "3 a",
+        "paragraf": "2",
+        "sentence": "Tillägget motsvarar de familjemedlemmar som anges i artikel 3.2 a i rörlighetsdirektivet.",
+        "page": 41
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2018-19-7": "dd3f168cfab17a47d9552ae5135ebd0eb0089dcd873f221ea365e68d9af17331",
+      "artifact:eurlex/32009L0138": "748d030e8e9ed294f3de3f3abdb4bff094e8cd1c86ddd090c2bf691e88003791"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0138"
+    ],
+    "proposition": "https://lagen.nu/prop/2018/19:7",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "77",
+          "3"
+        ],
+        "pinpoints": [
+          "77 d",
+          "77 e",
+          "3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#77",
+          "https://lagen.nu/ext/celex/32009L0138#3"
+        ],
+        "partial": false,
+        "law": "9.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "5",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artiklarna 77d och 77e.3 i Solvens II-direktivet och innehåller bestämmelser om beräkning av försäkringstekniska avsättningar.",
+        "page": 30
+      }
+    ]
+  }
+}

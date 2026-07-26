@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2025-26-3": "f73961d8db8b6d50da564ce8261e4eda2c0ad218e0e5dcfac187a468f0e3859d",
+      "artifact:eurlex/32011L0064": "6df78febcf142b5261d61bc856ccddba20ba38b811e7c6e830a8e825a1c61552",
+      "artifact:eurlex/32020L0262": "f02c6852c8f7822393658f77490d0ad756092465aa98b1d44c2a50f552e019e0"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32011L0064",
+      "https://lagen.nu/ext/celex/32020L0262"
+    ],
+    "proposition": "https://lagen.nu/prop/2025/26:3",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.1 e",
+          "11.1 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#11"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 a",
+        "paragraf": "2",
+        "sentence": "De nya punkterna motsvarar artikel 11.1 e och f i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#16"
+        ],
+        "partial": true,
+        "law": "9.1 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 a",
+        "paragraf": "2",
+        "sentence": "Bestämmelserna genomför delvis artikel 16 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#19"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 a",
+        "paragraf": "7",
+        "sentence": "Bestämmelserna genomför artikel 19.1 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#16"
+        ],
+        "partial": true,
+        "law": "9.4 Förslaget till lag om ändring i lagen (2022:155) om tobaksskatt",
+        "chapter": "4",
+        "paragraf": "3",
+        "sentence": "Bestämmelserna genomför delvis artikel 16 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#19"
+        ],
+        "partial": false,
+        "law": "9.4 Förslaget till lag om ändring i lagen (2022:155) om tobaksskatt",
+        "chapter": "4",
+        "paragraf": "9",
+        "sentence": "Bestämmelserna genomför artikel 19.1 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#16"
+        ],
+        "partial": true,
+        "law": "9.5 Förslaget till lag om ändring i lagen (2022:156) om alkoholskatt",
+        "chapter": "4",
+        "paragraf": "3",
+        "sentence": "Bestämmelserna genomför delvis artikel 16 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#19"
+        ],
+        "partial": false,
+        "law": "9.5 Förslaget till lag om ändring i lagen (2022:156) om alkoholskatt",
+        "chapter": "4",
+        "paragraf": "9",
+        "sentence": "Bestämmelserna genomför artikel 19.1 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#20"
+        ],
+        "partial": true,
+        "law": "9.6 Förslaget till lag om ändring i tullbefogenhetslagen (2024:710)",
+        "chapter": "5",
+        "paragraf": "5",
+        "sentence": "Bestämmelsen genomför delvis artikel 20.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#20"
+        ],
+        "partial": true,
+        "law": "9.6 Förslaget till lag om ändring i tullbefogenhetslagen (2024:710)",
+        "chapter": "5",
+        "paragraf": "9",
+        "sentence": "Bestämmelserna genomför delvis artikel 20.5 i nya punktskattedirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

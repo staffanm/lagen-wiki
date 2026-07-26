@@ -1,0 +1,274 @@
+{
+ "meta": {
+  "status": "golden",
+  "model": "claude subagents (opus/sonnet)",
+  "generated": "2026-07-23",
+  "inputs": {
+   "artifact:forarbete/prop/2025-26-159": "2262a03cd055d26370cc23b027c1de44b9dc939fcf243bea947272c0839ec875",
+   "artifact:eurlex/32024L1275": "1134d213aa79a41dadc487c19c7ff7af61a5b78126529ef5790794f4fe5ba3ba"
+  }
+ },
+ "genomforande": {
+  "directives": [
+   "https://lagen.nu/ext/celex/32024L1275"
+  ],
+  "proposition": "https://lagen.nu/prop/2025/26:159",
+  "edges": [
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "2"
+    ],
+    "pinpoints": [
+     "2.5",
+     "2.44",
+     "2.46"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#2"
+    ],
+    "partial": false,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "3",
+    "sentence": "Ändringarna, som genomför artikel 2.5, 2.44 och 2.46 i Europaparlamentets och rådets direktiv (EU) 2024/1275 av den 24 april 2024 om byggnaders energiprestanda (i det följande det omarbetade direktivet), innebär bl.a. att fyra nya uttryck läggs till.",
+    "page": 36
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "20"
+    ],
+    "pinpoints": [
+     "20.1 a"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#20"
+    ],
+    "partial": true,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "4 a",
+    "sentence": "Genom paragrafen genomförs delvis artikel 20.1 a i det omarbetade direktivet.",
+    "page": 38
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "20"
+    ],
+    "pinpoints": [
+     "20.1 b"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#20"
+    ],
+    "partial": false,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "5",
+    "sentence": "Genom ändringen genomförs artikel 20.1 b i det omarbetade direktivet.",
+    "page": 38
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "19"
+    ],
+    "pinpoints": [
+     "19.14"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#19"
+    ],
+    "partial": true,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "6 c",
+    "sentence": "Genom paragrafen genomförs delvis artikel 19.14 i det omarbetade direktivet.",
+    "page": 39
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "12"
+    ],
+    "pinpoints": [
+     "12"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#12"
+    ],
+    "partial": true,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "7 a",
+    "sentence": "Genom paragrafen genomförs delvis artikel 12 i det omarbetade direktivet.",
+    "page": 39
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "12",
+     "19"
+    ],
+    "pinpoints": [
+     "12.4",
+     "19.4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#12",
+     "https://lagen.nu/ext/celex/32024L1275#19"
+    ],
+    "partial": true,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "8",
+    "sentence": "Genom paragrafen genomförs delvis artiklarna 12.4 och 19.4 i det omarbetade direktivet.",
+    "page": 39
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "19"
+    ],
+    "pinpoints": [
+     "19.5"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#19"
+    ],
+    "partial": true,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "9",
+    "sentence": "Genom ändringarna genomförs delvis artikel 19.5 i det omarbetade direktivet.",
+    "page": 40
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "19"
+    ],
+    "pinpoints": [
+     "19.6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#19"
+    ],
+    "partial": false,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "9 a",
+    "sentence": "Genom paragrafen genomförs artikel 19.6.",
+    "page": 40
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "23"
+    ],
+    "pinpoints": [
+     "23"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#23"
+    ],
+    "partial": true,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "10",
+    "sentence": "Genom paragrafen genomförs delvis artikel 23 i det omarbetade direktivet.",
+    "page": 41
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "12"
+    ],
+    "pinpoints": [
+     "12.4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#12"
+    ],
+    "partial": false,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "12",
+    "sentence": "Genom ändringarna genomförs artikel 12.4 i det omarbetade direktivet.",
+    "page": 42
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "20",
+     "21"
+    ],
+    "pinpoints": [
+     "20.4",
+     "21"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#20",
+     "https://lagen.nu/ext/celex/32024L1275#21"
+    ],
+    "partial": false,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "13",
+    "sentence": "Genom paragrafen genomförs artiklarna 20.4 och 21 i det omarbetade direktivet.",
+    "page": 42
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "22"
+    ],
+    "pinpoints": [
+     "22"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#22"
+    ],
+    "partial": true,
+    "law": "9.1 Förslaget till lag om ändring i lagen (2006:985) om energideklaration för byggnader",
+    "chapter": null,
+    "paragraf": "16",
+    "sentence": "Genom paragrafen genomförs delvis artikel 22 i det omarbetade direktivet.",
+    "page": 43
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1275",
+    "articles": [
+     "14"
+    ],
+    "pinpoints": [
+     "14"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1275#14"
+    ],
+    "partial": true,
+    "law": "9.2 Förslaget till lag om ändring i plan- och bygglagen (2010:900)",
+    "chapter": "8",
+    "paragraf": "4",
+    "sentence": "Paragrafen ändras för att delvis genomföra artikel 14 i det omarbetade direktivet.",
+    "page": 44
+   }
+  ]
+ }
+}

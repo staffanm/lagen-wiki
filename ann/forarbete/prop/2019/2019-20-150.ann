@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2019-20-150": "317534e91c6a72da8dabd515a07c0360d1eea641fb404c882cb7a5cc8f82b275",
+      "artifact:eurlex/31996L0071": "7d10c6dce0c32e793ada9efd9471417216b93605db488885a8b086e37c9f5219",
+      "artifact:eurlex/32018L0957": "1de29eab5f6c765e642f59764bec69a8c224d0c538ec54a9a462bd258265dd63"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31996L0071",
+      "https://lagen.nu/ext/celex/32018L0957"
+    ],
+    "proposition": "https://lagen.nu/prop/2019/20:150",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31996L0071",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31996L0071#3"
+        ],
+        "partial": false,
+        "law": "17.1 Förslaget till lag om ändring i lagen (1999:678) om utstationering av arbetstagare",
+        "chapter": null,
+        "paragraf": "16",
+        "sentence": "Paragrafen genomför artikel 3.1 första stycket i och h i det ändrade utstationeringsdirektivet.",
+        "page": 168
+      }
+    ]
+  }
+}

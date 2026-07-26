@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2020-21-82": "a80ec452123d9c6e8a08a35d3f0578255ea8426fa182beb06d125e0ec02f3088",
+      "artifact:eurlex/32016L2341": "157de3b27c70832e059373a5da0c7c61dcdce4f8de8fc88a6bd1b49d4889f66e"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32016L2341"
+    ],
+    "proposition": "https://lagen.nu/prop/2020/21:82",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.1 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#6"
+        ],
+        "partial": true,
+        "law": "10.2 Förslaget till lag om ändring i lagen (1998:293) om utländska försäkringsgivares och tjänstepensionsinstituts verksamhet i Sverige",
+        "chapter": "1",
+        "paragraf": "6",
+        "sentence": "Ändringen genomför delvis artikel 6.1 b i Europaparlamentets och rådets direktiv (EU) 2016/2341 av den 14 december 2016 om verksamhet i och tillsyn över tjänstepensionsinstitut, i det följande benämnt andra tjänstepensionsdirektivet.",
+        "page": 77
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.1 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#6"
+        ],
+        "partial": true,
+        "law": "10.3 Förslaget till lag om ändring i lagen (2019:742) om tjänstepensionsföretag",
+        "chapter": "1",
+        "paragraf": "4",
+        "sentence": "Andra stycket 1 genomför delvis artikel 6.1 b i andra tjänstepensionsdirektivet.",
+        "page": 79
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#19"
+        ],
+        "partial": false,
+        "law": "10.3 Förslaget till lag om ändring i lagen (2019:742) om tjänstepensionsföretag",
+        "chapter": "6",
+        "paragraf": "6",
+        "sentence": "Detta innebär att genomförandet av artikel 19.1 första stycket d i andra tjänstepensionsdirektivet ändras.",
+        "page": 82
+      }
+    ]
+  }
+}

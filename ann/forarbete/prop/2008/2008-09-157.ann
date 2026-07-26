@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2008-09-157": "d2e701c8a98e021e4b4b4db2664b9dd14125364d2f15ff9af3bda18e72af3361",
+      "artifact:eurlex/32005L0036": "eefc43a400906ea6a134c819c33ae8e9c6088a028d05882b5383c9fe42bc3ad2",
+      "artifact:eurlex/32006L0100": "d414359396060e8a29ddd442ba1a5ffd7ced7ac34ae5c4c5119b4a2a9d4dc9b5"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32005L0036",
+      "https://lagen.nu/ext/celex/32006L0100"
+    ],
+    "proposition": "https://lagen.nu/prop/2008/09:157",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32005L0036",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32005L0036#5"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "3 b",
+        "sentence": "Detta begrepp används i det bakomliggande EG-direktivet (se artikel 5.2).",
+        "page": 25
+      }
+    ]
+  }
+}

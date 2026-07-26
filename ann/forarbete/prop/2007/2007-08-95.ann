@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2007-08-95": "c35f06cc4aa3a63ddb240b1735c9faeec31e858e06af3b873e52a00760d4ee46",
+      "artifact:eurlex/31979L0007": "ea1637e64fb7d400be271d08898ba11104120c8adb60648ed4b6872c489ba312",
+      "artifact:eurlex/32000L0043": "483df25da2d74a4c4a1367af0936f04dbca26b04276f741612ad1262fd84a8c6",
+      "artifact:eurlex/32000L0078": "85eb714f8e6d79663edc578a20f4daa9a029e8a3aa9cf6419d86866590b404fc",
+      "artifact:eurlex/32004L0113": "42e75b25dfd04fd29db8a8e24cf7cd16a05710739625441f50377216deb2827e",
+      "artifact:eurlex/32006L0054": "2f7ff69fa36eb0ea8119f6f6b9ae28fa9a2b8a0a3da49f3a47eae799cf0e5e38"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31979L0007",
+      "https://lagen.nu/ext/celex/32000L0043",
+      "https://lagen.nu/ext/celex/32000L0078",
+      "https://lagen.nu/ext/celex/32004L0113",
+      "https://lagen.nu/ext/celex/32006L0054"
+    ],
+    "proposition": "https://lagen.nu/prop/2007/08:95",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32000L0043",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32000L0043#4"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till diskrimineringslag",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Formuleringen är avsedd att i så hög grad som är möjligt motsvara artikel 4.1 i direktivet mot etnisk diskriminering (direktiv 2000/43/EG, se avsnitt 4.3) och motsvarande formuleringar i likabehandlingsdirektivet (direktiv 76/207/EEG, ändrat genom direktiv 2002/73/EG, se avsnitt 4.3) och arbetslivsdirektivet (direktiv 2000/78/EG, se avsnitt 4.3).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32000L0078",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32000L0078#4"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till diskrimineringslag",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Formuleringen är avsedd att i så hög grad som är möjligt motsvara artikel 4.1 i direktivet mot etnisk diskriminering (direktiv 2000/43/EG, se avsnitt 4.3) och motsvarande formuleringar i likabehandlingsdirektivet (direktiv 76/207/EEG, ändrat genom direktiv 2002/73/EG, se avsnitt 4.3) och arbetslivsdirektivet (direktiv 2000/78/EG, se avsnitt 4.3).",
+        "page": null
+      }
+    ]
+  }
+}

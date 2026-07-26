@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2013-14-82": "594ca963e0892e418ed7ad0cff3fb712db71ab6c09d590547cf8626f869edb8b",
+      "artifact:eurlex/32004L0038": "96279c9c2d821b667a4267296d05a36b4f23e156ad653b9715f763704de834ce",
+      "artifact:eurlex/32011L0051": "9bb26d81309b15280d32b41c4e88abfca6037a63a1228c9bdd834df2b60602d1"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32004L0038",
+      "https://lagen.nu/ext/celex/32011L0051"
+    ],
+    "proposition": "https://lagen.nu/prop/2013/14:82",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0038",
+        "articles": [
+          "5",
+          "6"
+        ],
+        "pinpoints": [
+          "5",
+          "6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0038#5",
+          "https://lagen.nu/ext/celex/32004L0038#6"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "8",
+        "paragraf": "8",
+        "sentence": "Paragrafen har sin grund i artiklarna 5 och 6 i rörlighetsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0038",
+        "articles": [
+          "14"
+        ],
+        "pinpoints": [
+          "14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0038#14"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "8",
+        "paragraf": "9",
+        "sentence": "Paragrafen har sin grund i artikel 14 i rörlighetsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0038",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.2",
+          "27.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0038#27"
+        ],
+        "partial": true,
+        "law": "9.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "8",
+        "paragraf": "12",
+        "sentence": "Paragrafen har i denna del sin grund i artikel 27.2 i rörlighetsdirektivet. Paragrafen har i denna del sin grund i artikel 27.1 i rörlighetsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0038",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0038#28"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "8",
+        "paragraf": "13",
+        "sentence": "I paragrafen förtydligas att samtliga de faktorer som anges i artikel 28.1 i rörlighetsdirektivet ska beaktas innan ett beslut om avvisning eller utvisning av hänsyn till allmän ordning och säkerhet fattas avseende en EES-medborgare eller en familjemedlem till en EES-medborgare.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0038",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.2",
+          "28.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0038#28"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "8",
+        "paragraf": "14",
+        "sentence": "Paragrafen har sin grund i artiklarna 28.2 och 28.3 i rörlighetsdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

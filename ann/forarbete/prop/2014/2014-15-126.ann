@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2014-15-126": "6482b05756207f7e9d377ed66cf50bc70d259102e5b204c27067890f3393035e",
+      "artifact:eurlex/32009L0012": "48fa9d62b61e2f15dd0e5e6140966afd64f64eaa5734f22ff4ea98829408ad50"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0012"
+    ],
+    "proposition": "https://lagen.nu/prop/2014/15:126",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0012",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0012#6"
+        ],
+        "partial": true,
+        "law": null,
+        "chapter": null,
+        "paragraf": "13",
+        "sentence": "Härigenom genomförs delar av artikel 6.2.",
+        "page": 14
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2004-05-170": "2c10e06fcea27449f30b5df2465907cd64394e2f31359674e41d76eb4cb5aa6e",
+      "artifact:eurlex/31964L0221": "7e23503844cbd3414f18e9da8002d86b1b8d8ad07ded08120d95f4963038bb74",
+      "artifact:eurlex/32001L0040": "5ac93ae30576facb0a56bbcbc959cce8e42e0ace35b7dc6dfaf689f8723ee476",
+      "artifact:eurlex/32001L0051": "64296e7053daffcf015600f7cbb8c7afedd72867defffe3ca1a8c5be010c3efb",
+      "artifact:eurlex/32001L0055": "5ce7ec423210daa0d3bd6ed5174d8e801f962cadf41c4e3bc30ca35f00e46bbc",
+      "artifact:eurlex/32002L0090": "1fa95b50d60511f2b724349d6e55f6a8b690be061d0ab70c0dee124b553e6cf5",
+      "artifact:eurlex/32004L0038": "96279c9c2d821b667a4267296d05a36b4f23e156ad653b9715f763704de834ce"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31964L0221",
+      "https://lagen.nu/ext/celex/32001L0040",
+      "https://lagen.nu/ext/celex/32001L0051",
+      "https://lagen.nu/ext/celex/32001L0055",
+      "https://lagen.nu/ext/celex/32002L0090",
+      "https://lagen.nu/ext/celex/32004L0038"
+    ],
+    "proposition": "https://lagen.nu/prop/2004/05:170",
+    "edges": []
+  }
+}

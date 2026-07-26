@@ -1,56 +1,141 @@
 {
-  "meta": {
-    "status": "generated",
-    "model": "moonshotai/Kimi-K2.6",
-    "generated": "2026-07-13",
-    "inputs": {
-      "artifact:sfs/2004:629": "1620488daf61184b6b1a1cba4ad6b163775336aec59afab8989c3869713a00c6",
-      "download:sfs/pdf/2023/395.pdf": "3527d46aba42dbf38093ddc7bc6bcd0984cc0908b338770e9d0c63ef01c8f3c4",
-      "download:sfs/pdf/2020/120.pdf": "54525161b8b6e9bc9e98acffdc08f36951b80937c7762f9781107a88d21a752c"
-    }
+ "meta": {
+  "status": "generated",
+  "model": "qwen3.6-35b-a3b",
+  "generated": "2026-07-15",
+  "inputs": {
+   "artifact:sfs/2004:629": "2e30be23d4257c1613c216872bacad82f9cc96adad38fed1e2f1288a724bc5d1",
+   "download:sfs/pdf/2018/200.pdf": "a807b08eb8f2476a10b2d324d3e6e1e49e214dbae39dd7b6577a9986ba40a318",
+   "download:sfs/pdf/2023/395.pdf": "3527d46aba42dbf38093ddc7bc6bcd0984cc0908b338770e9d0c63ef01c8f3c4",
+   "download:sfs/pdf/2020/120.pdf": "54525161b8b6e9bc9e98acffdc08f36951b80937c7762f9781107a88d21a752c"
   },
-  "G1": {
-    "sfs": "2023:395",
-    "page": 2,
-    "alt": "Karta över Stockholms innerstad med skattebelagda betalstationer",
-    "bbox": [
-      48,
-      72,
-      374,
-      398
-    ]
+  "uri": "https://lagen.nu/2004:629",
+  "through": "2024:519"
+ },
+ "g-98a4f41c45d59eaa6425": {
+  "sfs": "2018:200",
+  "page": 2,
+  "alt": "Karta över Stockholms innerstad",
+  "bbox": [
+   60,
+   132,
+   422,
+   415
+  ],
+  "identity": {
+   "path": [
+    "bilaga:bilaga 1"
+   ],
+   "sort": "karta",
+   "code": null,
+   "anchor": "stockholms innerstad",
+   "occurrence": 1
   },
-  "G2": {
-    "sfs": "2023:395",
-    "page": 3,
-    "alt": "Karta över Essingeleden med skattebelagda betalstationer",
-    "bbox": [
-      48,
-      24,
-      350,
-      269
-    ]
+  "verified": true
+ },
+ "g-023fc5c013e5b039c307": {
+  "sfs": "2018:200",
+  "page": 3,
+  "alt": "Karta över Essingeleden",
+  "bbox": [
+   60,
+   50,
+   420,
+   370
+  ],
+  "identity": {
+   "path": [
+    "bilaga:bilaga 1"
+   ],
+   "sort": "karta",
+   "code": null,
+   "anchor": "essingeleden",
+   "occurrence": 1
   },
-  "G5": {
-    "sfs": "2020:120",
-    "page": 2,
-    "alt": "Karta över skattebelagda betalstationer i Göteborg",
-    "bbox": [
-      62,
-      53,
-      485,
-      566
-    ]
+  "verified": true
+ },
+ "g-40018dd0c50c286f4d8b": {
+  "sfs": "2023:395",
+  "page": 2,
+  "alt": "Karta över Stockholms innerstad",
+  "bbox": [
+   58,
+   127,
+   372,
+   398
+  ],
+  "identity": {
+   "path": [
+    "bilaga:bilaga 1@ikrafttrader:den dag som regeringen bestämmer"
+   ],
+   "sort": "karta",
+   "code": null,
+   "anchor": "stockholms innerstad",
+   "occurrence": 1
   },
-  "G6": {
-    "sfs": "2020:120",
-    "page": 3,
-    "alt": "Karta över kontrollpunkter för genomfartstrafik i Backaområdet",
-    "bbox": [
-      62,
-      336,
-      432,
-      682
-    ]
-  }
+  "verified": true
+ },
+ "g-d028d5480871439539f1": {
+  "sfs": "2023:395",
+  "page": 3,
+  "alt": "Karta över Essingeleden",
+  "bbox": [
+   58,
+   50,
+   372,
+   314
+  ],
+  "identity": {
+   "path": [
+    "bilaga:bilaga 1@ikrafttrader:den dag som regeringen bestämmer"
+   ],
+   "sort": "karta",
+   "code": null,
+   "anchor": "essingeleden",
+   "occurrence": 1
+  },
+  "verified": true
+ },
+ "g-e09ac3d2f7eaa043a579": {
+  "sfs": "2020:120",
+  "page": 2,
+  "alt": "Karta över betalstationer i Göteborgs kommun",
+  "bbox": [
+   55,
+   96,
+   427,
+   540
+  ],
+  "identity": {
+   "path": [
+    "bilaga:bilaga 2"
+   ],
+   "sort": "karta",
+   "code": null,
+   "anchor": "göteborgs kommun",
+   "occurrence": 1
+  },
+  "verified": true
+ },
+ "g-2d0add8ff7f528ca5ca4": {
+  "sfs": "2020:120",
+  "page": 3,
+  "alt": "Karta över kontrollpunkter i Backaområdet",
+  "bbox": [
+   62,
+   413,
+   427,
+   710
+  ],
+  "identity": {
+   "path": [
+    "bilaga:bilaga 2"
+   ],
+   "sort": "karta",
+   "code": null,
+   "anchor": "göteborgs kommun",
+   "occurrence": 2
+  },
+  "verified": true
+ }
 }

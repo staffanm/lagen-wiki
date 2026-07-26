@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2012-13-17": "be7b4315615e2a51238a0822e5799178265f8f8a88ee25cd633fd09781934f33",
+      "artifact:eurlex/32001L0042": "0477ece9181671ff7636296589b275ce6ff69d239a417c96f3ef91c57d2e915a",
+      "artifact:eurlex/32009L0029": "4176fe66f8ec6c2802926234bb711e3772c6146ba68e5997d8ae4b560792d4eb"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32001L0042",
+      "https://lagen.nu/ext/celex/32009L0029"
+    ],
+    "proposition": "https://lagen.nu/prop/2012/13:17",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0042",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0042#5"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "6",
+        "paragraf": "13",
+        "sentence": "Första stycket , som anger att en rimlighetsbedömning ska göras i fråga om den information som ska ingå i en miljökonsekvensbeskrivning, genomför artikel 5.2 i direktivet om planer och program.",
+        "page": 14
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0042",
+        "articles": [
+          "8",
+          "9"
+        ],
+        "pinpoints": [
+          "8",
+          "9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0042#8",
+          "https://lagen.nu/ext/celex/32001L0042#9"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "6",
+        "paragraf": "16",
+        "sentence": "Paragrafen genomför artiklarna 8 och 9 i direktivet om planer och program.",
+        "page": 15
+      }
+    ]
+  }
+}

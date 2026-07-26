@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2021-22-202": "a4881d8c2b3bae08fb60640ba899768c293d17ae1bdd4382b7ec0eb5af1224ca",
+      "artifact:eurlex/32015L2366": "de35363a119903f29abd52b36fd83551614f2e441e6848e7da1f2709ca44b9a1"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32015L2366"
+    ],
+    "proposition": "https://lagen.nu/prop/2021/22:202",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L2366",
+        "articles": [
+          "41"
+        ],
+        "pinpoints": [
+          "41"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L2366#41"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i lagen (2010:751) om betaltjänster",
+        "chapter": "4",
+        "paragraf": "21 a",
+        "sentence": "Paragrafen genomför artikel 41 i andra betaltjänstdirektivet.",
+        "page": 9
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L2366",
+        "articles": [
+          "64",
+          "72",
+          "90"
+        ],
+        "pinpoints": [
+          "64.1",
+          "64.2",
+          "72.2",
+          "72.1",
+          "90.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L2366#64",
+          "https://lagen.nu/ext/celex/32015L2366#72",
+          "https://lagen.nu/ext/celex/32015L2366#90"
+        ],
+        "partial": true,
+        "law": "Förslaget till lag om ändring i lagen (2010:751) om betaltjänster",
+        "chapter": "5",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artiklarna 64.1, 64.2 och 72.2 och delvis artiklarna 72.1 och 90.1 andra stycket i andra betaltjänstdirektivet.",
+        "page": 9
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L2366",
+        "articles": [
+          "72",
+          "89",
+          "90"
+        ],
+        "pinpoints": [
+          "72.1",
+          "89.1",
+          "90.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L2366#72",
+          "https://lagen.nu/ext/celex/32015L2366#89",
+          "https://lagen.nu/ext/celex/32015L2366#90"
+        ],
+        "partial": true,
+        "law": "Förslaget till lag om ändring i lagen (2010:751) om betaltjänster",
+        "chapter": "5",
+        "paragraf": "47",
+        "sentence": "Paragrafen genomför delvis artiklarna 72.1, 89.1 och 90.1 andra stycket i andra betaltjänstdirektivet.",
+        "page": 14
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L2366",
+        "articles": [
+          "72",
+          "89"
+        ],
+        "pinpoints": [
+          "72.1",
+          "89.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L2366#72",
+          "https://lagen.nu/ext/celex/32015L2366#89"
+        ],
+        "partial": true,
+        "law": "Förslaget till lag om ändring i lagen (2010:751) om betaltjänster",
+        "chapter": "5",
+        "paragraf": "50",
+        "sentence": "Paragrafen genomför delvis artiklarna 72.1 och 89.2 i andra betaltjänstdirektivet.",
+        "page": 14
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L2366",
+        "articles": [
+          "61"
+        ],
+        "pinpoints": [
+          "61.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L2366#61"
+        ],
+        "partial": true,
+        "law": "Förslaget till lag om ändring i lagen (2010:751) om betaltjänster",
+        "chapter": "5",
+        "paragraf": "59",
+        "sentence": "Paragrafen genomför delvis artikel 61.1 i andra betaltjänstdirektivet.",
+        "page": 15
+      }
+    ]
+  }
+}

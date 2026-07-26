@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2012-13-40": "d802bd58d17198b777b45cb923a16c4bd8c8774e1d7c6c0290921b32f297a616",
+      "artifact:eurlex/32011L0062": "afe82dabb3da034a4b29121f09061fdcccc53c3b703d7cbdc0c5ad76ea150769"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32011L0062"
+    ],
+    "proposition": "https://lagen.nu/prop/2012/13:40",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0062",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.3 a",
+          "1.3 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0062#1"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om ändring i läkemedelslagen (1992:859)",
+        "chapter": null,
+        "paragraf": "1 a",
+        "sentence": "Definitionen motsvarar artikel 1.3a i direktivet. Definitionen motsvarar artikel 1.3b i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0062",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.33"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0062#1"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om ändring i läkemedelslagen (1992:859)",
+        "chapter": null,
+        "paragraf": "1 b",
+        "sentence": "Definitionen motsvarar artikel 1.33 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0062",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.17 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0062#1"
+        ],
+        "partial": false,
+        "law": "10.3 Förslaget till lag om ändring i lagen (2009:366) om handel med läkemedel",
+        "chapter": "1",
+        "paragraf": "4",
+        "sentence": "Definitionen motsvarar artikel 1.17a. i direktivet.",
+        "page": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,757 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2004-05-158": "a9b60c48abe559e81cba9c8a8b3e6b8da528d51222a195ea46ddb6ad4df2652b",
+      "artifact:eurlex/32001L0034": "3eed84b2de36b289df3439b736d0a26249ff992e988d0e37e4e8c9b4fe3f4104",
+      "artifact:eurlex/32004L0025": "8764ff884967231cb7cb78a128d0b6f7e42b64ec459b24c25358ab84ca7b38cf"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32001L0034",
+      "https://lagen.nu/ext/celex/32004L0025"
+    ],
+    "proposition": "https://lagen.nu/prop/2004/05:158",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2",
+          "2.1 b",
+          "2.1 e",
+          "2.1 k",
+          "2.1 l"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#2"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "1",
+        "paragraf": "1",
+        "sentence": "Dessa har i huvudsak hämtats från artikel 2 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "1",
+          "2"
+        ],
+        "pinpoints": [
+          "1.2 a",
+          "2.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#1",
+          "https://lagen.nu/ext/celex/32001L0034#2"
+        ],
+        "partial": true,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "1",
+        "sentence": "Paragrafen innehåller undantag från skyldigheten att upprätta prospekt och motsvarar artikel 1.2 a och till viss del artikel 2.1 a i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "1",
+          "3"
+        ],
+        "pinpoints": [
+          "1.2 b",
+          "1.2 d",
+          "3.2 f",
+          "1.2 h"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#1",
+          "https://lagen.nu/ext/celex/32001L0034#3"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "3",
+        "sentence": "Undantagen motsvarar artikel 1.2 b och d i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1",
+          "4.2 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#4"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "5",
+        "sentence": "Undantagen motsvarar artikel 4.1 i prospektdirektivet och har berörts i avsnitt 5.4.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.2 h"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#4"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "7",
+        "sentence": "Paragrafen motsvarar artikel 4.2 h i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#5"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "11",
+        "sentence": "Motsvarande bestämmelse finns i artikel 5.1 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "5",
+          "12"
+        ],
+        "pinpoints": [
+          "5.3",
+          "12"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#5",
+          "https://lagen.nu/ext/celex/32001L0034#12"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "13",
+        "sentence": "Paragrafen motsvarar artiklarna 5.3 och 12 i prospektdirektivet och har behandlats i avsnitt 7.2.1.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#5"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "14",
+        "sentence": "Paragrafen motsvarar artikel 5.2 i prospektdirektivet och har kommenterats i avsnitt 7.2.1 och 9.2.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.2 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#6"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "15",
+        "sentence": "Paragrafen motsvarar artikel 6.2 andra stycket i prospektdirektivet och har kommenterats i avsnitt 9.2.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.4 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#5"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "16",
+        "sentence": "Paragrafen motsvarar artikel 5.4 första stycket i prospektdirektivet och behandlas i avsnitt 7.2.2.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.4 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#5"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "17",
+        "sentence": "Paragrafen motsvarar artikel 5.4 tredje stycket i prospektdirektivet och behandlas i avsnitt 7.2.2.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#8"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "18",
+        "sentence": "Paragrafen motsvarar artikel 8.1 i prospektdirektivet och kommenteras i avsnitt 7.5.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.2",
+          "8.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#8"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "19",
+        "sentence": "Bestämmelsen motsvarar artikel 8.2 och 8.3 i prospektdirektivet och har kommenterats i avsnitt 7.5.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#11"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "20",
+        "sentence": "Paragrafen motsvarar artikel 11 i prospektdirektivet och har behandlats i avsnitt 7.6.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#19"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "21",
+        "sentence": "Genom dessa bestämmelser genomförs artikel 19 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#19"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "22",
+        "sentence": "Genom dessa bestämmelser genomförs artikel 19 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#19"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "23",
+        "sentence": "Genom dessa bestämmelser genomförs artikel 19 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#9"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "24",
+        "sentence": "Genom paragrafen, som behandlas i avsnitt 7.3, genomförs artikel 9 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1 m",
+          "2.1 m",
+          "2.1 q"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#2"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "25",
+        "sentence": "Paragrafen innehåller bestämmelser om godkännande av prospekt och motsvarar artiklarna 2.1 m i och ii samt 2.1 q i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "13",
+          "14"
+        ],
+        "pinpoints": [
+          "13.2",
+          "13.3",
+          "13.4",
+          "14.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#13",
+          "https://lagen.nu/ext/celex/32001L0034#14"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "26",
+        "sentence": "Bestämmelserna motsvarar artiklarna 13.2– 13.4 och 14.1 i prospektdirektivet och har kommenterats i avsnitt 8.1.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#13"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "27",
+        "sentence": "Genom paragrafen genomförs artikel 13.5 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "14"
+        ],
+        "pinpoints": [
+          "14.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#14"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "28",
+        "sentence": "Genom paragrafen genomförs artikel 14.1 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "14"
+        ],
+        "pinpoints": [
+          "14.2 a",
+          "14.2 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#14"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "29",
+        "sentence": "Stycket motsvarar artiklarna 14.2 a–d i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "14"
+        ],
+        "pinpoints": [
+          "14.7",
+          "14.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#14"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "30",
+        "sentence": "Stycket motsvarar artikel 14.7 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "14"
+        ],
+        "pinpoints": [
+          "14.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#14"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "31",
+        "sentence": "Genom paragrafen genomförs artikel 14.4 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "15"
+        ],
+        "pinpoints": [
+          "15.2",
+          "15.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#15"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "32",
+        "sentence": "Stycket motsvarar artikel 15.2 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "15"
+        ],
+        "pinpoints": [
+          "15.4",
+          "15.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#15"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "33",
+        "sentence": "Paragrafen motsvarar artiklarna 15.4 och 15.5 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#16"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "34",
+        "sentence": "Paragrafen motsvarar artikel 16 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#18"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "35",
+        "sentence": "Paragrafen motsvarar artikel 18 i prospektdirektivet och behandlas i avsnitt 8.6.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "2",
+          "20"
+        ],
+        "pinpoints": [
+          "2.1 m",
+          "2.1 m",
+          "20"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#2",
+          "https://lagen.nu/ext/celex/32001L0034#20"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2",
+        "paragraf": "37",
+        "sentence": "Paragrafen, som motsvarar 35 § i lagrådsremissen, innehåller bestämmelser om godkännande av prospekt när emittenten har sitt säte utanför EES och motsvarar artiklarna 2.1 m ii och iii samt 20 i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#10"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "6",
+        "paragraf": "1 b",
+        "sentence": "Genom bestämmelsen genomförs artikel 10 i prospektdirektivet i svensk rätt.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.3 d",
+          "21.3 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#21"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "6",
+        "paragraf": "1 c",
+        "sentence": "Paragrafen är ny och bygger på artikel 21.3 d och f i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#23"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "6",
+        "paragraf": "1 e",
+        "sentence": "Bestämmelsen motsvarar artikel 23 i prospektdirektivet och har behandlats i avsnitt 10.2.3.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#23"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "6",
+        "paragraf": "1 f",
+        "sentence": "Bestämmelsen motsvarar artikel 23 i prospektdirektivet och har behandlats i avsnitt 10.2.3.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#25"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "6",
+        "paragraf": "3 a",
+        "sentence": "De administrativa åtgärder eller administrativa sanktioner som medlemsstaterna inför skall enligt artikel 25.1 i prospektdirektivet vara effektiva, proportionerliga och avskräckande.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.4 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#21"
+        ],
+        "partial": false,
+        "law": "15.3 Förslaget till lag om ändring i lagen (1992:543) om börs- och clearingverksamhet",
+        "chapter": "10",
+        "paragraf": "1",
+        "sentence": "Paragrafen har ändrats, för att genomföra artikel 21.4 b i prospektdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0034",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.4 d"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0034#21"
+        ],
+        "partial": false,
+        "law": "15.3 Förslaget till lag om ändring i lagen (1992:543) om börs- och clearingverksamhet",
+        "chapter": "11",
+        "paragraf": "1 b",
+        "sentence": "Bestämmelsen motsvarar den i artikel 21.4 d och har behandlats i avsnitt 10.2.1.",
+        "page": null
+      }
+    ]
+  }
+}

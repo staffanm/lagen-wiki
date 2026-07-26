@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2012-13-35": "402f9af065ab6df1ef2cf79443aadaa591d8d0da7e9ad5a6907d5b27e5b971ea",
+      "artifact:eurlex/32010L0075": "1b6c066fc09afe3126796ab6ed17ddd45198822b81febfbc97790ffc099e55af"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32010L0075"
+    ],
+    "proposition": "https://lagen.nu/prop/2012/13:35",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0075",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0075#22"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "10",
+        "paragraf": "5 a",
+        "sentence": "Bestämmelsen motsvarar i huvudsak artikel 22.3 i industriutsläppsdirektivet.",
+        "page": 70
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0075",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.1 h",
+          "12.1 e"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0075#12"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "22",
+        "paragraf": "1",
+        "sentence": "Med ändringen genomförs industriutsläppsdirektivets artikel 12.1 h. Med bestämmelsen genomförs industriutsläppsdirektivets artikel 12.1 e.",
+        "page": 72
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0075",
+        "articles": [
+          "37"
+        ],
+        "pinpoints": [
+          "37"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0075#37"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "22",
+        "paragraf": "25 f",
+        "sentence": "Artikel 37 genomförs med denna paragraf.",
+        "page": 73
+      }
+    ]
+  }
+}

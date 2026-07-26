@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2024-25-43": "e2ff13591dc5dd30837ef1fa63d8b7365fa4a3a001a420448fea401b972564b7",
+      "artifact:eurlex/32015L0849": "8af3f325476239c40a0fa5736066be6c173de61fd6ead42fd55739da7f9ab1b1",
+      "artifact:eurlex/32019L1937": "e2f1cb2e385adbe68436a43156566523ea661b5773dd597613218cecb28b546b"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32015L0849",
+      "https://lagen.nu/ext/celex/32019L1937"
+    ],
+    "proposition": "https://lagen.nu/prop/2024/25:43",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L0849",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L0849#19"
+        ],
+        "partial": false,
+        "law": "12.8 Förslaget till lag om ändring i lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism",
+        "chapter": "3",
+        "paragraf": "18",
+        "sentence": "Ändringarna genomför artikel 19b i penningtvättsdirektivet.",
+        "page": 107
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L0849",
+        "articles": [
+          "19",
+          "1"
+        ],
+        "pinpoints": [
+          "19 a",
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L0849#19",
+          "https://lagen.nu/ext/celex/32015L0849#1"
+        ],
+        "partial": false,
+        "law": "12.8 Förslaget till lag om ändring i lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism",
+        "chapter": "3",
+        "paragraf": "18 a",
+        "sentence": "Paragrafen genomför artikel 19a.1 i penningtvättsdirektivet.",
+        "page": 108
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L0849",
+        "articles": [
+          "45"
+        ],
+        "pinpoints": [
+          "45.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L0849#45"
+        ],
+        "partial": false,
+        "law": "12.8 Förslaget till lag om ändring i lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism",
+        "chapter": "6",
+        "paragraf": "3",
+        "sentence": "Ändringen genomför artikel 45.9 i penningtvättsdirektivet.",
+        "page": 109
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2015-16-166": "bd215c6a2832fc1981b9a7c3537232530c7ae9e942e4243b9e6b10eca46ea26f",
+      "artifact:eurlex/32008L0098": "cd2bc038ebf36d89abcc25daed82e73502b200a4bffdd82f9487e8c34e710cbb"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32008L0098"
+    ],
+    "proposition": "https://lagen.nu/prop/2015/16:166",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32008L0098",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32008L0098#6"
+        ],
+        "partial": false,
+        "law": "12.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "15",
+        "paragraf": "1",
+        "sentence": "I artikel 6 i ramdirektivet om avfall anges kriterier som det ska tas hänsyn till när end-of-waste-kriterier tas fram, såväl på EU-nivå som på nationell nivå (se 1 § tredje stycket avseende nationella end-of-waste-kriterier).",
+        "page": 60
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32008L0098",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32008L0098#26"
+        ],
+        "partial": false,
+        "law": "12.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "15",
+        "paragraf": "18",
+        "sentence": "Paragrafen är avsedd att genomföra artikel 26 i ramdirektivet om avfall (2008/98).",
+        "page": 71
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32008L0098",
+        "articles": [
+          "31"
+        ],
+        "pinpoints": [
+          "31"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32008L0098#31"
+        ],
+        "partial": false,
+        "law": "12.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "15",
+        "paragraf": "42",
+        "sentence": "Ändringen följer av ett krav i artikel 31 i ramdirektivet om avfall att lägga ut avfallsplaner på en offentlig webbplats.",
+        "page": 78
+      }
+    ]
+  }
+}

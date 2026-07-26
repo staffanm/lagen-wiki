@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2022-23-47": "933fd57219729b71787d61616a303a29e09f944db82a596763d09a8c55a53ca5",
+      "artifact:eurlex/32009L0138": "748d030e8e9ed294f3de3f3abdb4bff094e8cd1c86ddd090c2bf691e88003791",
+      "artifact:eurlex/32016L2341": "157de3b27c70832e059373a5da0c7c61dcdce4f8de8fc88a6bd1b49d4889f66e"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0138",
+      "https://lagen.nu/ext/celex/32016L2341"
+    ],
+    "proposition": "https://lagen.nu/prop/2022/23:47",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#19"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "10 c",
+        "sentence": "Paragrafen genomför artikel 19.1 första stycket g och andra stycket i det direktivet.",
+        "page": 21
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "260"
+        ],
+        "pinpoints": [
+          "260.1",
+          "260.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#260"
+        ],
+        "partial": false,
+        "law": "10.3 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "19",
+        "paragraf": "67",
+        "sentence": "Paragrafen genomför artikel 260.1 och 260.4 i Europaparlamentets och rådets direktiv 2009/138/EG av den 25 november 2009 om upptagande och utövande av försäkrings- och återförsäkringsverksamhet (Solvens II), kallat Solvens II-direktivet, i lydelsen enligt artikel 2.75 i Europaparlamentets och rådets direktiv 2014/51/EU.",
+        "page": 25
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#22"
+        ],
+        "partial": true,
+        "law": "10.4 Förslaget till lag om ändring i lagen (2019:742) om tjänstepensionsföretag",
+        "chapter": "2",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför delvis artikel 22 i andra tjänstepensionsdirektivet.",
+        "page": 26
+      }
+    ]
+  }
+}

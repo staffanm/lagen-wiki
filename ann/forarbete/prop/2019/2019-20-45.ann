@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2019-20-45": "5c0f805856d4a48c24a3e452b09bf7d7905dbb677dc6dc44fbea1d0bf767ab96",
+      "artifact:eurlex/32014L0057": "b355fcedb14c3bed21cd403bde4fbc45f3dd7902442f8dc0cae5ec03c8acb071"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32014L0057"
+    ],
+    "proposition": "https://lagen.nu/prop/2019/20:45",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0057",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.2 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0057#1"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i lagen (2016:1307) om straff för marknadsmissbruk på värdepappersmarknaden",
+        "chapter": "1",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 1.2 första stycket a, b, c och d i marknadsmissbruksdirektivet.",
+        "page": 12
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0057",
+        "articles": [
+          "3",
+          "7"
+        ],
+        "pinpoints": [
+          "3.1",
+          "3.2",
+          "3.3",
+          "3.4",
+          "3.5",
+          "3.6",
+          "3.7",
+          "7.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0057#3",
+          "https://lagen.nu/ext/celex/32014L0057#7"
+        ],
+        "partial": true,
+        "law": "Förslaget till lag om ändring i lagen (2016:1307) om straff för marknadsmissbruk på värdepappersmarknaden",
+        "chapter": "2",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 3.1 – 3.7 och delvis artikel 7.2 i marknadsmissbruksdirektivet.",
+        "page": 13
+      }
+    ]
+  }
+}

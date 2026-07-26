@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2021-22-88": "d27b17b86dfd590ba89ba792502533c5323215657ad5b6ab6aa795f5b84a8c6e",
+      "artifact:eurlex/32019L2034": "37c4469a4188692b1000e501fab6222f407529f5b0f2f754e48047df30958fc3"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32019L2034"
+    ],
+    "proposition": "https://lagen.nu/prop/2021/22:88",
+    "edges": []
+  }
+}

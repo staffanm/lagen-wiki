@@ -1,0 +1,2855 @@
+{
+ "meta": {
+  "status": "golden",
+  "model": "claude subagents (opus/sonnet)",
+  "generated": "2026-07-23",
+  "inputs": {
+   "artifact:forarbete/prop/2025-26-253": "b53c312f42345333b6db2ef8eacf741152b5b74ad74403c51c7eb1c86f7a14ca",
+   "artifact:eurlex/32013L0036": "5e88828bd5c7adb72df99dcd0c72503810e906944fe6bbb807464b393d5e8d85"
+  }
+ },
+ "genomforande": {
+  "directives": [
+   "https://lagen.nu/ext/celex/32013L0036"
+  ],
+  "proposition": "https://lagen.nu/prop/2025/26:253",
+  "edges": [
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "4",
+     "1"
+    ],
+    "pinpoints": [
+     "4 a",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": false,
+    "law": "18.1 Förslaget till lag om karens för vissa befattningshavare i Finansinspektionen vid övergång till annan verksamhet",
+    "chapter": null,
+    "paragraf": "1",
+    "sentence": "Paragrafen genomför artikel 4a.1 i kapitaltäckningsdirektivet.",
+    "page": 304
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "4",
+     "3"
+    ],
+    "pinpoints": [
+     "4 a",
+     "3 f"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": false,
+    "law": "18.1 Förslaget till lag om karens för vissa befattningshavare i Finansinspektionen vid övergång till annan verksamhet",
+    "chapter": null,
+    "paragraf": "4",
+    "sentence": "Paragrafen genomför artikel 4a.3 första stycket b i kapitaltäckningsdirektivet.",
+    "page": 305
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "4",
+     "5"
+    ],
+    "pinpoints": [
+     "4 a",
+     "4",
+     "4 a",
+     "5"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#5"
+    ],
+    "partial": true,
+    "law": "18.1 Förslaget till lag om karens för vissa befattningshavare i Finansinspektionen vid övergång till annan verksamhet",
+    "chapter": null,
+    "paragraf": "5",
+    "sentence": "Paragrafen genomför delvis artikel 4a.4 och 4a.5 i kapitaltäckningsdirektivet.",
+    "page": 307
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "4"
+    ],
+    "pinpoints": [
+     "4 a",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.1 Förslaget till lag om karens för vissa befattningshavare i Finansinspektionen vid övergång till annan verksamhet",
+    "chapter": null,
+    "paragraf": "6",
+    "sentence": "Paragrafen genomför delvis artikel 4a.4 i kapitaltäckningsdirektivet.",
+    "page": 307
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "4",
+     "6"
+    ],
+    "pinpoints": [
+     "4 a",
+     "6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#6"
+    ],
+    "partial": false,
+    "law": "18.1 Förslaget till lag om karens för vissa befattningshavare i Finansinspektionen vid övergång till annan verksamhet",
+    "chapter": null,
+    "paragraf": "7",
+    "sentence": "Paragrafen genomför artikel 4a.6 i kapitaltäckningsdirektivet.",
+    "page": 308
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "4"
+    ],
+    "pinpoints": [
+     "27 i",
+     "4 f"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.4 Förslaget till lag om ändring i sparbankslagen (1987:619)",
+    "chapter": "7",
+    "paragraf": "5",
+    "sentence": "Ändringarna genomför delvis artikel 27i.4 första stycket i kapitaltäckningsdirektivet.",
+    "page": 313
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1",
+     "2",
+     "4"
+    ],
+    "pinpoints": [
+     "27 j",
+     "1",
+     "27 j",
+     "2",
+     "27 j",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.4 Förslaget till lag om ändring i sparbankslagen (1987:619)",
+    "chapter": "7",
+    "paragraf": "5 a",
+    "sentence": "Paragrafen genomför delvis artikel 27j.1, 27j.2 och 27j.4 i kapitaltäckningsdirektivet.",
+    "page": 313
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "3"
+    ],
+    "pinpoints": [
+     "3.1.9"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "1",
+    "paragraf": "5",
+    "sentence": "Ändringarna genomför delvis artikel 3.1.9a–3.1.9d i kapitaltäckningsdirektivet.",
+    "page": 319
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91",
+     "1",
+     "2",
+     "4"
+    ],
+    "pinpoints": [
+     "91.1",
+     "91.1 a",
+     "91.1 c",
+     "91.1 h",
+     "91.2 a",
+     "91 a",
+     "1",
+     "91 a",
+     "2",
+     "91 a",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "3",
+    "paragraf": "2",
+    "sentence": "Ändringarna genomför delvis artiklarna 91.1, 91.1a, 91.1c, 91.1h, 91.2a, 91a.1, 91a.2 och 91a.4 i kapitaltäckningsdirektivet.",
+    "page": 322
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91",
+     "3"
+    ],
+    "pinpoints": [
+     "91.1 b",
+     "91 a",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "3",
+    "paragraf": "4 a",
+    "sentence": "Paragrafen genomför delvis artiklarna 91.1b och 91a.3 i kapitaltäckningsdirektivet.",
+    "page": 323
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "3",
+     "91",
+     "5"
+    ],
+    "pinpoints": [
+     "3.1.9",
+     "3.1.29 a",
+     "91.1 d",
+     "91 a",
+     "5"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#5"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "3",
+    "paragraf": "4 b",
+    "sentence": "Paragrafen genomför delvis artiklarna 3.1.9a–3.1.9d, 3.1.29a, 91.1d och 91a.5 i kapitaltäckningsdirektivet.",
+    "page": 324
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "76"
+    ],
+    "pinpoints": [
+     "76.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#76"
+    ],
+    "partial": false,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "6",
+    "paragraf": "5",
+    "sentence": "Ändringen genomför artikel 76.1 i kapitaltäckningsdirektivet.",
+    "page": 325
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91"
+    ],
+    "pinpoints": [
+     "91.4",
+     "91.5",
+     "91.6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "10",
+    "paragraf": "8 b",
+    "sentence": "Ändringen genomför delvis artikel 91.4–91.6 i kapitaltäckningsdirektivet.",
+    "page": 325
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91",
+     "5",
+     "7"
+    ],
+    "pinpoints": [
+     "91.1",
+     "91.7",
+     "91.8",
+     "91.10",
+     "91 a",
+     "5",
+     "91 a",
+     "7"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#5",
+     "https://lagen.nu/ext/celex/32013L0036#7"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "12",
+    "paragraf": "2",
+    "sentence": "Ändringarna genomför delvis artiklarna 91.1f–91.1i, 91.7, 91.8, 91.10, 91a.5 och 91a.7 i kapitaltäckningsdirektivet.",
+    "page": 328
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91",
+     "7"
+    ],
+    "pinpoints": [
+     "91.1 i",
+     "91 a",
+     "7"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#7"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "12",
+    "paragraf": "6 a",
+    "sentence": "Ändringarna genomför delvis artiklarna 91.1i och 91a.7 i kapitaltäckningsdirektivet.",
+    "page": 328
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "22"
+    ],
+    "pinpoints": [
+     "22.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#22"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "14",
+    "paragraf": "1",
+    "sentence": "Ändringen genomför delvis artikel 22.2 i kapitaltäckningsdirektivet.",
+    "page": 329
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "23"
+    ],
+    "pinpoints": [
+     "23"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#23"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "14",
+    "paragraf": "2 a",
+    "sentence": "Ändringarna genomför delvis artikel 23 i kapitaltäckningsdirektivet.",
+    "page": 330
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "21",
+     "2"
+    ],
+    "pinpoints": [
+     "21 a",
+     "2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#21",
+     "https://lagen.nu/ext/celex/32013L0036#2"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "14",
+    "paragraf": "2 c",
+    "sentence": "Ändringarna genomför delvis artikel 21a.2 i kapitaltäckningsdirektivet.",
+    "page": 331
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "66",
+     "67"
+    ],
+    "pinpoints": [
+     "66.1 g",
+     "67.1 j",
+     "67.1 r",
+     "67.1 u"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#66",
+     "https://lagen.nu/ext/celex/32013L0036#67"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "15",
+    "paragraf": "1 a",
+    "sentence": "Paragrafen genomför delvis artiklarna 66.1 g–j och 67.1 j, r och u–ab.",
+    "page": 332
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "3",
+     "91",
+     "6"
+    ],
+    "pinpoints": [
+     "3.1.9 a",
+     "91.1 h",
+     "91 a",
+     "6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#6"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "15",
+    "paragraf": "2 a",
+    "sentence": "Paragrafen genomför delvis artiklarna 3.1.9a, 91.1h och 91a.6 i kapitaltäckningsdirektivet.",
+    "page": 336
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "66",
+     "67"
+    ],
+    "pinpoints": [
+     "66.3",
+     "67.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#66",
+     "https://lagen.nu/ext/celex/32013L0036#67"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "15",
+    "paragraf": "8",
+    "sentence": "Ändringen genomför delvis artiklarna 66.3 och 67.3 i kapitaltäckningsdirektivet.",
+    "page": 337
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "66"
+    ],
+    "pinpoints": [
+     "66.2 c"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#66"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "15",
+    "paragraf": "18",
+    "sentence": "Ändringarna genomför delvis artikel 66.2 c första stycket vi i kapitaltäckningsdirektivet.",
+    "page": 337
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91",
+     "1",
+     "3",
+     "6"
+    ],
+    "pinpoints": [
+     "91 a",
+     "1",
+     "91 a",
+     "3",
+     "91 a",
+     "6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#6"
+    ],
+    "partial": true,
+    "law": "18.11 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "16",
+    "paragraf": "1",
+    "sentence": "Ändringarna genomför delvis artiklarna 91a.1–91a.3 och 91a.6 i kapitaltäckningsdirektivet.",
+    "page": 338
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91"
+    ],
+    "pinpoints": [
+     "91.1",
+     "91.1 a",
+     "91.1 c",
+     "91.1 h",
+     "91.2 a"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91"
+    ],
+    "partial": true,
+    "law": "18.13 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+    "chapter": "3",
+    "paragraf": "1",
+    "sentence": "Ändringarna genomför delvis artikel 91.1, 91.1a, 91.1c, 91.1h och 91.2a i kapitaltäckningsdirektivet.",
+    "page": 344
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "66",
+     "67",
+     "91",
+     "1",
+     "6"
+    ],
+    "pinpoints": [
+     "66.3",
+     "67.3",
+     "91.1",
+     "91.1 h",
+     "91.2",
+     "91.3",
+     "91.4",
+     "91.5",
+     "91.6",
+     "91 a",
+     "1",
+     "91 a",
+     "6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#66",
+     "https://lagen.nu/ext/celex/32013L0036#67",
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#6"
+    ],
+    "partial": true,
+    "law": "18.13 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+    "chapter": "8",
+    "paragraf": "1 c",
+    "sentence": "Ändringarna genomför delvis artiklarna 66.3, 67.3, 91.1–91.1c, 91.1h, 91.2–91.6 och 91a.1–91a.6 i kapitaltäckningsdirektivet.",
+    "page": 345
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "8",
+     "3"
+    ],
+    "pinpoints": [
+     "8 a",
+     "3 a"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#8",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.13 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+    "chapter": "8",
+    "paragraf": "1 d",
+    "sentence": "Paragrafen genomför delvis artikel 8a.3a i kapitaltäckningsdirektivet.",
+    "page": 346
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91",
+     "7"
+    ],
+    "pinpoints": [
+     "91.1 i",
+     "91 a",
+     "7"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#7"
+    ],
+    "partial": true,
+    "law": "18.13 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+    "chapter": "23",
+    "paragraf": "5",
+    "sentence": "Ändringarna genomför delvis artiklarna 91.1i och 91a.7 i kapitaltäckningsdirektivet.",
+    "page": 347
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "133"
+    ],
+    "pinpoints": [
+     "133.8"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#133"
+    ],
+    "partial": true,
+    "law": "18.18 Förslaget till lag om ändring i lagen (2014:966) om kapitalbuffertar",
+    "chapter": "4",
+    "paragraf": "1",
+    "sentence": "Ändringarna genomför delvis artikel 133.8 i kapitaltäckningsdirektivet.",
+    "page": 358
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "133"
+    ],
+    "pinpoints": [
+     "133.11",
+     "133.12"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#133"
+    ],
+    "partial": false,
+    "law": "18.18 Förslaget till lag om ändring i lagen (2014:966) om kapitalbuffertar",
+    "chapter": "4",
+    "paragraf": "3",
+    "sentence": "Ändringarna genomför artikel 133.11 och 133.12 i kapitaltäckningsdirektivet.",
+    "page": 358
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "131"
+    ],
+    "pinpoints": [
+     "131.15"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#131"
+    ],
+    "partial": false,
+    "law": "18.18 Förslaget till lag om ändring i lagen (2014:966) om kapitalbuffertar",
+    "chapter": "5",
+    "paragraf": "7",
+    "sentence": "Ändringarna genomför artikel 131.15 i kapitaltäckningsdirektivet.",
+    "page": 359
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "3"
+    ],
+    "pinpoints": [
+     "3.1.9"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1",
+    "paragraf": "2",
+    "sentence": "Ändringarna genomför delvis artikel 3.1.9a–3.1.9d i kapitaltäckningsdirektivet.",
+    "page": 360
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "21",
+     "1"
+    ],
+    "pinpoints": [
+     "21 a",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#21",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "1",
+    "sentence": "Paragrafen genomför delvis artikel 21a.1 i kapitaltäckningsdirektivet.",
+    "page": 362
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "21",
+     "3",
+     "91",
+     "1",
+     "2",
+     "4"
+    ],
+    "pinpoints": [
+     "21 a",
+     "3",
+     "91.1",
+     "91.1 a",
+     "91.1 c",
+     "91.1 h",
+     "91.2 a",
+     "91.2 b",
+     "91 a",
+     "1",
+     "91 a",
+     "2",
+     "91 a",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#21",
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "2",
+    "sentence": "Paragrafen genomför artikel 21a.3 och delvis artiklarna 91.1, 91.1a, 91.1c, 91.1h, 91.2a, 91.2b, 91a.1, 91a.2 och 91a.4 i kapitaltäckningsdirektivet.",
+    "page": 362
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "21",
+     "4"
+    ],
+    "pinpoints": [
+     "21 a",
+     "4",
+     "21 a",
+     "4 a"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#21",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": false,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "3",
+    "sentence": "Paragrafen genomför artikel 21a.4 och 21a.4a i kapitaltäckningsdirektivet.",
+    "page": 364
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "21",
+     "10"
+    ],
+    "pinpoints": [
+     "21 a",
+     "10"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#21",
+     "https://lagen.nu/ext/celex/32013L0036#10"
+    ],
+    "partial": false,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "4",
+    "sentence": "Paragrafen genomför artikel 21a.10 i kapitaltäckningsdirektivet.",
+    "page": 365
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "21",
+     "8"
+    ],
+    "pinpoints": [
+     "21 a",
+     "8"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#21",
+     "https://lagen.nu/ext/celex/32013L0036#8"
+    ],
+    "partial": false,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "5",
+    "sentence": "Paragrafen genomför artikel 21a.8 i kapitaltäckningsdirektivet.",
+    "page": 365
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "2",
+     "1",
+     "3",
+     "4"
+    ],
+    "pinpoints": [
+     "27 a",
+     "2",
+     "27 a",
+     "1",
+     "27 a",
+     "3",
+     "27 a",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "8",
+    "sentence": "Paragrafen genomför artikel 27a.2 och delvis artikel 27a.1, 27a.3 och 27a.4 i kapitaltäckningsdirektivet.",
+    "page": 366
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "3",
+     "4"
+    ],
+    "pinpoints": [
+     "27 a",
+     "3",
+     "27 a",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "9",
+    "sentence": "Paragrafen genomför delvis artikel 27a.3 och 27a.4 i kapitaltäckningsdirektivet.",
+    "page": 367
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "7"
+    ],
+    "pinpoints": [
+     "27 a",
+     "7"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#7"
+    ],
+    "partial": false,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "10",
+    "sentence": "Paragrafen genomför artikel 27a.7 i kapitaltäckningsdirektivet.",
+    "page": 367
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1",
+     "2",
+     "4",
+     "3"
+    ],
+    "pinpoints": [
+     "27 b",
+     "1",
+     "27 b",
+     "2",
+     "27 b",
+     "4",
+     "27 b",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "11",
+    "sentence": "Paragrafen genomför artikel 27b.1, 27b.2 och 27b.4 och delvis artikel 27b.3 i kapitaltäckningsdirektivet.",
+    "page": 368
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1"
+    ],
+    "pinpoints": [
+     "27 c",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": false,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "12",
+    "sentence": "Paragrafen genomför artikel 27c.1 i kapitaltäckningsdirektivet.",
+    "page": 368
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "5"
+    ],
+    "pinpoints": [
+     "27 a",
+     "5"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#5"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "13",
+    "sentence": "Paragrafen genomför delvis artikel 27a.5 i kapitaltäckningsdirektivet.",
+    "page": 369
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "14",
+     "15",
+     "6"
+    ],
+    "pinpoints": [
+     "27 a",
+     "14",
+     "27 a",
+     "15",
+     "27 a",
+     "6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#14",
+     "https://lagen.nu/ext/celex/32013L0036#15",
+     "https://lagen.nu/ext/celex/32013L0036#6"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "14",
+    "sentence": "Paragrafen genomför artikel 27a.14 och 27a.15 och delvis artikel 27a.6 i kapitaltäckningsdirektivet.",
+    "page": 369
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "12",
+     "21",
+     "2",
+     "6"
+    ],
+    "pinpoints": [
+     "27 a",
+     "12",
+     "21 a",
+     "2",
+     "27 a",
+     "6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#12",
+     "https://lagen.nu/ext/celex/32013L0036#21",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#6"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "15",
+    "sentence": "Paragrafen genomför artikel 27a.12 och delvis artiklarna 21a.2 och 27a.6 i kapitaltäckningsdirektivet.",
+    "page": 370
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "66"
+    ],
+    "pinpoints": [
+     "27 e",
+     "66.1 g"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#66"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "16",
+    "sentence": "Paragrafen genomför delvis artiklarna 27e och 66.1 g–j i kapitaltäckningsdirektivet.",
+    "page": 370
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "3"
+    ],
+    "pinpoints": [
+     "27 c",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "17",
+    "sentence": "Paragrafen genomför delvis artikel 27c.3 i kapitaltäckningsdirektivet.",
+    "page": 370
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "3"
+    ],
+    "pinpoints": [
+     "27 c",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "18",
+    "sentence": "Paragrafen genomför delvis artikel 27c.3 i kapitaltäckningsdirektivet.",
+    "page": 371
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "3"
+    ],
+    "pinpoints": [
+     "27 c",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "19",
+    "sentence": "Paragrafen genomför delvis artikel 27c.3 i kapitaltäckningsdirektivet.",
+    "page": 371
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27"
+    ],
+    "pinpoints": [
+     "27 d"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "20",
+    "sentence": "Paragrafen genomför delvis artikel 27d i kapitaltäckningsdirektivet.",
+    "page": 372
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1",
+     "2"
+    ],
+    "pinpoints": [
+     "27 f",
+     "1 f",
+     "27 f",
+     "2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#2"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "21",
+    "sentence": "Paragrafen genomför artikel 27f.1 första och tredje styckena och delvis artikel 27f.2 i kapitaltäckningsdirektivet.",
+    "page": 372
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "2"
+    ],
+    "pinpoints": [
+     "27 f",
+     "2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#2"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "22",
+    "sentence": "Paragrafen genomför delvis artikel 27f.2 i kapitaltäckningsdirektivet.",
+    "page": 373
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "2"
+    ],
+    "pinpoints": [
+     "27 f",
+     "2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#2"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "23",
+    "sentence": "Paragrafen genomför delvis artikel 27f.2 i kapitaltäckningsdirektivet.",
+    "page": 373
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "3"
+    ],
+    "pinpoints": [
+     "27 f",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": false,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "24",
+    "sentence": "Paragrafen genomför artikel 27f.3 i kapitaltäckningsdirektivet.",
+    "page": 373
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1",
+     "3"
+    ],
+    "pinpoints": [
+     "27 i",
+     "1",
+     "27 i",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "25",
+    "sentence": "Paragrafen genomför delvis artikel 27i.1 och 27i.3 i kapitaltäckningsdirektivet.",
+    "page": 373
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1"
+    ],
+    "pinpoints": [
+     "27 i",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "26",
+    "sentence": "Paragrafen genomför delvis artikel 27i.1 i kapitaltäckningsdirektivet.",
+    "page": 374
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1",
+     "7"
+    ],
+    "pinpoints": [
+     "27 i",
+     "1 f",
+     "27 i",
+     "7"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#7"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "27",
+    "sentence": "Paragrafen genomför delvis artikel 27i.1 första stycket och 27i.7 i kapitaltäckningsdirektivet.",
+    "page": 375
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1"
+    ],
+    "pinpoints": [
+     "27 i",
+     "1 f"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "28",
+    "sentence": "Paragrafen genomför delvis artikel 27i.1 första stycket i kapitaltäckningsdirektivet.",
+    "page": 376
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "4",
+     "10"
+    ],
+    "pinpoints": [
+     "27 i",
+     "4",
+     "27 i",
+     "10"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#10"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "29",
+    "sentence": "Paragrafen genomför delvis artikel 27i.4 och 27i.10 i kapitaltäckningsdirektivet.",
+    "page": 376
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1",
+     "4"
+    ],
+    "pinpoints": [
+     "27 j",
+     "1",
+     "27 j",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "30",
+    "sentence": "Paragrafen genomför delvis artikel 27j.1–27j.4 i kapitaltäckningsdirektivet.",
+    "page": 376
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1"
+    ],
+    "pinpoints": [
+     "27 k",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "31",
+    "sentence": "Paragrafen genomför delvis artikel 27k.1 i kapitaltäckningsdirektivet.",
+    "page": 378
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "2",
+     "4",
+     "9"
+    ],
+    "pinpoints": [
+     "27 i",
+     "2",
+     "27 i",
+     "4",
+     "27 i",
+     "9"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#9"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "32",
+    "sentence": "Paragrafen genomför delvis artikel 27i.2, 27i.4 och 27i.9 i kapitaltäckningsdirektivet.",
+    "page": 378
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "2",
+     "1"
+    ],
+    "pinpoints": [
+     "27 i",
+     "2",
+     "27 j",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "33",
+    "sentence": "Paragrafen genomför delvis artiklarna 27i.2 och 27j.1 i kapitaltäckningsdirektivet.",
+    "page": 379
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1",
+     "2",
+     "7"
+    ],
+    "pinpoints": [
+     "27 i",
+     "1",
+     "27 i",
+     "2",
+     "27 i",
+     "7"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#7"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "36",
+    "sentence": "Paragrafen genomför delvis artikel 27i.1, 27i.2 och 27i.7 i kapitaltäckningsdirektivet.",
+    "page": 381
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1",
+     "3"
+    ],
+    "pinpoints": [
+     "27 i",
+     "1",
+     "27 i",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "38",
+    "sentence": "Paragrafen genomför delvis artikel 27i.1 och 27i.3 i kapitaltäckningsdirektivet.",
+    "page": 381
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "4"
+    ],
+    "pinpoints": [
+     "27 i",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "39",
+    "sentence": "Paragrafen genomför delvis artikel 27i.4 i kapitaltäckningsdirektivet.",
+    "page": 382
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1",
+     "7",
+     "4"
+    ],
+    "pinpoints": [
+     "27 i",
+     "1",
+     "27 i",
+     "7",
+     "27 j",
+     "1",
+     "27 j",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#7",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "40",
+    "sentence": "Paragrafen genomför delvis artiklarna 27i.1, 27i.7, 27j.1 och 27j.4 i kapitaltäckningsdirektivet.",
+    "page": 383
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "4",
+     "9",
+     "10"
+    ],
+    "pinpoints": [
+     "27 i",
+     "4",
+     "27 i",
+     "9",
+     "27 i",
+     "10"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#9",
+     "https://lagen.nu/ext/celex/32013L0036#10"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "41",
+    "sentence": "Paragrafen genomför delvis artikel 27i.4, 27i.9 och 27i.10 i kapitaltäckningsdirektivet.",
+    "page": 384
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "8"
+    ],
+    "pinpoints": [
+     "27 i",
+     "8"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#8"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "42",
+    "sentence": "Paragrafen genomför delvis artikel 27i.8 i kapitaltäckningsdirektivet.",
+    "page": 384
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1"
+    ],
+    "pinpoints": [
+     "27 j",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "44",
+    "sentence": "Paragrafen genomför delvis artikel 27j.1 i kapitaltäckningsdirektivet.",
+    "page": 385
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1"
+    ],
+    "pinpoints": [
+     "27 i",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "46",
+    "sentence": "Paragrafen genomför delvis artikel 27i.1 i kapitaltäckningsdirektivet.",
+    "page": 386
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1"
+    ],
+    "pinpoints": [
+     "27 i",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "47",
+    "sentence": "Paragrafen genomför delvis artikel 27i.1 i kapitaltäckningsdirektivet.",
+    "page": 387
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "4"
+    ],
+    "pinpoints": [
+     "27 i",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "48",
+    "sentence": "Paragrafen genomför delvis artikel 27i.4 i kapitaltäckningsdirektivet.",
+    "page": 387
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1",
+     "4"
+    ],
+    "pinpoints": [
+     "27 j",
+     "1",
+     "27 j",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "49",
+    "sentence": "Paragrafen genomför delvis artikel 27j.1–27j.4 i kapitaltäckningsdirektivet.",
+    "page": 387
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1"
+    ],
+    "pinpoints": [
+     "27 k",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "50",
+    "sentence": "Paragrafen genomför delvis artikel 27k.1 i kapitaltäckningsdirektivet.",
+    "page": 389
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "1"
+    ],
+    "pinpoints": [
+     "27 j",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "51",
+    "sentence": "Paragrafen genomför delvis artikel 27j.1 i kapitaltäckningsdirektivet.",
+    "page": 389
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "4",
+     "9",
+     "10"
+    ],
+    "pinpoints": [
+     "27 i",
+     "4",
+     "27 i",
+     "9",
+     "27 i",
+     "10"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#9",
+     "https://lagen.nu/ext/celex/32013L0036#10"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "52",
+    "sentence": "Paragrafen genomför delvis artikel 27i.4, 27i.9 och 27i.10 i kapitaltäckningsdirektivet.",
+    "page": 390
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "3"
+    ],
+    "pinpoints": [
+     "27 i",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "54",
+    "sentence": "Paragrafen genomför delvis artikel 27i.3 i kapitaltäckningsdirektivet.",
+    "page": 391
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "21",
+     "1",
+     "47",
+     "48"
+    ],
+    "pinpoints": [
+     "21 c",
+     "1",
+     "47.3",
+     "48 c",
+     "1",
+     "47.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#21",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#48"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "56",
+    "sentence": "Paragrafen genomför artiklarna 21c.1, 47.3 och 48c.1 och delvis artikel 47.1 i kapitaltäckningsdirektivet.",
+    "page": 392
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "21",
+     "3",
+     "4",
+     "47",
+     "2"
+    ],
+    "pinpoints": [
+     "21 c",
+     "3",
+     "21 c",
+     "4",
+     "47.2",
+     "21 c",
+     "2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#21",
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#2"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "57",
+    "sentence": "Paragrafen genomför artiklarna 21c.3, 21c.4 och 47.2 och delvis artikel 21c.2 i kapitaltäckningsdirektivet.",
+    "page": 392
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "4",
+     "1"
+    ],
+    "pinpoints": [
+     "48 c",
+     "4",
+     "48 d",
+     "1",
+     "48 d",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "58",
+    "sentence": "Paragrafen genomför artikel 48c.4 och delvis artikel 48d.1 och 48d.4 i kapitaltäckningsdirektivet.",
+    "page": 393
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "2",
+     "1",
+     "4"
+    ],
+    "pinpoints": [
+     "48 d",
+     "2",
+     "48 d",
+     "1",
+     "48 d",
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "1 a",
+    "paragraf": "59",
+    "sentence": "Paragrafen genomför artikel 48d.2 och delvis artikel 48d.1 och 48d.4 i kapitaltäckningsdirektivet.",
+    "page": 395
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "121",
+     "88"
+    ],
+    "pinpoints": [
+     "121",
+     "88.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#121",
+     "https://lagen.nu/ext/celex/32013L0036#88"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "3",
+    "paragraf": "5",
+    "sentence": "Ändringen i paragrafen genomför artikel 121 och delvis artikel 88.1 i kapitaltäckningsdirektivet.",
+    "page": 396
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91",
+     "4",
+     "5"
+    ],
+    "pinpoints": [
+     "91.1 c",
+     "91.1",
+     "91 a",
+     "4",
+     "91 a",
+     "5",
+     "91.10"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#5"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "3",
+    "paragraf": "6",
+    "sentence": "Paragrafen genomför delvis artiklarna 91.1c, 91.1e–91.1h, 91a.4, 91a.5 och 91.10 i kapitaltäckningsdirektivet.",
+    "page": 396
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91"
+    ],
+    "pinpoints": [
+     "91.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "3",
+    "paragraf": "7",
+    "sentence": "ts får ha i andra företag. Para-\ngrafen genomför delvis artikel 91.3 i kapitaltäckningsdirektivet. D",
+    "page": 397
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91"
+    ],
+    "pinpoints": [
+     "91.4",
+     "91.5",
+     "91.6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "3",
+    "paragraf": "8",
+    "sentence": "Paragrafen genomför delvis artikel 91.4–91.6 i kapitaltäckningsdirektivet.",
+    "page": 398
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91"
+    ],
+    "pinpoints": [
+     "91.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "3",
+    "paragraf": "9",
+    "sentence": "Paragrafen genomför delvis artikel 91.2 i kapitaltäckningsdirektivet.",
+    "page": 398
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91",
+     "3"
+    ],
+    "pinpoints": [
+     "91.1 b",
+     "91 a",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "3",
+    "paragraf": "10",
+    "sentence": "Paragrafen genomför delvis artiklarna 91.1b och 91a.3 i kapitaltäckningsdirektivet.",
+    "page": 399
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "3",
+     "91",
+     "5"
+    ],
+    "pinpoints": [
+     "3.1.9",
+     "91.1 d",
+     "91 a",
+     "5"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#5"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "3",
+    "paragraf": "11",
+    "sentence": "Paragrafen genomför delvis artiklarna 3.1.9a–3.1.9d, 91.1d och 91a.5 i kapitaltäckningsdirektivet.",
+    "page": 399
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "1",
+     "47",
+     "2",
+     "3"
+    ],
+    "pinpoints": [
+     "48 m",
+     "1",
+     "47.1",
+     "48 m",
+     "2",
+     "48 n",
+     "1",
+     "48 n",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "1",
+    "sentence": "Paragrafen genomför artikel 48m.1 och delvis artiklarna 47.1, 48m.2 och 48n.1–48n.3 i kapitaltäckningsdirektivet.",
+    "page": 400
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "1",
+     "2",
+     "47",
+     "5"
+    ],
+    "pinpoints": [
+     "48 a",
+     "1",
+     "48 a",
+     "2",
+     "48 b",
+     "1",
+     "47.1",
+     "48 b",
+     "5"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#5"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "2",
+    "sentence": "Paragrafen genomför artiklarna 48a.1, 48a.2 och 48b.1 och delvis artiklarna 47.1 och 48b.5 i kapitaltäckningsdirektivet.",
+    "page": 400
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "3",
+     "47"
+    ],
+    "pinpoints": [
+     "48 a",
+     "3",
+     "47.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#47"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "3",
+    "sentence": "Paragrafen genomför artikel 48a.3 och delvis artikel 47.1 i kapitaltäckningsdirektivet.",
+    "page": 401
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "47",
+     "48",
+     "1"
+    ],
+    "pinpoints": [
+     "47.1",
+     "48 e",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "4",
+    "sentence": "Paragrafen genomför delvis artikel 47.1 och 48e.1 i kapitaltäckningsdirektivet.",
+    "page": 401
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "47",
+     "48",
+     "1"
+    ],
+    "pinpoints": [
+     "47.1",
+     "48 e",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "5",
+    "sentence": "Paragrafen genomför delvis artiklarna 47.1 och 48e.1 i kapitaltäckningsdirektivet.",
+    "page": 402
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "1",
+     "2",
+     "47"
+    ],
+    "pinpoints": [
+     "48 f",
+     "1",
+     "48 f",
+     "2",
+     "47.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#47"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "6",
+    "sentence": "Paragrafen genomför artikel 48f.1 och 48f.2 och delvis artikel 47.1 i kapitaltäckningsdirektivet.",
+    "page": 402
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "3",
+     "47"
+    ],
+    "pinpoints": [
+     "48 f",
+     "3",
+     "47.1",
+     "48 e",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#47"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "7",
+    "sentence": "Paragrafen genomför artikel 48f.3 och delvis artiklarna 47.1 och 48e.3 i kapitaltäckningsdirektivet.",
+    "page": 403
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "47",
+     "48",
+     "2",
+     "8",
+     "1",
+     "3"
+    ],
+    "pinpoints": [
+     "47.1",
+     "48 g",
+     "2",
+     "48 g",
+     "8",
+     "48 h",
+     "1",
+     "48 h",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#8",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "8",
+    "sentence": "Paragrafen genomför delvis artiklarna 47.1, 48g.2–48g.8 och 48h.1–48h.3 i kapitaltäckningsdirektivet.",
+    "page": 403
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "47",
+     "48",
+     "1"
+    ],
+    "pinpoints": [
+     "47.1",
+     "48 g",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "9",
+    "sentence": "Paragrafen genomför delvis artiklarna 47.1 och 48g.1 i kapitaltäckningsdirektivet.",
+    "page": 404
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "1",
+     "2",
+     "47"
+    ],
+    "pinpoints": [
+     "48 j",
+     "1",
+     "48 j",
+     "2",
+     "47.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#47"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "10",
+    "sentence": "Paragrafen genomför artikel 48j.1 och 48j.2 och delvis artikel 47.1 i kapitaltäckningsdirektivet.",
+    "page": 404
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "47",
+     "48",
+     "3"
+    ],
+    "pinpoints": [
+     "47.1",
+     "48 j",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "11",
+    "sentence": "Paragrafen genomför delvis artiklarna 47.1 och 48j.3 i kapitaltäckningsdirektivet.",
+    "page": 405
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "4",
+     "47",
+     "3"
+    ],
+    "pinpoints": [
+     "48 j",
+     "4",
+     "47.1",
+     "47 j",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#4",
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "12",
+    "sentence": "Paragrafen genomför artikel 48j.4 och delvis artiklarna 47.1 och 47j.3 i kapitaltäckningsdirektivet.",
+    "page": 405
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "47",
+     "48",
+     "3"
+    ],
+    "pinpoints": [
+     "47.1",
+     "48 j",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#3"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "13",
+    "sentence": "Paragrafen genomför delvis artiklarna 47.1 och 48j.3 i kapitaltäckningsdirektivet.",
+    "page": 406
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "47"
+    ],
+    "pinpoints": [
+     "48 i",
+     "47.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#47"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "5 b",
+    "paragraf": "14",
+    "sentence": "Paragrafen genomför artikel 48i och delvis artikel 47.1 i kapitaltäckningsdirektivet.",
+    "page": 406
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "3",
+     "21",
+     "2",
+     "47",
+     "5",
+     "8",
+     "1"
+    ],
+    "pinpoints": [
+     "48 k",
+     "3",
+     "21 c",
+     "2",
+     "47.1",
+     "48 g",
+     "5",
+     "48 g",
+     "8",
+     "48 k",
+     "1",
+     "48 k",
+     "2",
+     "48 l",
+     "2",
+     "48 l",
+     "3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#21",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#47",
+     "https://lagen.nu/ext/celex/32013L0036#5",
+     "https://lagen.nu/ext/celex/32013L0036#8",
+     "https://lagen.nu/ext/celex/32013L0036#1"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "6",
+    "paragraf": "1",
+    "sentence": "Ändringarna i paragrafen genomför artikel 48k.3 och delvis artiklarna 21c.2, 47.1, 48g.5, 48g.8, 48k.1, 48k.2, 48l.2 och 48l.3 i kapitaltäckningsdirektivet.",
+    "page": 407
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91",
+     "7"
+    ],
+    "pinpoints": [
+     "91.1 i",
+     "91 a",
+     "7"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#7"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "6",
+    "paragraf": "3",
+    "sentence": "Ändringarna i paragrafen genomför delvis artiklarna 91.1i och 91a.7 i kapitaltäckningsdirektivet.",
+    "page": 408
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "47"
+    ],
+    "pinpoints": [
+     "48 o",
+     "47.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#47"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "8",
+    "paragraf": "1 a",
+    "sentence": "Paragrafen genomför artikel 48o och delvis artikel 47.1 i kapitaltäckningsdirektivet.",
+    "page": 408
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "91"
+    ],
+    "pinpoints": [
+     "91.1 h"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#91"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "8",
+    "paragraf": "2 b",
+    "sentence": "Ändringarna i paragrafen genomför delvis artikel 91.1h i kapitaltäckningsdirektivet.",
+    "page": 409
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "66"
+    ],
+    "pinpoints": [
+     "66.1 g"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#66"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "8",
+    "paragraf": "2 c",
+    "sentence": "Ändringarna i paragrafen genomför delvis artikel 66.1 g–j i kapitaltäckningsdirektivet.",
+    "page": 410
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "3",
+     "91",
+     "6"
+    ],
+    "pinpoints": [
+     "3.1.9 a",
+     "91.1 h",
+     "91 a",
+     "6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#6"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "8",
+    "paragraf": "2 d",
+    "sentence": "Paragrafen genomför delvis artiklarna 3.1.9a, 91.1h och 91a.6 i kapitaltäckningsdirektivet.",
+    "page": 411
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "48",
+     "2",
+     "21",
+     "27",
+     "3",
+     "1",
+     "8",
+     "91",
+     "6",
+     "97"
+    ],
+    "pinpoints": [
+     "48 e",
+     "2",
+     "21 c",
+     "2",
+     "27 f",
+     "2",
+     "48 e",
+     "3",
+     "48 g",
+     "1",
+     "48 g",
+     "8",
+     "48 h",
+     "1",
+     "48 h",
+     "3",
+     "48 k",
+     "1",
+     "48 k",
+     "2",
+     "48 l",
+     "2",
+     "48 l",
+     "3",
+     "91.1",
+     "91.1 a",
+     "91.1 c",
+     "91.1 e",
+     "91.1 f",
+     "91.1 h",
+     "91.2 a",
+     "91.2 b",
+     "91.7",
+     "91.8",
+     "91.10",
+     "91 a",
+     "1",
+     "91 a",
+     "6",
+     "97.97",
+     "97.98",
+     "97.99",
+     "97.100",
+     "97.101"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#48",
+     "https://lagen.nu/ext/celex/32013L0036#2",
+     "https://lagen.nu/ext/celex/32013L0036#21",
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#3",
+     "https://lagen.nu/ext/celex/32013L0036#1",
+     "https://lagen.nu/ext/celex/32013L0036#8",
+     "https://lagen.nu/ext/celex/32013L0036#91",
+     "https://lagen.nu/ext/celex/32013L0036#6",
+     "https://lagen.nu/ext/celex/32013L0036#97"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "10",
+    "paragraf": "2",
+    "sentence": "Genom ändringarna i paragrafen får regeringen eller den myndighet som regeringen bestämmer meddela föreskrifter som genomför artikel 48e.2 och delvis genomför artiklarna 21c.2, 27f.2, 48e.3, 48g.1–48g.8, 48h.1–48h.3, 48k.1, 48k.2, 48l.2, 48l.3, 91.1, 91.1a, 91.1c, 91.1e första stycket, 91.1f, 91.1h, 91.2a, 91.2b, 91.7, 91.8, 91.10, 91a.1–91a.6 och 97–101 i kapitaltäckningsdirektivet.",
+    "page": 411
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0036",
+    "articles": [
+     "27",
+     "5",
+     "6",
+     "8",
+     "11",
+     "13",
+     "4"
+    ],
+    "pinpoints": [
+     "27 a",
+     "5",
+     "27 a",
+     "6",
+     "27 a",
+     "8",
+     "27 a",
+     "11",
+     "27 a",
+     "13",
+     "27 i",
+     "5",
+     "27 i",
+     "6",
+     "27 c",
+     "4",
+     "27 i",
+     "4",
+     "27 i",
+     "8"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0036#27",
+     "https://lagen.nu/ext/celex/32013L0036#5",
+     "https://lagen.nu/ext/celex/32013L0036#6",
+     "https://lagen.nu/ext/celex/32013L0036#8",
+     "https://lagen.nu/ext/celex/32013L0036#11",
+     "https://lagen.nu/ext/celex/32013L0036#13",
+     "https://lagen.nu/ext/celex/32013L0036#4"
+    ],
+    "partial": true,
+    "law": "18.19 Förslaget till lag om ändring i lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag",
+    "chapter": "10",
+    "paragraf": "3",
+    "sentence": "Genom ändringarna i paragrafen får regeringen meddela föreskrifter som genomför artiklarna 27a.5, 27a.6, 27a.8–27a.11, 27a.13, 27i.5 och 27i.6 och delvis artiklarna 27c.4, 27i.4 och 27i.8 i kapitaltäckningsdirektivet.",
+    "page": 413
+   }
+  ]
+ }
+}

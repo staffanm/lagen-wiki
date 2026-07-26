@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2013-14-69": "794fdba798b87e3ca3b0f9cba3165fc6ebd030dc378b5c739db9e7dc768fd843",
+      "artifact:eurlex/32011L0070": "85578c96c4c85f9ca94afacdc391c0d2459a3e77a52370fd90bb147c848c3d2b"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32011L0070"
+    ],
+    "proposition": "https://lagen.nu/prop/2013/14:69",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0070",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0070#4"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (1984:3) om kärnteknisk verksamhet",
+        "chapter": null,
+        "paragraf": "5 a",
+        "sentence": "Kravet på tillstånd är en förutsättning för att på ett ändamålsenligt sätt genomföra artikel 4.4 i kärnavfallsdirektivet som ställer krav på att det som i direktivet definieras som radioaktivt avfall (och som i Sverige i benämns kärnavfall, kärnämne som inte är avsett att används på nytt eller annat radioaktivt avfall) ska slutförvaras i den medlemsstat där det genererades såvida det inte har ingåtts ett avtal som uppfyller vissa villkor med ett annat land om att använda en anläggning för slutförvaring där.",
+        "page": 24
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0070",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.4",
+          "2.3 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0070#2"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (1984:3) om kärnteknisk verksamhet",
+        "chapter": null,
+        "paragraf": "5 a",
+        "sentence": "I det nya andra stycket införs undantag från kravet på tillstånd där första punkten motsvarar kärnavfallsdirektivets artikel 2.4 och andra punkten motsvarar artikel 2.3 b.",
+        "page": 24
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0070",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0070#4"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i strålskyddslagen (1988:220)",
+        "chapter": null,
+        "paragraf": "20 b",
+        "sentence": "I enlighet med kärnavfallsdirektivets artikel 4.4 första stycket innebär bestämmelsen i första punkten att tillstånd för slutförvaring enligt 20 § första stycket 5 endast får ges om det mellan Sverige och det andra landet finns ett avtal om sådan förvaring.",
+        "page": 27
+      }
+    ]
+  }
+}

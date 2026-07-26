@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2025-26-202": "d342d20e95f8356f37c60aade540b0c778a78e8fd4361dfe0f235357aa088f2b",
+      "artifact:eurlex/31992L0043": "8651e8d8ab6c3a016d3aa007e14c67f62e567230f075e11cb3e3bb1059a71890",
+      "artifact:eurlex/32000L0060": "168e78d77e89136200105a1a781bb62606585952f5eb4e467c04c4811e841150"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31992L0043",
+      "https://lagen.nu/ext/celex/32000L0060"
+    ],
+    "proposition": "https://lagen.nu/prop/2025/26:202",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31992L0043",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31992L0043#6"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "24",
+        "paragraf": "10 a",
+        "sentence": "Paragrafen genomför artikel 6.4 i art- och habitatdirektivet.",
+        "page": 22
+      }
+    ]
+  }
+}

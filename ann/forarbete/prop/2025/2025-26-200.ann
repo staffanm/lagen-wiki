@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2025-26-200": "360793c16b6ef5fd1b15d742b4512bbc0373c499efa42edb1f55e01b008a4408",
+      "artifact:eurlex/32009L0065": "9a1032db65fc4d428deecbdad6be4b6703a12a247788c50fc315ef381a7e551e"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0065"
+    ],
+    "proposition": "https://lagen.nu/prop/2025/26:200",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0065",
+        "articles": [
+          "52"
+        ],
+        "pinpoints": [
+          "52.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0065#52"
+        ],
+        "partial": true,
+        "law": "9.2 Förslaget till lag om ändring i lagen (2004:46) om värdepappersfonder",
+        "chapter": "5",
+        "paragraf": "14",
+        "sentence": "Ändringarna i paragrafen genomför delvis artikel 52.1 i UCITS-direktivet.",
+        "page": 31
+      }
+    ]
+  }
+}

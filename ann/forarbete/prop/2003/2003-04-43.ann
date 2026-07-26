@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2003-04-43": "31cc5ca0f0f27c6764a0305d033015d25bc87c780ef85bd0ae1cb0ec9cf22527",
+      "artifact:eurlex/32002L0058": "2273c30f89f4d2022cabccdfc0ec4d8b13b128f86b71a151152d349026590b15"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32002L0058"
+    ],
+    "proposition": "https://lagen.nu/prop/2003/04:43",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0058",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13.1",
+          "13.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0058#13"
+        ],
+        "partial": false,
+        "law": "Förslag till lag om ändring i marknadsföringslagen (1995:450)",
+        "chapter": null,
+        "paragraf": "13 b",
+        "sentence": "Ett sådant krav följer enligt artikel 13.1 och 13.5 i direktivet om integritet och elektronisk kommunikation.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0058",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0058#13"
+        ],
+        "partial": false,
+        "law": "Förslag till lag om ändring i marknadsföringslagen (1995:450)",
+        "chapter": null,
+        "paragraf": "13 b",
+        "sentence": "Den nya bestämmelsen, som genomför artikel 13.2 i direktivet om integritet och elektronisk kommunikation, reglerar ett särskilt undantag från kravet på samtycke i fråga om användande av elektronisk post.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0058",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0058#13"
+        ],
+        "partial": false,
+        "law": "Förslag till lag om ändring i marknadsföringslagen (1995:450)",
+        "chapter": null,
+        "paragraf": "13 c",
+        "sentence": "Bestämmelsen genomför artikel 13.4 i direktivet om integritet och elektronisk kommunikation.",
+        "page": null
+      }
+    ]
+  }
+}

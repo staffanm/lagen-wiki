@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2017-18-242": "3577ac35deaa26ad60e39b589f8334bbe491f889d196a08f76be7f6ebadc4a54",
+      "artifact:eurlex/32004L0109": "3cc5c80ea404ebd9c7a3b9888f7d8e6f254a29633a20c19333081376b0c62faa"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32004L0109"
+    ],
+    "proposition": "https://lagen.nu/prop/2017/18:242",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0109",
+        "articles": [
+          "24"
+        ],
+        "pinpoints": [
+          "24.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0109#24"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "16",
+        "paragraf": "12",
+        "sentence": "Den genomför artikel 24.2 i öppenhetsdirektivet.",
+        "page": 43
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0109",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0109#25"
+        ],
+        "partial": false,
+        "law": "9.2 Förslaget till lag om ändring i offentlighetsoch sekretesslagen (2009:400)",
+        "chapter": "30",
+        "paragraf": "8",
+        "sentence": "Den genomför artikel 25.1 i öppenhetsdirektivet.",
+        "page": 47
+      }
+    ]
+  }
+}

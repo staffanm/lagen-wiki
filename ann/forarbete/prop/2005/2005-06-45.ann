@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2005-06-45": "5399700816c8f4999bb1f999898cf3347d6d70a1c38a83ac2e6130d0b5331bd7",
+      "artifact:eurlex/32002L0087": "8ace4292fb2d39990c75f4e02396fc20b461ce810d83eff4eebd02380eec0812",
+      "artifact:eurlex/32005L0001": "ed125aff59bd8e27cbcce3d5e5fe8b3105d9fb8f906676cea4d84b338231e72d"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32002L0087",
+      "https://lagen.nu/ext/celex/32005L0001"
+    ],
+    "proposition": "https://lagen.nu/prop/2005/06:45",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.17"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#2"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om särskild tillsyn över finansiella konglomerat",
+        "chapter": null,
+        "paragraf": "3",
+        "sfs": "S1N14",
+        "sentence": "Vid bedömningen av om en annan myndighet än de som nämns i a och b skall anses relevant skall, såsom anges i artikel 2.17 i konglomeratdirektivet, särskilt beaktas den marknadsandel de reglerade företagen i konglomeratet har i andra medlemsstater.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#3"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om särskild tillsyn över finansiella konglomerat",
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "Av paragrafen, vars innehåll motsvarar artikel 3.2 i konglomeratdirektivet, framgår när företagen i en grupp anses driva betydande verksamhet inom försäkringssektorn och bank- och värdepapperssektorn.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#10"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om särskild tillsyn över finansiella konglomerat",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Av första och andra styckena framgår när Finansinspektionen, vid en tillämpning av de kriterier som anges i artikel 10 i direktivet, skall vara samordnare.",
+        "page": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2023-24-124": "60b0a0d752f66002696c292e0a15431cf7ab277236a688ff5ac4beb2b3457ec6",
+      "artifact:eurlex/32022L2381": "def410ccbae38d8a99adb340fef831e1dde6295dd72042ea72088023b9673527",
+      "artifact:eurlex/32022L2464": "9e2c64aaeb618224dc650953883f68d72c652ff6f6f2d75b969a3c4d2acdec39"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32022L2381",
+      "https://lagen.nu/ext/celex/32022L2464"
+    ],
+    "proposition": "https://lagen.nu/prop/2023/24:124",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2381",
+        "articles": [
+          "3",
+          "7"
+        ],
+        "pinpoints": [
+          "3.8",
+          "7.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2381#3",
+          "https://lagen.nu/ext/celex/32022L2381#7"
+        ],
+        "partial": false,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "5",
+        "paragraf": "38",
+        "sentence": "Ändringarna genomför artiklarna 3.8 och 7.4 i direktivet om en jämnare könsfördelning bland styrelseledamöterna i börsnoterade företag.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": false,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "1 b",
+        "sentence": "Paragrafen genomför artikel 1.3 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": false,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "6",
+        "sentence": "Ändringarna genomför artikel 1.5 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "10",
+        "sentence": "Ändringarna genomför delvis artikel 1.4 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför delvis artikel 1.7 i direk-tivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "11 a",
+        "sentence": "Paragrafen genomför delvis artikel 1.4 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "12",
+        "sentence": "Ändringarna genomför delvis artikel 1.4 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "12 a",
+        "sentence": "Paragrafen genomför delvis artikel 1.4 i direktivet om företagens hållbarhetsrapportering och är delvis utformad med hittillsvarande 12 § som förebild.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "12 b",
+        "sentence": "Paragrafen genomför delvis artikel 1.4 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "12 c",
+        "sentence": "Paragrafen genomför delvis artikel 1.4 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "12 d",
+        "sentence": "Ändringarna genomför delvis artikel 1.4 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "12 f",
+        "sentence": "Paragrafen genomför delvis artikel 1.4 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "12 g",
+        "sentence": "Paragrafen genomför delvis artikel 1.4 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "13",
+        "sentence": "Ändringarna genomför delvis artikel 1.4 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför delvis artikel 1.9 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför delvis artikel 1.1 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "16",
+        "sentence": "Paragrafen genomför delvis artikel 1.14 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.1",
+          "1.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "7",
+        "paragraf": "31 a",
+        "sentence": "Ändringarna genomför delvis artikel 1.1 och 1.7 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "7",
+        "paragraf": "31 b",
+        "sentence": "Paragrafen genomför delvis artikel 1.7 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "7",
+        "paragraf": "31 c",
+        "sentence": "Ändringarna genomför delvis artikel 1.7 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "7",
+        "paragraf": "31 d",
+        "sentence": "Paragrafen genomför delvis artikel 1.7 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "7",
+        "paragraf": "31 e",
+        "sentence": "Paragrafen genomför delvis artikel 1.7 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "7",
+        "paragraf": "31 f",
+        "sentence": "Paragrafen genomför delvis artikel 1.14 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "7",
+        "paragraf": "31 g",
+        "sentence": "Paragrafen genomför delvis artikel 1.14 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.10",
+          "1.16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "8",
+        "paragraf": "3",
+        "sentence": "Ändringarna genomför delvis artiklarna 1.10 och 1.16 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "8",
+        "paragraf": "3 b",
+        "sentence": "Paragrafen genomför delvis artikel 1.10 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "8",
+        "paragraf": "15 b",
+        "sentence": "Paragrafen genomför delvis artikel 1.10 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "8",
+        "paragraf": "15 c",
+        "sentence": "Paragrafen genomför delvis artikel 1.14 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "8",
+        "paragraf": "15 d",
+        "sentence": "Paragrafen genomför delvis artikel 1.14 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32022L2464",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32022L2464#1"
+        ],
+        "partial": true,
+        "law": "11.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "8",
+        "paragraf": "16",
+        "sentence": "Ändringarna genomför delvis artikel 1.10 i direktivet om företagens hållbarhetsrapportering.",
+        "page": null
+      }
+    ]
+  }
+}

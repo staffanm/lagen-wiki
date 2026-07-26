@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2020-21-206": "3862b7025efe08a9ca9f08d19f860d0f19d37a2a67d477a027fdf955a71887b1",
+      "artifact:eurlex/32014L0065": "91d81dc63e2595ac79799202052586544a1a0f5b8e7e081dfed39b71e4d55586"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32014L0065"
+    ],
+    "proposition": "https://lagen.nu/prop/2020/21:206",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1 p"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#2"
+        ],
+        "partial": false,
+        "law": "17.4 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "2",
+        "paragraf": "5",
+        "sentence": "Paragrafen, som innehåller undantag från kravet på tillståndsplikt för att driva värdepappersrörelse, genomför artikel 2.1 p i direktivet om marknader för finansiella instrument.",
+        "page": 149
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2008-09-155": "6a31b0a740abed8c68f6e936895bd0f6ebd7e119568e9d00e52d4fe4e769bac7",
+      "artifact:eurlex/32000L0031": "2e41d7a07943dcfb4cbba91a5ad2e23dcb3a76126528e4569f03a0861e2683b4",
+      "artifact:eurlex/32002L0047": "3d26143d007e9df2bc124d8870a15b53cfa25fed17511ae395620bba565b0b29",
+      "artifact:eurlex/32004L0109": "3cc5c80ea404ebd9c7a3b9888f7d8e6f254a29633a20c19333081376b0c62faa",
+      "artifact:eurlex/32008L0022": "2c9f630185f48238e5a111df6005e88560731f5916a3ba7b53aee961a4cb1984"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32000L0031",
+      "https://lagen.nu/ext/celex/32002L0047",
+      "https://lagen.nu/ext/celex/32004L0109",
+      "https://lagen.nu/ext/celex/32008L0022"
+    ],
+    "proposition": "https://lagen.nu/prop/2008/09:155",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0109",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0109#12"
+        ],
+        "partial": false,
+        "law": "9.3 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "4",
+        "paragraf": "16",
+        "sentence": "Bestämmelsen genomför artikel 12.4 i öppenhetsdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2005-06-184": "046e6fc335ae9cccdb7fae4279d28993ea5fd33b88c5cb23b4d7d8d72f17f2d0",
+      "artifact:eurlex/32003L0087": "a9871b1894931eed362302fc12d83e8b8b053598ab93954e6f17b311cc9ea27c",
+      "artifact:eurlex/32004L0101": "d4d56041a49df9c55add0efcc9077db3098ba17fc1fa68d6da5638baf9b6ee9d"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32003L0087",
+      "https://lagen.nu/ext/celex/32004L0101"
+    ],
+    "proposition": "https://lagen.nu/prop/2005/06:184",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#27"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "2",
+        "paragraf": "2",
+        "sentence": "Bestämmelsen i tredje stycket upphävs till följd av artikel 27 i handelsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#10"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "3",
+        "paragraf": "4",
+        "sentence": "Enligt artikel 10 i handelsdirektivet är det möjligt att från och med handelsperioden 2008–2012 fördela högst tio procent av utsläppsrätterna genom försäljning till marknadsvärdet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "12",
+          "13"
+        ],
+        "pinpoints": [
+          "12",
+          "13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#12",
+          "https://lagen.nu/ext/celex/32003L0087#13"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "6",
+        "paragraf": "2",
+        "sentence": "Bestämmelser om detta finns i artiklarna 12 och 13 i handelsdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2003-04-50": "d574cb8c0980312945dbfdc55d40aed5414c9bf4f66c51cc39c6e05a5a87b99f",
+      "artifact:eurlex/32001L0051": "64296e7053daffcf015600f7cbb8c7afedd72867defffe3ca1a8c5be010c3efb"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32001L0051"
+    ],
+    "proposition": "https://lagen.nu/prop/2003/04:50",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0051",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0051#3"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i utlänningslagen (1989:529)",
+        "chapter": "9",
+        "paragraf": "2",
+        "sentence": "Kostnadsansvaret för utlänningens uppehälle grundas på artikel 3 i direktivet 2001/51/EG, enligt vilken transportörerna skall ta på sig ansvaret för kostnaderna för vistelse av tredjelandsmedborgaren om de inte själva kan verkställa återresan för tredjelandsmedborgaren som vägrats inresa om omedelbar vidaretransport inte är möjlig.",
+        "page": 77
+      }
+    ]
+  }
+}

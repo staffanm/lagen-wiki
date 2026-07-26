@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2012-13-150": "9b73780ad9d1603ced7134d2ab09a6c1a3f5a30a5e7afede62a5b2296490a133",
+      "artifact:eurlex/32005L0036": "eefc43a400906ea6a134c819c33ae8e9c6088a028d05882b5383c9fe42bc3ad2",
+      "artifact:eurlex/32011L0024": "a6b9c40d5cb6e9d590c2a2d6630777f8822450b91b82f666a8701c1027b2eee5"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32005L0036",
+      "https://lagen.nu/ext/celex/32011L0024"
+    ],
+    "proposition": "https://lagen.nu/prop/2012/13:150",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32005L0036",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32005L0036#3"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ersättning för kostnader till följd av vård i ett annat land inom Europeiska ekonomiska samarbetsområdet",
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "eller annan person som utövar yrkesverksamhet inom hälso- och sjukvård som är begränsad till ett reglerat yrke enligt definitionen i artikel 3.1 a i direktiv 2005/36/EG",
+        "page": 112
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0024",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0024#3"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ersättning för kostnader till följd av vård i ett annat land inom Europeiska ekonomiska samarbetsområdet",
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "Denna definition är likalydande med den definition av hälso- och sjukvårdspersonal som finns i artikel 3 f i patientrörlighetsdirektivet och utgör en dynamisk hänvisning.",
+        "page": 112
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0024",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.1",
+          "7.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0024#7"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ersättning för kostnader till följd av vård i ett annat land inom Europeiska ekonomiska samarbetsområdet",
+        "chapter": null,
+        "paragraf": "5",
+        "sentence": "Sverige ska enligt artikel 7.1 i patientrörlighetsdirektivet ersätta kostnader för gränsöverskridande hälso- och sjukvård om vården i fråga hör till de förmåner som den som är försäkrad i Sverige har rätt till här.",
+        "page": 114
+      }
+    ]
+  }
+}

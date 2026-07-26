@@ -1,0 +1,386 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2011-12-94": "1f0ed9f390f84ece4dc5d1332e391c2bc62936a97b66f3acd2b6f4a122cf6282",
+      "artifact:eurlex/32006L0112": "1ba89d4265e23bc76aea1d4f3dfa41b25030edbd959c44a0caf3e7781ddb3669",
+      "artifact:eurlex/32010L0088": "bbf6e7b068dd0701f10f9edcb791a3190a67c78a80749d53b68efbb111b07535"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32006L0112",
+      "https://lagen.nu/ext/celex/32010L0088"
+    ],
+    "proposition": "https://lagen.nu/prop/2011/12:94",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "219"
+        ],
+        "pinpoints": [
+          "219 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#219"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "1",
+        "paragraf": "17",
+        "sentence": "Ändringen syftar till att anpassa definitionen av faktura till den nya artikel 219a i mervärdesskattedirektivet som anger vilket EU-lands faktureringsregler som ska tillämpas.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "217"
+        ],
+        "pinpoints": [
+          "217"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#217"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "1",
+        "paragraf": "17 a",
+        "sentence": "Ändringarna föranleds av den nya artikel 217 i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.2 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#17"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "2 a",
+        "paragraf": "7",
+        "sentence": "Ändringen i andra stycket punkt 2 föranleds av en ändring i artikel 17.2 f i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "91"
+        ],
+        "pinpoints": [
+          "91.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#91"
+        ],
+        "partial": true,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "7",
+        "paragraf": "7 a",
+        "sentence": "Paragrafen är ny och syftar tillsammans med 7 b § till att genomföra artikel 91.2 i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "219"
+        ],
+        "pinpoints": [
+          "219 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#219"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "11",
+        "paragraf": "1",
+        "sentence": "Ändringen föranleds av den nya artikel 219a i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "222"
+        ],
+        "pinpoints": [
+          "222 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#222"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "11",
+        "paragraf": "3 a",
+        "sentence": "Andra och tredje stycket syftar till att genomföra den nya artikel 222 första stycket i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "236"
+        ],
+        "pinpoints": [
+          "236"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#236"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "11",
+        "paragraf": "7",
+        "sentence": "Vidare anpassas lydelsen av andra stycket till artikel 236 i mervärdesskattedirektivet genom att ett tillägg görs så att paragrafen uttryckligen omfattar även de fall då flera elektroniska fakturor ställs till förfogande för samma mottagare.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "220",
+          "1",
+          "2",
+          "238",
+          "226"
+        ],
+        "pinpoints": [
+          "220 a",
+          "1 b",
+          "220 a",
+          "2",
+          "238.3",
+          "226 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#220",
+          "https://lagen.nu/ext/celex/32006L0112#1",
+          "https://lagen.nu/ext/celex/32006L0112#2",
+          "https://lagen.nu/ext/celex/32006L0112#238",
+          "https://lagen.nu/ext/celex/32006L0112#226"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "11",
+        "paragraf": "9",
+        "sentence": "Regeln i punkt 3 motsvarar den nya artikel 220a.1 b i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "230"
+        ],
+        "pinpoints": [
+          "230"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#230"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "11",
+        "paragraf": "11",
+        "sentence": "Ändringen i paragrafen syftar till att genomföra artikel 230 i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "219",
+          "1",
+          "2"
+        ],
+        "pinpoints": [
+          "219 a",
+          "219 a",
+          "1",
+          "219 a",
+          "2 a",
+          "219 a",
+          "2 a",
+          "219 a",
+          "2",
+          "219 a",
+          "2 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#219",
+          "https://lagen.nu/ext/celex/32006L0112#1",
+          "https://lagen.nu/ext/celex/32006L0112#2"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "11",
+        "paragraf": "12",
+        "sentence": "Paragraferna är nya och syftar till att genomföra den nya artikel 219a i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "219",
+          "1",
+          "2"
+        ],
+        "pinpoints": [
+          "219 a",
+          "219 a",
+          "1",
+          "219 a",
+          "2 a",
+          "219 a",
+          "2 a",
+          "219 a",
+          "2",
+          "219 a",
+          "2 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#219",
+          "https://lagen.nu/ext/celex/32006L0112#1",
+          "https://lagen.nu/ext/celex/32006L0112#2"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "11",
+        "paragraf": "13",
+        "sentence": "Paragraferna är nya och syftar till att genomföra den nya artikel 219a i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "219",
+          "1",
+          "2"
+        ],
+        "pinpoints": [
+          "219 a",
+          "219 a",
+          "1",
+          "219 a",
+          "2 a",
+          "219 a",
+          "2 a",
+          "219 a",
+          "2",
+          "219 a",
+          "2 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#219",
+          "https://lagen.nu/ext/celex/32006L0112#1",
+          "https://lagen.nu/ext/celex/32006L0112#2"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "11",
+        "paragraf": "14",
+        "sentence": "Paragraferna är nya och syftar till att genomföra den nya artikel 219a i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "219"
+        ],
+        "pinpoints": [
+          "219 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#219"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "11 a",
+        "paragraf": "1",
+        "sentence": "Ändringen föranleds av den nya regeln i artikel 219a i mervärdesskattedirektivet som innebär att ett annat EU-lands faktureringsregler under vissa förutsättningar ska tillämpas.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "233"
+        ],
+        "pinpoints": [
+          "233"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#233"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "11 a",
+        "paragraf": "2",
+        "sentence": "De nya reglerna i paragrafen motsvaras av den nya artikel 233 i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "249",
+          "241"
+        ],
+        "pinpoints": [
+          "249",
+          "241"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#249",
+          "https://lagen.nu/ext/celex/32006L0112#241"
+        ],
+        "partial": true,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "11 a",
+        "paragraf": "3",
+        "sentence": "Första stycket syftar till att genomföra den nya artikel 249 i mervärdesskattedirektivet i den del artikeln rör rätten för en behörig myndighet i ett annat EU-land att få åtkomst till fakturor som bevaras på elektronisk väg.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "69",
+          "67"
+        ],
+        "pinpoints": [
+          "69",
+          "67"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#69",
+          "https://lagen.nu/ext/celex/32006L0112#67"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "13",
+        "paragraf": "8 b",
+        "sentence": "Första stycket syftar till att genomföra den nya artikel 69 i mervärdesskattedirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2009-10-28": "e059b24a3b9391442e6d62952fb48d24f46d29ec86fa9b8a643b5f6a8e30befb",
+      "artifact:eurlex/32003L0087": "a9871b1894931eed362302fc12d83e8b8b053598ab93954e6f17b311cc9ea27c",
+      "artifact:eurlex/32009L0029": "4176fe66f8ec6c2802926234bb711e3772c6146ba68e5997d8ae4b560792d4eb"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32003L0087",
+      "https://lagen.nu/ext/celex/32009L0029"
+    ],
+    "proposition": "https://lagen.nu/prop/2009/10:28",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0029",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0029#3"
+        ],
+        "partial": true,
+        "law": null,
+        "chapter": "1",
+        "paragraf": "2 b",
+        "sentence": "Definitionen av växthusgaser i artikel 3 i ändringsdirektivet innehåller fler växthusgaser men det är endast utsläpp av koldioxid, dikväveoxid och perfluorkolväten som kan kräva tillstånd och därför inkluderas endast dessa i lagen (2004:1199) om handel med utsläppsrätter.",
+        "page": null
+      }
+    ]
+  }
+}

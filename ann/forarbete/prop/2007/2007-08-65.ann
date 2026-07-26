@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2007-08-65": "0a2dd298f2eb5871fb724214909ddec6326be6f1296bfa9431fe5484717eeb52",
+      "artifact:eurlex/32006L0042": "503d82933cd846d0b1a12bb947cb422fd47df10bd31c2caf59cffe7741b8c1df"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32006L0042"
+    ],
+    "proposition": "https://lagen.nu/prop/2007/08:65",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0042",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0042#9"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i arbetsmiljölagen (1977:1160)",
+        "chapter": "4",
+        "paragraf": "1",
+        "sentence": "Den ger möjlighet till föreskrifter om sådana ingripanden som Europeiska kommissionen har beslutat om i enlighet med artikel 9 i det nya maskindirektivet och som därmed ska genomföras nationellt.",
+        "page": 39
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0042",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0042#17"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i arbetsmiljölagen (1977:1160)",
+        "chapter": "7",
+        "paragraf": "11",
+        "sentence": "Därigenom kan ingripanden med stöd av bestämmelsen göras när det föreligger en felaktig CE-märkning i enlighet med artikel 17 i det nya maskindirektivet, utan att den felaktiga märkningen i sig innebär en sådan risk.",
+        "page": 39
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2003-04-122": "1ce038facec465f6a82564713f2eb3c0bd63bf859cf2fe0a2e1e9135e9cf118b",
+      "artifact:eurlex/32001L0086": "e33e34e35e4207a2ce4ea2be005f324f46603eeaed41c9f93c0b981fd9048a7b"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32001L0086"
+    ],
+    "proposition": "https://lagen.nu/prop/2003/04:122",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0086",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0086#1"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "1",
+        "sentence": "Den motsvarar artikel 1.1 i direktivet.",
+        "page": 95
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0086",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0086#1"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Den motsvarar artikel 1.2 i direktivet.",
+        "page": 95
+      }
+    ]
+  }
+}

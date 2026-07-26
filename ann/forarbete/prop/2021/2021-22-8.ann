@@ -1,0 +1,777 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2021-22-8": "0aa38f0e08da4ab906edfc445f21035a0ddcdceab84b059a0c162ce47c8fc328",
+      "artifact:eurlex/32011L0061": "26a696b979b686710cdb8dd5510464047466e1773a524f97e3619dd3c0eeb3bc",
+      "artifact:eurlex/32014L0065": "91d81dc63e2595ac79799202052586544a1a0f5b8e7e081dfed39b71e4d55586"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32011L0061",
+      "https://lagen.nu/ext/celex/32014L0065"
+    ],
+    "proposition": "https://lagen.nu/prop/2021/22:8",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1.15",
+          "4.1.17",
+          "4.1.44",
+          "4.1.45",
+          "4.1.47",
+          "4.1.50",
+          "4.1.59",
+          "4.1.61"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#4"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "1",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 4.1.15, 4.1.17, 4.1.44, 4.1.45, 4.1.47, 4.1.50, 4.1.59 och 4.1.61 och avsnitt C i bilaga I till MiFID II.",
+        "page": 103
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1.1",
+          "4.1.7",
+          "4.1.10",
+          "4.1.12",
+          "4.1.18",
+          "4.1.20",
+          "4.1.21",
+          "4.1.22",
+          "4.1.23",
+          "4.1.24",
+          "4.1.26",
+          "4.1.27",
+          "4.1.29",
+          "4.1.60",
+          "4.1.64",
+          "4.1.65"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#4"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "1",
+        "paragraf": "4 b",
+        "sentence": "Paragrafen genomför artikel 4.1.1, 4.1.7, 4.1.10, 4.1.12, 4.1.18, 4.1.20 – 4.1.24, 4.1.26, 4.1.27, 4.1.29, 4.1.60, 4.1.64 och 4.1.65 i MiFID II och kompletterar artikel 2.1.36a i MiFIR.",
+        "page": 106
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1.8 a",
+          "4.1.13",
+          "4.1.19",
+          "4.1.25",
+          "4.1.30",
+          "4.1.31",
+          "4.1.34",
+          "4.1.38",
+          "4.1.39",
+          "4.1.40",
+          "4.1.41",
+          "4.1.43",
+          "4.1.44 a",
+          "4.1.46",
+          "4.1.48",
+          "4.1.55",
+          "4.1.62",
+          "4.1.62 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#4"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "1",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 4.1.8a, 4.1.13, 4.1.19, 4.1.25, 4.1.30, 4.1.31, 4.1.34, 4.1.38 – 4.1.41, 4.1.43, 4.1.44a, 4.1.46, 4.1.48, 4.1.55, 4.1.62 och 4.1.62a i MiFID II.",
+        "page": 108
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "2.1",
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#2",
+          "https://lagen.nu/ext/celex/32014L0065#3"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "2",
+        "paragraf": "5",
+        "sentence": "Paragrafen, som innehåller undantag från kravet på tillståndsplikt för att driva värdepappersrörelse, genomför artikel 2.1 och delvis artikel 3.1 i MiFID II.",
+        "page": 111
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "39",
+          "41"
+        ],
+        "pinpoints": [
+          "39",
+          "41.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#39",
+          "https://lagen.nu/ext/celex/32014L0065#41"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "4",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artiklarna 39 och 41.1 första stycket i MiFID II.",
+        "page": 112
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "16",
+          "19",
+          "20",
+          "35"
+        ],
+        "pinpoints": [
+          "16.11",
+          "19.4",
+          "20.8",
+          "35.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#16",
+          "https://lagen.nu/ext/celex/32014L0065#19",
+          "https://lagen.nu/ext/celex/32014L0065#20",
+          "https://lagen.nu/ext/celex/32014L0065#35"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "8",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 16.11 första stycket och delvis artiklarna 19.4, 20.8 och 35.8 första stycket i MiFID II.",
+        "page": 113
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#16"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "8",
+        "paragraf": "14 a",
+        "sentence": "Paragrafen, som är ny, genomför delvis artikel 16a i MiFID II.",
+        "page": 114
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "30"
+        ],
+        "pinpoints": [
+          "30.1",
+          "30.2",
+          "30.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#30"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "9",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 30.1 första stycket, 30.2 andra stycket och 30.3 första stycket andra meningen och andra stycket i MiFID II.",
+        "page": 115
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#16"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "9",
+        "paragraf": "12 a",
+        "sentence": "Paragrafen, som är ny, genomför delvis artikel 16a i MiFID II.",
+        "page": 115
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "24",
+          "29",
+          "1"
+        ],
+        "pinpoints": [
+          "24.4",
+          "29 a",
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#24",
+          "https://lagen.nu/ext/celex/32014L0065#29",
+          "https://lagen.nu/ext/celex/32014L0065#1"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "9",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför delvis artikel 24.4 första stycket b och c och andra stycket och artikel 29a.1 i MiFID II.",
+        "page": 116
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "24"
+        ],
+        "pinpoints": [
+          "24.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#24"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "9",
+        "paragraf": "17 a",
+        "sentence": "Paragrafen, som är ny, genomför artikel 24.4 tredje och fjärde styckena i MiFID II.",
+        "page": 117
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "24"
+        ],
+        "pinpoints": [
+          "24.5 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#24"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "9",
+        "paragraf": "19 a",
+        "sentence": "Paragrafen, som är ny, genomför artikel 24.5a i MiFID II.",
+        "page": 117
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "25",
+          "29",
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "25.2",
+          "29 a",
+          "2",
+          "29 a",
+          "3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#25",
+          "https://lagen.nu/ext/celex/32014L0065#29",
+          "https://lagen.nu/ext/celex/32014L0065#2",
+          "https://lagen.nu/ext/celex/32014L0065#3"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "9",
+        "paragraf": "23 a",
+        "sentence": "Paragrafen, som är ny, genomför artikel 25.2 tredje stycket och delvis artikel 29a.2 och 29a.3 i MiFID II.",
+        "page": 118
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "25",
+          "29",
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "25.6",
+          "29 a",
+          "2",
+          "29 a",
+          "3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#25",
+          "https://lagen.nu/ext/celex/32014L0065#29",
+          "https://lagen.nu/ext/celex/32014L0065#2",
+          "https://lagen.nu/ext/celex/32014L0065#3"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "9",
+        "paragraf": "27",
+        "sentence": "Paragrafen genomför artikel 25.6 första stycket och delvis artikel 29a.2 och 29a.3 i MiFID II.",
+        "page": 119
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.4",
+          "27.5",
+          "27.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#27"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "9",
+        "paragraf": "33",
+        "sentence": "Paragrafen genomför artikel 27.4, 27.5 första stycket och 27.7 i MiFID II.",
+        "page": 119
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "73"
+        ],
+        "pinpoints": [
+          "73.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#73"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "10",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 73.2 i MiFID II när det gäller leverantörer av datarapporteringstjänster.",
+        "page": 120
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "57"
+        ],
+        "pinpoints": [
+          "57.1",
+          "57.2",
+          "57.11",
+          "57.4",
+          "57.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#57"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "15 a",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 57.1 första stycket, 57.2 och 57.11 och delvis artikel 57.4 och 57.9 i MiFID II.",
+        "page": 121
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "57"
+        ],
+        "pinpoints": [
+          "57.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#57"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "15 a",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 57.6 första stycket i MiFID II.",
+        "page": 121
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "57"
+        ],
+        "pinpoints": [
+          "57.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#57"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "15 a",
+        "paragraf": "5",
+        "sentence": "Ändringen i paragrafen genomför artikel 57.1 andra stycket d i MiFID II.",
+        "page": 122
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "57"
+        ],
+        "pinpoints": [
+          "57.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#57"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "15 a",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 57.1 andra stycket a – c i MiFID II.",
+        "page": 122
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "57"
+        ],
+        "pinpoints": [
+          "57.8",
+          "57.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#57"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "15 a",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför delvis artikel 57.8 och 57.9 i MiFID II.",
+        "page": 123
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "58"
+        ],
+        "pinpoints": [
+          "58.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#58"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "15 a",
+        "paragraf": "15",
+        "sentence": "Paragrafen, som är ny, genomför artikel 58.1 tredje stycket i MiFID II.",
+        "page": 124
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "70"
+        ],
+        "pinpoints": [
+          "70.2",
+          "70.3",
+          "70.4 a",
+          "70.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#70"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "25",
+        "paragraf": "1 a",
+        "sentence": "Paragrafen genomför delvis artikel 70.2, 70.3, 70.4 a och 70.5 i MiFID II.",
+        "page": 124
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "70"
+        ],
+        "pinpoints": [
+          "70.2",
+          "70.3",
+          "70.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#70"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "25",
+        "paragraf": "1 e",
+        "sentence": "Paragrafen genomför delvis artikel 70.2, 70.3 och 70.5 i MiFID II.",
+        "page": 124
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "86"
+        ],
+        "pinpoints": [
+          "86.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#86"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "25",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 86.2 första – tredje styckena i MiFID II.",
+        "page": 125
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "16",
+          "19",
+          "20",
+          "35"
+        ],
+        "pinpoints": [
+          "16.11",
+          "19.4",
+          "20.8",
+          "35.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#16",
+          "https://lagen.nu/ext/celex/32014L0065#19",
+          "https://lagen.nu/ext/celex/32014L0065#20",
+          "https://lagen.nu/ext/celex/32014L0065#35"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "8",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 16.11 första stycket och delvis artiklarna 19.4, 20.8 och 35.8 första stycket i MiFID II.",
+        "page": 127
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#27"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "8",
+        "paragraf": "33",
+        "sentence": "Paragrafen, som återinförs, genomför delvis artikel 27.3 i MiFID II när det gäller skyldigheten för vissa värdepappersinstitut att offentliggöra information om kvaliteten på sitt utförande av transaktioner.",
+        "page": 127
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.4",
+          "27.5",
+          "27.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#27"
+        ],
+        "partial": false,
+        "law": "13.2 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "9",
+        "paragraf": "33",
+        "sentence": "Paragrafen genomför artikel 27.4, 27.5 första stycket och 27.7 i MiFID II.",
+        "page": 128
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#27"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "13",
+        "paragraf": "9",
+        "sentence": "Paragrafen, som återinförs, genomför delvis artikel 27.3 i MiFID II när det gäller skyldigheten för en börs att offentliggöra information om kvaliteten på utförandet av transaktioner.",
+        "page": 129
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "70"
+        ],
+        "pinpoints": [
+          "70.2",
+          "70.3",
+          "70.4 a",
+          "70.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#70"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "25",
+        "paragraf": "1 a",
+        "sentence": "Paragrafen genomför delvis artikel 70.2, 70.3, 70.4 a och 70.5 i MiFID II.",
+        "page": 129
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "70"
+        ],
+        "pinpoints": [
+          "70.2",
+          "70.3",
+          "70.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#70"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "25",
+        "paragraf": "1 e",
+        "sentence": "Paragrafen genomför delvis artikel 70.2, 70.3 och 70.5 i MiFID II.",
+        "page": 130
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "86"
+        ],
+        "pinpoints": [
+          "86.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#86"
+        ],
+        "partial": false,
+        "law": "13.2 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "25",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 86.2 första – tredje styckena i MiFID II.",
+        "page": 131
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#25"
+        ],
+        "partial": false,
+        "law": "13.3 Förslaget till lag om ändring i lagen (2004:46) om värdepappersfonder",
+        "chapter": "7",
+        "paragraf": "3",
+        "sentence": "I den paragrafen genomförs kravet i artikel 25.2 tredje stycket i MiFID II att ett värdepappersinstitut, vid tillhandahållande av investeringsrådgivning eller portföljförvaltning som innefattar byte av finansiella instrument, ska hämta in nödvändiga uppgifter om kundens investeringar, analysera kostnaderna och nyttan av bytet och informera kunden.",
+        "page": 133
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#25"
+        ],
+        "partial": false,
+        "law": "13.4 Förslaget till lag om ändring i lagen (2013:561) om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "1 a",
+        "sentence": "I den paragrafen genomförs kravet i artikel 25.2 tredje stycket i MiFID II att ett värdepappersinstitut, vid tillhandahållande av investeringsrådgivning eller portföljförvaltning som innefattar byte av finansiella instrument, ska hämta in nödvändiga uppgifter om kundens investeringar, analysera kostnaderna och nyttan av bytet och informera kunden.",
+        "page": 134
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2005-06-72": "2cbfee5a84f44fb442b592340d64b5628bb3b2266db08b78ac33f38b7bf97ce0",
+      "artifact:eurlex/32003L0086": "4b387c5280646d2a923805d5f13fcae90c4068b8207152cf4d045f055bb197e0"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32003L0086"
+    ],
+    "proposition": "https://lagen.nu/prop/2005/06:72",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0086",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0086#2"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "5",
+        "paragraf": "3",
+        "sentence": "Definitionen av ensamkommande barn överensstämmer med artikel 2 f i familjeåterföreningsdirektivet.",
+        "page": 85
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0086",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0086#10"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "5",
+        "paragraf": "3",
+        "sentence": "Bestämmelsen innebär en rätt till uppehållstillstånd för en förälder till ett ensamkommande barn vilket krävs för att uppfylla artikel 10.3 a i familjeåterföreningsdirektivet.",
+        "page": 85
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0086",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0086#13"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "5",
+        "paragraf": "3",
+        "sentence": "Kravet följer av artikel 13.2 familjeåterföreningsdirektivet.",
+        "page": 85
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2006-07-95": "a862153124bb394df65d8df84f35ec10933334dda1da6726bf7afd68750276b8",
+      "artifact:eurlex/32004L0035": "5adc0810cd2ee320d287e290d9053d8cffd1d08238005885832800c7d2bbcc8a",
+      "artifact:eurlex/32006L0021": "b87226f340916cebfc39c729b04cc9f2680d89c9be2b72b3d2070ec7e4587c37"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32004L0035",
+      "https://lagen.nu/ext/celex/32006L0021"
+    ],
+    "proposition": "https://lagen.nu/prop/2006/07:95",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0035",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0035#2"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "10",
+        "paragraf": "1",
+        "sentence": "Definitionen motsvarar de skador som omfattas av artikel 2.1 i miljöansvarsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0035",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.4 a",
+          "8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0035#8"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "10",
+        "paragraf": "5",
+        "sentence": "Andra stycket återspeglar de begränsade möjligheter till undantag som miljöansvarsdirektivet ger (artikel 8.4 a–b).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0035",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1",
+          "4.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0035#4"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "10",
+        "paragraf": "19",
+        "sentence": "Paragrafen är ny och anger undantag från bestämmelserna i kapitlet och motsvarar artiklarna 4.1 och 4.2 i miljöansvarsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0035",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0035#2"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "10",
+        "paragraf": "21",
+        "sentence": "Exempelvis behövs bestämmelser som genomför kriterierna i bilaga 1 till miljöansvarsdirektivet och undantaget i artikel 2.1 a) andra stycket i direktivet.",
+        "page": null
+      }
+    ]
+  }
+}

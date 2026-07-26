@@ -1,0 +1,641 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2018-19-159": "e257b57d4ee66a5f593dd0289addc247dd82632f3014820b732f87da8109a581",
+      "artifact:eurlex/32014L0065": "91d81dc63e2595ac79799202052586544a1a0f5b8e7e081dfed39b71e4d55586",
+      "artifact:eurlex/32016L2341": "157de3b27c70832e059373a5da0c7c61dcdce4f8de8fc88a6bd1b49d4889f66e"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32014L0065",
+      "https://lagen.nu/ext/celex/32016L2341"
+    ],
+    "proposition": "https://lagen.nu/prop/2018/19:159",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.14",
+          "6.15",
+          "6.16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#6"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "4 a",
+        "sentence": "Paragrafen genomför artikel 6.14–6.16 i andra tjänstepensionsdirektivet.",
+        "page": 140
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "9 a",
+        "sentence": "Paragrafen genomför artikel 5 första stycket i andra tjänstepensionsdirektivet.",
+        "page": 140
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "19",
+          "33",
+          "34",
+          "35"
+        ],
+        "pinpoints": [
+          "19.1",
+          "33.8",
+          "34.5 a",
+          "35.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#19",
+          "https://lagen.nu/ext/celex/32016L2341#33",
+          "https://lagen.nu/ext/celex/32016L2341#34",
+          "https://lagen.nu/ext/celex/32016L2341#35"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "10 a",
+        "sentence": "Ändringarna genomför artiklarna 19.1, 33.8, 34.5 a–c och 35.3 i andra tjänstepensionsdirektivet.",
+        "page": 141
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.1 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#19"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "10 b",
+        "sentence": "Paragrafen genomför artikel 19.1 första stycket a–d och f i andra tjänstepensionsdirektivet.",
+        "page": 141
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.1 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#19"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "10 c",
+        "sentence": "Paragrafen genomför artikel 19.1 första stycket g och andra stycket i andra tjänstepensionsdirektivet.",
+        "page": 142
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.1 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#19"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "10 d",
+        "sentence": "Paragrafen genomför artikel 19.1 första stycket e i andra tjänstepensionsdirektivet.",
+        "page": 142
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "37",
+          "44",
+          "36"
+        ],
+        "pinpoints": [
+          "37.1 a",
+          "44 a",
+          "36.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#37",
+          "https://lagen.nu/ext/celex/32016L2341#44",
+          "https://lagen.nu/ext/celex/32016L2341#36"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "10 l",
+        "sentence": "Bestämmelsen genomför artiklarna 37.1 a och c och 44 a och b i andra tjänstepensionsdirektivet.",
+        "page": 143
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "37",
+          "38",
+          "39",
+          "40",
+          "42",
+          "43",
+          "36"
+        ],
+        "pinpoints": [
+          "37.1 b",
+          "37.3 f",
+          "37.4",
+          "38.1",
+          "38.2",
+          "38.3",
+          "38.4",
+          "38.5",
+          "39.1 a",
+          "40.1 a",
+          "42",
+          "43.1",
+          "43.2",
+          "36.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#37",
+          "https://lagen.nu/ext/celex/32016L2341#38",
+          "https://lagen.nu/ext/celex/32016L2341#39",
+          "https://lagen.nu/ext/celex/32016L2341#40",
+          "https://lagen.nu/ext/celex/32016L2341#42",
+          "https://lagen.nu/ext/celex/32016L2341#43",
+          "https://lagen.nu/ext/celex/32016L2341#36"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "10 m",
+        "sentence": "Bestämmelsen genomför artiklarna 37.1 b, e, f, i och j, 37.3 första meningen, 37.4, 38.1–38.5, 39.1 a– h, 40.1 a, b och d, 42, 43.1 och 43.2.",
+        "page": 144
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "41",
+          "36"
+        ],
+        "pinpoints": [
+          "41.1 a",
+          "41.3 a",
+          "36.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#41",
+          "https://lagen.nu/ext/celex/32016L2341#36"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "10 n",
+        "sentence": "Bestämmelsen genomför artikel 41.1 a–d och 41.3 a–d.",
+        "page": 145
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "5",
+          "6",
+          "11"
+        ],
+        "pinpoints": [
+          "5",
+          "6.19",
+          "11.1",
+          "11.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#5",
+          "https://lagen.nu/ext/celex/32016L2341#6",
+          "https://lagen.nu/ext/celex/32016L2341#11"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "15 a",
+        "sentence": "Ändringarna i paragrafen genomför artiklarna 5, 6.19, 11.1 och 11.2 i andra tjänstepensionsdirektivet.",
+        "page": 145
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#11"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "15 b",
+        "sentence": "Ändringarna i paragrafen genomför artikel 11.3 i andra tjänstepensionsdirektivet.",
+        "page": 146
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.4",
+          "11.5",
+          "11.8",
+          "11.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#11"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "15 c",
+        "sentence": "Ändringarna i paragrafen genomför artikel 11.4, 11.5, 11.8 och 11.9 i andra tjänstepensionsdirektivet.",
+        "page": 147
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#22"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 a",
+        "sentence": "Paragrafen genomför artikel 22.1 a i i andra tjänstepensionsdirektivet.",
+        "page": 147
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "21",
+          "23"
+        ],
+        "pinpoints": [
+          "21.1",
+          "21.2",
+          "23.3 g"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#21",
+          "https://lagen.nu/ext/celex/32016L2341#23"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 b",
+        "sentence": "I paragrafen genomförs artiklarna 21.1, 21.2 och 23.3 g i andra tjänstepensionsdirektivet.",
+        "page": 147
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#25"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 c",
+        "sentence": "Paragrafen genomför artikel 25 i andra tjänstepensionsdirektivet.",
+        "page": 148
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "21",
+          "26"
+        ],
+        "pinpoints": [
+          "21.4",
+          "26"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#21",
+          "https://lagen.nu/ext/celex/32016L2341#26"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 d",
+        "sentence": "Paragrafen genomför artiklarna 21.4 och 26 i andra tjänstepensionsdirektivet.",
+        "page": 149
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "22",
+          "24"
+        ],
+        "pinpoints": [
+          "22.1 a",
+          "24.4",
+          "24.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#22",
+          "https://lagen.nu/ext/celex/32016L2341#24"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 e",
+        "sentence": "Paragrafen genomför artiklarna 22.1 a ii och iii och b, 24.4 och 24.5 i andra tjänstepensionsdirektivet.",
+        "page": 149
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "30"
+        ],
+        "pinpoints": [
+          "30"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#30"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 f",
+        "sentence": "Paragrafen genomför delar av artikel 30 i andra tjänstepensionsdirektivet.",
+        "page": 150
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "21",
+          "23"
+        ],
+        "pinpoints": [
+          "21.5",
+          "23.1",
+          "23.3 e",
+          "21.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#21",
+          "https://lagen.nu/ext/celex/32016L2341#23"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 g",
+        "sentence": "Paragrafen genomför artiklarna 21.5, 23.1 och 23.3 e i andra tjänstepensionsdirektivet.",
+        "page": 150
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "23",
+          "21",
+          "30"
+        ],
+        "pinpoints": [
+          "23.3 f",
+          "21.3",
+          "30"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#23",
+          "https://lagen.nu/ext/celex/32016L2341#21",
+          "https://lagen.nu/ext/celex/32016L2341#30"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 h",
+        "sentence": "Paragrafen genomför artikel 23.3 f i andra tjänstepensionsdirektivet.",
+        "page": 151
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "30",
+          "23"
+        ],
+        "pinpoints": [
+          "30",
+          "23.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#30",
+          "https://lagen.nu/ext/celex/32016L2341#23"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 i",
+        "sentence": "Genom bemyndigandet finns även utrymme för att genomföra delar av artikel 30 i andra tjänstepensionsdirektivet.",
+        "page": 151
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 j",
+        "sentence": "Paragrafen genomför artikel 28 i andra tjänstepensionsdirektivet.",
+        "page": 152
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "31"
+        ],
+        "pinpoints": [
+          "31.1",
+          "31.2",
+          "31.4",
+          "31.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#31"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 k",
+        "sentence": "Paragrafen genomför artikel 31.1, 31.2, 31.4 och 31.5 i andra tjänstepensionsdirektivet.",
+        "page": 152
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "31"
+        ],
+        "pinpoints": [
+          "31.3",
+          "31.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#31"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 l",
+        "sentence": "Paragrafen genomför artikel 31.3 och 31.6 i andra tjänstepensionsdirektivet.",
+        "page": 153
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#9"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "31",
+        "sentence": "Paragrafen genomför artikel 9.1 i andra tjänstepensionsdirektivet.",
+        "page": 153
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "60"
+        ],
+        "pinpoints": [
+          "60"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#60"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "34",
+        "sentence": "Ändringen genomför artikel 60 i andra tjänstepensionsdirektivet.",
+        "page": 154
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "47",
+          "50"
+        ],
+        "pinpoints": [
+          "47.3",
+          "50 e"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#47",
+          "https://lagen.nu/ext/celex/32016L2341#50"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "35",
+        "sentence": "Ändringen genomför artiklarna 47.3 och 50 e i andra tjänstepensionsdirektivet.",
+        "page": 155
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "24"
+        ],
+        "pinpoints": [
+          "24.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#24"
+        ],
+        "partial": false,
+        "law": "16.2 Förslaget till lag om ändring i offentlighetsoch sekretesslagen (2009:400)",
+        "chapter": "30",
+        "paragraf": "4 b",
+        "sentence": "Genom ändringen i paragrafen genomförs artikel 24.6 i andra tjänstepensionsdirektivet.",
+        "page": 156
+      }
+    ]
+  }
+}

@@ -1,0 +1,977 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2021-22-215": "d6de4730345d2a8fa92ce3232161993701852eee80bfdf404733e1b0f44a2572",
+      "artifact:eurlex/32019L1023": "e7fd6f8838273ec4d0e228034ba910cff46deb4646e9884777918f940243096b"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32019L1023"
+    ],
+    "proposition": "https://lagen.nu/prop/2021/22:215",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "2",
+          "4"
+        ],
+        "pinpoints": [
+          "2.1.1",
+          "4.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#2",
+          "https://lagen.nu/ext/celex/32019L1023#4"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "1",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artiklarna 2.1.1 och 4.1 i insolvensdirektivet.",
+        "page": 350
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.2",
+          "1.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#1"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "1",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 1.2 och 1.3 i insolvensdirektivet.",
+        "page": 350
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "31"
+        ],
+        "pinpoints": [
+          "31.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#31"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "1",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 31.3 i insolvensdirektivet.",
+        "page": 351
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.7",
+          "4.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#4"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 4.7 och 4.8 i insolvensdirektivet.",
+        "page": 351
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#28"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 28 i insolvensdirektivet.",
+        "page": 352
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#26"
+        ],
+        "partial": true,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför delvis artikel 26 i insolvensdirektivet.",
+        "page": 352
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#26"
+        ],
+        "partial": true,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför delvis artikel 26 i insolvensdirektivet.",
+        "page": 353
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1",
+          "4.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#4"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 4.1 och 4.3 i insolvensdirektivet.",
+        "page": 355
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#4"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 4.2 i insolvensdirektivet.",
+        "page": 357
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#4"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 4.8 i insolvensdirektivet.",
+        "page": 358
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2",
+          "5.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#5"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 5.2 och 5.3 i insolvensdirektivet.",
+        "page": 358
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#26"
+        ],
+        "partial": true,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför delvis artikel 26 i insolvensdirektivet.",
+        "page": 359
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#26"
+        ],
+        "partial": true,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "17",
+        "sentence": "Paragrafen genomför delvis artikel 26 i insolvensdirektivet.",
+        "page": 360
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#5"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "20",
+        "sentence": "Paragrafen genomför artikel 5.1.",
+        "page": 361
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "2",
+          "6"
+        ],
+        "pinpoints": [
+          "2.1.4",
+          "6.1",
+          "6.2",
+          "6.3",
+          "6.4",
+          "6.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#2",
+          "https://lagen.nu/ext/celex/32019L1023#6"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "2",
+        "paragraf": "23",
+        "sentence": "Paragrafen genomför artiklarna 2.1.4 och 6.1 – 6.5 i insolvensdirektivet.",
+        "page": 364
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#7"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "3",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 7.4 i insolvensdirektivet.",
+        "page": 366
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#7"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "3",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 7.5 i insolvensdirektivet.",
+        "page": 373
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#7"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "3",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 7.6 i insolvensdirektivet.",
+        "page": 373
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#9"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "1",
+        "sentence": "Genom paragrafen genomförs artikel 9.1 i insolvensdirektivet.",
+        "page": 374
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "2",
+          "9"
+        ],
+        "pinpoints": [
+          "2.1.2",
+          "2.1.3",
+          "9.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#2",
+          "https://lagen.nu/ext/celex/32019L1023#9"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "3",
+        "sentence": "Genom paragrafen genomförs artiklarna 2.1.2, 2.1.3 och 9.2 i insolvensdirektivet.",
+        "page": 375
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#9"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "5",
+        "sentence": "Genom paragrafen genomförs artikel 9.4 i insolvensdirektivet.",
+        "page": 378
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "2",
+          "8"
+        ],
+        "pinpoints": [
+          "2.1.7",
+          "8.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#2",
+          "https://lagen.nu/ext/celex/32019L1023#8"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "7",
+        "sentence": "Genom paragrafen genomförs artiklarna 2.1.7 och 8.1 i insolvensdirektivet.",
+        "page": 380
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#8"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "8",
+        "sentence": "Genom paragrafen genomförs artikel 8.1 i insolvensdirektivet.",
+        "page": 382
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#8"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "9",
+        "sentence": "Genom paragrafen genomförs artikel 8.1 b i insolvensdirektivet.",
+        "page": 383
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#8"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "10",
+        "sentence": "Genom paragrafen genomförs artikel 8.1 b i insolvensdirektivet.",
+        "page": 384
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#9"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "17",
+        "sentence": "Genom paragrafen genomförs artikel 9.5 i insolvensdirektivet.",
+        "page": 387
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#9"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "20",
+        "sentence": "Genom paragrafen genomförs artikel 9.6 i insolvensdirektivet.",
+        "page": 389
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#10"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "22",
+        "sentence": "Genom paragrafen genomförs artikel 10.4 i insolvensdirektivet.",
+        "page": 390
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.2",
+          "10.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#10"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "23",
+        "sentence": "Genom paragrafen genomförs artikel 10.2 och 10.3 i insolvensdirektivet.",
+        "page": 390
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.2 d"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#10"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "24",
+        "sentence": "Genom paragrafen genomförs artikel 10.2 d i insolvensdirektivet.",
+        "page": 392
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#11"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "25",
+        "sentence": "Genom paragrafen genomförs artikel 11 i insolvensdirektivet.",
+        "page": 394
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.2 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#11"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "26",
+        "sentence": "Genom paragrafen genomförs artikel 11.2 andra stycket i insolvensdirektivet.",
+        "page": 395
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#11"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "27",
+        "sentence": "Genom paragrafen genomförs artikel 11.1 andra stycket i insolvensdirektivet.",
+        "page": 396
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "14"
+        ],
+        "pinpoints": [
+          "14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#14"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "28",
+        "sentence": "Genom paragrafen genomförs artikel 14 i insolvensdirektivet.",
+        "page": 397
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "10",
+          "15"
+        ],
+        "pinpoints": [
+          "10.1",
+          "15"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#10",
+          "https://lagen.nu/ext/celex/32019L1023#15"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "29",
+        "sentence": "Genom paragrafen genomförs artiklarna 10.1 och 15 i insolvensdirektivet.",
+        "page": 398
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "32"
+        ],
+        "pinpoints": [
+          "32"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#32"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "31",
+        "sentence": "Genom paragrafen genomförs artikel 32 i insolvensdirektivet.",
+        "page": 399
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#12"
+        ],
+        "partial": true,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "33",
+        "sentence": "Genom paragrafen genomförs delvis artikel 12.2 i insolvensdirektivet.",
+        "page": 401
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#12"
+        ],
+        "partial": true,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "4",
+        "paragraf": "34",
+        "sentence": "Genom paragrafen genomförs delvis artikel 12.2 i insolvensdirektivet.",
+        "page": 401
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#6"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "6",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 6.9 i insolvensdirektivet.",
+        "page": 405
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.6",
+          "6.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#6"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "6",
+        "paragraf": "2",
+        "sentence": "Genom paragrafen genomförs artikel 6.6 och 6.7 i insolvensdirektivet.",
+        "page": 407
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#6"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "6",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 6.8 i insolvensdirektivet.",
+        "page": 407
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.1",
+          "27.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#27"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "7",
+        "paragraf": "1",
+        "sentence": "Genom paragrafen genomförs artikel 27.1 och 27.2 i insolvensdirektivet.",
+        "page": 408
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#27"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "8",
+        "paragraf": "2",
+        "sentence": "Genom paragrafen genomförs artikel 27.1 i insolvensdirektivet.",
+        "page": 409
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#16"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "9",
+        "paragraf": "2",
+        "sentence": "Genom paragrafen genomförs artikel 16.3 i insolvensdirektivet.",
+        "page": 411
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#16"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "9",
+        "paragraf": "3",
+        "sentence": "Genom paragrafen genomförs artikel 16.1 i insolvensdirektivet.",
+        "page": 411
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#27"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "9",
+        "paragraf": "4",
+        "sentence": "Genom paragrafen genomförs artikel 27.4 i insolvensdirektivet.",
+        "page": 411
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#27"
+        ],
+        "partial": false,
+        "law": "18.1 Förslaget till lag om företagsrekonstruktion",
+        "chapter": "9",
+        "paragraf": "5",
+        "sentence": "Genom paragrafen genomförs artikel 27.4 i insolvensdirektivet.",
+        "page": 412
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#17"
+        ],
+        "partial": false,
+        "law": "18.9 Förslaget till lag om ändring i förmånsrättslagen (1970:979)",
+        "chapter": null,
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 17.4 i insolvensdirektivet.",
+        "page": 421
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L1023",
+        "articles": [
+          "32"
+        ],
+        "pinpoints": [
+          "32"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L1023#32"
+        ],
+        "partial": false,
+        "law": "18.27 Förslaget till lag om ändring i aktiebolagslagen (2005:551)",
+        "chapter": "25",
+        "paragraf": "16",
+        "sentence": "Genom paragrafen genomförs artikel 32 i insolvensdirektivet.",
+        "page": 441
+      }
+    ]
+  }
+}

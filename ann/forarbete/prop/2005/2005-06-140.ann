@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2005-06-140": "d11be41db23329aa71b09ff873916589c403633dd5ab55cc860f532f8c5f151e",
+      "artifact:eurlex/32004L0025": "8764ff884967231cb7cb78a128d0b6f7e42b64ec459b24c25358ab84ca7b38cf"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32004L0025"
+    ],
+    "proposition": "https://lagen.nu/prop/2005/06:140",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#2"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "1",
+        "paragraf": "1",
+        "sentence": "Detta stämmer med hur direktivet är utformat (se artikel 2.1 a).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#2"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "1",
+        "paragraf": "2",
+        "sentence": "Definitionen går tillbaka på artikel 2.1 a i direktivet om uppköpserbjudanden, men har en något vidare innebörd än vad som följer av direktivet genom att den också träffar uppköpserbjudanden som inte syftar till att uppnå kontroll eller följer på uppnåendet av kontroll i målbolaget.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#2"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "1",
+        "paragraf": "2",
+        "sentence": "Det stämmer överens med den terminologi som används i direktivet (artikel 2.1 c) liksom bl.a. i NBK:s regler rörande offentliga erbjudanden om aktieförvärv.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#6"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "2",
+        "paragraf": "2",
+        "sentence": "För att minska utrymmet för insiderhandel föreskrivs i artikel 6.1 i direktivet om uppköpserbjudanden att budgivarens beslut att lämna ett erbjudande skall offentliggöras utan dröjsmål och att tillsynsmyndigheten skall underrättas om erbjudandet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#6"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "2",
+        "paragraf": "3",
+        "sentence": "I första stycket åläggs, i enlighet med artikel 6.1 i direktivet, budgivaren att upprätta en erbjudandehandling.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#5"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "3",
+        "paragraf": "1",
+        "sentence": "Bestämmelserna i 3 kap. om budplikt går tillbaka på artikel 5 i direktivet om uppköpserbjudanden.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#5"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "3",
+        "paragraf": "3",
+        "sentence": "Paragrafen innebär att ett offentligt erbjudande som omfattar alla aktier i målbolaget och som vid fullföljandet medför att gränsen tre tiondelar av röstetalet uppnås eller passeras inte utlöser budplikt (jfr artikel 5.2 i direktivet om uppköpserbjudanden).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#2"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "3",
+        "paragraf": "5",
+        "sentence": "Paragrafen, som går tillbaka på artikel 2.1 i direktivet om uppköpserbjudanden, definierar det i 1 § använda begreppet närstående.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "6",
+          "8"
+        ],
+        "pinpoints": [
+          "6.1",
+          "6.2",
+          "8.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#6",
+          "https://lagen.nu/ext/celex/32004L0025#8"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "4",
+        "paragraf": "1",
+        "sentence": "Bestämmelserna i paragrafen går tillbaka på artiklarna 6.1, 6.2 och 8.2 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "6",
+          "8",
+          "9"
+        ],
+        "pinpoints": [
+          "6.1",
+          "6.2",
+          "8.2",
+          "9.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#6",
+          "https://lagen.nu/ext/celex/32004L0025#8",
+          "https://lagen.nu/ext/celex/32004L0025#9"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "4",
+        "paragraf": "2",
+        "sentence": "Bestämmelsen går tillbaka på artiklarna 6.1, 6.2, 8.2 och 9.5 i direktivet om uppköpserbjudanden.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#9"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "5",
+        "paragraf": "1",
+        "sentence": "Paragrafen, som reglerar svenska aktiebolags rätt att vidta försvarsåtgärder mot ett framlagt uppköpserbjudande, går tillbaka på artikel 9 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "11",
+          "12"
+        ],
+        "pinpoints": [
+          "11",
+          "12"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#11",
+          "https://lagen.nu/ext/celex/32004L0025#12"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "6",
+        "paragraf": "1",
+        "sentence": "Bestämmelsen går tillbaka på artiklarna 11 och 12 i direktivet om uppköpserbjudanden och vad som föreskrivs där om s.k. genombrott.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#11"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "6",
+        "paragraf": "6",
+        "sentence": "Direktivet (artikel 11.5) reglerar i stället skyldigheten för en budgivare som utnyttjar en redan existerande bestämmelse om genombrott i bolagsordningen att betala skälig ersättning till rättighetsinnehavare som till följd av erbjudandet inte till fullo kan utnyttja sina rättigheter.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#4"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "7",
+        "paragraf": "1",
+        "sentence": "Paragrafen går tillbaka på artikel 4 i direktivet om uppköpserbjudanden.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#4"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "7",
+        "paragraf": "10",
+        "sentence": "Motiveringsskyldigheten har motsvarighet i direktivet om uppköpserbjudanden (artikel 4.5).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.2 b",
+          "4.2 c",
+          "4.2 e"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#4"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "7",
+        "paragraf": "11",
+        "sentence": "Detta gäller särskilt i frågor om vem som skall vara behörig myndighet i de olika situationer som nämns i artiklarna 4.2 b), c) och e).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#4"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om offentliga uppköpserbjudanden på aktiemarknaden",
+        "chapter": "7",
+        "paragraf": "12",
+        "sentence": "Paragrafen går tillbaka på reglerna i artikel 4.2 i direktivet om uppköpserbjudanden.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#6"
+        ],
+        "partial": false,
+        "law": "19.4 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2 a",
+        "paragraf": "2",
+        "sentence": "Paragrafen går tillbaka på artikel 6.3 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#6"
+        ],
+        "partial": true,
+        "law": "19.4 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "2 a",
+        "paragraf": "10",
+        "sentence": "Bestämmelsen går tillbaka på artikel 6.2 i direktivet om uppköpserbjudanden.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#6"
+        ],
+        "partial": true,
+        "law": "19.4 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "6",
+        "paragraf": "1 a",
+        "sentence": "I syfte bl.a. att genomföra artikel 6.5 i direktivet om uppköpserbjudanden har i första stycket gjorts ett tillägg varigenom Finansinspektionen ges rätt att, för att fullgöra övervakningen av efterlevnaden av lagen om offentliga uppköpserbjudanden på aktiemarknaden, anmoda ett företag eller någon annan att tillhandahålla uppgifter, handlingar eller annat, samt att, såsom följer av en ändring i tredje stycket, anmoda den som förväntas kunna lämna upplysningar i saken att inställa sig till förhör.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#10"
+        ],
+        "partial": false,
+        "law": "19.6 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "6",
+        "paragraf": "2 a",
+        "sentence": "Bestämmelserna går tillbaka på artikel 10 i direktivet om uppköpserbjudanden.",
+        "page": null
+      }
+    ]
+  }
+}

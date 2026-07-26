@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2009-10-208": "31be408dc7537d5208b20f30e6d3842ec083778b4fb3f36771a317807bf818d5",
+      "artifact:eurlex/32006L0043": "571f38737e6aca4c2649be903b9db9b5b861ed2c34e41beb0e1fc3fbf998b479",
+      "artifact:eurlex/32008L0030": "2d7a6e3e5532ef3def1dc6cbf423f857c93aa06f875c3324812a9cf94a5685d9"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32006L0043",
+      "https://lagen.nu/ext/celex/32008L0030"
+    ],
+    "proposition": "https://lagen.nu/prop/2009/10:208",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32008L0030",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32008L0030#2"
+        ],
+        "partial": false,
+        "law": "12.1 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "7",
+        "paragraf": "3 a",
+        "sentence": "Paragrafen är ny och genomför artikel 2 i ändringsdirektivet.",
+        "page": 30
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0043",
+        "articles": [
+          "47"
+        ],
+        "pinpoints": [
+          "47.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0043#47"
+        ],
+        "partial": false,
+        "law": "12.4 Förslaget till lag om ändring i revisorslagen (2001:883)",
+        "chapter": null,
+        "paragraf": "27 c",
+        "sentence": "Europeiska kommissionen har beslutat att myndigheten uppfyller tillräckliga krav i enlighet med artikel 47.3 i Europaparlamentets och rådets direktiv 2006/43/EG av den 17 maj 2006 om lagstadgad revision av årsbokslut och sammanställd redovisning och om ändring av rådets direktiv 78/660/EEG och 83/349/EEG samt om upphävande av rådets direktiv 84/253/EEG",
+        "page": 36
+      }
+    ]
+  }
+}

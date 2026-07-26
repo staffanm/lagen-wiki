@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2002-03-109": "d381ee9ef80cc9696a673c4c089be222f17cc5cad3944b2f13dded8535496ec1",
+      "artifact:eurlex/31999L0063": "fa7606eff1b4565ba76e4d9502d74081543d3cf9527651b4936bc39cc34aa1d2",
+      "artifact:eurlex/32001L0096": "49439fe46a0f43af808487adcc16d312b84b130f6930c24d1ca470e964da7eab",
+      "artifact:eurlex/32002L0084": "10116645941d1ec63cfe183d21148ea45a05a4027f39174308a17b9f26a9c391"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31999L0063",
+      "https://lagen.nu/ext/celex/32001L0096",
+      "https://lagen.nu/ext/celex/32002L0084"
+    ],
+    "proposition": "https://lagen.nu/prop/2002/03:109",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0096",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0096#2"
+        ],
+        "partial": false,
+        "law": "8.4 Förslaget till lag om lastning och lossning av bulkfartyg",
+        "chapter": null,
+        "paragraf": "1",
+        "sentence": "Paragrafen anger lagens tillämpningsområde och överensstämmer med artikel 2 i bulkdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0096",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0096#3"
+        ],
+        "partial": true,
+        "law": "8.4 Förslaget till lag om lastning och lossning av bulkfartyg",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Definitionerna överensstämmer med dem som finns i artikel 3 i bulkdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0096",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0096#8"
+        ],
+        "partial": false,
+        "law": "8.4 Förslaget till lag om lastning och lossning av bulkfartyg",
+        "chapter": null,
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 8.1 i bulkdirektivet, där det anges att befälhavaren och terminalrepresentanten skall komma överens om en lastnings- eller lossningsplan innan fasta bulklaster lastas eller lossas.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0096",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0096#9"
+        ],
+        "partial": false,
+        "law": "8.4 Förslaget till lag om lastning och lossning av bulkfartyg",
+        "chapter": null,
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför bulkdirektivets artikel 9.1.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0096",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0096#10"
+        ],
+        "partial": false,
+        "law": "8.4 Förslaget till lag om lastning och lossning av bulkfartyg",
+        "chapter": null,
+        "paragraf": "11",
+        "sentence": "Paragraferna föreskriver vad som skall ske när en skada har uppstått på fartyget, och motsvarar artikel 10 i bulkdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0096",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0096#10"
+        ],
+        "partial": false,
+        "law": "8.4 Förslaget till lag om lastning och lossning av bulkfartyg",
+        "chapter": null,
+        "paragraf": "12",
+        "sentence": "Paragraferna föreskriver vad som skall ske när en skada har uppstått på fartyget, och motsvarar artikel 10 i bulkdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0096",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0096#10"
+        ],
+        "partial": false,
+        "law": "8.4 Förslaget till lag om lastning och lossning av bulkfartyg",
+        "chapter": null,
+        "paragraf": "13",
+        "sentence": "Paragraferna föreskriver vad som skall ske när en skada har uppstått på fartyget, och motsvarar artikel 10 i bulkdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0096",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0096#10"
+        ],
+        "partial": false,
+        "law": "8.4 Förslaget till lag om lastning och lossning av bulkfartyg",
+        "chapter": null,
+        "paragraf": "15",
+        "sentence": "Paragraferna föreskriver vad som skall ske när en skada har uppstått på fartyget, och motsvarar artikel 10 i bulkdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

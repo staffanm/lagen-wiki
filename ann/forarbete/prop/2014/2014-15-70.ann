@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2014-15-70": "476b40d33ebab5b2339f5c7161b55b6c9ca17471238cddab6e059b0b09001da9",
+      "artifact:eurlex/32003L0087": "a9871b1894931eed362302fc12d83e8b8b053598ab93954e6f17b311cc9ea27c"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32003L0087"
+    ],
+    "proposition": "https://lagen.nu/prop/2014/15:70",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.5",
+          "16.11"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#16"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om ändring i lagen (2004:1199) om handel med utsläppsrätter",
+        "chapter": "8",
+        "paragraf": "8 a",
+        "sentence": "Bestämmelsen genomför artikel 16.5 i handelsdirektivet (2003/87/EG).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.10",
+          "16.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#16"
+        ],
+        "partial": false,
+        "law": "14.2 Förslaget till lag om ändring i luftfartslagen (2010:500)",
+        "chapter": "11",
+        "paragraf": "2 a",
+        "sentence": "Paragrafen innebär att Transportstyrelsen får besluta om sådana begränsningar av verksamheten för ett lufttrafikföretag som behövs för att verkställa ett verksamhetsförbud som EU-kommissionen har beslutat enligt artikel 16.10 i handelsdirektivet (2003/87/EG).",
+        "page": null
+      }
+    ]
+  }
+}

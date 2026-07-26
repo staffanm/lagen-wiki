@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2017-18-226": "763f1a62c42f08d8ab4a18af6f3f3155b369fd5f53666ffd7f3a1149b274750c",
+      "artifact:eurlex/32015L2302": "7e82810ed752a116ebe0df6e3e23664bde488e0b6d16aaaabe2445b6ed7baf56"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32015L2302"
+    ],
+    "proposition": "https://lagen.nu/prop/2017/18:226",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L2302",
+        "articles": [
+          "17",
+          "19"
+        ],
+        "pinpoints": [
+          "17.2",
+          "19.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L2302#17",
+          "https://lagen.nu/ext/celex/32015L2302#19"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "8",
+        "sentence": "Att en resegaranti ska omfatta rimligt förutsebara kostnader är en begränsning i resegarantins omfattning som framgår av artiklarna 17.2 och 19.1 paketresedirektivet och direktivets skäl 40.",
+        "page": 80
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L2302",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L2302#18"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför artikel 18.1 i paketresedirektivet.",
+        "page": 84
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L2302",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.2",
+          "18.3",
+          "18.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L2302#18"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "14",
+        "sentence": "Detta följer av artikel 18.2–4 i direktivet.",
+        "page": 84
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L2302",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L2302#25"
+        ],
+        "partial": true,
+        "law": null,
+        "chapter": null,
+        "paragraf": "24",
+        "sentence": "Paragrafen genomför, tillsammans med 25–29 §§, delvis artikel 25 i direktivet.",
+        "page": 88
+      }
+    ]
+  }
+}

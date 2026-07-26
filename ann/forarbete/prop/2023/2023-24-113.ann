@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2023-24-113": "663f5eac61091990acac68064927d4f3cc54978731ff8d0c05a9b48881822fd1",
+      "artifact:eurlex/32019L0520": "fb09602d428a58a3d04ab8534cee85b3769aeca6a1dea6a500e32e60e9330e4a"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32019L0520"
+    ],
+    "proposition": "https://lagen.nu/prop/2023/24:113",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0520",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0520#5"
+        ],
+        "partial": true,
+        "law": "Förslaget till lag om ändring i lagen (2013:1164) om elektroniska vägtullssystem",
+        "chapter": null,
+        "paragraf": "7",
+        "sentence": "Genom ändringarna i paragrafen genomförs delar av artikel 5.9 i EETS-direktivet.",
+        "page": 18
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0520",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0520#5"
+        ],
+        "partial": true,
+        "law": "Förslaget till lag om ändring i lagen (2013:1164) om elektroniska vägtullssystem",
+        "chapter": null,
+        "paragraf": "32 a",
+        "sentence": "Genom paragrafen genomförs delar av artikel 5.9 i EETS-direktivet.",
+        "page": 19
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2008-09-94": "2e296df8679e9935984e8bc926974cc64fab06316501abcdefa26f390bef6c24",
+      "artifact:eurlex/32005L0036": "eefc43a400906ea6a134c819c33ae8e9c6088a028d05882b5383c9fe42bc3ad2"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32005L0036"
+    ],
+    "proposition": "https://lagen.nu/prop/2008/09:94",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32005L0036",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32005L0036#5"
+        ],
+        "partial": false,
+        "law": "20.1 Förslag till lag om verksamhet inom djurens hälsooch sjukvård",
+        "chapter": "3",
+        "paragraf": "9",
+        "sentence": "Bestämmelsen behövs för att kunna genomföra bestämmelserna om frihet att tillhandahålla tjänster i Europaparlamentets och rådets direktiv 2005/36/EG.",
+        "page": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,739 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2012-13-160": "0e27f35c28169eb475a9412d53c5a491d7a86c058d5f8c1f0b3bfb52ce24b3f0",
+      "artifact:eurlex/32002L0087": "8ace4292fb2d39990c75f4e02396fc20b461ce810d83eff4eebd02380eec0812",
+      "artifact:eurlex/32010L0078": "f8518d92739acff611efd1dd1de475cd8944d864039f35f59fd90f6436909954",
+      "artifact:eurlex/32011L0089": "17ce08e5bfc325b16ea7b685159ca21bbd73fab2f44738b03d5b7d5d6cb9e566"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32002L0087",
+      "https://lagen.nu/ext/celex/32010L0078",
+      "https://lagen.nu/ext/celex/32011L0089"
+    ],
+    "proposition": "https://lagen.nu/prop/2012/13:160",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.5 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#2"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (2006:531) om finansiella konglomerat",
+        "chapter": "1",
+        "paragraf": "3",
+        "sentence": "Definitionen genomför artikel 2.5a i konglomeratdirektivet (se artikel 2.1 ändringsdirektivet).",
+        "page": 67
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "3",
+          "30"
+        ],
+        "pinpoints": [
+          "3.2 f",
+          "30 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#3",
+          "https://lagen.nu/ext/celex/32002L0087#30"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (2006:531) om finansiella konglomerat",
+        "chapter": "1",
+        "paragraf": "3",
+        "sentence": "Ändringen genomför artikel 3.2 fjärde stycket och artikel 30a i konglomeratdirektivet (se artikel 2.2 och 2.23 i ändringsdirektivet).",
+        "page": 67
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.4",
+          "2.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#2"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (2006:531) om finansiella konglomerat",
+        "chapter": "1",
+        "paragraf": "3",
+        "sentence": "Ändringen genomför artikel 2.4 och 2.6 i konglomeratdirektivet (se artikel 2.1 ändringsdirektivet).",
+        "page": 67
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.17"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#2"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (2006:531) om finansiella konglomerat",
+        "chapter": "1",
+        "paragraf": "3",
+        "sentence": "Ändringen genomför artikel 2.17 i konglomeratdirektivet (se artikel 2.1 i ändringsdirektivet).",
+        "page": 67
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.4 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#3"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (2006:531) om finansiella konglomerat",
+        "chapter": "2",
+        "paragraf": "5",
+        "sentence": "Ändringen genomför artikel 3.4a i konglomeratdirektivet (se artikel 2.2b i ändringsdirektivet).",
+        "page": 68
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.4 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#3"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (2006:531) om finansiella konglomerat",
+        "chapter": "2",
+        "paragraf": "5",
+        "sentence": "Ändringarna genomför artikel 3.4c i konglomeratdirektivet (se artikel 2.2b ii i ändringsdirektivet).",
+        "page": 68
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#3"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (2006:531) om finansiella konglomerat",
+        "chapter": "2",
+        "paragraf": "6",
+        "sentence": "Ändringen genomför artikel 3.5 i konglomeratdirektivet (se artikel 2.2c i ändringsdirektivet).",
+        "page": 68
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#3"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (2006:531) om finansiella konglomerat",
+        "chapter": "3",
+        "paragraf": "4",
+        "sentence": "Ändringen genomför artikel 3a i konglomeratdirektivet (se artikel 2.2a i ändringsdirektivet).",
+        "page": 68
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#6"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (2006:531) om finansiella konglomerat",
+        "chapter": "5",
+        "paragraf": "5",
+        "sentence": "Ändringen genomför artikel 6.4 i konglomeratdirektivet (se artikel 2.5 i ändringsdirektivet).",
+        "page": 69
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0087",
+        "articles": [
+          "30",
+          "1"
+        ],
+        "pinpoints": [
+          "30 a",
+          "1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0087#30",
+          "https://lagen.nu/ext/celex/32002L0087#1"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "1",
+        "paragraf": "1 a",
+        "sentence": "Paragrafen genomför artikel 30a.1 a i konglomeratdirektivet (se artikel 2.23 i ändringsdirektivet).",
+        "page": 69
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.23"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#2"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "1",
+        "paragraf": "1 a",
+        "sentence": "Paragrafen genomför artikel 30a.1 a i konglomeratdirektivet (se artikel 2.23 i ändringsdirektivet).",
+        "page": 69
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1",
+          "3.2",
+          "3.2 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "1",
+        "paragraf": "3",
+        "sentence": "Definitionen motsvarar definitionen i nya punkten 19a i artikel 4 i kreditinstitutsdirektivet (2006/48/EG) som införs genom artikel 3.2b i ändringsdirektivet.",
+        "page": 69
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.11"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "4",
+        "paragraf": "8",
+        "sentence": "Ändringen föranleds av artikel 3.11 i ändringsdirektivet som ändrar artikel 84 i kreditinstitutsdirektivet.",
+        "page": 70
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "6",
+        "paragraf": "7",
+        "sentence": "Se artikel 3.13 i ändringsdirektivet som ändrar artikel 105.3 och 105.4 i kreditinstitutsdirektivet.",
+        "page": 71
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "7 a",
+        "paragraf": "4",
+        "sentence": "Ändringen föranleds av artikel 3.14 i ändringsdirektivet som ändrar artikel 122a.2 i kreditinstitutsdirektivet.",
+        "page": 71
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "9",
+        "paragraf": "3",
+        "sentence": "Ändringen föranleds av artikel 3.16 ändringsdirektivet som ändrar artikel 126 kreditinstitutsdirektivet.",
+        "page": 71
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "9",
+        "paragraf": "6",
+        "sentence": "Ändringen föranleds av artikel 3.7 i ändringsdirektivet som ändrar artikel 72.2 i kreditinstitutsdirektivet.",
+        "page": 71
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "9",
+        "paragraf": "7",
+        "sentence": "Ändringen föranleds av artikel 3.7 i ändringsdirektivet som ändrar artikel 72.2 i kreditinstitutsdirektivet.",
+        "page": 72
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.21"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "9",
+        "paragraf": "13",
+        "sentence": "Ändringen föranleds av artikel 3.21 i ändringsdirektivet som ändrar artikel 135 i kreditinstitutsdirektivet.",
+        "page": 72
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "9",
+        "paragraf": "15",
+        "sentence": "Ändringarna föranleds av artikel 3.8 i ändringsdirektivet som inför artikel 72a i kreditinstitutsdirektivet.",
+        "page": 72
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.15",
+          "3.16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "2",
+        "sentence": "Ändringarna tillgodoser artikel 3.15 och 3.16 i ändringsdirektivet som ändrar artiklarna 125.2, 126.1 och 126.2 i kreditinstitutsdirektivet.",
+        "page": 73
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "3",
+        "sentence": "Denna ändring föranleds av artikel 3.16 i ändringsdirektivet och ändrade artikel 126.3 i kreditinstitutsdirektivet.",
+        "page": 73
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.18"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "5",
+        "sentence": "Ändringen föranleds av artikel 3.18 i ändringsdirektivet som ändrar artikel 129.2 i kreditinstitutsdirektivet.",
+        "page": 73
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.18"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "6 a",
+        "sentence": "Ändringen föranleds av artikel 3.18 i ändringsdirektivet som ändrar artikel 129.3 i kreditinstitutsdirektivet.",
+        "page": 73
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.18"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "6 b",
+        "sentence": "Ändringen genomför artikel 129.3 i kreditinstitutsdirektivet (se artikel 3.18 i ändringsdirektivet).",
+        "page": 73
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.18"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "6 d",
+        "sentence": "Ändringen genomför artikel 129.3 kreditinstitutsdirektivet (se artikel 3.18 i ändringsdirektivet).",
+        "page": 74
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.17"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "7",
+        "sentence": "Ändringen genomför artikel 127.3 i kreditinstitutsdirektivet (se artikel 3.17 i ändringsdirektivet).",
+        "page": 74
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.17"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "10",
+        "paragraf": "12",
+        "sentence": "Ändringen tillgodoser artikel 3.17 i ändringsdirektivet som utvidgar artikel 127.1 i kreditinstitutsdirektivet om lämpliga gruppbaserade sammanställningar som behövs för att även blandade finansiella holdingföretag ska omfattas av grupptillsyn.",
+        "page": 74
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.25"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "11",
+        "paragraf": "1",
+        "sentence": "Ändringen genomför artikel 143.1 i kreditinstitutsdirektivet (se artikel 3.25 i ändringsdirektivet).",
+        "page": 74
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.25"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "11",
+        "paragraf": "3",
+        "sentence": "Ändringen föranleds av artikel 3.25 i ändringsdirektivet som ändrar artikel 143.3 i kreditinstitutsdirektivet.",
+        "page": 75
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.24"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "12",
+        "paragraf": "2",
+        "sentence": "Ändringen föranleds av artikel 3.24 i ändringsdirektivet som ändrar artikel 142 i kreditinstitutsdirektivet.",
+        "page": 75
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.24"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#3"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2006:1371) om kapitaltäckning och stora exponeringar",
+        "chapter": "12",
+        "paragraf": "4",
+        "sentence": "Ändringen föranleds av artikel 3.24 i ändringsdirektivet som ändrar artikel 142 i kreditinstitutsdirektivet.",
+        "page": 75
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.1 b",
+          "1.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#1"
+        ],
+        "partial": false,
+        "law": "8.3 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "9",
+        "paragraf": "1",
+        "sentence": "Ändringen genomför artikel 1 m och artikel 2.2 i försäkringsgruppdirektivet (se artikel 1.1 b och 1.2 i ändringsdirektivet).",
+        "page": 76
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4",
+          "1.6",
+          "1.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#1"
+        ],
+        "partial": false,
+        "law": "8.3 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "9",
+        "paragraf": "1",
+        "sentence": "Därigenom genomförs ändringarna av artiklarna 3.1 och 10 i försäkringsgruppsdirektivet (se artiklarna 1.4 och 1.6 i ändringsdirektivet) samt ändringarna i bilaga I till försäkringsgruppsdirektivet (se artikel 1.7 i ändringsdirektivet).",
+        "page": 76
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#1"
+        ],
+        "partial": false,
+        "law": "8.3 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "9",
+        "paragraf": "1",
+        "sentence": "Därigenom tillgodoses ändringen i artikel 4.2 i försäkringsgruppdirektivet (se artikel 1.5 i ändringsdirektivet).",
+        "page": 76
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#1"
+        ],
+        "partial": false,
+        "law": "8.3 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "9",
+        "paragraf": "1",
+        "sentence": "Detta överensstämmer med hur begreppet används i ändrade artikel 1 j i försäkringsgruppdirektivet (se artikel 1.1a i ändringsdirektivet).",
+        "page": 76
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0089",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0089#1"
+        ],
+        "partial": false,
+        "law": "8.3 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "9",
+        "paragraf": "8 a",
+        "sentence": "Paragrafen genomför den nya artikel 2a försäkringsgruppdirektivet (se artikel 1.3 i ändringsdirektivet).",
+        "page": 76
+      }
+    ]
+  }
+}

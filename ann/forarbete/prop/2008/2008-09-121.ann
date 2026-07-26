@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2008-09-121": "f59058098dbc37da1ed8193c878d958c68ea0536c7818273388797159adf7e82",
+      "artifact:eurlex/32006L0117": "6cd9738a9f357c8a7b80f6a27790b4a8250f2e540be58f92978f3de47843a500"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32006L0117"
+    ],
+    "proposition": "https://lagen.nu/prop/2008/09:121",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0117",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0117#16"
+        ],
+        "partial": true,
+        "law": "8.2 Förslaget till lag om ändring i strålskyddslagen (1988:220)",
+        "chapter": null,
+        "paragraf": "20 a",
+        "sentence": "Bestämmelsen, som i huvudsak följer av artikel 16 i direktiv 2006/117/ Euratom, uppdateras och justeras redaktionellt.",
+        "page": 19
+      }
+    ]
+  }
+}

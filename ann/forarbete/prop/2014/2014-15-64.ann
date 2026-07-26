@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2014-15-64": "f9c5e7bd19f5840aa5b370446993cae65e196c6ec9ff426643b5d057c8d87648",
+      "artifact:eurlex/32013L0030": "029c7be1ae74008a0efbb4eec535b46592a1db21dd5cc3f7fe3228fe844e7201"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32013L0030"
+    ],
+    "proposition": "https://lagen.nu/prop/2014/15:64",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32013L0030",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32013L0030#20"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om rapportering av olyckor vid olje- och gasverksamhet till havs utanför Europeiska unionen",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "I paragrafen finns bestämmelser med anledning av artikel 20 i offshoredirektivet.",
+        "page": 44
+      }
+    ]
+  }
+}

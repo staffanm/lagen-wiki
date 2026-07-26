@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2019-20-20": "049a430a568825668e2e7abdbbc3752b58001ca14fd7d0238fc4d76e05fd7542",
+      "artifact:eurlex/32016L1164": "7b728a2d494a802c5760da0ceded61f2190970575557b5ff3590ad8c9bf43841"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32016L1164"
+    ],
+    "proposition": "https://lagen.nu/prop/2019/20:20",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L1164",
+        "articles": [
+          "2",
+          "5"
+        ],
+        "pinpoints": [
+          "2.6",
+          "5.2 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L1164#2",
+          "https://lagen.nu/ext/celex/32016L1164#5"
+        ],
+        "partial": false,
+        "law": "10.2 Förslag till lag om ändring i skatteförfarandelagen (2011:1244)",
+        "chapter": "63",
+        "paragraf": "14",
+        "sentence": "Så är fallet om den skattskyldige överför tillgångar från sitt fasta driftställe i Sverige till sitt huvudkontor eller till ett annat fast driftställe i en stat inom EES, se artikel 2.6 och 5.2 b i direktivet mot skatteundandraganden.",
+        "page": 103
+      }
+    ]
+  }
+}

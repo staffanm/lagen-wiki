@@ -1,0 +1,621 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2024-25-18": "7a027e5fc30d5f0557ac53f612c6343832e6ed68195526cbea817a2ea276fe14",
+      "artifact:eurlex/32009L0052": "79e7e824b30f95ab9a63d8527df36340b3c73c8b045f8abc89927bd2be21fe35",
+      "artifact:eurlex/32021L1883": "17ea1b66917b73e2d2382f0bb0aa39b6d3be26745030cf5cbb8450a511df4c08"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0052",
+      "https://lagen.nu/ext/celex/32021L1883"
+    ],
+    "proposition": "https://lagen.nu/prop/2024/25:18",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#18"
+        ],
+        "partial": true,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "5 a",
+        "paragraf": "1 a",
+        "sentence": "Paragrafen genomför delvis artikel 18 i det nya blåkortsdirektivet.",
+        "page": 197
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#29"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "5 b",
+        "paragraf": "10",
+        "sentence": "Ändringen genomför artikel 29 i det nya blåkortsdirektivet.",
+        "page": 198
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#5"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 5 i det nya blåkortsdirektivet.",
+        "page": 200
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#3"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "2",
+        "sentence": "Genom paragrafen genomförs artikel 3 i det nya blåkortsdirektivet.",
+        "page": 201
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#7"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "3",
+        "sentence": "Genom paragrafen genomförs artikel 7.1 i det nya blåkortsdirektivet.",
+        "page": 203
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.2",
+          "7.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#7"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "3 a",
+        "sentence": "Paragrafen genomför artikel 7.2 och 7.3 i det nya blåkortsdirektivet.",
+        "page": 203
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#20"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "3 b",
+        "sentence": "Genom paragrafen genomförs artikel 20 i det nya blåkortsdirektivet.",
+        "page": 204
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#21"
+        ],
+        "partial": true,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "3 c",
+        "sentence": "Genom paragrafen genomförs delvis artikel 21 i det nya blåkortsdirektivet.",
+        "page": 205
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "10",
+          "21"
+        ],
+        "pinpoints": [
+          "10.2",
+          "21.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#10",
+          "https://lagen.nu/ext/celex/32021L1883#21"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "4",
+        "sentence": "Genom paragrafen genomförs artiklarna 10.2 och 21.3 i det nya blåkortsdirektivet.",
+        "page": 206
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "11",
+          "21"
+        ],
+        "pinpoints": [
+          "11.5",
+          "11.6",
+          "21.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#11",
+          "https://lagen.nu/ext/celex/32021L1883#21"
+        ],
+        "partial": true,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "4 a",
+        "sentence": "Paragrafen genomför delvis artiklarna 11.5, 11.6 och 21.3 i det nya blåkortsdirektivet.",
+        "page": 207
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#9"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 9.2 i det nya blåkortsdirektivet.",
+        "page": 208
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1",
+          "8.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#8"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "6",
+        "sentence": "Genom paragrafen genomförs artikel 8.1 och 8.5 i det nya blåkortsdirektivet.",
+        "page": 208
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.2",
+          "8.3",
+          "8.6",
+          "8.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#8"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "7",
+        "sentence": "Genom paragrafen genomförs artikel 8.2, 8.3, 8.6 och 8.7.",
+        "page": 210
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "15"
+        ],
+        "pinpoints": [
+          "15.2",
+          "15.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#15"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "8",
+        "sentence": "Genom paragrafen genomförs artikel 15.2 och 15.3 i det nya blåkortsdirektivet.",
+        "page": 211
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "17",
+          "18"
+        ],
+        "pinpoints": [
+          "17",
+          "18.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#17",
+          "https://lagen.nu/ext/celex/32021L1883#18"
+        ],
+        "partial": true,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "9",
+        "sentence": "Genom paragrafen genomförs delvis artikel 17 och artikel 18.5 i det nya blåkortsdirektivet.",
+        "page": 212
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.8",
+          "17.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#17"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "10",
+        "sentence": "Genom paragrafen genomförs artikel 17.8 och 17.9 i det nya blåkortsdirektivet.",
+        "page": 213
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#17"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "10 a",
+        "sentence": "Genom paragrafen genomförs artikel 17.7 i det nya blåkortsdirektivet.",
+        "page": 214
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "17",
+          "22"
+        ],
+        "pinpoints": [
+          "17",
+          "22.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#17",
+          "https://lagen.nu/ext/celex/32021L1883#22"
+        ],
+        "partial": true,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "11",
+        "sentence": "Genom paragrafen genomförs delvis artiklarna 17 och 22.3 i det nya blåkortsdirektivet.",
+        "page": 214
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "8",
+          "23"
+        ],
+        "pinpoints": [
+          "8.1",
+          "8.5",
+          "23.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#8",
+          "https://lagen.nu/ext/celex/32021L1883#23"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artiklarna 8.1, 8.5 och 23.1 i det nya blåkortsdirektivet.",
+        "page": 215
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.2",
+          "8.3",
+          "8.6",
+          "8.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#8"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "12 a",
+        "sentence": "Genom paragrafen genomförs artikel 8.2, 8.3, 8.6 och 8.7 i det nya blåkortsdirektivet.",
+        "page": 216
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#23"
+        ],
+        "partial": false,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "14",
+        "sentence": "Genom paragrafen genomförs artikel 23.2 i det nya blåkortsdirektivet.",
+        "page": 217
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.9 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#2"
+        ],
+        "partial": true,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "17",
+        "sentence": "Genom paragrafen genomförs delvis artikel 2.9 a och bilaga I till det nya blåkortsdirektivet.",
+        "page": 218
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#2"
+        ],
+        "partial": true,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "6 a",
+        "paragraf": "18",
+        "sentence": "Genom paragrafen genomförs delvis artikel 2.13 i det nya blåkortsdirektivet.",
+        "page": 218
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#23"
+        ],
+        "partial": true,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "8",
+        "paragraf": "20 a",
+        "sentence": "Genom ändringen genomförs delvis artikel 23.5 i det nya blåkortsdirektivet.",
+        "page": 219
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#23"
+        ],
+        "partial": true,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "8 a",
+        "paragraf": "7 a",
+        "sentence": "Genom paragrafen genomförs delvis artikel 23.5 i det nya blåkortsdirektivet.",
+        "page": 220
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#23"
+        ],
+        "partial": true,
+        "law": "21.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "12",
+        "paragraf": "4",
+        "sentence": "Genom ändringarna genomförs delvis artikel 23.5.",
+        "page": 220
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#16"
+        ],
+        "partial": true,
+        "law": "21.2 Förslaget till lag om ändring i socialförsäkringsbalken",
+        "chapter": "5",
+        "paragraf": "12",
+        "sentence": "Genom paragrafen genomförs delvis artikel 16.7 i det nya blåkortsdirektivet.",
+        "page": 221
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.1 c",
+          "16.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#16"
+        ],
+        "partial": true,
+        "law": "21.3 Förslaget till lag om ändring i studiestödslagen (1999:1395)",
+        "chapter": "1",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför delvis artikel 16.1 c och 16.2 i det nya blåkortsdirektivet.",
+        "page": 221
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.1",
+          "16.5",
+          "16.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#16"
+        ],
+        "partial": true,
+        "law": "21.3 Förslaget till lag om ändring i studiestödslagen (1999:1395)",
+        "chapter": "1",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför delvis artikel 16.1 samt artikel 16.5 och 16.6 i det nya blåkortsdirektivet.",
+        "page": 222
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32021L1883",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32021L1883#29"
+        ],
+        "partial": false,
+        "law": "21.4 Förslaget till lag om ändring i lagen (2008:290) om godkännande för forskningshuvudmän att ta emot gästforskare",
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "Genom paragrafen genomförs artikel 29 i det nya blåkortsdirektivet.",
+        "page": 223
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2011-12-87": "7ed7bc82a5ceed6eb21a9801335ed86a170636a7225250fb93bcf0acaefda3a3",
+      "artifact:eurlex/32005L0036": "eefc43a400906ea6a134c819c33ae8e9c6088a028d05882b5383c9fe42bc3ad2"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32005L0036"
+    ],
+    "proposition": "https://lagen.nu/prop/2011/12:87",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32005L0036",
+        "articles": [
+          "14"
+        ],
+        "pinpoints": [
+          "14.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32005L0036#14"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "3",
+        "paragraf": "7 a",
+        "sentence": "Genom bestämmelsen genomförs artikel 14.2 i yrkeskvalifikationsdirektivet.",
+        "page": 13
+      }
+    ]
+  }
+}

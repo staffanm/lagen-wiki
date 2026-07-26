@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2010-11-95": "0f6036d37a20e15cd0626a0edb6057eb05f565034a910efc63a0937eada1e6f8",
+      "artifact:eurlex/31998L0026": "dde2f8d6b919e844eef01f8223a0ad66d7d0a44db473c25105b6a73c33c1d769",
+      "artifact:eurlex/32002L0047": "3d26143d007e9df2bc124d8870a15b53cfa25fed17511ae395620bba565b0b29",
+      "artifact:eurlex/32004L0109": "3cc5c80ea404ebd9c7a3b9888f7d8e6f254a29633a20c19333081376b0c62faa",
+      "artifact:eurlex/32009L0044": "7fbd0bab46c375d6cb1fce2e0607f51238d662a574aacda52df224b05136ad9a",
+      "artifact:eurlex/32010L0078": "f8518d92739acff611efd1dd1de475cd8944d864039f35f59fd90f6436909954"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31998L0026",
+      "https://lagen.nu/ext/celex/32002L0047",
+      "https://lagen.nu/ext/celex/32004L0109",
+      "https://lagen.nu/ext/celex/32009L0044",
+      "https://lagen.nu/ext/celex/32010L0078"
+    ],
+    "proposition": "https://lagen.nu/prop/2010/11:95",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0047",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1 o"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0047#2"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i konkurslagen (1987:672)",
+        "chapter": "8",
+        "paragraf": "10",
+        "sentence": "Avsikten är att definitionen ska motsvara ändringsdirektivets definition.",
+        "page": 49
+      }
+    ]
+  }
+}

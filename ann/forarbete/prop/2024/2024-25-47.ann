@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2024-25-47": "6b0aa60fe37d73565cb5883b9e01911b8e0b7e62d8c7bf7a81557012d4ef9ec6",
+      "artifact:eurlex/31992L0083": "6b91f26c6f1b5be01182e5fd1dd89857df6a289d2ab9cdd4688bb095148539e1",
+      "artifact:eurlex/32015L1535": "c97726fad89386cb1c6d4b2e73de0c559b90f0019079ffce3b5f3315c26caab4"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31992L0083",
+      "https://lagen.nu/ext/celex/32015L1535"
+    ],
+    "proposition": "https://lagen.nu/prop/2024/25:47",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31992L0083",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31992L0083#4"
+        ],
+        "partial": true,
+        "law": "7.1 Förslaget till lag om ändring i lagen (2022:156) om alkoholskatt",
+        "chapter": "1",
+        "paragraf": "13",
+        "sentence": "Genom paragrafen genomförs delvis artikel 4 i alkoholskattedirektivet.",
+        "page": 37
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31992L0083",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31992L0083#4"
+        ],
+        "partial": true,
+        "law": "7.1 Förslaget till lag om ändring i lagen (2022:156) om alkoholskatt",
+        "chapter": "1",
+        "paragraf": "15",
+        "sentence": "Genom paragrafen genomförs delvis artikel 4 i alkoholskattedirektivet.",
+        "page": 39
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31992L0083",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31992L0083#4"
+        ],
+        "partial": true,
+        "law": "7.1 Förslaget till lag om ändring i lagen (2022:156) om alkoholskatt",
+        "chapter": "2",
+        "paragraf": "2 a",
+        "sentence": "Genom paragrafen genomförs delvis artikel 4 i alkoholskattedirektivet.",
+        "page": 40
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2013-14-96": "e004f976a0eb16130cb4ca9eaeb4666d1ed6888a5d5e83b64bb2391d7956b318",
+      "artifact:eurlex/32012L0025": "4c34a308a746525ab791f753c9c47790a10fbc5c9f2b2adddcd1ea75c7f59be6"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32012L0025"
+    ],
+    "proposition": "https://lagen.nu/prop/2013/14:96",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32012L0025",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32012L0025#7"
+        ],
+        "partial": false,
+        "law": "12.2 Förslaget till lag om ändring i lagen (2012:263) om kvalitets- och säkerhetsnormer vid hantering av mänskliga organ",
+        "chapter": null,
+        "paragraf": "5",
+        "sentence": "Genom bestämmelsen genomförs artikel 7 b i direktivet.",
+        "page": 37
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32012L0025",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32012L0025#7"
+        ],
+        "partial": false,
+        "law": "12.2 Förslaget till lag om ändring i lagen (2012:263) om kvalitets- och säkerhetsnormer vid hantering av mänskliga organ",
+        "chapter": null,
+        "paragraf": "5 a",
+        "sentence": "Genom bestämmelsen genomförs artikel 7 a i direktivet.",
+        "page": 37
+      }
+    ]
+  }
+}

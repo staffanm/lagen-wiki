@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2020-21-129": "6a18cb681b0f434c63a6f37eb3e05ee4e2364a6ed6b2a1ee3f2fd24e6896f3fc",
+      "artifact:eurlex/32009L0138": "748d030e8e9ed294f3de3f3abdb4bff094e8cd1c86ddd090c2bf691e88003791",
+      "artifact:eurlex/32011L0061": "26a696b979b686710cdb8dd5510464047466e1773a524f97e3619dd3c0eeb3bc"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0138",
+      "https://lagen.nu/ext/celex/32011L0061"
+    ],
+    "proposition": "https://lagen.nu/prop/2020/21:129",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#33"
+        ],
+        "partial": true,
+        "law": "8.1 Förslaget till lag om ändring i lagen (1998:293) om utländska försäkringsgivares och tjänstepensionsinstituts verksamhet i Sverige",
+        "chapter": "3",
+        "paragraf": "2 b",
+        "sentence": "Ändringarna i paragrafen genomför delvis artikel 33 i Solvens II-direktivet (i lydelsen enligt artikel 2.6 i Omnibus II-direktivet) och delvis artikel 152a.2 tredje meningen i Solvens II-direktivet (i lydelsen enligt artikel 2.3 i ändringsdirektivet).",
+        "page": 63
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "152",
+          "1"
+        ],
+        "pinpoints": [
+          "152 a",
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#152",
+          "https://lagen.nu/ext/celex/32009L0138#1"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "2",
+        "paragraf": "16 a",
+        "sentence": "Paragrafen genomför artikel 152a.1 i Solvens II-direktivet, i lydelsen enligt artikel 2.3 i ändringsdirektivet.",
+        "page": 68
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "152",
+          "2"
+        ],
+        "pinpoints": [
+          "152 b",
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#152",
+          "https://lagen.nu/ext/celex/32009L0138#2"
+        ],
+        "partial": true,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "3",
+        "paragraf": "22",
+        "sentence": "Paragrafen genomför delvis artikel 152b.2 i Solvens II-direktivet, i lydelsen enligt artikel 2.3 i ändringsdirektivet.",
+        "page": 68
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "152",
+          "1"
+        ],
+        "pinpoints": [
+          "152 b",
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#152",
+          "https://lagen.nu/ext/celex/32009L0138#1"
+        ],
+        "partial": true,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "3",
+        "paragraf": "22 a",
+        "sentence": "Paragrafen genomför delvis artikel 152b.1 i Solvens II-direktivet, i lydelsen enligt artikel 2.3 i ändringsdirektivet.",
+        "page": 69
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "152",
+          "4"
+        ],
+        "pinpoints": [
+          "152 b",
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#152",
+          "https://lagen.nu/ext/celex/32009L0138#4"
+        ],
+        "partial": true,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "3",
+        "paragraf": "22 b",
+        "sentence": "Paragrafen genomför delvis artikel 152b.4 i Solvens II-direktivet, i lydelsen enligt artikel 2.3 i ändringsdirektivet.",
+        "page": 70
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "112"
+        ],
+        "pinpoints": [
+          "112.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#112"
+        ],
+        "partial": true,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "9",
+        "paragraf": "2 a",
+        "sentence": "Paragrafen genomför delvis artikel 112.3a första meningen i Solvens II-direktivet, i lydelsen enligt artikel 2.2 i ändringsdirektivet.",
+        "page": 70
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "112"
+        ],
+        "pinpoints": [
+          "112.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#112"
+        ],
+        "partial": true,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "9",
+        "paragraf": "2 b",
+        "sentence": "Paragrafen genomför delvis artikel 112.3a andra meningen i Solvens II-direktivet, i lydelsen enligt artikel 2.2 i ändringsdirektivet.",
+        "page": 71
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "112"
+        ],
+        "pinpoints": [
+          "112.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#112"
+        ],
+        "partial": true,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "9",
+        "paragraf": "2 c",
+        "sentence": "Paragrafen genomför delvis artikel 112.4 i Solvens II-direktivet.",
+        "page": 71
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "112"
+        ],
+        "pinpoints": [
+          "112.3 a",
+          "112.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#112"
+        ],
+        "partial": true,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "9",
+        "paragraf": "4",
+        "sentence": "Ändringen i paragrafen genomför delvis artikel 112.3a och 112.4 i Solvens II-direktivet, i lydelsen enligt artikel 2.2 i ändringsdirektivet.",
+        "page": 71
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "112"
+        ],
+        "pinpoints": [
+          "112.3 a",
+          "112.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#112"
+        ],
+        "partial": true,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "9",
+        "paragraf": "7",
+        "sentence": "Ändringen i paragrafen genomför delvis artikel 112.3a och 112.4 i Solvens II-direktivet, i lydelsen enligt artikel 2.2 i ändringsdirektivet.",
+        "page": 72
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "152",
+          "2"
+        ],
+        "pinpoints": [
+          "152 a",
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#152",
+          "https://lagen.nu/ext/celex/32009L0138#2"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "17",
+        "paragraf": "3 a",
+        "sentence": "Paragrafen genomför artikel 152a.2 första meningen i Solvens IIdirektivet, i lydelsen enligt artikel 2.3 i ändringsdirektivet.",
+        "page": 73
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "152",
+          "2"
+        ],
+        "pinpoints": [
+          "152 a",
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#152",
+          "https://lagen.nu/ext/celex/32009L0138#2"
+        ],
+        "partial": true,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "17",
+        "paragraf": "3 b",
+        "sentence": "Det nya andra stycket genomför delvis artikel 152a.2 tredje meningen i Solvens II-direktivet, i lydelsen enligt artikel 2.3 i ändringsdirektivet.",
+        "page": 74
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "231"
+        ],
+        "pinpoints": [
+          "231.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#231"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "19",
+        "paragraf": "23 b",
+        "sentence": "Paragrafen genomför artikel 231.1 tredje stycket första meningen i Solvens II-direktivet, i lydelsen enligt artikel 2.4 a i ändringsdirektivet.",
+        "page": 77
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "231"
+        ],
+        "pinpoints": [
+          "231.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#231"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "19",
+        "paragraf": "24 a",
+        "sentence": "Paragrafen genomför artikel 231.1 tredje stycket andra meningen i Solvens II-direktivet, i lydelsen enligt artikel 2.4 a i ändringsdirektivet.",
+        "page": 79
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "231"
+        ],
+        "pinpoints": [
+          "231.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#231"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "19",
+        "paragraf": "26",
+        "sentence": "Ändringarna i paragrafen genomför artikel 231.3 tredje stycket första meningen i Solvens IIdirektivet, i lydelsen enligt artikel 2.4 b i ändringsdirektivet, och förtydligar genomförandet av artikel 231.3 första stycket första meningen i Solvens II-direktivet, i lydelsen enligt artikel 2.51 i Omnibus II-direktivet.",
+        "page": 80
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "237"
+        ],
+        "pinpoints": [
+          "237.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#237"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "19",
+        "paragraf": "86",
+        "sentence": "Ändringen i andra stycket genomför artikel 237.3 tredje stycket första meningen i Solvens IIdirektivet, i lydelsen enligt artikel 2.5 i ändringsdirektivet.",
+        "page": 82
+      }
+    ]
+  }
+}

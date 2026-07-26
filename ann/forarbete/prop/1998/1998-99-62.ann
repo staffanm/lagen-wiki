@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/1998-99-62": "46cd300916c9041fcfa1d4fdd719af86156acdef0595957a288a2a369f983da6",
+      "artifact:eurlex/31992L0042": "70a0076bf9f79dbb645f1529c9e60d15bda9a4f92465144d577f2f7ef82c0e64",
+      "artifact:eurlex/31993L0068": "eb5c9f175f537d5b2b27709bf7344056bd70149c6e98846cc238642d6a34411f"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31992L0042",
+      "https://lagen.nu/ext/celex/31993L0068"
+    ],
+    "proposition": "https://lagen.nu/prop/1998/99:62",
+    "edges": []
+  }
+}

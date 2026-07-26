@@ -1,0 +1,205 @@
+{
+ "meta": {
+  "status": "golden",
+  "model": "claude subagents (opus/sonnet)",
+  "generated": "2026-07-23",
+  "inputs": {
+   "artifact:forarbete/prop/2025-26-124": "9a3ae24fe6a65697e426983184f4cdb248b6b8946d1e55ddf9ac0b74ce169da1",
+   "artifact:eurlex/32002L0087": "8ace4292fb2d39990c75f4e02396fc20b461ce810d83eff4eebd02380eec0812",
+   "artifact:eurlex/32009L0138": "748d030e8e9ed294f3de3f3abdb4bff094e8cd1c86ddd090c2bf691e88003791",
+   "artifact:eurlex/32013L0034": "5306fccf140c535fbd5ec32edc6adb8a801f2ee2c1b351a3ad889f80d3bd0dbf",
+   "artifact:eurlex/32013L0036": "5e88828bd5c7adb72df99dcd0c72503810e906944fe6bbb807464b393d5e8d85",
+   "artifact:eurlex/32014L0059": "680c79ac65c645ffa8d946320e97b336ae49fcf38ad323d0b30c8cd55dcaca32",
+   "artifact:eurlex/32016L2341": "157de3b27c70832e059373a5da0c7c61dcdce4f8de8fc88a6bd1b49d4889f66e"
+  }
+ },
+ "genomforande": {
+  "directives": [
+   "https://lagen.nu/ext/celex/32002L0087",
+   "https://lagen.nu/ext/celex/32009L0138",
+   "https://lagen.nu/ext/celex/32013L0034",
+   "https://lagen.nu/ext/celex/32013L0036",
+   "https://lagen.nu/ext/celex/32014L0059",
+   "https://lagen.nu/ext/celex/32016L2341"
+  ],
+  "proposition": "https://lagen.nu/prop/2025/26:124",
+  "edges": [
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32013L0034",
+    "articles": [
+     "33",
+     "1"
+    ],
+    "pinpoints": [
+     "33 a",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32013L0034#33",
+     "https://lagen.nu/ext/celex/32013L0034#1"
+    ],
+    "partial": true,
+    "law": "8.3 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+    "chapter": "8",
+    "paragraf": "15 c",
+    "sentence": "Ändringen genomför delvis artikel 33a.1 i redovisningsdirektivet.",
+    "page": 106
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32014L0059",
+    "articles": [
+     "128",
+     "1"
+    ],
+    "pinpoints": [
+     "128 a",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32014L0059#128",
+     "https://lagen.nu/ext/celex/32014L0059#1"
+    ],
+    "partial": true,
+    "law": "8.7 Förslaget till lag om ändring i lagen (2004:297) om bank- och finansieringsrörelse",
+    "chapter": "6 b",
+    "paragraf": "16",
+    "sentence": "Ändringen genomför delvis artikel 128a.1 i krishanteringsdirektivet.",
+    "page": 114
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32002L0087",
+    "articles": [
+     "30",
+     "1"
+    ],
+    "pinpoints": [
+     "30 b",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32002L0087#30",
+     "https://lagen.nu/ext/celex/32002L0087#1"
+    ],
+    "partial": true,
+    "law": "8.10 Förslaget till lag om ändring i lagen (2006:531) om särskild tillsyn över finansiella konglomerat",
+    "chapter": "5",
+    "paragraf": "10 a",
+    "sentence": "Paragrafen genomför delvis artikel 30b.1 i konglomeratdirektivet.",
+    "page": 122
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32002L0087",
+    "articles": [
+     "30",
+     "1"
+    ],
+    "pinpoints": [
+     "30 b",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32002L0087#30",
+     "https://lagen.nu/ext/celex/32002L0087#1"
+    ],
+    "partial": true,
+    "law": "8.10 Förslaget till lag om ändring i lagen (2006:531) om särskild tillsyn över finansiella konglomerat",
+    "chapter": "5",
+    "paragraf": "12",
+    "sentence": "Paragrafen genomför delvis artikel 30b.1 i konglomeratdirektivet.",
+    "page": 122
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32009L0138",
+    "articles": [
+     "304",
+     "1"
+    ],
+    "pinpoints": [
+     "304 b",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32009L0138#304",
+     "https://lagen.nu/ext/celex/32009L0138#1"
+    ],
+    "partial": true,
+    "law": "8.12 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+    "chapter": "16",
+    "paragraf": "1",
+    "sentence": "Ändringen genomför delvis artikel 304b.1 i Solvens II-direktivet.",
+    "page": 129
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32009L0138",
+    "articles": [
+     "304",
+     "1"
+    ],
+    "pinpoints": [
+     "304 b",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32009L0138#304",
+     "https://lagen.nu/ext/celex/32009L0138#1"
+    ],
+    "partial": true,
+    "law": "8.12 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+    "chapter": "19",
+    "paragraf": "54",
+    "sentence": "Ändringen genomför delvis artikel 304b.1 i Solvens II-direktivet.",
+    "page": 130
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32014L0059",
+    "articles": [
+     "128",
+     "1"
+    ],
+    "pinpoints": [
+     "128 a",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32014L0059#128",
+     "https://lagen.nu/ext/celex/32014L0059#1"
+    ],
+    "partial": true,
+    "law": "8.16 Förslaget till lag om ändring i lagen (2015:1016) om resolution",
+    "chapter": "4",
+    "paragraf": "28",
+    "sentence": "Ändringen genomför delvis artikel 128a.1 i krishanteringsdirektivet.",
+    "page": 135
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32016L2341",
+    "articles": [
+     "63",
+     "1"
+    ],
+    "pinpoints": [
+     "63 a",
+     "1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32016L2341#63",
+     "https://lagen.nu/ext/celex/32016L2341#1"
+    ],
+    "partial": true,
+    "law": "8.18 Förslaget till lag om ändring i lagen (2019:742) om tjänstepensionsföretag",
+    "chapter": "9",
+    "paragraf": "6",
+    "sentence": "Ändringen genomför delvis artikel 63a.1 i andra tjänstepensionsdirektivet.",
+    "page": 138
+   }
+  ]
+ }
+}

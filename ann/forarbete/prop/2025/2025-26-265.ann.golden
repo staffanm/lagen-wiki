@@ -1,0 +1,135 @@
+{
+ "meta": {
+  "status": "golden",
+  "model": "claude subagents (opus/sonnet)",
+  "generated": "2026-07-23",
+  "inputs": {
+   "artifact:forarbete/prop/2025-26-265": "79749b053ca8ee352f690114fd77d954f4566fa0800208f4cdc28b5f09696079",
+   "artifact:eurlex/32008L0115": "b0a9701d7389f0183320ff27e191d5a9d2a56c61e9103e1d81c0a843de287df6",
+   "artifact:eurlex/32024L1346": "a68614480397650c84699ec417265d70022daac7b9b4d86bdbc76b77bced8b1c"
+  }
+ },
+ "genomforande": {
+  "directives": [
+   "https://lagen.nu/ext/celex/32008L0115",
+   "https://lagen.nu/ext/celex/32024L1346"
+  ],
+  "proposition": "https://lagen.nu/prop/2025/26:265",
+  "edges": [
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1346",
+    "articles": [
+     "10"
+    ],
+    "pinpoints": [
+     "10"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1346#10"
+    ],
+    "partial": true,
+    "law": "18.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+    "chapter": "10",
+    "paragraf": "3",
+    "sentence": "Paragrafen genomför delvis artikel 10 i Europaparlamentets och rådets direktiv (EU) 2024/1346 av den 14 maj 2024 om normer för mottagande av personer som ansöker om internationellt skydd (det nya omarbetade mottagandedirektivet).",
+    "page": null
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1346",
+    "articles": [
+     "10"
+    ],
+    "pinpoints": [
+     "10"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1346#10"
+    ],
+    "partial": true,
+    "law": "18.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+    "chapter": "10",
+    "paragraf": "4",
+    "sentence": "Paragrafen genomför delvis artikel 10 i det nya omarbetade mottagandedirektivet.",
+    "page": null
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1346",
+    "articles": [
+     "11"
+    ],
+    "pinpoints": [
+     "11.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1346#11"
+    ],
+    "partial": false,
+    "law": "18.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+    "chapter": "16",
+    "paragraf": "4",
+    "sentence": "Enligt andra stycket , som är nytt och genomför artikel 11.3 i det nya omarbetade mottagandedirektivet, ska en migrationsdomstol meddela ett slutligt avgörande i ett mål som gäller förvar enligt 10 kap. 3 eller 4 § inom 15 dagar eller, om det finns särskilda skäl, 21 dagar från den dag då överklagandet kom in till migrationsdomstolen.",
+    "page": null
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1346",
+    "articles": [
+     "11"
+    ],
+    "pinpoints": [
+     "11.6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1346#11"
+    ],
+    "partial": true,
+    "law": "18.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+    "chapter": "18",
+    "paragraf": "1",
+    "sentence": "Ändringen genomför delvis artikel 11.6 i det nya omarbetade mottagandedirektivet.",
+    "page": null
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1346",
+    "articles": [
+     "10"
+    ],
+    "pinpoints": [
+     "10"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1346#10"
+    ],
+    "partial": true,
+    "law": "18.2 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+    "chapter": "10",
+    "paragraf": "3",
+    "sentence": "Den nya grunden genomför delvis artikel 10 i det nya omarbetade mottagandedirektivet.",
+    "page": null
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32024L1346",
+    "articles": [
+     "10"
+    ],
+    "pinpoints": [
+     "10"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32024L1346#10"
+    ],
+    "partial": true,
+    "law": "18.2 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+    "chapter": "10",
+    "paragraf": "4",
+    "sentence": "Den nya grunden genomför delvis artikel 10 i det nya omarbetade mottagandedirektivet.",
+    "page": null
+   }
+  ]
+ }
+}

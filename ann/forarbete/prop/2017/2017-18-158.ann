@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2017-18-158": "9e2ffe7dd74a356354f405d0635f84b1879b6142dde4de538eb9fe4524460260",
+      "artifact:eurlex/32014L0024": "04e2fd6675e70aff8c1130c56cacb0177a18e5c1f6beb5754757e44144824ecf"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32014L0024"
+    ],
+    "proposition": "https://lagen.nu/prop/2017/18:158",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0024",
+        "articles": [
+          "77"
+        ],
+        "pinpoints": [
+          "77.1",
+          "77.2",
+          "77.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0024#77"
+        ],
+        "partial": false,
+        "law": "10.5 Förslaget till lag om ändring i lagen (2016:1145) om offentlig upphandling",
+        "chapter": "19",
+        "paragraf": "6 a",
+        "sentence": "Paragrafen genomför artikel 77.1–3 i LOU-direktivet.",
+        "page": 126
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0024",
+        "articles": [
+          "77"
+        ],
+        "pinpoints": [
+          "77.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0024#77"
+        ],
+        "partial": false,
+        "law": "10.5 Förslaget till lag om ändring i lagen (2016:1145) om offentlig upphandling",
+        "chapter": "19",
+        "paragraf": "6 b",
+        "sentence": "Paragrafen genomför artikel 77.4 i LOU-direktivet.",
+        "page": 127
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2023-24-4": "3d3a22a7e9c5081ee056c9f11dd6cdf20798abea84c3a8b757d762dad45f9cf3",
+      "artifact:eurlex/32014L0059": "680c79ac65c645ffa8d946320e97b336ae49fcf38ad323d0b30c8cd55dcaca32"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32014L0059"
+    ],
+    "proposition": "https://lagen.nu/prop/2023/24:4",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0059",
+        "articles": [
+          "45",
+          "2"
+        ],
+        "pinpoints": [
+          "45 h",
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0059#45",
+          "https://lagen.nu/ext/celex/32014L0059#2"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (2015:1016) om resolution",
+        "chapter": "4",
+        "paragraf": "35",
+        "sentence": "Ändringarna i paragrafen genomför artikel 45h.2 i krishanteringsdirektivet.",
+        "page": 15
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0059",
+        "articles": [
+          "45",
+          "4"
+        ],
+        "pinpoints": [
+          "45 d",
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0059#45",
+          "https://lagen.nu/ext/celex/32014L0059#4"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (2015:1016) om resolution",
+        "chapter": "4",
+        "paragraf": "36",
+        "sentence": "Ändringarna i paragrafen genomför artikel 45d.4 i krishanteringsdirektivet.",
+        "page": 15
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2005-06-196": "69abcbce95ffc7bda0971e801d868f9f5a3f0eeee9e451cddc4667382cb6088a",
+      "artifact:eurlex/32004L0025": "8764ff884967231cb7cb78a128d0b6f7e42b64ec459b24c25358ab84ca7b38cf"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32004L0025"
+    ],
+    "proposition": "https://lagen.nu/prop/2005/06:196",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "15",
+          "16"
+        ],
+        "pinpoints": [
+          "15",
+          "16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#15",
+          "https://lagen.nu/ext/celex/32004L0025#16"
+        ],
+        "partial": true,
+        "law": "9.1 Förslaget till lag om ändring i försäkringsrörelselagen (1982:713)",
+        "chapter": null,
+        "paragraf": "1",
+        "sentence": "Paragrafen reglerar förutsättningarna för inlösen och syftar till att tillgodose artiklarna 15 och 16 i Europaparlamentets och rådets direktiv 2004/25/EG om uppköpserbjudanden.",
+        "page": 26
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "15",
+          "16"
+        ],
+        "pinpoints": [
+          "15",
+          "16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#15",
+          "https://lagen.nu/ext/celex/32004L0025#16"
+        ],
+        "partial": true,
+        "law": "9.1 Förslaget till lag om ändring i försäkringsrörelselagen (1982:713)",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Paragrafen reglerar frågor om lösenbeloppets storlek och syftar till att tillgodose artiklarna 15 och 16 i Europaparlamentets och rådets direktiv 2004/25/EG om uppköpserbjudanden.",
+        "page": 27
+      }
+    ]
+  }
+}

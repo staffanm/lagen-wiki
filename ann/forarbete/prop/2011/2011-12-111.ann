@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2011-12-111": "27d5ea00b12a780b58c6881206fa00769bd054b4541ad487988395b06cc4f124",
+      "artifact:eurlex/32009L0020": "13c579278cce9a5c15eaa5d6be566b8550bdae2b81cc4e32479a288d40d8cbbb"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0020"
+    ],
+    "proposition": "https://lagen.nu/prop/2011/12:111",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0020",
+        "articles": [
+          "2",
+          "3",
+          "4"
+        ],
+        "pinpoints": [
+          "2",
+          "3",
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0020#2",
+          "https://lagen.nu/ext/celex/32009L0020#3",
+          "https://lagen.nu/ext/celex/32009L0020#4"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om ändring i sjölagen (1994:1009)",
+        "chapter": "7",
+        "paragraf": "2",
+        "sentence": "Paragrafen, som är ny, genomför artiklarna 2, 3 och 4 i Europaparlamentets och rådets direktiv 2009/20/EG av den 23 april 2009 om fartygsägares försäkring för sjörättsliga skadeståndsanspråk (försäkringsdirektivet).",
+        "page": 42
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0020",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0020#6"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om ändring i sjölagen (1994:1009)",
+        "chapter": "7",
+        "paragraf": "3",
+        "sentence": "Paragrafen är ny och genomför artikel 6 i försäkringsdirektivet.",
+        "page": 46
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0020",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0020#7"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om ändring i sjölagen (1994:1009)",
+        "chapter": "20",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 7 i försäkringsdirektivet.",
+        "page": 49
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0020",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0020#5"
+        ],
+        "partial": false,
+        "law": "14.2 Förslaget till lag om ändring i fartygssäkerhetslagen (2003:364)",
+        "chapter": "5",
+        "paragraf": "8 a",
+        "sentence": "Den genomför artikel 5.1 i försäkringsdirektivet.",
+        "page": 51
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0020",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0020#5"
+        ],
+        "partial": false,
+        "law": "14.2 Förslaget till lag om ändring i fartygssäkerhetslagen (2003:364)",
+        "chapter": "7",
+        "paragraf": "7",
+        "sentence": "Bestämmelsen genomför artikel 5.2 i försäkringsdirektivet.",
+        "page": 52
+      }
+    ]
+  }
+}

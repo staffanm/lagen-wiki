@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/1994-95-185": "49832f47ad52c5b1a5c3d3ea10ae6d15c303f7de2ddfd775211d1176f3524d18",
+      "artifact:eurlex/31994L0011": "d4a0840e1b85bb4319f5d2ff99deed83884f28e52de3664626c128237ebae259"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31994L0011"
+    ],
+    "proposition": "https://lagen.nu/prop/1994/95:185",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31994L0011",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31994L0011#1"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Med sko avses inte bara en hel sko utan även vissa delar som säljs separat (artikel 1.1 i direktivet).",
+        "page": null
+      }
+    ]
+  }
+}

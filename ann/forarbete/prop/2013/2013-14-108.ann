@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2013-14-108": "2dcc0663df59daad1e824649784e0a19587cf875737ace7bb3df64f763e9d5ec",
+      "artifact:eurlex/32013L0014": "f4d47b0633c8a5197c5e6403ba134c4d2fd6d16ed5122a197dfaa36012f7b83a"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32013L0014"
+    ],
+    "proposition": "https://lagen.nu/prop/2013/14:108",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32013L0014",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32013L0014#1"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "34 a",
+        "sentence": "Paragrafen, som är ny, genomför artikel 18.1a i tjänstepensionsdirektivet (artikel 1 i ändringsdirektivet).",
+        "page": 31
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32013L0014",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32013L0014#2"
+        ],
+        "partial": false,
+        "law": "8.2 Förslaget till lag om ändring i lagen (2004:46) om värdepappersfonder",
+        "chapter": "5",
+        "paragraf": "2",
+        "sentence": "Ändringen i första stycket genomför den nya lydelsen av artikel 51.1 första stycket i UCITS-direktivet (artikel 2.1 i ändringsdirektivet).",
+        "page": 32
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32013L0014",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32013L0014#3"
+        ],
+        "partial": false,
+        "law": "8.3 Förslaget till lag om ändring i lagen (2013:561) om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "4",
+        "sentence": "Ändringen i andra stycket genomför den nya lydelsen av artikel 15.2 första stycket i AIFM-direktivet (artikel 3.1 i ändringsdirektivet).",
+        "page": 33
+      }
+    ]
+  }
+}

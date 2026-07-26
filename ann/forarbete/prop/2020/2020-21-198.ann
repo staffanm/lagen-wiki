@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2020-21-198": "973835ef33a9a680dcaa488e3a4e628ad71b09dc33c32975f6c6ec6587ed7d24",
+      "artifact:eurlex/32008L0098": "cd2bc038ebf36d89abcc25daed82e73502b200a4bffdd82f9487e8c34e710cbb"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32008L0098"
+    ],
+    "proposition": "https://lagen.nu/prop/2020/21:198",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32008L0098",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32008L0098#8"
+        ],
+        "partial": true,
+        "law": null,
+        "chapter": "15",
+        "paragraf": "8 a",
+        "sentence": "Den genomför delvis artikel 8.1 i avfallsdirektivet.",
+        "page": 59
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32008L0098",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.21"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32008L0098#3"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "15",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 3.21 i avfallsdirektivet.",
+        "page": 60
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32008L0098",
+        "articles": [
+          "8",
+          "4"
+        ],
+        "pinpoints": [
+          "8 a",
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32008L0098#8",
+          "https://lagen.nu/ext/celex/32008L0098#4"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "15",
+        "paragraf": "15",
+        "sentence": "Detta bemyndigande ger möjlighet att meddela föreskrifter som kan genomföra artikel 8a.4 i avfallsdirektivet.",
+        "page": 64
+      }
+    ]
+  }
+}

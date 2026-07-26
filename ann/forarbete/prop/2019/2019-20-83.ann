@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2019-20-83": "713449318cd8617e8954a42547b1e744d4f421ac4b56eb3a62059d51591c2ae6",
+      "artifact:eurlex/32015L0849": "8af3f325476239c40a0fa5736066be6c173de61fd6ead42fd55739da7f9ab1b1"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32015L0849"
+    ],
+    "proposition": "https://lagen.nu/prop/2019/20:83",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L0849",
+        "articles": [
+          "32"
+        ],
+        "pinpoints": [
+          "32 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L0849#32"
+        ],
+        "partial": true,
+        "law": "Förslaget till lag om konto- och värdefackssystem",
+        "chapter": null,
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför i svensk rätt – tillsammans med 2 – 8 §§ – artikel 32a i fjärde penningtvättsdirektivet.",
+        "page": 42
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L0849",
+        "articles": [
+          "40"
+        ],
+        "pinpoints": [
+          "40.1 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L0849#40"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om konto- och värdefackssystem",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Av andra stycket följer att instituten ska se till att uppgifterna är tillgängliga för sökning i systemet fram till dess att fem år har gått från det att tjänsten avslutades (artikel 40.1 tredje stycket i fjärde penningtvättsdirektivet).",
+        "page": 43
+      }
+    ]
+  }
+}

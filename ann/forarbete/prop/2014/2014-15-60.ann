@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2014-15-60": "a78af9954a010edacb09c06a37b1b518114aeed698160ea4ad6a871a01ec4c2b",
+      "artifact:eurlex/32012L0018": "cd77f84ea0e22c5092232bd8fb37261870b5c67ad56c079ad83cd13ab6718b6e"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32012L0018"
+    ],
+    "proposition": "https://lagen.nu/prop/2014/15:60",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32012L0018",
+        "articles": [
+          "3",
+          "12"
+        ],
+        "pinpoints": [
+          "3 p",
+          "12"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32012L0018#3",
+          "https://lagen.nu/ext/celex/32012L0018#12"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "I andra stycket har ordet förväntade ersatt ordet möjliga i enlighet med definitionen i artikel 3 punkt 12 i Seveso III-direktivet.",
+        "page": 98
+      }
+    ]
+  }
+}

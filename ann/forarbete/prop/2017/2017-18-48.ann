@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2017-18-48": "517d9cfeb5f2aa59db8836635c53b98cdb69823dc875949a82d70e1ec3719d9e",
+      "artifact:eurlex/32015L0637": "baec25168754d590167138887e030e84588c6106af78c3d3714e2738cc388702"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32015L0637"
+    ],
+    "proposition": "https://lagen.nu/prop/2017/18:48",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L0637",
+        "articles": [
+          "2",
+          "5"
+        ],
+        "pinpoints": [
+          "2.1",
+          "5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L0637#2",
+          "https://lagen.nu/ext/celex/32015L0637#5"
+        ],
+        "partial": false,
+        "law": "9.1 Förslag till lag om ändring i lagen (2003:491) om konsulärt ekonomiskt bistånd",
+        "chapter": null,
+        "paragraf": "4 a",
+        "sentence": "Ändringen genomför direktivets artikel 2.1 och artikel 5.",
+        "page": 26
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L0637",
+        "articles": [
+          "2",
+          "5"
+        ],
+        "pinpoints": [
+          "2.1",
+          "5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L0637#2",
+          "https://lagen.nu/ext/celex/32015L0637#5"
+        ],
+        "partial": false,
+        "law": "9.2 Förslag till lag om ändring i lagen (2010:813) om konsulära katastrofinsatser",
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "Ändringen genomför direktivets artikel 2.1 samt artikel 5.",
+        "page": 28
+      }
+    ]
+  }
+}

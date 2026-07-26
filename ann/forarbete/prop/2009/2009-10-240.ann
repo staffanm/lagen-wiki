@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2009-10-240": "edcd9545a56e5905cf61295f4c3037159e66aa46102170987d4349aed04f13a5",
+      "artifact:eurlex/32009L0138": "748d030e8e9ed294f3de3f3abdb4bff094e8cd1c86ddd090c2bf691e88003791"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0138"
+    ],
+    "proposition": "https://lagen.nu/prop/2009/10:240",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "120"
+        ],
+        "pinpoints": [
+          "120.120",
+          "120.121",
+          "120.122",
+          "120.123",
+          "120.124",
+          "120.125"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#120"
+        ],
+        "partial": true,
+        "law": "7.1 Förslaget till lag om ändring i försäkringsrörelselagen (1982:713)",
+        "chapter": "7",
+        "paragraf": "28 a",
+        "sentence": "Vid sin prövning bör Finansinspektionen därför utgå från de grundläggande krav som anges i artiklarna 120–125 i Solvens II-direktivet",
+        "page": 22
+      }
+    ]
+  }
+}

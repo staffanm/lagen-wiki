@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2009-10-231": "26d238801b0f7bb3a7bcd5066c6e7847e8de368b2b3e4873228d53b9ad486939",
+      "artifact:eurlex/32009L0016": "1fbe0e4635b01ffd7957827cdc0c47d2d78a911c31f27346b3a9d3091d03c753",
+      "artifact:eurlex/32009L0017": "c37277263fc3f943aa9a395d3daa5fcc6f7e91dad242230dfe2190bab43c0513"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0016",
+      "https://lagen.nu/ext/celex/32009L0017"
+    ],
+    "proposition": "https://lagen.nu/prop/2009/10:231",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0016",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0016#3"
+        ],
+        "partial": false,
+        "law": "11.1 Förslaget till lag om ändring i fartygssäkerhetslagen (2003:364)",
+        "chapter": "5",
+        "paragraf": "9",
+        "sfs": "S3",
+        "sentence": "Bestämmelsen, som genomför artikel 3.4 i Europaparlamentets och rådets direktiv 2009/16/EG av den 23 april 2009 om hamnstatskontroll (hamnstatskontrolldirektivet), har utformats i enlighet med Lagrådets förslag och behandlats i avsnitt 5.2.3.",
+        "page": 44
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0016",
+        "articles": [
+          "23",
+          "2"
+        ],
+        "pinpoints": [
+          "23.1",
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0016#23",
+          "https://lagen.nu/ext/celex/32009L0016#2"
+        ],
+        "partial": false,
+        "law": "11.1 Förslaget till lag om ändring i fartygssäkerhetslagen (2003:364)",
+        "chapter": "5",
+        "paragraf": "16 a",
+        "sentence": "Paragrafen är ny och genomför artikel 23.1 och 2 i hamnstatskontrolldirektivet.",
+        "page": 44
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0016",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0016#21"
+        ],
+        "partial": false,
+        "law": "11.1 Förslaget till lag om ändring i fartygssäkerhetslagen (2003:364)",
+        "chapter": "5",
+        "paragraf": "22",
+        "sfs": "S1",
+        "sentence": "Tillägget, som har utformats i enlighet med Lagrådets förslag, genomför artikel 21.2 i hamnstatskontrolldirektivet och har behandlats i avsnitt 5.2.2.",
+        "page": 44
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/1996-97-70": "b4294fbffd4e80ba3c2154caae41427d5744726ec111826ad31326af1e7bb84b",
+      "artifact:eurlex/31993L0109": "4021a1717ae8aecb902ca0c0e801dab81cc691578c588cd8cfaf71bc89f7ab44",
+      "artifact:eurlex/31994L0080": "f0a9e9748aea841e51e1685a4bd768372cce76c9a5a646e5133e00617f779700",
+      "artifact:eurlex/31996L0030": "7ede1fcd3a149132100c28105d1301175e1694ffb92535a061930a8fb43998c3"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31993L0109",
+      "https://lagen.nu/ext/celex/31994L0080",
+      "https://lagen.nu/ext/celex/31996L0030"
+    ],
+    "proposition": "https://lagen.nu/prop/1996/97:70",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31993L0109",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31993L0109#4"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till vallag",
+        "chapter": "1",
+        "paragraf": "4",
+        "sentence": "Genom bestämmelsen tillämpas artikel 4.1 rådets direktiv 93/109/EG av den 6 december 1993 om fastställande av närmare bestämmelser för rösträtt och valbarhet vid val till Europaparlamentet för unionsmedborgare som är bosatta i en medlemsstat där de inte är medborgare, vilken föreskriver att ingen får rösta mer än en gång i samma val.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31993L0109",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31993L0109#6"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till vallag",
+        "chapter": "5",
+        "paragraf": "18",
+        "sentence": "Bestämmelsen är en tillämpning av artikel 6.2 direktivet 93/109/EG.",
+        "page": null
+      }
+    ]
+  }
+}

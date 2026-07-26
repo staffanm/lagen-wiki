@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2003-04-126": "ee10dd05c55373313d4507469c7f295a0047ae4e8212e5f52cfe4e49d48c52e0",
+      "artifact:eurlex/32003L0049": "05fa3550ccc5a2543694bf3b14bead41908c1b94940edc15b23adb7daf947ddd",
+      "artifact:eurlex/32004L0066": "ff1f360818fb5fd515c21876263c60a4196cf95f82a10fc108fcae1e78b9dce1",
+      "artifact:eurlex/32004L0076": "1fa5ede2eab1fe87b3249bcad49bc80722d149ca82e8650ffa7e314df4ab785f"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32003L0049",
+      "https://lagen.nu/ext/celex/32004L0066",
+      "https://lagen.nu/ext/celex/32004L0076"
+    ],
+    "proposition": "https://lagen.nu/prop/2003/04:126",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0049",
+        "articles": [
+          "3",
+          "1"
+        ],
+        "pinpoints": [
+          "3 a",
+          "3 a",
+          "3 a",
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0049#3",
+          "https://lagen.nu/ext/celex/32003L0049#1"
+        ],
+        "partial": true,
+        "law": "10.1 Förslaget till lag om ändring i inkomstskattelagen (1999:1229)",
+        "chapter": "6 a",
+        "paragraf": "4",
+        "sentence": "Paragrafen införlivar bl.a. definitionen av ”bolag i en medlemsstat” som finns i artikel 3 a i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0049",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.1",
+          "1.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0049#1"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om ändring i inkomstskattelagen (1999:1229)",
+        "chapter": "6 a",
+        "paragraf": "5",
+        "sentence": "Innebörden av paragrafen är densamma fast det uttrycks genom att man i stället anger när undantaget från skattskyldighet inte gäller.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0049",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0049#4"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om ändring i inkomstskattelagen (1999:1229)",
+        "chapter": "6 a",
+        "paragraf": "7",
+        "sentence": "Bestämmelsen motsvarar artikel 4.2 i direktivet och kommenteras i avsnitt 6.2.2.",
+        "page": null
+      }
+    ]
+  }
+}

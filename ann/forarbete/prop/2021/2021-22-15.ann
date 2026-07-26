@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2021-22-15": "f238f88b4d38cd03d2c88a810b70aaefaa375fff8d17ecd63a6966335b7dbcfc",
+      "artifact:eurlex/32003L0004": "31d11301627a93df0fb7b3965ef6b9421fee7d12ebfed76798012fb0cf4257b6",
+      "artifact:eurlex/32011L0092": "898d3b213dc116c6eda54417692ce103fc7399cc10038bdab9c51d972b6e3c43"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32003L0004",
+      "https://lagen.nu/ext/celex/32011L0092"
+    ],
+    "proposition": "https://lagen.nu/prop/2021/22:15",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0092",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0092#2"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "17 a",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 2.4 i MKB-direktivet.",
+        "page": 53
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0092",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0092#2"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om ändring i miljöbalken",
+        "chapter": "17 a",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 2.4 i MKB-direktivet.",
+        "page": 54
+      }
+    ]
+  }
+}

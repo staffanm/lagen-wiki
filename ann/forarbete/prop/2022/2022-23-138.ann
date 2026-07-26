@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2022-23-138": "3791d59b3925d7504e4d6f003eff33a58be7bb0f0240800683a77b0444c5a490",
+      "artifact:eurlex/32014L0053": "3c3bd045c5eb430ef2c84eb8b13ff5808b9f4f8871f1b777574adf1410eb6d07"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32014L0053"
+    ],
+    "proposition": "https://lagen.nu/prop/2022/23:138",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0053",
+        "articles": [
+          "3",
+          "1"
+        ],
+        "pinpoints": [
+          "3 a",
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0053#3",
+          "https://lagen.nu/ext/celex/32014L0053#1"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i radioutrustningslagen (2016:392)",
+        "chapter": null,
+        "paragraf": "7",
+        "sentence": "Ändringen i paragrafen genomför artikel 3a.1 i radioutrustningsdirektivet enligt artikel 1.2 i ändringsdirektivet.",
+        "page": 11
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/1994-95-56": "6312c55bb750af7d5ca717f90ae1b113e59bdcce378f2dd6894eec4a090e199f",
+      "artifact:eurlex/31992L0083": "6b91f26c6f1b5be01182e5fd1dd89857df6a289d2ab9cdd4688bb095148539e1",
+      "artifact:eurlex/31992L0084": "d0741b074a7e888f892a9746955acc81ee1659e88bb058a7514e0e68f84987fe"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31992L0083",
+      "https://lagen.nu/ext/celex/31992L0084"
+    ],
+    "proposition": "https://lagen.nu/prop/1994/95:56",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31992L0084",
+        "articles": [
+          "5",
+          "2"
+        ],
+        "pinpoints": [
+          "5.1",
+          "2.1",
+          "2.2",
+          "2.3",
+          "2.4",
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31992L0084#5",
+          "https://lagen.nu/ext/celex/31992L0084#2"
+        ],
+        "partial": true,
+        "law": "16.1 Förslag till lag om tobaksskatt",
+        "chapter": null,
+        "paragraf": "1",
+        "sentence": "Att varor som omfattas av cirkulationsdirektivet blir skattepliktiga i och med att de framställs inom gemenskapens punktskatteområde eller i och med att de importeras till detta område framgår av artikel 5.1 i cirkulationsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31992L0084",
+        "articles": [
+          "10",
+          "8"
+        ],
+        "pinpoints": [
+          "10",
+          "10.3",
+          "8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31992L0084#10",
+          "https://lagen.nu/ext/celex/31992L0084#8"
+        ],
+        "partial": false,
+        "law": "16.1 Förslag till lag om tobaksskatt",
+        "chapter": null,
+        "paragraf": "16",
+        "sentence": "Paragrafen grundar sig på artikel 10 i cirkulationsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31992L0084",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31992L0084#7"
+        ],
+        "partial": false,
+        "law": "16.1 Förslag till lag om tobaksskatt",
+        "chapter": null,
+        "paragraf": "17",
+        "sentence": "Paragrafen lämnar vissa föreskrifter för dem som är skattskyldiga enligt 9 § 5 och har sin grund i cirkulationsdirektivets artikel 7.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31992L0084",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31992L0084#6"
+        ],
+        "partial": true,
+        "law": "16.1 Förslag till lag om tobaksskatt",
+        "chapter": null,
+        "paragraf": "22",
+        "sentence": "Bestämmelsen har sin grund i artikel 6 i cirkulationsdirektivet där det framgår att skatten förfaller till betalning när varan blir tillgänglig för konsumtion, varmed bl.a. menas varje framställning utan suspensionsordningen.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31992L0084",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31992L0084#10"
+        ],
+        "partial": false,
+        "law": "16.1 Förslag till lag om tobaksskatt",
+        "chapter": null,
+        "paragraf": "28",
+        "sentence": "Liksom dessa bestämmelser grundar sig den här behandlade paragrafen på artikel 10 i cirkulationsdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

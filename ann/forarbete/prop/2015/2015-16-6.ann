@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2015-16-6": "6c1827c4e261321e284c14d1df7e0f5089ea85192afda22a5f1cba8346fcc432",
+      "artifact:eurlex/32014L0060": "96e902e6b19714ea51812f1b749f2b381ef8eb3c43f26dfe5e2ca08b5ed38122"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32014L0060"
+    ],
+    "proposition": "https://lagen.nu/prop/2015/16:6",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0060",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0060#2"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i kulturmiljölagen (1988:950)",
+        "chapter": "6",
+        "paragraf": "2",
+        "sentence": "Paragrafen motsvarar art 2.1 i direktivet och behandlas i avsnitt 7.1 i denna proposition.",
+        "page": 24
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0060",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0060#8"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i kulturmiljölagen (1988:950)",
+        "chapter": "6",
+        "paragraf": "6",
+        "sentence": "Paragrafen motsvarar artikel 8 i direktivet och behandlas under avsnitt 7.2 i denna proposition.",
+        "page": 24
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0060",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0060#2"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i kulturmiljölagen (1988:950)",
+        "chapter": "6",
+        "paragraf": "6",
+        "sentence": "I andra stycket finns definitionen av begreppet offentlig samling vilket motsvaras av art. 2.8 i direktivet.",
+        "page": 24
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0060",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0060#10"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i kulturmiljölagen (1988:950)",
+        "chapter": "6",
+        "paragraf": "7",
+        "sentence": "Paragrafen motsvarar art. 10 i direktivet och behandlas i avsnitt 7.3 i denna proposition.",
+        "page": 25
+      }
+    ]
+  }
+}

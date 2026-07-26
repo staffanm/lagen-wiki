@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2004-05-18": "89a717f5354c4b395eea5e21619d2bf677e1a3dbc242429269bfba2176490b80",
+      "artifact:eurlex/32003L0087": "a9871b1894931eed362302fc12d83e8b8b053598ab93954e6f17b311cc9ea27c"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32003L0087"
+    ],
+    "proposition": "https://lagen.nu/prop/2004/05:18",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#27"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om handel med utsläppsrätter",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Det framgår av artikel 27 i handelsdirektivet att för det företag som tillfälligt undantas skall ändå samma eller motsvarande krav ställas som gäller för verksamheter under tillståndsplikt.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#29"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om handel med utsläppsrätter",
+        "chapter": null,
+        "paragraf": "7",
+        "sentence": "Genom bestämmelsen i denna paragraf införlivas artikel 29 i handelsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "14"
+        ],
+        "pinpoints": [
+          "14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#14"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om handel med utsläppsrätter",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Genom paragrafen genomförs bestämmelserna i artikel 14 och bilaga IV till handelsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "12",
+          "13"
+        ],
+        "pinpoints": [
+          "12.3",
+          "13.2",
+          "13.3",
+          "12.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#12",
+          "https://lagen.nu/ext/celex/32003L0087#13"
+        ],
+        "partial": false,
+        "law": "14.1 Förslaget till lag om handel med utsläppsrätter",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Genom paragrafens punkt 1 genomförs bestämmelserna i artikel 12.3 i handelsdirektivet. Paragrafens punkt 2 motsvarar bestämmelserna i artikel 13.2 och 13.3 i handelsdirektivet. Artikel 12.4 i handelsdirektivet genomförs genom bestämmelsen i punkten 3 .",
+        "page": null
+      }
+    ]
+  }
+}

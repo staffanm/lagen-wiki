@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2015-16-91": "426d84e88b9e28c84d115b8e1bbceaff218b4bf065cc0a86c72847cea6e48555",
+      "artifact:eurlex/32014L0031": "4be8dd6f940ffbea80768e7c86ec0f087292a2ac8759e8cfb174b496114a1b1c",
+      "artifact:eurlex/32014L0032": "08e9e3d4d6021d06fa131a5ec35f0a72d371354e3c2c4e212e2fc31e66e03824"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32014L0031",
+      "https://lagen.nu/ext/celex/32014L0032"
+    ],
+    "proposition": "https://lagen.nu/prop/2015/16:91",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0031",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.5",
+          "2.6",
+          "2.7",
+          "2.8",
+          "2.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0031#2"
+        ],
+        "partial": true,
+        "law": "Förslaget till lag om ändring i lagen (1992:1514) om måttenheter, mätningar och mätdon",
+        "chapter": null,
+        "paragraf": "6 a",
+        "sentence": "Innebörden av uttrycken tillverkare, tillverkares representant, importör, distributör och ekonomisk aktör följer av artikel 2.5–9 i NAWI- och artikel 4.8–12 i MID-direktivet.",
+        "page": 14
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0032",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.8",
+          "4.9",
+          "4.10",
+          "4.11",
+          "4.12"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0032#4"
+        ],
+        "partial": true,
+        "law": "Förslaget till lag om ändring i lagen (1992:1514) om måttenheter, mätningar och mätdon",
+        "chapter": null,
+        "paragraf": "6 a",
+        "sentence": "Innebörden av uttrycken tillverkare, tillverkares representant, importör, distributör och ekonomisk aktör följer av artikel 2.5–9 i NAWI- och artikel 4.8–12 i MID-direktivet.",
+        "page": 14
+      }
+    ]
+  }
+}

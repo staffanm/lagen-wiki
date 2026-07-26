@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2008-09-187": "38c0d9e9ad9efff762c86810aef865a251e6ff84b7e4993467ae15b6c02c0812",
+      "artifact:eurlex/32006L0123": "08fa399fbf36ec5989e5cd169fb6e21853ce6664eebf0286c2d449f6e0cc0e05"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32006L0123"
+    ],
+    "proposition": "https://lagen.nu/prop/2008/09:187",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0123",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0123#3"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om tjänster på den inre marknaden",
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "Paragrafen ger uttryck för principen i artikel 3.1 i tjänstedirektivet, dvs. att om en annan gemenskapsrättsakt innehåller bestämmelser som står i strid med tjänstedirektivet gäller den andra gemenskapsrättsakten.",
+        "page": 179
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0123",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0123#18"
+        ],
+        "partial": false,
+        "law": "13.12 Förslaget till lag om ändring i produktsäkerhetslagen (2004:451)",
+        "chapter": null,
+        "paragraf": "30 a",
+        "sentence": "Bestämmelsen, som är ny, grundar sig på artikel 18 i tjänstedirektivet som möjliggör undantag i enskilda fall från artikel 16 i direktivet.",
+        "page": 191
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0123",
+        "articles": [
+          "35"
+        ],
+        "pinpoints": [
+          "35",
+          "35.2",
+          "35.3",
+          "35.6",
+          "35.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0123#35"
+        ],
+        "partial": false,
+        "law": "13.12 Förslaget till lag om ändring i produktsäkerhetslagen (2004:451)",
+        "chapter": null,
+        "paragraf": "30 b",
+        "sentence": "Paragrafen, som är ny, grundar sig på artikel 35 i tjänstedirektivet och reglerar det förfarande för ömsesidigt bistånd som ska följas då en svensk tillsynsmyndighet överväger att med stöd av 30 a § ingripa mot en tjänst som tillfälligt tillhandahålls här i landet av en näringsidkare som är etablerad i en annan EES-stat än Sverige.",
+        "page": 192
+      }
+    ]
+  }
+}

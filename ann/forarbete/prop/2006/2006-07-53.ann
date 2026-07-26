@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2006-07-53": "d76513fe11f531f848d44d12494320b78353ab20dfc480a70d58bbadec51df6c",
+      "artifact:eurlex/32004L0081": "f8477ae60383e44c1aae9532b98af1a28515789af17622a7b9cfa0a04050b56e"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32004L0081"
+    ],
+    "proposition": "https://lagen.nu/prop/2006/07:53",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0081",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0081#8"
+        ],
+        "partial": false,
+        "law": "7.2 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "5",
+        "paragraf": "15",
+        "sentence": "Kriterierna motsvarar de kriterier som anges i artikel 8 i direktivet.",
+        "page": 47
+      }
+    ]
+  }
+}

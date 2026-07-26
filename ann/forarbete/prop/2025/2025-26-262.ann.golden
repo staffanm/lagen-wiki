@@ -1,0 +1,117 @@
+{
+ "meta": {
+  "status": "golden",
+  "model": "claude subagents (opus/sonnet)",
+  "generated": "2026-07-23",
+  "inputs": {
+   "artifact:forarbete/prop/2025-26-262": "5f980f8bc9ebb18227535120efd3c892e4d3f49231e186f2d7fb0c10c06ebd89",
+   "artifact:eurlex/32001L0055": "5ce7ec423210daa0d3bd6ed5174d8e801f962cadf41c4e3bc30ca35f00e46bbc"
+  }
+ },
+ "genomforande": {
+  "directives": [
+   "https://lagen.nu/ext/celex/32001L0055"
+  ],
+  "proposition": "https://lagen.nu/prop/2025/26:262",
+  "edges": [
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32001L0055",
+    "articles": [
+     "9"
+    ],
+    "pinpoints": [
+     "9"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32001L0055#9"
+    ],
+    "partial": false,
+    "law": "18.27 Förslaget till lag om ändring i mottagandelagen (2026:000)",
+    "chapter": "3",
+    "paragraf": "3",
+    "sentence": "Genom ändringen anpassas svensk rätt till artiklarna 43.2 och 54.1 i asylprocedurförordningen, i förening med artikel 9 i det nya omarbetade mottagandedirektivet.",
+    "page": 447
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32001L0055",
+    "articles": [
+     "17",
+     "21"
+    ],
+    "pinpoints": [
+     "17.1 a",
+     "21"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32001L0055#17",
+     "https://lagen.nu/ext/celex/32001L0055#21"
+    ],
+    "partial": false,
+    "law": "18.27 Förslaget till lag om ändring i mottagandelagen (2026:000)",
+    "chapter": "5",
+    "paragraf": "5",
+    "sentence": "Genom paragrafen genomförs artikel 17.1 andra stycket i det nya omarbetade mottagandedirektivet.",
+    "page": 448
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32001L0055",
+    "articles": [
+     "21"
+    ],
+    "pinpoints": [
+     "21"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32001L0055#21"
+    ],
+    "partial": true,
+    "law": "18.27 Förslaget till lag om ändring i mottagandelagen (2026:000)",
+    "chapter": "6",
+    "paragraf": "1 a",
+    "sentence": "Genom paragrafen genomförs artikel 21 i det nya omarbetade mottagandedirektivet.",
+    "page": 449
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32001L0055",
+    "articles": [
+     "23"
+    ],
+    "pinpoints": [
+     "23.2 b"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32001L0055#23"
+    ],
+    "partial": false,
+    "law": "18.27 Förslaget till lag om ändring i mottagandelagen (2026:000)",
+    "chapter": "6",
+    "paragraf": "7",
+    "sentence": "Med ändringen genomförs artikel 23.2 b i det nya omarbetade mottagandedirektivet.",
+    "page": 449
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32001L0055",
+    "articles": [
+     "23"
+    ],
+    "pinpoints": [
+     "23.2 f"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32001L0055#23"
+    ],
+    "partial": false,
+    "law": "18.27 Förslaget till lag om ändring i mottagandelagen (2026:000)",
+    "chapter": "6",
+    "paragraf": "8",
+    "sentence": "Med ändringen genomförs artikel 23.2 f i det nya omarbetade mottagandedirektivet.",
+    "page": 449
+   }
+  ]
+ }
+}

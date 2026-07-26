@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2020-21-17": "5f97316a72f2b47d8ad24f421189fb010c6b6d60612ba8fd19b7843c43e140de",
+      "artifact:eurlex/32009L0138": "748d030e8e9ed294f3de3f3abdb4bff094e8cd1c86ddd090c2bf691e88003791"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0138"
+    ],
+    "proposition": "https://lagen.nu/prop/2020/21:17",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "247"
+        ],
+        "pinpoints": [
+          "247.3 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#247"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "19",
+        "paragraf": "8",
+        "sentence": "Bestämmelsen genomför artikel 247.3 fjärde stycket i Europaparlamentets och rådets direktiv 2009/138/EG av den 25 november 2009 om upptagande och utövande av försäkrings- och återförsäkringsverksamhet (Solvens II), i lydelsen enligt Europaparlamentets och rådets direktiv 2014/51/EU av den 16 april 2014 om ändring av direktiven 2003/71/EG och 2009/138/EG och förordningarna (EG) nr 1060/2009, (EU) nr 1094/2010 och (EU) nr 1095/2010 med avseende på befogenheterna för Europeiska tillsynsmyndigheten (Europeiska försäkrings- och tjänstepensionsmyndigheten) och Europeiska tillsynsmyndigheten (Europeiska värdepappers- och marknadsmyndigheten).",
+        "page": 14
+      }
+    ]
+  }
+}

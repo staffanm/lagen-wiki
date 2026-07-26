@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2011-12-129": "83901bd0f84395ab40aa2fc31b6cffee9cfa0e76ff411ce086b6645d2167cc7a",
+      "artifact:eurlex/32004L0109": "3cc5c80ea404ebd9c7a3b9888f7d8e6f254a29633a20c19333081376b0c62faa",
+      "artifact:eurlex/32010L0073": "e1dd1092d495ead70faff1b615b971f3b12a37e28f80c835506eed93e8ad34c3",
+      "artifact:eurlex/32010L0078": "f8518d92739acff611efd1dd1de475cd8944d864039f35f59fd90f6436909954"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32004L0109",
+      "https://lagen.nu/ext/celex/32010L0073",
+      "https://lagen.nu/ext/celex/32010L0078"
+    ],
+    "proposition": "https://lagen.nu/prop/2011/12:129",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0109",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0109#2"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "4",
+        "paragraf": "22",
+        "sentence": "Som en följd av att 6 kap. 1 b § utgår och hemmedelsstat enligt den nya lydelsen av artikel 2.1 i öppenhetsdirektivet bestäms utifrån artikel 2.1 m iii i prospektdirektivet sker en anpassning av lagtexten i enlighet med detta.",
+        "page": 92
+      }
+    ]
+  }
+}

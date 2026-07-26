@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2003-04-180": "f23c94bce229539cba18daf04197bd8748093c1cbfdafa3517f486f71c28901a",
+      "artifact:eurlex/32003L0088": "8c0b3fa75a5ecd5c26ba88f39f3685b6dbad0d8bd04412cf2df58a554512a2ee"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32003L0088"
+    ],
+    "proposition": "https://lagen.nu/prop/2003/04:180",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0088",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0088#19"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "Tillägget innebär att möjligheten enligt artikel 19 i arbetstidsdirektivet att nationellt tillåta en genom kollektivavtal fastställd beräkningsperiod om högst tolv månader kommer till uttryck i lagtexten.",
+        "page": 59
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0088",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0088#8"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "13 a",
+        "sentence": "Bedömningen av vilket arbete som avses skall enligt artikel 8 i direktivet ske med hänsyn tagen till nattarbetets särskilda konsekvenser och risker.",
+        "page": 64
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0088",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0088#17"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "19",
+        "sentence": "Avvikelser från direktivets regler genom dispens kan ske i de situationer och på de villkor som anges i artikel 17 i direktivet.",
+        "page": 65
+      }
+    ]
+  }
+}

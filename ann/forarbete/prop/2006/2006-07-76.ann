@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2006-07-76": "5ecae76595d532f5e89c53826abd00f2f71c3bc1cd0598c7e9d0a1fe15d496ea",
+      "artifact:eurlex/31990L0428": "294fe6ef1aec8e86a4a6f3e02e6217f749b6a9113da7a60696e92d63bb0bfc84"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31990L0428"
+    ],
+    "proposition": "https://lagen.nu/prop/2006/07:76",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31990L0428",
+        "articles": [
+          "3",
+          "4"
+        ],
+        "pinpoints": [
+          "3",
+          "4.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31990L0428#3",
+          "https://lagen.nu/ext/celex/31990L0428#4"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "Genom paragrafen, som har kommenterats i avsnitt 6.1, genomförs artiklarna 3 och 4.1 i rådets direktiv 90/428/EEG.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31990L0428",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31990L0428#4"
+        ],
+        "partial": true,
+        "law": null,
+        "chapter": null,
+        "paragraf": "4",
+        "sentence": "Paragrafen, som har kommenterats i avsnitt 6.2, genomför delvis artikel 4.2 i rådets direktiv 90/428/EEG.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31990L0428",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31990L0428#4"
+        ],
+        "partial": true,
+        "law": null,
+        "chapter": null,
+        "paragraf": "5",
+        "sentence": "Paragrafen, som har kommenterats i avsnitt 6.3, genomför delvis artikel 4.2 i rådets direktiv 90/428/EEG.",
+        "page": null
+      }
+    ]
+  }
+}

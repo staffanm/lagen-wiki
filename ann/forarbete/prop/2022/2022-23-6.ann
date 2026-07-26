@@ -1,0 +1,581 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2022-23-6": "dfb5d8e92fc8464d01848b95efda7eea95e3d506e1b7629dcf5f3fcbfa873b52",
+      "artifact:eurlex/32011L0016": "13c61f595cef187ef48a366148d0350f070e09416e34f3172f39dd7347495b3c",
+      "artifact:eurlex/32021L0514": "7363c3ac2370d7170925790b5ffd2e36333694982bb5c6370b296b5e516b657b"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32011L0016",
+      "https://lagen.nu/ext/celex/32021L0514"
+    ],
+    "proposition": "https://lagen.nu/prop/2022/23:6",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "8",
+          "4"
+        ],
+        "pinpoints": [
+          "8 a",
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#8",
+          "https://lagen.nu/ext/celex/32011L0016#4"
+        ],
+        "partial": false,
+        "law": "9.2 Förslaget till lag om automatiskt utbyte av upplysningar om inkomster genom digitala plattformar",
+        "chapter": null,
+        "paragraf": "5",
+        "sentence": "Paragrafen tas in för att genomföra artikel 8ac.4 i DAC.",
+        "page": 246
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "8",
+          "4"
+        ],
+        "pinpoints": [
+          "8 a",
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#8",
+          "https://lagen.nu/ext/celex/32011L0016#4"
+        ],
+        "partial": false,
+        "law": "9.2 Förslaget till lag om automatiskt utbyte av upplysningar om inkomster genom digitala plattformar",
+        "chapter": null,
+        "paragraf": "9",
+        "sentence": "Paragrafen tas in för att genomföra artikel 8ac.4 andra stycket i DAC och avsnitt IV.F.6 andra stycket i bilaga V till DAC.",
+        "page": 247
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "8",
+          "5"
+        ],
+        "pinpoints": [
+          "8 a",
+          "5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#8",
+          "https://lagen.nu/ext/celex/32011L0016#5"
+        ],
+        "partial": false,
+        "law": "9.2 Förslaget till lag om automatiskt utbyte av upplysningar om inkomster genom digitala plattformar",
+        "chapter": null,
+        "paragraf": "12",
+        "sentence": "Paragrafen tas in för att genomföra artikel 8ac.5 i DAC.",
+        "page": 248
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "8",
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "8 a",
+          "2",
+          "8 a",
+          "3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#8",
+          "https://lagen.nu/ext/celex/32011L0016#2",
+          "https://lagen.nu/ext/celex/32011L0016#3"
+        ],
+        "partial": true,
+        "law": "9.2 Förslaget till lag om automatiskt utbyte av upplysningar om inkomster genom digitala plattformar",
+        "chapter": null,
+        "paragraf": "13",
+        "sentence": "Paragrafen tas in för att genomföra artikel 8ac.2 och delvis 8ac.3 i DAC samt avsnitt 2.1, 2.2, 4.2 och delvis avsnitt 3.2 i DPI MCAA.",
+        "page": 249
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#16"
+        ],
+        "partial": false,
+        "law": "9.2 Förslaget till lag om automatiskt utbyte av upplysningar om inkomster genom digitala plattformar",
+        "chapter": null,
+        "paragraf": "16",
+        "sentence": "Stycket tas in med anledning av artikel 16.2 i DAC.",
+        "page": 251
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#25"
+        ],
+        "partial": true,
+        "law": "9.2 Förslaget till lag om automatiskt utbyte av upplysningar om inkomster genom digitala plattformar",
+        "chapter": null,
+        "paragraf": "17",
+        "sentence": "Paragrafens andra stycke tas in för att genomföra artikel 25.6 första, tredje och delvis fjärde stycket i DAC.",
+        "page": 251
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#25"
+        ],
+        "partial": true,
+        "law": "9.2 Förslaget till lag om automatiskt utbyte av upplysningar om inkomster genom digitala plattformar",
+        "chapter": null,
+        "paragraf": "18",
+        "sentence": "Paragrafen tas in för att genomföra artikel 25.6 andra och delvis fjärde stycket i DAC.",
+        "page": 252
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#16"
+        ],
+        "partial": false,
+        "law": "9.5 Förslaget till lag om ändring i offentlighetsoch sekretesslagen (2009:400)",
+        "chapter": "27",
+        "paragraf": "1",
+        "sentence": "Ändringen har genomförts för att uppfylla skyldigheterna enligt artikel 16.1 i DAC (rådets direktiv 2011/16/EU om administrativt samarbete i fråga om beskattning).",
+        "page": 256
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#8"
+        ],
+        "partial": false,
+        "law": "9.6 Förslaget till lag om ändring i skatteförfarandelagen (2011:1244)",
+        "chapter": "26",
+        "paragraf": "19 b",
+        "sentence": "Tillägget genomför och uppfyller Sveriges skyldigheter att kunna utbyta minst fyra kategorier av inkomster och tillgångar enligt artikel 8.2 i DAC tillsammans med att motsvarande uppgifter ska lämnas i en kontrolluppgift om inkomstslaget tjänst.",
+        "page": 264
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#8"
+        ],
+        "partial": false,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "12",
+        "sentence": "Ändringen i paragrafen genomför ändringen av artikel 8.1 i DAC.",
+        "page": 274
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "8",
+          "1",
+          "4",
+          "5"
+        ],
+        "pinpoints": [
+          "8 a",
+          "1",
+          "4",
+          "5 a",
+          "8 a",
+          "5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#8",
+          "https://lagen.nu/ext/celex/32011L0016#1",
+          "https://lagen.nu/ext/celex/32011L0016#4",
+          "https://lagen.nu/ext/celex/32011L0016#5"
+        ],
+        "partial": false,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "12 a",
+        "sentence": "Paragrafen togs in för att genomföra artikel 8a punkterna 1, 4, och 5a i DAC (prop. 2016/17:19 s. 55). Ändringen i paragrafen genomför ändringen av artikel 8a.5 i DAC.",
+        "page": 274
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "8",
+          "6"
+        ],
+        "pinpoints": [
+          "8",
+          "8 a",
+          "6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#8",
+          "https://lagen.nu/ext/celex/32011L0016#6"
+        ],
+        "partial": false,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "12 b",
+        "sentence": "Paragrafen genomför artikel 8a punkten 6 a – l och punkten 8 i DAC (prop. 2016/17:19 s. 56). Ändringen i paragrafen genomför ändringen av artikel 8a.6 i DAC.",
+        "page": 274
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#8"
+        ],
+        "partial": false,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "13",
+        "sentence": "Ändringen i paragrafen genomför ändringen i artikel 8.3 i DAC.",
+        "page": 275
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#11"
+        ],
+        "partial": true,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "17",
+        "sentence": "Ändringen i paragrafen genomför delvis ändringen av artikel 11.1 i DAC.",
+        "page": 275
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#11"
+        ],
+        "partial": true,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "17 a",
+        "sentence": "Ändringen i paragrafen genomför delvis ändringen av artikel 11.1 i DAC.",
+        "page": 275
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#11"
+        ],
+        "partial": false,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "17 b",
+        "sentence": "Ändringen i paragrafen genomför ändringen av artikel 11.2 i DAC.",
+        "page": 276
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "12",
+          "1"
+        ],
+        "pinpoints": [
+          "12 a",
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#12",
+          "https://lagen.nu/ext/celex/32011L0016#1"
+        ],
+        "partial": true,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "17 c",
+        "sentence": "Paragrafen genomför delvis artikel 12a.1 i DAC.",
+        "page": 276
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "12",
+          "1"
+        ],
+        "pinpoints": [
+          "12 a",
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#12",
+          "https://lagen.nu/ext/celex/32011L0016#1"
+        ],
+        "partial": true,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "17 d",
+        "sentence": "Paragrafen genomför delvis artikel 12a.1 i DAC.",
+        "page": 276
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "12",
+          "2"
+        ],
+        "pinpoints": [
+          "12 a",
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#12",
+          "https://lagen.nu/ext/celex/32011L0016#2"
+        ],
+        "partial": true,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "17 e",
+        "sentence": "Paragrafen genomför delvis artikel 12a.2 i DAC.",
+        "page": 276
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "12",
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "12 a",
+          "2",
+          "12 a",
+          "3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#12",
+          "https://lagen.nu/ext/celex/32011L0016#2",
+          "https://lagen.nu/ext/celex/32011L0016#3"
+        ],
+        "partial": true,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "17 f",
+        "sentence": "Paragrafen genomför delvis artikel 12a.2 och artikel 12a.3 i DAC.",
+        "page": 277
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#16"
+        ],
+        "partial": true,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "20",
+        "sentence": "Ändringen i paragrafen genomför delvis ändringen av artikel 16.2 i DAC.",
+        "page": 277
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#16"
+        ],
+        "partial": true,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "21",
+        "sentence": "Ändringen i paragrafen genomför delvis ändringen av artikel 16.2 DAC.",
+        "page": 277
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#25"
+        ],
+        "partial": true,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "22 b",
+        "sentence": "Paragrafen tas in för att genomföra artikel 25.6 första och delvis tredje samt fjärde stycket i DAC.",
+        "page": 278
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#25"
+        ],
+        "partial": true,
+        "law": "9.7 Förslaget till lag om ändring i lagen (2012:843) om administrativt samarbete inom Europeiska unionen i fråga om beskattning",
+        "chapter": null,
+        "paragraf": "22 c",
+        "sentence": "Paragrafen tas in för att genomföra artikel 25.6 andra och delvis fjärde stycket i DAC.",
+        "page": 278
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#25"
+        ],
+        "partial": true,
+        "law": "9.8 Förslaget till lag om ändring i lagen (2015:912) om automatiskt utbyte av upplysningar om finansiella konton",
+        "chapter": null,
+        "paragraf": "6",
+        "sentence": "I paragrafen tas ett nytt andra stycke in för att genomföra artikel 25.6 första, tredje och delvis fjärde stycket i DAC.",
+        "page": 279
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#25"
+        ],
+        "partial": true,
+        "law": "9.8 Förslaget till lag om ändring i lagen (2015:912) om automatiskt utbyte av upplysningar om finansiella konton",
+        "chapter": null,
+        "paragraf": "7",
+        "sentence": "Paragrafen tas delvis in för att genomföra artikel 25.6 i DAC.",
+        "page": 280
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0016",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0016#8"
+        ],
+        "partial": false,
+        "law": "9.10 Förslaget till lag om ändring i lagen (2022:1073) om ändring i skatteförfarandelagen (2011:1244)",
+        "chapter": "15",
+        "paragraf": "9",
+        "sentence": "Tillägget genomför och uppfyller Sveriges skyldigheter att kunna utbyta minst fyra kategorier av inkomster och tillgångar enligt artikel 8.2 i DAC tillsammans med att motsvarande uppgifter ska lämnas i en arbetsgivardeklaration för en betalningsmottagare, se 26 kap. 19 b §.",
+        "page": 282
+      }
+    ]
+  }
+}

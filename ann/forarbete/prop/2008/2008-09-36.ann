@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2008-09-36": "34c826295958255b1bb65441cacdedc83388fd7e46baa57f6ec4d84d9b7b6c12",
+      "artifact:eurlex/32006L0086": "236e34d886c75a61c2226dc3011470e5e5555cc8f348daeecf0a343400788dca"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32006L0086"
+    ],
+    "proposition": "https://lagen.nu/prop/2008/09:36",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0086",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0086#2"
+        ],
+        "partial": false,
+        "law": "15.3 Förslaget till lag om ändring i lagen (2008:286) om kvalitets- och säkerhetsnormer vid hantering av mänskliga vävnader och celler",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Dessa begrepp och definitioner grundar sig på artikel 2 i direktiv 2006/86/EG.",
+        "page": 55
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0086",
+        "articles": [
+          "5",
+          "6"
+        ],
+        "pinpoints": [
+          "5.1 a",
+          "6.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0086#5",
+          "https://lagen.nu/ext/celex/32006L0086#6"
+        ],
+        "partial": false,
+        "law": "15.3 Förslaget till lag om ändring i lagen (2008:286) om kvalitets- och säkerhetsnormer vid hantering av mänskliga vävnader och celler",
+        "chapter": null,
+        "paragraf": "20 a",
+        "sentence": "Genom bestämmelsen genomförs artikel 5.1 a och 6.1 a i direktiv 2006/86/EG.",
+        "page": 55
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0086",
+        "articles": [
+          "5",
+          "6"
+        ],
+        "pinpoints": [
+          "5.1 b",
+          "6.1 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0086#5",
+          "https://lagen.nu/ext/celex/32006L0086#6"
+        ],
+        "partial": false,
+        "law": "15.3 Förslaget till lag om ändring i lagen (2008:286) om kvalitets- och säkerhetsnormer vid hantering av mänskliga vävnader och celler",
+        "chapter": null,
+        "paragraf": "20 b",
+        "sentence": "Genom bestämmelsen genomförs artikel 5.1 b och 6.1 b i direktiv 2006/86/EG.",
+        "page": 56
+      }
+    ]
+  }
+}

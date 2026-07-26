@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2001-02-182": "87427a8470f564083baa5d595c6a1715d81367e34f4adb83ca5f5e4e356d28d2",
+      "artifact:eurlex/32001L0040": "5ac93ae30576facb0a56bbcbc959cce8e42e0ace35b7dc6dfaf689f8723ee476"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32001L0040"
+    ],
+    "proposition": "https://lagen.nu/prop/2001/02:182",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0040",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0040#3"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": "2",
+        "paragraf": "10 a",
+        "sentence": "Direktivets bestämmelser om återkallelse av uppehållstillstånd finns i artikel 3.1 a).",
+        "page": 31
+      }
+    ]
+  }
+}

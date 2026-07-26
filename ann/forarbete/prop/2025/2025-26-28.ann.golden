@@ -1,0 +1,877 @@
+{
+ "meta": {
+  "status": "golden",
+  "model": "claude subagents (opus/sonnet)",
+  "generated": "2026-07-23",
+  "inputs": {
+   "artifact:forarbete/prop/2025-26-28": "4ca3b26fa40c54ac950cf72c5975d82c0abbc719dcb993106ebad9075614996a",
+   "artifact:eurlex/32022L2555": "aabb5afc8d7c1a7ba62ac218e3dd091284419dbfb527df7c1c7fc3bfbf944201"
+  }
+ },
+ "genomforande": {
+  "directives": [
+   "https://lagen.nu/ext/celex/32022L2555"
+  ],
+  "proposition": "https://lagen.nu/prop/2025/26:28",
+  "edges": [
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "6"
+    ],
+    "pinpoints": [
+     "6",
+     "6.6",
+     "6.1",
+     "6.32",
+     "6.39",
+     "6.40"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#6"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "1",
+    "paragraf": "2",
+    "sentence": "De flesta punkterna har en definition som är likalydande eller i sak överensstämmande med motsvarande definition i artikel 6 i NIS 2direktivet.",
+    "page": 229
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "2",
+     "26"
+    ],
+    "pinpoints": [
+     "2.1",
+     "2.2 f",
+     "2.5 a",
+     "26.1 c"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#2",
+     "https://lagen.nu/ext/celex/32022L2555#26"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "1",
+    "paragraf": "3",
+    "sentence": "Paragrafen genomför delvis artikel 2.1 samt artiklarna 2.2 f, 2.5 a och 26.1 c i NIS 2-direktivet.",
+    "page": 234
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "2",
+     "26"
+    ],
+    "pinpoints": [
+     "2.1",
+     "2.5 b",
+     "26.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#2",
+     "https://lagen.nu/ext/celex/32022L2555#26"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "1",
+    "paragraf": "4",
+    "sentence": "Genom paragrafen genomförs delvis artikel 2.1 och 2.5 b samt artikel 26.1 i NIS 2-direktivet.",
+    "page": 235
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "2"
+    ],
+    "pinpoints": [
+     "2.2 a",
+     "2.2 b"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#2"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "1",
+    "paragraf": "5",
+    "sentence": "Paragrafen genomför delvis artikel 2.2 a samt artikel 2.2 b–e i NIS 2direktivet.",
+    "page": 235
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "2",
+     "26"
+    ],
+    "pinpoints": [
+     "2.2 a",
+     "26.1 a"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#2",
+     "https://lagen.nu/ext/celex/32022L2555#26"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "1",
+    "paragraf": "6",
+    "sentence": "Paragrafen genomför delvis artikel 2.2 a samt artikel 26.1 a i NIS 2direktivet.",
+    "page": 236
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "2",
+     "26"
+    ],
+    "pinpoints": [
+     "2.1",
+     "2.2 a",
+     "2.4",
+     "26.1 b"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#2",
+     "https://lagen.nu/ext/celex/32022L2555#26"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "1",
+    "paragraf": "7",
+    "sentence": "Paragrafen genomför delvis artikel 2.1 och 2.2 a samt artiklarna 2.4 och 26.1 b i NIS 2-direktivet.",
+    "page": 236
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "3"
+    ],
+    "pinpoints": [
+     "3.1",
+     "3.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#3"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "1",
+    "paragraf": "9",
+    "sentence": "Paragrafen genomför artikel 3.1 och 3.2 i NIS 2-direktivet.",
+    "page": 237
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "4"
+    ],
+    "pinpoints": [
+     "4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#4"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "1",
+    "paragraf": "10",
+    "sentence": "Paragrafen utgör ett sådant undantag som medges enligt artikel 4 i NIS 2direktivet och behandlar undantag från lagens tillämpningsområde.",
+    "page": 238
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "2"
+    ],
+    "pinpoints": [
+     "2.10"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#2"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "1",
+    "paragraf": "11",
+    "sentence": "Paragrafen utgör ett sådant undantag som medges enligt artikel 2.10 i NIS 2-direktivet och behandlar undantag från lagens tillämpningsområde.",
+    "page": 239
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "2"
+    ],
+    "pinpoints": [
+     "2.6",
+     "2.7",
+     "2.8",
+     "2.9"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#2"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "1",
+    "paragraf": "12",
+    "sentence": "Paragrafen utgör ett sådant undantag som medges enligt artikel 2.6–2.9 i NIS 2-direktivet och behandlar undantag från lagens tillämpningsområde.",
+    "page": 239
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "2"
+    ],
+    "pinpoints": [
+     "2.11"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#2"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "1",
+    "paragraf": "13",
+    "sentence": "Paragrafen utgör ett sådant undantag som medges enligt artikel 2.11 i NIS 2-direktivet.",
+    "page": 240
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "26"
+    ],
+    "pinpoints": [
+     "26.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#26"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "1",
+    "sentence": "Paragrafen genomför artikel 26.3 i NIS 2-direktivet.",
+    "page": 242
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "3",
+     "27"
+    ],
+    "pinpoints": [
+     "3.4",
+     "27.2",
+     "27.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#3",
+     "https://lagen.nu/ext/celex/32022L2555#27"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "2",
+    "sentence": "Paragrafen genomför artiklarna 3.4, 27.2 och 27.3 i NIS 2-direktivet.",
+    "page": 242
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "21"
+    ],
+    "pinpoints": [
+     "21.1",
+     "21.2",
+     "21.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#21"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "3",
+    "sentence": "Paragrafen genomför artikel 21.1–21.3 i NIS 2-direktivet.",
+    "page": 243
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "20"
+    ],
+    "pinpoints": [
+     "20.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#20"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "4",
+    "sentence": "Paragrafen genomför artikel 20.2 i NIS 2-direktivet och innebär en skyldighet för verksamhetsutövaren att se till att den egna ledningen genomgår utbildning om sådana åtgärder som nämns i 3 §.",
+    "page": 246
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "23"
+    ],
+    "pinpoints": [
+     "23.3",
+     "23.4 a"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#23"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "5",
+    "sentence": "Paragrafen genomför artikel 23.3 och 23.4 a i NIS 2-direktivet och behandlar den första rapporteringsåtgärd som en verksamhetsutövare är skyldig att vidta efter att ha fått kännedom om en betydande incident.",
+    "page": 246
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "23"
+    ],
+    "pinpoints": [
+     "23.4 b"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#23"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "6",
+    "sentence": "Paragrafen genomför artikel 23.4 b i NIS 2-direktivet och reglerar det andra steget i den rapporteringskedja som verksamhetsutövaren är skyldig att följa vid en betydande incident.",
+    "page": 248
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "23"
+    ],
+    "pinpoints": [
+     "23.4 c"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#23"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "7",
+    "sentence": "Paragrafen genomför artikel 23.4 c i NIS 2-direktivet och behandlar skyldigheten för verksamhetsutövare att lämna en delrapport med anledning av en betydande incident.",
+    "page": 248
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "23"
+    ],
+    "pinpoints": [
+     "23.4 d"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#23"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "8",
+    "sentence": "Paragrafen genomför artikel 23.4 d och e i NIS 2-direktivet och reglerar det sista steget i den rapporteringskedja som verksamhetsutövaren är",
+    "page": 248
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "23"
+    ],
+    "pinpoints": [
+     "23.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#23"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "9",
+    "sentence": "Paragrafen genomför artikel 23.1 i NIS 2-direktivet och reglerar verksamhetsutövares informationsskyldighet vid betydande incidenter.",
+    "page": 249
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "6",
+     "23"
+    ],
+    "pinpoints": [
+     "6.11",
+     "23.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#6",
+     "https://lagen.nu/ext/celex/32022L2555#23"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "10",
+    "sentence": "Paragrafen genomför artikel 6.11 och 23.2 i NIS 2-direktivet och reglerar verksamhetsutövares skyldighet att lämna information vid betydande cyberhot.",
+    "page": 249
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "28"
+    ],
+    "pinpoints": [
+     "28"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#28"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "11",
+    "sentence": "Paragrafen genomför delvis artikel 28 i NIS 2-direktivet och innebär en skyldighet att föra register över tilldelade domännamn under en toppdomän.",
+    "page": 250
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "28"
+    ],
+    "pinpoints": [
+     "28"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#28"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "2",
+    "paragraf": "12",
+    "sentence": "Paragrafen genomför delvis artikel 28 i NIS 2-direktivet och reglerar bland annat utlämnande av uppgifter ur registret som förs enligt 11 §.",
+    "page": 251
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "8",
+     "31"
+    ],
+    "pinpoints": [
+     "8.1",
+     "31.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#8",
+     "https://lagen.nu/ext/celex/32022L2555#31"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "3",
+    "paragraf": "1",
+    "sentence": "Paragrafen genomför artiklarna 8.1 och 31.1 i NIS 2-direktivet.",
+    "page": 252
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "33"
+    ],
+    "pinpoints": [
+     "33.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#33"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "3",
+    "paragraf": "2",
+    "sentence": "Paragrafen genomför artikel 33.1 i NIS 2-direktivet och reglerar när tillsynsåtgärder får vidtas i förhållande till viktiga verksamhetsutövare.",
+    "page": 253
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32",
+     "33"
+    ],
+    "pinpoints": [
+     "32.2 e",
+     "33.2 d"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32",
+     "https://lagen.nu/ext/celex/32022L2555#33"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "3",
+    "paragraf": "3",
+    "sentence": "Paragrafen genomför artiklarna 32.2 e–g och 33.2 d–f i NIS 2-direktivet.",
+    "page": 253
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32",
+     "33"
+    ],
+    "pinpoints": [
+     "32.2 a",
+     "33.2 a"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32",
+     "https://lagen.nu/ext/celex/32022L2555#33"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "3",
+    "paragraf": "4",
+    "sentence": "Paragrafen, som genomför artiklarna 32.2 a och 33.2 a i NIS 2-direktivet, reglerar en tillsynsmyndighets rätt att få tillträde till områden, lokaler och andra utrymmen i den utsträckning det behövs för att den ska kunna utöva tillsyn.",
+    "page": 253
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32"
+    ],
+    "pinpoints": [
+     "32.2 b",
+     "32.2 c"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "3",
+    "paragraf": "5",
+    "sentence": "Paragrafen genomför delvis artikel 32.2 b samt artikel 32.2 c i NIS 2direktivet.",
+    "page": 254
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32",
+     "33"
+    ],
+    "pinpoints": [
+     "32.2 b",
+     "33.2 b"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32",
+     "https://lagen.nu/ext/celex/32022L2555#33"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "3",
+    "paragraf": "6",
+    "sentence": "Paragrafen genomför delvis artikel 32.2 b och artikel 33.2 b i NIS 2direktivet.",
+    "page": 254
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32",
+     "33"
+    ],
+    "pinpoints": [
+     "32.2 d",
+     "33.2 c"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32",
+     "https://lagen.nu/ext/celex/32022L2555#33"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "3",
+    "paragraf": "7",
+    "sentence": "Paragrafen genomför artiklarna 32.2 d och 33.2 c i NIS 2-direktivet och ger tillsynsmyndigheten möjlighet att genomföra säkerhetsskanningar hos den som står under tillsyn.",
+    "page": 255
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32",
+     "33",
+     "21",
+     "34",
+     "36"
+    ],
+    "pinpoints": [
+     "32.4",
+     "33.4",
+     "21.4",
+     "34.2 i",
+     "36"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32",
+     "https://lagen.nu/ext/celex/32022L2555#33",
+     "https://lagen.nu/ext/celex/32022L2555#21",
+     "https://lagen.nu/ext/celex/32022L2555#34",
+     "https://lagen.nu/ext/celex/32022L2555#36"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "4",
+    "paragraf": "1",
+    "sentence": "Paragrafen genomför delvis artiklarna 32.4 och 33.4 samt artiklarna 21.4, 34.2 i och 36 i NIS 2-direktivet.",
+    "page": 257
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32",
+     "33",
+     "34"
+    ],
+    "pinpoints": [
+     "32.7",
+     "33.5",
+     "34.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32",
+     "https://lagen.nu/ext/celex/32022L2555#33",
+     "https://lagen.nu/ext/celex/32022L2555#34"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "4",
+    "paragraf": "2",
+    "sentence": "Paragrafen genomför delvis artiklarna 32.7, 33.5 och 34.3 i NIS 2direktivet.",
+    "page": 258
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32",
+     "33",
+     "34"
+    ],
+    "pinpoints": [
+     "32.7",
+     "33.5",
+     "34.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32",
+     "https://lagen.nu/ext/celex/32022L2555#33",
+     "https://lagen.nu/ext/celex/32022L2555#34"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "4",
+    "paragraf": "3",
+    "sentence": "Paragrafen genomför delvis artiklarna 32.7, 33.5 och 34.3 i NIS 2direktivet och reglerar i vilka fall en överträdelse alltid är att betrakta som allvarlig.",
+    "page": 259
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32",
+     "33",
+     "34"
+    ],
+    "pinpoints": [
+     "32.4 b",
+     "33.4 b",
+     "34.6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32",
+     "https://lagen.nu/ext/celex/32022L2555#33",
+     "https://lagen.nu/ext/celex/32022L2555#34"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "4",
+    "paragraf": "4",
+    "sentence": "Paragrafen genomför delvis artiklarna 32.4 b–f och h, 33.4 b–g och 34.6 i NIS 2-direktivet.",
+    "page": 260
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32",
+     "33",
+     "34"
+    ],
+    "pinpoints": [
+     "32.4 b",
+     "33.4 b",
+     "34.6"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32",
+     "https://lagen.nu/ext/celex/32022L2555#33",
+     "https://lagen.nu/ext/celex/32022L2555#34"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "4",
+    "paragraf": "5",
+    "sentence": "Paragrafen genomför delvis artiklarna 32.4 b–f och h, 33.4 b–g och 34.6 i NIS 2-direktivet.",
+    "page": 261
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32"
+    ],
+    "pinpoints": [
+     "32.5 b"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "4",
+    "paragraf": "6",
+    "sentence": "Paragrafen genomför delvis artikel 32.5 b i NIS 2-direktivet.",
+    "page": 261
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32"
+    ],
+    "pinpoints": [
+     "32.5 b"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "4",
+    "paragraf": "7",
+    "sentence": "Paragrafen genomför delvis artikel 32.5 b i NIS 2-direktivet.",
+    "page": 262
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "32"
+    ],
+    "pinpoints": [
+     "32.5 b"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#32"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "4",
+    "paragraf": "8",
+    "sentence": "Paragrafen genomför delvis artikel 32.5 b i NIS 2-direktivet.",
+    "page": 262
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "34",
+     "32",
+     "33"
+    ],
+    "pinpoints": [
+     "34.3",
+     "32.4 i",
+     "33.4 h",
+     "34.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#34",
+     "https://lagen.nu/ext/celex/32022L2555#32",
+     "https://lagen.nu/ext/celex/32022L2555#33"
+    ],
+    "partial": true,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "4",
+    "paragraf": "9",
+    "sentence": "Paragrafen genomför delvis artikel 34.3 samt artiklarna 32.4 i, 33.4 h och 34.1 i NIS 2-direktivet.",
+    "page": 263
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "34"
+    ],
+    "pinpoints": [
+     "34.4",
+     "34.5",
+     "34.7"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#34"
+    ],
+    "partial": false,
+    "law": "15.1 Förslaget till cybersäkerhetslag",
+    "chapter": "4",
+    "paragraf": "10",
+    "sentence": "Paragrafen genomför artikel 34.4, 34.5 och 34.7 i NIS 2-direktivet.",
+    "page": 263
+   }
+  ]
+ }
+}

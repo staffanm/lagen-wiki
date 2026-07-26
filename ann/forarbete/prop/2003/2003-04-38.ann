@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2003-04-38": "4d2c01d0b06912c14c6488731027713802bf5e9bd4fecae0da4ffe994eecb918",
+      "artifact:eurlex/31998L0006": "2f7eae263ce2ada1f84276f66c09ef24558d25fd9005d313b95068d9bc894a34"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31998L0006"
+    ],
+    "proposition": "https://lagen.nu/prop/2003/04:38",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31998L0006",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31998L0006#3"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "8",
+        "sentence": "Bestämmelsen har sin motsvarighet i artikel 3.3 i prismärkningsdirektivet.",
+        "page": 30
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2007-08-57": "fc4a9033881a33b9a813c41d88856b4c403c0e01469c00d896b9a20ab9c4aeef",
+      "artifact:eurlex/32005L0001": "ed125aff59bd8e27cbcce3d5e5fe8b3105d9fb8f906676cea4d84b338231e72d",
+      "artifact:eurlex/32007L0016": "f82ff59291e72c90775fac64699fb6d548ad3ce1f89fef3682ea5d3a32df591c"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32005L0001",
+      "https://lagen.nu/ext/celex/32007L0016"
+    ],
+    "proposition": "https://lagen.nu/prop/2007/08:57",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32007L0016",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32007L0016#8"
+        ],
+        "partial": false,
+        "law": "9.7 Förslag till lag om ändring i lagen (2004:46) om investeringsfonder",
+        "chapter": null,
+        "paragraf": "1",
+        "sentence": "Motsvarande likviditetskrav finns i UCITS-direktivet (artikel 1.2).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32007L0016",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32007L0016#11"
+        ],
+        "partial": false,
+        "law": "9.7 Förslag till lag om ändring i lagen (2004:46) om investeringsfonder",
+        "chapter": null,
+        "paragraf": "1",
+        "sentence": "Bestämmelsen att fondbolagen får använda sig av ”tekniker och instrument som hänför sig till överlåtbara värdepapper och penningmarknadsinstrument” i syfte att effektivisera förvaltningen baseras på det som anges i UCITS-direktivet (artikel 21.2).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32007L0016",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32007L0016#8"
+        ],
+        "partial": false,
+        "law": "9.7 Förslag till lag om ändring i lagen (2004:46) om investeringsfonder",
+        "chapter": null,
+        "paragraf": "12",
+        "sentence": "Genom ändringen ansluter sig bestämmelsen till UCITS-direktivets lydelse (artikel 19.1 g).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32007L0016",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32007L0016#10"
+        ],
+        "partial": false,
+        "law": "9.7 Förslag till lag om ändring i lagen (2004:46) om investeringsfonder",
+        "chapter": null,
+        "paragraf": "13",
+        "sentence": "Därmed utnyttjas den möjlighet till undantag från principen om genomlysning av indexbaserade derivatinstrument som finns i UCITS-direktivet (artikel 21.3).",
+        "page": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,4215 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2010-11-150": "5bf9befdaee564843146dcbb1b152b786f6636cc9218280de24fc782a5ae0c47",
+      "artifact:eurlex/31989L0665": "0687e57e29fcb3efd6d4a666d9651d81bfef209c64383d98b9e0a2e2208608c6",
+      "artifact:eurlex/32009L0081": "cd903bacfab3ae03d5fc4b16d08cb4e7de43df9647de24746e3a463f2545a268"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31989L0665",
+      "https://lagen.nu/ext/celex/32009L0081"
+    ],
+    "proposition": "https://lagen.nu/prop/2010/11:150",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "2",
+          "15"
+        ],
+        "pinpoints": [
+          "2",
+          "15.15",
+          "15.16",
+          "15.17"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#2",
+          "https://lagen.nu/ext/celex/32009L0081#15"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artiklarna 2 och 15–17 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#3"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför del av artikel 3.1 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#3"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför del av artikel 3.2 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1",
+          "3.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#3"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "6",
+        "sfs": "S1",
+        "sentence": "Paragrafens första stycke genomför delar av artikel 3.1 och 3.2 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#3"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "6",
+        "sfs": "S2",
+        "sentence": "Paragrafens andra stycke genomför artikel 3.3 i direktivet och har viss motsvarighet i 1 kap. 28 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#2"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "7",
+        "sentence": "Paragrafen, som genomför inledningen av artikel 2 i direktivet, har ingen motsvarighet i det klassiska direktivet eller försörjningsdirektivet och inte heller i LOU eller LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#12"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 12 i direktivet och motsvaras delvis av 1 kap. 5 § LOU och 1 kap. 14 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#2"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför delvis artikel 2 i direktivet enligt vilken direktivet inte gäller för upphandling som omfattas av artikel 296 i fördraget (artikel 346 i EUF-fördraget).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#13"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför också delvis artikel 13 a) i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#13"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 13 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#4"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 4 i direktivet och motsvarar 1 kap. 9 § LOU och 1 kap. 24 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 5.1 i direktivet och motsvarar 1 kap. 10 § LOU och 1 kap. 29 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "1",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 5.2 i direktivet och motsvarar 1 kap. 11 § LOU och 1 kap. 30 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.15"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 1.15 i direktivet och motsvarar 2 kap. 1 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.23"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 1.23 i direktivet och motsvarar 2 kap. 2 § LOU och 2 kap. 2 § första och tredje styckena LUF",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 1.3 i direktivet och motsvarar 2 kap. 3 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.28"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 1.28 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 1.1 i direktivet och motsvarar 2 kap. 5 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.25"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 1.25 i direktivet och motsvarar 2 kap. 6 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.12"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför, tillsammans med 6 kap. 2 §, artikel 1.12 i direktivet och motsvarar 2 kap. 6 a § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.7 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#18"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 18.7 första stycket i direktivet och motsvarar",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.27"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 1.27 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.20"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 1.20 i direktivet och motsvarar 2 kap. 9 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.18"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 1.18 i direktivet och motsvarar delvis 2 kap. 9 a § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.21 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför, tillsammans med 4 kap. 14 §, artikel 1.21 första stycket i direktivet och motsvarar 2 kap. 9 b § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför artikel 1.2 i direktivet och motsvarar 2 kap. 10 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför artikel 1.10 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "16",
+        "sentence": "Paragrafen genomför artikel 1.13 i direktivet och motsvarar 2 kap. 11 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.26"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "17",
+        "sentence": "Paragrafen genomför artikel 1.26 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "18",
+        "sentence": "Paragrafen genomför artikel 1.6 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.11"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "20",
+        "sfs": "S1",
+        "sentence": "Paragrafens första stycke genomför artikel 1.11 och motsvarar 2 kap.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.19"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "21",
+        "sentence": "Paragrafen genomför artikel 1.19 i direktivet och motsvarar 2 kap. 16 § LOU och 2 kap. 17 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "22",
+        "sentence": "Paragrafen genomför artikel 1.8 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "23",
+        "sentence": "Paragrafen genomför artikel 1.5 i direktivet och motsvarar i sak 2 kap.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.22"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "24",
+        "sentence": "Paragrafen genomför artikel 1.22 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.17"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "25",
+        "sentence": "Paragrafen genomför delvis artikel 1.17 i direktivet som hänvisar till bl.a. definitionen av upphandlande enhet i artikel 2 i försörjningsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.17"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "26",
+        "sentence": "Paragrafen genomför delvis artikel 1.17 i direktivet som hänvisar till bl.a. definitionen av upphandlande myndighet i artikel 1.9 i det klassiska direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "29",
+        "sentence": "Paragrafen genomför artikel 1.7 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "2",
+        "paragraf": "30",
+        "sentence": "Paragrafen genomför artikel 1.4 i direktivet och motsvarar 2 kap. 21 § LOU och 2 kap. 24 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#8"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "3",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 8 i direktivet och motsvarar 3 kap. 1 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#9"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "3",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 9.1 i direktivet och motsvarar 3 kap. 3 § LOU och 3 kap. 2 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#9"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "3",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 9.2 i direktivet och motsvarar 3 kap. 4 § LOU och 3 kap. 3 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#9"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "3",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 9.3 i direktivet och motsvarar 3 kap. 5 § LOU och 3 kap. 4 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#9"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "3",
+        "paragraf": "6",
+        "sentence": "Paragrafens första–tredje stycken genomför artikel 9.5 i direktivet och hela paragrafen motsvarar 3 kap. 7 § LOU och 3 kap. 6 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#9"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "3",
+        "paragraf": "7",
+        "sfs": "S1",
+        "sentence": "Paragrafens första stycke genomför artikel 9.4 i direktivet och hela paragrafen motsvarar 3 kap. 8 § LOU och 3 kap. 7 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#9"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "3",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 9.6 i direktivet och motsvarar 3 kap. 9 § LOU och 3 kap. 8 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#9"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "3",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 9.7 i direktivet och motsvarar 3 kap. 10 § LOU och 3 kap. 9 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.8 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#9"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "3",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 9.8 a i direktivet och motsvarar 3 kap. 11 § 1 och 3 LOU och 3 kap. 10 § 1 och 3 LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.8 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#9"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "3",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 9.8 b i direktivet och motsvarar med en redaktionell ändring 3 kap. 12 § LOU och 3 kap. 11 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#9"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "3",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 9.9 i direktivet och motsvarar med en redaktionell ändring 3 kap. 13 § LOU och 3 kap. 12 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#25"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 25 i direktivet och motsvarar delvis 4 kap.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#26"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 26.1 i direktivet och motsvarar 4 kap. 3 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#26"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 26.3 och delvis artikel 38.5 i direktivet samt motsvarar förslaget till 4 kap. 4 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#38"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 26.3 och delvis artikel 38.5 i direktivet samt motsvarar förslaget till 4 kap. 4 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "4",
+        "sentence": "Första stycket 1 och andra stycket genomför artikel 28.1 a i direktivet och motsvarar 4 kap. 5 § första stycket 1 och andra stycket LOU samt delvis 4 kap. 2 § 1 LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.1 e"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "4",
+        "sfs": "S1N2",
+        "sentence": "Första stycket 2 genomför artikel 28.1 e i direktivet och motsvarar delvis 4 kap. 5 § första stycket 2 LOU samt 4 kap. 2 § 3 LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.1 d"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "4",
+        "sfs": "S1N3",
+        "sentence": "Första stycket 3 genomför artikel 28.1 d i direktivet och motsvarar 4 kap. 5 § första stycket 3 LOU samt 4 kap. 2 § 4 LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.1 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "4",
+        "sfs": "S1N4",
+        "sentence": "Första stycket 4 genomför artikel 28.1 c i direktivet och saknar motsvarighet i LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.1 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför, tillsammans med 6 §, artikel 28.1 b i direktivet och motsvarar 4 kap. 6 § LOU, vilken hänvisar till 4 kap. 2 § 1 LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.1 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför, tillsammans med 5 §, artikel 28.1 b i direktivet och motsvarar 4 kap. 6 § LOU, vilken hänvisar till 4 kap. 2 § 1 LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 28.2 i direktivet och motsvaras delvis av 4 kap. 7 § första stycket 1 LOU och 4 kap. 2 § 2 LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.2 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "7",
+        "sfs": "S1N1",
+        "sentence": "Första stycket 1 genomför artikel 28.2 a i direktivet och saknar motsvarighet i det klassiska direktivet och försörjningsdirektivet och därmed även LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.2 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "7",
+        "sfs": "S1N2",
+        "sentence": "Första stycket 2 genomför artikel 28.2 b i direktivet och motsvarar 4 kap. 7 § första stycket 1 LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 28.3 i direktivet och motsvarar 4 kap. 7 § första stycket 2–4 och andra stycket LOU samt delvis 4 kap. 2 § 5, 8 och 11 LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "8",
+        "sfs": "S1N1",
+        "sentence": "Första stycket 1 genomför artikel 28.3 a första stycket i direktivet och rör kompletterande leveranser av varor.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "8",
+        "sfs": "S2",
+        "sentence": "Enligt andra stycket , som genomför artikel 28.3 a andra stycket i direktivet, är huvudregeln att ett sådant varukontrakt får gälla under fem år.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.3 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "8",
+        "sfs": "S1N2",
+        "sentence": "Första stycket 2 genomför artikel 28.3 b i direktivet och rör varor som noteras och omsätts på en råvarumarknad.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.3 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "8",
+        "sfs": "S1N3",
+        "sentence": "Första stycket 3 genomför artikel 28.3 c i direktivet och reglerar när det är möjligt att anskaffa varor på särskilt förmånliga villkor och överensstämmer med 4 kap. 7 § första stycket 4 LOU och 4 kap. 2 § 11 LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 28.4 i direktivet och motsvarar med redaktionella ändringar förslaget till 4 kap. 8 § LOU samt delvis 4 kap. 2 § 6 och 7 LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#28"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 28.5 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.1 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 27.1 första stycket i direktivet och motsvarar 4 kap. 10 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.21 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 1.21 andra stycket i direktivet och motsvarar 4 kap. 11 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 27.2 i direktivet och motsvarar 4 kap. 12 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.21 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför, tillsammans med 2 kap. 13 §, direktivets artikel 1.21 första stycket och direktivets artikel 27.3 första stycket samt motsvarar 4 kap. 13 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.3 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför, tillsammans med 2 kap. 13 §, direktivets artikel 1.21 första stycket och direktivets artikel 27.3 första stycket samt motsvarar 4 kap. 13 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför artikel 27.4 och delvis artikel 38.5 i direktivet samt motsvarar förslaget till 4 kap. 14 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#38"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför artikel 27.4 och delvis artikel 38.5 i direktivet samt motsvarar förslaget till 4 kap. 14 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "16",
+        "sentence": "Paragrafen genomför artikel 27.5 och, tillsammans med 17 §, artikel 27.6 första stycket i direktivet samt motsvarar 4 kap. 15 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.6 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "16",
+        "sentence": "Paragrafen genomför artikel 27.5 och, tillsammans med 17 §, artikel 27.6 första stycket i direktivet samt motsvarar 4 kap. 15 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.6 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "17",
+        "sentence": "Paragrafen genomför, tillsammans med 16 §, artikel 27.6 första stycket i direktivet och motsvarar 4 kap. 16 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.6 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "18",
+        "sentence": "Paragrafen genomför artikel 27.6 andra stycket i direktivet och motsvarar 4 kap. 17 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.7 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "19",
+        "sentence": "Paragrafen genomför, tillsammans med 20 §, artikel 27.7 första stycket i direktivet och motsvarar 4 kap. 18 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "20",
+        "sentence": "Paragrafen genomför artikel 27.1 andra stycket och, tillsammans med 19 §, artikel 27.7 första stycket i direktivet samt motsvarar 4 kap. 19 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.7 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "20",
+        "sentence": "Paragrafen genomför artikel 27.1 andra stycket och, tillsammans med 19 §, artikel 27.7 första stycket i direktivet samt motsvarar 4 kap. 19 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.7 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "21",
+        "sentence": "Paragrafen genomför artikel 27.7 andra stycket i direktivet och motsvarar 4 kap. 20 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#27"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "22",
+        "sentence": "Paragrafen genomför artikel 27.8 i direktivet och motsvarar 4 kap. 21 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#10"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "4",
+        "paragraf": "23",
+        "sentence": "Paragrafen genomför artikel 10 i direktivet och dess första stycke motsvaras av 4 kap. 22 § LOU och 4 kap. 4 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29.1",
+          "29.2 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#29"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 29.1 och 29.2 första stycket i direktivet samt motsvarar 5 kap. 1 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29.2 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#29"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 29.2 andra och tredje styckena i direktivet samt motsvarar 5 kap. 2 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29.2 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#29"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 29.2 fjärde stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#29"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 29.3 i direktivet och motsvarar 5 kap. 4 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29.4 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#29"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 29.4 första stycket i direktivet och motsvarar 5 kap. 5 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29.4 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#29"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 29.4 andra stycket första strecksatsen i direktivet och motsvarar med en redaktionell ändring 5 kap. 6 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29.4 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#29"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 29.4 andra stycket andra strecksatsen i direktivet och motsvarar med en redaktionell ändring 5 kap. 7 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.1",
+          "48.2 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "6",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 48.1 och 48.2 första och andra styckena i direktivet samt motsvarar 5 a kap. 1 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.12"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#1"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "6",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför, tillsammans med 2 kap. 7 §, artikel 1.12 i direktivet och artikel 48.2 tredje stycket i direktivet samt motsvarar 5 a kap. 2 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.2 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "6",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför, tillsammans med 2 kap. 7 §, artikel 1.12 i direktivet och artikel 48.2 tredje stycket i direktivet samt motsvarar 5 a kap. 2 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.3 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "6",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 48.3 första stycket i direktivet och motsvarar 5 a kap. 3 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "6",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 48.3 andra stycket i direktivet och motsvarar",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.4 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5 a",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 48.4 första stycket i direktivet och motsvarar",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.4 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5 a",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför, tillsammans med 9 och 10 §§, artikel 48.4 andra stycket i direktivet och motsvarar 5 a kap. 6 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.5 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5 a",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 48.5 första stycket i direktivet och motsvarar 5 a kap. 7 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.5 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5 a",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 48.5 andra och tredje styckena i direktivet samt motsvarar 5 a kap. 8 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.4 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5 a",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför, tillsammans med 6 och 10 §§, artikel 48.4 andra stycket i direktivet och motsvarar 5 a kap. 9 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.4 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5 a",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför, tillsammans med 6 och 9 §§, artikel 48.4 andra stycket i direktivet och motsvarar 5 a kap. 10 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5 a",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 48.6 i direktivet och motsvarar 5 a kap. 11 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5 a",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 48.7 i direktivet och motsvarar 5 a kap. 12 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.8 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#48"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "5 a",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 48.8 första stycket i direktivet och motsvarar",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#18"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 18.1 i direktivet och motsvarar 6 kap. 1 § första stycket LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#18"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 18.3 a i direktivet och motsvarar 6 kap. 2 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.3 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#18"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 18.3 b–d i direktivet och motsvarar 6 kap. 3 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#18"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 18.8 i direktivet och motsvarar 6 kap. 4 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.4 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#18"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 18.4 första stycket i direktivet och motsvarar med en redaktionell ändring 6 kap. 5 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#18"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 18.5 i direktivet och motsvarar med en redaktionell ändring 6 kap. 6 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#18"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 18.6 i direktivet och motsvarar med en redaktionell ändring 6 kap. 7 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.7 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#18"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 18.7 andra stycket i direktivet och motsvarar 6 kap. 8 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.1",
+          "19.2",
+          "19.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#19"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 19.1–3 i direktivet och motsvarar 6 kap. 9 § LOU och 6 kap. 10 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#19"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 19.4 i direktivet och motsvarar 6 kap. 10 § LOU och 6 kap. 11 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "24"
+        ],
+        "pinpoints": [
+          "24"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#24"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 24 i direktivet och motsvarar med en redaktionell ändring 6 kap. 12 § LOU och 6 kap. 13 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#20"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 20 i direktivet och motsvarar delvis 6 kap. 13 § LOU och 6 kap. 14 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#22"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför artikel 22 första stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#22"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför artikel 22 andra stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#23"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "16",
+        "sentence": "Paragrafen genomför artikel 23 första stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#23"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "17",
+        "sentence": "Paragrafen genomför artikel 23 andra stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#23"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "7",
+        "paragraf": "18",
+        "sentence": "Paragrafen genomför artikel 23 tredje stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "30"
+        ],
+        "pinpoints": [
+          "30.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#30"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "8",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 30.2 i direktivet och motsvarar 7 kap. 1 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "30"
+        ],
+        "pinpoints": [
+          "30.1 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#30"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "8",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför delar av artikel 30.1 första och fjärde styckena i direktivet och motsvarar 7 kap. 2 § LOU och 7 kap. 3 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "30"
+        ],
+        "pinpoints": [
+          "30.3 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#30"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "8",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 30.3 första och andra stycket i direktivet samt motsvarar med en redaktionell ändring 7 kap. 3 § LOU och 7 kap. 6 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "60"
+        ],
+        "pinpoints": [
+          "60.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#60"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "8",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 60.4 i direktivet och motsvarar 7 kap. 4 § LOU och 7 kap. 7 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#33"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "9",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 33.1 i direktivet och motsvarar 8 kap. 1 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#33"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "9",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 33.2 i direktivet och motsvarar med en redaktionell ändring 8 kap. 3 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.3 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#33"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "9",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 33.3 första och tredje styckena i direktivet och motsvarar delvis 8 kap. 4 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#33"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "9",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 33.4 i direktivet och motsvarar 8 kap. 5 § LOU och 8 kap. 6 § första stycket LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#33"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "9",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 33.5 i direktivet och motsvarar 8 kap. 6 § LOU och delvis 8 kap. 7 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#33"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "9",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 33.6 i direktivet och motsvarar med redaktionella ändringar 8 kap. 7 § LOU och 8 kap. 9 § första och andra stycket LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#33"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "9",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 33.7 i direktivet och motsvarar med redaktionella ändringar 8 kap. 8 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34.1",
+          "34.2",
+          "34.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#34"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "9",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 34.1, 34.2 och 34.5 i direktivet samt motsvarar 8 kap. 10 § LOU och 8 kap. 11 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#34"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "9",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 34.3 i direktivet och motsvarar 8 kap. 11 § LOU och 8 kap. 12 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#34"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "9",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 34.4 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.1",
+          "36.2",
+          "36.6 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#36"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "10",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 36.1, 36.2 och 36.6 a i direktivet samt motsvarar 9 kap. 1 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#36"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "10",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 36.4 i direktivet och motsvarar 9 kap. 2 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.5 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#36"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "10",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 36.5 a–c i direktivet och motsvarar 9 kap. 3 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.5 d"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#36"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "10",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 36.5 d i direktivet och motsvarar med en redaktionell ändring 9 kap. 4 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.6 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#36"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "10",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 36.6 b och c i direktivet och motsvarar 9 kap. 5 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#36"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "10",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför delar av artikel 36.3 i direktivet och motsvarar 9 kap. 6 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#36"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "10",
+        "paragraf": "7",
+        "sfs": "S1",
+        "sentence": "Paragrafens första stycke genomför delar av artikel 36.3 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "45"
+        ],
+        "pinpoints": [
+          "45"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#45"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "10",
+        "paragraf": "8",
+        "sfs": "S2",
+        "sentence": "Paragrafens andra stycke genomför artikel 45 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "35"
+        ],
+        "pinpoints": [
+          "35.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#35"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "10",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 35.1 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "35"
+        ],
+        "pinpoints": [
+          "35.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#35"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "10",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 35.2 i direktivet och motsvarar i sak 9 kap. 10 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "37"
+        ],
+        "pinpoints": [
+          "37"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#37"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "10",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför delar av artikel 37 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "39"
+        ],
+        "pinpoints": [
+          "39.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#39"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "11",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 39.1 i direktivet och utgör en uttömmande uppräkning av de obligatoriska uteslutningsgrunderna.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "39"
+        ],
+        "pinpoints": [
+          "39.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#39"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "11",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 39.2 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "39"
+        ],
+        "pinpoints": [
+          "39.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#39"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "11",
+        "paragraf": "3",
+        "sfs": "S1",
+        "sentence": "Paragrafens första och andra stycken genomför artikel 39.3 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#46"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "11",
+        "paragraf": "3",
+        "sfs": "S3",
+        "sentence": "Paragrafens tredje stycke genomför artikel 46.3.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#38"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför delvis artikel 38.1 i direktivet och motsvarar 11 kap. 1 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#38"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 38.2 i direktivet och motsvarar den föreslagna lydelsen av 11 kap. 2 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38.3 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#38"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför delar av artikel 38.3 första stycket i direktivet och motsvarar 11 kap. 3 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38.3 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#38"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 38.3 första stycket första strecksatsen andra meningen i direktivet och motsvarar delar av 11 kap. 4 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38.3 f",
+          "38.3 a",
+          "38.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#38"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "5",
+        "sentence": "Paragrafen motsvarar delar av artikel 38.3 första stycket, hela 38.3 andra stycket och 38.4 i direktivet samt 11 kap. 5 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38.3 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#38"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 38.3 tredje stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "40"
+        ],
+        "pinpoints": [
+          "40 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#40"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 40 första och andra stycket i direktivet och motsvarar i huvudsak 11 kap. 6 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "41"
+        ],
+        "pinpoints": [
+          "41.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#41"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför huvudsakligen artikel 41.1 i direktivet och motsvarar 11 kap. 7 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "41"
+        ],
+        "pinpoints": [
+          "41.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#41"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför huvudsakligen artikel 41.4 i direktivet och motsvarar 11 kap. 8 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "41"
+        ],
+        "pinpoints": [
+          "41.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#41"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 41.5 i direktivet och motsvarar 11 kap. 9 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "42"
+        ],
+        "pinpoints": [
+          "42.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#42"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "11",
+        "sfs": "S2",
+        "sentence": "Paragrafens andra stycke genomför artikel 42.1 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "42"
+        ],
+        "pinpoints": [
+          "42.1 j"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#42"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "11",
+        "sfs": "S2N11",
+        "sentence": "Punkten 11 genomför artikel 42.1 j första stycket i direktivet och behandlas i avsnitt 9.5.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "42"
+        ],
+        "pinpoints": [
+          "42.1 j"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#42"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 42.1 j tredje stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "42"
+        ],
+        "pinpoints": [
+          "42.1 j"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#42"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 42.1 j fjärde stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "42"
+        ],
+        "pinpoints": [
+          "42.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#42"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför artikel 42.6 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "41",
+          "42"
+        ],
+        "pinpoints": [
+          "41.2",
+          "41.3",
+          "42.2",
+          "42.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#41",
+          "https://lagen.nu/ext/celex/32009L0081#42"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför artikel 41.2 och 41.3 samt artikel 42.2 och 42.3 i direktivet samt motsvarar med en redaktionell ändring 11 kap. 12 § LOU och 11 kap. 5 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "42"
+        ],
+        "pinpoints": [
+          "42.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#42"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "16",
+        "sentence": "Paragrafen genomför artikel 42.4 i direktivet och motsvarar 11 kap. 13 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "43"
+        ],
+        "pinpoints": [
+          "43"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#43"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "17",
+        "sentence": "Paragrafen genomför artikel 43 i direktivet och motsvarar i sak 11 kap. 14 § LOU och 11 kap. 11 § LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "44"
+        ],
+        "pinpoints": [
+          "44"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#44"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "18",
+        "sentence": "Paragrafen genomför artikel 44 i direktivet och motsvarar 11 kap. 15 § LOU och 11 kap. 12 § andra och tredje styckena LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#46"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "19",
+        "sentence": "Paragrafen genomför artikel 46.3 i direktivet och motsvarar i huvudsak 11 kap. 16 § LOU.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "47"
+        ],
+        "pinpoints": [
+          "47.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#47"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "13",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 47.1 i direktivet och motsvarar i stort",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "34",
+          "47"
+        ],
+        "pinpoints": [
+          "34.5 e",
+          "47.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#34",
+          "https://lagen.nu/ext/celex/32009L0081#47"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 34.5 e och 47.2 i direktivet samt motsvarar i stort sett 12 kap. 2 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "49"
+        ],
+        "pinpoints": [
+          "49.1",
+          "49.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#49"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 49.1 och 49.2 i direktivet och motsvarar",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "49"
+        ],
+        "pinpoints": [
+          "49.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#49"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "12",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 49.3 i direktivet och motsvarar 12 kap. 4 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#21"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 21.1 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#21"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 21.2 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.4 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#21"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 21.4 första, tredje och fjärde stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.4 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#21"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 21.4 femte stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "21",
+          "50"
+        ],
+        "pinpoints": [
+          "21.3",
+          "21.4 s",
+          "50.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#21",
+          "https://lagen.nu/ext/celex/32009L0081#50"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artiklarna 21.3, 21.4 sjätte stycket och 50.1 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "50"
+        ],
+        "pinpoints": [
+          "50.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#50"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 50.2 i direktivet och motsvarar i huvudsak 13 kap. 6 § LOU avseende byggkoncessioner.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#21"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 21.5 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#21"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 21.6 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "51",
+          "52"
+        ],
+        "pinpoints": [
+          "51",
+          "52.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#51",
+          "https://lagen.nu/ext/celex/32009L0081#52"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 51 och 52.7 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "52"
+        ],
+        "pinpoints": [
+          "52.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#52"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "10",
+        "sfs": "S1",
+        "sentence": "Av första stycket , som genomför artikel 52.1 i direktivet, framgår att den utvalda leverantören ska annonsera underentreprenader som överstiger tröskelvärdet i 3 kap. 1 §.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "52"
+        ],
+        "pinpoints": [
+          "52.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#52"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "10",
+        "sfs": "S2",
+        "sentence": "Av andra stycket , som genomför artikel 52.8 i direktivet, framgår att beräkningsreglerna i 3 kap. gäller för bestämmelserna om beräkning av underentreprenadens värde.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "52"
+        ],
+        "pinpoints": [
+          "52.2",
+          "52.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#52"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "10",
+        "sfs": "S3",
+        "sentence": "Av tredje stycket , som genomför artikel 52.2 och 52.4 i direktivet, framgår att annonsering av underentreprenaden ska ske enligt reglerna för annonsering av upphandling i 8 kap. 1 §.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "52"
+        ],
+        "pinpoints": [
+          "52.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#52"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "10",
+        "sfs": "S4",
+        "sentence": "Av fjärde stycket , som genomför artikel 52.5 i direktivet framgår att anbudsgivaren har rätt att annonsera underentreprenaden enligt reglerna om annonsering även om det inte föreligger annonseringsskyldighet enligt första stycket.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "53"
+        ],
+        "pinpoints": [
+          "53 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#53"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 53 första stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "52"
+        ],
+        "pinpoints": [
+          "52.6 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#52"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 52.6 första och andra styckena i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "53"
+        ],
+        "pinpoints": [
+          "53 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#53"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "14",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför artikel 53 andra stycket i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "16",
+          "17"
+        ],
+        "pinpoints": [
+          "16",
+          "17"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#16",
+          "https://lagen.nu/ext/celex/32009L0081#17"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "15",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför delar av artikel 16 och 17 i direktivet samt artikel 31 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "31"
+        ],
+        "pinpoints": [
+          "31"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#31"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "15",
+        "paragraf": "2",
+        "sfs": "S4",
+        "sentence": "Av fjärde stycket , som genomför artikel 31 i direktivet, framgår att upphandlande myndigheter och enheter får använda sig av reglerna om annonsering i 8 kap. även om sådan annonseringsskyldighet inte föreligger.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#16"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "15",
+        "paragraf": "23",
+        "sentence": "Paragrafen, som genomför delar av artikel 16 i direktivet, motsvarar med redaktionell ändring 15 kap. 21 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "57"
+        ],
+        "pinpoints": [
+          "57.2 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#57"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 57.2 första stycket i direktivet och motsvarar 16 kap. 1 § LOU och LUF (nuvarande 16 kap. 6 §).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "58"
+        ],
+        "pinpoints": [
+          "58"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#58"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 58 i direktivet och motsvarar delvis förslaget till 16 kap. 2 § LOU och LUF (nuvarande 16 kap. 7 §).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "60"
+        ],
+        "pinpoints": [
+          "60.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#60"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 60.4 i direktivet och motsvarar 16 kap. 3 § LOU och LUF (nuvarande 16 kap. 8 §).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "55",
+          "56"
+        ],
+        "pinpoints": [
+          "55.4",
+          "56.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#55",
+          "https://lagen.nu/ext/celex/32009L0081#56"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 55.4 och delvis artikel 56.2 i direktivet samt motsvarar förslaget till 16 kap. 4 § LOU och LUF (delvis nuvarande 16 kap. 1 § LOU och LUF).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "56"
+        ],
+        "pinpoints": [
+          "56.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#56"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "6",
+        "sfs": "S1",
+        "sentence": "Paragrafens första stycke genomför, tillsammans med 16 kap. 9 §, artikel 56.1 a i direktivet och motsvarar förslaget till 16 kap. 6 § första stycket LOU och LUF (nuvarande 16 kap. 5 §).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "56"
+        ],
+        "pinpoints": [
+          "56.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#56"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "6",
+        "sfs": "S2",
+        "sentence": "Enligt andra stycket , som genomför artikel 56.7 i direktivet och motsvarar förslaget till 16 kap. 6 § andra stycket LOU och LUF (nuvarande 16 kap. 13 §), får en upphandling inte överprövas efter det att ett avtal har slutits.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "56"
+        ],
+        "pinpoints": [
+          "56.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#56"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 56.3 i direktivet och motsvarar förslaget till 16 kap. 8 § LOU och LUF (nuvarande 16 kap. 9 §).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "56"
+        ],
+        "pinpoints": [
+          "56.1 a",
+          "56.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#56"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför, tillsammans med 16 kap. 6 §, artikel 56.1 a i direktivet och artikel 56.5 i direktivet samt motsvarar förslaget till 16 kap. 9 § LOU och LUF (delvis nuvarande 16 kap. 4 §).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "59"
+        ],
+        "pinpoints": [
+          "59"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#59"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 59 i direktivet och motsvarar förslaget till 16 kap. 11 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "60"
+        ],
+        "pinpoints": [
+          "60.1",
+          "60.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#60"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "13",
+        "sentence": "Paragrafen, som innehåller förutsättningarna för att ogiltigförklara ett avtal, genomför artikel 60.1 och 60.2 i direktivet samt motsvarar förslaget till 16 kap. 13 § LOU och LUF (nuvarande 16 kap. 15 §).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "60"
+        ],
+        "pinpoints": [
+          "60.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#60"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför artikel 60.3 i direktivet och motsvarar förslaget till 16 kap. 14 § LOU och LUF (nuvarande 16 kap. 16 §).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "60"
+        ],
+        "pinpoints": [
+          "60.4",
+          "60.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#60"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför, tillsammans med 8 kap. 4 §, artikel 60.4 och artikel 60.5 i direktivet samt motsvarar förslaget till 16 kap. 15 § LOU och LUF (nuvarande 16 kap. 17 §).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "62"
+        ],
+        "pinpoints": [
+          "62"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#62"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "17",
+        "sentence": "Paragrafen genomför artikel 62 i direktivet och motsvarar 16 kap. 17 § LOU och LUF (nuvarande 16 kap. 18 §).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "56"
+        ],
+        "pinpoints": [
+          "56.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#56"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "20",
+        "sentence": "Paragrafen genomför artikel 56.1 andra stycket i direktivet och motsvarar",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "56"
+        ],
+        "pinpoints": [
+          "56.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#56"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "16",
+        "paragraf": "21",
+        "sentence": "Paragrafen genomför delvis artikel 56.2 i direktivet och motsvarar förslaget till 16 kap. 21 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "61",
+          "56"
+        ],
+        "pinpoints": [
+          "61.2",
+          "56.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#61",
+          "https://lagen.nu/ext/celex/32009L0081#56"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "17",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför, tillsammans med 2 och 4 §§, artikel 61.2 och delvis artikel 56.2 i direktivet och motsvarar 17 kap. 1 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "61"
+        ],
+        "pinpoints": [
+          "61.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#61"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "17",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför, tillsammans med 1 och 4 §§, artikel 61.2 i direktivet och motsvarar 17 kap. 2 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "61"
+        ],
+        "pinpoints": [
+          "61.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#61"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om upphandling på försvars- och säkerhetsområdet",
+        "chapter": "17",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför, tillsammans med 1 och 2 §§, artikel 61.2 i direktivet och motsvarar 17 kap. 4 § LOU och LUF.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "71"
+        ],
+        "pinpoints": [
+          "71"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#71"
+        ],
+        "partial": false,
+        "law": "16.6 Förslaget till lag om ändring i lagen (2007:1091) om offentlig upphandling",
+        "chapter": "1",
+        "paragraf": "3 a",
+        "sentence": "Paragrafen är ny och genomför artikel 71 i direktivet om upphandling på försvars- och säkerhetsområdet, som ändrar det klassiska direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0081",
+        "articles": [
+          "70"
+        ],
+        "pinpoints": [
+          "70"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0081#70"
+        ],
+        "partial": false,
+        "law": "16.7 Förslaget till lag om ändring i lagen (2007:1092) om upphandling inom områdena vatten, energi, transporter och posttjänster",
+        "chapter": "1",
+        "paragraf": "3 a",
+        "sentence": "Paragrafen är ny och genomför artikel 70 i direktivet om upphandling på försvars- och säkerhetsområdet, som ändrar försörjningsdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

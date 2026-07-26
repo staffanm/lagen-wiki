@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2025-26-233": "b134f3f697a0e7837a1a9e0e36d419e330720a44f53a20863410913c6cb48c29",
+      "artifact:eurlex/32018L1972": "d67d558988e2d751f26bd9ffb0f669515edc198f4db0511d9d5559f4b89f3da1"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32018L1972"
+    ],
+    "proposition": "https://lagen.nu/prop/2025/26:233",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32018L1972",
+        "articles": [
+          "97"
+        ],
+        "pinpoints": [
+          "97.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32018L1972#97"
+        ],
+        "partial": true,
+        "law": "Förslaget till lag om ändring i lagen (2022:482) om elektronisk kommunikation",
+        "chapter": "4",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför delvis artikel 97.2 i EU:s kodex för elektronisk kommunikation tillsammans med 11 §.",
+        "page": 37
+      }
+    ]
+  }
+}

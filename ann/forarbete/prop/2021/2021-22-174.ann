@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2021-22-174": "23a464796e327b5db38385bce1085e6de9ec53a56c7de3110cbc457692325f47",
+      "artifact:eurlex/31993L0013": "ca54b989234dd0ca8f7ff3a8a23f721a5f8898dc066beb4dbbac62991d091ba1",
+      "artifact:eurlex/32019L2161": "d0c9840090498fa9ddf2871c274c1cbe18043818da9f1648abba5b9c184c96c7"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31993L0013",
+      "https://lagen.nu/ext/celex/32019L2161"
+    ],
+    "proposition": "https://lagen.nu/prop/2021/22:174",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31993L0013",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31993L0013#8"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (1994:1512) om avtalsvillkor i konsumentförhållanden",
+        "chapter": null,
+        "paragraf": "9 c",
+        "sentence": "Paragrafen genomför artikel 8b i avtalsvillkorsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31993L0013",
+        "articles": [
+          "8",
+          "4",
+          "5"
+        ],
+        "pinpoints": [
+          "8 b",
+          "4",
+          "5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31993L0013#8",
+          "https://lagen.nu/ext/celex/31993L0013#4",
+          "https://lagen.nu/ext/celex/31993L0013#5"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (1994:1512) om avtalsvillkor i konsumentförhållanden",
+        "chapter": null,
+        "paragraf": "9 e",
+        "sentence": "Ändringarna genomför artikel 8b punkterna 4 och 5 i avtalsvillkorsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31993L0013",
+        "articles": [
+          "8",
+          "3"
+        ],
+        "pinpoints": [
+          "8 b",
+          "3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31993L0013#8",
+          "https://lagen.nu/ext/celex/31993L0013#3"
+        ],
+        "partial": false,
+        "law": "13.1 Förslaget till lag om ändring i lagen (1994:1512) om avtalsvillkor i konsumentförhållanden",
+        "chapter": null,
+        "paragraf": "9 f",
+        "sentence": "Ändringarna genomför artikel 8b punkten 3 i avtalsvillkorsdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

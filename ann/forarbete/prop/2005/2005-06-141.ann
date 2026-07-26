@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2005-06-141": "b1407cfa1e3758164959e3b48d26455d887b87a611b63f6408fd1d515fd544a7",
+      "artifact:eurlex/32002L0098": "2425b9c79f68f4cad32a9bace418403a7aa52b0c67665430e2163a30e1a2b988"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32002L0098"
+    ],
+    "proposition": "https://lagen.nu/prop/2005/06:141",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0098",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0098#13"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om blodsäkerhet",
+        "chapter": null,
+        "paragraf": "20",
+        "sentence": "Sådana uppgifter kan, i enlighet med artikel 13 i bloddirektivet, exempelvis röra antalet givare av blod och blodkomponenter, antalet blodgivningar, antalet rapporterade allvarliga avvikande händelser och vilken information som lämnats till en blodgivare.",
+        "page": null
+      }
+    ]
+  }
+}

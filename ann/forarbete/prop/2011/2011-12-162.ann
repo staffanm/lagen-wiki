@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2011-12-162": "7e8772dd9e9dcbb1861900c50fcceaf464362a9932abb31075d879f6ceb3e0de",
+      "artifact:eurlex/32009L0119": "3d2a572e776a885832d86dc81fe23c7583f8f6dfc6cb7e595cdca9c78f935270"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0119"
+    ],
+    "proposition": "https://lagen.nu/prop/2011/12:162",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0119",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0119#3"
+        ],
+        "partial": false,
+        "law": "7.1 Förslag till lag om beredskapslagring av olja",
+        "chapter": "1",
+        "paragraf": "2",
+        "sentence": "Referensåret måste vara ett helt kalenderår för att överensstämma med direktivets definition och artikel 3.3.",
+        "page": 59
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0119",
+        "articles": [
+          "20",
+          "3"
+        ],
+        "pinpoints": [
+          "20 p",
+          "3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0119#20",
+          "https://lagen.nu/ext/celex/32009L0119#3"
+        ],
+        "partial": false,
+        "law": "7.1 Förslag till lag om beredskapslagring av olja",
+        "chapter": "7",
+        "paragraf": "1",
+        "sentence": "Första punkten är en sammanfattning av direktivets definition av uttrycket gällande beslut om ibruktagande av lager och av artikel 20 p.3.",
+        "page": 63
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2025-26-43": "18682c5d58550b01aefb3006235b8d5aeae5b0a35348c910db5d5a01c21b4976",
+      "artifact:eurlex/32006L0112": "1ba89d4265e23bc76aea1d4f3dfa41b25030edbd959c44a0caf3e7781ddb3669",
+      "artifact:eurlex/32017L1371": "946cd31485fdaabbe75891e993c684642d0497aa36ded9f19488d4e58342fae0"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32006L0112",
+      "https://lagen.nu/ext/celex/32017L1371"
+    ],
+    "proposition": "https://lagen.nu/prop/2025/26:43",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32017L1371",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.2 d"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32017L1371#3"
+        ],
+        "partial": false,
+        "law": "9.1 Förslaget till lag om ändring i skattebrottslagen (1971:69)",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Ändringen genomför artikel 3.2 d i i SEFI-direktivet.",
+        "page": 34
+      }
+    ]
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2004-05-110": "ca143d5e58ad7381bca2db498a01b5f20ced163053a0cee344fb636740652a85",
+      "artifact:eurlex/32000L0031": "2e41d7a07943dcfb4cbba91a5ad2e23dcb3a76126528e4569f03a0861e2683b4",
+      "artifact:eurlex/32001L0029": "ab260dec43866f852d022928ff4588434a752cdedc69d82cac8aa3ca84df480f"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32000L0031",
+      "https://lagen.nu/ext/celex/32001L0029"
+    ],
+    "proposition": "https://lagen.nu/prop/2004/05:110",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#2"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "När det gäller exemplarframställningsrätten har i bestämmelsens andra stycke införts en definition av denna rättighet som motsvarar vad som anges i artikel 2 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "11 a",
+        "sentence": "Genom bestämmelsen genomförs artikel 5.1 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "12",
+        "sentence": "Aktuell bestämmelse i direktivet är artikel 5.2.b.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#5"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "16",
+        "sentence": "Artikel 5.2.c i direktivet anger dock ramen för bestämmelserna.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.3 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#5"
+        ],
+        "partial": true,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "17",
+        "sentence": "Artikel 5.3 b i direktivet drar upp ramarna för bestämmelserna men flertalet ändringar i paragrafen är inte direkt föranledda av direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "18",
+        "sentence": "Ändringar har gjorts i paragrafen för att anpassa bestämmelsen till artikel 5.3.a i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#4"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "19",
+        "sentence": "Genom ändringarna i paragrafens första stycke genomförs artikel 4.2 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "20 a",
+        "sentence": "Artikel 5.3.i i direktivet har betydelse för paragrafens utformning.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.3",
+          "5.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "23",
+        "sentence": "De ändringar som gjorts i paragrafen i sak är föranledda av direktivet (artiklarna 5.3.a och 5.3.o).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.3",
+          "5.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "24",
+        "sentence": "I paragrafens första stycke har vissa ändringar gjorts för att uppnå överensstämmelse med direktivet (artikel 5.3.j och 5.3.o).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "26 k",
+        "sentence": "Artikel 5.2.b i direktivet har betydelse för bestämmelserna.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "26 l",
+        "sentence": "Artikel 5.2.b i direktivet har betydelse för bestämmelserna.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#5"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": null,
+        "paragraf": "26 m",
+        "sentence": "Artikel 5.2.b i direktivet har betydelse för bestämmelserna.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "2",
+          "3.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#2",
+          "https://lagen.nu/ext/celex/32001L0029#3"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "5",
+        "paragraf": "45",
+        "sentence": "De bestämmelser i direktivet som är av störst intresse är artikel 2 och artikel 3.2.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "2",
+          "3",
+          "11"
+        ],
+        "pinpoints": [
+          "2",
+          "3.2",
+          "11.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#2",
+          "https://lagen.nu/ext/celex/32001L0029#3",
+          "https://lagen.nu/ext/celex/32001L0029#11"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "5",
+        "paragraf": "46",
+        "sentence": "De bestämmelser i direktivet som är av störst intresse är artikel 2, artikel 3.2 och artikel 11.2.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#3"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "5",
+        "paragraf": "47",
+        "sentence": "Artikel 3.2 i direktivet är av relevans för bestämmelsen.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "2",
+          "3.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#2",
+          "https://lagen.nu/ext/celex/32001L0029#3"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "5",
+        "paragraf": "48",
+        "sentence": "De bestämmelser i direktivet som är av störst intresse är artikel 2 och artikel 3.2.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "6",
+          "7"
+        ],
+        "pinpoints": [
+          "6.3",
+          "7.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#6",
+          "https://lagen.nu/ext/celex/32001L0029#7"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 a",
+        "paragraf": "52 b",
+        "sentence": "Genom bestämmelsen genomförs artikel 6.3 och artikel 7.2 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#6"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 a",
+        "paragraf": "52 d",
+        "sentence": "Införandet av bestämmelsen utgör ett led i genomförandet av artikel 6.1.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#6"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 a",
+        "paragraf": "52 e",
+        "sentence": "Införandet av bestämmelsen är ett led i genomförandet av artikel 6.2 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#6"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 a",
+        "paragraf": "52 f",
+        "sentence": "Genom bestämmelsen genomförs artikel 6.4 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#7"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 a",
+        "paragraf": "52 g",
+        "sentence": "Införandet av bestämmelsen utgör ett led i genomförandet av artikel 7.1 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#8"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 a",
+        "paragraf": "53 a",
+        "sentence": "Artikel 8 i direktivet är av relevans för bestämmelserna.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0029",
+        "articles": [
+          "6",
+          "7"
+        ],
+        "pinpoints": [
+          "6.1",
+          "6.2",
+          "7.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0029#6",
+          "https://lagen.nu/ext/celex/32001L0029#7"
+        ],
+        "partial": false,
+        "law": "16.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 a",
+        "paragraf": "57 b",
+        "sentence": "Införandet av bestämmelsen utgör ett led i genomförandet av artiklarna 6.1, 6.2 och 7.1 i direktivet.",
+        "page": null
+      }
+    ]
+  }
+}

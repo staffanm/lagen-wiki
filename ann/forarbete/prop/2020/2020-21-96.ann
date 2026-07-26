@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2020-21-96": "6d2203bd3ef271463451d56c8b5a23b9765dcbd4f597f64c3f8900b0088678ad",
+      "artifact:eurlex/32005L0036": "eefc43a400906ea6a134c819c33ae8e9c6088a028d05882b5383c9fe42bc3ad2"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32005L0036"
+    ],
+    "proposition": "https://lagen.nu/prop/2020/21:96",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32005L0036",
+        "articles": [
+          "4",
+          "2",
+          "7",
+          "51"
+        ],
+        "pinpoints": [
+          "4 c",
+          "2",
+          "4 d",
+          "7",
+          "51.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32005L0036#4",
+          "https://lagen.nu/ext/celex/32005L0036#2",
+          "https://lagen.nu/ext/celex/32005L0036#7",
+          "https://lagen.nu/ext/celex/32005L0036#51"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i lagen (2016:145) om erkännande av yrkeskvalifikationer",
+        "chapter": null,
+        "paragraf": "19 a",
+        "sentence": "Paragrafen, som är ny, genomför artiklarna 4c.2, 4d.7 och 51.3 i yrkeskvalifikationsdirektivet i de delar som rör dröjsmålstalan.",
+        "page": 39
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32005L0036",
+        "articles": [
+          "51"
+        ],
+        "pinpoints": [
+          "51.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32005L0036#51"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i lagen (2016:145) om erkännande av yrkeskvalifikationer",
+        "chapter": null,
+        "paragraf": "19 b",
+        "sentence": "Bestämmelsen genomför artikel 51.3 i yrkeskvalifikationsdirektivet för detta yrke.",
+        "page": 40
+      }
+    ]
+  }
+}

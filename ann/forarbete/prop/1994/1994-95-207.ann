@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/1994-95-207": "44f4a60f7d37085640acdaf9b6d72afc1582a69cfa96ebd5db7fb7b66d8cb8bd",
+      "artifact:eurlex/31992L0085": "6ecfff92285becee13b7693a81742b195093e4ae2ac88310bc48369620fe6ab0"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31992L0085"
+    ],
+    "proposition": "https://lagen.nu/prop/1994/95:207",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31992L0085",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31992L0085#8"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "4",
+        "sentence": "Genom denna ändring uppfylls kravet på rätt till oavbruten mödraledighet om minst 14 veckor enligt artikel 8 i EG-direktivet 92/85/EEG.",
+        "page": null
+      }
+    ]
+  }
+}

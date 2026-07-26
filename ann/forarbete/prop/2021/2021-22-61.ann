@@ -1,0 +1,3536 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2021-22-61": "ce5df4657b2a439520c0b3bbd47611f871d06909bab5d7ead7d6e6114c87ecbf",
+      "artifact:eurlex/32006L0112": "1ba89d4265e23bc76aea1d4f3dfa41b25030edbd959c44a0caf3e7781ddb3669",
+      "artifact:eurlex/32011L0064": "6df78febcf142b5261d61bc856ccddba20ba38b811e7c6e830a8e825a1c61552",
+      "artifact:eurlex/32020L0262": "f02c6852c8f7822393658f77490d0ad756092465aa98b1d44c2a50f552e019e0"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32006L0112",
+      "https://lagen.nu/ext/celex/32011L0064",
+      "https://lagen.nu/ext/celex/32020L0262"
+    ],
+    "proposition": "https://lagen.nu/prop/2021/22:61",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "2.1",
+          "3.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#2",
+          "https://lagen.nu/ext/celex/32020L0262#3"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "1",
+        "paragraf": "7",
+        "sentence": "Genom paragrafen genomförs artikel 2.1 och 3.7 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "2.1",
+          "3.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#2",
+          "https://lagen.nu/ext/celex/32020L0262#3"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "1",
+        "paragraf": "8",
+        "sentence": "Genom paragrafen genomförs artikel 2.1 och 3.8 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "6"
+        ],
+        "pinpoints": [
+          "3.6",
+          "6.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": true,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "1",
+        "paragraf": "11",
+        "sentence": "Paragrafen motsvarar delvis 8 a § och 22 § första stycket LTS och genomför bl.a. artikel 3.6 och 6.3.d nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "32",
+          "33"
+        ],
+        "pinpoints": [
+          "32",
+          "33.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#32",
+          "https://lagen.nu/ext/celex/32020L0262#33"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "2",
+        "paragraf": "12",
+        "sentence": "De undantag som följer av paragrafen motsvaras bl.a. av bestämmelserna om undantag för enskilda personers förvärv i artikel 32 i nya punktskattedirektivet och innebär att varor som uppfyller kriterierna i någon av punkterna inte ska beskattas i Sverige. ... Detta motsvaras av artikel 33.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.5",
+          "6.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "2",
+        "paragraf": "14",
+        "sentence": "Paragrafen motsvarar delvis 18 § första stycket LTS och genomför artikel 6.5 och 6.6 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "2",
+        "paragraf": "15",
+        "sentence": "Paragrafen motsvarar delvis 18 § andra stycket LTS och genomför artikel 6.9 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "45"
+        ],
+        "pinpoints": [
+          "45"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#45"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "2",
+        "paragraf": "16",
+        "sentence": "Paragrafen motsvarar delvis 18 § tredje stycket LTS och genomför artikel 45 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6",
+          "45"
+        ],
+        "pinpoints": [
+          "6.7",
+          "45.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6",
+          "https://lagen.nu/ext/celex/32020L0262#45"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "2",
+        "paragraf": "17",
+        "sentence": "Paragrafen motsvarar delvis 18 § första och tredje styckena LTS och genomför artikel 6.7 och 45.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6",
+          "45"
+        ],
+        "pinpoints": [
+          "6.8",
+          "6.10",
+          "45.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6",
+          "https://lagen.nu/ext/celex/32020L0262#45"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "2",
+        "paragraf": "18",
+        "sentence": "Paragrafen motsvarar delvis 18 § LTS och genomför artikel 6.8, 6.10 och 45.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#16"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "4",
+        "paragraf": "3",
+        "sentence": "Paragrafen motsvarar 8 b § första stycket 1 och andra stycket LTS (i lydelsen enligt förslaget i avsnitt 2.9) och genomför artikel 16.1.a i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#16"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "4",
+        "paragraf": "4",
+        "sentence": "Paragrafen motsvarar 8 b § första stycket 2 och motsvarar artikel 16.1.b i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#16"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "4",
+        "paragraf": "5",
+        "sentence": "Paragrafen motsvarar 8 b § tredje stycket LTS och motsvarar artikel 16.4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.2",
+          "16.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#16"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "4",
+        "paragraf": "8",
+        "sentence": "Bestämmelserna genomför artikel 16.2 och 16.3 i nya punktskattedirektivet och har ingen motsvarighet i punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#19"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "4",
+        "paragraf": "9",
+        "sentence": "Den nya meningen genomför artikel 19.2.c i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#20"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "5",
+        "sentence": "Paragrafen motsvarar 22 c § och genomför artikel 20.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#20"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "6",
+        "sentence": "Paragrafen motsvarar 22 d § LTS och genomför artikel 20.7 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#21"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 21.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#21"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 21.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#12"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "9",
+        "sentence": "Paragrafen motsvarar 22 e § LTS och genomför artikel 12.1 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.1",
+          "25.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#25"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "11",
+        "sentence": "Paragrafen motsvarar delvis 22 f § andra och tredje styckena LTS och genomför artikel 25.1 och 25.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#28"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "12",
+        "sentence": "Paragrafen motsvarar 23 § första – tredje och femte styckena LTS och genomför artikel 28 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#28"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "13",
+        "sentence": "Paragrafen motsvarar 23 § fjärde stycket LTS och genomför artikel 28 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26.1",
+          "26.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#26"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "14",
+        "sentence": "Paragrafen motsvarar 23 a § LTS och genomför artikel 26.1 och 26.4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#26"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför artikel 26.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#27"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "16",
+        "sentence": "Paragrafen motsvarar 24 § LTS och genomför artikel 27 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "26",
+          "27"
+        ],
+        "pinpoints": [
+          "26.2",
+          "27.1",
+          "27.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#26",
+          "https://lagen.nu/ext/celex/32020L0262#27"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "5",
+        "paragraf": "17",
+        "sentence": "Paragrafen motsvarar 25 § LTS och genomför artiklarna 26.2, 27.1 och 27.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "44"
+        ],
+        "pinpoints": [
+          "44"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#44"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "6",
+        "paragraf": "1",
+        "sentence": "Paragrafen motsvarar delvis 16 § LTS och artikel 44 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "44"
+        ],
+        "pinpoints": [
+          "44"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#44"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "6",
+        "paragraf": "2",
+        "sentence": "Paragrafen ersätter delvis 16 och 16 b §§ och genomför artikel 44 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "44"
+        ],
+        "pinpoints": [
+          "44"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#44"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "6",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 44 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "33",
+          "41",
+          "42"
+        ],
+        "pinpoints": [
+          "33",
+          "41",
+          "42"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#33",
+          "https://lagen.nu/ext/celex/32020L0262#41",
+          "https://lagen.nu/ext/celex/32020L0262#42"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "7",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 33, 41 och 42 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#34"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "7",
+        "paragraf": "3",
+        "sentence": "Paragrafen har inte någon motsvarighet i LTS och genomför artikel 34.3 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "33",
+          "35",
+          "38"
+        ],
+        "pinpoints": [
+          "33.1",
+          "35.1",
+          "38"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#33",
+          "https://lagen.nu/ext/celex/32020L0262#35",
+          "https://lagen.nu/ext/celex/32020L0262#38"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "7",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 33.1, 35.1 och 38 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35"
+        ],
+        "pinpoints": [
+          "3.13",
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "7",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 3.13 och artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "35"
+        ],
+        "pinpoints": [
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "7",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35"
+        ],
+        "pinpoints": [
+          "3.13",
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "7",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 3.13 och artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "35"
+        ],
+        "pinpoints": [
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "7",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#33"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "7",
+        "paragraf": "9",
+        "sentence": "Detta genomför artikel 33.4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35"
+        ],
+        "pinpoints": [
+          "3.12",
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "7",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 3.12 och artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35",
+          "33"
+        ],
+        "pinpoints": [
+          "3.12",
+          "35",
+          "33.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35",
+          "https://lagen.nu/ext/celex/32020L0262#33"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "7",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 3.12 och artikel 35 i nya punktskattedirektivet. ... Detta genomför artikel 33.3 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.3",
+          "33.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#33"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "7",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 33.3 – 4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.1",
+          "36.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#36"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "8",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 36.1 – 2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#36"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "8",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 36.4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#36"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "8",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 36.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "37"
+        ],
+        "pinpoints": [
+          "37.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#37"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "8",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 37.1 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "37",
+          "40"
+        ],
+        "pinpoints": [
+          "37.2",
+          "40.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#37",
+          "https://lagen.nu/ext/celex/32020L0262#40"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "8",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 37.2 och 40.1 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "40"
+        ],
+        "pinpoints": [
+          "40"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#40"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "8",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 40 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#38"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "8",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 38 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "39"
+        ],
+        "pinpoints": [
+          "39"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#39"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "8",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 39 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "38",
+          "39"
+        ],
+        "pinpoints": [
+          "38.2",
+          "38.4",
+          "39"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#38",
+          "https://lagen.nu/ext/celex/32020L0262#39"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "8",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artiklarna 38.2, 38.4 och 39 tredje stycket i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#34"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "9",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 34 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#34"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "9",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 34 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.1",
+          "7.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#7"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "9",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 7.1.d och 7.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6",
+          "6.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "9",
+        "paragraf": "15",
+        "sentence": "Paragrafen motsvarar 9 c § tredje stycket LTS och genomför artikel 6 i nya punktskattedirektivet. ... Detta motsvarar vad som följer av artikel 6.3.d i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#34"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "9",
+        "paragraf": "22",
+        "sentence": "Paragrafen genomför artikel 34.3 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "9",
+        "paragraf": "27",
+        "sentence": "Paragrafen motsvarar delvis 28 § LTS och genomför artikel 46 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "9",
+        "paragraf": "28",
+        "sentence": "Paragrafen genomför artikel 46 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "9",
+          "46"
+        ],
+        "pinpoints": [
+          "9.6",
+          "46.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#9",
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "9",
+        "paragraf": "29",
+        "sentence": "Paragrafen genomför artikel 9.6 och 46.4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "7",
+          "46"
+        ],
+        "pinpoints": [
+          "7.2",
+          "46.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#7",
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "9",
+        "paragraf": "30",
+        "sentence": "Bestämmelsen genomför bl.a. artikel 7.2 och 46.3 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "37",
+          "40"
+        ],
+        "pinpoints": [
+          "37",
+          "40.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#37",
+          "https://lagen.nu/ext/celex/32020L0262#40"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "12",
+        "paragraf": "3",
+        "sentence": "Paragrafen motsvarar delvis 29 § första och tredje stycket LTS och genomför artikel 37 och 40.3 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om tobaksskatt",
+        "chapter": "12",
+        "paragraf": "5",
+        "sentence": "Paragrafen motsvarar delvis 29 § första och andra styckena LTS och genomför artikel 46.3 andra stycket i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "2.1",
+          "3.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#2",
+          "https://lagen.nu/ext/celex/32020L0262#3"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "1",
+        "paragraf": "8",
+        "sentence": "Genom paragrafen genomförs artikel 2.1 och 3.7 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "2.1",
+          "3.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#2",
+          "https://lagen.nu/ext/celex/32020L0262#3"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "1",
+        "paragraf": "9",
+        "sentence": "Genom paragrafen genomförs artikel 2.1 och 3.8 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "6"
+        ],
+        "pinpoints": [
+          "3.6",
+          "6.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": true,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "1",
+        "paragraf": "12",
+        "sentence": "Paragrafen motsvarar delvis 7 a § och 21 § LAS och genomför bl.a. artikel 3.6 och 6.3 nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "32"
+        ],
+        "pinpoints": [
+          "32"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#32"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "2",
+        "paragraf": "10",
+        "sentence": "De undantag som följer av bestämmelsen motsvaras bl.a. av bestämmelserna om undantag för enskilda personers förvärv i artikel 32 i nya punktskattedirektivet och innebär att varor som uppfyller kriterierna i någon av punkterna inte ska beskattas i Sverige.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#33"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "2",
+        "paragraf": "10",
+        "sentence": "Detta motsvaras av artikel 33.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.5",
+          "6.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "2",
+        "paragraf": "12",
+        "sentence": "Paragrafen motsvarar delvis 7 § första stycket 7 och 8 LAS och genomför artikel 6.5 och 6.6 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "2",
+        "paragraf": "13",
+        "sentence": "Paragrafen motsvarar delvis 7 § tredje stycket LAS och genomför artikel 6.9 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "45"
+        ],
+        "pinpoints": [
+          "45"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#45"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "2",
+        "paragraf": "14",
+        "sentence": "Paragrafen motsvarar delvis 7 § fjärde stycket LAS och genomför artikel 45 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6",
+          "45"
+        ],
+        "pinpoints": [
+          "6.7",
+          "6.10",
+          "45.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6",
+          "https://lagen.nu/ext/celex/32020L0262#45"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "2",
+        "paragraf": "15",
+        "sentence": "Paragrafen motsvarar delvis 7 § första stycket 7 och fjärde stycket LAS och genomför artikel 6.7, 6.10 och 45.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6",
+          "45"
+        ],
+        "pinpoints": [
+          "6.8",
+          "45.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6",
+          "https://lagen.nu/ext/celex/32020L0262#45"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "2",
+        "paragraf": "16",
+        "sentence": "Paragrafen motsvarar delvis 7 § första stycket 7 och fjärde stycket LAS och genomför artikel 6.8 och 45.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#16"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "4",
+        "paragraf": "3",
+        "sentence": "Paragrafen motsvarar 7 b § första stycket 1 och andra stycket LAS (i lydelsen enligt lagförslag 2.10) och genomför artikel 16.1.a i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.2",
+          "16.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#16"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "4",
+        "paragraf": "8",
+        "sentence": "Bestämmelserna genomför artikel 16.2 och 16.3 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#20"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "5",
+        "paragraf": "5",
+        "sentence": "Paragrafen motsvarar 21 c § LAS och genomför artikel 20.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#20"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "5",
+        "paragraf": "6",
+        "sentence": "Paragrafen motsvarar 21 d § LAS och genomför artikel 20.7 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#21"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "5",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 21.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#21"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "5",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 21.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.1",
+          "25.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#25"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "5",
+        "paragraf": "11",
+        "sentence": "Paragrafen motsvarar 21 f § andra och tredje styckena LAS och genomför artikel 25.1 och 25.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#28"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "5",
+        "paragraf": "12",
+        "sentence": "Paragrafen motsvarar 22 § första – tredje och femte styckena LAS och genomför artikel 28 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#28"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "5",
+        "paragraf": "13",
+        "sentence": "Paragrafen motsvarar 22 § fjärde stycket LAS och genomför artikel 28 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26.1",
+          "26.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#26"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "5",
+        "paragraf": "14",
+        "sentence": "Paragrafen motsvarar 22 a § LAS och genomför artikel 26.1 och 26.4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#26"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "5",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför artikel 26.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#27"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "5",
+        "paragraf": "16",
+        "sentence": "Paragrafen motsvarar 23 § LAS och genomför artikel 27 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "26",
+          "27"
+        ],
+        "pinpoints": [
+          "26.2",
+          "27.1",
+          "27.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#26",
+          "https://lagen.nu/ext/celex/32020L0262#27"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "5",
+        "paragraf": "17",
+        "sentence": "Paragrafen motsvarar 24 § LAS och genomför artiklarna 26.2, 27.1 och 27.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "44"
+        ],
+        "pinpoints": [
+          "44"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#44"
+        ],
+        "partial": true,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "6",
+        "paragraf": "1",
+        "sentence": "Paragrafen motsvarar delvis 15 § LAS och artikel 44 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "44"
+        ],
+        "pinpoints": [
+          "44"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#44"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "6",
+        "paragraf": "2",
+        "sentence": "Paragrafen ersätter delvis 15 och 15 b §§ LAS och genomför artikel 44 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "44"
+        ],
+        "pinpoints": [
+          "44"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#44"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "6",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 44 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "33",
+          "34",
+          "41",
+          "42"
+        ],
+        "pinpoints": [
+          "33",
+          "34.3",
+          "41",
+          "42"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#33",
+          "https://lagen.nu/ext/celex/32020L0262#34",
+          "https://lagen.nu/ext/celex/32020L0262#41",
+          "https://lagen.nu/ext/celex/32020L0262#42"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "7",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 33, 34.3, 41 och 42 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "33",
+          "35",
+          "38"
+        ],
+        "pinpoints": [
+          "33.1",
+          "35.1",
+          "38"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#33",
+          "https://lagen.nu/ext/celex/32020L0262#35",
+          "https://lagen.nu/ext/celex/32020L0262#38"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "7",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 33.1, 35.1 och artikel 38 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35"
+        ],
+        "pinpoints": [
+          "3.13",
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "7",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 3.13 och artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "35"
+        ],
+        "pinpoints": [
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "7",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35"
+        ],
+        "pinpoints": [
+          "3.13",
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "7",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 3.13 och artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35"
+        ],
+        "pinpoints": [
+          "3.12",
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "7",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 3.12 och artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35"
+        ],
+        "pinpoints": [
+          "3.12",
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "7",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 3.12 och artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.3",
+          "33.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#33"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "7",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 33.3 – 4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.1",
+          "36.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#36"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "8",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 36.1 – 2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#36"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "8",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 36.4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#36"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "8",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 36.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "37"
+        ],
+        "pinpoints": [
+          "37.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#37"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "8",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 37.1 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "37",
+          "40"
+        ],
+        "pinpoints": [
+          "37.2",
+          "40.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#37",
+          "https://lagen.nu/ext/celex/32020L0262#40"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "8",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 37.2 och 40.1 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "40"
+        ],
+        "pinpoints": [
+          "40"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#40"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "8",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 40 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#38"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "8",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 38 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "39"
+        ],
+        "pinpoints": [
+          "39"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#39"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "8",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 39 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "38",
+          "39"
+        ],
+        "pinpoints": [
+          "38.2",
+          "38.4",
+          "39 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#38",
+          "https://lagen.nu/ext/celex/32020L0262#39"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "8",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artiklarna 38.2, 38.4 och 39 tredje stycket i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#34"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "9",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 34 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#34"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "9",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 34 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.1",
+          "7.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#7"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "9",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 7.1.d och 7.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "9",
+        "paragraf": "15",
+        "sentence": "Paragrafen motsvarar 8 c § tredje stycket LAS och genomför artikel 6 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "9",
+        "paragraf": "27",
+        "sentence": "Paragrafen motsvarar delvis 27 § LAS och genomför artikel 46 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "9",
+        "paragraf": "28",
+        "sentence": "Paragrafen genomför artikel 46 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "7",
+          "46"
+        ],
+        "pinpoints": [
+          "7.2",
+          "46.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#7",
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": true,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "9",
+        "paragraf": "30",
+        "sentence": "Bestämmelsen genomför bl.a. artikel 7.2 och 46.3 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "37",
+          "40"
+        ],
+        "pinpoints": [
+          "37.2",
+          "40.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#37",
+          "https://lagen.nu/ext/celex/32020L0262#40"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "12",
+        "paragraf": "3",
+        "sentence": "Paragrafen motsvarar delvis 28 § första och tredje stycket LAS och genomför artikel 37.2 och 40.3 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.2 Förslaget till lag om alkoholskatt",
+        "chapter": "12",
+        "paragraf": "5",
+        "sentence": "Paragrafen motsvarar delvis 28 § första och andra styckena LAS och genomför artikel 46.3 andra stycket i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#4"
+        ],
+        "partial": false,
+        "law": "15.3 Förslaget till lag om Europeiska unionens punktskatteområde",
+        "chapter": null,
+        "paragraf": "1",
+        "sentence": "Den genomför artikel 4.1 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#4"
+        ],
+        "partial": false,
+        "law": "15.3 Förslaget till lag om Europeiska unionens punktskatteområde",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "I paragrafen, som genomför artikel 4.2 i nya punktskattedirektivet, anges vilka territorier, som ingår i unionens tullområde, som inte ska ingå i punktskatteområdet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#4"
+        ],
+        "partial": false,
+        "law": "15.3 Förslaget till lag om Europeiska unionens punktskatteområde",
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "I paragrafen, som genomför artikel 4.3 i nya punktskattedirektivet, anges att de territorier som omfattas av tillämpningsområdet för artikel 355.3 i fördraget om Europeiska unionens funktionssätt inte ska ingå i punktskatteområdet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#4"
+        ],
+        "partial": false,
+        "law": "15.3 Förslaget till lag om Europeiska unionens punktskatteområde",
+        "chapter": null,
+        "paragraf": "4",
+        "sentence": "I paragrafen, som genomför artikel 4.3 i nya punktskattedirektivet, anges vilka territorier, som inte ingår i unionens tullområde, som inte ska ingå i punktskatteområdet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#5"
+        ],
+        "partial": false,
+        "law": "15.3 Förslaget till lag om Europeiska unionens punktskatteområde",
+        "chapter": null,
+        "paragraf": "5",
+        "sentence": "I paragrafen, som genomför artikel 5 i nya punktskattedirektivet, finns bestämmelser om vissa områden som ska anses ingå i punktskatteområdet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#3"
+        ],
+        "partial": false,
+        "law": "15.4 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "2 a",
+        "paragraf": "3",
+        "sentence": "Stycket motsvarar artikel 3.1 a i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#22"
+        ],
+        "partial": false,
+        "law": "15.4 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "2 a",
+        "paragraf": "11",
+        "sentence": "Bestämmelsen motsvarar artikel 22 i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "143"
+        ],
+        "pinpoints": [
+          "143.1 g"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#143"
+        ],
+        "partial": false,
+        "law": "15.4 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "3",
+        "paragraf": "30",
+        "sentence": "Stycket motsvarar artikel 143.1 ga i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "151"
+        ],
+        "pinpoints": [
+          "151.1 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#151"
+        ],
+        "partial": false,
+        "law": "15.4 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "3",
+        "paragraf": "31 b",
+        "sentence": "Bestämmelsen motsvarar artikel 151.1 bb i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "151"
+        ],
+        "pinpoints": [
+          "151.1 b",
+          "151.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#151"
+        ],
+        "partial": false,
+        "law": "15.4 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "10",
+        "paragraf": "8 a",
+        "sentence": "Bestämmelsen motsvarar artikel 151.1 ba och 151.2 i mervärdesskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "2.1",
+          "3.7",
+          "3.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#2",
+          "https://lagen.nu/ext/celex/32020L0262#3"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "1",
+        "paragraf": "7",
+        "sentence": "Definitionerna genomför artikel 2.1, 3.7 och 3.8 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "6"
+        ],
+        "pinpoints": [
+          "3.6",
+          "6.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "1",
+        "paragraf": "20",
+        "sentence": "Paragrafen är ny och motsvarar delvis nuvarande 3 a kap. 1 § och 6 kap. 2 § och genomför bl.a. artikel 3.6 och 6.3 nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "32"
+        ],
+        "pinpoints": [
+          "32"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#32"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "2",
+        "paragraf": "12",
+        "sentence": "Det undantag som följer av första stycket motsvaras bl.a. av bestämmelserna om undantag i artikel 32 i nya punktskattedirektivet och innebär att bränsle som uppfyller kriterierna i någon av punkterna inte ska beskattas i Sverige.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.5",
+          "6.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "2",
+        "paragraf": "13",
+        "sentence": "Paragrafen är ny och motsvarar delvis nuvarande 11 § första stycket 4 och genomför artikel 6.5 och 6.6 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "2",
+        "paragraf": "14",
+        "sentence": "Paragrafen är ny och motsvarar delvis nuvarande 11 § andra stycket och genomför artikel 6.9 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "45"
+        ],
+        "pinpoints": [
+          "45"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#45"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "2",
+        "paragraf": "15",
+        "sentence": "Paragrafen är ny men motsvarar delvis nuvarande 11 § tredje stycket och genomför artikel 45 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6",
+          "45"
+        ],
+        "pinpoints": [
+          "6.7",
+          "45.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6",
+          "https://lagen.nu/ext/celex/32020L0262#45"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "2",
+        "paragraf": "16",
+        "sentence": "Paragrafen är ny och motsvarar delvis nuvarande 11 § första stycket 4 och tredje stycket och genomför artikel 6.7 och 45.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6",
+          "45"
+        ],
+        "pinpoints": [
+          "6.8",
+          "6.10",
+          "45.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6",
+          "https://lagen.nu/ext/celex/32020L0262#45"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "2",
+        "paragraf": "17",
+        "sentence": "Paragrafen är ny och motsvarar delvis nuvarande 11 § första stycket 4 och tredje stycket och genomför artikel 6.8, 6.10 och 45.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#17"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4",
+        "paragraf": "19",
+        "sentence": "I första stycket finns en ny bestämmelse som genomför artikel 17.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#16"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 a",
+        "paragraf": "2",
+        "sentence": "Paragrafen motsvarar nuvarande 3 a kap. 2 § första stycket 1 och andra stycket (i lydelsen enligt lagförslag 2.11) och genomför artikel 16.1.a i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.2",
+          "16.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#16"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 a",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 16.2 och 16.3 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#20"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 b",
+        "paragraf": "5",
+        "sentence": "Paragrafen motsvarar nuvarande 6 kap. 5 § och genomför artikel 20.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#20"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 b",
+        "paragraf": "6",
+        "sentence": "Paragrafen motsvarar nuvarande 6 kap. 6 § och genomför artikel 20.7 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#21"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 b",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 21.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#21"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 b",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 21.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.1",
+          "25.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#25"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 b",
+        "paragraf": "11",
+        "sentence": "Paragrafen motsvarar nuvarande 6 kap. 8 § andra stycket och genomför artikel 25.1 och 25.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#28"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 b",
+        "paragraf": "12",
+        "sentence": "Paragrafen motsvarar nuvarande 6 kap. 8 a § första – tredje och femte styckena och genomför artikel 28 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#28"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 b",
+        "paragraf": "13",
+        "sentence": "Paragrafen motsvarar nuvarande 6 kap. 8 a § fjärde stycket och genomför artikel 28 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26.1",
+          "26.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#26"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 b",
+        "paragraf": "14",
+        "sentence": "Paragrafen motsvarar nuvarande 6 kap. 9 § och genomför artikel 26.1 och 26.4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#26"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 b",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför artikel 26.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#27"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 b",
+        "paragraf": "16",
+        "sentence": "Paragrafen motsvarar nuvarande 6 kap. 10 § och genomför artikel 27 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "26",
+          "27"
+        ],
+        "pinpoints": [
+          "26.2",
+          "27.1",
+          "27.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#26",
+          "https://lagen.nu/ext/celex/32020L0262#27"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 b",
+        "paragraf": "17",
+        "sentence": "Paragrafen motsvarar nuvarande 6 kap. 11 § och genomför artiklarna 26.2, 27.1 och 27.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "44"
+        ],
+        "pinpoints": [
+          "44"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#44"
+        ],
+        "partial": true,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 c",
+        "paragraf": "1",
+        "sentence": "Paragrafen motsvarar delvis nuvarande 4 kap. 9 § och artikel 44 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "44"
+        ],
+        "pinpoints": [
+          "44"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#44"
+        ],
+        "partial": true,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 c",
+        "paragraf": "2",
+        "sentence": "Paragrafen ersätter delvis nuvarande 4 kap 9 och 9 b §§ och genomför artikel 44 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "44"
+        ],
+        "pinpoints": [
+          "44"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#44"
+        ],
+        "partial": true,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 c",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 44 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "33",
+          "34",
+          "41",
+          "42"
+        ],
+        "pinpoints": [
+          "33",
+          "34.3",
+          "41",
+          "42"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#33",
+          "https://lagen.nu/ext/celex/32020L0262#34",
+          "https://lagen.nu/ext/celex/32020L0262#41",
+          "https://lagen.nu/ext/celex/32020L0262#42"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 d",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 33, 34.3, 41 och 42 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "33",
+          "35",
+          "38"
+        ],
+        "pinpoints": [
+          "33.1",
+          "35.1",
+          "38"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#33",
+          "https://lagen.nu/ext/celex/32020L0262#35",
+          "https://lagen.nu/ext/celex/32020L0262#38"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 d",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 33.1, 35.1 och artikel 38 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35"
+        ],
+        "pinpoints": [
+          "3.13",
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 d",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 3.13 och artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "35"
+        ],
+        "pinpoints": [
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 d",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35"
+        ],
+        "pinpoints": [
+          "3.13",
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 d",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 3.13 och artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35"
+        ],
+        "pinpoints": [
+          "3.12",
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": true,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 d",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför delvis artikel 3.12 och artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "3",
+          "35"
+        ],
+        "pinpoints": [
+          "3.12",
+          "35"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#3",
+          "https://lagen.nu/ext/celex/32020L0262#35"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 d",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 3.12 och artikel 35 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.3",
+          "33.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#33"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 d",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 33.3 – 4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.1",
+          "36.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#36"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 e",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 36.1 – 2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#36"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 e",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 36.4 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#36"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 e",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 36.5 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "37"
+        ],
+        "pinpoints": [
+          "37.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#37"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 e",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 37.1 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "37",
+          "40"
+        ],
+        "pinpoints": [
+          "37.2",
+          "40.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#37",
+          "https://lagen.nu/ext/celex/32020L0262#40"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 e",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 37.2 och 40.1 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "40"
+        ],
+        "pinpoints": [
+          "40"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#40"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 e",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 40 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#38"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 e",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 38 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "39"
+        ],
+        "pinpoints": [
+          "39"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#39"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 e",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 39 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "38",
+          "39"
+        ],
+        "pinpoints": [
+          "38.2",
+          "38.4",
+          "39"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#38",
+          "https://lagen.nu/ext/celex/32020L0262#39"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "4 e",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artiklarna 38.2, 38.4 och 39 tredje stycket i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#34"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "5",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 34 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#34"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "5",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 34 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.1",
+          "7.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#7"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "5",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 7.1.d och 7.2 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#6"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "5",
+        "paragraf": "15",
+        "sentence": "Paragrafen motsvarar nuvarande 4 kap. 1 b § tredje stycket och genomför artikel 6 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "5",
+        "paragraf": "24",
+        "sentence": "Paragrafen motsvarar delvis nuvarande 4 kap. 2 b § och genomför artikel 46 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "5",
+        "paragraf": "25",
+        "sentence": "Paragrafen genomför artikel 46 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "7",
+          "46"
+        ],
+        "pinpoints": [
+          "7.2",
+          "46.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#7",
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "5",
+        "paragraf": "27",
+        "sentence": "Bestämmelsen genomför bl.a. artikel 7.2 och 46.3 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "37",
+          "40"
+        ],
+        "pinpoints": [
+          "37.2",
+          "40.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#37",
+          "https://lagen.nu/ext/celex/32020L0262#40"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "9",
+        "paragraf": "10",
+        "sentence": "Bestämmelserna genomför artikel 37.2 och 40.3 i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#46"
+        ],
+        "partial": false,
+        "law": "15.8 Förslaget till lag om ändring i lagen (1994:1776) om skatt på energi",
+        "chapter": "9",
+        "paragraf": "10 b",
+        "sentence": "Bestämmelserna genomför artikel 46.3 andra stycket i nya punktskattedirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32020L0262",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32020L0262#36"
+        ],
+        "partial": false,
+        "law": "15.9 Förslaget till lag om ändring i lagen (1998:506) om punktskattekontroll av transporter m.m. av alkoholvaror, tobaksvaror och energiprodukter",
+        "chapter": "1",
+        "paragraf": "5 a",
+        "sentence": "En ny bestämmelse har lagts till som tydliggör att när varor som flyttas inom förfarandet för beskattade varor omfattas av ett elektroniskt förenklat administrativt dokument ska de åtföljas av en sådan förenklad administrativ referenskod som avses i artikel 36.4 i nya punktskattedirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2015-16-116": "e7963dd80868df6358502b7f389f24f1ec4fcee027b4597e516117a04105e18b",
+      "artifact:eurlex/32014L0030": "988f13c6b5ea0a1b0adf9928e39f0ddfec831713276333cf3d7e44a1de8b9c0c"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32014L0030"
+    ],
+    "proposition": "https://lagen.nu/prop/2015/16:116",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0030",
+        "articles": [
+          "42"
+        ],
+        "pinpoints": [
+          "42"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0030#42"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i lagen (1992:1512) om elektromagnetisk kompatibilitet",
+        "chapter": null,
+        "paragraf": "7",
+        "sentence": "Paragrafen möjliggör ett genomförande av artikel 42 i direktivet och behandlas i avsnitt 5.3.",
+        "page": 20
+      }
+    ]
+  }
+}

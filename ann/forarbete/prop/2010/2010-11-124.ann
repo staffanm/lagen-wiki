@@ -1,0 +1,384 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2010-11-124": "12dd12b84b595a5458982bd6c2915ddd708720b9d34064f6036596d05a595921",
+      "artifact:eurlex/32000L0031": "2e41d7a07943dcfb4cbba91a5ad2e23dcb3a76126528e4569f03a0861e2683b4",
+      "artifact:eurlex/32009L0110": "48cd3f18550a39f6ffd713061b2b384820014b6b6b2bbeb57d626603a0182c12",
+      "artifact:eurlex/32010L0078": "f8518d92739acff611efd1dd1de475cd8944d864039f35f59fd90f6436909954"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32000L0031",
+      "https://lagen.nu/ext/celex/32009L0110",
+      "https://lagen.nu/ext/celex/32010L0078"
+    ],
+    "proposition": "https://lagen.nu/prop/2010/11:124",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#1"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "1",
+        "paragraf": "1",
+        "sentence": "Detta undantag, som följer av artikel 1.4 nya e-penningdirektivet, har ansetts överflödigt i betaltjänstlagen.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#2"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "2",
+        "paragraf": "3",
+        "sentence": "Genomsnittet av de utestående elektroniska pengarna beräknas enligt e-penningdirektivets artikel 2.4 på så sätt att det sammanlagda beloppet av skulder hänförliga till elektroniska pengar som getts ut av företaget vid slutet av varje kalenderdag beräknas.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#3"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "2",
+        "paragraf": "8",
+        "sentence": "Den bestämmelsen genomför artikel 11 i betaltjänstdirektivet, som enligt artikel 3.1 i e-penningdirektivet ska gälla i tillämpliga delar för institut för elektroniska pengar.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#4"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "3",
+        "paragraf": "1",
+        "sentence": "I paragrafen, som motsvarar artikel 4 i direktivet, föreskrivs att ett institut för elektroniska pengar ska ha ett startkapital som vid tidpunkten för beslut om tillstånd motsvarar minst 350 000 euro.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#7"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "3",
+        "paragraf": "7",
+        "sentence": "Paragrafen motsvarar artikel 7 i direktivet och anger hur medel som har tagits emot i utbyte mot elektroniska pengar som har getts ut ska skyddas.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#3"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "3",
+        "paragraf": "8",
+        "sentence": "Paragrafen motsvarar artikel 3.2 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#3"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "3",
+        "paragraf": "9",
+        "sentence": "Bestämmelsen i betaltjänstlagen motsvarar betaltjänstdirektivets artikel 19, som genom en hänvisning i artikel 138 3.1 i det nya e-penningdirektivet är tillämplig även på institut för elektroniska pengar.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#3"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "3",
+        "paragraf": "10",
+        "sentence": "Bestämmelsen motsvarar 3 kap. 10 § betaltjänstlagen, avses ha samma innebörd, och genomför betaltjänstdirektivets artikel 15.3, som även är tillämplig på institut för elektroniska pengar i enlighet med e-penningdirektivets artikel 3.1.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#3"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "3",
+        "paragraf": "17",
+        "sentence": "Paragrafen motsvarar artikel 3.5 i direktivet och anger att institut för elektroniska pengar inte får ge ut elektroniska pengar via ombud.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#3"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "3",
+        "paragraf": "26",
+        "sentence": "Det följer av e-penningdirektivets artikel 3.5 att det inte är tillåtet att ge ut elektroniska pengar genom ombud.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#11"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "4",
+        "paragraf": "1",
+        "sentence": "Direktivets uttryck att elektroniska pengar ska ges ut till det nominella beloppet mot erhållande av medel (artikel 11.1) föreslås formuleras så att elektroniska pengar ska ges ut till samma belopp som de medel som mottagits.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#6"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "4",
+        "paragraf": "1",
+        "sentence": "Enligt direktivets artikel 6.3 ska medel som institut för elektroniska pengar tar emot från innehavaren av elektroniska pengar utan dröjsmål bytas ut mot elektroniska pengar.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#11"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "4",
+        "paragraf": "2",
+        "sentence": "Paragrafen har utarbetats i enlighet med Lagrådets förslag och motsvarar artikel 11.3 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#11"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "4",
+        "paragraf": "3",
+        "sentence": "Paragrafen motsvarar artikel 11.2 i direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#11"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "4",
+        "paragraf": "3",
+        "sentence": "Andra stycket innehåller bestämmelser som motsvarar direktivets artikel 11.6 och avser inlösen under vissa angivna förutsättningar.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#12"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "4",
+        "paragraf": "5",
+        "sentence": "Paragrafen motsvarar artikel 12 i det nya e-penningdirektivet och anger att utgivare av elektroniska pengar inte får betala ränta eller ge andra förmåner som beror på hur länge innehavaren av elektroniska pengar behåller de elektroniska pengarna.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#3"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "5",
+        "paragraf": "11",
+        "sentence": "Genom paragrafen genomförs artikel 21 i betaltjänstdirektivet, som enligt artikel 3.1 i e-penningdirektivet ska gälla i tillämpliga delar för institut för elektroniska pengar.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#13"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "5",
+        "paragraf": "21",
+        "sentence": "Möjligheten att ingripa mot företag som inte följer bestämmelserna om utgivning av elektroniska pengar, ränta och inlösen innebär att artikel 13 i e-penningdirektivet, av vilken följer att medlemsstaterna ska införa bestämmelser om sanktioner vid överträdelse av dessa bestämmelser, genomförs såvitt avser utländska företag med tillstånd i andra EESländer.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0110",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0110#10"
+        ],
+        "partial": false,
+        "law": "10.1 Förslaget till lag om elektroniska pengar",
+        "chapter": "5",
+        "paragraf": "24",
+        "sentence": "Genom bestämmelsen genomförs artikel 10 i e-penningdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

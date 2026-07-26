@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2013-14-111": "1f00da95bd433990b6bc679e78cda835b47bc649fd0e29cf06a7d1436b62ddaf",
+      "artifact:eurlex/31998L0026": "dde2f8d6b919e844eef01f8223a0ad66d7d0a44db473c25105b6a73c33c1d769"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31998L0026"
+    ],
+    "proposition": "https://lagen.nu/prop/2013/14:111",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31998L0026",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31998L0026#9"
+        ],
+        "partial": true,
+        "law": "10.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "5",
+        "paragraf": "2 a",
+        "sentence": "Paragrafen, som är ny, genomför ändringen i artikel 9.1 i finality-direktivet delvis.",
+        "page": 103
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31998L0026",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31998L0026#9"
+        ],
+        "partial": true,
+        "law": "10.4 Förslaget till lag om ändring i lagen (1999:1309) om system för avveckling av förpliktelser på finansmarknaden",
+        "chapter": null,
+        "paragraf": "13 a",
+        "sentence": "Paragrafen, som är ny, genomför ändringen i artikel 9.1 i finality-direktivet delvis.",
+        "page": 106
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2004-05-30": "177fc86cbbe20546f5c766b3b610040194f6b94286a8ac85577351adfe5a8a13",
+      "artifact:eurlex/32002L0047": "3d26143d007e9df2bc124d8870a15b53cfa25fed17511ae395620bba565b0b29"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32002L0047"
+    ],
+    "proposition": "https://lagen.nu/prop/2004/05:30",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0047",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0047#1"
+        ],
+        "partial": false,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "3",
+        "paragraf": "1",
+        "sentence": "Uppräkningen avser att täcka de företag och myndigheter som anges i artikel 1.2 (a) – (d) i säkerhetsdirektivet (se avsnitt 5.7).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0047",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0047#1"
+        ],
+        "partial": false,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "3",
+        "paragraf": "3",
+        "sentence": "Uppräkningen avser att täcka de företag och myndigheter som anges i artikel 1.2 (a) – (d) i säkerhetsdirektivet (se avsnitt 5.7).",
+        "page": null
+      }
+    ]
+  }
+}

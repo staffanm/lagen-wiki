@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2001-02-137": "f56aad59bf7988fea9c9b1d11d1eca278ebc5bc56ba68c3e8395fc08ff4d3a63",
+      "artifact:eurlex/31999L0105": "cdba23c573f16952cd6d186642d07cda72c8093cabf915276a77059e3d0fd0fd"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31999L0105"
+    ],
+    "proposition": "https://lagen.nu/prop/2001/02:137",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31999L0105",
+        "articles": [
+          "6",
+          "10"
+        ],
+        "pinpoints": [
+          "6.4",
+          "10.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31999L0105#6",
+          "https://lagen.nu/ext/celex/31999L0105#10"
+        ],
+        "partial": false,
+        "law": "11.1 Förslaget till lag om ändring i skogsvårdslagen (1979:429)",
+        "chapter": null,
+        "paragraf": "32 a",
+        "sentence": "Enligt artikel 6.4 och artikel 10.1 i frö- och plantdirektivet skall leverantörer av skogsodlingsmaterial vara officiellt registrerade och över godkända frökällor skall det finnas ett nationellt register.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/31999L0105",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/31999L0105#16"
+        ],
+        "partial": false,
+        "law": "11.1 Förslaget till lag om ändring i skogsvårdslagen (1979:429)",
+        "chapter": null,
+        "paragraf": "34 a",
+        "sentence": "Enligt artikel 16.6 i frö- och plantdirektivet får experter från kommissionen göra kontroller på plats och skall då få all hjälp som de behöver för att utföra sina uppgifter.",
+        "page": null
+      }
+    ]
+  }
+}

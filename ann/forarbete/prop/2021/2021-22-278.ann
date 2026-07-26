@@ -1,0 +1,842 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2021-22-278": "6c2bb9dfe019f56f08a045cce8e8f3e2a51eded327d5a2f5df43a321b87ab434",
+      "artifact:eurlex/31996L0009": "16aa5d165d75eafd336048e4f8a82d6f3e8630401f318ef2fb70590fda8655e4",
+      "artifact:eurlex/32019L0790": "2208df19442e7acd265c62a1c3e24078e6047c402a1f94dad40436e58f140bfd"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/31996L0009",
+      "https://lagen.nu/ext/celex/32019L0790"
+    ],
+    "proposition": "https://lagen.nu/prop/2021/22:278",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.1",
+          "5.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#5"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "2",
+        "paragraf": "13",
+        "sentence": "Med paragrafen genomförs artikel 5.1 och 5.2 och delvis artikel 7.1 i direktivet.",
+        "page": 217
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#7"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "2",
+        "paragraf": "13",
+        "sentence": "Med paragrafen genomförs artikel 5.1 och 5.2 och delvis artikel 7.1 i direktivet.",
+        "page": 217
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1",
+          "4.2",
+          "4.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#4"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "2",
+        "paragraf": "15 a",
+        "sentence": "Med paragrafen genomförs artikel 4.1 – 4.3 i direktivet.",
+        "page": 220
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1",
+          "3.2",
+          "3.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#3"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "2",
+        "paragraf": "15 b",
+        "sentence": "Med paragrafen genomförs artikel 3.1 – 3.3 och delvis artikel 7.1 i direktivet.",
+        "page": 221
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#7"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "2",
+        "paragraf": "15 b",
+        "sentence": "Med paragrafen genomförs artikel 3.1 – 3.3 och delvis artikel 7.1 i direktivet.",
+        "page": 221
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1",
+          "2.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#2"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "2",
+        "paragraf": "15 c",
+        "sentence": "Med paragrafen genomförs delvis artikel 2.1 och 2.2 i direktivet.",
+        "page": 222
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#6"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "2",
+        "paragraf": "16",
+        "sentence": "Med ändringarna genomförs artikel 6 och delvis artikel 7.1 i direktivet.",
+        "page": 223
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#7"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "2",
+        "paragraf": "16",
+        "sentence": "Med ändringarna genomförs artikel 6 och delvis artikel 7.1 i direktivet.",
+        "page": 223
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.2",
+          "8.3",
+          "8.4",
+          "8.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#8"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "2",
+        "paragraf": "16 e",
+        "sentence": "Med bestämmelserna genomförs artikel 8.2 – 8.4 och 8.7 i direktivet.",
+        "page": 224
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#23"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "3",
+        "paragraf": "27",
+        "sfs": "S2",
+        "sentence": "Med bestämmelserna i andra stycket genomförs artikel 23 i direktivet.",
+        "page": 226
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "18",
+          "20"
+        ],
+        "pinpoints": [
+          "18",
+          "20"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#18",
+          "https://lagen.nu/ext/celex/32019L0790#20"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "3",
+        "paragraf": "29",
+        "sentence": "Med ändringarna i paragrafen genomförs artiklarna 18 och 20 i direktivet.",
+        "page": 226
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#19"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "3",
+        "paragraf": "29 a",
+        "sentence": "Med paragrafen genomförs delvis artikel 19 i direktivet.",
+        "page": 230
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#19"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "3",
+        "paragraf": "29 b",
+        "sentence": "Med paragrafen genomförs delvis artikel 19 i direktivet.",
+        "page": 234
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#22"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "3",
+        "paragraf": "29 d",
+        "sentence": "Med paragrafen genomförs delvis artikel 22 i direktivet.",
+        "page": 235
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#22"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "3",
+        "paragraf": "29 e",
+        "sentence": "Med paragrafen genomförs delvis artikel 22 i direktivet.",
+        "page": 237
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#8"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "3 a",
+        "paragraf": "42 a",
+        "sentence": "Med ändringarna i paragrafen genomförs delvis artikel 8.1 i direktivet.",
+        "page": 238
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1",
+          "8.4",
+          "8.5",
+          "8.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#8"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "3 a",
+        "paragraf": "42 i",
+        "sentence": "Med bestämmelserna genomförs artikel 8.1 och 8.4 – 8.6 i direktivet.",
+        "page": 240
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#8"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "3 a",
+        "paragraf": "42 j",
+        "sentence": "Med paragrafen genomförs artikel 8.7 i direktivet.",
+        "page": 242
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "15"
+        ],
+        "pinpoints": [
+          "15"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#15"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "5",
+        "paragraf": "48 b",
+        "sentence": "Med paragrafen genomförs artikel 15 i direktivet.",
+        "page": 245
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#2"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "5",
+        "paragraf": "48 c",
+        "sentence": "Med paragrafen genomförs artikel 2.4 i direktivet.",
+        "page": 248
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "15"
+        ],
+        "pinpoints": [
+          "15.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#15"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "5",
+        "paragraf": "48 d",
+        "sentence": "Med paragrafen genomförs artikel 15.5 i direktivet.",
+        "page": 248
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "14"
+        ],
+        "pinpoints": [
+          "14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#14"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "5",
+        "paragraf": "49 a",
+        "sfs": "S1",
+        "sentence": "Med ändringen i första stycket genomförs artikel 14 i direktivet.",
+        "page": 250
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#10"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6",
+        "paragraf": "49 c",
+        "sentence": "Med paragrafen genomförs delvis artikel 10.1 i direktivet.",
+        "page": 251
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#7"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 a",
+        "paragraf": "52 f",
+        "sfs": "S1",
+        "sentence": "Med ändringarna i första och tredje styckena genomförs artikel 7.2 i direktivet.",
+        "page": 252
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#7"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 a",
+        "paragraf": "52 f",
+        "sfs": "S3",
+        "sentence": "Med ändringarna i första och tredje styckena genomförs artikel 7.2 i direktivet.",
+        "page": 252
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#2"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 b",
+        "paragraf": "52 i",
+        "sentence": "Med paragrafen genomförs artikel 2.6 i direktivet.",
+        "page": 253
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.1",
+          "17.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#17"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 b",
+        "paragraf": "52 j",
+        "sentence": "Med paragrafen genomförs artikel 17.1 och 17.3 i direktivet.",
+        "page": 254
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#17"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 b",
+        "paragraf": "52 k",
+        "sentence": "Med paragrafen genomförs artikel 17.2 i direktivet.",
+        "page": 256
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.4",
+          "17.5",
+          "17.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#17"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 b",
+        "paragraf": "52 l",
+        "sentence": "Med paragrafen genomförs artikel 17.4, 17.5 och delvis 17.7 i direktivet.",
+        "page": 256
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#17"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 b",
+        "paragraf": "52 m",
+        "sentence": "Med paragrafen genomförs artikel 17.6 i direktivet.",
+        "page": 260
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#17"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 b",
+        "paragraf": "52 n",
+        "sentence": "Med paragrafen genomförs delvis artikel 17.8 i direktivet.",
+        "page": 260
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#17"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 b",
+        "paragraf": "52 o",
+        "sentence": "Med paragrafen genomförs delvis artikel 17.7.",
+        "page": 261
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.7",
+          "17.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#17"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 b",
+        "paragraf": "52 p",
+        "sentence": "Med paragrafen genomförs delvis artikel 17.7 och delvis artikel 17.9 i direktivet.",
+        "page": 264
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#17"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "6 b",
+        "paragraf": "52 q",
+        "sentence": "Med paragrafen genomförs delvis artikel 17.9.",
+        "page": 265
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "15"
+        ],
+        "pinpoints": [
+          "15.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#15"
+        ],
+        "partial": true,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "8",
+        "paragraf": "61",
+        "sentence": "Med ändringen i paragrafen genomförs delvis artikel 15.1.",
+        "page": 268
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#5"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "8",
+        "paragraf": "61 c",
+        "sentence": "Med paragrafen genomförs artikel 5.3 i direktivet.",
+        "page": 269
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#9"
+        ],
+        "partial": false,
+        "law": "19.1 Förslaget till lag om ändring i lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk",
+        "chapter": "8",
+        "paragraf": "61 d",
+        "sentence": "Med paragrafen genomförs artikel 9 i direktivet.",
+        "page": 269
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#12"
+        ],
+        "partial": false,
+        "law": "19.2 Förslaget till lag om ändring i lagen (2016:977) om kollektiv förvaltning av upphovsrätt",
+        "chapter": "1",
+        "paragraf": "3",
+        "sentence": "Med ändringarna i paragrafen genomförs artikel 12.4 i direktivet.",
+        "page": 271
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#12"
+        ],
+        "partial": false,
+        "law": "19.2 Förslaget till lag om ändring i lagen (2016:977) om kollektiv förvaltning av upphovsrätt",
+        "chapter": "10",
+        "paragraf": "2 a",
+        "sentence": "Med paragrafen genomförs artikel 12.3 i direktivet.",
+        "page": 271
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#13"
+        ],
+        "partial": true,
+        "law": "19.3 Förslaget till lag om ändring i lagen (2017:322) om medling i vissa upphovsrättstvister",
+        "chapter": null,
+        "paragraf": "1 a",
+        "sentence": "Med paragrafen genomförs delvis artikel 13 i direktivet.",
+        "page": 273
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#13"
+        ],
+        "partial": true,
+        "law": "19.3 Förslaget till lag om ändring i lagen (2017:322) om medling i vissa upphovsrättstvister",
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "Med ändringen i paragrafen genomförs delvis artikel 13 i direktivet.",
+        "page": 274
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0790",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0790#13"
+        ],
+        "partial": true,
+        "law": "19.3 Förslaget till lag om ändring i lagen (2017:322) om medling i vissa upphovsrättstvister",
+        "chapter": null,
+        "paragraf": "5",
+        "sentence": "Med ändringen i paragrafen genomförs delvis artikel 13 i direktivet.",
+        "page": 274
+      }
+    ]
+  }
+}

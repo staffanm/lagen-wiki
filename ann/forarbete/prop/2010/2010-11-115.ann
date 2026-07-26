@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2010-11-115": "04568b98d1678ec7d7ab0956dc5907b202b2574279f48fe7654061162307adbd",
+      "artifact:eurlex/32002L0058": "2273c30f89f4d2022cabccdfc0ec4d8b13b128f86b71a151152d349026590b15",
+      "artifact:eurlex/32009L0136": "683db753f8ce449a8585a632ac9cb10538ca67c2b9379555e19b074ae1874351"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32002L0058",
+      "https://lagen.nu/ext/celex/32009L0136"
+    ],
+    "proposition": "https://lagen.nu/prop/2010/11:115",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0058",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0058#2"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om ändring i lagen (2003:389) om elektronisk kommunikation",
+        "chapter": "1",
+        "paragraf": "7",
+        "sentence": "Definitionerna har motsvarigheter i artikel 2 i ramdirektivet, artikel 2 i tillträdesdirektivet, artikel 2 i direktivet om samhällsomfattande tjänster och artikel 2 i direktivet om integritet och elektronisk kommunikation.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0058",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0058#4"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om ändring i lagen (2003:389) om elektronisk kommunikation",
+        "chapter": "6",
+        "paragraf": "3",
+        "sentence": "Genom ändringarna, som har behandlats i avsnitt 9.3, genomförs artikel 4.1a i e-dataskyddsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0058",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.3",
+          "4.4 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0058#4"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om ändring i lagen (2003:389) om elektronisk kommunikation",
+        "chapter": "6",
+        "paragraf": "4 a",
+        "sentence": "Genom paragrafen, som är ny och har behandlats i avsnitt 9.3, genomförs artikel 4.3 och 4.4 första stycket i e-dataskyddsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0058",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.4 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0058#4"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om ändring i lagen (2003:389) om elektronisk kommunikation",
+        "chapter": "6",
+        "paragraf": "4 b",
+        "sentence": "Genom paragrafen, som är ny och behandlas i avsnitt 9.3, genomförs artikel 4.4 andra stycket i e-dataskyddsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0058",
+        "articles": [
+          "5"
+        ],
+        "pinpoints": [
+          "5.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0058#5"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om ändring i lagen (2003:389) om elektronisk kommunikation",
+        "chapter": "6",
+        "paragraf": "18",
+        "sentence": "Genom ändringen, som behandlas i avsnitt 9.4, genomförs artikel 5.3 i edataskyddsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32002L0058",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32002L0058#13"
+        ],
+        "partial": true,
+        "law": "15.2 Förslaget till lag om ändring i marknadsföringslagen (2008:486)",
+        "chapter": null,
+        "paragraf": "20 a",
+        "sentence": "Genom paragrafen genomförs artikel 13.4 i e-dataskyddsdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

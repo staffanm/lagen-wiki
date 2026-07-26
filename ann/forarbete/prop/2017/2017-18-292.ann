@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2017-18-292": "f78c8da301ae8a4f47a28c10b68ab660a5707834305348fbafc2f63cab676c55",
+      "artifact:eurlex/32013L0036": "5e88828bd5c7adb72df99dcd0c72503810e906944fe6bbb807464b393d5e8d85",
+      "artifact:eurlex/32017L2399": "dd9dff46347617ae243482f3bd8db645ed880720e0279bef6b4d5ab553360baa"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32013L0036",
+      "https://lagen.nu/ext/celex/32017L2399"
+    ],
+    "proposition": "https://lagen.nu/prop/2017/18:292",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32017L2399",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32017L2399#1"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i förmånsrättslagen (1970:979)",
+        "chapter": null,
+        "paragraf": "18",
+        "sentence": "Första stycket andra meningen – som är ny – genomför, tillsammans med 21 kap. 15 § 3 b LOR, artikel 1 i ändringsdirektivet.",
+        "page": 18
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32017L2399",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32017L2399#1"
+        ],
+        "partial": false,
+        "law": "8.3 Förslaget till lag om ändring i lagen (2015:1016) om resolution",
+        "chapter": "21",
+        "paragraf": "15",
+        "sentence": "Ändringen genomför, tillsammans med 18 § första stycket andra meningen FRL, artikel 1 i ändringsdirektivet.",
+        "page": 19
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2021-22-120": "46fe85ad14501f85fc8a7717d20e8359aebcc01d47f6fc791861e6d5d339243c",
+      "artifact:eurlex/32009L0081": "cd903bacfab3ae03d5fc4b16d08cb4e7de43df9647de24746e3a463f2545a268",
+      "artifact:eurlex/32014L0023": "314e0e317b7d3814e959a2a66cf9fc483b652492117aa6b28c1a8f9309dfc9fc",
+      "artifact:eurlex/32014L0024": "04e2fd6675e70aff8c1130c56cacb0177a18e5c1f6beb5754757e44144824ecf",
+      "artifact:eurlex/32014L0025": "ae4c54c17d81533917d25cc7d47410b68a6bcc1311e17c1f6db5bbd3af9f4258"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0081",
+      "https://lagen.nu/ext/celex/32014L0023",
+      "https://lagen.nu/ext/celex/32014L0024",
+      "https://lagen.nu/ext/celex/32014L0025"
+    ],
+    "proposition": "https://lagen.nu/prop/2021/22:120",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0024",
+        "articles": [
+          "57"
+        ],
+        "pinpoints": [
+          "57.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0024#57"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2016:1145) om offentlig upphandling",
+        "chapter": "13",
+        "paragraf": "1 a",
+        "sentence": "Paragrafen genomför tillsammans med 3 a § reglerna om tidsgränser i artikel 57.7 i LOU-direktivet.",
+        "page": 83
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0024",
+        "articles": [
+          "57"
+        ],
+        "pinpoints": [
+          "57.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0024#57"
+        ],
+        "partial": true,
+        "law": "13.1 Förslaget till lag om ändring i lagen (2016:1145) om offentlig upphandling",
+        "chapter": "13",
+        "paragraf": "3 a",
+        "sentence": "Paragrafen genomför tillsammans med 1 a § reglerna om tidsgränser i artikel 57.7 i LOU-direktivet.",
+        "page": 83
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0025",
+        "articles": [
+          "80"
+        ],
+        "pinpoints": [
+          "80.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0025#80"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (2016:1146) om upphandling inom försörjningssektorerna",
+        "chapter": "13",
+        "paragraf": "1 a",
+        "sentence": "Paragrafen genomför tillsammans med 4 a § reglerna om tidsgränser i artikel 80.1 i LUF-direktivet.",
+        "page": 90
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0025",
+        "articles": [
+          "80"
+        ],
+        "pinpoints": [
+          "80.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0025#80"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (2016:1146) om upphandling inom försörjningssektorerna",
+        "chapter": "13",
+        "paragraf": "4 a",
+        "sentence": "Paragrafen genomför tillsammans med 1 a § reglerna om tidsgränser i artikel 80.1 i LUF-direktivet.",
+        "page": 90
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0023",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38.10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0023#38"
+        ],
+        "partial": true,
+        "law": "13.3 Förslaget till lag om ändring i lagen (2016:1147) om upphandling av koncessioner",
+        "chapter": "11",
+        "paragraf": "1 a",
+        "sentence": "Paragrafen genomför tillsammans med 4 a § reglerna om tidsgränser i artikel 38.10 i LUK-direktivet.",
+        "page": 93
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0023",
+        "articles": [
+          "38"
+        ],
+        "pinpoints": [
+          "38.10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0023#38"
+        ],
+        "partial": true,
+        "law": "13.3 Förslaget till lag om ändring i lagen (2016:1147) om upphandling av koncessioner",
+        "chapter": "11",
+        "paragraf": "4 a",
+        "sentence": "Paragrafen genomför tillsammans med 1 a § reglerna om tidsgränser i artikel 38.10 i LUK-direktivet.",
+        "page": 93
+      }
+    ]
+  }
+}

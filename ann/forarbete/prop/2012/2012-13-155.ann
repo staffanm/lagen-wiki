@@ -1,0 +1,2991 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2012-13-155": "709cde14617ce51b334241c588fda67e381ec15c7382561648ecd0155687ed90",
+      "artifact:eurlex/32002L0014": "97ce6492ccac93075dfa55b3759c166a3c28fe8a421795fb37a8598166ee38a7",
+      "artifact:eurlex/32002L0087": "8ace4292fb2d39990c75f4e02396fc20b461ce810d83eff4eebd02380eec0812",
+      "artifact:eurlex/32004L0109": "3cc5c80ea404ebd9c7a3b9888f7d8e6f254a29633a20c19333081376b0c62faa",
+      "artifact:eurlex/32006L0073": "f767d4f9ca5d3a99d9310d6b11c4c8b55f7a1afff77e1fa6ea0804094183c4b2",
+      "artifact:eurlex/32009L0065": "9a1032db65fc4d428deecbdad6be4b6703a12a247788c50fc315ef381a7e551e",
+      "artifact:eurlex/32010L0043": "d97fa993928dfb8ac0b96f494e48713ad91c8581f3055bc71e91e951d4242fc7",
+      "artifact:eurlex/32010L0078": "f8518d92739acff611efd1dd1de475cd8944d864039f35f59fd90f6436909954",
+      "artifact:eurlex/32011L0061": "26a696b979b686710cdb8dd5510464047466e1773a524f97e3619dd3c0eeb3bc",
+      "artifact:eurlex/32011L0089": "17ce08e5bfc325b16ea7b685159ca21bbd73fab2f44738b03d5b7d5d6cb9e566",
+      "artifact:eurlex/32011L0096": "563f54f2448f8c41d60303743bf29f23c1c0776c20979d3168681b86bd67f802"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32002L0014",
+      "https://lagen.nu/ext/celex/32002L0087",
+      "https://lagen.nu/ext/celex/32004L0109",
+      "https://lagen.nu/ext/celex/32006L0073",
+      "https://lagen.nu/ext/celex/32009L0065",
+      "https://lagen.nu/ext/celex/32010L0043",
+      "https://lagen.nu/ext/celex/32010L0078",
+      "https://lagen.nu/ext/celex/32011L0061",
+      "https://lagen.nu/ext/celex/32011L0089",
+      "https://lagen.nu/ext/celex/32011L0096"
+    ],
+    "proposition": "https://lagen.nu/prop/2012/13:155",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1 a",
+          "4.1 k",
+          "4.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#4"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 4.1 a, 4.1 k och 4.1 aa i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "4",
+          "5"
+        ],
+        "pinpoints": [
+          "4.1 b",
+          "4.1 l",
+          "4.1 a",
+          "5.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#4",
+          "https://lagen.nu/ext/celex/32011L0061#5"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 4.1 b, 4.1 l, och 4.1 ab samt delvis artikel 5.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1 w"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#4"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 4.1 w i och bilaga I första punkten till AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1 p"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#4"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 4.1 p i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1 q"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#4"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 4.1 q i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1 r"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#4"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "7",
+        "sentence": "Paragraferna genomför delvis artikel 4.1 r.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1 r"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#4"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "8",
+        "sentence": "Paragraferna genomför delvis artikel 4.1 r.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "4",
+          "44"
+        ],
+        "pinpoints": [
+          "4.1 f",
+          "4.1 h",
+          "4.1 a",
+          "4.1 a",
+          "44 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#4",
+          "https://lagen.nu/ext/celex/32011L0061#44"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 4.1 f, 4.1 h, 4.1 al och 4.1 am samt artikel 44 första och tredje styckena i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1 g"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#4"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 4.1 g i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#4"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför delvis artikel 4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#2"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 2.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "2.3",
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#2",
+          "https://lagen.nu/ext/celex/32011L0061#3"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artiklarna 2.3 och 3.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "5",
+          "6"
+        ],
+        "pinpoints": [
+          "5.1",
+          "6.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#5",
+          "https://lagen.nu/ext/celex/32011L0061#6"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "1",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför artikel 5.1, delvis, och artikel 6.3 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.2",
+          "3.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#3"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "2",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 3.2 och 3.4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#3"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "2",
+        "paragraf": "2",
+        "sentence": "Paragrafen, som har utformats i enlighet med vad Lagrådet har anfört, genomför artikel 3.2 i AIFM-direktivet och anger de tröskelvärden som gäller för att registreringsförfarandet ska få tillämpas.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#3"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "2",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 3.3 a–3.3 c i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.3 d",
+          "3.3 e"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#3"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "2",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 3.3 d och 3.3 e i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.3 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#3"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "2",
+        "paragraf": "5",
+        "sentence": "Paragrafen, som genomför artikel 3.3 tredje stycket i AIFM-direktivet, erinrar om att undantagsreglerna i kapitlet endast gäller så länge de alternativa investeringsfonderna som AIF-förvaltaren förvaltar inte överstiger tröskelvärdena i 2 §.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "6",
+          "7"
+        ],
+        "pinpoints": [
+          "6.1",
+          "6.2",
+          "6.3",
+          "6.5 c",
+          "6.5 d",
+          "7.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#6",
+          "https://lagen.nu/ext/celex/32011L0061#7"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "3",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 6.1, 6.2, 6.3, 6.5 c, 6.5 d och artikel 7.1 samt bilaga I till AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.4",
+          "6.5 a",
+          "6.5 b",
+          "6.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#6"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "3",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 6.4, 6.5 a, 6.5 b och 6.6 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#8"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "3",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 8.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#8"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "3",
+        "paragraf": "4",
+        "sentence": "Paragrafen, som har utformats i enlighet med vad Lagrådet har anfört, genomför artikel 8.1 c i AIFM-direktivet, delvis.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.2",
+          "7.3",
+          "7.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#7"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "3",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 7.2–7.4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#8"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "3",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 8.2 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#8"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "3",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 8.3 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#8"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "3",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 8.5 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#8"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "3",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 8.4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#10"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "3",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 10 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "31"
+        ],
+        "pinpoints": [
+          "31.1 f",
+          "31.2 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#31"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "4",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 31.1 första stycket och 31.2 första stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "31"
+        ],
+        "pinpoints": [
+          "31.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#31"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "4",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 31.1 andra stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#36"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "4",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 36.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "31"
+        ],
+        "pinpoints": [
+          "31.2 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#31"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "4",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 31.2 andra stycket samt bilaga III till AIFMdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "31"
+        ],
+        "pinpoints": [
+          "31.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#31"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "4",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 31.3. i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "31"
+        ],
+        "pinpoints": [
+          "31.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#31"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "4",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 31.4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.1",
+          "33.4 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#33"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "5",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 33.1 och artikel 33.4 fjärde stycket i AIFMdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "32"
+        ],
+        "pinpoints": [
+          "32.1 f",
+          "32.4 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#32"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "5",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 32.1 första stycket och artikel 32.4 första stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "32"
+        ],
+        "pinpoints": [
+          "32.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#32"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "5",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 32.1 andra stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "36"
+        ],
+        "pinpoints": [
+          "36.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#36"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "5",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 36.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "32",
+          "33"
+        ],
+        "pinpoints": [
+          "32.5",
+          "32.9",
+          "33.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#32",
+          "https://lagen.nu/ext/celex/32011L0061#33"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "5",
+        "paragraf": "8",
+        "sentence": "Paragrafen, som är förenlig med artikel 45, genomför artiklarna 32.5, 32.9 och 33.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "42"
+        ],
+        "pinpoints": [
+          "42"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#42"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "5",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 42 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.1",
+          "33.2",
+          "33.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#33"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "6",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 33.1–33.3 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "33"
+        ],
+        "pinpoints": [
+          "33.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#33"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "6",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 33.4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "32"
+        ],
+        "pinpoints": [
+          "32.1 f",
+          "32.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#32"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "6",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 32.1 första stycket och 32.2 samt bilaga IV till AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "32"
+        ],
+        "pinpoints": [
+          "32.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#32"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "6",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 32.1 andra stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "32"
+        ],
+        "pinpoints": [
+          "32.3",
+          "32.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#32"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "6",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 32.3 och 32.4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "32",
+          "33"
+        ],
+        "pinpoints": [
+          "32.7",
+          "33.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#32",
+          "https://lagen.nu/ext/celex/32011L0061#33"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "6",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artiklarna 32.7 och 33.6 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "34"
+        ],
+        "pinpoints": [
+          "34.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#34"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "6",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 34.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.1",
+          "9.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#9"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "7",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 9.1 och 9.2 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.3",
+          "9.4",
+          "9.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#9"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "7",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 9.3, 9.4 och 9.6.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.5",
+          "9.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#9"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "7",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 9.5 och 9.8.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#9"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "7",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 9.7 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9.10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#9"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "7",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 9.10.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "12",
+          "18",
+          "21"
+        ],
+        "pinpoints": [
+          "12.1 a",
+          "18.1 f",
+          "21.10 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#12",
+          "https://lagen.nu/ext/celex/32011L0061#18",
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 12.1 a–c, e och f, artikel 18.1 första stycket samt delvis artikel 21.10 första stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#18"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 18.1 andra stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.1",
+          "16.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#16"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 16.1 och 16.2 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "15"
+        ],
+        "pinpoints": [
+          "15.1",
+          "15.2",
+          "15.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#15"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 15.1–15.3 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "15",
+          "25"
+        ],
+        "pinpoints": [
+          "15.4",
+          "25.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#15",
+          "https://lagen.nu/ext/celex/32011L0061#25"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 15.4 och delvis artikel 25.3 i AIFMdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "25"
+        ],
+        "pinpoints": [
+          "25.3",
+          "25.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#25"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 25.3 och 25.4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.1",
+          "19.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#19"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 19.1 och 19.2 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#19"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 19.3 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.4",
+          "19.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#19"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 19.4, delvis, och artikel 19.8.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#19"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 19.4 i AIFM-direktivet delvis.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.4",
+          "19.5",
+          "19.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#19"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 19.4 delvis samt artikel 19.5 och 19.6 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.1",
+          "20.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#20"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför delvis artikel 20.1 och 20.3 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#20"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför artikel 20.1 andra stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.1 c",
+          "20.1 d"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#20"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "16",
+        "sentence": "Paragrafen genomför artikel 20.1 c och 20.1 d i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#20"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "17",
+        "sentence": "Paragrafen genomför artikel 20.2 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.4",
+          "20.5",
+          "20.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#20"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "18",
+        "sentence": "Paragrafen genomför artikel 20.4–20.6 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "12",
+          "14"
+        ],
+        "pinpoints": [
+          "12.1",
+          "14.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#12",
+          "https://lagen.nu/ext/celex/32011L0061#14"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "19",
+        "sentence": "Paragrafen genomför delvis artikel 12.1 samt artikel 14.1 i AIFMdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "14"
+        ],
+        "pinpoints": [
+          "14.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#14"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "20",
+        "sentence": "Paragrafen genomför artikel 14.2 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "14"
+        ],
+        "pinpoints": [
+          "14.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#14"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "21",
+        "sentence": "Paragrafen genomför artikel 14.3 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#13"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "22",
+        "sentence": "Paragrafen genomför artikel 13.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.2 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#12"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "23",
+        "sentence": "Paragrafen genomför artikel 12.2 a i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#20"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "30",
+        "sfs": "S1",
+        "sentence": "Första stycket genomför delvis artikel 20.3 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#19"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "31",
+        "sentence": "Paragrafen genomför artikel 19.10 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 21.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.10 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 21.10 första och andra styckena i AIFMdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 21.2 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.3 f",
+          "21.5 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 21.3 första stycket och 21.5 a i AIFMdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.3 a",
+          "21.5 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 21.3 andra stycket och 21.5 b i AIFMdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.6 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 21.6 första stycket i AIFM-direktivet och anger de särskilda krav som gäller för förvaringsinstitut utanför EES.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.3 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 21.3 tredje stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 21.4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 21.7 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.8 a",
+          "21.8 b",
+          "21.10 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 21.8 a i, 21.8 b i och iii samt 21.10 tredje stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.8 a",
+          "21.8 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artikel 21.8 a ii och 21.8 b ii i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 21.9 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.11 a",
+          "21.11 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 21.11 andra stycket a–c och femte stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.11 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför artikel 21.11 andra stycket d i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.11 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "15",
+        "sentence": "Paragrafen genomför artikel 21.11 tredje stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.11 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "16",
+        "sentence": "Paragrafen genomför artikel 21.11 fjärde stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.12 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "17",
+        "sentence": "Paragrafen genomför artikel 21.12 första och andra styckena i AIFMdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.12 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "18",
+        "sentence": "Paragrafen genomför artikel 21.12 tredje stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.13 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "19",
+        "sentence": "Paragrafen genomför artikel 21.13 första stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.13 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "20",
+        "sentence": "Paragrafen genomför artikel 21.13 andra stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.14"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "21",
+        "sentence": "Paragrafen genomför artikel 21.14 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.15"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "23",
+        "sentence": "Paragrafen genomför artikel 21.15 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.16"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#21"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "9",
+        "paragraf": "24",
+        "sentence": "Paragrafen genomför artikel 21.16 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23.1",
+          "23.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#23"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "10",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 23.1 och 23.3 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#22"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "10",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 22.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22.2",
+          "22.3 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#22"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "10",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 22.2 a–22.2 d och 22.3 första stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22.2 e",
+          "22.2 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#22"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "10",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 22.2 e och 22.2 f i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "22"
+        ],
+        "pinpoints": [
+          "22.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#22"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "10",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 22.3 andra och tredje styckena i AIFMdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#23"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "10",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 23.2 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#23"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "10",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 23.4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "23"
+        ],
+        "pinpoints": [
+          "23.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#23"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "10",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 23.5 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26.1",
+          "26.5 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#26"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "11",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 26.1 och 26.5 första–tredje styckena i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26.5 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#26"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "11",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 26.5 fjärde stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "26"
+        ],
+        "pinpoints": [
+          "26.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#26"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "11",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 26.2 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "26",
+          "27"
+        ],
+        "pinpoints": [
+          "26.3",
+          "27.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#26",
+          "https://lagen.nu/ext/celex/32011L0061#27"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "11",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artiklarna 26.3 och 27.1 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.2",
+          "27.3",
+          "27.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#27"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "11",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 27.2–27.4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#27"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "11",
+        "paragraf": "6",
+        "sentence": "Paragrafen genomför artikel 27.5 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "26",
+          "28"
+        ],
+        "pinpoints": [
+          "26.4",
+          "28.1",
+          "28.2",
+          "28.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#26",
+          "https://lagen.nu/ext/celex/32011L0061#28"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "11",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artiklarna 26.4 och 28.1–28.3 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "28"
+        ],
+        "pinpoints": [
+          "28.4",
+          "28.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#28"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "11",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 28.4 och 28.5 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29.1 b",
+          "29.2",
+          "29.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#29"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "11",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 29.1 b, 29.2 och 29.3 a i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "29"
+        ],
+        "pinpoints": [
+          "29.1 a",
+          "29.3 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#29"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "11",
+        "paragraf": "10",
+        "sentence": "Paragrafen genomför artikel 29.1 a och 29.3 b i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "26",
+          "30"
+        ],
+        "pinpoints": [
+          "26.4",
+          "30"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#26",
+          "https://lagen.nu/ext/celex/32011L0061#30"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "11",
+        "paragraf": "11",
+        "sentence": "Paragrafen genomför artiklarna 26.4 och 30 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "44",
+          "45"
+        ],
+        "pinpoints": [
+          "44 f",
+          "45.1",
+          "45.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#44",
+          "https://lagen.nu/ext/celex/32011L0061#45"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artiklarna 44 fjärde stycket, 45.1 och 45.2 i AIFMdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "24"
+        ],
+        "pinpoints": [
+          "24.1",
+          "24.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#24"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "2",
+        "sentence": "Paragrafen genomför artikel 24.1 och 24.2 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "24"
+        ],
+        "pinpoints": [
+          "24.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#24"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 24.3 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "24"
+        ],
+        "pinpoints": [
+          "24.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#24"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 24.4 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "24"
+        ],
+        "pinpoints": [
+          "24.5 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#24"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför artikel 24.5 första stycket i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46.2 a",
+          "46.2 b",
+          "46.2 d",
+          "46.2 h"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#46"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "7",
+        "sentence": "Paragrafen genomför artikel 46.2 a, b, d och h i AIFM-direktivet och har utformats efter förebild av 10 kap. 3 § lagen om värdepappersfonder.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.9",
+          "19.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#19"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "8",
+        "sentence": "Paragrafen genomför artikel 19.9 och artikel 19.7 i AIFM-direktivet delvis.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46.2 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#46"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 46.2 c i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "50",
+          "53",
+          "54"
+        ],
+        "pinpoints": [
+          "50",
+          "53",
+          "54"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#50",
+          "https://lagen.nu/ext/celex/32011L0061#53",
+          "https://lagen.nu/ext/celex/32011L0061#54"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "10",
+        "sentence": "Paragraferna genomför artiklarna 50, 53 och 54 i AIFM-direktivet och har utformats efter förebild av 10 kap. 5 och 6 §§ lagen om värdepappersfonder.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "50",
+          "53",
+          "54"
+        ],
+        "pinpoints": [
+          "50",
+          "53",
+          "54"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#50",
+          "https://lagen.nu/ext/celex/32011L0061#53",
+          "https://lagen.nu/ext/celex/32011L0061#54"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "11",
+        "sentence": "Paragraferna genomför artiklarna 50, 53 och 54 i AIFM-direktivet och har utformats efter förebild av 10 kap. 5 och 6 §§ lagen om värdepappersfonder.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "52"
+        ],
+        "pinpoints": [
+          "52"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#52"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "12",
+        "sentence": "Paragrafen genomför artikel 52 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "55"
+        ],
+        "pinpoints": [
+          "55"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#55"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "13",
+        "paragraf": "13",
+        "sentence": "Paragrafen genomför artikel 55 i AIFM-direktivet och har utformats efter förebild av 10 kap. 5 a § lagen om värdepappersfonder.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "5",
+          "46",
+          "11"
+        ],
+        "pinpoints": [
+          "5.2",
+          "5.3",
+          "46.2 e",
+          "46.2 g",
+          "46.2 i",
+          "46.2 j",
+          "46.2 k",
+          "11 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#5",
+          "https://lagen.nu/ext/celex/32011L0061#46",
+          "https://lagen.nu/ext/celex/32011L0061#11"
+        ],
+        "partial": true,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "14",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 5.2 (delvis) och 5.3 (delvis), artikel 46.2 e, g, i, j och k samt artikel 11 c–f i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "46"
+        ],
+        "pinpoints": [
+          "46.2 i",
+          "46.2 k"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#46"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "14",
+        "paragraf": "3",
+        "sentence": "Paragrafen genomför artikel 46.2 i och 46.2 k i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11 a",
+          "11 b"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#11"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "14",
+        "paragraf": "4",
+        "sentence": "Paragrafen genomför artikel 11 a och b i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "5",
+          "46"
+        ],
+        "pinpoints": [
+          "5.2",
+          "5.3",
+          "46.2 e",
+          "46.2 g",
+          "46.2 i",
+          "46.2 j",
+          "46.2 k"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#5",
+          "https://lagen.nu/ext/celex/32011L0061#46"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "14",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför artikel 5.2 och 5.3 samt artikel 46.2 e, g, i, j, och k i AIFM-direktivet när det gäller AIF-förvaltare som är registrerade enligt 2 kap.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#48"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "14",
+        "paragraf": "11",
+        "sentence": "Paragraferna 11–13 §§ genomför tillsammans med 14 § artikel 48 i AIFM-direktivet och har utformats efter förebild av 12 kap. 7–9 §§ lagen om värdepappersfonder (prop. 2007/08:57 s. 99 f.).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#48"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "14",
+        "paragraf": "12",
+        "sentence": "Paragraferna 11–13 §§ genomför tillsammans med 14 § artikel 48 i AIFM-direktivet och har utformats efter förebild av 12 kap. 7–9 §§ lagen om värdepappersfonder (prop. 2007/08:57 s. 99 f.).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#48"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "14",
+        "paragraf": "13",
+        "sentence": "Paragraferna 11–13 §§ genomför tillsammans med 14 § artikel 48 i AIFM-direktivet och har utformats efter förebild av 12 kap. 7–9 §§ lagen om värdepappersfonder (prop. 2007/08:57 s. 99 f.).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#48"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "14",
+        "paragraf": "14",
+        "sentence": "Paragrafen genomför tillsammans med 10–13 §§ artikel 48 i AIFMdirektivet och har utformats efter förebild av 12 kap. 10 § lagen om värdepappersfonder.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "45"
+        ],
+        "pinpoints": [
+          "45.4",
+          "45.5",
+          "45.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#45"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "14",
+        "paragraf": "19",
+        "sentence": "Paragrafen genomför artikel 45.4–45.6 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "45"
+        ],
+        "pinpoints": [
+          "45.7",
+          "45.8"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#45"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "14",
+        "paragraf": "21",
+        "sentence": "Paragrafen genomför artikel 45.7 och 45.8 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#13"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "15",
+        "paragraf": "2",
+        "sfs": "S1N5",
+        "sentence": "Genom bemyndigandet i punkten 5 kan reglerna i bilagan genomföras i myndighetsföreskrifter.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "49"
+        ],
+        "pinpoints": [
+          "49"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#49"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "16",
+        "paragraf": "1",
+        "sentence": "Paragrafen genomför artikel 49 i AIFM-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "49"
+        ],
+        "pinpoints": [
+          "49"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#49"
+        ],
+        "partial": false,
+        "law": "20.1 Förslaget till lag om förvaltare av alternativa investeringsfonder",
+        "chapter": "16",
+        "paragraf": "2",
+        "sentence": "Paragrafen är förenlig med artiklarna 8.5 och 33.4 i AIFM-direktivet samt genomför artikel 49 i det direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0109",
+        "articles": [
+          "12",
+          "23"
+        ],
+        "pinpoints": [
+          "12.4",
+          "23.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0109#12",
+          "https://lagen.nu/ext/celex/32004L0109#23"
+        ],
+        "partial": false,
+        "law": "20.2.4 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
+        "chapter": "4",
+        "paragraf": "16",
+        "sentence": "I paragrafen, som genomför artiklarna 12.4 och 23.6 i öppenhetsdirektivet, har hänvisningen till investeringsfonder ersatts med hänvisningar till värdepappersfonder och specialfonder.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0065",
+        "articles": [
+          "56"
+        ],
+        "pinpoints": [
+          "56.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0065#56"
+        ],
+        "partial": false,
+        "law": "20.2.13 Förslaget till lag om ändring i lagen (2004:46) om investeringsfonder",
+        "chapter": "5",
+        "paragraf": "20",
+        "sentence": "Paragrafen genomför artikel 56.1 i UCITS-direktivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "6",
+          "43"
+        ],
+        "pinpoints": [
+          "6.8",
+          "43"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#6",
+          "https://lagen.nu/ext/celex/32011L0061#43"
+        ],
+        "partial": false,
+        "law": "20.2.17 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "8",
+        "paragraf": "21 a",
+        "sentence": "Paragrafen, som är ny, genomför artikel 6.8 andra meningen i AIFMdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0109",
+        "articles": [
+          "1",
+          "2"
+        ],
+        "pinpoints": [
+          "1.2",
+          "2.1 g"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0109#1",
+          "https://lagen.nu/ext/celex/32004L0109#2"
+        ],
+        "partial": false,
+        "law": "20.2.17 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "13",
+        "paragraf": "4",
+        "sentence": "Undantaget i punkten 1 motsvarar det undantag i öppenhetsdirektivet som gäller beträffande andelar i företag för kollektiva investeringar som inte är av sluten typ (se artikel 1.2).",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0109",
+        "articles": [
+          "1",
+          "2"
+        ],
+        "pinpoints": [
+          "1.2",
+          "2.1 g"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0109#1",
+          "https://lagen.nu/ext/celex/32004L0109#2"
+        ],
+        "partial": false,
+        "law": "20.2.17 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "16",
+        "paragraf": "3",
+        "sentence": "Undantaget i punkten 1 motsvarar det undantag i öppenhetsdirektivet som gäller beträffande andelar i företag för kollektiva investeringar som inte är av sluten typ (se artikel 1.2).",
+        "page": null
+      }
+    ]
+  }
+}

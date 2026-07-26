@@ -1,0 +1,757 @@
+{
+ "meta": {
+  "status": "golden",
+  "model": "claude subagents (opus/sonnet)",
+  "generated": "2026-07-23",
+  "inputs": {
+   "artifact:forarbete/prop/2025-26-303": "644a287453c502d509adef227d950f90b50744284c995ae078aadbe80cfd0fcc",
+   "artifact:eurlex/32022L2555": "aabb5afc8d7c1a7ba62ac218e3dd091284419dbfb527df7c1c7fc3bfbf944201",
+   "artifact:eurlex/32022L2557": "fcdf7bbd70583fded67d63c08ef551b830ba7d61c1e066e0e1dda16b4d4958bd"
+  }
+ },
+ "genomforande": {
+  "directives": [
+   "https://lagen.nu/ext/celex/32022L2555",
+   "https://lagen.nu/ext/celex/32022L2557"
+  ],
+  "proposition": "https://lagen.nu/prop/2025/26:303",
+  "edges": [
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "2"
+    ],
+    "pinpoints": [
+     "2.3",
+     "2.4",
+     "2.2",
+     "2.5"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#2"
+    ],
+    "partial": false,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "1",
+    "paragraf": "2",
+    "sentence": "Definitionen motsvarar definitionen i artikel 2.2 i CER-direktivet.",
+    "page": 205
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "1"
+    ],
+    "pinpoints": [
+     "1.2",
+     "1.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#1"
+    ],
+    "partial": false,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "1",
+    "paragraf": "3",
+    "sentence": "Paragrafen utgör ett sådant undantag från lagens tillämpningsområde som medges enligt artikel 1.2 och 1.3 i CER-direktivet.",
+    "page": 207
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "8"
+    ],
+    "pinpoints": [
+     "8"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#8"
+    ],
+    "partial": false,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "1",
+    "paragraf": "4",
+    "sentence": "Paragrafen utgör ett sådant undantag från lagens tillämpningsområde som medges enligt artikel 8 i CER-direktivet.",
+    "page": 207
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "1"
+    ],
+    "pinpoints": [
+     "1.6",
+     "1.7"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#1"
+    ],
+    "partial": false,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "1",
+    "paragraf": "5",
+    "sentence": "Paragrafen utgör ett sådant undantag från lagens tillämpningsområde som medges enligt artikel 1.6 och 1.7 i CER-direktivet.",
+    "page": 208
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "1"
+    ],
+    "pinpoints": [
+     "1.8"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#1"
+    ],
+    "partial": false,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "1",
+    "paragraf": "6",
+    "sentence": "Paragrafen utgör ett sådant undantag från lagens tillämpningsområde som medges enligt artikel 1.8 i CER-direktivet.",
+    "page": 209
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "2"
+    ],
+    "pinpoints": [
+     "2.10"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#2"
+    ],
+    "partial": false,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "1",
+    "paragraf": "7",
+    "sentence": "Paragrafen utgör ett sådant undantag från lagens tillämpningsområde som medges enligt artikel 2.10 i CER-direktivet.",
+    "page": 209
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "6"
+    ],
+    "pinpoints": [
+     "6.1",
+     "6.5"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#6"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "2",
+    "paragraf": "1",
+    "sentence": "Paragrafen genomför delvis artikel 6.1 och 6.5 i CER-direktivet.",
+    "page": 210
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "6"
+    ],
+    "pinpoints": [
+     "6.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#6"
+    ],
+    "partial": false,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "2",
+    "paragraf": "2",
+    "sentence": "Paragrafen genomför artikel 6.2 i CER-direktivet.",
+    "page": 210
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "6"
+    ],
+    "pinpoints": [
+     "6.5"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#6"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "2",
+    "paragraf": "3",
+    "sentence": "Paragrafen genomför delvis artikel 6.5 i CER-direktivet.",
+    "page": 212
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "17"
+    ],
+    "pinpoints": [
+     "17.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#17"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "3",
+    "paragraf": "1",
+    "sentence": "Paragrafen genomför delvis artikel 17.2 i CER-direktivet och innebär en skyldighet för vissa kritiska verksamhetsutövare att göra en anmälan.",
+    "page": 212
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "12"
+    ],
+    "pinpoints": [
+     "12"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#12"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "3",
+    "paragraf": "2",
+    "sentence": "Paragrafen genomför delvis artikel 12 i CER-direktivet och behandlar verksamhetsutövarens skyldighet att göra en riskbedömning som ska uppdateras.",
+    "page": 213
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "13"
+    ],
+    "pinpoints": [
+     "13.1",
+     "13.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#13"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "3",
+    "paragraf": "3",
+    "sentence": "Paragrafen genomför delvis artikel 13.1 och 13.2 i CER-direktivet.",
+    "page": 214
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "13",
+     "14"
+    ],
+    "pinpoints": [
+     "13.1",
+     "14.1",
+     "14.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#13",
+     "https://lagen.nu/ext/celex/32022L2557#14"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "3",
+    "paragraf": "4",
+    "sentence": "Paragrafen genomför delvis artiklarna 13.1, 14.1 och 14.2 i CERdirektivet och behandlar skyldigheten för kritiska verksamhetsutövare att göra en befattningsanalys som ska dokumenteras och uppdateras.",
+    "page": 216
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "14"
+    ],
+    "pinpoints": [
+     "14.1",
+     "14.2",
+     "14.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#14"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "3",
+    "paragraf": "5",
+    "sentence": "Paragrafen genomför delvis artikel 14.1–14.3 i CER-direktivet.",
+    "page": 217
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "14"
+    ],
+    "pinpoints": [
+     "14.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#14"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "3",
+    "paragraf": "6",
+    "sentence": "Paragrafen genomför delvis artikel 14.3 i CER-direktivet och anger registerkontrollens innehåll och omfattning.",
+    "page": 218
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "13"
+    ],
+    "pinpoints": [
+     "13.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#13"
+    ],
+    "partial": false,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "3",
+    "paragraf": "8",
+    "sentence": "Paragrafen genomför artikel 13.3 i CER-direktivet.",
+    "page": 219
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "15"
+    ],
+    "pinpoints": [
+     "15.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#15"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "3",
+    "paragraf": "9",
+    "sentence": "Paragrafen genomför delvis artikel 15.1 i CER-direktivet och reglerar kritiska verksamhetsutövares skyldighet att rapportera vissa incidenter.",
+    "page": 219
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "6",
+     "12"
+    ],
+    "pinpoints": [
+     "6.3",
+     "12"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#6",
+     "https://lagen.nu/ext/celex/32022L2557#12"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "3",
+    "paragraf": "10",
+    "sentence": "Paragrafen genomför delvis artiklarna 6.3 och 12 i CER-direktivet.",
+    "page": 220
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "18",
+     "19"
+    ],
+    "pinpoints": [
+     "18.5",
+     "19.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#18",
+     "https://lagen.nu/ext/celex/32022L2557#19"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "3",
+    "paragraf": "11",
+    "sentence": "Paragrafen genomför delvis artikel 18.5 samt artikel 19.2 i CERdirektivet.",
+    "page": 220
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "9"
+    ],
+    "pinpoints": [
+     "9.1"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#9"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "4",
+    "paragraf": "1",
+    "sentence": "Paragrafen genomför delvis artikel 9.1 i CER-direktivet.",
+    "page": 221
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "9",
+     "18"
+    ],
+    "pinpoints": [
+     "9.1",
+     "18"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#9",
+     "https://lagen.nu/ext/celex/32022L2557#18"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "4",
+    "paragraf": "2",
+    "sentence": "Paragrafen genomför delvis artiklarna 9.1 och 18 i CER-direktivet.",
+    "page": 221
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "21"
+    ],
+    "pinpoints": [
+     "21.1",
+     "21.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#21"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "4",
+    "paragraf": "3",
+    "sentence": "Paragrafen genomför delvis artikel 21.1 samt artikel 21.2 i CERdirektivet.",
+    "page": 222
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "21"
+    ],
+    "pinpoints": [
+     "21.1",
+     "21.4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#21"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "4",
+    "paragraf": "4",
+    "sentence": "Paragrafen, som genomför delvis artikel 21.1 och 21.4 i CER-direktivet, reglerar en tillsynsmyndighets rätt att få tillträde till områden, lokaler och andra utrymmen i den utsträckning det behövs för att den ska kunna utöva tillsyn.",
+    "page": 222
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "21"
+    ],
+    "pinpoints": [
+     "21.1",
+     "21.2",
+     "21.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#21"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "4",
+    "paragraf": "5",
+    "sentence": "Paragrafen, som genomför delvis artikel 21.1–21.3 i CER-direktivet, reglerar tillsynsmyndighetens möjlighet att fatta beslut om att förelägga den som står under tillsyn att tillhandahålla uppgifter eller handlingar enligt 3 § och ge tillträde enligt 4 §.",
+    "page": 222
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "21"
+    ],
+    "pinpoints": [
+     "21.1",
+     "21.2"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#21"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "4",
+    "paragraf": "6",
+    "sentence": "Paragrafen, som genomför delvis artikel 21.1 och 21.2 i CER-direktivet, reglerar tillsynsmyndighetens möjlighet att begära handräckning av Kronofogdemyndigheten.",
+    "page": 223
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "21",
+     "22"
+    ],
+    "pinpoints": [
+     "21.3",
+     "21.4",
+     "22"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#21",
+     "https://lagen.nu/ext/celex/32022L2557#22"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "5",
+    "paragraf": "1",
+    "sentence": "Paragrafen genomför delvis artiklarna 21.3, 21.4 och 22 i CER-direktivet.",
+    "page": 223
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "21"
+    ],
+    "pinpoints": [
+     "21.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#21"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "5",
+    "paragraf": "2",
+    "sentence": "Paragrafen genomför delvis artikel 21.3 i CER-direktivet.",
+    "page": 224
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "22"
+    ],
+    "pinpoints": [
+     "22"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#22"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "5",
+    "paragraf": "3",
+    "sentence": "Paragrafen genomför delvis artikel 22 i CER-direktivet.",
+    "page": 224
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "22"
+    ],
+    "pinpoints": [
+     "22"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#22"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "5",
+    "paragraf": "4",
+    "sentence": "Paragrafen genomför delvis artikel 22 i CER-direktivet.",
+    "page": 224
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "22"
+    ],
+    "pinpoints": [
+     "22"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#22"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "5",
+    "paragraf": "5",
+    "sentence": "Paragrafen genomför delvis artikel 22 i CER-direktivet.",
+    "page": 225
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "22"
+    ],
+    "pinpoints": [
+     "22"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#22"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "5",
+    "paragraf": "6",
+    "sentence": "Paragrafen genomför delvis artikel 22 i CER-direktivet.",
+    "page": 225
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "22"
+    ],
+    "pinpoints": [
+     "22"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#22"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "5",
+    "paragraf": "7",
+    "sentence": "Paragrafen genomför delvis artikel 22 i CER-direktivet.",
+    "page": 225
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "21"
+    ],
+    "pinpoints": [
+     "21.4"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#21"
+    ],
+    "partial": true,
+    "law": "17.1 Förslaget till lag om motståndskraft hos kritiska verksamhetsutövare",
+    "chapter": "6",
+    "paragraf": "1",
+    "sentence": "Paragrafen, som genomför delvis artikel 21.4 i CER-direktivet, reglerar överklagande av beslut enligt lagen.",
+    "page": 226
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "14"
+    ],
+    "pinpoints": [
+     "14.2",
+     "14.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#14"
+    ],
+    "partial": true,
+    "law": "17.2 Förslaget till lag om ändring i lagen (1998:620) om belastningsregister",
+    "chapter": null,
+    "paragraf": "9",
+    "sentence": "Ändringen i paragrafens andra stycke genomför delvis artikel 14.2 och 14.3 i Europaparlamentets och rådets direktiv (EU) 2022/2557 av den 14 december 2022 om kritiska entiteters motståndskraft och om upphävande av rådets direktiv 2008/114/EG (här benämnt CER-direktivet).",
+    "page": 227
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2557",
+    "articles": [
+     "14"
+    ],
+    "pinpoints": [
+     "14.2",
+     "14.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2557#14"
+    ],
+    "partial": true,
+    "law": "17.2 Förslaget till lag om ändring i lagen (1998:620) om belastningsregister",
+    "chapter": null,
+    "paragraf": "12 a",
+    "sentence": "Ändringen i paragrafen genomför delvis artikel 14.2 och 14.3 i CERdirektivet.",
+    "page": 227
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "2"
+    ],
+    "pinpoints": [
+     "2.3"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#2"
+    ],
+    "partial": false,
+    "law": "17.5 Förslaget till lag om ändring i cybersäkerhetslagen (2025:1506)",
+    "chapter": "1",
+    "paragraf": "8 a",
+    "sentence": "Paragrafen, som är ny, genomför artikel 2.3 i NIS 2-direktivet.",
+    "page": 230
+   },
+   {
+    "predicate": "rpubl:genomforDirektiv",
+    "directive": "https://lagen.nu/ext/celex/32022L2555",
+    "articles": [
+     "3"
+    ],
+    "pinpoints": [
+     "3.1 f"
+    ],
+    "uris": [
+     "https://lagen.nu/ext/celex/32022L2555#3"
+    ],
+    "partial": false,
+    "law": "17.5 Förslaget till lag om ändring i cybersäkerhetslagen (2025:1506)",
+    "chapter": "1",
+    "paragraf": "9",
+    "sentence": "Ändringen i paragrafen genomför artikel 3.1 f i NIS 2-direktivet.",
+    "page": 230
+   }
+  ]
+ }
+}

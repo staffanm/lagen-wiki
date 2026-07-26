@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2006-07-112": "e98908c7dd58b127e48e5c2b5ba5847db8893f1e7fc6ac3b1c2aa8670ebc9132",
+      "artifact:eurlex/32004L0025": "8764ff884967231cb7cb78a128d0b6f7e42b64ec459b24c25358ab84ca7b38cf"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32004L0025"
+    ],
+    "proposition": "https://lagen.nu/prop/2006/07:112",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0025",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0025#10"
+        ],
+        "partial": false,
+        "law": "8.3 Förslaget till lag om ändring i årsredovisningslagen (1995:1554)",
+        "chapter": "7",
+        "paragraf": "32",
+        "sentence": "Bestämmelsen går i huvudsak tillbaka på artikel 10 i Europaparlamentets och rådets direktiv 2004/25/EG av den 21 april 2004 om uppköpserbjudanden.",
+        "page": 34
+      }
+    ]
+  }
+}

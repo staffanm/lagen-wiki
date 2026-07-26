@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2016-17-157": "58798623bd7bf0496a43fffa3f07f3cedcc804cf69ccb33f5f559bdc72179657",
+      "artifact:eurlex/32009L0071": "5f3871d619f33ef7bb72a85ee6705eccbbf4e0e8a6db04f36513a7e33348cc5b"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0071"
+    ],
+    "proposition": "https://lagen.nu/prop/2016/17:157",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0071",
+        "articles": [
+          "4"
+        ],
+        "pinpoints": [
+          "4.1 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0071#4"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om ändring i lagen (1984:3) om kärnteknisk verksamhet",
+        "chapter": null,
+        "paragraf": "5",
+        "sentence": "Det innebär inte någon ändring i sak men den nya formuleringen stämmer bättre överens med direktivet (artikel 4.1 c).",
+        "page": 36
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0071",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6 a",
+          "6 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0071#6"
+        ],
+        "partial": true,
+        "law": "15.1 Förslaget till lag om ändring i lagen (1984:3) om kärnteknisk verksamhet",
+        "chapter": null,
+        "paragraf": "10",
+        "sentence": "Bestämmelserna genomför delvis artikel 6 c och delvis artikel 8e punkten 2 i kärnsäkerhetsdirektivet.",
+        "page": 36
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0071",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6 f"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0071#6"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om ändring i lagen (1984:3) om kärnteknisk verksamhet",
+        "chapter": null,
+        "paragraf": "13",
+        "sentence": "Detta motsvarar artikel 6 f i kärnsäkerhetsdirektivet.",
+        "page": 38
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0071",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1",
+          "8.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0071#8"
+        ],
+        "partial": false,
+        "law": "15.1 Förslaget till lag om ändring i lagen (1984:3) om kärnteknisk verksamhet",
+        "chapter": null,
+        "paragraf": "19",
+        "sentence": "I första stycket föreslås att det införs en ny bestämmelse i andra punkten som motsvarar artikel 8.1 (a och första ledet i b) och 8.2 i kärnsäkerhetsdirektivet och syftar till ökad öppenhet och transparens.",
+        "page": 39
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2020-21-20": "4ad35ccbfbba8d2e704fd5864d27210967c92a09dcffdf428bffa8c89edca239",
+      "artifact:eurlex/32006L0112": "1ba89d4265e23bc76aea1d4f3dfa41b25030edbd959c44a0caf3e7781ddb3669"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32006L0112"
+    ],
+    "proposition": "https://lagen.nu/prop/2020/21:20",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "199",
+          "1"
+        ],
+        "pinpoints": [
+          "199 a",
+          "1 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#199",
+          "https://lagen.nu/ext/celex/32006L0112#1"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "1",
+        "paragraf": "2",
+        "sentence": "Villkoren införs med stöd av artikel 199a.1a i mervärdesskattedirektivet.",
+        "page": 50
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "199",
+          "1"
+        ],
+        "pinpoints": [
+          "199 a",
+          "1 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#199",
+          "https://lagen.nu/ext/celex/32006L0112#1"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "1",
+        "paragraf": "2",
+        "sentence": "Bestämmelsen införs med stöd av artikel 199a.1 c i mervärdesskattedirektivet.",
+        "page": 50
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "199",
+          "1"
+        ],
+        "pinpoints": [
+          "199 a",
+          "1 d"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#199",
+          "https://lagen.nu/ext/celex/32006L0112#1"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "1",
+        "paragraf": "2",
+        "sentence": "Bestämmelsen införs med stöd av artikel 199a.1 d i mervärdesskattedirektivet.",
+        "page": 50
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32006L0112",
+        "articles": [
+          "199",
+          "1"
+        ],
+        "pinpoints": [
+          "199 a",
+          "1 h"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32006L0112#199",
+          "https://lagen.nu/ext/celex/32006L0112#1"
+        ],
+        "partial": false,
+        "law": "8.1 Förslaget till lag om ändring i mervärdesskattelagen (1994:200)",
+        "chapter": "1",
+        "paragraf": "2",
+        "sentence": "Bestämmelsen införs med stöd av artikel 199a.1 h i mervärdesskattedirektivet.",
+        "page": 50
+      }
+    ]
+  }
+}

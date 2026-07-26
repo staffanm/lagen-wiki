@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2014-15-118": "22db7259260cd612972ee1ae5047c34b4235253b22f1a05c68f76defec1fc76d",
+      "artifact:eurlex/32010L0013": "eab05b030f0fd7c48e48797e708c8fcf7c4796d77eea62d2686e8bd1922c3d1e"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32010L0013"
+    ],
+    "proposition": "https://lagen.nu/prop/2014/15:118",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0013",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0013#3"
+        ],
+        "partial": true,
+        "law": "11.3 Förslaget till lag om ändring i radio- och tvlagen (2010:696)",
+        "chapter": "5",
+        "paragraf": "13",
+        "sentence": "Den nya paragrafen avser att genomföra art 3.1 i AV-direktivet när det gäller tjänster som inte omfattas av YGL.",
+        "page": 44
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32010L0013",
+        "articles": [
+          "11"
+        ],
+        "pinpoints": [
+          "11.3 t"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32010L0013#11"
+        ],
+        "partial": true,
+        "law": "11.3 Förslaget till lag om ändring i radio- och tvlagen (2010:696)",
+        "chapter": "6",
+        "paragraf": "3",
+        "sentence": "Bestämmelsen i det nya stycket avser att förtydliga genomförandet av artikel 11.3 tredje meningen led a i AV-direktivet.",
+        "page": 45
+      }
+    ]
+  }
+}

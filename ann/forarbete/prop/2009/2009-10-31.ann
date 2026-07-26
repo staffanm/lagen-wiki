@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2009-10-31": "b7f41113126811d1e6df3408332fcd84a5c16fce3d9cb73a8398faa59b5b9efd",
+      "artifact:eurlex/32004L0038": "96279c9c2d821b667a4267296d05a36b4f23e156ad653b9715f763704de834ce",
+      "artifact:eurlex/32004L0083": "dc5c802849e9cb32daa5b97aefad33159f8290a7b6cc8945bd37bafc02d1ed11",
+      "artifact:eurlex/32005L0085": "0a12adfa7cf6ddeaf58ee5abada2b1c8acee2d0c26590ed8ab9b4e6ba680ebe3"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32004L0038",
+      "https://lagen.nu/ext/celex/32004L0083",
+      "https://lagen.nu/ext/celex/32005L0085"
+    ],
+    "proposition": "https://lagen.nu/prop/2009/10:31",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0083",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0083#17"
+        ],
+        "partial": false,
+        "law": "11.1 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "4",
+        "paragraf": "2 c",
+        "sentence": "Paragrafen motsvarar artikel 17.1 i skyddsgrundsdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

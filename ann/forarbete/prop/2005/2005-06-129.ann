@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2005-06-129": "d3afa4f31c59f798f33692fa73c799e59be7d6c980f946953ccbd59e87452bd9",
+      "artifact:eurlex/32004L0082": "253a09629101c4415a9ea49b6f328e3a831d7d33b274019e7554e2891506ba12"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32004L0082"
+    ],
+    "proposition": "https://lagen.nu/prop/2005/06:129",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0082",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0082#3"
+        ],
+        "partial": true,
+        "law": "8.1 Förslaget till lag om passagerarregister",
+        "chapter": null,
+        "paragraf": "5",
+        "sentence": "De uppgifter som anges i paragrafen samt i 9 kap. 3 a § utlänningslagen motsvarar de uppgifter som anges i artikel 3.2 i direktiv 2004/82/EG.",
+        "page": 79
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0082",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0082#2"
+        ],
+        "partial": false,
+        "law": "8.5 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "9",
+        "paragraf": "3 a",
+        "sentence": "Med transportör avses enligt artikel 2 i direktiv 2004/82/EG ”varje fysisk eller juridisk person som bedriver yrkesmässig persontrafik luftvägen” (jfr även artikel 1 i Schengenkonventionen).",
+        "page": 82
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0082",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0082#3"
+        ],
+        "partial": false,
+        "law": "8.5 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "9",
+        "paragraf": "3 a",
+        "sentence": "Att transportörerna skall vara skyldiga att föra över uppgifter på begäran av de myndigheter som ansvarar för personkontrollen vid de yttre gränserna följer av artikel 3.1 i direktiv 2004/82/EG.",
+        "page": 82
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32004L0082",
+        "articles": [
+          "6"
+        ],
+        "pinpoints": [
+          "6.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32004L0082#6"
+        ],
+        "partial": false,
+        "law": "8.5 Förslaget till lag om ändring i utlänningslagen (2005:716)",
+        "chapter": "9",
+        "paragraf": "3 a",
+        "sentence": "De uppgifter som anges i andra stycket motsvarar de som anges i artikel 6.2 i direktiv 2004/82/EG.",
+        "page": 82
+      }
+    ]
+  }
+}

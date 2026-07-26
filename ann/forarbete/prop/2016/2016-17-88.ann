@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2016-17-88": "6955dc5ad8a39b7b005bc3c9e2e5a0fea1744d82c6502b217e3e9d60432ea976",
+      "artifact:eurlex/32015L0566": "290a1585d8b30a93d7d3787835ba3fe3147f1287fb62717b2219cf2a23fa9e62"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32015L0566"
+    ],
+    "proposition": "https://lagen.nu/prop/2016/17:88",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L0566",
+        "articles": [
+          "1",
+          "2"
+        ],
+        "pinpoints": [
+          "1.1 b",
+          "1.2",
+          "2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L0566#1",
+          "https://lagen.nu/ext/celex/32015L0566#2"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Tilläggen har sin grund i artiklarna 1.1 b, 1.2 och 2 i importdirektivet.",
+        "page": 55
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L0566",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.1",
+          "7.2"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L0566#7"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "13 a",
+        "sentence": "Bestämmelsen har sin grund i artikel 7.1 och 7.2.",
+        "page": 56
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L0566",
+        "articles": [
+          "1"
+        ],
+        "pinpoints": [
+          "1.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L0566#1"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "14 a",
+        "sentence": "Bestämmelsen har sin grund i artikel 1.3 i importdirektivet samt artikel 9.3 i vävnadsdirektivet.",
+        "page": 56
+      }
+    ]
+  }
+}

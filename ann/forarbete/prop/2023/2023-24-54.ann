@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2023-24-54": "3f9da92be71e0cbd5241b516bbe9b5a3c2da0af765a65fd9ba598bb04d000e40",
+      "artifact:eurlex/32014L0040": "59f7cf0894f410eea76b3c1a41253dfd34bda7a40387f154a3b8bfd1d9ded28f"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32014L0040"
+    ],
+    "proposition": "https://lagen.nu/prop/2023/24:54",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0040",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.1",
+          "7.7",
+          "7.12"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0040#7"
+        ],
+        "partial": false,
+        "law": "Förslaget till lag om ändring i lagen (2018:2088) om tobak och liknande produkter",
+        "chapter": "2",
+        "paragraf": "1",
+        "sentence": "Enligt artikel 7.1 i tobaksproduktdirektivet ska medlemsstaterna förbjuda att tobaksvaror med en karakteristisk smak släpps ut på marknaden. Enligt artikel 7.7 ska medlemsstaterna förbjuda utsläppande på marknaden av tobaksvaror som innehåller smaktillsatser i någon av dess delar, såsom filter, papper, förpackningar, kapslar eller eventuella tekniska detaljer som möjliggör ändring av tobaksvarornas doft eller smak eller rökintensitet. Enligt artikel 7.12 gäller dessa förbud enbart cigaretter och rulltobak.",
+        "page": 31
+      }
+    ]
+  }
+}

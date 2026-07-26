@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2025-26-26": "b75d8b4c5c8543b68f473bce86a35c30ed4c760b4ae083da7a0a00aebef8bad4",
+      "artifact:eurlex/32019L0944": "ab8f3e415ff78f6df29effc3a00fb2535c67d8c4131afbb32657983ce783be5b",
+      "artifact:eurlex/32024L1788": "68f3812aeaefe3ca395c352b95a62b6e73898080d17312a34ecd5a4ced097358"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32019L0944",
+      "https://lagen.nu/ext/celex/32024L1788"
+    ],
+    "proposition": "https://lagen.nu/prop/2025/26:26",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32019L0944",
+        "articles": [
+          "59"
+        ],
+        "pinpoints": [
+          "59.7 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32019L0944#59"
+        ],
+        "partial": false,
+        "law": "17.1 Förslaget till lag om ändring i ellagen (1997:857)",
+        "chapter": "5",
+        "paragraf": "9",
+        "sentence": "Paragrafen genomför regleringen i fråga om investeringar i artikel 59.7 a i elmarknadsdirektivet.",
+        "page": 107
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32024L1788",
+        "articles": [
+          "78"
+        ],
+        "pinpoints": [
+          "78.7 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32024L1788#78"
+        ],
+        "partial": false,
+        "law": "17.2 Förslaget till lag om ändring i naturgaslagen (2005:403)",
+        "chapter": "6",
+        "paragraf": "5",
+        "sentence": "Paragrafen genomför regleringen i fråga om investeringar i artikel 78.7 a i gasmarknadsdirektivet.",
+        "page": 129
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32024L1788",
+        "articles": [
+          "78"
+        ],
+        "pinpoints": [
+          "78.7 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32024L1788#78"
+        ],
+        "partial": false,
+        "law": "17.2 Förslaget till lag om ändring i naturgaslagen (2005:403)",
+        "chapter": "7",
+        "paragraf": "5 b",
+        "sentence": "Regleringen ändras på så sätt att kraven för godkännande justeras, så att de svarar mot de krav som gäller enligt artikel 78.7 c i gasmarknadsdirektivet.",
+        "page": 137
+      }
+    ]
+  }
+}

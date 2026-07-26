@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2011-12-74": "f173c936ddfe0dd1ccdedb059f5ae6ab6fd37c718ddb971fd10fe84901dbd46e",
+      "artifact:eurlex/32001L0083": "65aab17294c4cd599574be85af2ebd9354fbb25c7919cf108660ed12157d5900",
+      "artifact:eurlex/32010L0084": "b73b4b17fb24da854c9501ded1433ea6f33d529de44a3f6fdc6eab805f9af597",
+      "artifact:eurlex/32011L0062": "afe82dabb3da034a4b29121f09061fdcccc53c3b703d7cbdc0c5ad76ea150769"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32001L0083",
+      "https://lagen.nu/ext/celex/32010L0084",
+      "https://lagen.nu/ext/celex/32011L0062"
+    ],
+    "proposition": "https://lagen.nu/prop/2011/12:74",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0083",
+        "articles": [
+          "63"
+        ],
+        "pinpoints": [
+          "63.3"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0083#63"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "4",
+        "sentence": "Med anledning av att artikel 63.3 i direktiv 2001/83/EG föreskriver om undantag från krav på märkning görs samtidigt ett tillägg om att bemyndigandet även avser att meddela föreskrifter om undantag från kravet på tydlig märkning.",
+        "page": 71
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0083",
+        "articles": [
+          "24"
+        ],
+        "pinpoints": [
+          "24"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0083#24"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "8 e",
+        "sentence": "I paragrafen finns bestämmelser om tidsramarna för giltigheten av ett godkännande och utgör ett genomförande av artikel 24 i direktiv 2001/83/EG.",
+        "page": 72
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0083",
+        "articles": [
+          "107"
+        ],
+        "pinpoints": [
+          "107 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0083#107"
+        ],
+        "partial": true,
+        "law": null,
+        "chapter": null,
+        "paragraf": "9",
+        "sentence": "Genom tillägget genomförs delar av artikel 107a i dess lydelse enligt direktiv 2010/84/EU.",
+        "page": 72
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0083",
+        "articles": [
+          "101"
+        ],
+        "pinpoints": [
+          "101.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0083#101"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "9",
+        "sentence": "Ändringen är ett genomförande av artikel 101.1. i dess lydelse enligt direktiv 2010/84/EU.",
+        "page": 72
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0083",
+        "articles": [
+          "104",
+          "107"
+        ],
+        "pinpoints": [
+          "104",
+          "107"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0083#104",
+          "https://lagen.nu/ext/celex/32001L0083#107"
+        ],
+        "partial": true,
+        "law": null,
+        "chapter": null,
+        "paragraf": "9 a",
+        "sentence": "Bestämmelsen genomför delar av artiklarna 104 och 107 i dess lydelse enligt direktiv 2010/84/EU.",
+        "page": 73
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0083",
+        "articles": [
+          "104"
+        ],
+        "pinpoints": [
+          "104.3 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0083#104"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "9 b",
+        "sentence": "Ändringen är ett genomförande av artikel 104.3 andra stycket i dess lydelse enligt direktiv 2010/84/EU.",
+        "page": 73
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0083",
+        "articles": [
+          "106"
+        ],
+        "pinpoints": [
+          "106 a"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0083#106"
+        ],
+        "partial": true,
+        "law": null,
+        "chapter": null,
+        "paragraf": "9 c",
+        "sentence": "Ändringen är ett genomförande av delar av artikel 106a i dess lydelse till följd av direktiv 2010/84/EU.",
+        "page": 73
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0083",
+        "articles": [
+          "107",
+          "1",
+          "3",
+          "6"
+        ],
+        "pinpoints": [
+          "107 m",
+          "1",
+          "3",
+          "6",
+          "107 p",
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0083#107",
+          "https://lagen.nu/ext/celex/32001L0083#1",
+          "https://lagen.nu/ext/celex/32001L0083#3",
+          "https://lagen.nu/ext/celex/32001L0083#6"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "10 a",
+        "sentence": "Genom paragrafen genomförs artiklarna 107m.1, 3 och 6 samt 107p.1 i dess lydelse till följd av direktiv 2010/84/EU.",
+        "page": 74
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0083",
+        "articles": [
+          "107",
+          "1",
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "107 n",
+          "1",
+          "2",
+          "3 f",
+          "107 o",
+          "107 p",
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0083#107",
+          "https://lagen.nu/ext/celex/32001L0083#1",
+          "https://lagen.nu/ext/celex/32001L0083#2",
+          "https://lagen.nu/ext/celex/32001L0083#3"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "10 b",
+        "sentence": "Genom paragrafen genomförs artiklarna 107n.1, 2 och 3 första stycket samt 107o och 107p.1 i dess lydelse till följd av direktiv 2010/84/EU.",
+        "page": 75
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32001L0083",
+        "articles": [
+          "107",
+          "1",
+          "2",
+          "3"
+        ],
+        "pinpoints": [
+          "107 n",
+          "1",
+          "2",
+          "3 f",
+          "107 o",
+          "107 p",
+          "1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32001L0083#107",
+          "https://lagen.nu/ext/celex/32001L0083#1",
+          "https://lagen.nu/ext/celex/32001L0083#2",
+          "https://lagen.nu/ext/celex/32001L0083#3"
+        ],
+        "partial": false,
+        "law": null,
+        "chapter": null,
+        "paragraf": "10 c",
+        "sentence": "Genom paragrafen genomförs artiklarna 107n.1, 2 och 3 första stycket samt 107o och 107p.1 i dess lydelse till följd av direktiv 2010/84/EU.",
+        "page": 76
+      }
+    ]
+  }
+}

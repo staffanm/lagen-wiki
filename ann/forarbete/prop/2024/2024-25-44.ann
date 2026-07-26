@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2024-25-44": "f5c86d3d79d308115780c394f54498b97b5bcaaf16abe56fe598c6c69e392e0b",
+      "artifact:eurlex/32009L0065": "9a1032db65fc4d428deecbdad6be4b6703a12a247788c50fc315ef381a7e551e",
+      "artifact:eurlex/32009L0138": "748d030e8e9ed294f3de3f3abdb4bff094e8cd1c86ddd090c2bf691e88003791",
+      "artifact:eurlex/32011L0061": "26a696b979b686710cdb8dd5510464047466e1773a524f97e3619dd3c0eeb3bc",
+      "artifact:eurlex/32013L0036": "5e88828bd5c7adb72df99dcd0c72503810e906944fe6bbb807464b393d5e8d85",
+      "artifact:eurlex/32014L0065": "91d81dc63e2595ac79799202052586544a1a0f5b8e7e081dfed39b71e4d55586",
+      "artifact:eurlex/32015L2366": "de35363a119903f29abd52b36fd83551614f2e441e6848e7da1f2709ca44b9a1",
+      "artifact:eurlex/32016L2341": "157de3b27c70832e059373a5da0c7c61dcdce4f8de8fc88a6bd1b49d4889f66e"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32009L0065",
+      "https://lagen.nu/ext/celex/32009L0138",
+      "https://lagen.nu/ext/celex/32011L0061",
+      "https://lagen.nu/ext/celex/32013L0036",
+      "https://lagen.nu/ext/celex/32014L0065",
+      "https://lagen.nu/ext/celex/32015L2366",
+      "https://lagen.nu/ext/celex/32016L2341"
+    ],
+    "proposition": "https://lagen.nu/prop/2024/25:44",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#21"
+        ],
+        "partial": true,
+        "law": "22.2 Förslaget till lag om ändring i lagen (1967:531) om tryggande av pensionsutfästelse m.m.",
+        "chapter": null,
+        "paragraf": "16 g",
+        "sentence": "Ändringen genomför delvis artikel 21.5 i andra tjänstepensionsdirektivet, i lydelsen enligt artikel 8 i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0065",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0065#12"
+        ],
+        "partial": false,
+        "law": "22.6 Förslaget till lag om ändring i lagen (2004:46) om värdepappersfonder",
+        "chapter": "2",
+        "paragraf": "17",
+        "sentence": "Genom ändringen genomförs artikel 12.1 i UCITSdirektivet, i lydelsen enligt artikel 1.1 i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32013L0036",
+        "articles": [
+          "74"
+        ],
+        "pinpoints": [
+          "74.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32013L0036#74"
+        ],
+        "partial": false,
+        "law": "22.7 Förslaget till lag om ändring i lagen (2004:297) om bank och finansieringsrörelse",
+        "chapter": "6",
+        "paragraf": "2 a",
+        "sentence": "Paragrafen genomför artikel 74.1 i kapitaltäckningsdirektivet, i lydelsen enligt artikel 4.2 i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.4",
+          "16.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#16"
+        ],
+        "partial": true,
+        "law": "22.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "8",
+        "paragraf": "10",
+        "sentence": "Genom ändringarna genomförs artikel 16.4 och delvis artikel 16.5 i MiFID II, i lydelsen enligt artikel 6.1 a och b i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "16"
+        ],
+        "pinpoints": [
+          "16.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#16"
+        ],
+        "partial": true,
+        "law": "22.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "8",
+        "paragraf": "11",
+        "sentence": "Genom ändringen genomförs delvis artikel 16.5 i MiFID II, i lydelsen enligt artikel 6.1 b i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "17"
+        ],
+        "pinpoints": [
+          "17.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#17"
+        ],
+        "partial": false,
+        "law": "22.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "8",
+        "paragraf": "23",
+        "sentence": "Genom ändringarna genomförs artikel 17.1 i MiFID II, i lydelsen enligt artikel 6.2 a i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "47"
+        ],
+        "pinpoints": [
+          "47.1 b",
+          "47.1 c"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#47"
+        ],
+        "partial": false,
+        "law": "22.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "13",
+        "paragraf": "1",
+        "sentence": "Genom ändringarna genomförs artikel 47.1 b och c i MiFID II, i lydelsen enligt artikel 6.3 a och b i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#48"
+        ],
+        "partial": false,
+        "law": "22.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "13",
+        "paragraf": "1 a",
+        "sentence": "Genom ändringarna genomförs artikel 48.1 i MiFID II, i lydelsen enligt artikel 6.4 a i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32014L0065",
+        "articles": [
+          "48"
+        ],
+        "pinpoints": [
+          "48.6"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32014L0065#48"
+        ],
+        "partial": false,
+        "law": "22.8 Förslaget till lag om ändring i lagen (2007:528) om värdepappersmarknaden",
+        "chapter": "13",
+        "paragraf": "1 d",
+        "sentence": "Genom ändringen genomförs artikel 48.6 i MiFID II, i lydelsen enligt artikel 6.4 b i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L2366",
+        "articles": [
+          "95"
+        ],
+        "pinpoints": [
+          "95.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L2366#95"
+        ],
+        "partial": false,
+        "law": "22.9 Förslaget till lag om ändring i lagen (2010:751) om betaltjänster",
+        "chapter": "5 b",
+        "paragraf": "1",
+        "sentence": "Genom ändringen genomförs artikel 95.1 i betaltjänstdirektivet, i lydelsen enligt artikel 7.4 i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32015L2366",
+        "articles": [
+          "96"
+        ],
+        "pinpoints": [
+          "96.7"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32015L2366#96"
+        ],
+        "partial": false,
+        "law": "22.9 Förslaget till lag om ändring i lagen (2010:751) om betaltjänster",
+        "chapter": "5 b",
+        "paragraf": "3",
+        "sentence": "Genom ändringen genomförs artikel 96.7 i betaltjänstdirektivet, i lydelsen enligt artikel 7.5 i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32009L0138",
+        "articles": [
+          "41"
+        ],
+        "pinpoints": [
+          "41.4"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32009L0138#41"
+        ],
+        "partial": false,
+        "law": "22.10 Förslaget till lag om ändring i försäkringsrörelselagen (2010:2043)",
+        "chapter": "10",
+        "paragraf": "3",
+        "sentence": "Genom ändringen genomförs artikel 41.4 i Solvens IIdirektivet, i lydelsen enligt artikel 2.1 i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32011L0061",
+        "articles": [
+          "18"
+        ],
+        "pinpoints": [
+          "18.1"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32011L0061#18"
+        ],
+        "partial": false,
+        "law": "22.12 Förslaget till lag om ändring i lagen (2013:561) om förvaltare av alternativa investeringsfonder",
+        "chapter": "8",
+        "paragraf": "2",
+        "sentence": "Genom ändringen genomförs artikel 18.1 i AIFM-direktivet, i lydelsen enligt artikel 3 i ändringsdirektivet.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32016L2341",
+        "articles": [
+          "21"
+        ],
+        "pinpoints": [
+          "21.5"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32016L2341#21"
+        ],
+        "partial": true,
+        "law": "22.14 Förslaget till lag om ändring i lagen (2019:742) om tjänstepensionsföretag",
+        "chapter": "9",
+        "paragraf": "2",
+        "sentence": "Genom ändringen genomförs delvis artikel 21.5 i andra tjänstepensionsdirektivet, i lydelsen enligt artikel 8 i ändringsdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}

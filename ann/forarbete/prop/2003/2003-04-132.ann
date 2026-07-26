@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma-4-31b-it",
+    "generated": "2026-07-24",
+    "inputs": {
+      "artifact:forarbete/prop/2003-04-132": "c4d2fa074804e610c0a0ea92ad50fd005c15a44e6dc98c860f9accf7e2ee5019",
+      "artifact:eurlex/32003L0087": "a9871b1894931eed362302fc12d83e8b8b053598ab93954e6f17b311cc9ea27c"
+    }
+  },
+  "genomforande": {
+    "directives": [
+      "https://lagen.nu/ext/celex/32003L0087"
+    ],
+    "proposition": "https://lagen.nu/prop/2003/04:132",
+    "edges": [
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "24"
+        ],
+        "pinpoints": [
+          "24"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#24"
+        ],
+        "partial": false,
+        "law": "11.1 Förslag till lag om utsläpp av koldioxid",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Genom artikel 24 ges medlemsstater möjlighet att bestämma andra gränser.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "27"
+        ],
+        "pinpoints": [
+          "27"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#27"
+        ],
+        "partial": false,
+        "law": "11.1 Förslag till lag om utsläpp av koldioxid",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Paragrafens tredje stycke innebär att vissa anläggningar kan undantas från handelssystemet i enlighet med handelsdirektivets artikel 27.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "13"
+        ],
+        "pinpoints": [
+          "13"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#13"
+        ],
+        "partial": true,
+        "law": "11.1 Förslag till lag om utsläpp av koldioxid",
+        "chapter": null,
+        "paragraf": "1",
+        "sentence": "Genom bestämmelsen genomförs handelsdirektivets artikel 13 delvis.",
+        "page": null
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/ext/celex/32003L0087",
+        "articles": [
+          "9"
+        ],
+        "pinpoints": [
+          "9"
+        ],
+        "uris": [
+          "https://lagen.nu/ext/celex/32003L0087#9"
+        ],
+        "partial": false,
+        "law": "11.1 Förslag till lag om utsläpp av koldioxid",
+        "chapter": null,
+        "paragraf": "3",
+        "sentence": "Genom paragrafen genomförs artikel 9 i handelsdirektivet.",
+        "page": null
+      }
+    ]
+  }
+}
