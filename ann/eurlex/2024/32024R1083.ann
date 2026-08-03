@@ -1,0 +1,397 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R1083": "ebd651a2d892b6bfb5f7e86f24f18817401a298df27b16fd19bad2e1e1985527"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "background-purpose",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "market-challenges",
+        "label": "Marknadsutmaningar och harmonisering",
+        "range": [
+          4,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "id": "definitions",
+        "label": "Definitioner",
+        "range": [
+          9,
+          13
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "quality-freedom",
+        "label": "Kvalitetsmedietjänster och yttrandefrihet",
+        "range": [
+          14,
+          16
+        ],
+        "articleRefs": [
+          "3",
+          "4.1"
+        ]
+      },
+      {
+        "id": "editorial-independence-sources",
+        "label": "Redaktionellt oberoende och källskydd",
+        "range": [
+          17,
+          26
+        ],
+        "articleRefs": [
+          "4.2",
+          "4.3",
+          "4.4",
+          "4.5",
+          "4.6"
+        ]
+      },
+      {
+        "id": "public-service",
+        "label": "Public service-medier",
+        "range": [
+          27,
+          31
+        ],
+        "articleRefs": [
+          "2.3",
+          "5"
+        ]
+      },
+      {
+        "id": "transparency-ownership",
+        "label": "Transparens och ägande",
+        "range": [
+          32,
+          35
+        ],
+        "articleRefs": [
+          "6.1",
+          "6.2",
+          "6.3"
+        ]
+      },
+      {
+        "id": "authorities-board",
+        "label": "Tillsynsmyndigheter och Europeiska nämnden",
+        "range": [
+          36,
+          42
+        ],
+        "articleRefs": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "regulatory-cooperation",
+        "label": "Tillsynssamarbete",
+        "range": [
+          43,
+          45
+        ],
+        "articleRefs": [
+          "13",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "third-country-media",
+        "label": "Medietjänster från tredjeländer",
+        "range": [
+          46,
+          49
+        ],
+        "articleRefs": [
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "vlops",
+        "label": "Mycket stora onlineplattformar",
+        "range": [
+          50,
+          56
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "user-interfaces",
+        "label": "Användargränssnitt och enheter",
+        "range": [
+          57,
+          59
+        ],
+        "articleRefs": [
+          "2.14",
+          "20"
+        ]
+      },
+      {
+        "id": "national-measures-concentrations",
+        "label": "Nationella åtgärder och koncentrationer",
+        "range": [
+          60,
+          68
+        ],
+        "articleRefs": [
+          "21",
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "audience-measurement",
+        "label": "Publikmätning",
+        "range": [
+          69,
+          71
+        ],
+        "articleRefs": [
+          "2.16",
+          "2.17",
+          "24"
+        ]
+      },
+      {
+        "id": "state-advertising",
+        "label": "Statlig annonsering",
+        "range": [
+          72,
+          73
+        ],
+        "articleRefs": [
+          "2.19",
+          "25"
+        ]
+      },
+      {
+        "id": "monitoring-evaluation",
+        "label": "Övervakning och utvärdering",
+        "range": [
+          74,
+          78
+        ],
+        "articleRefs": [
+          "26",
+          "27"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        7,
+        8
+      ],
+      "2.3": [
+        10
+      ],
+      "2.14": [
+        57,
+        58,
+        59
+      ],
+      "2.16": [
+        12,
+        69,
+        70,
+        71
+      ],
+      "2.17": [
+        70
+      ],
+      "2.19": [
+        13,
+        72,
+        73
+      ],
+      "2.20": [
+        23,
+        25,
+        26
+      ],
+      "3": [
+        8
+      ],
+      "4.1": [
+        2,
+        17
+      ],
+      "4.2": [
+        18
+      ],
+      "4.3": [
+        19,
+        20,
+        23,
+        24
+      ],
+      "4.3.c": [
+        25,
+        26
+      ],
+      "4.4": [
+        21
+      ],
+      "4.5": [
+        26
+      ],
+      "4.6": [
+        21
+      ],
+      "4.8": [
+        22
+      ],
+      "5": [
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "5.1": [
+        27,
+        29,
+        30
+      ],
+      "5.2": [
+        28
+      ],
+      "5.3": [
+        28,
+        31
+      ],
+      "5.4": [
+        31
+      ],
+      "6.1": [
+        32
+      ],
+      "6.2": [
+        33
+      ],
+      "6.3": [
+        34,
+        35
+      ],
+      "7": [
+        36
+      ],
+      "8": [
+        37
+      ],
+      "9": [
+        37
+      ],
+      "10": [
+        38,
+        39
+      ],
+      "11": [
+        42
+      ],
+      "12": [
+        40
+      ],
+      "13": [
+        41,
+        44
+      ],
+      "14": [
+        43,
+        44
+      ],
+      "15": [
+        45
+      ],
+      "16": [
+        46
+      ],
+      "17": [
+        47,
+        48,
+        49
+      ],
+      "18": [
+        50,
+        51,
+        52,
+        53
+      ],
+      "19": [
+        56
+      ],
+      "20": [
+        57,
+        58,
+        59
+      ],
+      "21": [
+        60,
+        61
+      ],
+      "22": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        68
+      ],
+      "23": [
+        67
+      ],
+      "24": [
+        69,
+        70,
+        71
+      ],
+      "25": [
+        72,
+        73
+      ],
+      "26": [
+        74
+      ],
+      "27": [
+        74
+      ]
+    }
+  }
+}

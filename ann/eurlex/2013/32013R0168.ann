@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32013R0168": "07d70d1c38fc3d9678c13bee318feef7df3e254a8602982feb664d99d3d82008"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "syfte-bakgrund",
+        "label": "Syfte och allmänna principer",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "marknadstillsyn-myndigheter",
+        "label": "Marknadstillsyn och myndigheters roller",
+        "range": [
+          5,
+          6
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "46",
+          "47",
+          "48",
+          "49"
+        ]
+      },
+      {
+        "id": "materiella-krav",
+        "label": "Materiella krav på säkerhet och miljö",
+        "range": [
+          7,
+          10
+        ],
+        "articleRefs": [
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "50",
+          "51"
+        ]
+      },
+      {
+        "id": "miljostandarder",
+        "label": "Miljöprestanda och utsläppssteg",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "typgodkannande-system",
+        "label": "EU-typgodkännandeförfaranden",
+        "range": [
+          13,
+          14
+        ],
+        "articleRefs": [
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "id": "skyddsattgarder",
+        "label": "Korrigerande åtgärder och återkallelser",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "10",
+          "52"
+        ]
+      },
+      {
+        "id": "sma-serier",
+        "label": "Nationellt godkännande av små serier",
+        "range": [
+          16,
+          16
+        ],
+        "articleRefs": [
+          "42"
+        ]
+      },
+      {
+        "id": "internationell-harmonisering",
+        "label": "Harmonisering med FN/ECE-föreskrifter",
+        "range": [
+          17,
+          18
+        ],
+        "articleRefs": [
+          "54"
+        ]
+      },
+      {
+        "id": "reparationsinformation",
+        "label": "Tillgång till reparationsinformation",
+        "range": [
+          19,
+          19
+        ],
+        "articleRefs": [
+          "55",
+          "56",
+          "57",
+          "58",
+          "59",
+          "60"
+        ]
+      },
+      {
+        "id": "befogenheter-implementering",
+        "label": "Kommissionens befogenheter och delegerade akter",
+        "range": [
+          20,
+          21
+        ],
+        "articleRefs": [
+          "72",
+          "73",
+          "74",
+          "75"
+        ]
+      },
+      {
+        "id": "sanktioner-rapportering",
+        "label": "Sanktioner, översyn och rapportering",
+        "range": [
+          22,
+          25
+        ],
+        "articleRefs": [
+          "76",
+          "78",
+          "79",
+          "80"
+        ]
+      },
+      {
+        "id": "avslutande-bestammelser",
+        "label": "Övergångsbestämmelser och upphävande",
+        "range": [
+          26,
+          29
+        ],
+        "articleRefs": [
+          "77",
+          "81",
+          "82"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        8,
+        9
+      ],
+      "2": [
+        4,
+        8,
+        16
+      ],
+      "6": [
+        5,
+        6
+      ],
+      "7": [
+        5
+      ],
+      "8": [
+        5,
+        6
+      ],
+      "9": [
+        13,
+        14
+      ],
+      "9.7": [
+        14
+      ],
+      "10": [
+        15
+      ],
+      "11": [
+        5
+      ],
+      "12": [
+        5
+      ],
+      "13": [
+        5
+      ],
+      "14": [
+        5
+      ],
+      "15": [
+        5
+      ],
+      "16": [
+        5
+      ],
+      "17": [
+        5
+      ],
+      "18": [
+        7,
+        9
+      ],
+      "19": [
+        7
+      ],
+      "20": [
+        9
+      ],
+      "21": [
+        9,
+        19
+      ],
+      "22": [
+        7,
+        9
+      ],
+      "23": [
+        7,
+        8,
+        9,
+        12
+      ],
+      "23.4": [
+        12
+      ],
+      "23.5": [
+        12
+      ],
+      "24": [
+        7,
+        8,
+        9,
+        12
+      ],
+      "25": [
+        3,
+        13
+      ],
+      "29": [
+        13
+      ],
+      "30": [
+        13
+      ],
+      "33": [
+        13,
+        14
+      ],
+      "33.1": [
+        14
+      ],
+      "37": [
+        13
+      ],
+      "38": [
+        13
+      ],
+      "39": [
+        13
+      ],
+      "40": [
+        3,
+        7
+      ],
+      "42": [
+        16
+      ],
+      "43": [
+        1,
+        13
+      ],
+      "46": [
+        5,
+        15
+      ],
+      "47": [
+        5,
+        15
+      ],
+      "48": [
+        5,
+        15
+      ],
+      "49": [
+        5,
+        15
+      ],
+      "50": [
+        10
+      ],
+      "51": [
+        10
+      ],
+      "52": [
+        15
+      ],
+      "54": [
+        17,
+        18
+      ],
+      "55": [
+        19
+      ],
+      "56": [
+        19
+      ],
+      "57": [
+        19
+      ],
+      "58": [
+        19
+      ],
+      "59": [
+        19
+      ],
+      "60": [
+        19
+      ],
+      "72": [
+        3,
+        20
+      ],
+      "74": [
+        21
+      ],
+      "75": [
+        20,
+        21
+      ],
+      "76": [
+        22
+      ],
+      "77": [
+        26
+      ],
+      "81": [
+        27,
+        28
+      ],
+      "82": [
+        29
+      ]
+    }
+  }
+}

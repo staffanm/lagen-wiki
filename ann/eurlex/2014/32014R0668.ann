@@ -1,0 +1,257 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32014R0668": "0a3008d30e45866207727b7b9ae7ddc6a1b872f30d14cf4c379d2b572a215775"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "legal-framework",
+        "label": "Rättslig ram och syfte",
+        "range": [
+          1,
+          1
+        ],
+        "articleRefs": []
+      },
+      {
+        "id": "names-language",
+        "label": "Namn och språkliga regler",
+        "range": [
+          2,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "geographical-origin",
+        "label": "Geografiskt område och ursprung",
+        "range": [
+          3,
+          7
+        ],
+        "articleRefs": [
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "product-registration",
+        "label": "Registrering av produkter",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "application-procedures",
+        "label": "Ansökningsförfaranden och formkrav",
+        "range": [
+          8,
+          12
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "objection-procedure",
+        "label": "Invändningsförfarandet",
+        "range": [
+          13,
+          13
+        ],
+        "articleRefs": [
+          "9"
+        ]
+      },
+      {
+        "id": "changes-deregistration",
+        "label": "Ändringar och avregistreringar",
+        "range": [
+          14,
+          14
+        ],
+        "articleRefs": [
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "communication-administration",
+        "label": "Kommunikation och administration",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "12"
+        ]
+      },
+      {
+        "id": "symbols-designations",
+        "label": "Symboler och beteckningar",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "register-management",
+        "label": "Register och förvaltning",
+        "range": [
+          19,
+          19
+        ],
+        "articleRefs": [
+          "14"
+        ]
+      },
+      {
+        "id": "final-provisions",
+        "label": "Slutbestämmelser",
+        "range": [
+          20,
+          20
+        ],
+        "articleRefs": [
+          "15",
+          "16"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        2
+      ],
+      "2": [
+        3
+      ],
+      "3": [
+        4
+      ],
+      "4": [
+        5
+      ],
+      "4.1": [
+        5
+      ],
+      "4.2": [
+        5
+      ],
+      "5": [
+        6
+      ],
+      "6": [
+        9,
+        10,
+        11
+      ],
+      "6.1": [
+        9,
+        11
+      ],
+      "6.2": [
+        9
+      ],
+      "6.3": [
+        10
+      ],
+      "7": [
+        12
+      ],
+      "7.1": [
+        12
+      ],
+      "7.2": [
+        12
+      ],
+      "8": [
+        8
+      ],
+      "9": [
+        8,
+        13
+      ],
+      "9.1": [
+        9
+      ],
+      "9.2": [
+        13
+      ],
+      "9.3": [
+        9
+      ],
+      "10": [
+        8,
+        14
+      ],
+      "10.1": [
+        9
+      ],
+      "10.2": [
+        9
+      ],
+      "10.3": [
+        9
+      ],
+      "10.4": [
+        10
+      ],
+      "11": [
+        8,
+        14
+      ],
+      "11.1": [
+        9
+      ],
+      "11.2": [
+        14
+      ],
+      "12": [
+        15
+      ],
+      "13": [
+        16,
+        17,
+        18
+      ],
+      "13.1": [
+        16
+      ],
+      "13.2": [
+        16
+      ],
+      "13.3": [
+        17
+      ],
+      "13.4": [
+        18
+      ],
+      "14": [
+        19
+      ],
+      "15": [
+        9
+      ],
+      "16": [
+        20
+      ]
+    }
+  }
+}

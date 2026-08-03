@@ -1,0 +1,271 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32008L0048": "7b49dd83ea88c133d26ec5615d2cdeda62a55f0264acf9566c9435a9486dc229"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-harmonisering",
+        "label": "Bakgrund och behov av harmonisering",
+        "range": [
+          1,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "22"
+        ]
+      },
+      {
+        "id": "tillampsningsomrade-definitioner",
+        "label": "Tillämpningsområde och definitioner",
+        "range": [
+          10,
+          15
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "kreditformedlare",
+        "label": "Kreditförmedlare",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": [
+          "3",
+          "21"
+        ]
+      },
+      {
+        "id": "reklam-standardinformation",
+        "label": "Reklam och standardinformation",
+        "range": [
+          18,
+          18
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "forhandsinformation",
+        "label": "Förhandsinformation",
+        "range": [
+          19,
+          25
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "kreditvardighet-ansvar",
+        "label": "Kreditvärdighet och ansvarsfull utlåning",
+        "range": [
+          26,
+          29
+        ],
+        "articleRefs": [
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "avtalsutformning-innehall",
+        "label": "Kreditavtalets utformning och innehåll",
+        "range": [
+          30,
+          33
+        ],
+        "articleRefs": [
+          "10",
+          "11",
+          "13"
+        ]
+      },
+      {
+        "id": "angerätt-kombinerade-avtal",
+        "label": "Ångerrätt och kombinerade kreditavtal",
+        "range": [
+          34,
+          38
+        ],
+        "articleRefs": [
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "fortidsaterbetalning-overlatelse",
+        "label": "Förtidsåterbetalning och överlåtelse av rättigheter",
+        "range": [
+          39,
+          42
+        ],
+        "articleRefs": [
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "effektiv-ranta",
+        "label": "Beräkning av effektiv ränta",
+        "range": [
+          43,
+          43
+        ],
+        "articleRefs": [
+          "19"
+        ]
+      },
+      {
+        "id": "tillsyn-grundrattigheter",
+        "label": "Tillsyn och grundläggande rättigheter",
+        "range": [
+          44,
+          46
+        ],
+        "articleRefs": [
+          "20"
+        ]
+      },
+      {
+        "id": "genomfordrande-sanktioner",
+        "label": "Genomförande, sanktioner och slutbestämmelser",
+        "range": [
+          47,
+          51
+        ],
+        "articleRefs": [
+          "23",
+          "27",
+          "29"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        5,
+        7,
+        9
+      ],
+      "2": [
+        10,
+        11
+      ],
+      "2.2": [
+        12,
+        13,
+        14
+      ],
+      "3": [
+        10,
+        15,
+        16
+      ],
+      "3.f": [
+        16
+      ],
+      "4": [
+        18
+      ],
+      "5": [
+        19,
+        23,
+        24
+      ],
+      "6": [
+        23
+      ],
+      "7": [
+        24
+      ],
+      "8": [
+        26,
+        28
+      ],
+      "9": [
+        28,
+        29
+      ],
+      "9.2": [
+        29
+      ],
+      "10": [
+        31
+      ],
+      "11": [
+        32
+      ],
+      "12": [
+        32
+      ],
+      "13": [
+        33
+      ],
+      "14": [
+        34,
+        35,
+        36
+      ],
+      "14.2": [
+        36
+      ],
+      "15": [
+        37,
+        38
+      ],
+      "16": [
+        39,
+        40
+      ],
+      "17": [
+        41,
+        42
+      ],
+      "18": [
+        32
+      ],
+      "19": [
+        19,
+        20,
+        21,
+        43
+      ],
+      "20": [
+        44
+      ],
+      "21": [
+        16,
+        17
+      ],
+      "22": [
+        9
+      ],
+      "23": [
+        47
+      ],
+      "24": [
+        8
+      ],
+      "27": [
+        48
+      ],
+      "29": [
+        51
+      ]
+    }
+  }
+}

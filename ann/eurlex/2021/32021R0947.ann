@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32021R0947": "7679fdba07f3e5b3e86b3a500faa065249c114ee40739516e74963d0a59e9b82"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och allmänna mål",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "rättslig-ram-period",
+        "label": "Rättslig ram och tidsperiod",
+        "range": [
+          8,
+          13
+        ],
+        "articleRefs": [
+          "1",
+          "7"
+        ]
+      },
+      {
+        "id": "samstämmighet-effektivitet",
+        "label": "Samstämmighet och biståndseffektivitet",
+        "range": [
+          14,
+          20
+        ],
+        "articleRefs": [
+          "5",
+          "41",
+          "42"
+        ]
+      },
+      {
+        "id": "strategiska-prioriteringar",
+        "label": "Strategiska prioriteringar och ODA",
+        "range": [
+          21,
+          26
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "geografiskt-fokus",
+        "label": "Geografiskt fokus och partnerskap",
+        "range": [
+          27,
+          30
+        ],
+        "articleRefs": [
+          "4",
+          "10",
+          "18"
+        ]
+      },
+      {
+        "id": "synergier-instrument",
+        "label": "Synergier med andra instrument",
+        "range": [
+          31,
+          35
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "lokalt-samarbete",
+        "label": "Lokalt samarbete och medlemsstater",
+        "range": [
+          36,
+          39
+        ],
+        "articleRefs": [
+          "8",
+          "26"
+        ]
+      },
+      {
+        "id": "värden-demokrati",
+        "label": "Värden, demokrati och mänskliga rättigheter",
+        "range": [
+          40,
+          45
+        ],
+        "articleRefs": [
+          "8",
+          "11"
+        ]
+      },
+      {
+        "id": "civilsamhälle",
+        "label": "Civilsamhällets organisationer",
+        "range": [
+          46,
+          47
+        ],
+        "articleRefs": [
+          "2",
+          "11"
+        ]
+      },
+      {
+        "id": "klimat-miljö",
+        "label": "Klimat och miljö",
+        "range": [
+          48,
+          49
+        ],
+        "articleRefs": [
+          "8",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "migration-tvångsförflyttning",
+        "label": "Migration och tvångsförflyttning",
+        "range": [
+          50,
+          51
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "8"
+        ]
+      },
+      {
+        "id": "säkerhet-försvar",
+        "label": "Säkerhet och militär kapacitet",
+        "range": [
+          52,
+          58
+        ],
+        "articleRefs": [
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "finansiella-regler",
+        "label": "Finansiella regler och budget",
+        "range": [
+          59,
+          61
+        ],
+        "articleRefs": [
+          "6",
+          "27"
+        ]
+      },
+      {
+        "id": "efhu-plus-garantier",
+        "label": "EFHU+ och garantin för yttre åtgärder",
+        "range": [
+          62,
+          68
+        ],
+        "articleRefs": [
+          "31",
+          "35",
+          "36",
+          "38"
+        ]
+      },
+      {
+        "id": "buffert-flexibilitet",
+        "label": "Buffert och flexibilitet",
+        "range": [
+          69,
+          72
+        ],
+        "articleRefs": [
+          "17"
+        ]
+      },
+      {
+        "id": "avslutande-bestämmelser",
+        "label": "Avslutande bestämmelser och genomförande",
+        "range": [
+          73,
+          88
+        ],
+        "articleRefs": [
+          "44",
+          "45",
+          "46",
+          "50",
+          "51"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        8,
+        9
+      ],
+      "2.7": [
+        46,
+        47
+      ],
+      "2.8": [
+        36
+      ],
+      "2.10": [
+        65
+      ],
+      "3.1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "3.2": [
+        21,
+        22,
+        24,
+        25,
+        28,
+        29,
+        30
+      ],
+      "4.1": [
+        35
+      ],
+      "4.2": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "4.3": [
+        42,
+        43,
+        46,
+        47
+      ],
+      "4.4": [
+        15
+      ],
+      "5": [
+        14,
+        32
+      ],
+      "6": [
+        48
+      ],
+      "7": [
+        11,
+        12,
+        13
+      ],
+      "8.1": [
+        1,
+        3
+      ],
+      "8.2": [
+        3
+      ],
+      "8.3": [
+        23,
+        44
+      ],
+      "8.8": [
+        49,
+        58
+      ],
+      "8.9": [
+        52
+      ],
+      "8.10": [
+        50,
+        51
+      ],
+      "8.11": [
+        53,
+        56
+      ],
+      "9": [
+        53,
+        56,
+        57,
+        73,
+        74
+      ],
+      "10": [
+        27,
+        28
+      ],
+      "11": [
+        42,
+        43,
+        46,
+        47
+      ],
+      "12.2": [
+        38
+      ],
+      "13.2": [
+        39
+      ],
+      "17": [
+        69,
+        70,
+        71
+      ],
+      "18": [
+        27,
+        28
+      ],
+      "20.1": [
+        28
+      ],
+      "27.2": [
+        60
+      ],
+      "27.3": [
+        42
+      ],
+      "27.6": [
+        61
+      ],
+      "31": [
+        62
+      ],
+      "35": [
+        64,
+        65,
+        66
+      ],
+      "36": [
+        63
+      ],
+      "41": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "42": [
+        18,
+        19,
+        83
+      ],
+      "44": [
+        81
+      ],
+      "45": [
+        82
+      ],
+      "46": [
+        77
+      ],
+      "50": [
+        87
+      ],
+      "51": [
+        88
+      ]
+    }
+  }
+}

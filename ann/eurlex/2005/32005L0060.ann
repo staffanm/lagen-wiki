@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32005L0060": "9157cc166806bb72e458c7252e8f6ee7343f0ae1b63e010f2d2308455fe76a1b"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "5"
+        ]
+      },
+      {
+        "id": "definitioner-omfattning",
+        "label": "Definitioner och begreppsutvidgning",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "id": "kundkontroll-formanstagare",
+        "label": "Kundkontroll och verkliga förmånstagare",
+        "range": [
+          9,
+          13
+        ],
+        "articleRefs": [
+          "3",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-yrken",
+        "label": "Tillämpningsområde och omfattade yrken",
+        "range": [
+          14,
+          21
+        ],
+        "articleRefs": [
+          "2",
+          "23"
+        ]
+      },
+      {
+        "id": "riskbaserat-forfarande",
+        "label": "Riskbaserat förfarande och skärpt kontroll",
+        "range": [
+          22,
+          26
+        ],
+        "articleRefs": [
+          "7",
+          "11",
+          "13"
+        ]
+      },
+      {
+        "id": "tredje-part-outsourcing",
+        "label": "Anlitande av tredje part och utkontraktering",
+        "range": [
+          27,
+          28
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "16",
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "rapportering-misstankar",
+        "label": "Rapportering av misstänkta transaktioner",
+        "range": [
+          29,
+          32
+        ],
+        "articleRefs": [
+          "21",
+          "22",
+          "24",
+          "27"
+        ]
+      },
+      {
+        "id": "data-system-tredjeland",
+        "label": "Datahantering, system och tredjeländer",
+        "range": [
+          33,
+          36
+        ],
+        "articleRefs": [
+          "30",
+          "31",
+          "32"
+        ]
+      },
+      {
+        "id": "interna-rutiner-tillsyn",
+        "label": "Interna rutiner, utbildning och tillsyn",
+        "range": [
+          37,
+          40
+        ],
+        "articleRefs": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "sanktioner-ansvar",
+        "label": "Sanktioner och ansvar",
+        "range": [
+          41,
+          42
+        ],
+        "articleRefs": [
+          "39"
+        ]
+      },
+      {
+        "id": "genomforande-bemyndiganden",
+        "label": "Genomförande och kommissionens bemyndiganden",
+        "range": [
+          43,
+          47
+        ],
+        "articleRefs": [
+          "40",
+          "41"
+        ]
+      },
+      {
+        "id": "grundrattigheter",
+        "label": "Grundläggande rättigheter",
+        "range": [
+          48,
+          48
+        ],
+        "articleRefs": []
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        7,
+        8
+      ],
+      "2": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21
+      ],
+      "2.1.3.b": [
+        19,
+        20,
+        23
+      ],
+      "3": [
+        7,
+        9,
+        12
+      ],
+      "3.6": [
+        9,
+        12
+      ],
+      "6": [
+        2
+      ],
+      "7": [
+        10,
+        22
+      ],
+      "8": [
+        9,
+        10
+      ],
+      "8.1.b": [
+        9,
+        12
+      ],
+      "9": [
+        10
+      ],
+      "11": [
+        11,
+        22
+      ],
+      "13": [
+        24
+      ],
+      "13.4": [
+        25,
+        26
+      ],
+      "14": [
+        27
+      ],
+      "15": [
+        27
+      ],
+      "16": [
+        28
+      ],
+      "18": [
+        28
+      ],
+      "19": [
+        28
+      ],
+      "21": [
+        29
+      ],
+      "22": [
+        29
+      ],
+      "23": [
+        20,
+        21,
+        23
+      ],
+      "24": [
+        30
+      ],
+      "27": [
+        32
+      ],
+      "28": [
+        33
+      ],
+      "30": [
+        33
+      ],
+      "31": [
+        35
+      ],
+      "32": [
+        36
+      ],
+      "33": [
+        38
+      ],
+      "34": [
+        37
+      ],
+      "35": [
+        37
+      ],
+      "36": [
+        39
+      ],
+      "37": [
+        18,
+        37
+      ],
+      "39": [
+        41
+      ],
+      "40": [
+        43
+      ]
+    }
+  }
+}

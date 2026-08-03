@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32005L0056": "b43d15d750ff93acc62cc5c0adce212105b5dbc27ebc2c20505328dc234e231c"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "nationell-ratt",
+        "label": "Tillämpning av nationell rätt",
+        "range": [
+          3,
+          3
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "forberedelser-dokumentation",
+        "label": "Förberedelser och dokumentation",
+        "range": [
+          4,
+          6
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "kontroll-laglighet",
+        "label": "Kontroll och laglighet",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "rättsverkningar-registrering",
+        "label": "Rättsverkningar och registrering",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "13",
+          "14",
+          "17"
+        ]
+      },
+      {
+        "id": "avgransningar",
+        "label": "Avgränsningar och interaktioner",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "arbetstagarnas-rattigheter",
+        "label": "Arbetstagarnas rättigheter och medverkan",
+        "range": [
+          12,
+          14
+        ],
+        "articleRefs": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "id": "institutionella-bestammelser",
+        "label": "Institutionella bestämmelser",
+        "range": [
+          15,
+          16
+        ],
+        "articleRefs": [
+          "18",
+          "19",
+          "20"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        9,
+        10,
+        11
+      ],
+      "4": [
+        3
+      ],
+      "5": [
+        4
+      ],
+      "6": [
+        5
+      ],
+      "7": [
+        6
+      ],
+      "8": [
+        6
+      ],
+      "9": [
+        6
+      ],
+      "10": [
+        7
+      ],
+      "11": [
+        7
+      ],
+      "12": [
+        7
+      ],
+      "13": [
+        5
+      ],
+      "14": [
+        8
+      ],
+      "14.4": [
+        12
+      ],
+      "15": [
+        6
+      ],
+      "16": [
+        13,
+        14
+      ],
+      "17": [
+        8
+      ],
+      "18": [
+        15
+      ],
+      "19": [
+        16
+      ]
+    }
+  }
+}

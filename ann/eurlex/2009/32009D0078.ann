@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009D0078": "b788f676e9b3107a4df71773cffd250342ab51878d6d0fb776914eb24c6ba994"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "sammansattning-sekretess",
+        "label": "Sammansättning och sekretess",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "mandat-konglomerat",
+        "label": "Mandat och finansiella konglomerat",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "3",
+          "11"
+        ]
+      },
+      {
+        "id": "samarbete-tvistlosning",
+        "label": "Samarbete och tvistlösning",
+        "range": [
+          12,
+          15
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "info-rapportering",
+        "label": "Informationsutbyte och rapportering",
+        "range": [
+          16,
+          19
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "stabilitet-samordning",
+        "label": "Finansiell stabilitet och samordning",
+        "range": [
+          20,
+          21
+        ],
+        "articleRefs": [
+          "5",
+          "9"
+        ]
+      },
+      {
+        "id": "internationellt-samarbete",
+        "label": "Internationellt samarbete",
+        "range": [
+          22,
+          22
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "ansvar-arbetsordning",
+        "label": "Ansvar och arbetsordning",
+        "range": [
+          23,
+          24
+        ],
+        "articleRefs": [
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser",
+        "range": [
+          25,
+          25
+        ],
+        "articleRefs": [
+          "16"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        8
+      ],
+      "2": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "3": [
+        10,
+        11,
+        13
+      ],
+      "4": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "4.1.a": [
+        14
+      ],
+      "4.1.b": [
+        15
+      ],
+      "4.1.c": [
+        16
+      ],
+      "4.1.d": [
+        17
+      ],
+      "4.1.e": [
+        18
+      ],
+      "4.1.f": [
+        19
+      ],
+      "5": [
+        20
+      ],
+      "6": [
+        13,
+        22
+      ],
+      "6.1": [
+        13
+      ],
+      "6.4": [
+        22
+      ],
+      "7": [
+        7
+      ],
+      "8": [
+        7
+      ],
+      "9": [
+        20,
+        21
+      ],
+      "11": [
+        9
+      ],
+      "14": [
+        24
+      ],
+      "15": [
+        24
+      ],
+      "16": [
+        25
+      ]
+    }
+  }
+}

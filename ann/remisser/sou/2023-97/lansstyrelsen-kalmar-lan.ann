@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:remisser/sou/2023:97/lansstyrelsen-kalmar-lan": "24114cfa154349094c1d5657aa9720dadc2f2a67bb74cbd98adad7db430d4349",
+      "artifact:forarbete/sou/2023-97": "cbd2958724ae2084aadcf234ea9c91639558f8644178cac31e4b29494b21786d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.7,
+    "quote": "Vi instämmer i huvudsak till förslagen i betänkandet, Ut ur utsatthet (SOU 2023:97)."
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.1.1",
+      "sentiment": 1.0,
+      "quote": "Vi ser särskilt positivt på införande av lågtröskelverksamhet samt särskilda regionkoordinatorer för barn."
+    },
+    {
+      "forarbete_id": "a10.3.5",
+      "sentiment": 1.0,
+      "quote": "Vi ser särskilt positivt på införande av lågtröskelverksamhet samt särskilda regionkoordinatorer för barn."
+    },
+    {
+      "forarbete_id": "a13.3.7",
+      "sentiment": -0.7,
+      "quote": "Länsstyrelsen Kalmar län bedömer att det inte finns utrymme utan en finansiering med särskilda medel för ytterligare ett utökat uppdrag som betänkandet föreslår."
+    }
+  ]
+}

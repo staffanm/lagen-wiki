@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32003L0096": "98069be3152a0c2726a7918be592f0474a0b1a7799eccabf6e44c9279ca01d3e"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "miljo-klimat",
+        "label": "Miljö- och klimatmål",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "flexibilitet-system",
+        "label": "Flexibilitet och skattesystem",
+        "range": [
+          8,
+          11
+        ],
+        "articleRefs": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "id": "pris-berakning",
+        "label": "Prissättning och beräkningsgrunder",
+        "range": [
+          12,
+          16
+        ],
+        "articleRefs": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "id": "anvandningsomraden",
+        "label": "Användningsområden och kategorisering",
+        "range": [
+          17,
+          22
+        ],
+        "articleRefs": [
+          "2",
+          "5",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "befrielser-nedsattningar",
+        "label": "Skattebefrielser och nedsättningar",
+        "range": [
+          23,
+          26
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "energiintensiva-foretag",
+        "label": "Energiintensiva företag och särbehandling",
+        "range": [
+          27,
+          29
+        ],
+        "articleRefs": [
+          "17"
+        ]
+      },
+      {
+        "id": "genomfordrande-overgang",
+        "label": "Genomförande och övergångsregler",
+        "range": [
+          30,
+          34
+        ],
+        "articleRefs": [
+          "18",
+          "26",
+          "28"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "2": [
+        1,
+        16,
+        22
+      ],
+      "2.4": [
+        16,
+        22
+      ],
+      "4": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "4.2": [
+        10
+      ],
+      "5": [
+        15,
+        21
+      ],
+      "5.4": [
+        20,
+        21
+      ],
+      "7": [
+        18,
+        19,
+        20
+      ],
+      "7.2": [
+        20,
+        21
+      ],
+      "7.4": [
+        19
+      ],
+      "8": [
+        18
+      ],
+      "9": [
+        17,
+        18
+      ],
+      "10": [
+        17,
+        18
+      ],
+      "11": [
+        21
+      ],
+      "14": [
+        23
+      ],
+      "14.1.b": [
+        23
+      ],
+      "14.1.c": [
+        23
+      ],
+      "15": [
+        24,
+        25
+      ],
+      "15.1.b": [
+        25
+      ],
+      "15.1.c": [
+        25
+      ],
+      "16": [
+        26
+      ],
+      "17": [
+        28,
+        29
+      ],
+      "18": [
+        30
+      ],
+      "19": [
+        31
+      ],
+      "20": [
+        33
+      ],
+      "25": [
+        32
+      ],
+      "26": [
+        32
+      ],
+      "28": [
+        30
+      ],
+      "29": [
+        8
+      ]
+    }
+  }
+}

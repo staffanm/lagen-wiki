@@ -1,0 +1,535 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32014R0536": "27e0528c5dc7cf59c0c434bb5c1df32f57e50d14a606aa057ed4adc8dced2482"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "general-principles-definitions",
+        "label": "Allmänna principer och definitioner",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "harmonization-application",
+        "label": "Harmonisering och ansökningsförfarande",
+        "range": [
+          4,
+          10
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "low-intervention-trials",
+        "label": "Låginterventionsprövningar",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "2.2.3"
+        ]
+      },
+      {
+        "id": "assessment-criteria",
+        "label": "Bedömningskriterier och populationer",
+        "range": [
+          13,
+          15
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "authorization-process",
+        "label": "Tillståndsprocessen och organisering",
+        "range": [
+          16,
+          22
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "14"
+        ]
+      },
+      {
+        "id": "modifications-documentation",
+        "label": "Ändringar och ansökningshandlingar",
+        "range": [
+          23,
+          26
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "subject-protection-consent",
+        "label": "Försökspersoners skydd och samtycke",
+        "range": [
+          27,
+          36
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35"
+        ]
+      },
+      {
+        "id": "trial-lifecycle-results",
+        "label": "Prövningens livscykel och resultat",
+        "range": [
+          37,
+          39
+        ],
+        "articleRefs": [
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "safety-reporting",
+        "label": "Säkerhetsrapportering",
+        "range": [
+          40,
+          42
+        ],
+        "articleRefs": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "44"
+        ]
+      },
+      {
+        "id": "implementation-gcp-monitoring",
+        "label": "Genomförande, GCP och övervakning",
+        "range": [
+          43,
+          52
+        ],
+        "articleRefs": [
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "55",
+          "56",
+          "57",
+          "58"
+        ]
+      },
+      {
+        "id": "manufacturing-labeling",
+        "label": "Tillverkning, import och märkning",
+        "range": [
+          53,
+          57
+        ],
+        "articleRefs": [
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68",
+          "69",
+          "70"
+        ]
+      },
+      {
+        "id": "sponsor-liability",
+        "label": "Sponsor och ansvar",
+        "range": [
+          58,
+          62
+        ],
+        "articleRefs": [
+          "71",
+          "72",
+          "74",
+          "75",
+          "76"
+        ]
+      },
+      {
+        "id": "supervision-inspections",
+        "label": "Tillsyn och inspektioner",
+        "range": [
+          63,
+          65
+        ],
+        "articleRefs": [
+          "77",
+          "78",
+          "79",
+          "94"
+        ]
+      },
+      {
+        "id": "it-infrastructure-transparency",
+        "label": "IT-infrastruktur och insyn",
+        "range": [
+          66,
+          68
+        ],
+        "articleRefs": [
+          "80",
+          "81"
+        ]
+      },
+      {
+        "id": "administrative-cooperation",
+        "label": "Administrativt samarbete och avgifter",
+        "range": [
+          69,
+          75
+        ],
+        "articleRefs": [
+          "83",
+          "84",
+          "85",
+          "86",
+          "87",
+          "90"
+        ]
+      },
+      {
+        "id": "final-provisions",
+        "label": "Slutbestämmelser och övergångar",
+        "range": [
+          76,
+          85
+        ],
+        "articleRefs": [
+          "92",
+          "93",
+          "96",
+          "97",
+          "98",
+          "99"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        4
+      ],
+      "2": [
+        3,
+        54
+      ],
+      "2.2.3": [
+        11,
+        12
+      ],
+      "3": [
+        1
+      ],
+      "4": [
+        2
+      ],
+      "5": [
+        4,
+        5,
+        6
+      ],
+      "6": [
+        8,
+        10,
+        13,
+        16
+      ],
+      "7": [
+        6,
+        18,
+        19
+      ],
+      "8": [
+        17
+      ],
+      "9": [
+        18
+      ],
+      "10": [
+        19
+      ],
+      "14": [
+        22
+      ],
+      "15": [
+        23
+      ],
+      "16": [
+        23
+      ],
+      "17": [
+        23
+      ],
+      "18": [
+        23
+      ],
+      "19": [
+        23
+      ],
+      "20": [
+        23
+      ],
+      "21": [
+        23
+      ],
+      "22": [
+        23
+      ],
+      "23": [
+        23
+      ],
+      "24": [
+        24
+      ],
+      "25": [
+        24
+      ],
+      "26": [
+        26
+      ],
+      "28": [
+        1,
+        27
+      ],
+      "28.1.f": [
+        28
+      ],
+      "29": [
+        27,
+        30,
+        31
+      ],
+      "30": [
+        33
+      ],
+      "31": [
+        27,
+        19
+      ],
+      "32": [
+        27,
+        19
+      ],
+      "33": [
+        27,
+        34
+      ],
+      "34": [
+        35
+      ],
+      "35": [
+        36
+      ],
+      "36": [
+        37,
+        38
+      ],
+      "37": [
+        37,
+        39
+      ],
+      "38": [
+        49
+      ],
+      "40": [
+        40
+      ],
+      "41": [
+        41
+      ],
+      "42": [
+        41,
+        42
+      ],
+      "43": [
+        42
+      ],
+      "44": [
+        42
+      ],
+      "47": [
+        43
+      ],
+      "48": [
+        44
+      ],
+      "49": [
+        45
+      ],
+      "50": [
+        45
+      ],
+      "51": [
+        46
+      ],
+      "52": [
+        47
+      ],
+      "53": [
+        48
+      ],
+      "54": [
+        49
+      ],
+      "55": [
+        50
+      ],
+      "56": [
+        51
+      ],
+      "57": [
+        52
+      ],
+      "58": [
+        52
+      ],
+      "59": [
+        53
+      ],
+      "61": [
+        55
+      ],
+      "63": [
+        55
+      ],
+      "66": [
+        57
+      ],
+      "67": [
+        57
+      ],
+      "68": [
+        57
+      ],
+      "69": [
+        57
+      ],
+      "70": [
+        57
+      ],
+      "71": [
+        58
+      ],
+      "72": [
+        59
+      ],
+      "74": [
+        60
+      ],
+      "75": [
+        61
+      ],
+      "76": [
+        61,
+        62
+      ],
+      "77": [
+        63
+      ],
+      "78": [
+        64
+      ],
+      "80": [
+        66
+      ],
+      "81": [
+        66,
+        67,
+        68
+      ],
+      "83": [
+        69
+      ],
+      "84": [
+        69,
+        70
+      ],
+      "85": [
+        69,
+        70
+      ],
+      "86": [
+        71
+      ],
+      "87": [
+        71
+      ],
+      "90": [
+        74,
+        75
+      ],
+      "92": [
+        77
+      ],
+      "93": [
+        76
+      ],
+      "94": [
+        64
+      ],
+      "96": [
+        79
+      ],
+      "98": [
+        78,
+        79
+      ],
+      "99": [
+        78
+      ]
+    }
+  }
+}

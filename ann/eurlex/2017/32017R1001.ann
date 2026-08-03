@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32017R1001": "5f3af497d86b6859b1a2f4a822c8498dbb30b7787b587ab26c9585096b4567a8"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "registreringsvillkor",
+        "label": "Registreringsvillkor och tecken",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "4",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "prioritet-rettsverkan",
+        "label": "Prioritet och rättsverkan",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "id": "tull-granskontroll",
+        "label": "Tull och gränskontroll",
+        "range": [
+          14,
+          20
+        ],
+        "articleRefs": [
+          "9.4",
+          "10"
+        ]
+      },
+      {
+        "id": "begransningar-ensamratt",
+        "label": "Begränsningar av ensamrätten",
+        "range": [
+          21,
+          23
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "bruk-overlatelse",
+        "label": "Bruk och överlåtelse",
+        "range": [
+          24,
+          26
+        ],
+        "articleRefs": [
+          "18",
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "imy-klassificering",
+        "label": "Immaterialrättsmyndigheten och klassificering",
+        "range": [
+          27,
+          28
+        ],
+        "articleRefs": [
+          "2",
+          "33"
+        ]
+      },
+      {
+        "id": "pruvning-overklagande",
+        "label": "Prövning och överklaganden",
+        "range": [
+          29,
+          30
+        ],
+        "articleRefs": [
+          "41",
+          "42",
+          "66",
+          "68"
+        ]
+      },
+      {
+        "id": "domstolar-rettssakerhet",
+        "label": "Domstolsbehörighet och rättssäkerhet",
+        "range": [
+          31,
+          33
+        ],
+        "articleRefs": [
+          "123",
+          "124",
+          "125"
+        ]
+      },
+      {
+        "id": "samarbete-medling",
+        "label": "Samarbete och medling",
+        "range": [
+          34,
+          35
+        ],
+        "articleRefs": [
+          "152",
+          "170"
+        ]
+      },
+      {
+        "id": "ekonomi-avgifter",
+        "label": "Ekonomi och avgifter",
+        "range": [
+          36,
+          39
+        ],
+        "articleRefs": [
+          "172",
+          "178"
+        ]
+      },
+      {
+        "id": "delegerade-akter",
+        "label": "Delegerade och genomförandeakter",
+        "range": [
+          40,
+          47
+        ],
+        "articleRefs": [
+          "48",
+          "49.3",
+          "65",
+          "73",
+          "121"
+        ]
+      },
+      {
+        "id": "subsidiaritet",
+        "label": "Subsidiaritet och proportionalitet",
+        "range": [
+          48,
+          48
+        ],
+        "articleRefs": []
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        4,
+        5
+      ],
+      "2": [
+        27
+      ],
+      "4": [
+        10
+      ],
+      "6": [
+        9
+      ],
+      "7": [
+        9
+      ],
+      "7.1.b": [
+        9
+      ],
+      "8": [
+        12
+      ],
+      "9": [
+        11
+      ],
+      "9.2": [
+        11
+      ],
+      "9.3.d": [
+        13
+      ],
+      "9.3.f": [
+        14
+      ],
+      "9.4": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "10": [
+        20
+      ],
+      "11": [
+        12
+      ],
+      "14": [
+        21
+      ],
+      "15": [
+        22
+      ],
+      "16": [
+        23
+      ],
+      "18": [
+        24
+      ],
+      "19": [
+        26
+      ],
+      "20": [
+        26
+      ],
+      "21": [
+        26
+      ],
+      "22": [
+        26
+      ],
+      "23": [
+        26
+      ],
+      "24": [
+        26
+      ],
+      "25": [
+        26
+      ],
+      "27": [
+        27
+      ],
+      "33": [
+        28
+      ],
+      "41": [
+        29
+      ],
+      "42": [
+        29
+      ],
+      "66": [
+        30
+      ],
+      "68": [
+        30
+      ],
+      "123": [
+        31
+      ],
+      "124": [
+        32
+      ],
+      "125": [
+        32,
+        33
+      ],
+      "152": [
+        34
+      ],
+      "170": [
+        35
+      ]
+    }
+  }
+}

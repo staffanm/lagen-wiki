@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32016L1148": "647f5e591d9286c35f8635deb96c0d3e9faeb62ca3f3231a1b8a0dbac8b69c2c"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-undantag",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          7,
+          14
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "definitioner-digitala-tjanster",
+        "label": "Definitioner av digitala tjänster",
+        "range": [
+          15,
+          18
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "identifiering-samhällsviktiga-tjanster",
+        "label": "Identifiering av leverantörer av samhällsviktiga tjänster",
+        "range": [
+          19,
+          28
+        ],
+        "articleRefs": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "nationella-ramar-strategier",
+        "label": "Nationella ramar och strategier",
+        "range": [
+          29,
+          31
+        ],
+        "articleRefs": [
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "myndigheter-incidenthantering",
+        "label": "Myndigheter och incidenthantering",
+        "range": [
+          32,
+          34
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "strategiskt-operativt-samarbete",
+        "label": "Strategiskt och operativt samarbete",
+        "range": [
+          35,
+          39
+        ],
+        "articleRefs": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "informationsutbyte-ovningar",
+        "label": "Informationsutbyte och övningar",
+        "range": [
+          40,
+          43
+        ],
+        "articleRefs": [
+          "13",
+          "19"
+        ]
+      },
+      {
+        "id": "sakerhetskrav-samhällsviktiga-tjanster",
+        "label": "Säkerhetskrav för samhällsviktiga tjänster",
+        "range": [
+          44,
+          47
+        ],
+        "articleRefs": [
+          "14"
+        ]
+      },
+      {
+        "id": "sakerhetskrav-digitala-tjanster",
+        "label": "Säkerhetskrav för digitala tjänster",
+        "range": [
+          48,
+          53
+        ],
+        "articleRefs": [
+          "16"
+        ]
+      },
+      {
+        "id": "harmonisering-offentlig-forvaltning",
+        "label": "Harmonisering och offentlig förvaltning",
+        "range": [
+          54,
+          58
+        ],
+        "articleRefs": [
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "tillsyn-rapportering",
+        "label": "Tillsyn och rapportering",
+        "range": [
+          59,
+          63
+        ],
+        "articleRefs": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "id": "jurisdiktion-foretradare",
+        "label": "Jurisdiktion och företrädare",
+        "range": [
+          64,
+          65
+        ],
+        "articleRefs": [
+          "18"
+        ]
+      },
+      {
+        "id": "standardisering-frivillig-rapportering",
+        "label": "Standardisering och frivillig rapportering",
+        "range": [
+          66,
+          67
+        ],
+        "articleRefs": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "genomförande-oversyn",
+        "label": "Genomförande och översyn",
+        "range": [
+          68,
+          71
+        ],
+        "articleRefs": [
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "rattsliga-grunder-personuppgifter",
+        "label": "Rättsliga grunder och personuppgifter",
+        "range": [
+          72,
+          75
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "1.3": [
+        7
+      ],
+      "1.5": [
+        41
+      ],
+      "1.6": [
+        8
+      ],
+      "1.7": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "2": [
+        72,
+        73
+      ],
+      "4.4": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "4.5": [
+        48
+      ],
+      "4.13": [
+        18
+      ],
+      "4.17": [
+        15
+      ],
+      "4.18": [
+        16
+      ],
+      "4.19": [
+        17
+      ],
+      "5": [
+        19,
+        21,
+        25,
+        26
+      ],
+      "5.2": [
+        20
+      ],
+      "5.4": [
+        24
+      ],
+      "6": [
+        27,
+        28
+      ],
+      "7": [
+        29
+      ],
+      "8": [
+        30,
+        31
+      ],
+      "9": [
+        34
+      ],
+      "10": [
+        32
+      ],
+      "11": [
+        4,
+        36,
+        38,
+        39
+      ],
+      "12": [
+        4,
+        42
+      ],
+      "13": [
+        43
+      ],
+      "14": [
+        44,
+        46
+      ],
+      "14.3": [
+        47
+      ],
+      "15": [
+        61
+      ],
+      "16": [
+        48,
+        49,
+        51,
+        52,
+        53
+      ],
+      "16.11": [
+        53
+      ],
+      "17": [
+        60
+      ],
+      "18": [
+        64,
+        65
+      ],
+      "19": [
+        66
+      ],
+      "20": [
+        67
+      ]
+    }
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32017R2226": "7e6109316c59a859a1cd570af1833b32d4782aff56044ea66dbe9184a6c012f2"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "6"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-berakning",
+        "label": "Tillämpningsområde och beräkningsmekanism",
+        "range": [
+          8,
+          13
+        ],
+        "articleRefs": [
+          "2",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "teknisk-utformning-ansvar",
+        "label": "Teknisk utformning och ansvar",
+        "range": [
+          14,
+          17
+        ],
+        "articleRefs": [
+          "5",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "myndigheter-biometri",
+        "label": "Myndigheter och biometri",
+        "range": [
+          18,
+          21
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "15",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "brottsbekampning-atkomst",
+        "label": "Åtkomst för brottsbekämpande ändamål",
+        "range": [
+          22,
+          26
+        ],
+        "articleRefs": [
+          "29",
+          "30",
+          "32"
+        ]
+      },
+      {
+        "id": "atkomstforfaranden",
+        "label": "Förfaranden för åtkomst och kontroll",
+        "range": [
+          27,
+          31
+        ],
+        "articleRefs": [
+          "31"
+        ]
+      },
+      {
+        "id": "lagring-radering",
+        "label": "Lagring och radering av uppgifter",
+        "range": [
+          32,
+          34
+        ],
+        "articleRefs": [
+          "34",
+          "35"
+        ]
+      },
+      {
+        "id": "dataskydd-overforingar",
+        "label": "Dataskydd och överföring av uppgifter",
+        "range": [
+          35,
+          42
+        ],
+        "articleRefs": [
+          "41",
+          "42",
+          "49"
+        ]
+      },
+      {
+        "id": "information-sanktioner-utvardering",
+        "label": "Information, sanktioner och utvärdering",
+        "range": [
+          43,
+          46
+        ],
+        "articleRefs": [
+          "48",
+          "50",
+          "72"
+        ]
+      },
+      {
+        "id": "rettslig-grund-associering",
+        "label": "Rättslig grund och associerade stater",
+        "range": [
+          47,
+          57
+        ],
+        "articleRefs": [
+          "66",
+          "67"
+        ]
+      },
+      {
+        "id": "grundrattigheter-tillsyn",
+        "label": "Grundläggande rättigheter och tillsyn",
+        "range": [
+          58,
+          60
+        ],
+        "articleRefs": [
+          "52",
+          "54",
+          "55",
+          "56",
+          "58",
+          "59"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        7,
+        15
+      ],
+      "2": [
+        9,
+        10
+      ],
+      "5": [
+        14
+      ],
+      "6": [
+        15
+      ],
+      "7": [
+        16
+      ],
+      "8": [
+        17
+      ],
+      "9": [
+        18
+      ],
+      "10": [
+        19
+      ],
+      "11": [
+        12,
+        13
+      ],
+      "12": [
+        12
+      ],
+      "13": [
+        16
+      ],
+      "14": [
+        8
+      ],
+      "15": [
+        20,
+        21
+      ],
+      "16": [
+        20,
+        21
+      ],
+      "17": [
+        20,
+        21
+      ],
+      "18": [
+        9
+      ],
+      "19": [
+        8
+      ],
+      "23": [
+        8
+      ],
+      "24": [
+        17
+      ],
+      "26": [
+        15
+      ],
+      "27": [
+        20,
+        21
+      ],
+      "29": [
+        22,
+        23
+      ],
+      "30": [
+        24
+      ],
+      "31": [
+        28
+      ],
+      "32": [
+        22,
+        25,
+        29,
+        30
+      ],
+      "33": [
+        24
+      ],
+      "34": [
+        32,
+        33,
+        34
+      ],
+      "35": [
+        32
+      ],
+      "41": [
+        39,
+        40
+      ],
+      "42": [
+        40
+      ],
+      "48": [
+        45
+      ],
+      "49": [
+        36,
+        37,
+        38
+      ],
+      "50": [
+        43
+      ],
+      "52": [
+        59
+      ],
+      "55": [
+        41
+      ],
+      "56": [
+        41
+      ],
+      "58": [
+        42
+      ],
+      "59": [
+        29,
+        30
+      ],
+      "72": [
+        44
+      ]
+    }
+  }
+}

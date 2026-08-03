@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32006L0048": "27f8ba818b494d5a05d9c582e1e9bb7837c49722a5366a6335f378da5cf69ca6"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "background-purpose",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          8
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "authorization-criteria",
+        "label": "Kriterier för auktorisation",
+        "range": [
+          9,
+          13
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "establishment-services",
+        "label": "Etableringsfrihet och tjänster",
+        "range": [
+          14,
+          20
+        ],
+        "articleRefs": [
+          "23",
+          "24",
+          "25",
+          "26",
+          "28",
+          "38"
+        ]
+      },
+      {
+        "id": "supervisory-cooperation",
+        "label": "Tillsyn och samarbete",
+        "range": [
+          21,
+          27
+        ],
+        "articleRefs": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "53",
+          "54"
+        ]
+      },
+      {
+        "id": "capital-base-definitions",
+        "label": "Definitioner av kapitalbas",
+        "range": [
+          28,
+          33
+        ],
+        "articleRefs": [
+          "56",
+          "57",
+          "63",
+          "64",
+          "66"
+        ]
+      },
+      {
+        "id": "minimum-capital-requirements",
+        "label": "Minimikapitalkrav",
+        "range": [
+          34,
+          46
+        ],
+        "articleRefs": [
+          "75",
+          "76",
+          "84",
+          "102"
+        ]
+      },
+      {
+        "id": "large-exposures",
+        "label": "Stora exponeringar",
+        "range": [
+          47,
+          52
+        ],
+        "articleRefs": [
+          "106",
+          "108",
+          "111",
+          "113"
+        ]
+      },
+      {
+        "id": "internal-capital-assessment",
+        "label": "Intern kapitalbedömning",
+        "range": [
+          53,
+          54
+        ],
+        "articleRefs": [
+          "123"
+        ]
+      },
+      {
+        "id": "group-supervision",
+        "label": "Gruppbaserad tillsyn",
+        "range": [
+          55,
+          60
+        ],
+        "articleRefs": [
+          "125",
+          "126",
+          "127",
+          "129",
+          "133",
+          "134"
+        ]
+      },
+      {
+        "id": "disclosure-requirements",
+        "label": "Upplysningsplikt",
+        "range": [
+          61,
+          66
+        ],
+        "articleRefs": [
+          "144",
+          "145",
+          "146"
+        ]
+      },
+      {
+        "id": "final-provisions",
+        "label": "Slutbestämmelser och övergångar",
+        "range": [
+          67,
+          72
+        ],
+        "articleRefs": [
+          "152",
+          "157"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ],
+      "2": [
+        6
+      ],
+      "4": [
+        4
+      ],
+      "6": [
+        7
+      ],
+      "7": [
+        7
+      ],
+      "9": [
+        9
+      ],
+      "9.1": [
+        9
+      ],
+      "9.2": [
+        9
+      ],
+      "10": [
+        9
+      ],
+      "11": [
+        11
+      ],
+      "11.1": [
+        11
+      ],
+      "11.2": [
+        10
+      ],
+      "12": [
+        11
+      ],
+      "12.3": [
+        11
+      ],
+      "16": [
+        14,
+        16
+      ],
+      "19": [
+        15
+      ],
+      "22": [
+        22
+      ],
+      "23": [
+        14,
+        18
+      ],
+      "24": [
+        16
+      ],
+      "25": [
+        7
+      ],
+      "26": [
+        7
+      ],
+      "28": [
+        14
+      ],
+      "30": [
+        22
+      ],
+      "38": [
+        19
+      ],
+      "40": [
+        21
+      ],
+      "41": [
+        21
+      ],
+      "42": [
+        22
+      ],
+      "43": [
+        22
+      ],
+      "44": [
+        23,
+        24,
+        26
+      ],
+      "47": [
+        23
+      ],
+      "48": [
+        23
+      ],
+      "53": [
+        27
+      ],
+      "54": [
+        22
+      ],
+      "57": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "63": [
+        28
+      ],
+      "64": [
+        31
+      ],
+      "66": [
+        30
+      ],
+      "75": [
+        34,
+        35,
+        36
+      ],
+      "76": [
+        38,
+        42
+      ],
+      "84": [
+        38,
+        41,
+        42
+      ],
+      "102": [
+        45
+      ],
+      "106": [
+        50
+      ],
+      "108": [
+        48
+      ],
+      "111": [
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "113": [
+        50,
+        51
+      ],
+      "123": [
+        53
+      ],
+      "124": [
+        54
+      ],
+      "125": [
+        10,
+        56,
+        57,
+        58
+      ],
+      "126": [
+        10,
+        56,
+        57,
+        58
+      ],
+      "127": [
+        59
+      ],
+      "129": [
+        56
+      ],
+      "133": [
+        58,
+        59
+      ],
+      "134": [
+        59
+      ],
+      "144": [
+        61
+      ],
+      "145": [
+        62
+      ],
+      "146": [
+        62
+      ]
+    }
+  }
+}

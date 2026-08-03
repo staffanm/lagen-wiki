@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32019R0881": "27d74e55864ee556032c738865aff760df4b8dff4911ae0489d2b8d950949c31"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-behov",
+        "label": "Bakgrund och behov",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "sakerhet-principer",
+        "label": "Säkerhetsprinciper och förtroende",
+        "range": [
+          7,
+          13
+        ],
+        "articleRefs": [
+          "4.7",
+          "8.3"
+        ]
+      },
+      {
+        "id": "mandat-historik",
+        "label": "Mandat och juridisk utveckling",
+        "range": [
+          14,
+          17
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "org-resurser",
+        "label": "Enisas organisation och resurser",
+        "range": [
+          18,
+          22
+        ],
+        "articleRefs": [
+          "13",
+          "14",
+          "20"
+        ]
+      },
+      {
+        "id": "kapacitets-stod",
+        "label": "Kapacitetsuppbyggnad och stöd",
+        "range": [
+          23,
+          29
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "incident-hantering",
+        "label": "Incidenthantering och sårbarheter",
+        "range": [
+          30,
+          36
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "risk-medvetenhet",
+        "label": "Riskanalys och medvetenhet",
+        "range": [
+          37,
+          41
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "marknad-internationellt",
+        "label": "Marknad och internationellt samarbete",
+        "range": [
+          42,
+          47
+        ],
+        "articleRefs": [
+          "12"
+        ]
+      },
+      {
+        "id": "cert-ramverk",
+        "label": "Certifieringsramverkets grunder",
+        "range": [
+          48,
+          55
+        ],
+        "articleRefs": [
+          "46",
+          "48",
+          "49"
+        ]
+      },
+      {
+        "id": "forvaltning-budget",
+        "label": "Förvaltning och budget",
+        "range": [
+          56,
+          64
+        ],
+        "articleRefs": [
+          "15",
+          "19",
+          "21",
+          "22",
+          "24",
+          "29"
+        ]
+      },
+      {
+        "id": "cert-syfte",
+        "label": "Certifieringens syfte och tillämpningsområde",
+        "range": [
+          65,
+          74
+        ],
+        "articleRefs": [
+          "46",
+          "47"
+        ]
+      },
+      {
+        "id": "bedomning-overensstammelse",
+        "label": "Bedömning av överensstämmelse",
+        "range": [
+          75,
+          82
+        ],
+        "articleRefs": [
+          "53",
+          "54"
+        ]
+      },
+      {
+        "id": "cert-forvaltning",
+        "label": "Förvaltning av certifieringsramverket",
+        "range": [
+          83,
+          90
+        ],
+        "articleRefs": [
+          "51",
+          "52"
+        ]
+      },
+      {
+        "id": "tillsyn-anvandning",
+        "label": "Användning och tillsyn",
+        "range": [
+          91,
+          102
+        ],
+        "articleRefs": [
+          "56",
+          "58",
+          "60"
+        ]
+      },
+      {
+        "id": "samordning-slut",
+        "label": "Samordning och slutbestämmelser",
+        "range": [
+          103,
+          110
+        ],
+        "articleRefs": [
+          "62",
+          "66",
+          "67"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        65,
+        66,
+        69
+      ],
+      "3": [
+        16,
+        17
+      ],
+      "4": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "4.7": [
+        7,
+        8,
+        10,
+        40,
+        41
+      ],
+      "6": [
+        21,
+        25,
+        26,
+        27
+      ],
+      "7": [
+        5,
+        6,
+        31,
+        32,
+        33,
+        34
+      ],
+      "7.4": [
+        30,
+        34
+      ],
+      "7.6": [
+        35
+      ],
+      "7.7": [
+        5,
+        6,
+        32
+      ],
+      "8.3": [
+        8,
+        10,
+        12,
+        13
+      ],
+      "8.7": [
+        42
+      ],
+      "9": [
+        38,
+        39
+      ],
+      "10": [
+        40,
+        41
+      ],
+      "12": [
+        43,
+        54
+      ],
+      "14": [
+        58
+      ],
+      "15": [
+        57
+      ],
+      "20": [
+        59
+      ],
+      "21": [
+        61
+      ],
+      "22": [
+        62
+      ],
+      "46": [
+        69,
+        70
+      ],
+      "47": [
+        84
+      ],
+      "48": [
+        84
+      ],
+      "49": [
+        83,
+        84
+      ],
+      "50": [
+        85
+      ],
+      "51": [
+        75
+      ],
+      "52": [
+        78,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "53": [
+        79,
+        80,
+        81,
+        82
+      ],
+      "54": [
+        76,
+        86,
+        87
+      ],
+      "55": [
+        93
+      ],
+      "56": [
+        91,
+        92,
+        94,
+        95,
+        96
+      ],
+      "58": [
+        101,
+        102
+      ],
+      "60": [
+        97
+      ],
+      "61": [
+        97
+      ],
+      "62": [
+        103
+      ],
+      "63": [
+        102
+      ],
+      "65": [
+        102
+      ],
+      "67": [
+        108
+      ]
+    }
+  }
+}

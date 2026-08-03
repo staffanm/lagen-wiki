@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32020R0852": "4538a9311fe15bb910007b13dad48cd5c85bb45888066c39652cee257f04ac5d"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "strategi-hallbar-finansiering",
+        "label": "Strategi för hållbar finansiering",
+        "range": [
+          5,
+          10
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "inre-marknad-harmonisering",
+        "label": "Inre marknaden och harmonisering",
+        "range": [
+          11,
+          14
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "incitament-ramverk",
+        "label": "Incitament och framtida ramverk",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "8"
+        ]
+      },
+      {
+        "id": "transparens-upplysningar",
+        "label": "Transparens och upplysningsskyldigheter",
+        "range": [
+          18,
+          22
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "miljomal-definitioner",
+        "label": "Miljömål och definitioner",
+        "range": [
+          23,
+          33
+        ],
+        "articleRefs": [
+          "2",
+          "9"
+        ]
+      },
+      {
+        "id": "grundkriterier-skyddsatgärder",
+        "label": "Grundläggande kriterier och minimiskyddsåtgärder",
+        "range": [
+          34,
+          35
+        ],
+        "articleRefs": [
+          "3",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "regulatoriska-tekniska-standarder",
+        "label": "Regulatoriska tekniska standarder",
+        "range": [
+          36,
+          37
+        ],
+        "articleRefs": [
+          "25"
+        ]
+      },
+      {
+        "id": "tekniska-granskningskriterier",
+        "label": "Tekniska granskningskriterier",
+        "range": [
+          38,
+          42
+        ],
+        "articleRefs": [
+          "3",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "tillampning-metodik",
+        "label": "Tillämpning och metodik för kriterier",
+        "range": [
+          43,
+          49
+        ],
+        "articleRefs": [
+          "19"
+        ]
+      },
+      {
+        "id": "plattform-experter",
+        "label": "Plattform för hållbar finansiering och expertgrupper",
+        "range": [
+          50,
+          53
+        ],
+        "articleRefs": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "id": "styrning-tillsyn",
+        "label": "Styrning, tillsyn och sanktioner",
+        "range": [
+          54,
+          56
+        ],
+        "articleRefs": [
+          "21",
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "ikrafttradande-overgang",
+        "label": "Ikraftträdande och övergång",
+        "range": [
+          57,
+          58
+        ],
+        "articleRefs": [
+          "27"
+        ]
+      },
+      {
+        "id": "oversyn-proportionalitet",
+        "label": "Översyn och proportionalitet",
+        "range": [
+          59,
+          60
+        ],
+        "articleRefs": [
+          "26"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        4,
+        9,
+        12
+      ],
+      "1.2": [
+        11,
+        12,
+        14
+      ],
+      "2": [
+        23,
+        33
+      ],
+      "3": [
+        34,
+        35,
+        38,
+        40
+      ],
+      "3.a": [
+        23,
+        38
+      ],
+      "3.b": [
+        34,
+        40
+      ],
+      "3.c": [
+        35
+      ],
+      "4": [
+        11,
+        12,
+        14
+      ],
+      "5": [
+        13,
+        18,
+        19
+      ],
+      "6": [
+        11,
+        18
+      ],
+      "7": [
+        11,
+        18
+      ],
+      "8": [
+        15,
+        22
+      ],
+      "8.2": [
+        22
+      ],
+      "9": [
+        23
+      ],
+      "10": [
+        24,
+        41
+      ],
+      "10.2": [
+        41
+      ],
+      "11": [
+        25
+      ],
+      "12": [
+        26
+      ],
+      "13": [
+        27,
+        28
+      ],
+      "14": [
+        29
+      ],
+      "15": [
+        30,
+        31
+      ],
+      "16": [
+        42
+      ],
+      "17": [
+        34,
+        40
+      ],
+      "18": [
+        35
+      ],
+      "19": [
+        38,
+        39,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "20": [
+        50,
+        51,
+        52
+      ],
+      "21": [
+        55
+      ],
+      "22": [
+        55
+      ],
+      "23": [
+        54
+      ],
+      "24": [
+        53
+      ],
+      "25": [
+        36,
+        37
+      ],
+      "26": [
+        59
+      ],
+      "27": [
+        57,
+        58
+      ]
+    }
+  }
+}

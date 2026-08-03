@@ -1,0 +1,576 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32023R1114": "be0c922d85896c05693eef35c01d9eabdf4b9815ab3c643355b730b15b504755"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "background-innovation",
+        "label": "Bakgrund och innovation",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "environmental-impact",
+        "label": "Miljömässiga konsekvenser",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "6",
+          "66"
+        ]
+      },
+      {
+        "id": "scope-exclusions",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          8,
+          17
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "asset-classification",
+        "label": "Klassificering av kryptotillgångar",
+        "range": [
+          18,
+          22
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "whitepapers-marketing",
+        "label": "Vitböcker och marknadsföring",
+        "range": [
+          23,
+          35
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "12"
+        ]
+      },
+      {
+        "id": "investor-protection-general",
+        "label": "Investerarskydd och ansvar",
+        "range": [
+          36,
+          39
+        ],
+        "articleRefs": [
+          "10",
+          "13",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "asset-referenced-tokens",
+        "label": "Tillgångsanknutna token",
+        "range": [
+          40,
+          65
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "46",
+          "47"
+        ]
+      },
+      {
+        "id": "emt-tokens",
+        "label": "E-pengatoken",
+        "range": [
+          66,
+          72
+        ],
+        "articleRefs": [
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "55"
+        ]
+      },
+      {
+        "id": "casp-authorization",
+        "label": "Auktorisation av tjänsteleverantörer",
+        "range": [
+          73,
+          78
+        ],
+        "articleRefs": [
+          "59",
+          "60",
+          "62",
+          "63",
+          "64",
+          "65"
+        ]
+      },
+      {
+        "id": "casp-conduct-organizational",
+        "label": "Tjänsteleverantörers organisatoriska krav",
+        "range": [
+          79,
+          82
+        ],
+        "articleRefs": [
+          "66",
+          "67",
+          "68",
+          "69",
+          "70",
+          "71",
+          "72",
+          "73",
+          "74"
+        ]
+      },
+      {
+        "id": "casp-specific-services",
+        "label": "Specifika kryptotillgångstjänster",
+        "range": [
+          83,
+          94
+        ],
+        "articleRefs": [
+          "75",
+          "76",
+          "77",
+          "78",
+          "79",
+          "80",
+          "81",
+          "82"
+        ]
+      },
+      {
+        "id": "market-abuse",
+        "label": "Marknadsmissbruk",
+        "range": [
+          95,
+          97
+        ],
+        "articleRefs": [
+          "86",
+          "87",
+          "88",
+          "89",
+          "90",
+          "91",
+          "92"
+        ]
+      },
+      {
+        "id": "supervisory-powers",
+        "label": "Tillsynsmyndigheter och befogenheter",
+        "range": [
+          98,
+          108
+        ],
+        "articleRefs": [
+          "93",
+          "94",
+          "95",
+          "96",
+          "97",
+          "98",
+          "99",
+          "100",
+          "101",
+          "102",
+          "105",
+          "106",
+          "107",
+          "108"
+        ]
+      },
+      {
+        "id": "eba-esma-intervention",
+        "label": "EBA och Esmas roll och intervention",
+        "range": [
+          102,
+          107
+        ],
+        "articleRefs": [
+          "103",
+          "104",
+          "117",
+          "118",
+          "119",
+          "120"
+        ]
+      },
+      {
+        "id": "eba-supervision-details",
+        "label": "EBA:s tillsynsmetoder och avgifter",
+        "range": [
+          121,
+          138
+        ],
+        "articleRefs": [
+          "121",
+          "122",
+          "123",
+          "124",
+          "125",
+          "126",
+          "127",
+          "128",
+          "129",
+          "130",
+          "131",
+          "132",
+          "133",
+          "134",
+          "135",
+          "137",
+          "138"
+        ]
+      },
+      {
+        "id": "final-provisions",
+        "label": "Slutbestämmelser och övergångar",
+        "range": [
+          109,
+          119
+        ],
+        "articleRefs": [
+          "139",
+          "140",
+          "141",
+          "142",
+          "143",
+          "149"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        6
+      ],
+      "2": [
+        3,
+        4,
+        9,
+        10,
+        11,
+        12,
+        13,
+        17
+      ],
+      "2.4": [
+        9,
+        10,
+        11
+      ],
+      "3": [
+        18,
+        19
+      ],
+      "4": [
+        24,
+        26,
+        27
+      ],
+      "4.2": [
+        27
+      ],
+      "4.3": [
+        26
+      ],
+      "5": [
+        32
+      ],
+      "6": [
+        24,
+        7
+      ],
+      "7": [
+        24
+      ],
+      "8": [
+        31,
+        33
+      ],
+      "9": [
+        35
+      ],
+      "10": [
+        36
+      ],
+      "12": [
+        33
+      ],
+      "13": [
+        37
+      ],
+      "14": [
+        38
+      ],
+      "15": [
+        39
+      ],
+      "16": [
+        40,
+        42,
+        43
+      ],
+      "17": [
+        44
+      ],
+      "18": [
+        43,
+        45
+      ],
+      "19": [
+        47
+      ],
+      "20": [
+        45
+      ],
+      "21": [
+        45
+      ],
+      "22": [
+        60,
+        61
+      ],
+      "23": [
+        61,
+        62
+      ],
+      "24": [
+        62
+      ],
+      "25": [
+        41
+      ],
+      "27": [
+        49
+      ],
+      "28": [
+        48
+      ],
+      "29": [
+        47
+      ],
+      "30": [
+        48
+      ],
+      "31": [
+        49
+      ],
+      "32": [
+        50
+      ],
+      "34": [
+        51
+      ],
+      "35": [
+        53
+      ],
+      "36": [
+        54
+      ],
+      "37": [
+        55
+      ],
+      "38": [
+        56
+      ],
+      "39": [
+        57
+      ],
+      "40": [
+        58
+      ],
+      "46": [
+        64
+      ],
+      "47": [
+        65
+      ],
+      "48": [
+        66
+      ],
+      "49": [
+        67
+      ],
+      "50": [
+        68
+      ],
+      "51": [
+        69
+      ],
+      "54": [
+        70
+      ],
+      "55": [
+        72
+      ],
+      "59": [
+        73,
+        74,
+        76
+      ],
+      "60": [
+        78
+      ],
+      "62": [
+        74
+      ],
+      "63": [
+        76
+      ],
+      "64": [
+        76
+      ],
+      "66": [
+        79
+      ],
+      "67": [
+        80
+      ],
+      "68": [
+        81
+      ],
+      "70": [
+        82
+      ],
+      "71": [
+        79
+      ],
+      "72": [
+        79
+      ],
+      "73": [
+        79
+      ],
+      "74": [
+        81
+      ],
+      "75": [
+        83
+      ],
+      "76": [
+        84
+      ],
+      "77": [
+        85
+      ],
+      "78": [
+        86
+      ],
+      "79": [
+        88
+      ],
+      "80": [
+        86
+      ],
+      "81": [
+        89
+      ],
+      "82": [
+        93
+      ],
+      "86": [
+        95,
+        96
+      ],
+      "87": [
+        96
+      ],
+      "88": [
+        96
+      ],
+      "89": [
+        95
+      ],
+      "90": [
+        95
+      ],
+      "91": [
+        95
+      ],
+      "92": [
+        95
+      ],
+      "94": [
+        98,
+        99
+      ],
+      "103": [
+        103
+      ],
+      "104": [
+        104
+      ],
+      "105": [
+        105
+      ],
+      "117": [
+        102,
+        103,
+        106
+      ],
+      "119": [
+        105
+      ],
+      "130": [
+        130
+      ]
+    }
+  }
+}

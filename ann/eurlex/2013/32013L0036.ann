@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-26",
+    "inputs": {
+      "artifact:eurlex/32013L0036": "9edd189d9b064fbc094716fca318be3437c6722e04653e18f0718c0e5e061552"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "tillsynsmyndigheter-eba",
+        "label": "Tillsynsmyndigheter och EBA",
+        "range": [
+          7,
+          11
+        ],
+        "articleRefs": [
+          "4",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "auktorisation-behorighet",
+        "label": "Auktorisation och behörighet",
+        "range": [
+          12,
+          21
+        ],
+        "articleRefs": [
+          "8",
+          "12",
+          "13",
+          "14",
+          "18"
+        ]
+      },
+      {
+        "id": "etablering-tjanster",
+        "label": "Etablerings- och tjänstefrihet",
+        "range": [
+          19,
+          27
+        ],
+        "articleRefs": [
+          "33",
+          "34",
+          "35",
+          "36",
+          "40",
+          "41",
+          "43",
+          "44"
+        ]
+      },
+      {
+        "id": "samarbete-information",
+        "label": "Samarbete och informationsutbyte",
+        "range": [
+          28,
+          33
+        ],
+        "articleRefs": [
+          "50",
+          "53",
+          "56",
+          "63"
+        ]
+      },
+      {
+        "id": "sanktioner-overvakning",
+        "label": "Sanktioner och övervakning",
+        "range": [
+          34,
+          42
+        ],
+        "articleRefs": [
+          "65",
+          "66",
+          "67",
+          "71",
+          "72"
+        ]
+      },
+      {
+        "id": "kapital-marknadsdisciplin",
+        "label": "Kapital och marknadsdisciplin",
+        "range": [
+          43,
+          52
+        ],
+        "articleRefs": [
+          "73",
+          "89",
+          "90"
+        ]
+      },
+      {
+        "id": "foretagsstyrning-ledning",
+        "label": "Företagsstyrning och ledning",
+        "range": [
+          53,
+          61
+        ],
+        "articleRefs": [
+          "74",
+          "88",
+          "91"
+        ]
+      },
+      {
+        "id": "ersattningspolicy",
+        "label": "Ersättningspolicy",
+        "range": [
+          62,
+          69
+        ],
+        "articleRefs": [
+          "92",
+          "93",
+          "94",
+          "95"
+        ]
+      },
+      {
+        "id": "interna-modeller-kreditbetyg",
+        "label": "Interna modeller och kreditbetyg",
+        "range": [
+          70,
+          75
+        ],
+        "articleRefs": [
+          "77",
+          "78",
+          "79"
+        ]
+      },
+      {
+        "id": "likviditet-kapitalbuffertar",
+        "label": "Likviditet och kapitalbuffertar",
+        "range": [
+          76,
+          83
+        ],
+        "articleRefs": [
+          "86",
+          "129",
+          "130"
+        ]
+      },
+      {
+        "id": "systemrisk-koncentrationsrisk",
+        "label": "Systemrisk och koncentrationsrisk",
+        "range": [
+          84,
+          90
+        ],
+        "articleRefs": [
+          "81",
+          "131",
+          "133"
+        ]
+      },
+      {
+        "id": "tekniska-standarder",
+        "label": "Tekniska standarder och förfaranden",
+        "range": [
+          91,
+          96
+        ],
+        "articleRefs": [
+          "145",
+          "146"
+        ]
+      },
+      {
+        "id": "overgang-ovrigt",
+        "label": "Övergångsbestämmelser och övrigt",
+        "range": [
+          97,
+          107
+        ],
+        "articleRefs": [
+          "151",
+          "162"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        14,
+        15
+      ],
+      "4": [
+        7,
+        8,
+        10
+      ],
+      "6": [
+        6
+      ],
+      "7": [
+        10
+      ],
+      "8": [
+        15,
+        16,
+        17
+      ],
+      "12": [
+        4
+      ],
+      "13": [
+        17
+      ],
+      "14": [
+        17,
+        49
+      ],
+      "18": [
+        16
+      ],
+      "33": [
+        19,
+        20
+      ],
+      "34": [
+        19,
+        20
+      ],
+      "35": [
+        19,
+        21,
+        22
+      ],
+      "36": [
+        19,
+        21,
+        22
+      ],
+      "40": [
+        26
+      ],
+      "41": [
+        27
+      ],
+      "43": [
+        27
+      ],
+      "44": [
+        26
+      ],
+      "50": [
+        13,
+        28
+      ],
+      "53": [
+        29
+      ],
+      "56": [
+        30,
+        31
+      ],
+      "63": [
+        33
+      ],
+      "65": [
+        35,
+        36,
+        37,
+        38,
+        40,
+        41,
+        42
+      ],
+      "66": [
+        35
+      ],
+      "67": [
+        35
+      ],
+      "71": [
+        61
+      ],
+      "72": [
+        39
+      ],
+      "73": [
+        43,
+        44
+      ],
+      "74": [
+        34,
+        53,
+        54
+      ],
+      "81": [
+        84
+      ],
+      "86": [
+        3,
+        76,
+        77
+      ],
+      "88": [
+        55,
+        56
+      ],
+      "89": [
+        46,
+        52
+      ],
+      "90": [
+        46,
+        52
+      ],
+      "91": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "92": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "93": [
+        62,
+        63
+      ],
+      "94": [
+        64,
+        65
+      ],
+      "95": [
+        66
+      ],
+      "97": [
+        100
+      ],
+      "104": [
+        35
+      ],
+      "111": [
+        47,
+        48
+      ],
+      "112": [
+        47,
+        48
+      ],
+      "129": [
+        79,
+        80
+      ],
+      "130": [
+        81,
+        82
+      ],
+      "131": [
+        90
+      ],
+      "133": [
+        85
+      ]
+    }
+  }
+}

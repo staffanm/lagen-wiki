@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:remisser/sou/2023:45/transportstyrelsen": "8dd8529f32d0ca4f31fd45eec882f679a0c079175e548af902416be30ed278b5",
+      "artifact:forarbete/sou/2023-45": "2656d53642f7622cd8d0506880eaa07bd2157c6f69d7ae787bf078d29bf3ac66"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Transportstyrelsen har inget att invända mot förslagen, men har följande synpunkter:"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.6",
+      "sentiment": -0.5,
+      "quote": "Transportstyrelsen anser att, vid bedömning avseende vilka chefer eller andra arbetstagare som ska omfattas av övergångsrestriktioner, det kan leda till olika bedömningar mellan myndigheterna och mellan verksamheterna."
+    },
+    {
+      "forarbete_id": "a10.15",
+      "sentiment": 1.0,
+      "quote": "Transportstyrelsen instämmer i förslaget avseende ersättning till arbetstagare som meddelas övergångsrestriktioner."
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": -0.5,
+      "quote": "Kostnaden för de föreslagna ersättningarna riskerar dock att bli en stor post för en enskild myndighet."
+    }
+  ]
+}

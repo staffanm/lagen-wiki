@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:remisser/sou/2023:45/affarsverket-svenska-kraftnat": "70dae8ee929a67a8534e3f305d3689f9a5a6559fdaf0804b885fa1cd40ab4572",
+      "artifact:forarbete/sou/2023-45": "2656d53642f7622cd8d0506880eaa07bd2157c6f69d7ae787bf078d29bf3ac66"
+    }
+  },
+  "overall": {
+    "sentiment": -0.7,
+    "quote": "Sammantaget avstyrker vi förslaget att omfatta arbetstagare under myndighetschefsnivå."
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3.5",
+      "sentiment": 1.0,
+      "quote": "Svenska kraftnät instämmer i förslaget att myndighetschefer ska omfattas av lagen."
+    },
+    {
+      "forarbete_id": "a8.1.5",
+      "sentiment": -1.0,
+      "quote": "Sammantaget avstyrker vi förslaget att omfatta arbetstagare under myndighetschefsnivå."
+    },
+    {
+      "forarbete_id": "a10.8",
+      "sentiment": -0.6,
+      "quote": "Det innebär att dessa personer riskerar att behandlas olika vid övergång till privat verksamhet, trots att risken för skada är densamma, vilket inte framstår som lämpligt."
+    }
+  ]
+}

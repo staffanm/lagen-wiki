@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009L0022": "3d8a5cd1c2a2ec3d8ddbce898b48a854510d80c01c49bab8528c7bab3efba650"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "kodifiering-och-grund",
+        "label": "Kodifiering och grund",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "syfte-och-kollektiva-intressen",
+        "label": "Syfte och kollektiva intressen",
+        "range": [
+          3,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "rättslig-tillnärmning-och-behörighet",
+        "label": "Rättslig tillnärmning och behörighet",
+        "range": [
+          7,
+          9
+        ],
+        "articleRefs": [
+          "2",
+          "7"
+        ]
+      },
+      {
+        "id": "behöriga-inrättningar",
+        "label": "Behöriga inrättningar",
+        "range": [
+          10,
+          11
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "ömsesidigt-erkännande-och-förteckning",
+        "label": "Ömsesidigt erkännande och förteckning",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "föregående-samråd",
+        "label": "Föregående samråd",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "uppföljning-och-övriga-bestämmelser",
+        "label": "Uppföljning och övriga bestämmelser",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "6",
+          "9"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "1.1": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "1.2": [
+        2,
+        3
+      ],
+      "2": [
+        7,
+        9
+      ],
+      "2.1": [
+        9
+      ],
+      "2.2": [
+        7
+      ],
+      "3": [
+        10,
+        11
+      ],
+      "3.a": [
+        10
+      ],
+      "3.b": [
+        10
+      ],
+      "4": [
+        12,
+        13
+      ],
+      "4.1": [
+        12
+      ],
+      "4.2": [
+        12
+      ],
+      "4.3": [
+        13
+      ],
+      "5": [
+        14,
+        15
+      ],
+      "5.1": [
+        14,
+        15
+      ],
+      "5.2": [
+        14
+      ],
+      "6": [
+        16
+      ],
+      "6.2": [
+        16
+      ],
+      "7": [
+        9
+      ],
+      "9": [
+        18
+      ]
+    }
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32019R0818": "f52a9b9f8dcdd7ac30849aa8f6063d876ba1ca7f817b1b08bb9a7aeebc01b457"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-strategi",
+        "label": "Bakgrund och strategi",
+        "range": [
+          1,
+          8
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "syfte-komponenter",
+        "label": "Interoperabilitetens syfte och komponenter",
+        "range": [
+          9,
+          12
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "europeiska-sokportalen",
+        "label": "Europeiska sökportalen (ESP)",
+        "range": [
+          13,
+          17
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "biometrisk-matchning",
+        "label": "Gemensam biometrisk matchningstjänst",
+        "range": [
+          18,
+          20
+        ],
+        "articleRefs": [
+          "12",
+          "13",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "identitetsdatabas-cir",
+        "label": "Gemensam databas för identitetsuppgifter (CIR)",
+        "range": [
+          21,
+          27
+        ],
+        "articleRefs": [
+          "17",
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "identifiering-polismyndigheter",
+        "label": "Identifiering och polismyndigheters åtkomst",
+        "range": [
+          28,
+          30
+        ],
+        "articleRefs": [
+          "20"
+        ]
+      },
+      {
+        "id": "bekampning-grov-brottslighet",
+        "label": "Åtkomst för bekämpning av terroristbrott och grov brottslighet",
+        "range": [
+          31,
+          36
+        ],
+        "articleRefs": [
+          "22"
+        ]
+      },
+      {
+        "id": "multipla-identiteter-mid",
+        "label": "Detektorn för multipla identiteter (MID)",
+        "range": [
+          37,
+          39
+        ],
+        "articleRefs": [
+          "25"
+        ]
+      },
+      {
+        "id": "verifiering-lankning",
+        "label": "Verifiering och länkning av identiteter",
+        "range": [
+          40,
+          47
+        ],
+        "articleRefs": [
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34"
+        ]
+      },
+      {
+        "id": "uppgiftskvalitet-teknik",
+        "label": "Uppgiftskvalitet och tekniska standarder",
+        "range": [
+          48,
+          52
+        ],
+        "articleRefs": [
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "id": "dataskydd-tillsyn",
+        "label": "Dataskydd och tillsyn",
+        "range": [
+          53,
+          60
+        ],
+        "articleRefs": [
+          "40",
+          "41",
+          "51",
+          "52",
+          "53"
+        ]
+      },
+      {
+        "id": "sakerhet-integritet",
+        "label": "Säkerhet och integritet",
+        "range": [
+          61,
+          62
+        ],
+        "articleRefs": [
+          "42",
+          "43"
+        ]
+      },
+      {
+        "id": "overgang-finansiering",
+        "label": "Övergångsbestämmelser och finansiering",
+        "range": [
+          63,
+          65
+        ],
+        "articleRefs": [
+          "63",
+          "64",
+          "65",
+          "66"
+        ]
+      },
+      {
+        "id": "genomforande-delegering",
+        "label": "Genomförande och delegerade akter",
+        "range": [
+          66,
+          68
+        ],
+        "articleRefs": [
+          "68",
+          "69",
+          "70"
+        ]
+      },
+      {
+        "id": "registrerades-rattigheter",
+        "label": "De registrerades rättigheter",
+        "range": [
+          69,
+          71
+        ],
+        "articleRefs": [
+          "47",
+          "48",
+          "49"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Särskilda och slutliga bestämmelser",
+        "range": [
+          72,
+          80
+        ],
+        "articleRefs": [
+          "75"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        6,
+        9
+      ],
+      "2": [
+        9,
+        10
+      ],
+      "3": [
+        11,
+        12
+      ],
+      "5": [
+        40,
+        79
+      ],
+      "6": [
+        13,
+        17
+      ],
+      "7": [
+        13,
+        15,
+        17
+      ],
+      "8": [
+        13,
+        16
+      ],
+      "9": [
+        13,
+        14,
+        16
+      ],
+      "9.5": [
+        14
+      ],
+      "10": [
+        35
+      ],
+      "12": [
+        18
+      ],
+      "13": [
+        18,
+        19
+      ],
+      "14": [
+        18
+      ],
+      "15": [
+        22
+      ],
+      "16": [
+        16
+      ],
+      "17": [
+        21,
+        23,
+        26
+      ],
+      "18": [
+        22,
+        26
+      ],
+      "19": [
+        23
+      ],
+      "20": [
+        28,
+        29,
+        30
+      ],
+      "20.2": [
+        28
+      ],
+      "20.4": [
+        28
+      ],
+      "21": [
+        46
+      ],
+      "22": [
+        31,
+        32,
+        33,
+        34,
+        36
+      ],
+      "22.1": [
+        31
+      ],
+      "22.2": [
+        32
+      ],
+      "24": [
+        35
+      ],
+      "25": [
+        37,
+        38,
+        39
+      ],
+      "26": [
+        44,
+        46,
+        47
+      ],
+      "27": [
+        41
+      ],
+      "28": [
+        41
+      ],
+      "29": [
+        42,
+        43
+      ],
+      "30": [
+        28
+      ],
+      "31": [
+        47
+      ],
+      "32": [
+        39,
+        46
+      ],
+      "32.4": [
+        45
+      ],
+      "33": [
+        39
+      ],
+      "33.4": [
+        45
+      ],
+      "34": [
+        45
+      ],
+      "36": [
+        41
+      ],
+      "37": [
+        48,
+        49
+      ],
+      "38": [
+        50,
+        51
+      ],
+      "39": [
+        52
+      ],
+      "40": [
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "41": [
+        57
+      ],
+      "42": [
+        61
+      ],
+      "43": [
+        61
+      ],
+      "45": [
+        71
+      ],
+      "46": [
+        71
+      ],
+      "47": [
+        69
+      ],
+      "48": [
+        69
+      ],
+      "49": [
+        69
+      ],
+      "50": [
+        55
+      ],
+      "51": [
+        58
+      ],
+      "52": [
+        58
+      ],
+      "53": [
+        58
+      ],
+      "63": [
+        63
+      ],
+      "64": [
+        63
+      ],
+      "65": [
+        63
+      ],
+      "66": [
+        65
+      ],
+      "68": [
+        67,
+        68
+      ],
+      "69": [
+        66
+      ],
+      "70": [
+        68
+      ],
+      "75": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ]
+    }
+  }
+}

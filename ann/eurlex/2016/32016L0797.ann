@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32016L0797": "66f3b53150559a617077ebd2e0d809aef4f9eafcb2190b7ba1529509927ae973"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-undantag",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          5,
+          6
+        ],
+        "articleRefs": [
+          "1.3",
+          "1.4"
+        ]
+      },
+      {
+        "id": "allmanna-mal-krav",
+        "label": "Allmänna mål och väsentliga krav",
+        "range": [
+          7,
+          11
+        ],
+        "articleRefs": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "id": "tsd-standardisering",
+        "label": "Tekniska specifikationer (TSD) och standardisering",
+        "range": [
+          12,
+          16
+        ],
+        "articleRefs": [
+          "4",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "kompatibilitet-nationella-regler",
+        "label": "Kompatibilitet och nationella regler",
+        "range": [
+          17,
+          27
+        ],
+        "articleRefs": [
+          "4.6",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "systemuppbyggnad-tillganglighet",
+        "label": "Järnvägssystemets uppbyggnad och tillgänglighet",
+        "range": [
+          28,
+          30
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "kostnader-avvikelser-innovation",
+        "label": "Kostnader, avvikelser och innovation",
+        "range": [
+          31,
+          34
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "upphandling-standarder",
+        "label": "Upphandling och internationella standarder",
+        "range": [
+          35,
+          37
+        ],
+        "articleRefs": [
+          "4.8"
+        ]
+      },
+      {
+        "id": "overensstammnelse-komponenter",
+        "label": "Bedömning av överensstämmelse och komponenter",
+        "range": [
+          38,
+          41
+        ],
+        "articleRefs": [
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "kontroll-korrigering",
+        "label": "Kontrollförfaranden och korrigerande åtgärder",
+        "range": [
+          42,
+          44
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "26"
+        ]
+      },
+      {
+        "id": "myndighetsroller-ertms",
+        "label": "Myndighetsroller och ERTMS",
+        "range": [
+          45,
+          48
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "fordonsgodkannande",
+        "label": "Fordonsgodkännande och marknadstillträde",
+        "range": [
+          49,
+          55
+        ],
+        "articleRefs": [
+          "21"
+        ]
+      },
+      {
+        "id": "fordonsregistrering",
+        "label": "Fordonsregistrering och nummer",
+        "range": [
+          56,
+          58
+        ],
+        "articleRefs": [
+          "22",
+          "46",
+          "47"
+        ]
+      },
+      {
+        "id": "anmalda-organ-ackreditering",
+        "label": "Anmälda organ och ackreditering",
+        "range": [
+          59,
+          61
+        ],
+        "articleRefs": [
+          "17",
+          "27",
+          "30"
+        ]
+      },
+      {
+        "id": "forvaltning-genomforande",
+        "label": "Förvaltning och genomförande",
+        "range": [
+          62,
+          66
+        ],
+        "articleRefs": [
+          "50",
+          "51"
+        ]
+      },
+      {
+        "id": "overgang-inforlivande",
+        "label": "Övergångsbestämmelser och införlivande",
+        "range": [
+          67,
+          71
+        ],
+        "articleRefs": [
+          "53",
+          "54",
+          "57"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "1.3": [
+        5
+      ],
+      "1.4": [
+        5,
+        6
+      ],
+      "3": [
+        11
+      ],
+      "4": [
+        12,
+        16,
+        17,
+        18
+      ],
+      "4.6": [
+        18
+      ],
+      "4.8": [
+        35,
+        37
+      ],
+      "7": [
+        33
+      ],
+      "8": [
+        39
+      ],
+      "9": [
+        16,
+        38,
+        39
+      ],
+      "10": [
+        16,
+        38,
+        39
+      ],
+      "13": [
+        18,
+        19
+      ],
+      "14": [
+        18,
+        24,
+        25,
+        26
+      ],
+      "15": [
+        42
+      ],
+      "16": [
+        42
+      ],
+      "17": [
+        61
+      ],
+      "18": [
+        45,
+        46
+      ],
+      "19": [
+        47
+      ],
+      "21": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "22": [
+        56,
+        57
+      ],
+      "26": [
+        44
+      ],
+      "27": [
+        60
+      ],
+      "30": [
+        60
+      ],
+      "46": [
+        56
+      ],
+      "47": [
+        56,
+        57
+      ],
+      "50": [
+        63
+      ],
+      "51": [
+        64
+      ],
+      "53": [
+        67
+      ],
+      "54": [
+        67
+      ],
+      "57": [
+        68,
+        70,
+        71
+      ]
+    }
+  }
+}

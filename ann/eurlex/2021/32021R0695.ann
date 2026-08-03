@@ -1,0 +1,387 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32021R0695": "d5d5a99d7d954dc64c1e0ea4086dc01f42332d5ab2b8a3d35ce7911118913e52"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-allmanna-mal",
+        "label": "Bakgrund och allmänna mål",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "id": "open-science-data",
+        "label": "Öppen vetenskap och data",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "2",
+          "14",
+          "39"
+        ]
+      },
+      {
+        "id": "strategiska-prioriteringar",
+        "label": "Strategiska prioriteringar och tvärvetenskaplighet",
+        "range": [
+          9,
+          15
+        ],
+        "articleRefs": [
+          "3",
+          "7"
+        ]
+      },
+      {
+        "id": "breddning-kompetens",
+        "label": "Breddning av deltagandet och kompetens",
+        "range": [
+          16,
+          23
+        ],
+        "articleRefs": [
+          "4",
+          "7"
+        ]
+      },
+      {
+        "id": "struktur-pelare",
+        "label": "Programmets pelare och struktur",
+        "range": [
+          24,
+          31
+        ],
+        "articleRefs": [
+          "4",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "synergier-tidigare-program",
+        "label": "Synergier och utvärdering av tidigare program",
+        "range": [
+          32,
+          35
+        ],
+        "articleRefs": [
+          "15",
+          "52"
+        ]
+      },
+      {
+        "id": "europeiska-partnerskap",
+        "label": "Europeiska partnerskap",
+        "range": [
+          36,
+          39
+        ],
+        "articleRefs": [
+          "10"
+        ]
+      },
+      {
+        "id": "jrc-innovativa-europa",
+        "label": "JRC och Innovativa Europa",
+        "range": [
+          40,
+          47
+        ],
+        "articleRefs": [
+          "4",
+          "9",
+          "46",
+          "47",
+          "48"
+        ]
+      },
+      {
+        "id": "eit-konkurrens",
+        "label": "EIT och konkurrens",
+        "range": [
+          48,
+          49
+        ],
+        "articleRefs": [
+          "4",
+          "48"
+        ]
+      },
+      {
+        "id": "internationellt-inkludering",
+        "label": "Internationellt samarbete och inkludering",
+        "range": [
+          50,
+          54
+        ],
+        "articleRefs": [
+          "7",
+          "16",
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "finansiell-forvaltning",
+        "label": "Finansiell förvaltning och administrativa regler",
+        "range": [
+          55,
+          61
+        ],
+        "articleRefs": [
+          "6",
+          "12",
+          "53"
+        ]
+      },
+      {
+        "id": "tredjeland-overvakning",
+        "label": "Tredjeländer och övervakning",
+        "range": [
+          62,
+          68
+        ],
+        "articleRefs": [
+          "16",
+          "50",
+          "54"
+        ]
+      },
+      {
+        "id": "etik-miljo",
+        "label": "Etik, grundläggande rättigheter och miljö",
+        "range": [
+          69,
+          78
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "7"
+        ]
+      },
+      {
+        "id": "finansiering-bidrag",
+        "label": "Finansieringsregler och bidrag",
+        "range": [
+          79,
+          84
+        ],
+        "articleRefs": [
+          "22",
+          "34",
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "resultat-urval",
+        "label": "Resultat, utnyttjande och urval",
+        "range": [
+          85,
+          89
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "38",
+          "39",
+          "43"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser",
+        "range": [
+          90,
+          92
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3
+      ],
+      "2": [
+        7,
+        8,
+        31,
+        42
+      ],
+      "3": [
+        1,
+        2,
+        4,
+        5,
+        11
+      ],
+      "4": [
+        22,
+        24,
+        41
+      ],
+      "5": [
+        54
+      ],
+      "6": [
+        18,
+        28,
+        29,
+        30,
+        60,
+        89
+      ],
+      "7": [
+        6,
+        14,
+        15,
+        20,
+        21,
+        51,
+        53,
+        74,
+        76
+      ],
+      "8": [
+        24
+      ],
+      "9": [
+        41,
+        44
+      ],
+      "10": [
+        36,
+        38
+      ],
+      "12": [
+        16,
+        55
+      ],
+      "13": [
+        35
+      ],
+      "14": [
+        7,
+        8
+      ],
+      "15": [
+        34,
+        37,
+        67,
+        68
+      ],
+      "16": [
+        50,
+        62,
+        73
+      ],
+      "18": [
+        18
+      ],
+      "19": [
+        71,
+        72
+      ],
+      "20": [
+        78
+      ],
+      "22": [
+        50,
+        73,
+        79
+      ],
+      "23": [
+        50,
+        63
+      ],
+      "24": [
+        29
+      ],
+      "26": [
+        8,
+        31
+      ],
+      "27": [
+        84
+      ],
+      "28": [
+        86
+      ],
+      "29": [
+        86
+      ],
+      "31": [
+        18
+      ],
+      "34": [
+        81
+      ],
+      "36": [
+        82,
+        83
+      ],
+      "37": [
+        84
+      ],
+      "38": [
+        85
+      ],
+      "39": [
+        8,
+        85
+      ],
+      "43": [
+        88
+      ],
+      "46": [
+        45,
+        46
+      ],
+      "47": [
+        44
+      ],
+      "48": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "50": [
+        64,
+        65
+      ],
+      "51": [
+        51
+      ],
+      "52": [
+        33,
+        64
+      ],
+      "53": [
+        61
+      ],
+      "54": [
+        62
+      ]
+    }
+  }
+}

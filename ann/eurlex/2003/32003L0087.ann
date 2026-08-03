@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32003L0087": "a9871b1894931eed362302fc12d83e8b8b053598ab93954e6f17b311cc9ea27c"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-och-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "fordelning-av-utslappsratter",
+        "label": "Fördelning av utsläppsrätter",
+        "range": [
+          6,
+          10
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "tillstand-overvakning-rapportering",
+        "label": "Tillstånd, övervakning och rapportering",
+        "range": [
+          11,
+          14
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "6",
+          "14",
+          "15",
+          "17"
+        ]
+      },
+      {
+        "id": "systemets-omfattning",
+        "label": "Systemets omfattning och utvidgning",
+        "range": [
+          15,
+          16
+        ],
+        "articleRefs": [
+          "2",
+          "24"
+        ]
+      },
+      {
+        "id": "internationell-handel-mekanismer",
+        "label": "Internationell handel och projektbaserade mekanismer",
+        "range": [
+          17,
+          19
+        ],
+        "articleRefs": [
+          "12",
+          "25",
+          "30"
+        ]
+      },
+      {
+        "id": "energieffektivitet-samordning",
+        "label": "Energieffektivitet och samordning med andra direktiv",
+        "range": [
+          20,
+          21
+        ],
+        "articleRefs": [
+          "8",
+          "26"
+        ]
+      },
+      {
+        "id": "strategiska-atgarder-oversyn",
+        "label": "Strategiska åtgärder och översyn",
+        "range": [
+          22,
+          26
+        ],
+        "articleRefs": [
+          "30"
+        ]
+      },
+      {
+        "id": "juridiska-grunder-genomforande",
+        "label": "Juridiska grunder och genomförande",
+        "range": [
+          27,
+          30
+        ],
+        "articleRefs": [
+          "31",
+          "32"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        5
+      ],
+      "2": [
+        15,
+        16
+      ],
+      "4": [
+        11
+      ],
+      "5": [
+        11
+      ],
+      "6": [
+        11
+      ],
+      "6.2.e": [
+        11
+      ],
+      "8": [
+        21
+      ],
+      "9": [
+        6,
+        7,
+        8
+      ],
+      "10": [
+        8,
+        9
+      ],
+      "11": [
+        8,
+        9,
+        10
+      ],
+      "12": [
+        10,
+        17,
+        18
+      ],
+      "13": [
+        9
+      ],
+      "14": [
+        11
+      ],
+      "15": [
+        11
+      ],
+      "16": [
+        12
+      ],
+      "16.3": [
+        12
+      ],
+      "17": [
+        13
+      ],
+      "21": [
+        14
+      ],
+      "22": [
+        22
+      ],
+      "23": [
+        28
+      ],
+      "24": [
+        15
+      ],
+      "25": [
+        17,
+        18
+      ],
+      "26": [
+        21
+      ],
+      "27": [
+        16,
+        24
+      ],
+      "28": [
+        19
+      ],
+      "30": [
+        15,
+        19,
+        22,
+        23,
+        25
+      ],
+      "31": [
+        28
+      ],
+      "32": [
+        27
+      ]
+    }
+  }
+}

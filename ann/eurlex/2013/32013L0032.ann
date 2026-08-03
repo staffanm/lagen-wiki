@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32013L0032": "ae0521b8795a5d8947de9bc5b35a8dc3cfab65cd4dee22d1b89babb34ac54dec"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          15
+        ],
+        "articleRefs": [
+          "1",
+          "3",
+          "5"
+        ]
+      },
+      {
+        "id": "effektivitet-tidsramar",
+        "label": "Effektivitet och tidsramar",
+        "range": [
+          16,
+          21
+        ],
+        "articleRefs": [
+          "31",
+          "43"
+        ]
+      },
+      {
+        "id": "information-bistand",
+        "label": "Information och rättsligt bistånd",
+        "range": [
+          22,
+          23
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21",
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "tillgang-registrering",
+        "label": "Tillgång till förfarandet och registrering",
+        "range": [
+          25,
+          28
+        ],
+        "articleRefs": [
+          "6",
+          "8",
+          "27",
+          "28"
+        ]
+      },
+      {
+        "id": "sarskilda-behov",
+        "label": "Särskilda behov och garantier",
+        "range": [
+          29,
+          33
+        ],
+        "articleRefs": [
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "pruvning-intervjuer",
+        "label": "Prövningens utformning och intervjuer",
+        "range": [
+          34,
+          38
+        ],
+        "articleRefs": [
+          "10",
+          "14",
+          "15",
+          "16",
+          "17",
+          "43"
+        ]
+      },
+      {
+        "id": "säkra-ursprungsländer",
+        "label": "Säkra ursprungsländer",
+        "range": [
+          39,
+          42
+        ],
+        "articleRefs": [
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "inadmissibilitet-tredjeländer",
+        "label": "Inadmissibilitet och säkra tredjeländer",
+        "range": [
+          43,
+          48
+        ],
+        "articleRefs": [
+          "33",
+          "35",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "id": "aterkallelse-rettsmedel",
+        "label": "Återkallelse och rättsmedel",
+        "range": [
+          49,
+          50
+        ],
+        "articleRefs": [
+          "44",
+          "45",
+          "46"
+        ]
+      },
+      {
+        "id": "slutsatser-genomforande",
+        "label": "Rättsliga ramar och genomförande",
+        "range": [
+          51,
+          62
+        ],
+        "articleRefs": [
+          "48",
+          "51",
+          "52"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        12
+      ],
+      "2": [
+        24
+      ],
+      "3": [
+        14,
+        15
+      ],
+      "4": [
+        16,
+        17
+      ],
+      "5": [
+        14
+      ],
+      "6": [
+        25
+      ],
+      "8": [
+        26,
+        28
+      ],
+      "9": [
+        18
+      ],
+      "10": [
+        16,
+        17,
+        34
+      ],
+      "11": [
+        25
+      ],
+      "12": [
+        25
+      ],
+      "13": [
+        21
+      ],
+      "14": [
+        16
+      ],
+      "15": [
+        32
+      ],
+      "17": [
+        37
+      ],
+      "18": [
+        31
+      ],
+      "19": [
+        22
+      ],
+      "20": [
+        23
+      ],
+      "22": [
+        23
+      ],
+      "24": [
+        29,
+        30
+      ],
+      "25": [
+        33
+      ],
+      "31": [
+        18,
+        19,
+        20
+      ],
+      "31.8": [
+        20,
+        21
+      ],
+      "33": [
+        43,
+        44,
+        45
+      ],
+      "35": [
+        43
+      ],
+      "36": [
+        40,
+        41,
+        42
+      ],
+      "37": [
+        41,
+        46,
+        47,
+        48
+      ],
+      "38": [
+        44
+      ],
+      "39": [
+        45
+      ],
+      "40": [
+        36
+      ],
+      "43": [
+        38
+      ],
+      "44": [
+        49
+      ],
+      "45": [
+        49
+      ],
+      "46": [
+        50
+      ],
+      "48": [
+        52
+      ]
+    }
+  }
+}

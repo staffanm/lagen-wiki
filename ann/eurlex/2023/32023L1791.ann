@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32023L1791": "4efb622bf21413ed92a691e9d8715393da7b51ff013c6c289b9331749395cc97"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-klimatmal",
+        "label": "Bakgrund och klimatambitioner",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "ambitionsniva-scenarier",
+        "label": "Ambitionsnivå och referensscenarier",
+        "range": [
+          7,
+          12
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "sektoriell-potential",
+        "label": "Sektoriell potential och nytta",
+        "range": [
+          13,
+          14
+        ],
+        "articleRefs": [
+          "1",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "principen-energieffektivitet-forst",
+        "label": "Principen om energieffektivitet först",
+        "range": [
+          15,
+          21
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "social-dimension-fattigdom",
+        "label": "Social dimension och energifattigdom",
+        "range": [
+          22,
+          23
+        ],
+        "articleRefs": [
+          "24"
+        ]
+      },
+      {
+        "id": "unionsmal-bidrag",
+        "label": "Unionsmål och nationella bidrag",
+        "range": [
+          24,
+          31
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "offentlig-sektor-forebild",
+        "label": "Offentlig sektor som förebild",
+        "range": [
+          32,
+          46
+        ],
+        "articleRefs": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "offentlig-upphandling",
+        "label": "Offentlig upphandling",
+        "range": [
+          47,
+          57
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "energisparkrav-kvotplikter",
+        "label": "Energisparkrav och kvotpliktsystem",
+        "range": [
+          58,
+          71
+        ],
+        "articleRefs": [
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "infrastruktur-tjanster",
+        "label": "Energiinfrastruktur och tjänster",
+        "range": [
+          72,
+          75
+        ],
+        "articleRefs": [
+          "27"
+        ]
+      },
+      {
+        "id": "foretagsrevision-datacenter",
+        "label": "Företagsrevisioner och datacenter",
+        "range": [
+          76,
+          88
+        ],
+        "articleRefs": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "konsumentinformation-matning",
+        "label": "Konsumentinformation och mätning",
+        "range": [
+          89,
+          100
+        ],
+        "articleRefs": [
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "22"
+        ]
+      },
+      {
+        "id": "fjarrvarme-kyla-kraftvarme",
+        "label": "Fjärrvärme, fjärrkyla och kraftvärme",
+        "range": [
+          101,
+          112
+        ],
+        "articleRefs": [
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "konsumentskydd-gemenskaper",
+        "label": "Konsumentskydd och energigemenskaper",
+        "range": [
+          113,
+          125
+        ],
+        "articleRefs": [
+          "21",
+          "22",
+          "24"
+        ]
+      },
+      {
+        "id": "kompetens-finansiering",
+        "label": "Kompetens, energitjänster och finansiering",
+        "range": [
+          126,
+          143
+        ],
+        "articleRefs": [
+          "27",
+          "28",
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "slutbestammelser-genomforande",
+        "label": "Slutbestämmelser och genomförande",
+        "range": [
+          144,
+          156
+        ],
+        "articleRefs": [
+          "32",
+          "33",
+          "34",
+          "35",
+          "36"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        9,
+        14,
+        15
+      ],
+      "2.52": [
+        52
+      ],
+      "3": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        126,
+        127
+      ],
+      "4": [
+        7,
+        8,
+        10,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        62
+      ],
+      "4.1": [
+        26,
+        28,
+        30
+      ],
+      "5": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "6": [
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "7": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "8": [
+        60,
+        62,
+        65,
+        66,
+        67,
+        69,
+        70,
+        71,
+        147,
+        148,
+        149
+      ],
+      "9": [
+        63,
+        64,
+        68
+      ],
+      "10": [
+        65
+      ],
+      "11": [
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "12": [
+        13,
+        85,
+        86,
+        87
+      ],
+      "13": [
+        94,
+        95
+      ],
+      "14": [
+        14
+      ],
+      "15": [
+        96,
+        97
+      ],
+      "16": [
+        97
+      ],
+      "17": [
+        98,
+        99
+      ],
+      "18": [
+        98,
+        99
+      ],
+      "19": [
+        91
+      ],
+      "20": [
+        91
+      ],
+      "21": [
+        113,
+        114,
+        115
+      ],
+      "22": [
+        89,
+        90,
+        91,
+        117,
+        118,
+        119,
+        120
+      ],
+      "24": [
+        22,
+        23,
+        76,
+        77,
+        78,
+        79,
+        121,
+        122,
+        123,
+        124,
+        125
+      ],
+      "25": [
+        101,
+        104
+      ],
+      "26": [
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "27": [
+        72,
+        73,
+        126,
+        127
+      ],
+      "28": [
+        128
+      ],
+      "29": [
+        74,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "30": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        142
+      ]
+    }
+  }
+}

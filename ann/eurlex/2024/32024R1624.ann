@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R1624": "929143bc5d1d36921610028ef0d95dcd8255769dd1e10375e5ca6f99962a6686"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "ansvariga-enheter-omfattning",
+        "label": "Ansvariga enheter och tillämpningsområde",
+        "range": [
+          7,
+          25
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "harmonisering-etablering",
+        "label": "Harmonisering och etablering",
+        "range": [
+          26,
+          28
+        ],
+        "articleRefs": [
+          "8"
+        ]
+      },
+      {
+        "id": "interna-system-riskbedömning",
+        "label": "Interna system och riskbedömning",
+        "range": [
+          29,
+          32
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "ekonomiska-sanktioner",
+        "label": "Riktade ekonomiska sanktioner",
+        "range": [
+          33,
+          37
+        ],
+        "articleRefs": [
+          "20",
+          "27"
+        ]
+      },
+      {
+        "id": "ledning-efterlevnad-personal",
+        "label": "Ledning, efterlevnad och personal",
+        "range": [
+          38,
+          42
+        ],
+        "articleRefs": [
+          "11",
+          "12",
+          "13"
+        ]
+      },
+      {
+        "id": "koncerner-utkontraktering",
+        "label": "Koncerner och utkontraktering",
+        "range": [
+          43,
+          50
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "kundkännedom-grundläggande",
+        "label": "Grundläggande åtgärder för kundkännedom",
+        "range": [
+          51,
+          75
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "forenklade-skarpta-atgarder",
+        "label": "Förenklade och skärpta åtgärder",
+        "range": [
+          76,
+          82
+        ],
+        "articleRefs": [
+          "33",
+          "34",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "id": "tredjeland-externa-hot",
+        "label": "Tredjeländer och externa hot",
+        "range": [
+          83,
+          89
+        ],
+        "articleRefs": [
+          "29",
+          "30",
+          "31",
+          "32"
+        ]
+      },
+      {
+        "id": "politiskt-utsatta-personer",
+        "label": "Personer i politiskt utsatt ställning (PEP)",
+        "range": [
+          90,
+          98
+        ],
+        "articleRefs": [
+          "42",
+          "43",
+          "44",
+          "45",
+          "46"
+        ]
+      },
+      {
+        "id": "sarskillda-risker-utnyttjande",
+        "label": "Särskilda risker och utnyttjande av kundkännedom",
+        "range": [
+          99,
+          103
+        ],
+        "articleRefs": [
+          "41",
+          "48",
+          "49"
+        ]
+      },
+      {
+        "id": "verkligt-huvudmannaskap",
+        "label": "Verkligt huvudmannaskap och transparens",
+        "range": [
+          104,
+          135
+        ],
+        "articleRefs": [
+          "51",
+          "52",
+          "53",
+          "54",
+          "55",
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68"
+        ]
+      },
+      {
+        "id": "rapportering-informationsutbyte",
+        "label": "Rapportering av misstankar och informationsutbyte",
+        "range": [
+          136,
+          149
+        ],
+        "articleRefs": [
+          "69",
+          "70",
+          "71",
+          "73",
+          "74",
+          "75"
+        ]
+      },
+      {
+        "id": "dataskydd-lagring",
+        "label": "Dataskydd och lagring av uppgifter",
+        "range": [
+          150,
+          157
+        ],
+        "articleRefs": [
+          "76",
+          "77",
+          "78"
+        ]
+      },
+      {
+        "id": "anonyma-instrument-slutbestammelser",
+        "label": "Anonyma instrument och slutbestämmelser",
+        "range": [
+          158,
+          175
+        ],
+        "articleRefs": [
+          "79",
+          "80",
+          "85",
+          "86",
+          "87",
+          "88",
+          "89",
+          "90"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3
+      ],
+      "2": [
+        1,
+        5,
+        6
+      ],
+      "3": [
+        7,
+        9,
+        10,
+        11,
+        12,
+        14,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "4": [
+        63,
+        64
+      ],
+      "5": [
+        24,
+        25
+      ],
+      "6": [
+        6
+      ],
+      "8": [
+        26,
+        27
+      ],
+      "9": [
+        29
+      ],
+      "10": [
+        30,
+        31,
+        32
+      ],
+      "11": [
+        38,
+        39
+      ],
+      "12": [
+        40
+      ],
+      "13": [
+        41
+      ],
+      "16": [
+        43,
+        44,
+        45
+      ],
+      "17": [
+        46
+      ],
+      "18": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "19": [
+        51,
+        52,
+        56,
+        59,
+        61
+      ],
+      "20": [
+        51,
+        52,
+        53,
+        54,
+        58,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        74,
+        75
+      ],
+      "20.1d": [
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "21": [
+        73
+      ],
+      "22": [
+        54,
+        65,
+        66,
+        67
+      ],
+      "23": [
+        67
+      ],
+      "24": [
+        54
+      ],
+      "25": [
+        68
+      ],
+      "26": [
+        69
+      ],
+      "27": [
+        36
+      ],
+      "29": [
+        83,
+        84
+      ],
+      "30": [
+        85
+      ],
+      "31": [
+        86,
+        87
+      ],
+      "32": [
+        89
+      ],
+      "33": [
+        77,
+        78
+      ],
+      "34": [
+        79,
+        80,
+        81,
+        82
+      ],
+      "36": [
+        80
+      ],
+      "37": [
+        80
+      ],
+      "38": [
+        81
+      ],
+      "39": [
+        80
+      ],
+      "41": [
+        99
+      ],
+      "42": [
+        90,
+        96
+      ],
+      "43": [
+        93
+      ],
+      "44": [
+        95
+      ],
+      "45": [
+        94
+      ],
+      "46": [
+        97
+      ],
+      "48": [
+        101,
+        102,
+        103
+      ],
+      "49": [
+        101,
+        102,
+        103
+      ],
+      "51": [
+        104,
+        106,
+        110
+      ],
+      "52": [
+        107
+      ],
+      "53": [
+        110
+      ],
+      "57": [
+        113,
+        114,
+        116
+      ],
+      "58": [
+        114,
+        115,
+        116
+      ],
+      "59": [
+        117,
+        118
+      ],
+      "62": [
+        120,
+        121,
+        122
+      ],
+      "63": [
+        123,
+        124,
+        125,
+        126,
+        127
+      ],
+      "64": [
+        128,
+        129,
+        130
+      ],
+      "67": [
+        132,
+        133
+      ],
+      "68": [
+        134,
+        135
+      ],
+      "69": [
+        136,
+        137,
+        138,
+        139,
+        140,
+        141
+      ],
+      "70": [
+        142,
+        143
+      ],
+      "71": [
+        144
+      ],
+      "73": [
+        145
+      ],
+      "74": [
+        161,
+        162,
+        163,
+        164
+      ],
+      "75": [
+        146,
+        147,
+        148,
+        149
+      ],
+      "76": [
+        150,
+        151,
+        152
+      ],
+      "77": [
+        153
+      ],
+      "78": [
+        153
+      ],
+      "79": [
+        159,
+        160
+      ],
+      "80": [
+        161,
+        162,
+        163,
+        164
+      ]
+    }
+  }
+}

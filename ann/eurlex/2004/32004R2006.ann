@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32004R2006": "0ed050c68b59912959a3b59d7eb6ad9a758e684337b6881a2f612b1fdb89b3d0"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "omfattning-avgransning",
+        "label": "Omfattning och avgränsningar",
+        "range": [
+          4,
+          5
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "myndigheter-befogenheter",
+        "label": "Myndigheter och befogenheter",
+        "range": [
+          6,
+          8
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "sekretess-personuppgifter",
+        "label": "Sekretess och personuppgifter",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "10",
+          "13"
+        ]
+      },
+      {
+        "id": "tredjelander",
+        "label": "Samarbete med tredjeländer",
+        "range": [
+          10,
+          10
+        ],
+        "articleRefs": [
+          "14",
+          "18"
+        ]
+      },
+      {
+        "id": "samordning-samarbete",
+        "label": "Samordning och administrativt samarbete",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "9",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "finansiering-intressenter",
+        "label": "Finansiering och konsumentorganisationer",
+        "range": [
+          13,
+          14
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "genomförande-uppföljning",
+        "label": "Genomförande och rapportering",
+        "range": [
+          15,
+          16
+        ],
+        "articleRefs": [
+          "19",
+          "21"
+        ]
+      },
+      {
+        "id": "rättsliga-principer",
+        "label": "Rättsliga principer",
+        "range": [
+          17,
+          18
+        ],
+        "articleRefs": []
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3
+      ],
+      "2": [
+        5
+      ],
+      "2.1": [
+        5
+      ],
+      "4": [
+        6,
+        7,
+        8
+      ],
+      "4.6": [
+        6
+      ],
+      "6": [
+        7
+      ],
+      "7": [
+        7
+      ],
+      "8": [
+        8
+      ],
+      "9": [
+        11
+      ],
+      "10": [
+        9
+      ],
+      "11.3": [
+        14
+      ],
+      "13": [
+        9,
+        17
+      ],
+      "14": [
+        10
+      ],
+      "16": [
+        11
+      ],
+      "17": [
+        12
+      ],
+      "18": [
+        10
+      ],
+      "19": [
+        15
+      ],
+      "21": [
+        16
+      ]
+    }
+  }
+}

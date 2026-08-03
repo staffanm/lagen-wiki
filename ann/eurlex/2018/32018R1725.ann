@@ -1,0 +1,450 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32018R1725": "2cdc28894386dc0527d568f66445ed5cb76baf8ffff2d49e0ac632c31fb0fe7d"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomradde",
+        "label": "Tillämpningsområde och omfattning",
+        "range": [
+          6,
+          15
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "definitioner-begrepp",
+        "label": "Definitioner och grundbegrepp",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "allmna-principer",
+        "label": "Allmänna principer och laglighet",
+        "range": [
+          19,
+          26
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "sarkilda-kategorier",
+        "label": "Särskilda kategorier av personuppgifter",
+        "range": [
+          27,
+          31
+        ],
+        "articleRefs": [
+          "10"
+        ]
+      },
+      {
+        "id": "arkiv-forskning-statistik",
+        "label": "Behandling för arkiv-, forsknings- och statistiska ändamål",
+        "range": [
+          32,
+          33
+        ],
+        "articleRefs": [
+          "12",
+          "13"
+        ]
+      },
+      {
+        "id": "registrerades-rattigheter",
+        "label": "De registrerades rättigheter",
+        "range": [
+          34,
+          43
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "begransningar",
+        "label": "Begränsningar av rättigheter",
+        "range": [
+          44,
+          44
+        ],
+        "articleRefs": [
+          "25"
+        ]
+      },
+      {
+        "id": "ansvar-teknik",
+        "label": "Ansvar, inbyggt dataskydd och organisatoriska åtgärder",
+        "range": [
+          45,
+          51
+        ],
+        "articleRefs": [
+          "26",
+          "27",
+          "28",
+          "29"
+        ]
+      },
+      {
+        "id": "sakerhet-incidenter",
+        "label": "Säkerhet, register och personuppgiftsincidenter",
+        "range": [
+          52,
+          56
+        ],
+        "articleRefs": [
+          "30",
+          "31",
+          "33",
+          "34",
+          "35"
+        ]
+      },
+      {
+        "id": "konsekvensbedomning-samrad",
+        "label": "Konsekvensbedömningar och förhandssamråd",
+        "range": [
+          57,
+          59
+        ],
+        "articleRefs": [
+          "39",
+          "40",
+          "41"
+        ]
+      },
+      {
+        "id": "dataskyddsombud",
+        "label": "Dataskyddsombudet",
+        "range": [
+          62,
+          62
+        ],
+        "articleRefs": [
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "internationella-overforingar",
+        "label": "Överföring till tredjeland och internationella organisationer",
+        "range": [
+          63,
+          71
+        ],
+        "articleRefs": [
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51"
+        ]
+      },
+      {
+        "id": "datatillsynsmannen",
+        "label": "Europeiska datatillsynsmannen",
+        "range": [
+          72,
+          78
+        ],
+        "articleRefs": [
+          "52",
+          "57",
+          "58"
+        ]
+      },
+      {
+        "id": "rettsmedel-sanktioner",
+        "label": "Rättsmedel, ersättning och sanktioner",
+        "range": [
+          79,
+          83
+        ],
+        "articleRefs": [
+          "63",
+          "64",
+          "65",
+          "66",
+          "69"
+        ]
+      },
+      {
+        "id": "operativa-uppgifter",
+        "label": "Behandling av operativa personuppgifter",
+        "range": [
+          9,
+          14
+        ],
+        "articleRefs": [
+          "70",
+          "71",
+          "85",
+          "89",
+          "90"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "2": [
+        6,
+        7,
+        8,
+        15
+      ],
+      "3": [
+        16,
+        17,
+        18
+      ],
+      "4": [
+        20,
+        21
+      ],
+      "5": [
+        22,
+        23
+      ],
+      "6": [
+        25
+      ],
+      "7": [
+        19,
+        26
+      ],
+      "8": [
+        27
+      ],
+      "9": [
+        28
+      ],
+      "10": [
+        29,
+        30,
+        31
+      ],
+      "11": [
+        29
+      ],
+      "12": [
+        32
+      ],
+      "13": [
+        33
+      ],
+      "14": [
+        34,
+        35
+      ],
+      "15": [
+        36,
+        37
+      ],
+      "16": [
+        36
+      ],
+      "17": [
+        37
+      ],
+      "18": [
+        38
+      ],
+      "19": [
+        38,
+        39
+      ],
+      "20": [
+        40
+      ],
+      "21": [
+        38
+      ],
+      "22": [
+        41
+      ],
+      "23": [
+        42
+      ],
+      "24": [
+        43
+      ],
+      "25": [
+        44
+      ],
+      "26": [
+        45,
+        46,
+        47
+      ],
+      "27": [
+        48
+      ],
+      "28": [
+        50
+      ],
+      "29": [
+        51
+      ],
+      "30": [
+        52
+      ],
+      "31": [
+        52
+      ],
+      "33": [
+        53,
+        54
+      ],
+      "34": [
+        55
+      ],
+      "35": [
+        56
+      ],
+      "36": [
+        54
+      ],
+      "39": [
+        57,
+        58
+      ],
+      "40": [
+        58
+      ],
+      "41": [
+        59
+      ],
+      "43": [
+        62
+      ],
+      "44": [
+        62
+      ],
+      "45": [
+        62
+      ],
+      "46": [
+        63
+      ],
+      "47": [
+        64
+      ],
+      "48": [
+        65,
+        66
+      ],
+      "49": [
+        67
+      ],
+      "50": [
+        68,
+        69,
+        70
+      ],
+      "51": [
+        71
+      ],
+      "52": [
+        72
+      ],
+      "57": [
+        73
+      ],
+      "58": [
+        73
+      ],
+      "63": [
+        79
+      ],
+      "64": [
+        79
+      ],
+      "65": [
+        80
+      ],
+      "66": [
+        81
+      ],
+      "67": [
+        82
+      ],
+      "69": [
+        83
+      ],
+      "70": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "71": [
+        20
+      ],
+      "76": [
+        29
+      ],
+      "77": [
+        43
+      ],
+      "85": [
+        48
+      ],
+      "89": [
+        57
+      ],
+      "90": [
+        58
+      ]
+    }
+  }
+}

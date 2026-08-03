@@ -1,0 +1,407 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32011L0061": "26a696b979b686710cdb8dd5510464047466e1773a524f97e3619dd3c0eeb3bc"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-definitioner",
+        "label": "Tillämpningsområde och definitioner",
+        "range": [
+          6,
+          16
+        ],
+        "articleRefs": [
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "auktorisation-forenklat-system",
+        "label": "Auktorisation och förenklat system",
+        "range": [
+          17,
+          21
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "bolagsstyrning-kapital",
+        "label": "Bolagsstyrning och kapital",
+        "range": [
+          22,
+          23
+        ],
+        "articleRefs": [
+          "9",
+          "12"
+        ]
+      },
+      {
+        "id": "ersattningspolicy",
+        "label": "Ersättningspolicy",
+        "range": [
+          24,
+          28
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "vardering-delegering",
+        "label": "Värdering och delegering",
+        "range": [
+          29,
+          31
+        ],
+        "articleRefs": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "forvaringsinstitut",
+        "label": "Förvaringsinstitut",
+        "range": [
+          32,
+          46
+        ],
+        "articleRefs": [
+          "21"
+        ]
+      },
+      {
+        "id": "rapportering-havstang",
+        "label": "Rapportering och finansiell hävstång",
+        "range": [
+          48,
+          51
+        ],
+        "articleRefs": [
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "kontroll-onoterade-foretag",
+        "label": "Kontroll över onoterade företag",
+        "range": [
+          52,
+          58
+        ],
+        "articleRefs": [
+          "26",
+          "27",
+          "28",
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "marknadsforing-eu-fonder",
+        "label": "Marknadsföring och förvaltning av EU-fonder",
+        "range": [
+          59,
+          63
+        ],
+        "articleRefs": [
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36"
+        ]
+      },
+      {
+        "id": "icke-eu-forvaltare",
+        "label": "Icke EU-baserade AIF-förvaltare",
+        "range": [
+          64,
+          69
+        ],
+        "articleRefs": [
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42"
+        ]
+      },
+      {
+        "id": "icke-professionella-investerare",
+        "label": "Icke-professionella investerare",
+        "range": [
+          70,
+          71
+        ],
+        "articleRefs": [
+          "43"
+        ]
+      },
+      {
+        "id": "tillsyn-samarbete",
+        "label": "Tillsyn och samarbete",
+        "range": [
+          72,
+          76
+        ],
+        "articleRefs": [
+          "44",
+          "45",
+          "46",
+          "47",
+          "48",
+          "50",
+          "51"
+        ]
+      },
+      {
+        "id": "genomfordrande-delegerade-akter",
+        "label": "Genomförande och delegerade akter",
+        "range": [
+          77,
+          85
+        ],
+        "articleRefs": [
+          "56",
+          "57",
+          "58"
+        ]
+      },
+      {
+        "id": "oversyn-utvardering",
+        "label": "Översyn och utvärdering",
+        "range": [
+          86,
+          95
+        ],
+        "articleRefs": [
+          "69"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "2": [
+        6,
+        8,
+        13
+      ],
+      "2.3": [
+        7,
+        8
+      ],
+      "3": [
+        16,
+        17
+      ],
+      "4": [
+        6,
+        12
+      ],
+      "5": [
+        11,
+        20
+      ],
+      "6": [
+        18,
+        21
+      ],
+      "7": [
+        17
+      ],
+      "8": [
+        17,
+        18,
+        19
+      ],
+      "9": [
+        23
+      ],
+      "12": [
+        22
+      ],
+      "13": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "19": [
+        29
+      ],
+      "20": [
+        30,
+        31
+      ],
+      "21": [
+        32,
+        33,
+        34,
+        35,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "24": [
+        48
+      ],
+      "25": [
+        49,
+        50,
+        51
+      ],
+      "26": [
+        52,
+        53,
+        56
+      ],
+      "27": [
+        56
+      ],
+      "28": [
+        53,
+        54,
+        55
+      ],
+      "29": [
+        53
+      ],
+      "30": [
+        57,
+        58
+      ],
+      "31": [
+        59,
+        60
+      ],
+      "32": [
+        59,
+        60
+      ],
+      "33": [
+        15
+      ],
+      "34": [
+        61
+      ],
+      "35": [
+        62,
+        63
+      ],
+      "36": [
+        63
+      ],
+      "37": [
+        64,
+        65,
+        66,
+        67
+      ],
+      "38": [
+        68
+      ],
+      "39": [
+        64,
+        65,
+        69
+      ],
+      "40": [
+        64,
+        65,
+        69
+      ],
+      "41": [
+        64,
+        65
+      ],
+      "42": [
+        69
+      ],
+      "43": [
+        70,
+        71
+      ],
+      "44": [
+        72
+      ],
+      "45": [
+        72
+      ],
+      "46": [
+        72
+      ],
+      "47": [
+        73
+      ],
+      "48": [
+        75
+      ],
+      "50": [
+        72,
+        74
+      ],
+      "51": [
+        76
+      ],
+      "56": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "69": [
+        5,
+        86,
+        88,
+        90,
+        91,
+        93
+      ]
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32019R1111": "ac514c50a029ea0fe18d088fb5141bd91460f08aac00831b1d744567f5473834"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampsningsomrade-definitioner",
+        "label": "Tillämpningsområde och definitioner",
+        "range": [
+          5,
+          15
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "barns-rattigheter-aldersgrans",
+        "label": "Barnets rättigheter och åldersgränser",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": [
+          "1",
+          "22"
+        ]
+      },
+      {
+        "id": "barnets-basta-hemvist",
+        "label": "Barnets bästa och hemvist",
+        "range": [
+          18,
+          21
+        ],
+        "articleRefs": [
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "bortforande-val-domstol",
+        "label": "Olovligt bortförande och val av domstol",
+        "range": [
+          22,
+          24
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "sarskilda-fall-overforing",
+        "label": "Särskilda behörighetsfall och överföring",
+        "range": [
+          25,
+          29
+        ],
+        "articleRefs": [
+          "11",
+          "12",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "interimistiska-atgader-undantag",
+        "label": "Interimistiska åtgärder och särskilda undantag",
+        "range": [
+          30,
+          34
+        ],
+        "articleRefs": [
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "vackande-talan-litispendens",
+        "label": "Väckande av talan och litispendens",
+        "range": [
+          35,
+          38
+        ],
+        "articleRefs": [
+          "17",
+          "18",
+          "20"
+        ]
+      },
+      {
+        "id": "barnets-rost",
+        "label": "Barnets rätt att uttrycka sina åsikter",
+        "range": [
+          39,
+          39
+        ],
+        "articleRefs": [
+          "21"
+        ]
+      },
+      {
+        "id": "internationella-bortforanden",
+        "label": "Internationella bortföranden av barn",
+        "range": [
+          40,
+          53
+        ],
+        "articleRefs": [
+          "22",
+          "24",
+          "25",
+          "27",
+          "29"
+        ]
+      },
+      {
+        "id": "erkannande-verkstallelighet",
+        "label": "Erkännande och verkställighet",
+        "range": [
+          54,
+          69
+        ],
+        "articleRefs": [
+          "30",
+          "38",
+          "39",
+          "42",
+          "51",
+          "56"
+        ]
+      },
+      {
+        "id": "officiella-handlingar",
+        "label": "Officiella handlingar och överenskommelser",
+        "range": [
+          70,
+          71
+        ],
+        "articleRefs": [
+          "64",
+          "65",
+          "66"
+        ]
+      },
+      {
+        "id": "samarbete-centralmyndigheter",
+        "label": "Samarbete och centralmyndigheter",
+        "range": [
+          72,
+          85
+        ],
+        "articleRefs": [
+          "76",
+          "77",
+          "78",
+          "79",
+          "80",
+          "82"
+        ]
+      },
+      {
+        "id": "domstolssamarbete-dataskydd",
+        "label": "Domstolssamarbete och dataskydd",
+        "range": [
+          86,
+          89
+        ],
+        "articleRefs": [
+          "86",
+          "87",
+          "88",
+          "89"
+        ]
+      },
+      {
+        "id": "andra-instrument-slutbestammelser",
+        "label": "Förhållande till andra instrument och slutbestämmelser",
+        "range": [
+          90,
+          98
+        ],
+        "articleRefs": [
+          "100",
+          "101"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        17
+      ],
+      "2": [
+        14,
+        15,
+        18
+      ],
+      "3": [
+        2
+      ],
+      "7": [
+        20,
+        21
+      ],
+      "8": [
+        21
+      ],
+      "9": [
+        22
+      ],
+      "10": [
+        23,
+        24
+      ],
+      "11": [
+        25
+      ],
+      "12": [
+        26,
+        28
+      ],
+      "13": [
+        27
+      ],
+      "14": [
+        29
+      ],
+      "15": [
+        30,
+        31
+      ],
+      "16": [
+        32,
+        33
+      ],
+      "17": [
+        35
+      ],
+      "18": [
+        37
+      ],
+      "20": [
+        38
+      ],
+      "21": [
+        39
+      ],
+      "22": [
+        16,
+        40
+      ],
+      "24": [
+        41,
+        42
+      ],
+      "25": [
+        43
+      ],
+      "26": [
+        41
+      ],
+      "27": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "27.5": [
+        46
+      ],
+      "29": [
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "30": [
+        54,
+        55
+      ],
+      "38": [
+        56
+      ],
+      "39": [
+        56,
+        57
+      ],
+      "39.2": [
+        57
+      ],
+      "42": [
+        58,
+        66
+      ],
+      "43": [
+        58
+      ],
+      "51": [
+        59
+      ],
+      "52": [
+        60
+      ],
+      "54": [
+        61
+      ],
+      "56": [
+        65,
+        67,
+        68,
+        69
+      ],
+      "64": [
+        70
+      ],
+      "65": [
+        70,
+        71
+      ],
+      "66": [
+        70
+      ],
+      "76": [
+        72
+      ],
+      "77": [
+        77
+      ],
+      "78": [
+        78
+      ],
+      "79": [
+        79
+      ],
+      "80": [
+        80
+      ],
+      "82": [
+        83,
+        84
+      ],
+      "86": [
+        86
+      ],
+      "87": [
+        87
+      ],
+      "88": [
+        88
+      ],
+      "89": [
+        89
+      ],
+      "100": [
+        90
+      ],
+      "101": [
+        93
+      ]
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32007L0043": "8c132656f0433151d9432715532057c9bb81fd1cbb2a2789a38b858a1cbd616a"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-rattslig-grund",
+        "label": "Bakgrund och rättslig grund",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "vetenskaplig-grund",
+        "label": "Vetenskaplig grund och välbefinnande",
+        "range": [
+          4,
+          5
+        ],
+        "articleRefs": [
+          "2",
+          "3",
+          "6"
+        ]
+      },
+      {
+        "id": "syfte-behov",
+        "label": "Syfte och behov av gemensamma regler",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampsningsomrade",
+        "label": "Tillämpningsområde och avgränsning",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "utbildning",
+        "label": "Utbildning och kompetens",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "allmanna-principer",
+        "label": "Allmänna principer och balans",
+        "range": [
+          10,
+          10
+        ],
+        "articleRefs": [
+          "3",
+          "8"
+        ]
+      },
+      {
+        "id": "kontroll-oppfoljning",
+        "label": "Kontroll och uppföljning",
+        "range": [
+          11,
+          11
+        ],
+        "articleRefs": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "markning",
+        "label": "Märkning av produkter",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "utvardering-forskning",
+        "label": "Framtida utvärdering och forskning",
+        "range": [
+          14,
+          14
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "sanktioner",
+        "label": "Sanktioner och efterlevnad",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "9"
+        ]
+      },
+      {
+        "id": "genomforande",
+        "label": "Administrativa bestämmelser och genomförande",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": [
+          "10",
+          "11",
+          "12"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        6,
+        7,
+        8
+      ],
+      "2": [
+        4,
+        5
+      ],
+      "2.2": [
+        5
+      ],
+      "3": [
+        2,
+        4,
+        10
+      ],
+      "3.1": [
+        2,
+        4
+      ],
+      "3.2": [
+        4,
+        7
+      ],
+      "3.3": [
+        4,
+        10
+      ],
+      "3.4": [
+        4
+      ],
+      "3.5": [
+        4,
+        10
+      ],
+      "4": [
+        9
+      ],
+      "4.1": [
+        9
+      ],
+      "4.2": [
+        9
+      ],
+      "4.6": [
+        9
+      ],
+      "5": [
+        12,
+        13
+      ],
+      "6": [
+        4,
+        5,
+        11,
+        14
+      ],
+      "6.1": [
+        4,
+        5,
+        14
+      ],
+      "6.2": [
+        11
+      ],
+      "6.3": [
+        14
+      ],
+      "7": [
+        11
+      ],
+      "8": [
+        10
+      ],
+      "9": [
+        15
+      ],
+      "10": [
+        17
+      ],
+      "11": [
+        17
+      ],
+      "12": [
+        16
+      ]
+    }
+  }
+}

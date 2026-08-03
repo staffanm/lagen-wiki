@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32022L2523": "24828443522cf96c241d8ad350a9d494b198e181bac577fb7cd0ce1c6c931aca"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "background-purpose",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "globe-structure",
+        "label": "GloBE-reglernas struktur",
+        "range": [
+          5,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "scope-exclusions",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "parent-entities",
+        "label": "Moderenheter och ansvarsfördelning",
+        "range": [
+          8,
+          10
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "12",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "etr-calculation",
+        "label": "Beräkning av effektiv skattesats och vinst",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "national-top-up-tax",
+        "label": "Kvalificerad nationell tilläggsskatt",
+        "range": [
+          13,
+          13
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "substance-transition",
+        "label": "Substansundantag och övergångsperioder",
+        "range": [
+          14,
+          14
+        ],
+        "articleRefs": [
+          "28",
+          "48",
+          "49"
+        ]
+      },
+      {
+        "id": "admin-relief",
+        "label": "Administrativa lättnader för medlemsstater",
+        "range": [
+          15,
+          16
+        ],
+        "articleRefs": [
+          "50"
+        ]
+      },
+      {
+        "id": "sector-de-minimis",
+        "label": "Sektorsspecifika undantag och de minimis",
+        "range": [
+          17,
+          18
+        ],
+        "articleRefs": [
+          "17",
+          "30"
+        ]
+      },
+      {
+        "id": "transitional-attributes",
+        "label": "Övergångsregler och skatteattribut",
+        "range": [
+          19,
+          19
+        ],
+        "articleRefs": [
+          "47"
+        ]
+      },
+      {
+        "id": "tax-nature-dividends",
+        "label": "Tilläggsskattens natur och utdelningar",
+        "range": [
+          20,
+          21
+        ],
+        "articleRefs": [
+          "27",
+          "40"
+        ]
+      },
+      {
+        "id": "info-transparency",
+        "label": "Informationskrav och transparens",
+        "range": [
+          22,
+          23
+        ],
+        "articleRefs": [
+          "44"
+        ]
+      },
+      {
+        "id": "guidance-safe-harbours",
+        "label": "Tolkning, vägledning och safe harbour",
+        "range": [
+          24,
+          24
+        ],
+        "articleRefs": [
+          "32"
+        ]
+      },
+      {
+        "id": "sanctions-equivalence",
+        "label": "Sanktioner och likvärdighet",
+        "range": [
+          25,
+          28
+        ],
+        "articleRefs": [
+          "46",
+          "52",
+          "53"
+        ]
+      },
+      {
+        "id": "timeline-implementation",
+        "label": "Tidsplan och genomförande",
+        "range": [
+          29,
+          32
+        ],
+        "articleRefs": [
+          "56"
+        ]
+      },
+      {
+        "id": "legal-basis-data",
+        "label": "Rättslig grund och personuppgifter",
+        "range": [
+          33,
+          34
+        ],
+        "articleRefs": [
+          "56"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        5
+      ],
+      "2": [
+        7
+      ],
+      "2.3": [
+        7
+      ],
+      "3": [
+        7
+      ],
+      "5": [
+        8
+      ],
+      "6": [
+        9
+      ],
+      "7": [
+        9
+      ],
+      "8": [
+        10
+      ],
+      "9": [
+        8,
+        9
+      ],
+      "10": [
+        10
+      ],
+      "11": [
+        13
+      ],
+      "12": [
+        10
+      ],
+      "13": [
+        10
+      ],
+      "14": [
+        10
+      ],
+      "14.5": [
+        10
+      ],
+      "17": [
+        17
+      ],
+      "26": [
+        11,
+        12
+      ],
+      "27": [
+        5,
+        12,
+        20
+      ],
+      "28": [
+        14
+      ],
+      "30": [
+        18
+      ],
+      "32": [
+        24
+      ],
+      "40": [
+        21
+      ],
+      "44": [
+        22,
+        23
+      ],
+      "46": [
+        25
+      ],
+      "47": [
+        19
+      ],
+      "48": [
+        14
+      ],
+      "49": [
+        14
+      ],
+      "50": [
+        15,
+        16
+      ],
+      "52": [
+        26
+      ],
+      "53": [
+        28
+      ],
+      "56": [
+        29,
+        30,
+        33,
+        34
+      ]
+    }
+  }
+}

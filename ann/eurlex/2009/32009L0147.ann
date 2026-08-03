@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009L0147": "7aa8468adcc8c44e2df97505f0bc04da1b0e0d84dadf86e3d953d028df8b81f7"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "kodifiering-och-syfte",
+        "label": "Kodifiering och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "livsmiljoer",
+        "label": "Skydd av livsmiljöer",
+        "range": [
+          6,
+          8
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "utnyttjande-och-jakt",
+        "label": "Regler för utnyttjande och jakt",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "undantag-och-introduktion",
+        "label": "Undantag och introduktion av arter",
+        "range": [
+          12,
+          14
+        ],
+        "articleRefs": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "id": "forskning-och-rapportering",
+        "label": "Forskning och rapportering",
+        "range": [
+          13,
+          15
+        ],
+        "articleRefs": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "id": "genomforande-och-administration",
+        "label": "Genomförande och administration",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "2": [
+        3,
+        5
+      ],
+      "3": [
+        8
+      ],
+      "4": [
+        6,
+        8
+      ],
+      "5": [
+        6,
+        11
+      ],
+      "6": [
+        9
+      ],
+      "7": [
+        10
+      ],
+      "8": [
+        11
+      ],
+      "9": [
+        12
+      ],
+      "10": [
+        13
+      ],
+      "11": [
+        14
+      ],
+      "12": [
+        15
+      ],
+      "13": [
+        3,
+        7
+      ],
+      "14": [
+        6
+      ],
+      "15": [
+        17
+      ],
+      "16": [
+        16
+      ],
+      "17": [
+        16
+      ],
+      "18": [
+        1,
+        18
+      ]
+    }
+  }
+}

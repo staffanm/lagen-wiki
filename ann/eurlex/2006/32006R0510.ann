@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32006R0510": "27c278cfe5c870397a65a80d3160da010122333e52113b09741995893865007b"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "markning-symboler",
+        "label": "Märkning och symboler",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "8"
+        ]
+      },
+      {
+        "id": "strategi-tillämpning",
+        "label": "Strategi och tillämpningsområde",
+        "range": [
+          6,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "definitioner-specifikation",
+        "label": "Definitioner och produktspecifikation",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "id": "registreringsforfarande",
+        "label": "Registreringsförfarande",
+        "range": [
+          11,
+          11
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "internationella-aspekter",
+        "label": "Internationella aspekter",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "5.9"
+        ]
+      },
+      {
+        "id": "invandningar",
+        "label": "Invändningsförfarande",
+        "range": [
+          14,
+          14
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "andringar-avregistrering",
+        "label": "Ändringar och avregistrering",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "9",
+          "12"
+        ]
+      },
+      {
+        "id": "kontroll-overvakning",
+        "label": "Kontroll och övervakning",
+        "range": [
+          16,
+          16
+        ],
+        "articleRefs": [
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "genomforande-avgifter",
+        "label": "Genomförande och avgifter",
+        "range": [
+          17,
+          18
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "18"
+        ]
+      },
+      {
+        "id": "overgang-upphavande",
+        "label": "Övergångsbestämmelser och upphävande",
+        "range": [
+          19,
+          20
+        ],
+        "articleRefs": [
+          "17",
+          "19"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        6,
+        8
+      ],
+      "2": [
+        8,
+        9,
+        10
+      ],
+      "4": [
+        10
+      ],
+      "5": [
+        11
+      ],
+      "5.9": [
+        12,
+        13
+      ],
+      "6": [
+        11
+      ],
+      "7": [
+        11,
+        14
+      ],
+      "8": [
+        5
+      ],
+      "9": [
+        15
+      ],
+      "10": [
+        16
+      ],
+      "11": [
+        16
+      ],
+      "12": [
+        15
+      ],
+      "15": [
+        18
+      ],
+      "16": [
+        18
+      ],
+      "17": [
+        19
+      ],
+      "18": [
+        17
+      ],
+      "19": [
+        20
+      ]
+    }
+  }
+}

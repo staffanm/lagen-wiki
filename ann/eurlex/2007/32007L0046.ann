@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32007L0046": "0830387a186405a47dcd91eb97f00c50eadd91a7d66521ab0ff7375b6887ff33"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "overgang-specialfall",
+        "label": "Övergångsbestämmelser och specialfall",
+        "range": [
+          5,
+          9
+        ],
+        "articleRefs": [
+          "2",
+          "22",
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "tekniska-standarder",
+        "label": "Tekniska förfaranden och standarder",
+        "range": [
+          10,
+          13
+        ],
+        "articleRefs": [
+          "11",
+          "12",
+          "40"
+        ]
+      },
+      {
+        "id": "eftermarknad-utrustning",
+        "label": "Eftermarknad och utrustning",
+        "range": [
+          14,
+          16
+        ],
+        "articleRefs": [
+          "31"
+        ]
+      },
+      {
+        "id": "sakerhet-information",
+        "label": "Säkerhet och information till användare",
+        "range": [
+          17,
+          20
+        ],
+        "articleRefs": [
+          "32",
+          "37",
+          "38"
+        ]
+      },
+      {
+        "id": "teknisk-anpassning",
+        "label": "Teknisk anpassning och brådskande åtgärder",
+        "range": [
+          21,
+          22
+        ],
+        "articleRefs": [
+          "20",
+          "39",
+          "40"
+        ]
+      },
+      {
+        "id": "rattsliga-grunder",
+        "label": "Rättsliga grunder och införlivande",
+        "range": [
+          23,
+          28
+        ],
+        "articleRefs": [
+          "48",
+          "49"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "2": [
+        2,
+        4
+      ],
+      "2.1": [
+        4
+      ],
+      "3": [
+        12
+      ],
+      "6": [
+        7
+      ],
+      "8": [
+        10
+      ],
+      "11": [
+        12
+      ],
+      "12": [
+        13
+      ],
+      "20": [
+        21,
+        22
+      ],
+      "22": [
+        6,
+        7
+      ],
+      "23": [
+        7,
+        9
+      ],
+      "24": [
+        8
+      ],
+      "31": [
+        14,
+        15,
+        16
+      ],
+      "32": [
+        17
+      ],
+      "37": [
+        18
+      ],
+      "38": [
+        19,
+        20
+      ],
+      "39": [
+        21,
+        22
+      ],
+      "40": [
+        10,
+        16,
+        21,
+        22
+      ],
+      "48": [
+        24,
+        25
+      ],
+      "49": [
+        26
+      ]
+    }
+  }
+}

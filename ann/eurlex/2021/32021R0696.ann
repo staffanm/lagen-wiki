@@ -1,0 +1,582 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32021R0696": "4e21ddeec4861b79a7b6b970197f1a06741cc532921e1bf1ce10898add3d3693"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "background-strategic-goals",
+        "label": "Bakgrund och strategiska mål",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "space-access-industry",
+        "label": "Tillgång till rymden och industriell konkurrenskraft",
+        "range": [
+          6,
+          11
+        ],
+        "articleRefs": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "international-cooperation",
+        "label": "Internationellt samarbete och rymddiplomati",
+        "range": [
+          12,
+          14
+        ],
+        "articleRefs": [
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "program-synergies-rd",
+        "label": "Synergier med andra unionsprogram och forskning",
+        "range": [
+          15,
+          21
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "assets-assistance",
+        "label": "Äganderätt och tekniskt bistånd",
+        "range": [
+          22,
+          24
+        ],
+        "articleRefs": [
+          "9",
+          "11"
+        ]
+      },
+      {
+        "id": "financial-framework-climate",
+        "label": "Finansiell ram och hållbarhetsmål",
+        "range": [
+          25,
+          27
+        ],
+        "articleRefs": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "budget-procurement",
+        "label": "Budgetregler och upphandling",
+        "range": [
+          28,
+          36
+        ],
+        "articleRefs": [
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "financial-interests-third-countries",
+        "label": "Ekonomiska intressen och tredjeländers deltagande",
+        "range": [
+          37,
+          41
+        ],
+        "articleRefs": [
+          "25",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "governance-roles",
+        "label": "Styrning och organisatoriska roller",
+        "range": [
+          42,
+          50
+        ],
+        "articleRefs": [
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32"
+        ]
+      },
+      {
+        "id": "security-strategic-independence",
+        "label": "Säkerhet, cybersäkerhet och strategiskt oberoende",
+        "range": [
+          51,
+          62
+        ],
+        "articleRefs": [
+          "33",
+          "34",
+          "43",
+          "60"
+        ]
+      },
+      {
+        "id": "galileo-egnos",
+        "label": "Galileo och Egnos",
+        "range": [
+          63,
+          70
+        ],
+        "articleRefs": [
+          "44",
+          "45",
+          "46",
+          "47",
+          "48"
+        ]
+      },
+      {
+        "id": "copernicus-data",
+        "label": "Copernicus och datapolicy",
+        "range": [
+          71,
+          87
+        ],
+        "articleRefs": [
+          "49",
+          "50",
+          "51",
+          "52",
+          "53"
+        ]
+      },
+      {
+        "id": "sst",
+        "label": "Rymdövervakning och spårning (SST)",
+        "range": [
+          88,
+          96
+        ],
+        "articleRefs": [
+          "54",
+          "55",
+          "56",
+          "57",
+          "58",
+          "59"
+        ]
+      },
+      {
+        "id": "swe-neo-govsatcom",
+        "label": "Rymdväder (SWE), NEO och Govsatcom",
+        "range": [
+          97,
+          113
+        ],
+        "articleRefs": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68"
+        ]
+      },
+      {
+        "id": "space-agency",
+        "label": "Rymdprogrambyrån",
+        "range": [
+          114,
+          119
+        ],
+        "articleRefs": [
+          "70",
+          "71",
+          "72",
+          "73",
+          "79"
+        ]
+      },
+      {
+        "id": "monitoring-final-provisions",
+        "label": "Övervakning, utvärdering och slutbestämmelser",
+        "range": [
+          120,
+          131
+        ],
+        "articleRefs": [
+          "100",
+          "101",
+          "102",
+          "105",
+          "106",
+          "107",
+          "110"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3
+      ],
+      "3": [
+        63,
+        64,
+        71,
+        88,
+        97,
+        99
+      ],
+      "4": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "5": [
+        6
+      ],
+      "6": [
+        7,
+        10,
+        19,
+        20
+      ],
+      "7": [
+        12,
+        13,
+        38
+      ],
+      "8": [
+        38,
+        40,
+        41
+      ],
+      "9": [
+        22
+      ],
+      "10": [
+        23
+      ],
+      "11": [
+        25,
+        26
+      ],
+      "12": [
+        27
+      ],
+      "13": [
+        28,
+        29,
+        32,
+        34
+      ],
+      "14": [
+        30,
+        31
+      ],
+      "15": [
+        30
+      ],
+      "16": [
+        30
+      ],
+      "17": [
+        30
+      ],
+      "18": [
+        33,
+        34
+      ],
+      "19": [
+        15
+      ],
+      "20": [
+        15
+      ],
+      "21": [
+        15
+      ],
+      "22": [
+        15,
+        16,
+        18
+      ],
+      "23": [
+        32
+      ],
+      "24": [
+        60
+      ],
+      "25": [
+        37,
+        39
+      ],
+      "26": [
+        42
+      ],
+      "27": [
+        43
+      ],
+      "28": [
+        44
+      ],
+      "29": [
+        45,
+        46
+      ],
+      "30": [
+        47,
+        48
+      ],
+      "31": [
+        48
+      ],
+      "32": [
+        49,
+        50
+      ],
+      "33": [
+        54
+      ],
+      "34": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "34.2": [
+        54,
+        55
+      ],
+      "34.5": [
+        56
+      ],
+      "34.6": [
+        43
+      ],
+      "36": [
+        45
+      ],
+      "37": [
+        57
+      ],
+      "38": [
+        57
+      ],
+      "39": [
+        57
+      ],
+      "42": [
+        57
+      ],
+      "43": [
+        58,
+        59
+      ],
+      "44": [
+        65,
+        68
+      ],
+      "45": [
+        66,
+        67
+      ],
+      "46": [
+        64
+      ],
+      "47": [
+        68
+      ],
+      "48": [
+        67
+      ],
+      "49": [
+        71,
+        72,
+        75,
+        76
+      ],
+      "50": [
+        77,
+        86
+      ],
+      "51": [
+        78,
+        87
+      ],
+      "52": [
+        82
+      ],
+      "53": [
+        73,
+        81,
+        82,
+        83
+      ],
+      "54": [
+        88,
+        89
+      ],
+      "55": [
+        89
+      ],
+      "56": [
+        89
+      ],
+      "57": [
+        91
+      ],
+      "58": [
+        90
+      ],
+      "59": [
+        89
+      ],
+      "60": [
+        97
+      ],
+      "61": [
+        95
+      ],
+      "62": [
+        99,
+        100
+      ],
+      "63": [
+        102,
+        103
+      ],
+      "64": [
+        101
+      ],
+      "65": [
+        100
+      ],
+      "66": [
+        102
+      ],
+      "67": [
+        105
+      ],
+      "68": [
+        109,
+        110
+      ],
+      "70": [
+        114,
+        116
+      ],
+      "71": [
+        115
+      ],
+      "72": [
+        117,
+        118
+      ],
+      "73": [
+        117
+      ],
+      "75.5": [
+        119
+      ],
+      "76.2": [
+        117
+      ],
+      "77": [
+        122
+      ],
+      "79": [
+        115
+      ],
+      "80": [
+        122
+      ],
+      "84": [
+        129
+      ],
+      "88": [
+        51
+      ],
+      "89": [
+        118
+      ],
+      "90": [
+        43
+      ],
+      "94": [
+        118
+      ],
+      "95": [
+        37
+      ],
+      "96": [
+        51
+      ],
+      "98": [
+        38
+      ],
+      "99": [
+        118
+      ],
+      "100": [
+        123
+      ],
+      "101": [
+        120,
+        121
+      ],
+      "102": [
+        120,
+        121
+      ],
+      "105": [
+        126
+      ],
+      "106": [
+        126
+      ],
+      "107": [
+        124,
+        125
+      ],
+      "107.6": [
+        124
+      ],
+      "110": [
+        130
+      ]
+    }
+  }
+}

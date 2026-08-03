@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32019R2033": "67f8ff277453f485241ff228b7637edc8df4d57a8a8e45c48198cdd315d93584"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "systemvikt-icke-systemvikt",
+        "label": "Systemviktiga och icke-systemviktiga företag",
+        "range": [
+          7,
+          12
+        ],
+        "articleRefs": [
+          "1",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "kapitalbas-sammansattning",
+        "label": "Kapitalbasens sammansättning",
+        "range": [
+          13,
+          13
+        ],
+        "articleRefs": [
+          "9"
+        ]
+      },
+      {
+        "id": "minimikapitalkrav",
+        "label": "Minimikapitalkrav och fasta omkostnader",
+        "range": [
+          14,
+          16
+        ],
+        "articleRefs": [
+          "11",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "sma-icke-sammanlankade",
+        "label": "Små och icke-sammanlänkade värdepappersföretag",
+        "range": [
+          17,
+          19
+        ],
+        "articleRefs": [
+          "12"
+        ]
+      },
+      {
+        "id": "k-faktorer",
+        "label": "K-faktorer och beräkningsprinciper",
+        "range": [
+          20,
+          26
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33"
+        ]
+      },
+      {
+        "id": "koncentrationsrisk",
+        "label": "Koncentrationsrisk",
+        "range": [
+          27,
+          27
+        ],
+        "articleRefs": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42"
+        ]
+      },
+      {
+        "id": "likviditetskrav",
+        "label": "Likviditetskrav",
+        "range": [
+          28,
+          28
+        ],
+        "articleRefs": [
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "rapportering-offentliggörande",
+        "label": "Rapportering och offentliggörande",
+        "range": [
+          29,
+          31
+        ],
+        "articleRefs": [
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "55"
+        ]
+      },
+      {
+        "id": "overgangsbestammelser",
+        "label": "Övergångsbestämmelser",
+        "range": [
+          32,
+          36
+        ],
+        "articleRefs": [
+          "57",
+          "58",
+          "59"
+        ]
+      },
+      {
+        "id": "omvandling-kreditinstitut",
+        "label": "Systemviktiga värdepappersföretag och kreditinstitut",
+        "range": [
+          37,
+          42
+        ],
+        "articleRefs": [
+          "1",
+          "62"
+        ]
+      },
+      {
+        "id": "tredjelandsforetag",
+        "label": "Tredjelandsföretag och likvärdighet",
+        "range": [
+          43,
+          45
+        ],
+        "articleRefs": [
+          "63"
+        ]
+      },
+      {
+        "id": "teknisk-implementation",
+        "label": "Teknisk implementering och delegation",
+        "range": [
+          46,
+          51
+        ],
+        "articleRefs": [
+          "56",
+          "60"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "1.2": [
+        7,
+        9,
+        38,
+        39,
+        40,
+        42
+      ],
+      "6": [
+        12
+      ],
+      "7": [
+        12
+      ],
+      "8": [
+        12
+      ],
+      "9": [
+        13
+      ],
+      "11": [
+        14,
+        15,
+        16
+      ],
+      "12": [
+        17,
+        18,
+        19
+      ],
+      "13": [
+        15
+      ],
+      "14": [
+        14
+      ],
+      "15": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "16": [
+        24
+      ],
+      "17": [
+        24
+      ],
+      "18": [
+        24
+      ],
+      "19": [
+        24
+      ],
+      "20": [
+        24
+      ],
+      "21": [
+        25
+      ],
+      "22": [
+        25
+      ],
+      "23": [
+        25
+      ],
+      "24": [
+        26
+      ],
+      "25": [
+        26
+      ],
+      "26": [
+        26
+      ],
+      "27": [
+        26
+      ],
+      "28": [
+        26
+      ],
+      "29": [
+        26
+      ],
+      "30": [
+        26
+      ],
+      "31": [
+        26
+      ],
+      "32": [
+        26
+      ],
+      "33": [
+        26
+      ],
+      "35": [
+        27
+      ],
+      "37": [
+        27
+      ],
+      "39": [
+        27
+      ],
+      "43": [
+        28
+      ],
+      "45": [
+        28
+      ],
+      "46": [
+        30
+      ],
+      "49": [
+        30
+      ],
+      "50": [
+        30
+      ],
+      "51": [
+        31
+      ],
+      "54": [
+        29
+      ],
+      "57": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "62": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ]
+    }
+  }
+}

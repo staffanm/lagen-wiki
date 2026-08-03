@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32006R1013": "76b6413683d855c400d9acebec19fce87c2fef4f388972f3b26f1e7919de0d69"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-internationella-ramverk",
+        "label": "Bakgrund och internationella ramverk",
+        "range": [
+          1,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "undantag-omfattning",
+        "label": "Undantag och tillämpningsområde",
+        "range": [
+          10,
+          13
+        ],
+        "articleRefs": [
+          "1",
+          "33"
+        ]
+      },
+      {
+        "id": "kontrollforfaranden-administration",
+        "label": "Övervaknings- och kontrollförfaranden",
+        "range": [
+          14,
+          19
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "miljoprinciper-hantering",
+        "label": "Miljöprinciper och hanteringsnormer",
+        "range": [
+          20,
+          22
+        ],
+        "articleRefs": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "offentlighet-information",
+        "label": "Offentlighet och information",
+        "range": [
+          23,
+          23
+        ],
+        "articleRefs": [
+          "21"
+        ]
+      },
+      {
+        "id": "atertagning-ansvar",
+        "label": "Återtagning och juridiskt ansvar",
+        "range": [
+          24,
+          25
+        ],
+        "articleRefs": [
+          "22",
+          "23",
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "export-import-regler",
+        "label": "Regler för export och import",
+        "range": [
+          26,
+          30
+        ],
+        "articleRefs": [
+          "34",
+          "36",
+          "41",
+          "43"
+        ]
+      },
+      {
+        "id": "specialfall-internationell-ratt",
+        "label": "Särskilda områden och internationell rätt",
+        "range": [
+          31,
+          35
+        ],
+        "articleRefs": [
+          "39",
+          "40",
+          "49"
+        ]
+      },
+      {
+        "id": "samarbete-rapportering",
+        "label": "Internationellt samarbete och rapportering",
+        "range": [
+          36,
+          36
+        ],
+        "articleRefs": [
+          "51",
+          "52"
+        ]
+      },
+      {
+        "id": "genomfordrande-forvaltning",
+        "label": "Genomförande och förvaltningsbestämmelser",
+        "range": [
+          37,
+          42
+        ],
+        "articleRefs": [
+          "53",
+          "54",
+          "58",
+          "59"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        7,
+        11
+      ],
+      "1.3.g": [
+        10
+      ],
+      "2": [
+        1,
+        5
+      ],
+      "3": [
+        14,
+        15
+      ],
+      "4": [
+        14,
+        16,
+        18
+      ],
+      "5": [
+        14,
+        18
+      ],
+      "6": [
+        17
+      ],
+      "11": [
+        8,
+        9,
+        20
+      ],
+      "12": [
+        21,
+        22
+      ],
+      "18": [
+        15
+      ],
+      "21": [
+        23
+      ],
+      "22": [
+        24
+      ],
+      "23": [
+        24
+      ],
+      "24": [
+        25
+      ],
+      "25": [
+        25
+      ],
+      "33": [
+        13
+      ],
+      "34": [
+        26
+      ],
+      "36": [
+        28,
+        29
+      ],
+      "39": [
+        31
+      ],
+      "40": [
+        32
+      ],
+      "41": [
+        30
+      ],
+      "43": [
+        30
+      ],
+      "49": [
+        33
+      ],
+      "51": [
+        34
+      ],
+      "52": [
+        36
+      ],
+      "58": [
+        37,
+        39
+      ],
+      "59": [
+        40
+      ]
+    }
+  }
+}

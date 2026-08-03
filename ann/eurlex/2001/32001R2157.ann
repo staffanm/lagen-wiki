@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32001R2157": "4647cfdec0b73cf375d5b918c0767432caa03c77d22bc54c81d2e89c6c40d7ff"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "background-purpose",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "10"
+        ]
+      },
+      {
+        "id": "legal-framework",
+        "label": "Rättslig ram och nationell rätt",
+        "range": [
+          8,
+          9
+        ],
+        "articleRefs": [
+          "9"
+        ]
+      },
+      {
+        "id": "formation-capital",
+        "label": "Bildande och aktiekapital",
+        "range": [
+          10,
+          13
+        ],
+        "articleRefs": [
+          "2",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "administration-systems",
+        "label": "Förvaltning och organisationssystem",
+        "range": [
+          14,
+          14
+        ],
+        "articleRefs": [
+          "38",
+          "39",
+          "40",
+          "43"
+        ]
+      },
+      {
+        "id": "control-minority-protection",
+        "label": "Kontroll och minoritetsskydd",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "24",
+          "47"
+        ]
+      },
+      {
+        "id": "sanctions",
+        "label": "Sanktioner och ansvar",
+        "range": [
+          18,
+          18
+        ],
+        "articleRefs": [
+          "51"
+        ]
+      },
+      {
+        "id": "employee-involvement",
+        "label": "Arbetstagarinflytande",
+        "range": [
+          19,
+          21
+        ],
+        "articleRefs": [
+          "1.4",
+          "12",
+          "23"
+        ]
+      },
+      {
+        "id": "scope-exclusions",
+        "label": "Omfattning och undantagna områden",
+        "range": [
+          20,
+          20
+        ],
+        "articleRefs": [
+          "61",
+          "63"
+        ]
+      },
+      {
+        "id": "seat-transfer",
+        "label": "Säte och flyttning",
+        "range": [
+          22,
+          27
+        ],
+        "articleRefs": [
+          "7",
+          "8",
+          "64"
+        ]
+      },
+      {
+        "id": "special-sectors",
+        "label": "Särskilda sektorer och utländska bolag",
+        "range": [
+          23,
+          26
+        ],
+        "articleRefs": [
+          "2.5",
+          "62"
+        ]
+      },
+      {
+        "id": "legal-basis-proportionality",
+        "label": "Rättslig grund och proportionalitet",
+        "range": [
+          28,
+          29
+        ],
+        "articleRefs": [
+          "68",
+          "70"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        6,
+        7
+      ],
+      "1.4": [
+        19,
+        21
+      ],
+      "2": [
+        10,
+        11
+      ],
+      "2.5": [
+        23
+      ],
+      "4": [
+        13
+      ],
+      "5": [
+        13
+      ],
+      "7": [
+        27
+      ],
+      "8": [
+        24,
+        25
+      ],
+      "9": [
+        9
+      ],
+      "10": [
+        5,
+        6
+      ],
+      "12": [
+        19,
+        21
+      ],
+      "23": [
+        19,
+        21
+      ],
+      "24": [
+        15,
+        16,
+        17
+      ],
+      "38": [
+        14
+      ],
+      "39": [
+        14
+      ],
+      "40": [
+        14
+      ],
+      "43": [
+        14
+      ],
+      "47": [
+        15,
+        16
+      ],
+      "51": [
+        18
+      ],
+      "61": [
+        20
+      ],
+      "62": [
+        26
+      ],
+      "63": [
+        20
+      ],
+      "64": [
+        24,
+        27
+      ]
+    }
+  }
+}

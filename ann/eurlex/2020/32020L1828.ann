@@ -1,0 +1,370 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32020L1828": "09fa526364f783d9968ba9af6c7513e10cbaaac9dbe2d4ca69186f1d136a1cf6"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          10
+        ],
+        "articleRefs": [
+          "1",
+          "7"
+        ]
+      },
+      {
+        "id": "nationell-rätt-autonomi",
+        "label": "Förhållande till nationell rätt och processuell autonomi",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillämpningsområde",
+        "label": "Tillämpningsområde och avgränsningar",
+        "range": [
+          13,
+          18
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "forum-behörighet",
+        "label": "Forum, behörighet och internationell privaträtt",
+        "range": [
+          19,
+          23
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "godkända-enheter",
+        "label": "Godkända enheter: Utseende och övervakning",
+        "range": [
+          24,
+          32
+        ],
+        "articleRefs": [
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "förbudsföreläggande",
+        "label": "Åtgärder för förbudsföreläggande",
+        "range": [
+          33,
+          41
+        ],
+        "articleRefs": [
+          "8"
+        ]
+      },
+      {
+        "id": "konsumenters-roll",
+        "label": "Konsumenternas rättigheter och deltagande",
+        "range": [
+          36,
+          48
+        ],
+        "articleRefs": [
+          "7",
+          "9"
+        ]
+      },
+      {
+        "id": "gottgörelse",
+        "label": "Åtgärder för gottgörelse och finansiering",
+        "range": [
+          49,
+          52
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "förlikningar",
+        "label": "Kollektiva förlikningar",
+        "range": [
+          53,
+          57
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "information-transparens",
+        "label": "Information och transparens",
+        "range": [
+          58,
+          63
+        ],
+        "articleRefs": [
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "bevis-preskription",
+        "label": "Bevisning och preskriptionsfrister",
+        "range": [
+          64,
+          68
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "18"
+        ]
+      },
+      {
+        "id": "sanktioner-stöd",
+        "label": "Sanktioner och stöd till godkända enheter",
+        "range": [
+          69,
+          71
+        ],
+        "articleRefs": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "utvärdering-slutbestämmelser",
+        "label": "Utvärdering och slutbestämmelser",
+        "range": [
+          72,
+          79
+        ],
+        "articleRefs": [
+          "22",
+          "23"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "1.2": [
+        11,
+        12
+      ],
+      "1.3": [
+        11
+      ],
+      "2": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "2.1": [
+        13,
+        14,
+        20
+      ],
+      "2.2": [
+        42
+      ],
+      "2.3": [
+        21,
+        22
+      ],
+      "3": [
+        14
+      ],
+      "4": [
+        24,
+        26,
+        27,
+        28
+      ],
+      "4.2": [
+        24
+      ],
+      "4.3": [
+        25
+      ],
+      "4.6": [
+        28
+      ],
+      "5": [
+        29,
+        30,
+        32
+      ],
+      "5.1": [
+        32
+      ],
+      "5.4": [
+        30
+      ],
+      "6": [
+        19,
+        21,
+        22,
+        23,
+        31
+      ],
+      "7": [
+        7,
+        8,
+        9,
+        34,
+        35,
+        36
+      ],
+      "7.2": [
+        34
+      ],
+      "7.4": [
+        8,
+        35
+      ],
+      "7.7": [
+        39
+      ],
+      "8": [
+        33,
+        40,
+        41
+      ],
+      "8.1": [
+        40
+      ],
+      "8.4": [
+        41
+      ],
+      "9": [
+        37,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        49,
+        50,
+        51
+      ],
+      "9.2": [
+        43,
+        44
+      ],
+      "9.3": [
+        45
+      ],
+      "9.4": [
+        46
+      ],
+      "9.5": [
+        50
+      ],
+      "9.6": [
+        50
+      ],
+      "9.7": [
+        51
+      ],
+      "10": [
+        10,
+        52
+      ],
+      "10.1": [
+        52
+      ],
+      "11": [
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "11.2": [
+        55,
+        56
+      ],
+      "12": [
+        38
+      ],
+      "13": [
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "13.1": [
+        58
+      ],
+      "13.2": [
+        59
+      ],
+      "13.3": [
+        60,
+        62
+      ],
+      "14": [
+        63
+      ],
+      "15": [
+        64
+      ],
+      "16": [
+        65,
+        66
+      ],
+      "17": [
+        67
+      ],
+      "18": [
+        68
+      ],
+      "19": [
+        69
+      ],
+      "20": [
+        70,
+        71
+      ],
+      "22": [
+        78
+      ],
+      "23": [
+        72,
+        73
+      ]
+    }
+  }
+}

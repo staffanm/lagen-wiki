@@ -1,0 +1,435 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009L0065": "05177db4ccf9ea076b6823ac213532c0e3607837581c1fac0891e62b852ca62f"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-definitioner",
+        "label": "Tillämpningsområde och definitioner",
+        "range": [
+          5,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "auktorisation-hemlandstillsyn",
+        "label": "Auktorisation och hemlandstillsyn",
+        "range": [
+          8,
+          11
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "10"
+        ]
+      },
+      {
+        "id": "forvaltningsbolag-verksamhet",
+        "label": "Förvaltningsbolagens verksamhet och tjänster",
+        "range": [
+          12,
+          15
+        ],
+        "articleRefs": [
+          "6",
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "delegering-tillsyn",
+        "label": "Delegering och tillsyn",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "13",
+          "19"
+        ]
+      },
+      {
+        "id": "fond-auktorisation-tillsyn",
+        "label": "Auktorisation och tillsyn av fondföretag",
+        "range": [
+          19,
+          24
+        ],
+        "articleRefs": [
+          "5",
+          "20",
+          "21",
+          "93"
+        ]
+      },
+      {
+        "id": "investeringsbolag-kapital",
+        "label": "Investeringsbolag och kapitalkrav",
+        "range": [
+          25,
+          26
+        ],
+        "articleRefs": [
+          "27",
+          "29"
+        ]
+      },
+      {
+        "id": "fusioner",
+        "label": "Fusioner mellan fondföretag",
+        "range": [
+          27,
+          33
+        ],
+        "articleRefs": [
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "45"
+        ]
+      },
+      {
+        "id": "instrument-definitioner",
+        "label": "Finansiella instrument och definitioner",
+        "range": [
+          34,
+          37
+        ],
+        "articleRefs": [
+          "2",
+          "50"
+        ]
+      },
+      {
+        "id": "placeringsregler-risk",
+        "label": "Placeringsregler och riskhantering",
+        "range": [
+          38,
+          47
+        ],
+        "articleRefs": [
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "56"
+        ]
+      },
+      {
+        "id": "master-feeder",
+        "label": "Master/Feeder-strukturer",
+        "range": [
+          48,
+          57
+        ],
+        "articleRefs": [
+          "58",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "66"
+        ]
+      },
+      {
+        "id": "investor-information",
+        "label": "Information till investerare och basfakta",
+        "range": [
+          58,
+          61
+        ],
+        "articleRefs": [
+          "68",
+          "78"
+        ]
+      },
+      {
+        "id": "gransobrasrande-marknadsforing",
+        "label": "Gränsöverskridande marknadsföring",
+        "range": [
+          62,
+          67
+        ],
+        "articleRefs": [
+          "91",
+          "93",
+          "94"
+        ]
+      },
+      {
+        "id": "myndigheter-tillsyn",
+        "label": "Myndigheter och tillsynssamarbete",
+        "range": [
+          68,
+          73
+        ],
+        "articleRefs": [
+          "97",
+          "98",
+          "99",
+          "101"
+        ]
+      },
+      {
+        "id": "information-tystnadsplikt",
+        "label": "Informationsutbyte och tystnadsplikt",
+        "range": [
+          74,
+          82
+        ],
+        "articleRefs": [
+          "102",
+          "106"
+        ]
+      },
+      {
+        "id": "genomforande-ovrigt",
+        "label": "Genomförande och övriga bestämmelser",
+        "range": [
+          83,
+          95
+        ],
+        "articleRefs": [
+          "111",
+          "112",
+          "116",
+          "118"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "2": [
+        7,
+        35,
+        36,
+        37
+      ],
+      "3": [
+        5
+      ],
+      "5": [
+        8,
+        20,
+        21,
+        24
+      ],
+      "6": [
+        9,
+        10,
+        11,
+        13,
+        14
+      ],
+      "6.3": [
+        13,
+        14
+      ],
+      "7": [
+        9,
+        10
+      ],
+      "10": [
+        8
+      ],
+      "13": [
+        16
+      ],
+      "14": [
+        10
+      ],
+      "15": [
+        19
+      ],
+      "16": [
+        11,
+        12
+      ],
+      "17": [
+        12
+      ],
+      "18": [
+        12
+      ],
+      "19": [
+        18
+      ],
+      "20": [
+        20
+      ],
+      "21": [
+        21
+      ],
+      "27": [
+        25
+      ],
+      "29": [
+        25
+      ],
+      "37": [
+        27,
+        28
+      ],
+      "38": [
+        27,
+        28
+      ],
+      "39": [
+        29
+      ],
+      "40": [
+        29
+      ],
+      "41": [
+        31
+      ],
+      "42": [
+        31
+      ],
+      "43": [
+        32
+      ],
+      "45": [
+        30
+      ],
+      "50": [
+        5,
+        34,
+        35,
+        36,
+        37,
+        38,
+        40,
+        41
+      ],
+      "51": [
+        43,
+        45,
+        46
+      ],
+      "52": [
+        42,
+        49
+      ],
+      "53": [
+        47
+      ],
+      "54": [
+        49
+      ],
+      "55": [
+        39,
+        50
+      ],
+      "56": [
+        48
+      ],
+      "58": [
+        50,
+        51
+      ],
+      "59": [
+        52
+      ],
+      "60": [
+        53,
+        60
+      ],
+      "61": [
+        53
+      ],
+      "62": [
+        53
+      ],
+      "63": [
+        54
+      ],
+      "64": [
+        56
+      ],
+      "66": [
+        55
+      ],
+      "68": [
+        58
+      ],
+      "78": [
+        59,
+        60,
+        61
+      ],
+      "91": [
+        62
+      ],
+      "93": [
+        62,
+        64
+      ],
+      "94": [
+        66
+      ],
+      "97": [
+        69
+      ],
+      "98": [
+        69
+      ],
+      "99": [
+        69
+      ],
+      "101": [
+        68,
+        70
+      ],
+      "102": [
+        75,
+        76,
+        77,
+        78,
+        79
+      ],
+      "106": [
+        80,
+        81,
+        82
+      ]
+    }
+  }
+}

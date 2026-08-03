@@ -1,0 +1,355 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32023R1805": "b998468a01103bf415f6d9b884fd9a93dded65a40823d3662b05b7633661b020"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade",
+        "label": "Tillämpningsområde och grundläggande krav",
+        "range": [
+          7,
+          12
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "territoriella-undantag",
+        "label": "Undvikande av hamnar och territoriella undantag",
+        "range": [
+          13,
+          18
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "sarskilda-forhallanden",
+        "label": "Särskilda förhållanden och ansvar",
+        "range": [
+          19,
+          20
+        ],
+        "articleRefs": [
+          "3",
+          "8",
+          "15"
+        ]
+      },
+      {
+        "id": "vaxthusgas-mål",
+        "label": "Växthusgasintensitet och målsättningar",
+        "range": [
+          21,
+          23
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "hallbara-branslen",
+        "label": "Hållbara bränslen och råvaror",
+        "range": [
+          24,
+          28
+        ],
+        "articleRefs": [
+          "5",
+          "10"
+        ]
+      },
+      {
+        "id": "berakningsmetoder",
+        "label": "Beräkningsmetoder för utsläpp",
+        "range": [
+          29,
+          35
+        ],
+        "articleRefs": [
+          "4",
+          "16"
+        ]
+      },
+      {
+        "id": "landstrom",
+        "label": "Landströmsförsörjning",
+        "range": [
+          36,
+          47
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "mrv-verifiering",
+        "label": "Övervakning, rapportering och verifiering",
+        "range": [
+          48,
+          54
+        ],
+        "articleRefs": [
+          "7",
+          "8",
+          "9",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "databas-flexibilitet",
+        "label": "Databas och flexibilitetsmekanismer",
+        "range": [
+          55,
+          57
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21"
+        ]
+      },
+      {
+        "id": "dokumentation",
+        "label": "Dokumentation och kontroll",
+        "range": [
+          58,
+          59
+        ],
+        "articleRefs": [
+          "22",
+          "24"
+        ]
+      },
+      {
+        "id": "straffavgifter",
+        "label": "Straffavgifter och ekonomiskt ansvar",
+        "range": [
+          60,
+          63
+        ],
+        "articleRefs": [
+          "23"
+        ]
+      },
+      {
+        "id": "tillsyn-sanktioner",
+        "label": "Tillsyn, sanktioner och rättsmedel",
+        "range": [
+          64,
+          66
+        ],
+        "articleRefs": [
+          "25",
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "befogenheter-utvardering",
+        "label": "Delegerade befogenheter och utvärdering",
+        "range": [
+          67,
+          71
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "rettslig-grund",
+        "label": "Rättslig grund",
+        "range": [
+          72,
+          72
+        ],
+        "articleRefs": [
+          "32"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        3,
+        4
+      ],
+      "2": [
+        7,
+        11
+      ],
+      "2.1": [
+        7,
+        11
+      ],
+      "2.2": [
+        13
+      ],
+      "2.3": [
+        14
+      ],
+      "2.4": [
+        15
+      ],
+      "2.5": [
+        16,
+        17
+      ],
+      "2.6": [
+        18
+      ],
+      "2.7": [
+        11
+      ],
+      "3": [
+        13,
+        19,
+        20
+      ],
+      "3.10": [
+        13
+      ],
+      "3.13": [
+        20
+      ],
+      "4": [
+        23,
+        29,
+        30,
+        31,
+        32,
+        34
+      ],
+      "5": [
+        24,
+        26,
+        27,
+        28
+      ],
+      "5.1": [
+        26
+      ],
+      "5.3": [
+        26
+      ],
+      "6": [
+        36,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "6.1": [
+        37,
+        38
+      ],
+      "6.5": [
+        41
+      ],
+      "6.11": [
+        40
+      ],
+      "7": [
+        48,
+        49
+      ],
+      "8": [
+        49
+      ],
+      "9": [
+        49
+      ],
+      "10": [
+        51,
+        52
+      ],
+      "11": [
+        49
+      ],
+      "12": [
+        53
+      ],
+      "13": [
+        53
+      ],
+      "14": [
+        53
+      ],
+      "15": [
+        49
+      ],
+      "16": [
+        54
+      ],
+      "17": [
+        65
+      ],
+      "19": [
+        55
+      ],
+      "20": [
+        56
+      ],
+      "21": [
+        57
+      ],
+      "22": [
+        58
+      ],
+      "23": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "24": [
+        58
+      ],
+      "25": [
+        64
+      ],
+      "26": [
+        66
+      ],
+      "27": [
+        65
+      ],
+      "30": [
+        71
+      ]
+    }
+  }
+}

@@ -1,0 +1,526 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32015L2366": "822d4e5ca7bc63892afcb6faca547efd5b1631ce71e0b5dd09795a79a3b8e9eb"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-undantag",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          7,
+          23
+        ],
+        "articleRefs": [
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "leverantorer-auktorisation",
+        "label": "Betaltjänstleverantörer och auktorisation",
+        "range": [
+          24,
+          36
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "11",
+          "13"
+        ]
+      },
+      {
+        "id": "skydd-driftsvillkor",
+        "label": "Skydd av medel och driftsvillkor",
+        "range": [
+          37,
+          40
+        ],
+        "articleRefs": [
+          "10",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "tillsyn-samarbete",
+        "label": "Tillsyn och samarbete",
+        "range": [
+          41,
+          48
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "22",
+          "23",
+          "26",
+          "28",
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "tilltraede-betalningssystem",
+        "label": "Tillträde till betalningssystem",
+        "range": [
+          49,
+          52
+        ],
+        "articleRefs": [
+          "35",
+          "36"
+        ]
+      },
+      {
+        "id": "informationskrav-avtalsvillkor",
+        "label": "Informationskrav och avtalsvillkor",
+        "range": [
+          53,
+          64
+        ],
+        "articleRefs": [
+          "38",
+          "40",
+          "42",
+          "44",
+          "45",
+          "51",
+          "52",
+          "54",
+          "55"
+        ]
+      },
+      {
+        "id": "avgifter-prissattning",
+        "label": "Avgifter och prissättning",
+        "range": [
+          65,
+          66
+        ],
+        "articleRefs": [
+          "62"
+        ]
+      },
+      {
+        "id": "kortbaserade-betalningar",
+        "label": "Kortbaserade betalningar",
+        "range": [
+          67,
+          68
+        ],
+        "articleRefs": [
+          "65"
+        ]
+      },
+      {
+        "id": "sakerhet-ansvar-obehöriga",
+        "label": "Säkerhet och ansvar för obehöriga transaktioner",
+        "range": [
+          69,
+          74
+        ],
+        "articleRefs": [
+          "69",
+          "70",
+          "71",
+          "72",
+          "73",
+          "74"
+        ]
+      },
+      {
+        "id": "aterbetalning-sperrning",
+        "label": "Återbetalning och spärrning av medel",
+        "range": [
+          75,
+          77
+        ],
+        "articleRefs": [
+          "75",
+          "76",
+          "77"
+        ]
+      },
+      {
+        "id": "genomforande-betalningsorder",
+        "label": "Genomförande av betalningsorder",
+        "range": [
+          78,
+          87
+        ],
+        "articleRefs": [
+          "78",
+          "79",
+          "80",
+          "81",
+          "83",
+          "84",
+          "85",
+          "86",
+          "87"
+        ]
+      },
+      {
+        "id": "identifikationskoder-dataskydd",
+        "label": "Identifikationskoder och dataskydd",
+        "range": [
+          88,
+          90
+        ],
+        "articleRefs": [
+          "88",
+          "94"
+        ]
+      },
+      {
+        "id": "operativa-risker-autentisering",
+        "label": "Operativa risker och autentisering",
+        "range": [
+          91,
+          96
+        ],
+        "articleRefs": [
+          "95",
+          "96",
+          "97",
+          "98"
+        ]
+      },
+      {
+        "id": "tvistlosning-sanktioner",
+        "label": "Tvistlösning och sanktioner",
+        "range": [
+          97,
+          103
+        ],
+        "articleRefs": [
+          "99",
+          "100",
+          "101",
+          "102",
+          "103"
+        ]
+      },
+      {
+        "id": "slutbestemmelser-overgang",
+        "label": "Slutbestämmelser och övergång",
+        "range": [
+          104,
+          113
+        ],
+        "articleRefs": [
+          "104",
+          "109",
+          "115"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        6
+      ],
+      "2": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "3": [
+        9,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        22,
+        23
+      ],
+      "4": [
+        21
+      ],
+      "5": [
+        24,
+        34,
+        35
+      ],
+      "6": [
+        34
+      ],
+      "7": [
+        34
+      ],
+      "8": [
+        34
+      ],
+      "9": [
+        34
+      ],
+      "10": [
+        37
+      ],
+      "11": [
+        24,
+        26
+      ],
+      "13": [
+        34
+      ],
+      "14": [
+        19,
+        20,
+        42,
+        47
+      ],
+      "15": [
+        42
+      ],
+      "17": [
+        38
+      ],
+      "18": [
+        39,
+        40
+      ],
+      "19": [
+        36
+      ],
+      "22": [
+        41
+      ],
+      "23": [
+        41
+      ],
+      "26": [
+        41
+      ],
+      "28": [
+        41
+      ],
+      "29": [
+        41,
+        44
+      ],
+      "30": [
+        45
+      ],
+      "32": [
+        19,
+        20,
+        47
+      ],
+      "33": [
+        28,
+        35,
+        48
+      ],
+      "35": [
+        49,
+        50,
+        51,
+        52
+      ],
+      "36": [
+        39
+      ],
+      "37": [
+        19,
+        20
+      ],
+      "38": [
+        53
+      ],
+      "40": [
+        54,
+        59,
+        60,
+        61
+      ],
+      "42": [
+        81
+      ],
+      "44": [
+        54,
+        58
+      ],
+      "45": [
+        54,
+        56
+      ],
+      "51": [
+        57
+      ],
+      "52": [
+        54,
+        56,
+        57
+      ],
+      "54": [
+        63
+      ],
+      "55": [
+        62
+      ],
+      "62": [
+        65,
+        66
+      ],
+      "65": [
+        67,
+        68
+      ],
+      "66": [
+        27,
+        29,
+        30,
+        32
+      ],
+      "67": [
+        28
+      ],
+      "68": [
+        69
+      ],
+      "69": [
+        69
+      ],
+      "70": [
+        69
+      ],
+      "71": [
+        70
+      ],
+      "72": [
+        72
+      ],
+      "73": [
+        71,
+        73
+      ],
+      "74": [
+        71,
+        72,
+        73
+      ],
+      "75": [
+        75
+      ],
+      "76": [
+        76
+      ],
+      "77": [
+        76
+      ],
+      "78": [
+        77
+      ],
+      "79": [
+        77
+      ],
+      "80": [
+        78,
+        79
+      ],
+      "81": [
+        80
+      ],
+      "83": [
+        82
+      ],
+      "84": [
+        82
+      ],
+      "85": [
+        82
+      ],
+      "86": [
+        82
+      ],
+      "87": [
+        82
+      ],
+      "88": [
+        88
+      ],
+      "89": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "90": [
+        86
+      ],
+      "92": [
+        87
+      ],
+      "94": [
+        89
+      ],
+      "95": [
+        91
+      ],
+      "96": [
+        91
+      ],
+      "97": [
+        95,
+        96
+      ],
+      "98": [
+        93,
+        94
+      ],
+      "99": [
+        97
+      ],
+      "100": [
+        99
+      ],
+      "101": [
+        98
+      ],
+      "102": [
+        98
+      ],
+      "103": [
+        99,
+        100
+      ],
+      "109": [
+        105
+      ],
+      "115": [
+        105
+      ]
+    }
+  }
+}

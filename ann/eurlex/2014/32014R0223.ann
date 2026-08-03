@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32014R0223": "f577214b019da91a4467a31620ff7fc0fd6d24173dda283b2e14be5bd1481eed"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "allmanna-principer-fordelning",
+        "label": "Allmänna principer och fördelning",
+        "range": [
+          9,
+          12
+        ],
+        "articleRefs": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "operativa-program-partnerskap",
+        "label": "Operativa program och partnerskap",
+        "range": [
+          13,
+          18
+        ],
+        "articleRefs": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "overvakning-utvardering-info",
+        "label": "Övervakning, utvärdering och information",
+        "range": [
+          19,
+          23
+        ],
+        "articleRefs": [
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "ekonomiskt-stod-berattigande",
+        "label": "Ekonomiskt stöd och berättigande",
+        "range": [
+          24,
+          27
+        ],
+        "articleRefs": [
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "tekniskt-bistand",
+        "label": "Tekniskt bistånd",
+        "range": [
+          28,
+          28
+        ],
+        "articleRefs": [
+          "27"
+        ]
+      },
+      {
+        "id": "forvaltnings-kontrollsystem",
+        "label": "Förvaltnings- och kontrollsystem",
+        "range": [
+          29,
+          32
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "30",
+          "31"
+        ]
+      },
+      {
+        "id": "myndigheternas-roller",
+        "label": "Myndigheternas roller och uppgifter",
+        "range": [
+          33,
+          38
+        ],
+        "articleRefs": [
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "finansiell-forvaltning-utbetalningar",
+        "label": "Finansiell förvaltning och utbetalningar",
+        "range": [
+          39,
+          47
+        ],
+        "articleRefs": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47"
+        ]
+      },
+      {
+        "id": "rakenskaper-revision",
+        "label": "Räkenskaper och revision",
+        "range": [
+          48,
+          51
+        ],
+        "articleRefs": [
+          "48",
+          "49",
+          "50",
+          "51",
+          "58"
+        ]
+      },
+      {
+        "id": "finansiella-korrigeringar",
+        "label": "Finansiella korrigeringar och återkrav",
+        "range": [
+          49,
+          50
+        ],
+        "articleRefs": [
+          "53",
+          "54",
+          "55",
+          "56",
+          "57"
+        ]
+      },
+      {
+        "id": "slutbestammelser-befogenheter",
+        "label": "Slutbestämmelser och befogenheter",
+        "range": [
+          52,
+          61
+        ],
+        "articleRefs": [
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        6,
+        7
+      ],
+      "3": [
+        1,
+        7
+      ],
+      "4": [
+        7,
+        14
+      ],
+      "5": [
+        3,
+        4,
+        5,
+        9,
+        10
+      ],
+      "5.5": [
+        25,
+        51
+      ],
+      "5.6": [
+        60
+      ],
+      "5.9": [
+        17
+      ],
+      "5.11": [
+        3
+      ],
+      "5.12": [
+        10
+      ],
+      "5.13": [
+        11
+      ],
+      "5.14": [
+        4,
+        5
+      ],
+      "6": [
+        11
+      ],
+      "7": [
+        13,
+        15,
+        17
+      ],
+      "7.2": [
+        13,
+        14
+      ],
+      "7.3": [
+        13
+      ],
+      "8": [
+        16
+      ],
+      "9": [
+        16
+      ],
+      "10": [
+        18
+      ],
+      "13": [
+        19
+      ],
+      "15": [
+        20
+      ],
+      "16": [
+        20
+      ],
+      "19": [
+        22
+      ],
+      "19.7": [
+        23
+      ],
+      "20": [
+        24
+      ],
+      "21": [
+        24
+      ],
+      "22": [
+        26
+      ],
+      "23": [
+        25
+      ],
+      "26.2": [
+        14,
+        27
+      ],
+      "27": [
+        28
+      ],
+      "28": [
+        9,
+        30
+      ],
+      "30": [
+        9,
+        31
+      ],
+      "31": [
+        32
+      ],
+      "32": [
+        33
+      ],
+      "33": [
+        34
+      ],
+      "34": [
+        35
+      ],
+      "35": [
+        36
+      ],
+      "36": [
+        38
+      ],
+      "38": [
+        39
+      ],
+      "40": [
+        40
+      ],
+      "41": [
+        45
+      ],
+      "42": [
+        42
+      ],
+      "44": [
+        41
+      ],
+      "46": [
+        43
+      ],
+      "47": [
+        44
+      ],
+      "50": [
+        48
+      ],
+      "51": [
+        47
+      ],
+      "53": [
+        49
+      ],
+      "54": [
+        49,
+        50
+      ],
+      "55": [
+        49
+      ],
+      "58": [
+        51
+      ]
+    }
+  }
+}

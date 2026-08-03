@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32019R2088": "32c5c6028f99f365d6632fbdd3fe6e7ada7175d81e1ca2c4d582883b46e500c2"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-globala-mal",
+        "label": "Bakgrund och globala mål",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "behov-harmonisering",
+        "label": "Behov av harmoniserade upplysningskrav",
+        "range": [
+          4,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-aktorer",
+        "label": "Tillämpningsområde och aktörer",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "2",
+          "17"
+        ]
+      },
+      {
+        "id": "syfte-och-mal",
+        "label": "Förordningens syfte och mål",
+        "range": [
+          8,
+          10
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "kopplingen-till-befintlig-rätt",
+        "label": "Koppling till befintlig lagstiftning",
+        "range": [
+          11,
+          13
+        ],
+        "articleRefs": [
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "hallbarhetsrisker",
+        "label": "Hållbarhetsrisker",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "2",
+          "3",
+          "6"
+        ]
+      },
+      {
+        "id": "negativa-konsekvenser",
+        "label": "Negativa konsekvenser för hållbar utveckling",
+        "range": [
+          16,
+          20
+        ],
+        "articleRefs": [
+          "4",
+          "7",
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "hallbara-produkter",
+        "label": "Hållbara finansiella produkter",
+        "range": [
+          21,
+          24
+        ],
+        "articleRefs": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "ovriga-upplysningskrav",
+        "label": "Övriga upplysningskrav och undantag",
+        "range": [
+          25,
+          28
+        ],
+        "articleRefs": [
+          "10",
+          "12",
+          "16"
+        ]
+      },
+      {
+        "id": "tillsyn-och-standarder",
+        "label": "Tillsyn och tekniska standarder",
+        "range": [
+          29,
+          31
+        ],
+        "articleRefs": [
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och ikraftträdande",
+        "range": [
+          32,
+          35
+        ],
+        "articleRefs": [
+          "20"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        8,
+        10
+      ],
+      "2": [
+        7,
+        14,
+        17,
+        24
+      ],
+      "2.11": [
+        7
+      ],
+      "2.17": [
+        17
+      ],
+      "2.22": [
+        14
+      ],
+      "2.24": [
+        16,
+        20
+      ],
+      "3": [
+        12,
+        15,
+        23
+      ],
+      "4": [
+        16,
+        18,
+        20
+      ],
+      "4.1": [
+        18
+      ],
+      "4.3": [
+        18
+      ],
+      "4.4": [
+        18
+      ],
+      "4.5": [
+        18
+      ],
+      "5": [
+        22
+      ],
+      "6": [
+        12,
+        15
+      ],
+      "7": [
+        18,
+        20
+      ],
+      "8": [
+        21,
+        24
+      ],
+      "9": [
+        21,
+        24
+      ],
+      "10": [
+        23,
+        26
+      ],
+      "11": [
+        21,
+        24
+      ],
+      "12": [
+        26
+      ],
+      "13": [
+        31
+      ],
+      "14": [
+        11
+      ],
+      "15": [
+        13
+      ],
+      "16": [
+        27
+      ],
+      "17": [
+        6
+      ],
+      "18": [
+        18,
+        20
+      ],
+      "19": [
+        18
+      ],
+      "20": [
+        32
+      ]
+    }
+  }
+}

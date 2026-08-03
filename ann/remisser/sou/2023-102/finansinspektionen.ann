@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/finansinspektionen": "d15fa20ad14e0282c9b1c7b175f033ed67b3be7bab816e7da6728206a0f3ea19",
+      "artifact:forarbete/sou/2023-102": "5cb0365885de555d43abe4d35b37a8f2abb2e4f2665af21d7cbd4cbdf7f5ac75"
+    }
+  },
+  "overall": {
+    "sentiment": 0.7,
+    "quote": "Finansinspektionen (FI) tillstyrker i huvudsak förslaget till lag med kompletterande bestämmelser till EU:s förordning om distribuerade liggare"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.16",
+      "sentiment": -0.5,
+      "quote": "Sammanfattningsvis anser FI att denna typ av dubbelreglering i fråga om tillsyn och ingripande skapar osäkerhet om vilket regelverk som inspektionen ska tillämpa vid en överträdelse."
+    },
+    {
+      "forarbete_id": "sec51",
+      "sentiment": -0.6,
+      "quote": "Utredningens förslag riskerar därför att skapa en omotiverad osäkerhet kring hur kontoföringslagen förhåller sig till penningtvättsregelverket."
+    },
+    {
+      "forarbete_id": "a1.16",
+      "sentiment": 0.5,
+      "quote": "FI har inte några synpunkter på förslaget att inspektionen genom ett förvaltningsbeslut– och inte genom föreskrifter – kan besluta att uppgifter ska lämnas direkt till SCB."
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.0,
+      "quote": "FI uppfattar att föreslagna 7 kap. 1 § första stycket andra meningen kompletteringslagen ska hänvisa till 5 kap. 3 § första stycket samma lag, inte till 6 kap. 3 §."
+    }
+  ]
+}

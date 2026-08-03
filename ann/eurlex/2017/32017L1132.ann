@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32017L1132": "feef562df70094bcd36a5894145198839f47cca6db2dcc4febf7a49d307cc7e6"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "7"
+        ]
+      },
+      {
+        "id": "offentlighet-information",
+        "label": "Offentlighet och informationsutbyte",
+        "range": [
+          8,
+          13
+        ],
+        "articleRefs": [
+          "14",
+          "16",
+          "26"
+        ]
+      },
+      {
+        "id": "filialer",
+        "label": "Bestämmelser om filialer",
+        "range": [
+          14,
+          22
+        ],
+        "articleRefs": [
+          "29",
+          "30",
+          "34",
+          "36",
+          "39"
+        ]
+      },
+      {
+        "id": "sammankoppling-register",
+        "label": "Sammankoppling av register",
+        "range": [
+          23,
+          39
+        ],
+        "articleRefs": [
+          "18",
+          "20",
+          "22",
+          "23",
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "kapital-egna-aktier",
+        "label": "Kapitalbevarande och egna aktier",
+        "range": [
+          40,
+          45
+        ],
+        "articleRefs": [
+          "59",
+          "60",
+          "67"
+        ]
+      },
+      {
+        "id": "kapitalandringar-skydd",
+        "label": "Kapitaländringar och borgenärsskydd",
+        "range": [
+          46,
+          48
+        ],
+        "articleRefs": [
+          "68",
+          "73",
+          "75"
+        ]
+      },
+      {
+        "id": "fusioner-allmant",
+        "label": "Fusioner av publika aktiebolag",
+        "range": [
+          49,
+          56
+        ],
+        "articleRefs": [
+          "87",
+          "88",
+          "89",
+          "90",
+          "108"
+        ]
+      },
+      {
+        "id": "gransoverskridande-fusioner",
+        "label": "Gränsöverskridande fusioner",
+        "range": [
+          57,
+          67
+        ],
+        "articleRefs": [
+          "118",
+          "122",
+          "131",
+          "133"
+        ]
+      },
+      {
+        "id": "delning-aktiebolag",
+        "label": "Delning av publika aktiebolag",
+        "range": [
+          68,
+          78
+        ],
+        "articleRefs": [
+          "135",
+          "136",
+          "146",
+          "153"
+        ]
+      },
+      {
+        "id": "personuppgifter-slut",
+        "label": "Personuppgifter och avslutande bestämmelser",
+        "range": [
+          79,
+          81
+        ],
+        "articleRefs": [
+          "161"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        7
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        3,
+        4
+      ],
+      "4": [
+        4
+      ],
+      "7": [
+        5,
+        6
+      ],
+      "8": [
+        6,
+        7,
+        8
+      ],
+      "9": [
+        6
+      ],
+      "11": [
+        6
+      ],
+      "12": [
+        6
+      ],
+      "14": [
+        7,
+        8
+      ],
+      "15": [
+        33
+      ],
+      "16": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "18": [
+        9,
+        10,
+        25
+      ],
+      "20": [
+        31
+      ],
+      "22": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "23": [
+        34,
+        35
+      ],
+      "24": [
+        36
+      ],
+      "25": [
+        39
+      ],
+      "26": [
+        13
+      ],
+      "29": [
+        14,
+        15,
+        16
+      ],
+      "30": [
+        17,
+        18
+      ],
+      "31": [
+        19
+      ],
+      "34": [
+        31
+      ],
+      "35": [
+        20
+      ],
+      "36": [
+        21
+      ],
+      "38": [
+        21
+      ],
+      "39": [
+        21
+      ],
+      "45": [
+        3
+      ],
+      "49": [
+        78
+      ],
+      "56": [
+        40
+      ],
+      "59": [
+        40,
+        41
+      ],
+      "60": [
+        40,
+        41,
+        42
+      ],
+      "67": [
+        42,
+        43,
+        44
+      ],
+      "68": [
+        46
+      ],
+      "73": [
+        46
+      ],
+      "75": [
+        46,
+        47
+      ],
+      "87": [
+        49
+      ],
+      "89": [
+        49
+      ],
+      "91": [
+        50,
+        52
+      ],
+      "96": [
+        50
+      ],
+      "99": [
+        51
+      ],
+      "108": [
+        54
+      ],
+      "118": [
+        55
+      ],
+      "122": [
+        57
+      ],
+      "125": [
+        59
+      ],
+      "131": [
+        61
+      ],
+      "133": [
+        65,
+        66,
+        67
+      ],
+      "135": [
+        68
+      ],
+      "146": [
+        70
+      ],
+      "153": [
+        73
+      ],
+      "161": [
+        79,
+        80
+      ]
+    }
+  }
+}

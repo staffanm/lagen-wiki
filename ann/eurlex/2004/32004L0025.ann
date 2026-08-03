@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32004L0025": "8764ff884967231cb7cb78a128d0b6f7e42b64ec459b24c25358ab84ca7b38cf"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-undantag",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillsyn-myndigheter",
+        "label": "Tillsyn och myndigheter",
+        "range": [
+          5,
+          8
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "budplikt-minoritetskydd",
+        "label": "Budplikt och skydd av minoritetsaktieägare",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "information-offentliggörande",
+        "label": "Information och offentliggörande",
+        "range": [
+          12,
+          14
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "myndighetsbefogenheter",
+        "label": "Tillsynsmyndigheternas befogenheter",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "id": "malbolagets-styrelse",
+        "label": "Målbolagets styrelse",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": [
+          "9"
+        ]
+      },
+      {
+        "id": "försvarsmekanismer-genombrott",
+        "label": "Försvarsmekanismer och genombrott",
+        "range": [
+          18,
+          20
+        ],
+        "articleRefs": [
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "frivilliga-system",
+        "label": "Frivilliga system",
+        "range": [
+          21,
+          21
+        ],
+        "articleRefs": [
+          "12"
+        ]
+      },
+      {
+        "id": "forfarandet-vid-erbjudanden",
+        "label": "Förfarandet vid uppköpserbjudanden",
+        "range": [
+          22,
+          22
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "anstallda-samrad",
+        "label": "Information och samråd med anställda",
+        "range": [
+          23,
+          23
+        ],
+        "articleRefs": [
+          "14"
+        ]
+      },
+      {
+        "id": "inlosenforfaranden",
+        "label": "Inlösen- och lösningsförfaranden",
+        "range": [
+          24,
+          24
+        ],
+        "articleRefs": [
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "rättslig-grund",
+        "label": "Rättslig grund och proportionalitet",
+        "range": [
+          25,
+          26
+        ],
+        "articleRefs": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "id": "pafoljder",
+        "label": "Påföljder",
+        "range": [
+          27,
+          27
+        ],
+        "articleRefs": [
+          "17"
+        ]
+      },
+      {
+        "id": "genomforande-kommitte",
+        "label": "Genomförande och kommittéer",
+        "range": [
+          28,
+          28
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "oversyn-harmonisering",
+        "label": "Översyn och harmonisering",
+        "range": [
+          29,
+          29
+        ],
+        "articleRefs": [
+          "20"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2
+      ],
+      "1.3": [
+        4
+      ],
+      "2": [
+        1,
+        2,
+        3
+      ],
+      "3": [
+        1,
+        2,
+        3,
+        6
+      ],
+      "3.1.b": [
+        17,
+        23
+      ],
+      "4": [
+        5,
+        7,
+        8
+      ],
+      "4.1": [
+        5,
+        7
+      ],
+      "4.4": [
+        15
+      ],
+      "4.6": [
+        8
+      ],
+      "5": [
+        9,
+        10,
+        11
+      ],
+      "5.1": [
+        9
+      ],
+      "5.4": [
+        9
+      ],
+      "6": [
+        12,
+        13
+      ],
+      "6.1": [
+        12
+      ],
+      "6.2": [
+        13
+      ],
+      "6.3.i": [
+        17,
+        23
+      ],
+      "6.5": [
+        15
+      ],
+      "7": [
+        14
+      ],
+      "8": [
+        12,
+        13
+      ],
+      "9": [
+        16,
+        17
+      ],
+      "9.2": [
+        16,
+        21
+      ],
+      "9.3": [
+        16,
+        21
+      ],
+      "9.5": [
+        17
+      ],
+      "10": [
+        18
+      ],
+      "11": [
+        19,
+        20
+      ],
+      "11.2": [
+        19
+      ],
+      "11.3": [
+        19
+      ],
+      "11.4": [
+        19
+      ],
+      "11.5": [
+        19
+      ],
+      "11.7": [
+        20
+      ],
+      "12": [
+        21
+      ],
+      "13": [
+        22
+      ],
+      "14": [
+        23
+      ],
+      "15": [
+        24
+      ],
+      "16": [
+        24
+      ],
+      "17": [
+        27
+      ],
+      "18": [
+        28
+      ],
+      "19": [
+        28
+      ],
+      "20": [
+        29
+      ]
+    }
+  }
+}

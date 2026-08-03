@@ -1,0 +1,425 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024L1385": "27e603949ff9df26e376d7e67df4771d93059a3ea73671c836053041005b5e71"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "behov-riskbedomning",
+        "label": "Behov och riskbedömning",
+        "range": [
+          5,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "16"
+        ]
+      },
+      {
+        "id": "definitioner-perspektiv",
+        "label": "Definitioner och perspektiv",
+        "range": [
+          9,
+          14
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "sarskilda-brott",
+        "label": "Särskilda brott: Könsstympning och tvångsäktenskap",
+        "range": [
+          15,
+          16
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "13"
+        ]
+      },
+      {
+        "id": "natvald",
+        "label": "Nätvåld",
+        "range": [
+          17,
+          27
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "straffrattsliga-forfaranden",
+        "label": "Straffrättsliga förfaranden och anmälan",
+        "range": [
+          28,
+          37
+        ],
+        "articleRefs": [
+          "10",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "individuell-bedomning",
+        "label": "Individuell bedömning och stöd",
+        "range": [
+          38,
+          42
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "skyddsorder",
+        "label": "Skyddsorder och förbudsåtgärder",
+        "range": [
+          43,
+          47
+        ],
+        "articleRefs": [
+          "19"
+        ]
+      },
+      {
+        "id": "bevisning-privatliv",
+        "label": "Bevisning och privatliv",
+        "range": [
+          48,
+          48
+        ],
+        "articleRefs": [
+          "20"
+        ]
+      },
+      {
+        "id": "riktlinjer-tillsyn",
+        "label": "Riktlinjer och tillsyn",
+        "range": [
+          49,
+          50
+        ],
+        "articleRefs": [
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "avlaggsnande-material",
+        "label": "Avlägsnande av onlinematerial",
+        "range": [
+          51,
+          55
+        ],
+        "articleRefs": [
+          "23"
+        ]
+      },
+      {
+        "id": "specialiserat-stod",
+        "label": "Specialiserade stödtjänster",
+        "range": [
+          56,
+          66
+        ],
+        "articleRefs": [
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29"
+        ]
+      },
+      {
+        "id": "boenden-riktat-stod",
+        "label": "Boenden och riktat stöd",
+        "range": [
+          67,
+          72
+        ],
+        "articleRefs": [
+          "30",
+          "31",
+          "32",
+          "33"
+        ]
+      },
+      {
+        "id": "forebyggande-utbildning",
+        "label": "Förebyggande arbete och utbildning",
+        "range": [
+          73,
+          82
+        ],
+        "articleRefs": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "samordning-samarbete",
+        "label": "Samordning och samarbete",
+        "range": [
+          83,
+          87
+        ],
+        "articleRefs": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "id": "data-slutbestammelser",
+        "label": "Data och slutförbestämmelser",
+        "range": [
+          88,
+          95
+        ],
+        "articleRefs": [
+          "44",
+          "45",
+          "46",
+          "49"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9,
+        12
+      ],
+      "2": [
+        9,
+        11,
+        12,
+        13,
+        14
+      ],
+      "3": [
+        15
+      ],
+      "4": [
+        16
+      ],
+      "5": [
+        18,
+        19,
+        20
+      ],
+      "6": [
+        21,
+        22,
+        23
+      ],
+      "7": [
+        24
+      ],
+      "8": [
+        25,
+        26,
+        27
+      ],
+      "10": [
+        28
+      ],
+      "11": [
+        6,
+        13,
+        16
+      ],
+      "13": [
+        16
+      ],
+      "14": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "14.4": [
+        33
+      ],
+      "14.5": [
+        33,
+        34
+      ],
+      "14.6": [
+        34
+      ],
+      "15": [
+        36,
+        37
+      ],
+      "16": [
+        38,
+        39,
+        40,
+        41
+      ],
+      "17": [
+        38,
+        39,
+        40
+      ],
+      "18": [
+        42
+      ],
+      "18.4": [
+        42
+      ],
+      "19": [
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "20": [
+        48
+      ],
+      "21": [
+        49
+      ],
+      "22": [
+        50
+      ],
+      "23": [
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "24": [
+        56
+      ],
+      "25": [
+        57,
+        58,
+        60,
+        61,
+        63
+      ],
+      "26": [
+        64
+      ],
+      "27": [
+        64
+      ],
+      "28": [
+        65
+      ],
+      "29": [
+        66
+      ],
+      "30": [
+        67
+      ],
+      "31": [
+        68,
+        69,
+        70
+      ],
+      "32": [
+        70
+      ],
+      "33": [
+        71,
+        72
+      ],
+      "34": [
+        73,
+        74,
+        75,
+        76
+      ],
+      "35": [
+        75
+      ],
+      "36": [
+        77,
+        78,
+        79
+      ],
+      "37": [
+        80,
+        81,
+        82
+      ],
+      "38": [
+        83
+      ],
+      "39": [
+        85
+      ],
+      "40": [
+        83
+      ],
+      "41": [
+        84
+      ],
+      "42": [
+        86
+      ],
+      "43": [
+        87
+      ],
+      "44": [
+        88,
+        89,
+        90
+      ],
+      "45": [
+        92
+      ],
+      "46": [
+        5,
+        91
+      ],
+      "49": [
+        92
+      ]
+    }
+  }
+}

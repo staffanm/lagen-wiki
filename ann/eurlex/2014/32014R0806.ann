@@ -1,0 +1,426 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32014R0806": "1a7e1beea1b36eae897b3ec9610479d1aba96259e2d0ca61c40e5f0dbd0ccf33"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "6"
+        ]
+      },
+      {
+        "id": "bankunionen-tillsyn",
+        "label": "Bankunionen och tillsynsmekanismen",
+        "range": [
+          5,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "behov-gemensam-mekanism",
+        "label": "Behovet av en gemensam resolutionsmekanism",
+        "range": [
+          8,
+          12
+        ],
+        "articleRefs": [
+          "1",
+          "7"
+        ]
+      },
+      {
+        "id": "tillämpningsområde-deltagande",
+        "label": "Tillämpningsområde och deltagande",
+        "range": [
+          13,
+          17
+        ],
+        "articleRefs": [
+          "2",
+          "4",
+          "16"
+        ]
+      },
+      {
+        "id": "forhallande-regelverk",
+        "label": "Förhållande till andra regelverk",
+        "range": [
+          18,
+          22
+        ],
+        "articleRefs": [
+          "5",
+          "22"
+        ]
+      },
+      {
+        "id": "beslutsfattande-styrning",
+        "label": "Beslutsfattande och styrning",
+        "range": [
+          23,
+          26
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "koncernresolution-statsstod",
+        "label": "Koncernresolution och statsstöd",
+        "range": [
+          27,
+          30
+        ],
+        "articleRefs": [
+          "16",
+          "19"
+        ]
+      },
+      {
+        "id": "namndens-organisation",
+        "label": "Nämndens struktur och organisation",
+        "range": [
+          31,
+          37
+        ],
+        "articleRefs": [
+          "42",
+          "43",
+          "53",
+          "54"
+        ]
+      },
+      {
+        "id": "samarbete-ansvarsutkravande",
+        "label": "Samarbete och ansvarsutkrävande",
+        "range": [
+          38,
+          43
+        ],
+        "articleRefs": [
+          "30",
+          "31",
+          "45",
+          "46"
+        ]
+      },
+      {
+        "id": "resolutionsplanering-kapitalkrav",
+        "label": "Resolutionsplanering och kapitalkrav",
+        "range": [
+          44,
+          51
+        ],
+        "articleRefs": [
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "tidigt-ingripande-utlosning",
+        "label": "Tidigt ingripande och utlösningsvillkor",
+        "range": [
+          52,
+          57
+        ],
+        "articleRefs": [
+          "13",
+          "18"
+        ]
+      },
+      {
+        "id": "resolutionsmal-principer",
+        "label": "Resolutionsmål och principer",
+        "range": [
+          58,
+          65
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "17",
+          "20"
+        ]
+      },
+      {
+        "id": "resolutionsverktyg",
+        "label": "Resolutionsverktyg",
+        "range": [
+          66,
+          78
+        ],
+        "articleRefs": [
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "insattningsgarantier-kapitalbas",
+        "label": "Insättningsgarantier och kapitalbas",
+        "range": [
+          79,
+          84
+        ],
+        "articleRefs": [
+          "12",
+          "79"
+        ]
+      },
+      {
+        "id": "tillsyn-samarbete-sanktioner",
+        "label": "Tillsyn, samarbete och sanktioner",
+        "range": [
+          85,
+          96
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "34",
+          "35",
+          "36",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "id": "fond-administration",
+        "label": "Resolutionsfonden och administration",
+        "range": [
+          97,
+          124
+        ],
+        "articleRefs": [
+          "65",
+          "67",
+          "69",
+          "70",
+          "71",
+          "75",
+          "76",
+          "88"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        8,
+        10,
+        12
+      ],
+      "2": [
+        15,
+        17,
+        22
+      ],
+      "4": [
+        15,
+        17
+      ],
+      "5": [
+        18
+      ],
+      "6": [
+        1,
+        60,
+        61
+      ],
+      "7": [
+        11,
+        28
+      ],
+      "8": [
+        44,
+        46,
+        47,
+        49,
+        51
+      ],
+      "8.9": [
+        49
+      ],
+      "9": [
+        44
+      ],
+      "10": [
+        44,
+        46,
+        47
+      ],
+      "10.7": [
+        46
+      ],
+      "11": [
+        50
+      ],
+      "12": [
+        46,
+        73,
+        83,
+        84
+      ],
+      "13": [
+        52,
+        53
+      ],
+      "14": [
+        58
+      ],
+      "15": [
+        60,
+        61,
+        62
+      ],
+      "16": [
+        22
+      ],
+      "17": [
+        65
+      ],
+      "18": [
+        57
+      ],
+      "18.1": [
+        57
+      ],
+      "19": [
+        19,
+        30
+      ],
+      "20": [
+        63,
+        64
+      ],
+      "21": [
+        65,
+        76
+      ],
+      "22": [
+        66,
+        68
+      ],
+      "23": [
+        67
+      ],
+      "24": [
+        70
+      ],
+      "25": [
+        27,
+        68
+      ],
+      "26": [
+        72
+      ],
+      "27": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        80
+      ],
+      "28": [
+        87
+      ],
+      "29": [
+        87
+      ],
+      "34": [
+        93,
+        94
+      ],
+      "35": [
+        93
+      ],
+      "36": [
+        93
+      ],
+      "38": [
+        95
+      ],
+      "39": [
+        95
+      ],
+      "42": [
+        31
+      ],
+      "43": [
+        31,
+        32
+      ],
+      "45": [
+        42
+      ],
+      "46": [
+        43
+      ],
+      "65": [
+        41
+      ],
+      "67": [
+        19,
+        101
+      ],
+      "69": [
+        104,
+        105,
+        106
+      ],
+      "70": [
+        102,
+        103
+      ],
+      "71": [
+        102
+      ],
+      "75": [
+        111
+      ],
+      "76": [
+        19,
+        101
+      ],
+      "79": [
+        81,
+        82,
+        110
+      ],
+      "88": [
+        116,
+        117
+      ]
+    }
+  }
+}

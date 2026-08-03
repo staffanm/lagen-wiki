@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32013R1296": "7483e1973d13f36b2b96c41df71bbf22889dd5a0187d73777dba4bceba630f82"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "social-innovation",
+        "label": "Social innovation",
+        "range": [
+          4,
+          6
+        ],
+        "articleRefs": [
+          "2",
+          "4",
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "hallbar-sysselsattning",
+        "label": "Hållbar sysselsättning och rörlighet",
+        "range": [
+          7,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "strategi-analys",
+        "label": "Strategiska mål och analys",
+        "range": [
+          10,
+          13
+        ],
+        "articleRefs": [
+          "12",
+          "13",
+          "15",
+          "16",
+          "31"
+        ]
+      },
+      {
+        "id": "arbetsnormer-samarbete",
+        "label": "Arbetsnormer och internationellt samarbete",
+        "range": [
+          14,
+          16
+        ],
+        "articleRefs": [
+          "4",
+          "8",
+          "18"
+        ]
+      },
+      {
+        "id": "eures-rorlighet",
+        "label": "Eures och rörlighet",
+        "range": [
+          17,
+          20
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "19",
+          "20",
+          "21",
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "mikrofinansiering",
+        "label": "Mikrofinansiering",
+        "range": [
+          21,
+          24
+        ],
+        "articleRefs": [
+          "2",
+          "4",
+          "26",
+          "28"
+        ]
+      },
+      {
+        "id": "socialt-entreprenorskap",
+        "label": "Socialt entreprenörskap",
+        "range": [
+          25,
+          26
+        ],
+        "articleRefs": [
+          "2",
+          "4",
+          "26",
+          "27",
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "ungdomar-jamstalled",
+        "label": "Ungdomar och jämställdhet",
+        "range": [
+          27,
+          31
+        ],
+        "articleRefs": [
+          "4",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "samverkan-kommunikation",
+        "label": "Samverkan och kommunikation",
+        "range": [
+          32,
+          35
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "9"
+        ]
+      },
+      {
+        "id": "forvaltning-genomforande",
+        "label": "Förvaltning och genomförande",
+        "range": [
+          36,
+          40
+        ],
+        "articleRefs": [
+          "5",
+          "11",
+          "33",
+          "34",
+          "35",
+          "36"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        32
+      ],
+      "2": [
+        4,
+        5,
+        22,
+        24,
+        25
+      ],
+      "2.1": [
+        25
+      ],
+      "2.2": [
+        22
+      ],
+      "2.3": [
+        22
+      ],
+      "2.4": [
+        22,
+        24
+      ],
+      "2.5": [
+        4
+      ],
+      "2.6": [
+        5
+      ],
+      "3": [
+        1,
+        10
+      ],
+      "4": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        9,
+        14,
+        15,
+        16,
+        21,
+        27,
+        30,
+        31
+      ],
+      "4.1.b": [
+        14
+      ],
+      "4.1.d": [
+        9,
+        17,
+        18
+      ],
+      "4.1.e": [
+        22,
+        25
+      ],
+      "4.2.a": [
+        27,
+        29
+      ],
+      "4.2.b": [
+        30,
+        31
+      ],
+      "4.2.c": [
+        30,
+        31
+      ],
+      "5": [
+        36
+      ],
+      "6": [
+        11
+      ],
+      "7": [
+        11,
+        33
+      ],
+      "8": [
+        15
+      ],
+      "9": [
+        35
+      ],
+      "10": [
+        10
+      ],
+      "11": [
+        37
+      ],
+      "12": [
+        10,
+        12
+      ],
+      "13": [
+        12,
+        20
+      ],
+      "14": [
+        11
+      ],
+      "15": [
+        12,
+        13
+      ],
+      "16": [
+        5,
+        6,
+        12,
+        13
+      ],
+      "16.1.e": [
+        5
+      ],
+      "17": [
+        11
+      ],
+      "18": [
+        15,
+        16
+      ],
+      "19": [
+        10
+      ],
+      "20": [
+        17,
+        18
+      ],
+      "21": [
+        18,
+        19
+      ],
+      "22": [
+        10
+      ],
+      "23": [
+        20
+      ],
+      "24": [
+        19
+      ],
+      "25": [
+        10
+      ],
+      "26": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "26.a": [
+        22,
+        23,
+        24
+      ],
+      "26.b": [
+        24
+      ],
+      "26.c": [
+        25
+      ],
+      "27": [
+        26
+      ],
+      "28": [
+        23,
+        28
+      ],
+      "29": [
+        26
+      ],
+      "30": [
+        26
+      ],
+      "31": [
+        12
+      ],
+      "32": [
+        10
+      ],
+      "33": [
+        38
+      ],
+      "34": [
+        38
+      ],
+      "35": [
+        39
+      ],
+      "36": [
+        39
+      ],
+      "38": [
+        12,
+        20
+      ]
+    }
+  }
+}

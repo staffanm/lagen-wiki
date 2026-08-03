@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009D0077": "c9356fe07bf73a38a5aee129edfb64124d4c16adafbab0b1c550444587768a02"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-och-forarbeten",
+        "label": "Bakgrund och förarbeten",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "mandat-och-natur",
+        "label": "Kommitténs mandat och natur",
+        "range": [
+          7,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "id": "samarbete-och-konvergens",
+        "label": "Samarbete och konvergens",
+        "range": [
+          10,
+          13
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "praktiskt-samarbete",
+        "label": "Praktiskt samarbete och informationsutbyte",
+        "range": [
+          14,
+          17
+        ],
+        "articleRefs": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "id": "finansiell-stabilitet",
+        "label": "Finansiell stabilitet och riskövervakning",
+        "range": [
+          18,
+          20
+        ],
+        "articleRefs": [
+          "5",
+          "9",
+          "11"
+        ]
+      },
+      {
+        "id": "internationella-relationer",
+        "label": "Internationella relationer",
+        "range": [
+          21,
+          21
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "organisation-och-beslut",
+        "label": "Organisation och beslutsprocesser",
+        "range": [
+          22,
+          23
+        ],
+        "articleRefs": [
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "upphavande",
+        "label": "Upphävande av tidigare beslut",
+        "range": [
+          24,
+          24
+        ],
+        "articleRefs": [
+          "16"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        7
+      ],
+      "2": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "3": [
+        8,
+        9,
+        11
+      ],
+      "4": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "4.1.a": [
+        12
+      ],
+      "4.1.b": [
+        13
+      ],
+      "4.1.c": [
+        14
+      ],
+      "4.1.d": [
+        15
+      ],
+      "4.1.e": [
+        16
+      ],
+      "4.1.f": [
+        17
+      ],
+      "4.2": [
+        11
+      ],
+      "5": [
+        18
+      ],
+      "5.1": [
+        18
+      ],
+      "5.2": [
+        18
+      ],
+      "5.4": [
+        19
+      ],
+      "6": [
+        21
+      ],
+      "6.4": [
+        21
+      ],
+      "8": [
+        14
+      ],
+      "9": [
+        18,
+        19
+      ],
+      "11": [
+        20
+      ],
+      "14": [
+        23
+      ],
+      "15": [
+        23
+      ],
+      "16": [
+        24
+      ]
+    }
+  }
+}

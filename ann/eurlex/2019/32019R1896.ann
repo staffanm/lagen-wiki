@@ -1,0 +1,492 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32019R1896": "8e64cb90bcf5dbbf6527fe0dec1d146fbb046e549c23be8145daf0da6b757a29"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "mandat-stande-styrkan",
+        "label": "Mandat och den stående styrkan",
+        "range": [
+          5,
+          9
+        ],
+        "articleRefs": [
+          "5",
+          "54"
+        ]
+      },
+      {
+        "id": "integrerad-gransforvaltning",
+        "label": "Integrerad gränsförvaltning",
+        "range": [
+          10,
+          17
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "tekniska-standarder-ram",
+        "label": "Tekniska standarder och rättslig ram",
+        "range": [
+          18,
+          23
+        ],
+        "articleRefs": [
+          "16",
+          "20"
+        ]
+      },
+      {
+        "id": "grundrattigheter-ansvar",
+        "label": "Grundläggande rättigheter och ansvar",
+        "range": [
+          24,
+          26
+        ],
+        "articleRefs": [
+          "80",
+          "111"
+        ]
+      },
+      {
+        "id": "eurosur-kommunikation",
+        "label": "Eurosur och kommunikation",
+        "range": [
+          27,
+          38
+        ],
+        "articleRefs": [
+          "14",
+          "18",
+          "21"
+        ]
+      },
+      {
+        "id": "riskanalys-sarbarhet",
+        "label": "Riskanalys och sårbarhetsbedömningar",
+        "range": [
+          39,
+          47
+        ],
+        "articleRefs": [
+          "29",
+          "31",
+          "32",
+          "34"
+        ]
+      },
+      {
+        "id": "operativt-stod-snabbinsatser",
+        "label": "Operativt stöd och snabba insatser",
+        "range": [
+          48,
+          50
+        ],
+        "articleRefs": [
+          "36",
+          "37",
+          "39",
+          "42"
+        ]
+      },
+      {
+        "id": "hotspots-skydd",
+        "label": "Hotspot-områden och internationellt skydd",
+        "range": [
+          51,
+          55
+        ],
+        "articleRefs": [
+          "40"
+        ]
+      },
+      {
+        "id": "personal-finansiering",
+        "label": "Operativ personal och finansiering",
+        "range": [
+          56,
+          65
+        ],
+        "articleRefs": [
+          "54",
+          "55",
+          "56",
+          "57",
+          "58",
+          "61"
+        ]
+      },
+      {
+        "id": "utbildning-lokal-narvaro",
+        "label": "Utbildning och lokal närvaro",
+        "range": [
+          66,
+          78
+        ],
+        "articleRefs": [
+          "60",
+          "62"
+        ]
+      },
+      {
+        "id": "atervandande",
+        "label": "Återvändande",
+        "range": [
+          79,
+          84
+        ],
+        "articleRefs": [
+          "48",
+          "50",
+          "53"
+        ]
+      },
+      {
+        "id": "samarbete-tredjeland",
+        "label": "Samarbete med tredjeländer",
+        "range": [
+          85,
+          97
+        ],
+        "articleRefs": [
+          "68",
+          "71",
+          "72",
+          "73",
+          "74",
+          "75",
+          "76",
+          "77"
+        ]
+      },
+      {
+        "id": "dataskydd-personuppgifter",
+        "label": "Dataskydd och personuppgifter",
+        "range": [
+          98,
+          102
+        ],
+        "articleRefs": [
+          "86",
+          "87",
+          "88",
+          "89",
+          "90",
+          "91"
+        ]
+      },
+      {
+        "id": "styrning-organisation",
+        "label": "Styrning och organisation",
+        "range": [
+          103,
+          120
+        ],
+        "articleRefs": [
+          "93",
+          "94",
+          "95",
+          "97",
+          "99",
+          "100",
+          "106",
+          "109",
+          "114",
+          "115",
+          "116"
+        ]
+      },
+      {
+        "id": "slutbestammelser-associering",
+        "label": "Slutbestämmelser och associerade stater",
+        "range": [
+          121,
+          133
+        ],
+        "articleRefs": [
+          "123",
+          "124"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        9
+      ],
+      "2": [
+        118
+      ],
+      "3": [
+        10,
+        11,
+        12,
+        13,
+        16,
+        17
+      ],
+      "4": [
+        13
+      ],
+      "5": [
+        3,
+        5
+      ],
+      "7": [
+        12,
+        22,
+        23
+      ],
+      "8": [
+        16
+      ],
+      "9": [
+        16,
+        17
+      ],
+      "10": [
+        3,
+        5,
+        40,
+        41,
+        42,
+        43,
+        48,
+        49,
+        50,
+        53,
+        54,
+        56,
+        57,
+        62,
+        66,
+        69,
+        70,
+        71,
+        75,
+        76,
+        77,
+        78,
+        80,
+        81,
+        83,
+        87,
+        90,
+        94
+      ],
+      "14": [
+        27,
+        28
+      ],
+      "16": [
+        18,
+        19
+      ],
+      "18": [
+        28
+      ],
+      "21": [
+        29,
+        30,
+        31
+      ],
+      "25": [
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "26": [
+        34,
+        36
+      ],
+      "29": [
+        40
+      ],
+      "31": [
+        42
+      ],
+      "32": [
+        43,
+        44,
+        45
+      ],
+      "34": [
+        46,
+        47
+      ],
+      "36": [
+        48,
+        49
+      ],
+      "37": [
+        48,
+        49
+      ],
+      "39": [
+        49
+      ],
+      "40": [
+        50,
+        51,
+        55
+      ],
+      "42": [
+        57
+      ],
+      "48": [
+        79,
+        80,
+        81,
+        83,
+        84
+      ],
+      "50": [
+        80,
+        81
+      ],
+      "53": [
+        80
+      ],
+      "54": [
+        5,
+        58,
+        60,
+        61
+      ],
+      "55": [
+        59,
+        60
+      ],
+      "56": [
+        60
+      ],
+      "57": [
+        61,
+        62
+      ],
+      "58": [
+        60
+      ],
+      "60": [
+        75
+      ],
+      "61": [
+        64,
+        65
+      ],
+      "62": [
+        77,
+        78
+      ],
+      "63": [
+        70,
+        71
+      ],
+      "64": [
+        70,
+        71
+      ],
+      "68": [
+        86
+      ],
+      "71": [
+        87,
+        89,
+        91,
+        92
+      ],
+      "72": [
+        90
+      ],
+      "73": [
+        88,
+        89
+      ],
+      "74": [
+        87,
+        90
+      ],
+      "75": [
+        90
+      ],
+      "76": [
+        88
+      ],
+      "77": [
+        94
+      ],
+      "79": [
+        95,
+        96,
+        97
+      ],
+      "80": [
+        24,
+        103
+      ],
+      "86": [
+        98,
+        99
+      ],
+      "87": [
+        100
+      ],
+      "88": [
+        101
+      ],
+      "89": [
+        100,
+        102
+      ],
+      "90": [
+        100
+      ],
+      "91": [
+        101
+      ],
+      "100": [
+        106
+      ],
+      "109": [
+        104
+      ],
+      "111": [
+        104
+      ],
+      "114": [
+        115
+      ],
+      "115": [
+        109
+      ],
+      "116": [
+        109
+      ],
+      "117": [
+        113,
+        114
+      ]
+    }
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32016R1011": "74555f62c59855c32f2908b6da17aab97e07ab80d82ff978afbe505c8d8b5849"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-definitioner",
+        "label": "Tillämpningsområde och definitioner",
+        "range": [
+          8,
+          20
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "styrning-kontroll",
+        "label": "Styrning och kontroll",
+        "range": [
+          21,
+          24
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "10"
+        ]
+      },
+      {
+        "id": "data-metod",
+        "label": "Dataunderlag och metod",
+        "range": [
+          25,
+          29
+        ],
+        "articleRefs": [
+          "11",
+          "12",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "rapportorer-uppforandekod",
+        "label": "Rapportörer och uppförandekod",
+        "range": [
+          30,
+          32
+        ],
+        "articleRefs": [
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "sektorspecifika-referensvarden",
+        "label": "Sektorsspecifika referensvärden",
+        "range": [
+          33,
+          34
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "kritiska-referensvarden",
+        "label": "Kritiska referensvärden",
+        "range": [
+          35,
+          39
+        ],
+        "articleRefs": [
+          "20",
+          "21",
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "proportionalitet-signifikans",
+        "label": "Proportionalitet och signifikans",
+        "range": [
+          40,
+          42
+        ],
+        "articleRefs": [
+          "24",
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "transparens-konsumentskydd",
+        "label": "Transparens och konsumentskydd",
+        "range": [
+          43,
+          49
+        ],
+        "articleRefs": [
+          "27",
+          "28",
+          "29"
+        ]
+      },
+      {
+        "id": "tredjeland-referensvarden",
+        "label": "Referensvärden från tredjeländer",
+        "range": [
+          44,
+          46
+        ],
+        "articleRefs": [
+          "30",
+          "32",
+          "33"
+        ]
+      },
+      {
+        "id": "auktorisation-registrering",
+        "label": "Auktorisation och registrering",
+        "range": [
+          47,
+          48
+        ],
+        "articleRefs": [
+          "34",
+          "35",
+          "36"
+        ]
+      },
+      {
+        "id": "tillsyn-befogenheter",
+        "label": "Tillsyn och befogenheter",
+        "range": [
+          50,
+          55
+        ],
+        "articleRefs": [
+          "41"
+        ]
+      },
+      {
+        "id": "sanktioner-atgarder",
+        "label": "Sanktioner och administrativa åtgärder",
+        "range": [
+          56,
+          61
+        ],
+        "articleRefs": [
+          "42",
+          "43",
+          "45"
+        ]
+      },
+      {
+        "id": "samarbete-kollegier",
+        "label": "Samarbete och kollegier",
+        "range": [
+          60,
+          62
+        ],
+        "articleRefs": [
+          "46",
+          "47"
+        ]
+      },
+      {
+        "id": "tekniska-akter-genomförande",
+        "label": "Tekniska akter och genomförande",
+        "range": [
+          63,
+          68
+        ],
+        "articleRefs": [
+          "49",
+          "50"
+        ]
+      },
+      {
+        "id": "slutbestammelser-andringar",
+        "label": "Slutbestämmelser och ändringar",
+        "range": [
+          69,
+          72
+        ],
+        "articleRefs": [
+          "51",
+          "52",
+          "54",
+          "55",
+          "56",
+          "57",
+          "58",
+          "59"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        6
+      ],
+      "2": [
+        8,
+        9,
+        10,
+        11,
+        14,
+        15,
+        18,
+        19,
+        20
+      ],
+      "2.2": [
+        14,
+        15,
+        18,
+        19,
+        20
+      ],
+      "3": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "4": [
+        21
+      ],
+      "4.6": [
+        21
+      ],
+      "5": [
+        21
+      ],
+      "6": [
+        21
+      ],
+      "7": [
+        22,
+        23
+      ],
+      "8": [
+        22,
+        23
+      ],
+      "9": [
+        23
+      ],
+      "10": [
+        24
+      ],
+      "11": [
+        25,
+        26
+      ],
+      "11.1": [
+        25,
+        26
+      ],
+      "12": [
+        27
+      ],
+      "13": [
+        27,
+        28
+      ],
+      "14": [
+        29
+      ],
+      "15": [
+        30
+      ],
+      "16": [
+        31
+      ],
+      "18": [
+        33
+      ],
+      "19": [
+        34
+      ],
+      "20": [
+        35,
+        36
+      ],
+      "21": [
+        37
+      ],
+      "22": [
+        38
+      ],
+      "23": [
+        39
+      ],
+      "24": [
+        40,
+        41
+      ],
+      "25": [
+        41
+      ],
+      "26": [
+        42
+      ],
+      "27": [
+        43
+      ],
+      "28": [
+        63
+      ],
+      "29": [
+        49
+      ],
+      "30": [
+        44
+      ],
+      "32": [
+        45
+      ],
+      "33": [
+        46
+      ],
+      "34": [
+        47,
+        48
+      ],
+      "36": [
+        48
+      ],
+      "41": [
+        50,
+        51,
+        52
+      ],
+      "42": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "45": [
+        61
+      ],
+      "46": [
+        62
+      ],
+      "49": [
+        65
+      ],
+      "50": [
+        66,
+        67,
+        68
+      ],
+      "51": [
+        63
+      ],
+      "59": [
+        70
+      ]
+    }
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32020R1503": "5c3e5a70e08801e967510f1461ed909a7bd50f5c6702bb6fbc663810bf514d05"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-instrument",
+        "label": "Tillämpningsområde och tillåtna instrument",
+        "range": [
+          8,
+          15
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "troskelvarden-undantag",
+        "label": "Tröskelvärden och tillfälliga undantag",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": [
+          "1.2.c",
+          "49"
+        ]
+      },
+      {
+        "id": "verksamhetsutovning-affarsmodeller",
+        "label": "Verksamhetsutövning och affärsmodeller",
+        "range": [
+          18,
+          22
+        ],
+        "articleRefs": [
+          "3",
+          "6"
+        ]
+      },
+      {
+        "id": "organisation-styrning-risk",
+        "label": "Organisation, styrning och riskhantering",
+        "range": [
+          23,
+          27
+        ],
+        "articleRefs": [
+          "4",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "tillgangar-betaltjanster",
+        "label": "Förvaring av tillgångar och betaltjänster",
+        "range": [
+          28,
+          29
+        ],
+        "articleRefs": [
+          "10"
+        ]
+      },
+      {
+        "id": "auktorisation-tillsyn",
+        "label": "Auktorisation och tillsyn",
+        "range": [
+          30,
+          38
+        ],
+        "articleRefs": [
+          "12",
+          "13",
+          "14",
+          "15",
+          "17"
+        ]
+      },
+      {
+        "id": "information-kunder",
+        "label": "Information till kunder",
+        "range": [
+          39,
+          41
+        ],
+        "articleRefs": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "investerarskydd-kategorisering",
+        "label": "Investerarskydd och kategorisering",
+        "range": [
+          42,
+          47
+        ],
+        "articleRefs": [
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "investeringsfaktablad",
+        "label": "Investeringsfaktablad",
+        "range": [
+          48,
+          54
+        ],
+        "articleRefs": [
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "sekundarmarknad-dokumentation",
+        "label": "Sekundärmarknad och dokumentation",
+        "range": [
+          55,
+          56
+        ],
+        "articleRefs": [
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "marknadsforing",
+        "label": "Marknadsföringskommunikation",
+        "range": [
+          57,
+          60
+        ],
+        "articleRefs": [
+          "27",
+          "28"
+        ]
+      },
+      {
+        "id": "myndigheter-befogenheter",
+        "label": "Behöriga myndigheters befogenheter",
+        "range": [
+          61,
+          66
+        ],
+        "articleRefs": [
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "samarbete-tekniska-standarder",
+        "label": "Samarbete och tekniska standarder",
+        "range": [
+          67,
+          72
+        ],
+        "articleRefs": [
+          "31",
+          "32",
+          "44"
+        ]
+      },
+      {
+        "id": "ovrigt-overgangar",
+        "label": "Övriga bestämmelser och övergångsarrangemang",
+        "range": [
+          73,
+          79
+        ],
+        "articleRefs": [
+          "48",
+          "49",
+          "51"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        6,
+        7,
+        8
+      ],
+      "1.2.c": [
+        16,
+        17,
+        49
+      ],
+      "2": [
+        10,
+        11,
+        13,
+        14,
+        15
+      ],
+      "3": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "3.3": [
+        19
+      ],
+      "3.4": [
+        19
+      ],
+      "3.5": [
+        20
+      ],
+      "3.6": [
+        22
+      ],
+      "4": [
+        23
+      ],
+      "4.4": [
+        41
+      ],
+      "5": [
+        18
+      ],
+      "6": [
+        20
+      ],
+      "7": [
+        23
+      ],
+      "8": [
+        26
+      ],
+      "9": [
+        27
+      ],
+      "10": [
+        28,
+        29
+      ],
+      "11": [
+        24
+      ],
+      "12": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "13": [
+        38
+      ],
+      "14": [
+        36
+      ],
+      "15": [
+        30
+      ],
+      "16": [
+        70,
+        72
+      ],
+      "17": [
+        37
+      ],
+      "18": [
+        6,
+        33
+      ],
+      "19": [
+        39,
+        40,
+        41
+      ],
+      "20": [
+        40
+      ],
+      "21": [
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "22": [
+        47,
+        48
+      ],
+      "23": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "24": [
+        50,
+        51
+      ],
+      "25": [
+        55
+      ],
+      "26": [
+        56
+      ],
+      "27": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "28": [
+        58,
+        59,
+        60
+      ],
+      "29": [
+        61
+      ],
+      "30": [
+        62,
+        63
+      ],
+      "31": [
+        61
+      ],
+      "32": [
+        61
+      ],
+      "39": [
+        64
+      ],
+      "40": [
+        65
+      ],
+      "44": [
+        69,
+        71,
+        72
+      ],
+      "48": [
+        76,
+        77
+      ],
+      "49": [
+        17
+      ]
+    }
+  }
+}

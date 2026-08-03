@@ -1,0 +1,394 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009L0028": "e2a7eae9e03d7f9963c96ae8b5028fd5b35ce6b07df5e4d9112113ca1d3edb8a"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "definitioner-targets",
+        "label": "Definitioner och övergripande mål",
+        "range": [
+          7,
+          12
+        ],
+        "articleRefs": [
+          "2",
+          "3",
+          "5"
+        ]
+      },
+      {
+        "id": "nationella-bindande-mal",
+        "label": "Nationella bindande mål",
+        "range": [
+          13,
+          16
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "effektivitet-handlingsplaner",
+        "label": "Energieffektivitet och nationella handlingsplaner",
+        "range": [
+          17,
+          21
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "stodsystem-innovation",
+        "label": "Stödsystem och innovation",
+        "range": [
+          22,
+          25
+        ],
+        "articleRefs": [
+          "3",
+          "11"
+        ]
+      },
+      {
+        "id": "tekniska-regler-marknad",
+        "label": "Tekniska regler och marknadsförutsättningar",
+        "range": [
+          26,
+          32
+        ],
+        "articleRefs": [
+          "5",
+          "16"
+        ]
+      },
+      {
+        "id": "samarbete-flexibilitet",
+        "label": "Samarbete och flexibilitetsmekanismer",
+        "range": [
+          33,
+          39
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "administrativa-forfaranden",
+        "label": "Administrativa förfaranden och tillstånd",
+        "range": [
+          40,
+          45
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "byggnader-varme",
+        "label": "Byggnader, värme och utbildning",
+        "range": [
+          46,
+          51
+        ],
+        "articleRefs": [
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "ursprungsgarantier",
+        "label": "Ursprungsgarantier",
+        "range": [
+          52,
+          56
+        ],
+        "articleRefs": [
+          "15"
+        ]
+      },
+      {
+        "id": "nat-integration",
+        "label": "Nätintegration och åtkomst",
+        "range": [
+          57,
+          64
+        ],
+        "articleRefs": [
+          "16"
+        ]
+      },
+      {
+        "id": "hallbarhetskriterier-biodrivmedel",
+        "label": "Hållbarhetskriterier för biodrivmedel",
+        "range": [
+          65,
+          75
+        ],
+        "articleRefs": [
+          "17"
+        ]
+      },
+      {
+        "id": "kontroll-vaxthusgas",
+        "label": "Kontroll och beräkning av växthusgasutsläpp",
+        "range": [
+          76,
+          85
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "marknadsutveckling-rapportering",
+        "label": "Marknadsutveckling och rapportering",
+        "range": [
+          86,
+          89
+        ],
+        "articleRefs": [
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "genomforande-slutbestammelser",
+        "label": "Genomförande och slutbestämmelser",
+        "range": [
+          90,
+          97
+        ],
+        "articleRefs": [
+          "23",
+          "25"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        5,
+        8,
+        13
+      ],
+      "2": [
+        7,
+        11
+      ],
+      "3": [
+        8,
+        9,
+        13,
+        14,
+        15,
+        19,
+        20,
+        21,
+        25
+      ],
+      "3.1": [
+        8,
+        9,
+        13,
+        14,
+        15
+      ],
+      "3.2": [
+        19,
+        20,
+        21
+      ],
+      "3.3": [
+        25
+      ],
+      "3.4": [
+        2,
+        9,
+        16,
+        18
+      ],
+      "4": [
+        19,
+        23,
+        88
+      ],
+      "5": [
+        11
+      ],
+      "5.3": [
+        30
+      ],
+      "5.4": [
+        31,
+        32
+      ],
+      "5.6": [
+        33
+      ],
+      "6": [
+        35,
+        36
+      ],
+      "7": [
+        34,
+        35,
+        36
+      ],
+      "8": [
+        35,
+        36
+      ],
+      "9": [
+        37,
+        38,
+        39
+      ],
+      "10": [
+        37,
+        38
+      ],
+      "11": [
+        25,
+        35
+      ],
+      "13": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "13.1": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "13.2": [
+        45
+      ],
+      "13.4": [
+        47,
+        48
+      ],
+      "13.6": [
+        46
+      ],
+      "14": [
+        49,
+        50,
+        51
+      ],
+      "15": [
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "16": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "16.1": [
+        57,
+        58,
+        59
+      ],
+      "16.2": [
+        60,
+        61
+      ],
+      "16.3": [
+        62,
+        63,
+        64
+      ],
+      "16.11": [
+        46
+      ],
+      "17": [
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "18": [
+        76,
+        77,
+        78,
+        79
+      ],
+      "19": [
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "21": [
+        28,
+        29,
+        86,
+        87
+      ],
+      "22": [
+        88
+      ],
+      "23": [
+        92
+      ],
+      "24": [
+        35
+      ],
+      "25": [
+        92
+      ]
+    }
+  }
+}

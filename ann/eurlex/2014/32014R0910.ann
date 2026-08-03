@@ -1,0 +1,358 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32014R0910": "cf693564b6ec617c26f7f665ef09461ee12dd4d454a99795eab6bcd395808e3e"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          10
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "eid-erkannande",
+        "label": "Elektronisk identifiering och erkännande",
+        "range": [
+          11,
+          15
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7",
+          "9"
+        ]
+      },
+      {
+        "id": "tillitsniva-interoperabilitet",
+        "label": "Tillitsnivåer och interoperabilitet",
+        "range": [
+          16,
+          20
+        ],
+        "articleRefs": [
+          "8",
+          "10",
+          "12"
+        ]
+      },
+      {
+        "id": "allmanna-bestammelser-tjanster",
+        "label": "Allmänna bestämmelser för betrodda tjänster",
+        "range": [
+          21,
+          25
+        ],
+        "articleRefs": [
+          "2",
+          "4",
+          "14"
+        ]
+      },
+      {
+        "id": "kvalificerade-tjanster",
+        "label": "Kvalificerade tjänster och tillgänglighet",
+        "range": [
+          26,
+          29
+        ],
+        "articleRefs": [
+          "15",
+          "24"
+        ]
+      },
+      {
+        "id": "tillsyn-kontroll",
+        "label": "Tillsyn och kontroll",
+        "range": [
+          30,
+          36
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "20"
+        ]
+      },
+      {
+        "id": "ansvar-sakerhet",
+        "label": "Ansvar, säkerhet och kontinuitet",
+        "range": [
+          37,
+          42
+        ],
+        "articleRefs": [
+          "13",
+          "18",
+          "19",
+          "24.2.h",
+          "24.2.i"
+        ]
+      },
+      {
+        "id": "overensstammelse-marken",
+        "label": "Överensstämmelse och förtroendemärken",
+        "range": [
+          43,
+          47
+        ],
+        "articleRefs": [
+          "21",
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "elektroniska-underskrifter",
+        "label": "Elektroniska underskrifter",
+        "range": [
+          48,
+          57
+        ],
+        "articleRefs": [
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33"
+        ]
+      },
+      {
+        "id": "elektroniska-stamplar-tidsstämpling",
+        "label": "Elektroniska stämplar och tidsstämpling",
+        "range": [
+          58,
+          62
+        ],
+        "articleRefs": [
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42"
+        ]
+      },
+      {
+        "id": "dokument-ovriga-tjanster",
+        "label": "Elektroniska dokument och övriga tjänster",
+        "range": [
+          63,
+          67
+        ],
+        "articleRefs": [
+          "43",
+          "44",
+          "45",
+          "46"
+        ]
+      },
+      {
+        "id": "slutbestammelser-genomforande",
+        "label": "Slutbestämmelser och genomförande",
+        "range": [
+          68,
+          77
+        ],
+        "articleRefs": [
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3
+      ],
+      "2": [
+        21
+      ],
+      "2.2": [
+        21
+      ],
+      "4": [
+        24
+      ],
+      "5": [
+        11
+      ],
+      "6": [
+        9,
+        12,
+        14,
+        15
+      ],
+      "6.1": [
+        14,
+        15
+      ],
+      "6.2": [
+        15
+      ],
+      "7": [
+        14
+      ],
+      "8": [
+        16
+      ],
+      "9": [
+        13,
+        14
+      ],
+      "10": [
+        19
+      ],
+      "11": [
+        18
+      ],
+      "12": [
+        19,
+        20
+      ],
+      "13": [
+        37
+      ],
+      "14": [
+        67
+      ],
+      "15": [
+        29
+      ],
+      "16": [
+        35,
+        36
+      ],
+      "17": [
+        30,
+        31,
+        34,
+        40
+      ],
+      "18": [
+        42
+      ],
+      "19": [
+        32,
+        38,
+        39
+      ],
+      "20": [
+        35,
+        36,
+        43
+      ],
+      "21": [
+        45
+      ],
+      "22": [
+        46
+      ],
+      "23": [
+        47
+      ],
+      "24": [
+        28,
+        35
+      ],
+      "24.2.h": [
+        41
+      ],
+      "24.2.i": [
+        41
+      ],
+      "25": [
+        49
+      ],
+      "26": [
+        48
+      ],
+      "27": [
+        50
+      ],
+      "28": [
+        54
+      ],
+      "29": [
+        55,
+        56
+      ],
+      "30": [
+        55
+      ],
+      "31": [
+        56
+      ],
+      "32": [
+        57
+      ],
+      "33": [
+        57
+      ],
+      "34": [
+        61
+      ],
+      "35": [
+        59
+      ],
+      "36": [
+        58
+      ],
+      "37": [
+        50
+      ],
+      "38": [
+        60
+      ],
+      "39": [
+        55,
+        56
+      ],
+      "40": [
+        61
+      ],
+      "41": [
+        62
+      ],
+      "42": [
+        62
+      ],
+      "43": [
+        66
+      ],
+      "44": [
+        66
+      ],
+      "45": [
+        67
+      ],
+      "46": [
+        63
+      ]
+    }
+  }
+}

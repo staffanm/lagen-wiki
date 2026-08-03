@@ -1,0 +1,427 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32020L0262": "b13daccaa18c78530dfc74708951d3fc59a78d982e3a9da0243dda8b3617293b"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "forstorelse-forlust",
+        "label": "Förstörelse och förlust",
+        "range": [
+          8,
+          11
+        ],
+        "articleRefs": [
+          "6",
+          "45",
+          "51"
+        ]
+      },
+      {
+        "id": "uppbord-aterbetalning",
+        "label": "Uppbörd, återbetalning och oegentligheter",
+        "range": [
+          12,
+          14
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "undantag-skatteplikt",
+        "label": "Undantag från skatteplikt",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "11",
+          "12",
+          "13"
+        ]
+      },
+      {
+        "id": "upplag-aktorer",
+        "label": "Skatteupplag och ekonomiska aktörer",
+        "range": [
+          18,
+          19
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "18"
+        ]
+      },
+      {
+        "id": "flyttning-uppskov-grund",
+        "label": "Flyttning under uppskov - Grundregler",
+        "range": [
+          20,
+          24
+        ],
+        "articleRefs": [
+          "16",
+          "19",
+          "21",
+          "23",
+          "25"
+        ]
+      },
+      {
+        "id": "garantier-system",
+        "label": "Garantier och datoriserat system",
+        "range": [
+          25,
+          30
+        ],
+        "articleRefs": [
+          "17",
+          "20",
+          "24",
+          "29"
+        ]
+      },
+      {
+        "id": "flyttning-detaljer-export",
+        "label": "Förfaranden vid flyttning och export",
+        "range": [
+          31,
+          37
+        ],
+        "articleRefs": [
+          "19",
+          "21",
+          "26",
+          "27",
+          "28"
+        ]
+      },
+      {
+        "id": "forenklingar-specifikt",
+        "label": "Förenklingar och specifika regler",
+        "range": [
+          38,
+          39
+        ],
+        "articleRefs": [
+          "30",
+          "31",
+          "42"
+        ]
+      },
+      {
+        "id": "enskilda-personer",
+        "label": "Enskilda personers förvärv",
+        "range": [
+          40,
+          41
+        ],
+        "articleRefs": [
+          "32"
+        ]
+      },
+      {
+        "id": "kommersiell-leverans",
+        "label": "Leverans i kommersiellt syfte",
+        "range": [
+          42,
+          50
+        ],
+        "articleRefs": [
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "43"
+        ]
+      },
+      {
+        "id": "distansforsaljning",
+        "label": "Distansförsäljning",
+        "range": [
+          51,
+          51
+        ],
+        "articleRefs": [
+          "44"
+        ]
+      },
+      {
+        "id": "oegentligheter-frislappande",
+        "label": "Oegentligheter efter frisläppande",
+        "range": [
+          52,
+          52
+        ],
+        "articleRefs": [
+          "46"
+        ]
+      },
+      {
+        "id": "markning-sarskilja",
+        "label": "Märkning och särskilda bestämmelser",
+        "range": [
+          53,
+          56
+        ],
+        "articleRefs": [
+          "47",
+          "48",
+          "49",
+          "50"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och övergångar",
+        "range": [
+          57,
+          60
+        ],
+        "articleRefs": [
+          "54",
+          "55",
+          "56",
+          "57"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "2": [
+        6
+      ],
+      "3": [
+        3
+      ],
+      "4": [
+        6
+      ],
+      "6": [
+        7,
+        8,
+        9
+      ],
+      "6.5": [
+        8
+      ],
+      "6.7": [
+        9,
+        11
+      ],
+      "6.10": [
+        11
+      ],
+      "7": [
+        7
+      ],
+      "9": [
+        13
+      ],
+      "10": [
+        12,
+        14
+      ],
+      "11": [
+        15
+      ],
+      "12": [
+        15,
+        16
+      ],
+      "13": [
+        17
+      ],
+      "14": [
+        18
+      ],
+      "15": [
+        19
+      ],
+      "16": [
+        20,
+        21,
+        24
+      ],
+      "16.1.a.v": [
+        23
+      ],
+      "17": [
+        25
+      ],
+      "17.2": [
+        26
+      ],
+      "18": [
+        19
+      ],
+      "19": [
+        22,
+        31
+      ],
+      "20": [
+        27,
+        28,
+        29
+      ],
+      "21": [
+        32,
+        33,
+        34
+      ],
+      "23": [
+        20
+      ],
+      "24": [
+        30
+      ],
+      "25": [
+        23
+      ],
+      "26": [
+        36
+      ],
+      "27": [
+        36
+      ],
+      "28": [
+        35,
+        37
+      ],
+      "29": [
+        28,
+        29
+      ],
+      "30": [
+        38
+      ],
+      "31": [
+        38
+      ],
+      "32": [
+        40,
+        41
+      ],
+      "33": [
+        42,
+        43,
+        44
+      ],
+      "34": [
+        44
+      ],
+      "35": [
+        45
+      ],
+      "35.2.a": [
+        45
+      ],
+      "35.6": [
+        46
+      ],
+      "35.7": [
+        46
+      ],
+      "36": [
+        43,
+        49,
+        50
+      ],
+      "37": [
+        43
+      ],
+      "38": [
+        47
+      ],
+      "39": [
+        47
+      ],
+      "40": [
+        43
+      ],
+      "41": [
+        48
+      ],
+      "42": [
+        39
+      ],
+      "43": [
+        49,
+        50
+      ],
+      "44": [
+        51
+      ],
+      "45": [
+        8,
+        9
+      ],
+      "45.2": [
+        9
+      ],
+      "46": [
+        52
+      ],
+      "47": [
+        53
+      ],
+      "48": [
+        54
+      ],
+      "49": [
+        55
+      ],
+      "50": [
+        56
+      ],
+      "51": [
+        11,
+        28,
+        49
+      ],
+      "54": [
+        57
+      ],
+      "55": [
+        59
+      ],
+      "56": [
+        60
+      ]
+    }
+  }
+}

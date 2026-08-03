@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32022R2554": "91514a9fc14db433aa456441d54692081a4c8c127183633399281747f1d85504"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och behov",
+        "range": [
+          1,
+          11
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "rattslig-ram-harmonisering",
+        "label": "Harmonisering och rättslig ram",
+        "range": [
+          12,
+          20
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "grundkrav-digital-motstandskraft",
+        "label": "Grundläggande krav för digital motståndskraft",
+        "range": [
+          21,
+          26
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "17",
+          "18",
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "tredjepartsrisk-introduktion",
+        "label": "IKT-tredjepartsrisk och beroenden",
+        "range": [
+          27,
+          31
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "informationsutbyte",
+        "label": "Informationsutbyte och underrättelser",
+        "range": [
+          32,
+          34
+        ],
+        "articleRefs": [
+          "45"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-proportionalitet",
+        "label": "Tillämpningsområde och proportionalitet",
+        "range": [
+          35,
+          44
+        ],
+        "articleRefs": [
+          "2",
+          "3",
+          "4",
+          "16"
+        ]
+      },
+      {
+        "id": "styrning-ansvar",
+        "label": "Styrning och ledningsorganets ansvar",
+        "range": [
+          45,
+          47
+        ],
+        "articleRefs": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "riskhantering-kontinuitet",
+        "label": "IKT-riskhantering och kontinuitet",
+        "range": [
+          48,
+          50
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "incidentrapportering",
+        "label": "Hantering och rapportering av incidenter",
+        "range": [
+          51,
+          55
+        ],
+        "articleRefs": [
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "23"
+        ]
+      },
+      {
+        "id": "testning-digital-motstandskraft",
+        "label": "Testning av digital operativ motståndskraft",
+        "range": [
+          56,
+          61
+        ],
+        "articleRefs": [
+          "24",
+          "25",
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "hantering-tredjepartsrisker",
+        "label": "Hantering av IKT-tredjepartsrisker",
+        "range": [
+          62,
+          75
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "tillsynsram-kritisk-tredjepart",
+        "label": "Tillsynsram för kritiska tredjepartsleverantörer",
+        "range": [
+          76,
+          85
+        ],
+        "articleRefs": [
+          "31",
+          "33",
+          "36"
+        ]
+      },
+      {
+        "id": "tillsynens-utovande",
+        "label": "Tillsynens utförande och samordning",
+        "range": [
+          86,
+          96
+        ],
+        "articleRefs": [
+          "31",
+          "32",
+          "34",
+          "35",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41"
+        ]
+      },
+      {
+        "id": "myndigheter-sanktioner",
+        "label": "Behöriga myndigheter och sanktioner",
+        "range": [
+          97,
+          101
+        ],
+        "articleRefs": [
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "54"
+        ]
+      },
+      {
+        "id": "delegerade-akter-standarder",
+        "label": "Delegerade akter och tekniska standarder",
+        "range": [
+          102,
+          103
+        ],
+        "articleRefs": [
+          "57"
+        ]
+      },
+      {
+        "id": "slutbestammelser-oversyn",
+        "label": "Slutbestämmelser och översyn",
+        "range": [
+          104,
+          106
+        ],
+        "articleRefs": [
+          "58",
+          "64"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        12,
+        14,
+        21
+      ],
+      "2": [
+        37,
+        39,
+        40,
+        41,
+        42
+      ],
+      "3": [
+        35
+      ],
+      "4": [
+        36,
+        42
+      ],
+      "5": [
+        45,
+        46
+      ],
+      "5.3": [
+        38
+      ],
+      "6": [
+        13,
+        47,
+        48
+      ],
+      "6.4": [
+        43
+      ],
+      "6.8": [
+        47
+      ],
+      "7": [
+        48
+      ],
+      "11": [
+        49,
+        50
+      ],
+      "12": [
+        50
+      ],
+      "13": [
+        21
+      ],
+      "14": [
+        21
+      ],
+      "16": [
+        42,
+        43
+      ],
+      "17": [
+        22,
+        24
+      ],
+      "18": [
+        22
+      ],
+      "19": [
+        23,
+        24,
+        51,
+        52,
+        53
+      ],
+      "20": [
+        24
+      ],
+      "23": [
+        54
+      ],
+      "24": [
+        25,
+        26,
+        56
+      ],
+      "25": [
+        56
+      ],
+      "26": [
+        26,
+        44,
+        56,
+        57,
+        59,
+        60,
+        61
+      ],
+      "27": [
+        61
+      ],
+      "28": [
+        29,
+        62,
+        64
+      ],
+      "28.2": [
+        65
+      ],
+      "28.3": [
+        65
+      ],
+      "28.4": [
+        66
+      ],
+      "29": [
+        30,
+        31,
+        67
+      ],
+      "30": [
+        68,
+        69,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "31": [
+        76,
+        77,
+        78,
+        79
+      ],
+      "33": [
+        80,
+        88
+      ],
+      "35": [
+        89,
+        90
+      ],
+      "35.6": [
+        80,
+        81
+      ],
+      "36": [
+        81,
+        82,
+        83
+      ],
+      "45": [
+        32,
+        33,
+        34
+      ],
+      "46": [
+        97
+      ],
+      "50": [
+        97
+      ],
+      "57": [
+        98,
+        99,
+        100
+      ]
+    }
+  }
+}

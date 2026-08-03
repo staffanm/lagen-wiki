@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009R1099": "62a09dadf1a6a6f9424ef217d8b76b773201cbbda968561383c465807525392c"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "id": "vetenskaplig-grund",
+        "label": "Vetenskaplig grund och internationella standarder",
+        "range": [
+          6,
+          9
+        ],
+        "articleRefs": [
+          "4",
+          "20"
+        ]
+      },
+      {
+        "id": "tillampningsomrade",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          10,
+          17
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "religion-kandlighet",
+        "label": "Religiös slakt och djurens kännande förmåga",
+        "range": [
+          18,
+          21
+        ],
+        "articleRefs": [
+          "2",
+          "4.4"
+        ]
+      },
+      {
+        "id": "bedovningsmetoder",
+        "label": "Bedövningsmetoder och effektivitet",
+        "range": [
+          22,
+          26
+        ],
+        "articleRefs": [
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "rutiner-kompetens-utrustning",
+        "label": "Standardrutiner, kompetens och utrustning",
+        "range": [
+          27,
+          33
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "privat-konsumtion",
+        "label": "Privat konsumtion och små kvantiteter",
+        "range": [
+          34,
+          35
+        ],
+        "articleRefs": [
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "import-god-praxis",
+        "label": "Import och vägledningar för god praxis",
+        "range": [
+          36,
+          38
+        ],
+        "articleRefs": [
+          "12",
+          "13"
+        ]
+      },
+      {
+        "id": "slakteri-utformning",
+        "label": "Slakteriers utformning och konstruktion",
+        "range": [
+          39,
+          42
+        ],
+        "articleRefs": [
+          "14"
+        ]
+      },
+      {
+        "id": "hantering-fixering",
+        "label": "Hantering och fixering av djur",
+        "range": [
+          43,
+          45
+        ],
+        "articleRefs": [
+          "15"
+        ]
+      },
+      {
+        "id": "djurskyddsansvarig",
+        "label": "Djurskyddsansvarig",
+        "range": [
+          46,
+          47
+        ],
+        "articleRefs": [
+          "17"
+        ]
+      },
+      {
+        "id": "besattnings-nodavlivning",
+        "label": "Besättningsavlivning och nödavlivning",
+        "range": [
+          48,
+          50
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "stod-certifiering",
+        "label": "Vetenskapligt stöd och kompetensbevis",
+        "range": [
+          51,
+          56
+        ],
+        "articleRefs": [
+          "20",
+          "21"
+        ]
+      },
+      {
+        "id": "nationella-bestammelser",
+        "label": "Nationella bestämmelser och rapportering",
+        "range": [
+          57,
+          58
+        ],
+        "articleRefs": [
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Sanktioner och övergångsbestämmelser",
+        "range": [
+          59,
+          62
+        ],
+        "articleRefs": [
+          "23",
+          "29"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        3,
+        10,
+        14,
+        15,
+        16,
+        17
+      ],
+      "2": [
+        19
+      ],
+      "3": [
+        2
+      ],
+      "4": [
+        20,
+        22,
+        24
+      ],
+      "4.4": [
+        18,
+        43
+      ],
+      "5": [
+        20,
+        21,
+        25,
+        26
+      ],
+      "6": [
+        27
+      ],
+      "7": [
+        28,
+        29
+      ],
+      "8": [
+        30
+      ],
+      "9": [
+        31,
+        32,
+        33
+      ],
+      "10": [
+        17,
+        34,
+        35
+      ],
+      "11": [
+        34
+      ],
+      "12": [
+        36,
+        37
+      ],
+      "13": [
+        23,
+        38
+      ],
+      "14": [
+        8,
+        39,
+        40,
+        41,
+        42
+      ],
+      "15": [
+        43,
+        44,
+        45
+      ],
+      "16": [
+        25,
+        26,
+        27
+      ],
+      "17": [
+        46,
+        47
+      ],
+      "18": [
+        48,
+        49,
+        50
+      ],
+      "19": [
+        12,
+        13
+      ],
+      "20": [
+        51,
+        52,
+        53,
+        55
+      ],
+      "21": [
+        28,
+        29,
+        53,
+        56
+      ],
+      "22": [
+        54
+      ],
+      "23": [
+        60
+      ],
+      "26": [
+        57
+      ],
+      "27": [
+        58
+      ],
+      "29": [
+        59
+      ]
+    }
+  }
+}

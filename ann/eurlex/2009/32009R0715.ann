@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009R0715": "f8a21e39ca3e44319fa49956c9d457add53901db5d7e82bdcc3facdf8348aff8"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade",
+        "label": "Tillämpningsområde och relation till direktiv",
+        "range": [
+          5,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tariffer-kostnader",
+        "label": "Tariffer och kostnadsprinciper",
+        "range": [
+          7,
+          9
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "tredjepartstilltraede",
+        "label": "Tredjepartstillträde och marknadshinder",
+        "range": [
+          10,
+          14
+        ],
+        "articleRefs": [
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "natforeskrifter",
+        "label": "Nätföreskrifter och samordning",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "entso-g-planering",
+        "label": "Entso för gas och nätutvecklingsplanering",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "8"
+        ]
+      },
+      {
+        "id": "transport-system",
+        "label": "Inmatnings- och uttagssystem samt transportavtal",
+        "range": [
+          19,
+          20
+        ],
+        "articleRefs": [
+          "14",
+          "16"
+        ]
+      },
+      {
+        "id": "overbelastning",
+        "label": "Hantering av överbelastning",
+        "range": [
+          21,
+          22
+        ],
+        "articleRefs": [
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "transparens-overvakning",
+        "label": "Transparens, marknadsövervakning och sekretess",
+        "range": [
+          23,
+          26
+        ],
+        "articleRefs": [
+          "18",
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "lagring-lng",
+        "label": "Lagring och LNG-anläggningar",
+        "range": [
+          27,
+          27
+        ],
+        "articleRefs": [
+          "15",
+          "17",
+          "19"
+        ]
+      },
+      {
+        "id": "balansering",
+        "label": "Balansering och obalansavgifter",
+        "range": [
+          28,
+          28
+        ],
+        "articleRefs": [
+          "21"
+        ]
+      },
+      {
+        "id": "kapacitetshandel",
+        "label": "Handel med kapacitetsrättigheter",
+        "range": [
+          29,
+          29
+        ],
+        "articleRefs": [
+          "22"
+        ]
+      },
+      {
+        "id": "tillsyn-riktlinjer",
+        "label": "Tillsyn, riktlinjer och information",
+        "range": [
+          30,
+          33
+        ],
+        "articleRefs": [
+          "23",
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "genomforande-konkurrens",
+        "label": "Genomförande, sanktioner och konkurrensregler",
+        "range": [
+          34,
+          36
+        ],
+        "articleRefs": [
+          "27",
+          "28"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Subsidiaritet och slutbestämmelser",
+        "range": [
+          37,
+          38
+        ],
+        "articleRefs": [
+          "30",
+          "31",
+          "32"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "3": [
+        30
+      ],
+      "4": [
+        15,
+        16
+      ],
+      "5": [
+        16,
+        17
+      ],
+      "6": [
+        15
+      ],
+      "8": [
+        15,
+        16
+      ],
+      "8.3.b": [
+        18
+      ],
+      "8.6": [
+        4,
+        15
+      ],
+      "13": [
+        7,
+        8,
+        9
+      ],
+      "14": [
+        10,
+        11,
+        19,
+        20
+      ],
+      "15": [
+        10,
+        27
+      ],
+      "16": [
+        21,
+        22
+      ],
+      "16.3.a": [
+        21
+      ],
+      "16.3.b": [
+        21
+      ],
+      "17": [
+        21,
+        22,
+        27
+      ],
+      "18": [
+        23,
+        24
+      ],
+      "19": [
+        23,
+        24,
+        25,
+        27
+      ],
+      "19.4": [
+        25
+      ],
+      "20": [
+        24,
+        26
+      ],
+      "21": [
+        28
+      ],
+      "22": [
+        29
+      ],
+      "23": [
+        31,
+        32,
+        36
+      ],
+      "24": [
+        30
+      ],
+      "25": [
+        33
+      ],
+      "27": [
+        26
+      ],
+      "30": [
+        37
+      ]
+    }
+  }
+}

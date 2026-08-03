@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32019L2034": "37c4469a4188692b1000e501fab6222f407529f5b0f2f754e48047df30958fc3"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "systemviktiga-foretag",
+        "label": "Systemviktiga värdepappersföretag",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "2",
+          "5"
+        ]
+      },
+      {
+        "id": "myndighetssamarbete",
+        "label": "Myndighetssamarbete och harmonisering",
+        "range": [
+          8,
+          10
+        ],
+        "articleRefs": [
+          "4",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "startkapital",
+        "label": "Startkapital",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "tillsynsansvar",
+        "label": "Tillsyn i hem- och värdmedlemsstater",
+        "range": [
+          13,
+          15
+        ],
+        "articleRefs": [
+          "12",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "sekretess-revision-data",
+        "label": "Tystnadsplikt, revision och dataskydd",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "id": "sanktioner-utredning",
+        "label": "Sanktioner och undersökningsbefogenheter",
+        "range": [
+          18,
+          19
+        ],
+        "articleRefs": [
+          "18",
+          "19",
+          "20",
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "internt-kapital-srep",
+        "label": "Internt kapital och översynsprocess",
+        "range": [
+          20,
+          21
+        ],
+        "articleRefs": [
+          "24",
+          "36",
+          "39",
+          "40"
+        ]
+      },
+      {
+        "id": "styrning-ersattning",
+        "label": "Bolagsstyrning och ersättning",
+        "range": [
+          22,
+          26
+        ],
+        "articleRefs": [
+          "26",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34"
+        ]
+      },
+      {
+        "id": "ledningsstrukturer-transparens",
+        "label": "Ledningsstrukturer och transparens",
+        "range": [
+          27,
+          29
+        ],
+        "articleRefs": [
+          "26",
+          "27",
+          "28"
+        ]
+      },
+      {
+        "id": "grupptillsyn",
+        "label": "Grupptillsyn",
+        "range": [
+          30,
+          31
+        ],
+        "articleRefs": [
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51"
+        ]
+      },
+      {
+        "id": "forhallande-kreditinstitut",
+        "label": "Förhållande till kreditinstitut och övergång",
+        "range": [
+          32,
+          37
+        ],
+        "articleRefs": [
+          "2",
+          "5",
+          "65"
+        ]
+      },
+      {
+        "id": "tredjelandsforetag",
+        "label": "Tredjelandsföretag",
+        "range": [
+          38,
+          38
+        ],
+        "articleRefs": [
+          "16",
+          "55",
+          "56"
+        ]
+      },
+      {
+        "id": "tekniska-standarder",
+        "label": "Tekniska standarder och delegerade akter",
+        "range": [
+          39,
+          43
+        ],
+        "articleRefs": [
+          "3",
+          "41",
+          "58"
+        ]
+      },
+      {
+        "id": "rattslig-grund",
+        "label": "Rättslig grund och införlivande",
+        "range": [
+          44,
+          45
+        ],
+        "articleRefs": [
+          "67"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "2": [
+        1,
+        6,
+        7,
+        32
+      ],
+      "2.2": [
+        6
+      ],
+      "3": [
+        12,
+        39,
+        43
+      ],
+      "4": [
+        8
+      ],
+      "5": [
+        6,
+        7
+      ],
+      "6": [
+        8
+      ],
+      "7": [
+        10
+      ],
+      "8": [
+        10
+      ],
+      "9": [
+        11
+      ],
+      "10": [
+        12
+      ],
+      "11": [
+        11
+      ],
+      "12": [
+        13
+      ],
+      "13": [
+        13,
+        9
+      ],
+      "14": [
+        14
+      ],
+      "15": [
+        15
+      ],
+      "16": [
+        31,
+        38
+      ],
+      "17": [
+        16
+      ],
+      "18": [
+        18,
+        19
+      ],
+      "19": [
+        19
+      ],
+      "20": [
+        18
+      ],
+      "21": [
+        18
+      ],
+      "22": [
+        19
+      ],
+      "24": [
+        20
+      ],
+      "25": [
+        22
+      ],
+      "26": [
+        22,
+        27,
+        28
+      ],
+      "27": [
+        29
+      ],
+      "28": [
+        28
+      ],
+      "29": [
+        21
+      ],
+      "30": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "31": [
+        26
+      ],
+      "32": [
+        23,
+        24,
+        25
+      ],
+      "33": [
+        23
+      ],
+      "34": [
+        23
+      ],
+      "36": [
+        21,
+        41
+      ],
+      "39": [
+        21
+      ],
+      "40": [
+        21
+      ],
+      "46": [
+        30
+      ],
+      "48": [
+        30
+      ],
+      "51": [
+        30
+      ],
+      "55": [
+        38
+      ],
+      "58": [
+        41,
+        42,
+        43
+      ]
+    }
+  }
+}

@@ -1,0 +1,414 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32018L2001": "587ad64165f6e4456a3d25fb3da84c7b658f365e22269e60d398bfde2561f75a"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          14
+        ],
+        "articleRefs": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "id": "definitioner-principer",
+        "label": "Definitioner och grundläggande principer",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "stodsystem-el",
+        "label": "Stödsystem för förnybar el",
+        "range": [
+          16,
+          25
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "samarbete-internationellt",
+        "label": "Regionalt och internationellt samarbete",
+        "range": [
+          38,
+          42
+        ],
+        "articleRefs": [
+          "8",
+          "9",
+          "11",
+          "13"
+        ]
+      },
+      {
+        "id": "berakningsmetoder",
+        "label": "Beräkningsmetoder för förnybar andel",
+        "range": [
+          31,
+          37
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "tillstand-administration",
+        "label": "Tillståndsförfaranden och administration",
+        "range": [
+          43,
+          51
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "information-utbildning",
+        "label": "Information, utbildning och yrkeskvalifikationer",
+        "range": [
+          52,
+          54
+        ],
+        "articleRefs": [
+          "18"
+        ]
+      },
+      {
+        "id": "ursprungsgarantier",
+        "label": "Ursprungsgarantier",
+        "range": [
+          55,
+          59
+        ],
+        "articleRefs": [
+          "19"
+        ]
+      },
+      {
+        "id": "regional-utveckling",
+        "label": "Regional utveckling och yttersta randområden",
+        "range": [
+          61,
+          64
+        ],
+        "articleRefs": [
+          "20"
+        ]
+      },
+      {
+        "id": "egenanvandare-gemenskaper",
+        "label": "Egenanvändning och energigemenskaper",
+        "range": [
+          65,
+          72
+        ],
+        "articleRefs": [
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "varme-kyla",
+        "label": "Värme- och kylsektorn",
+        "range": [
+          73,
+          79
+        ],
+        "articleRefs": [
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "transport-biodrivmedel",
+        "label": "Transportsektorn och biodrivmedel",
+        "range": [
+          80,
+          92
+        ],
+        "articleRefs": [
+          "25",
+          "26",
+          "27",
+          "28"
+        ]
+      },
+      {
+        "id": "hallbarhetskriterier",
+        "label": "Hållbarhetskriterier och kontroll",
+        "range": [
+          93,
+          110
+        ],
+        "articleRefs": [
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "metodik-vaxthusgaser",
+        "label": "Metodik för växthusgasberäkningar",
+        "range": [
+          111,
+          123
+        ],
+        "articleRefs": [
+          "31"
+        ]
+      },
+      {
+        "id": "genomforande-slutbestammelser",
+        "label": "Genomförande och slutbestämmelser",
+        "range": [
+          124,
+          131
+        ],
+        "articleRefs": [
+          "36",
+          "37"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "2": [
+        15
+      ],
+      "3": [
+        5,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "3.1": [
+        8
+      ],
+      "3.4": [
+        10
+      ],
+      "4": [
+        16,
+        19,
+        22
+      ],
+      "4.2": [
+        16
+      ],
+      "4.5": [
+        19
+      ],
+      "5": [
+        23,
+        24
+      ],
+      "5.2": [
+        23
+      ],
+      "6": [
+        29
+      ],
+      "7": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "8": [
+        38
+      ],
+      "9": [
+        39
+      ],
+      "11": [
+        40,
+        41
+      ],
+      "13": [
+        39
+      ],
+      "15": [
+        43,
+        44,
+        45,
+        47,
+        48,
+        49
+      ],
+      "15.3": [
+        50
+      ],
+      "15.4": [
+        47,
+        48
+      ],
+      "15.7": [
+        49
+      ],
+      "16": [
+        50,
+        51
+      ],
+      "16.1": [
+        50
+      ],
+      "16.4": [
+        51
+      ],
+      "17": [
+        51
+      ],
+      "18": [
+        52,
+        53,
+        54
+      ],
+      "18.5": [
+        54
+      ],
+      "19": [
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "19.2": [
+        57
+      ],
+      "19.7": [
+        55
+      ],
+      "20": [
+        60,
+        64
+      ],
+      "21": [
+        66,
+        68,
+        69
+      ],
+      "21.3": [
+        68,
+        69
+      ],
+      "22": [
+        26,
+        67,
+        70,
+        71
+      ],
+      "22.4": [
+        67,
+        71
+      ],
+      "23": [
+        47,
+        48,
+        49,
+        73,
+        74
+      ],
+      "24": [
+        78,
+        79
+      ],
+      "24.2": [
+        79
+      ],
+      "25": [
+        36,
+        80,
+        83,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "25.1": [
+        83,
+        85
+      ],
+      "26": [
+        80,
+        81,
+        82
+      ],
+      "27": [
+        87
+      ],
+      "28": [
+        84,
+        91
+      ],
+      "29": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105
+      ],
+      "29.10": [
+        106
+      ],
+      "30": [
+        107,
+        108,
+        109,
+        110
+      ],
+      "31": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122
+      ]
+    }
+  }
+}

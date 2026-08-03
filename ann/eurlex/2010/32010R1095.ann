@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-26",
+    "inputs": {
+      "artifact:eurlex/32010R1095": "3dbf7d09455281abfe5a8e6ac7f249d6601c85e365b7c22557759631c2f270a8"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "myndighetens-roll",
+        "label": "Myndighetens roll och status",
+        "range": [
+          10,
+          14
+        ],
+        "articleRefs": [
+          "1",
+          "5"
+        ]
+      },
+      {
+        "id": "definitioner-grund",
+        "label": "Definitioner och rättslig grund",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "4",
+          "22"
+        ]
+      },
+      {
+        "id": "tillampning-omrade",
+        "label": "Tillämpningsområde och omfattning",
+        "range": [
+          18,
+          20
+        ],
+        "articleRefs": [
+          "1",
+          "26"
+        ]
+      },
+      {
+        "id": "tekniska-standarder",
+        "label": "Tekniska standarder och delegering",
+        "range": [
+          21,
+          25
+        ],
+        "articleRefs": [
+          "10",
+          "15"
+        ]
+      },
+      {
+        "id": "riktlinjer-overtradelse",
+        "label": "Riktlinjer och mekanismer vid överträdelser",
+        "range": [
+          26,
+          29
+        ],
+        "articleRefs": [
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "kris-tvister",
+        "label": "Krishantering och tvistlösning",
+        "range": [
+          30,
+          32
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "samarbete-tillsyn",
+        "label": "Tillsynssamarbete och konvergens",
+        "range": [
+          33,
+          41
+        ],
+        "articleRefs": [
+          "21",
+          "28",
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "marknadsovervakning-samordning",
+        "label": "Marknadsovervakning och internationell samordning",
+        "range": [
+          42,
+          47
+        ],
+        "articleRefs": [
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36"
+        ]
+      },
+      {
+        "id": "intressenter-skydd",
+        "label": "Intressentdialog och rättssäkerhet",
+        "range": [
+          48,
+          51
+        ],
+        "articleRefs": [
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "id": "organisation-styrning",
+        "label": "Organisation och styrningsorgan",
+        "range": [
+          52,
+          58
+        ],
+        "articleRefs": [
+          "40",
+          "43",
+          "45",
+          "48",
+          "51",
+          "54",
+          "58",
+          "60"
+        ]
+      },
+      {
+        "id": "administration-slutforskrifter",
+        "label": "Administrativa bestämmelser och övergång",
+        "range": [
+          59,
+          69
+        ],
+        "articleRefs": [
+          "62",
+          "66",
+          "68",
+          "70",
+          "71",
+          "72",
+          "75",
+          "82"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10,
+        11,
+        17,
+        18,
+        19
+      ],
+      "1.2": [
+        18,
+        19
+      ],
+      "1.5": [
+        11
+      ],
+      "2": [
+        8,
+        9
+      ],
+      "3": [
+        10
+      ],
+      "4": [
+        15,
+        16
+      ],
+      "5": [
+        14
+      ],
+      "8": [
+        11,
+        12,
+        13,
+        21,
+        22,
+        26,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "8.1.a": [
+        21,
+        22,
+        23
+      ],
+      "8.1.b": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "8.1.e": [
+        41
+      ],
+      "9": [
+        11
+      ],
+      "9.5": [
+        12
+      ],
+      "10": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "15": [
+        25
+      ],
+      "16": [
+        26
+      ],
+      "17": [
+        27,
+        28
+      ],
+      "17.3": [
+        28
+      ],
+      "17.6": [
+        29
+      ],
+      "18": [
+        30,
+        31
+      ],
+      "18.3": [
+        30
+      ],
+      "18.4": [
+        31
+      ],
+      "19": [
+        32
+      ],
+      "19.3": [
+        32
+      ],
+      "19.4": [
+        32
+      ],
+      "21": [
+        33,
+        34,
+        35,
+        36
+      ],
+      "22": [
+        15
+      ],
+      "23": [
+        15,
+        43
+      ],
+      "25": [
+        37
+      ],
+      "26": [
+        20,
+        38
+      ],
+      "27": [
+        37
+      ],
+      "28": [
+        39
+      ],
+      "29": [
+        40
+      ],
+      "30": [
+        41
+      ],
+      "31": [
+        42
+      ],
+      "32": [
+        43
+      ],
+      "33": [
+        44
+      ],
+      "34": [
+        45
+      ],
+      "35": [
+        46
+      ],
+      "36": [
+        47
+      ],
+      "37": [
+        48,
+        49
+      ],
+      "38": [
+        50
+      ],
+      "39": [
+        51
+      ],
+      "40": [
+        52
+      ],
+      "43": [
+        53
+      ],
+      "44": [
+        53
+      ],
+      "45": [
+        54
+      ],
+      "47": [
+        54
+      ],
+      "48": [
+        55
+      ],
+      "51": [
+        56
+      ],
+      "53": [
+        56
+      ],
+      "54": [
+        57
+      ],
+      "58": [
+        58
+      ],
+      "60": [
+        58
+      ],
+      "62": [
+        59
+      ],
+      "66": [
+        60
+      ],
+      "68": [
+        61
+      ],
+      "70": [
+        62
+      ],
+      "71": [
+        63
+      ],
+      "72": [
+        64
+      ],
+      "75": [
+        65
+      ],
+      "82": [
+        69
+      ]
+    }
+  }
+}

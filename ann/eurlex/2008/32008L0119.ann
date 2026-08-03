@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32008L0119": "6257ae551aa8bc2172e7f456b0f0f7bb96f2618666a448cb2c536a618826eaf1"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "kodifiering",
+        "label": "Kodifiering",
+        "range": [
+          1,
+          1
+        ],
+        "articleRefs": [
+          "12"
+        ]
+      },
+      {
+        "id": "grundlagar",
+        "label": "Rättslig grund och konventioner",
+        "range": [
+          2,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "marknad",
+        "label": "Inre marknaden och konkurrens",
+        "range": [
+          4,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "djurvalfar",
+        "label": "Kalvarnas välbefinnande och utrymme",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "forskning-utveckling",
+        "label": "Vetenskaplig forskning och utveckling",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "administrativt",
+        "label": "Genomförande och tidsfrister",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "10",
+          "12"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "3": [
+        7
+      ],
+      "3.1": [
+        7
+      ],
+      "3.1.a": [
+        7
+      ],
+      "3.1.b": [
+        7
+      ],
+      "4": [
+        7
+      ],
+      "5": [
+        8
+      ],
+      "6": [
+        8
+      ],
+      "10": [
+        9
+      ],
+      "12": [
+        1,
+        10
+      ]
+    }
+  }
+}

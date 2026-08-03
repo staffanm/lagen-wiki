@@ -1,0 +1,455 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R1789": "cec018c5b1ae939f9b6fc37daed5e42a5ca28808ae181f6f442427aa91255b42"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "vatgas-omstallning",
+        "label": "Vätgasmarknad och rättvis omställning",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "tariffer-finansiering",
+        "label": "Tariffer och finansiering",
+        "range": [
+          8,
+          11
+        ],
+        "articleRefs": [
+          "5",
+          "17"
+        ]
+      },
+      {
+        "id": "tredjepartstilltraede-kapacitet",
+        "label": "Tredjepartstillträde och kapacitet",
+        "range": [
+          12,
+          17
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "sammanlankningar-biometan",
+        "label": "Sammanlänkningar och biometan",
+        "range": [
+          18,
+          20
+        ],
+        "articleRefs": [
+          "9",
+          "20",
+          "36"
+        ]
+      },
+      {
+        "id": "//natforvaltning-entso",
+        "label": "Nätförvaltning och Entso för gas",
+        "range": [
+          21,
+          27
+        ],
+        "articleRefs": [
+          "24",
+          "26",
+          "29",
+          "31"
+        ]
+      },
+      {
+        "id": "transparens-marknadskontroll",
+        "label": "Transparens och marknadsövervakning",
+        "range": [
+          28,
+          36
+        ],
+        "articleRefs": [
+          "33",
+          "34",
+          "35"
+        ]
+      },
+      {
+        "id": "intakter-rabatter",
+        "label": "Intäkter och tariffrabatter",
+        "range": [
+          37,
+          43
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "distributionssystem-dso",
+        "label": "Distributionssystem och EU DSO-enheten",
+        "range": [
+          44,
+          45
+        ],
+        "articleRefs": [
+          "39",
+          "41"
+        ]
+      },
+      {
+        "id": "aggregering-inkop",
+        "label": "Aggregering av efterfrågan och gemensamma inköp",
+        "range": [
+          46,
+          63
+        ],
+        "articleRefs": [
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51"
+        ]
+      },
+      {
+        "id": "vatgasmarknad-mekanism",
+        "label": "Mekanism för vätgasmarknadens utveckling",
+        "range": [
+          64,
+          72
+        ],
+        "articleRefs": [
+          "52",
+          "53",
+          "54"
+        ]
+      },
+      {
+        "id": "gaskvalitet-blandning",
+        "label": "Gaskvalitet och blandning",
+        "range": [
+          73,
+          77
+        ],
+        "articleRefs": [
+          "21",
+          "55"
+        ]
+      },
+      {
+        "id": "ennoh-vatgasnatt",
+        "label": "ENNOH och vätgasnätens utveckling",
+        "range": [
+          78,
+          92
+        ],
+        "articleRefs": [
+          "57",
+          "59",
+          "60",
+          "61",
+          "66"
+        ]
+      },
+      {
+        "id": "standardisering-instrument",
+        "label": "Standardisering och rättsliga instrument",
+        "range": [
+          93,
+          103
+        ],
+        "articleRefs": [
+          "69",
+          "71",
+          "72",
+          "74",
+          "78"
+        ]
+      },
+      {
+        "id": "resiliens-solidaritet",
+        "label": "Resiliens, solidaritet och krisåtgärder",
+        "range": [
+          104,
+          111
+        ],
+        "articleRefs": [
+          "6",
+          "84"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser",
+        "range": [
+          112,
+          113
+        ],
+        "articleRefs": [
+          "89"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "3": [
+        2,
+        6,
+        14,
+        24
+      ],
+      "4": [
+        7
+      ],
+      "5": [
+        10
+      ],
+      "5.3": [
+        10
+      ],
+      "6": [
+        14,
+        15,
+        16,
+        17,
+        103
+      ],
+      "7": [
+        6,
+        86
+      ],
+      "7.3": [
+        86
+      ],
+      "8": [
+        12,
+        87
+      ],
+      "9": [
+        19,
+        20
+      ],
+      "10": [
+        12,
+        14
+      ],
+      "11": [
+        12,
+        14
+      ],
+      "13": [
+        32
+      ],
+      "14": [
+        103
+      ],
+      "17": [
+        9
+      ],
+      "18": [
+        42,
+        43
+      ],
+      "19": [
+        39,
+        41
+      ],
+      "20": [
+        19,
+        20,
+        45
+      ],
+      "21": [
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "24": [
+        22
+      ],
+      "26": [
+        21,
+        23
+      ],
+      "26.3b": [
+        23
+      ],
+      "29": [
+        10,
+        29
+      ],
+      "31": [
+        15,
+        16
+      ],
+      "32": [
+        23
+      ],
+      "33": [
+        28,
+        39
+      ],
+      "34": [
+        31,
+        34
+      ],
+      "35": [
+        35
+      ],
+      "36": [
+        19,
+        20,
+        45
+      ],
+      "39": [
+        44
+      ],
+      "41": [
+        44
+      ],
+      "42": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "43": [
+        53
+      ],
+      "44": [
+        54
+      ],
+      "45": [
+        50,
+        52
+      ],
+      "46": [
+        56,
+        57
+      ],
+      "47": [
+        61,
+        62
+      ],
+      "48": [
+        61,
+        62
+      ],
+      "52": [
+        64,
+        65,
+        66,
+        69
+      ],
+      "53": [
+        56,
+        57
+      ],
+      "54": [
+        71
+      ],
+      "55": [
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "57": [
+        78,
+        79
+      ],
+      "59": [
+        80,
+        81,
+        88
+      ],
+      "60": [
+        80
+      ],
+      "61": [
+        81
+      ],
+      "66": [
+        84,
+        85
+      ],
+      "69": [
+        97,
+        98
+      ],
+      "71": [
+        21,
+        77
+      ],
+      "72": [
+        78,
+        88
+      ],
+      "74": [
+        93
+      ],
+      "78": [
+        102
+      ],
+      "84": [
+        112
+      ],
+      "87": [
+        101
+      ]
+    }
+  }
+}

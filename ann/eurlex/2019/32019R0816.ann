@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32019R0816": "373b4521f03e7b2b375390b8ff62e4b0ed260517994856520f93236dea2f07a7"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "behov-ecris-tcn",
+        "label": "Behovet av Ecris-TCN",
+        "range": [
+          4,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "tillampning-biometri",
+        "label": "Tillämpningsområde och biometri",
+        "range": [
+          8,
+          10
+        ],
+        "articleRefs": [
+          "2",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "eu-lisa-teknik",
+        "label": "EU-LISA och teknisk förvaltning",
+        "range": [
+          11,
+          14
+        ],
+        "articleRefs": [
+          "4",
+          "11"
+        ]
+      },
+      {
+        "id": "data-identifiering",
+        "label": "Datatyper och identifiering",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "id": "anvandning-behorighet",
+        "label": "Användning och behörighet",
+        "range": [
+          18,
+          22
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "sokning-matchning",
+        "label": "Sökning och matchning",
+        "range": [
+          23,
+          25
+        ],
+        "articleRefs": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "inforande-kriterier",
+        "label": "Införande och kriterier för uppgifter",
+        "range": [
+          26,
+          29
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "samarbete-atkomst",
+        "label": "Samarbete och myndighetsåtkomst",
+        "range": [
+          30,
+          33
+        ],
+        "articleRefs": [
+          "14",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "dataskydd-rattigheter",
+        "label": "Dataskydd och rättigheter",
+        "range": [
+          34,
+          35
+        ],
+        "articleRefs": [
+          "13",
+          "18",
+          "19",
+          "23",
+          "24",
+          "25",
+          "28",
+          "29"
+        ]
+      },
+      {
+        "id": "implementering-ansvar",
+        "label": "Implementering och ansvarsfördelning",
+        "range": [
+          36,
+          39
+        ],
+        "articleRefs": [
+          "10",
+          "20",
+          "37",
+          "38"
+        ]
+      },
+      {
+        "id": "slutbestammelser-overgang",
+        "label": "Slutbestämmelser och övergångsregler",
+        "range": [
+          40,
+          45
+        ],
+        "articleRefs": [
+          "35",
+          "41",
+          "42"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "2": [
+        8,
+        9,
+        22
+      ],
+      "3": [
+        15,
+        16,
+        17
+      ],
+      "4": [
+        11,
+        13,
+        14
+      ],
+      "5": [
+        15,
+        16,
+        17,
+        26,
+        27,
+        28,
+        29
+      ],
+      "5.1": [
+        15,
+        16,
+        17
+      ],
+      "5.1.b": [
+        9,
+        10,
+        26,
+        27
+      ],
+      "5.1.b.ii": [
+        27
+      ],
+      "5.3": [
+        10,
+        15,
+        24
+      ],
+      "5.4": [
+        28
+      ],
+      "5.5": [
+        29
+      ],
+      "5.6": [
+        26
+      ],
+      "6": [
+        24,
+        38
+      ],
+      "6.1": [
+        24
+      ],
+      "6.2": [
+        24,
+        38
+      ],
+      "7": [
+        18,
+        19,
+        20,
+        21,
+        23,
+        31
+      ],
+      "7.1": [
+        18,
+        19,
+        20
+      ],
+      "7.3": [
+        33
+      ],
+      "7.4": [
+        9,
+        22
+      ],
+      "7.6": [
+        24
+      ],
+      "7.7": [
+        23,
+        31
+      ],
+      "8": [
+        36
+      ],
+      "9": [
+        36
+      ],
+      "10": [
+        39
+      ],
+      "11": [
+        11,
+        12,
+        13
+      ],
+      "12": [
+        32
+      ],
+      "13": [
+        8,
+        34
+      ],
+      "14": [
+        33
+      ],
+      "16": [
+        33
+      ],
+      "17": [
+        33
+      ],
+      "18": [
+        34
+      ],
+      "19": [
+        8,
+        34
+      ],
+      "20": [
+        37
+      ],
+      "23": [
+        34,
+        35
+      ],
+      "24": [
+        34,
+        35
+      ],
+      "25": [
+        21,
+        34
+      ],
+      "28": [
+        34,
+        35
+      ],
+      "29": [
+        35,
+        45
+      ],
+      "31": [
+        34
+      ],
+      "35": [
+        36,
+        40
+      ],
+      "41": [
+        40
+      ]
+    }
+  }
+}

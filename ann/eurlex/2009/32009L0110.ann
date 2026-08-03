@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009L0110": "48cd3f18550a39f6ffd713061b2b384820014b6b6b2bbeb57d626603a0182c12"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-definitioner",
+        "label": "Tillämpningsområde och definitioner",
+        "range": [
+          5,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "tillsyn-kapital",
+        "label": "Tillsyn och kapitalkrav",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "kreditinstitut-skydd",
+        "label": "Förhållande till kreditinstitut och skydd av medel",
+        "range": [
+          12,
+          14
+        ],
+        "articleRefs": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "tredjeland",
+        "label": "Förhållandet till tredjeland",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "8"
+        ]
+      },
+      {
+        "id": "undantag-auktorisation",
+        "label": "Undantag och auktorisation",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": [
+          "1",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "inlosen",
+        "label": "Utgivning och inlösen",
+        "range": [
+          18,
+          18
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "klagomal-tvist",
+        "label": "Klagomål och tvistlösning",
+        "range": [
+          19,
+          19
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "genomforande-oversyn",
+        "label": "Genomförande och översyn",
+        "range": [
+          20,
+          22
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "17"
+        ]
+      },
+      {
+        "id": "overgangsbestammelser",
+        "label": "Övergångsbestämmelser",
+        "range": [
+          23,
+          23
+        ],
+        "articleRefs": [
+          "18"
+        ]
+      },
+      {
+        "id": "andringar-direktiv",
+        "label": "Ändringar i andra direktiv",
+        "range": [
+          24,
+          25
+        ],
+        "articleRefs": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "upphavande-principer",
+        "label": "Upphävande och rättsliga principer",
+        "range": [
+          26,
+          28
+        ],
+        "articleRefs": [
+          "21"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        4,
+        16,
+        17
+      ],
+      "1.1": [
+        17
+      ],
+      "1.3": [
+        16,
+        17
+      ],
+      "1.4": [
+        5
+      ],
+      "1.5": [
+        6
+      ],
+      "2": [
+        7,
+        8
+      ],
+      "3": [
+        9
+      ],
+      "3.2": [
+        14
+      ],
+      "3.4": [
+        10
+      ],
+      "3.5": [
+        10
+      ],
+      "4": [
+        11
+      ],
+      "5": [
+        11
+      ],
+      "5.3": [
+        11
+      ],
+      "6": [
+        12,
+        13
+      ],
+      "6.1.d": [
+        12
+      ],
+      "6.2": [
+        13
+      ],
+      "6.3": [
+        13
+      ],
+      "7": [
+        11,
+        14
+      ],
+      "8": [
+        15
+      ],
+      "9": [
+        16,
+        17
+      ],
+      "10": [
+        17
+      ],
+      "11": [
+        18
+      ],
+      "12": [
+        13
+      ],
+      "13": [
+        19
+      ],
+      "14": [
+        21
+      ],
+      "15": [
+        20
+      ],
+      "17": [
+        22
+      ],
+      "18": [
+        23
+      ],
+      "19": [
+        24
+      ],
+      "20": [
+        25
+      ],
+      "21": [
+        26
+      ]
+    }
+  }
+}

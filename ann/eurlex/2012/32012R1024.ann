@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32012R1024": "999ce2c2b0b71e9851643176156d96c73113b7b969ac241c2a7b1a246d3925a2"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "dataskyddsprinciper",
+        "label": "Dataskydd och personuppgifter",
+        "range": [
+          6,
+          9
+        ],
+        "articleRefs": [
+          "9",
+          "13",
+          "17"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-utvidgning",
+        "label": "Tillämpningsområde och utvidgning",
+        "range": [
+          10,
+          13
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "organisation-resurser",
+        "label": "Organisation och resurser",
+        "range": [
+          14,
+          16
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8",
+          "26",
+          "28"
+        ]
+      },
+      {
+        "id": "tekniska-losningar",
+        "label": "Tekniska lösningar och externa aktörer",
+        "range": [
+          17,
+          20
+        ],
+        "articleRefs": [
+          "12",
+          "29"
+        ]
+      },
+      {
+        "id": "bevisvarde-lagring",
+        "label": "Bevisvärde och lagring",
+        "range": [
+          21,
+          23
+        ],
+        "articleRefs": [
+          "7",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "overvakning-tillsyn",
+        "label": "Övervakning och tillsyn",
+        "range": [
+          24,
+          25
+        ],
+        "articleRefs": [
+          "21",
+          "25"
+        ]
+      },
+      {
+        "id": "registrerade-insyn",
+        "label": "Registrerades rättigheter och insyn",
+        "range": [
+          26,
+          29
+        ],
+        "articleRefs": [
+          "18",
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "tredjeland",
+        "label": "Samarbete med tredjeländer",
+        "range": [
+          30,
+          30
+        ],
+        "articleRefs": [
+          "23"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och genomförande",
+        "range": [
+          31,
+          35
+        ],
+        "articleRefs": [
+          "24",
+          "27",
+          "30"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        4
+      ],
+      "2": [
+        2
+      ],
+      "3": [
+        1,
+        4,
+        10
+      ],
+      "4": [
+        11,
+        12
+      ],
+      "4.1": [
+        12
+      ],
+      "5": [
+        8
+      ],
+      "6": [
+        15
+      ],
+      "7": [
+        15,
+        21
+      ],
+      "7.2": [
+        21
+      ],
+      "8": [
+        9
+      ],
+      "8.1": [
+        9
+      ],
+      "8.3": [
+        9
+      ],
+      "9": [
+        6,
+        7,
+        9
+      ],
+      "9.5": [
+        6
+      ],
+      "10": [
+        7
+      ],
+      "11": [
+        14,
+        27
+      ],
+      "12": [
+        17
+      ],
+      "13": [
+        6
+      ],
+      "14": [
+        22
+      ],
+      "14.1": [
+        22
+      ],
+      "14.4": [
+        22
+      ],
+      "15": [
+        23
+      ],
+      "16": [
+        6
+      ],
+      "17": [
+        7
+      ],
+      "18": [
+        26,
+        28,
+        29
+      ],
+      "18.2": [
+        28,
+        29
+      ],
+      "19": [
+        26
+      ],
+      "20": [
+        29
+      ],
+      "21": [
+        24
+      ],
+      "22": [
+        13
+      ],
+      "23": [
+        30
+      ],
+      "24": [
+        32
+      ],
+      "25": [
+        25,
+        33
+      ],
+      "26": [
+        16
+      ],
+      "27": [
+        31
+      ],
+      "28": [
+        16
+      ],
+      "29": [
+        18,
+        20
+      ],
+      "29.1": [
+        20
+      ],
+      "29.2": [
+        18
+      ],
+      "30": [
+        34,
+        35
+      ]
+    }
+  }
+}

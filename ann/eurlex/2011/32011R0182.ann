@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32011R0182": "2c5bc3c62e563def32a445c47d754aa78589e5d8b1fbb5f1cb9fd98ecd082795"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "kommitte-struktur",
+        "label": "Kommittéstruktur och allmänna förfaranderegler",
+        "range": [
+          6,
+          9
+        ],
+        "articleRefs": [
+          "3",
+          "9"
+        ]
+      },
+      {
+        "id": "val-förfarande",
+        "label": "Val av förfarande och kriterier",
+        "range": [
+          10,
+          12
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "konsensussökande",
+        "label": "Kommitténs arbete och konsensussökande",
+        "range": [
+          13,
+          14
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "8"
+        ]
+      },
+      {
+        "id": "radgivande-förfarande",
+        "label": "Det rådgivande förfarandet",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "omedelbar-verkan",
+        "label": "Åtgärder med omedelbar verkan",
+        "range": [
+          16,
+          16
+        ],
+        "articleRefs": [
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "information-kontroll",
+        "label": "Information och kontroll",
+        "range": [
+          17,
+          18
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "insyn-register",
+        "label": "Insyn och register",
+        "range": [
+          19,
+          20
+        ],
+        "articleRefs": [
+          "10"
+        ]
+      },
+      {
+        "id": "avslut-övergång",
+        "label": "Slutbestämmelser och övergång",
+        "range": [
+          21,
+          22
+        ],
+        "articleRefs": [
+          "12",
+          "13",
+          "14"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        4,
+        5
+      ],
+      "2": [
+        10,
+        11,
+        12,
+        15
+      ],
+      "2.1": [
+        10
+      ],
+      "2.2": [
+        11,
+        12
+      ],
+      "2.3": [
+        15
+      ],
+      "3": [
+        6,
+        7,
+        9
+      ],
+      "3.2": [
+        6
+      ],
+      "3.5": [
+        9
+      ],
+      "3.7": [
+        7
+      ],
+      "4": [
+        15
+      ],
+      "5": [
+        11,
+        13
+      ],
+      "5.1": [
+        11
+      ],
+      "5.3": [
+        11
+      ],
+      "5.4": [
+        11
+      ],
+      "5.5": [
+        13
+      ],
+      "6": [
+        7,
+        13,
+        14
+      ],
+      "6.1": [
+        7
+      ],
+      "6.4": [
+        14
+      ],
+      "6.5": [
+        13
+      ],
+      "7": [
+        16
+      ],
+      "8": [
+        16,
+        13
+      ],
+      "8.1": [
+        16
+      ],
+      "8.5": [
+        13
+      ],
+      "9": [
+        9
+      ],
+      "9.2": [
+        19,
+        20
+      ],
+      "10": [
+        19,
+        20
+      ],
+      "11": [
+        17,
+        18
+      ],
+      "12": [
+        21
+      ],
+      "13": [
+        21
+      ],
+      "14": [
+        21
+      ]
+    }
+  }
+}

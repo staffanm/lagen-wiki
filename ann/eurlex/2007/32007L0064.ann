@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32007L0064": "61c72b45dda4a9eb004a28b413637f2c88e101658f28d1ba5cbcc88a22e96cfd"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-undantag",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "leverantorkategorier",
+        "label": "Kategorier av betaltjänstleverantörer",
+        "range": [
+          8,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "betalningsinstitut-auktorisation",
+        "label": "Betalningsinstitut och auktorisation",
+        "range": [
+          10,
+          15
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "10",
+          "13",
+          "26"
+        ]
+      },
+      {
+        "id": "tilltrade-betalningssystem",
+        "label": "Tillträde till betalningssystem",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": [
+          "28"
+        ]
+      },
+      {
+        "id": "information-transparens",
+        "label": "Informationskrav och transparens",
+        "range": [
+          18,
+          23
+        ],
+        "articleRefs": [
+          "30",
+          "36",
+          "41"
+        ]
+      },
+      {
+        "id": "ramavtal-förhandsinformation",
+        "label": "Ramavtal och förhandsinformation",
+        "range": [
+          24,
+          29
+        ],
+        "articleRefs": [
+          "41",
+          "42",
+          "45"
+        ]
+      },
+      {
+        "id": "laga-belopp-instrument",
+        "label": "Betalningsinstrument för låga belopp",
+        "range": [
+          30,
+          30
+        ],
+        "articleRefs": [
+          "34",
+          "53"
+        ]
+      },
+      {
+        "id": "icke-auktoriserade-transaktioner",
+        "label": "Icke auktoriserade transaktioner och ansvar",
+        "range": [
+          31,
+          35
+        ],
+        "articleRefs": [
+          "58",
+          "60",
+          "61"
+        ]
+      },
+      {
+        "id": "aterbetalning-konsumentskydd",
+        "label": "Återbetalning och konsumentskydd",
+        "range": [
+          36,
+          36
+        ],
+        "articleRefs": [
+          "62",
+          "63"
+        ]
+      },
+      {
+        "id": "genomforande-betalningsorder",
+        "label": "Genomförande av betalningsorder",
+        "range": [
+          37,
+          40
+        ],
+        "articleRefs": [
+          "64",
+          "66",
+          "67"
+        ]
+      },
+      {
+        "id": "avgifter-valuta",
+        "label": "Avgifter och valutakonvertering",
+        "range": [
+          41,
+          45
+        ],
+        "articleRefs": [
+          "52",
+          "67",
+          "68",
+          "73"
+        ]
+      },
+      {
+        "id": "ansvar-utförande",
+        "label": "Ansvar för utförande",
+        "range": [
+          46,
+          48
+        ],
+        "articleRefs": [
+          "74",
+          "75"
+        ]
+      },
+      {
+        "id": "bedrageri-dataskydd",
+        "label": "Bedrägeribekämpning och dataskydd",
+        "range": [
+          49,
+          49
+        ],
+        "articleRefs": [
+          "79"
+        ]
+      },
+      {
+        "id": "klagomal-sanktioner",
+        "label": "Klagomål och sanktioner",
+        "range": [
+          50,
+          52
+        ],
+        "articleRefs": [
+          "80",
+          "81",
+          "83"
+        ]
+      },
+      {
+        "id": "slutbestammelser-genomforande",
+        "label": "Slutbestämmelser och genomförande",
+        "range": [
+          53,
+          63
+        ],
+        "articleRefs": [
+          "86",
+          "88",
+          "94"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        4,
+        5,
+        8,
+        9,
+        10
+      ],
+      "2": [
+        1,
+        4,
+        5
+      ],
+      "3": [
+        6,
+        19
+      ],
+      "4": [
+        9
+      ],
+      "5": [
+        10,
+        11,
+        14
+      ],
+      "6": [
+        11
+      ],
+      "7": [
+        11
+      ],
+      "8": [
+        11
+      ],
+      "9": [
+        11
+      ],
+      "10": [
+        10,
+        11,
+        14
+      ],
+      "13": [
+        10,
+        15
+      ],
+      "15": [
+        12
+      ],
+      "16.3": [
+        13
+      ],
+      "26": [
+        10,
+        15
+      ],
+      "28": [
+        16,
+        17
+      ],
+      "30": [
+        20
+      ],
+      "34": [
+        30
+      ],
+      "36": [
+        21,
+        23,
+        25
+      ],
+      "37": [
+        21,
+        23
+      ],
+      "38": [
+        28
+      ],
+      "39": [
+        28
+      ],
+      "41": [
+        21,
+        24
+      ],
+      "42": [
+        21,
+        24
+      ],
+      "45": [
+        29
+      ],
+      "47": [
+        27,
+        28
+      ],
+      "48": [
+        27,
+        28
+      ],
+      "52.3": [
+        42
+      ],
+      "53": [
+        30
+      ],
+      "58": [
+        31
+      ],
+      "60": [
+        32,
+        35
+      ],
+      "61": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "61.1": [
+        32
+      ],
+      "61.2": [
+        32,
+        33
+      ],
+      "62": [
+        36
+      ],
+      "63": [
+        36
+      ],
+      "64": [
+        37
+      ],
+      "66": [
+        38,
+        39
+      ],
+      "67": [
+        40,
+        41
+      ],
+      "68": [
+        43
+      ],
+      "73": [
+        43
+      ],
+      "74": [
+        48
+      ],
+      "75": [
+        46,
+        47
+      ],
+      "79": [
+        49
+      ],
+      "80": [
+        50
+      ],
+      "81": [
+        50
+      ],
+      "83": [
+        51
+      ],
+      "88": [
+        59
+      ]
+    }
+  }
+}

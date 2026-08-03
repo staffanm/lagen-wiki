@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R2847": "df7d66a4bd5b8720a9076596b8d205c334975f1851745eaf5f9caeab251c2041"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "stod-smf",
+        "label": "Stöd till små och medelstora företag",
+        "range": [
+          5,
+          6
+        ],
+        "articleRefs": [
+          "33"
+        ]
+      },
+      {
+        "id": "overgripande-krav-risker",
+        "label": "Övergripande cybersäkerhetskrav och risker",
+        "range": [
+          7,
+          10
+        ],
+        "articleRefs": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "fjarrbehandling-moln",
+        "label": "Fjärrbehandling av data och molnlösningar",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "fri-rorlighet-sakerhet",
+        "label": "Fri rörlighet och nationell säkerhet",
+        "range": [
+          13,
+          14
+        ],
+        "articleRefs": [
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "oss-programvara",
+        "label": "Programvara med fri och öppen källkod",
+        "range": [
+          15,
+          21
+        ],
+        "articleRefs": [
+          "2",
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "beroenden-kompetens",
+        "label": "Beroenden och kompetens",
+        "range": [
+          22,
+          24
+        ],
+        "articleRefs": [
+          "10",
+          "13.25"
+        ]
+      },
+      {
+        "id": "forhallande-unionsratt",
+        "label": "Förhållande till annan unionsrätt",
+        "range": [
+          25,
+          33
+        ],
+        "articleRefs": [
+          "2",
+          "11",
+          "12",
+          "33"
+        ]
+      },
+      {
+        "id": "aktsamhet-marknadstilltraede",
+        "label": "Tillbörlig aktsamhet och marknadstillträde",
+        "range": [
+          34,
+          37
+        ],
+        "articleRefs": [
+          "13.5",
+          "30"
+        ]
+      },
+      {
+        "id": "vasentliga-krav-andringar",
+        "label": "Väsentliga krav och väsentliga ändringar",
+        "range": [
+          38,
+          42
+        ],
+        "articleRefs": [
+          "6",
+          "13.10",
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "viktiga-kritiska-produkter",
+        "label": "Viktiga och kritiska produkter",
+        "range": [
+          43,
+          49
+        ],
+        "articleRefs": [
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "ai-specialkategorier",
+        "label": "AI och särskilda produktkategorier",
+        "range": [
+          50,
+          53
+        ],
+        "articleRefs": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "sarbarhetshantering-stodperioder",
+        "label": "Sårbarhetshantering och stödperioder",
+        "range": [
+          54,
+          62
+        ],
+        "articleRefs": [
+          "6",
+          "13.8",
+          "13.19"
+        ]
+      },
+      {
+        "id": "rapportering-incidenthantering",
+        "label": "Rapportering och incidenthantering",
+        "range": [
+          63,
+          77
+        ],
+        "articleRefs": [
+          "13.17",
+          "14",
+          "15",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "ekonomiska-aktorer-overensstammelse",
+        "label": "Ekonomiska aktörer och överensstämmelse",
+        "range": [
+          78,
+          105
+        ],
+        "articleRefs": [
+          "13",
+          "18",
+          "19",
+          "20",
+          "27",
+          "28",
+          "30",
+          "31",
+          "32",
+          "39",
+          "41"
+        ]
+      },
+      {
+        "id": "marknadskontroll-sanktioner",
+        "label": "Marknadskontroll och sanktioner",
+        "range": [
+          106,
+          130
+        ],
+        "articleRefs": [
+          "52",
+          "53",
+          "54",
+          "55",
+          "56",
+          "57",
+          "58",
+          "64",
+          "65",
+          "69"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        11,
+        12,
+        15,
+        16,
+        18,
+        25,
+        26,
+        27,
+        28,
+        29,
+        50,
+        51,
+        53
+      ],
+      "3": [
+        11,
+        14,
+        18,
+        19,
+        30,
+        39
+      ],
+      "4": [
+        13,
+        36,
+        37
+      ],
+      "5": [
+        13,
+        14
+      ],
+      "6": [
+        8,
+        9,
+        54,
+        55
+      ],
+      "7": [
+        10,
+        43,
+        44,
+        45
+      ],
+      "8": [
+        46,
+        47,
+        48
+      ],
+      "9": [
+        49
+      ],
+      "10": [
+        23
+      ],
+      "11": [
+        50
+      ],
+      "12": [
+        51
+      ],
+      "13": [
+        15
+      ],
+      "13.2": [
+        54,
+        55
+      ],
+      "13.3": [
+        54,
+        55
+      ],
+      "13.4": [
+        54,
+        55
+      ],
+      "13.5": [
+        34,
+        35
+      ],
+      "13.8": [
+        59,
+        60,
+        62
+      ],
+      "13.10": [
+        39,
+        40
+      ],
+      "13.17": [
+        63
+      ],
+      "13.18": [
+        10
+      ],
+      "13.19": [
+        60
+      ],
+      "13.25": [
+        22,
+        77
+      ],
+      "14": [
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "15": [
+        74
+      ],
+      "16": [
+        69,
+        72,
+        73
+      ],
+      "17": [
+        69,
+        71
+      ],
+      "18": [
+        15
+      ],
+      "19": [
+        15
+      ],
+      "20": [
+        15
+      ],
+      "21": [
+        15
+      ],
+      "22": [
+        15
+      ],
+      "24": [
+        19
+      ],
+      "25": [
+        21
+      ],
+      "26": [
+        6
+      ],
+      "27": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        86,
+        87
+      ],
+      "28": [
+        88
+      ],
+      "30": [
+        36,
+        89
+      ],
+      "31": [
+        93
+      ],
+      "32": [
+        90,
+        91,
+        92
+      ],
+      "33": [
+        5,
+        93,
+        94,
+        95,
+        96,
+        97,
+        127,
+        128
+      ],
+      "39": [
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "41": [
+        102
+      ],
+      "43": [
+        103
+      ],
+      "52": [
+        106,
+        107,
+        108,
+        109
+      ],
+      "54": [
+        110,
+        111
+      ],
+      "56": [
+        112
+      ],
+      "64": [
+        120,
+        121
+      ],
+      "65": [
+        124
+      ],
+      "69": [
+        126
+      ]
+    }
+  }
+}

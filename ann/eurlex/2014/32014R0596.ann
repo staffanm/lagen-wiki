@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32014R0596": "80c560660214f73d74cc9d543a0a44eacb9f5732dc226dee6106bc48a4b98896"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampsningsomrade-instrument",
+        "label": "Tillämpningsområde och finansiella instrument",
+        "range": [
+          7,
+          13
+        ],
+        "articleRefs": [
+          "2",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "insiderinformation-definition",
+        "label": "Definition av insiderinformation",
+        "range": [
+          14,
+          22
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "insiderhandel-utnyttjande",
+        "label": "Insiderhandel och utnyttjande",
+        "range": [
+          23,
+          31
+        ],
+        "articleRefs": [
+          "8",
+          "9",
+          "14"
+        ]
+      },
+      {
+        "id": "marknadssonderingar",
+        "label": "Marknadssonderingar",
+        "range": [
+          32,
+          36
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "marknadsmanipulation",
+        "label": "Marknadsmanipulation",
+        "range": [
+          37,
+          44
+        ],
+        "articleRefs": [
+          "12",
+          "13",
+          "15"
+        ]
+      },
+      {
+        "id": "forebyggande-upptackt",
+        "label": "Förebyggande och upptäckt av marknadsmissbruk",
+        "range": [
+          45,
+          48
+        ],
+        "articleRefs": [
+          "16"
+        ]
+      },
+      {
+        "id": "offentliggörande-insiderinfo",
+        "label": "Offentliggörande av insiderinformation",
+        "range": [
+          49,
+          53
+        ],
+        "articleRefs": [
+          "17"
+        ]
+      },
+      {
+        "id": "insiderforteckningar-ledande-personer",
+        "label": "Insiderförteckningar och personer i ledande ställning",
+        "range": [
+          54,
+          61
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "tillsynsbefogenheter",
+        "label": "Tillsynsmyndigheternas befogenheter och samarbete",
+        "range": [
+          62,
+          69
+        ],
+        "articleRefs": [
+          "22",
+          "23",
+          "24",
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "sanktioner-visselblasning",
+        "label": "Administrativa sanktioner och visselblåsning",
+        "range": [
+          70,
+          74
+        ],
+        "articleRefs": [
+          "30",
+          "31",
+          "32",
+          "34"
+        ]
+      },
+      {
+        "id": "implementering-slutbestammelser",
+        "label": "Implementering och slutbestämmelser",
+        "range": [
+          75,
+          89
+        ],
+        "articleRefs": [
+          "37",
+          "38",
+          "39"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "2": [
+        7,
+        8,
+        10,
+        13
+      ],
+      "2.1": [
+        8
+      ],
+      "2.2": [
+        10,
+        13
+      ],
+      "4": [
+        9
+      ],
+      "5": [
+        11,
+        12
+      ],
+      "6": [
+        13
+      ],
+      "7": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        20,
+        21
+      ],
+      "8": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "9": [
+        29,
+        30,
+        31
+      ],
+      "11": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "12": [
+        38,
+        39,
+        41,
+        42,
+        43,
+        44
+      ],
+      "13": [
+        42
+      ],
+      "14": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "15": [
+        38,
+        41,
+        42,
+        43,
+        44
+      ],
+      "16": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "17": [
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "17.4": [
+        49,
+        50
+      ],
+      "17.5": [
+        52,
+        53
+      ],
+      "18": [
+        56,
+        57
+      ],
+      "19": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "19.11": [
+        61
+      ],
+      "20": [
+        63
+      ],
+      "21": [
+        77
+      ],
+      "22": [
+        62
+      ],
+      "23": [
+        64,
+        65,
+        66
+      ],
+      "25": [
+        67,
+        68
+      ],
+      "30": [
+        70,
+        71,
+        72
+      ],
+      "32": [
+        74
+      ],
+      "34": [
+        73
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/sveriges-riksbank": "76d759fc34650f0fb404136b7a6e2a289216fd44a0b0f7f0886de9a6184a67b5",
+      "artifact:forarbete/sou/2023-102": "5cb0365885de555d43abe4d35b37a8f2abb2e4f2665af21d7cbd4cbdf7f5ac75"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Riksbanken tillstyrker förslagen rörande anpassningar i svensk lagstiftning till följd av EU:s s.k. DLT-förordning ."
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4",
+      "sentiment": 1.0,
+      "quote": "Riksbanken tillstyrker förslagen rörande anpassningar i svensk lagstiftning till följd av EU:s s.k. DLT-förordning ."
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 1.0,
+      "quote": "Riksbanken tillstyrker även anpassningen i svensk lagstiftning för att förenkla implementerandet av tillbörliga standarder i efterhandelsprocessen."
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.0,
+      "quote": "Riksbanken avstår från att yttra sig över förslagen rörande möjligheten att i vissa fall avsluta ett avstämningskonto med okänd ägare."
+    }
+  ]
+}

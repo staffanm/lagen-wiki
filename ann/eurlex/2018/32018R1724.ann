@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32018R1724": "b66c8cfff6906b956cfe9b4e951f323731343e4ae61fa4a3c0b5a87d4ae7ae20"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "information-tillgang",
+        "label": "Informationens natur och tillgänglighet",
+        "range": [
+          7,
+          9
+        ],
+        "articleRefs": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "id": "inrättande-ingången",
+        "label": "Inrättande av den gemensamma digitala ingången",
+        "range": [
+          10,
+          15
+        ],
+        "articleRefs": [
+          "2",
+          "18",
+          "21"
+        ]
+      },
+      {
+        "id": "informationsomraden",
+        "label": "Informationsområden och innehåll",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": [
+          "2",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "onlineforfaranden-icke-diskriminering",
+        "label": "Onlineförfaranden och icke-diskriminering",
+        "range": [
+          18,
+          21
+        ],
+        "articleRefs": [
+          "6",
+          "13"
+        ]
+      },
+      {
+        "id": "krav-helt-online",
+        "label": "Krav på helt online-förfaranden",
+        "range": [
+          22,
+          30
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "hjalp-problemlosemning",
+        "label": "Hjälp- och problemlösningstjänster",
+        "range": [
+          31,
+          33
+        ],
+        "articleRefs": [
+          "7",
+          "20"
+        ]
+      },
+      {
+        "id": "kvalitetskrav-tillganglighet",
+        "label": "Kvalitetskrav och tillgänglighet",
+        "range": [
+          34,
+          37
+        ],
+        "articleRefs": [
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "administration-betalningar",
+        "label": "Betalningar och administrativa förfaranden",
+        "range": [
+          38,
+          41
+        ],
+        "articleRefs": [
+          "13",
+          "15"
+        ]
+      },
+      {
+        "id": "engangsprincipen-bevis",
+        "label": "Engångsprincipen och utbyte av bevis",
+        "range": [
+          42,
+          53
+        ],
+        "articleRefs": [
+          "14",
+          "33"
+        ]
+      },
+      {
+        "id": "tekniska-losningar-drift",
+        "label": "Tekniska lösningar och drift",
+        "range": [
+          54,
+          59
+        ],
+        "articleRefs": [
+          "17",
+          "18",
+          "19",
+          "21"
+        ]
+      },
+      {
+        "id": "marknadsforing-synlighet",
+        "label": "Marknadsföring och synlighet",
+        "range": [
+          60,
+          62
+        ],
+        "articleRefs": [
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "statistik-aterkoppling",
+        "label": "Statistik och användaråterkoppling",
+        "range": [
+          63,
+          66
+        ],
+        "articleRefs": [
+          "24",
+          "25",
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "forvaltning-samordning",
+        "label": "Förvaltning och samordning",
+        "range": [
+          67,
+          72
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "30",
+          "31"
+        ]
+      },
+      {
+        "id": "slutbestemmelser",
+        "label": "Slutbestämmelser",
+        "range": [
+          73,
+          76
+        ],
+        "articleRefs": [
+          "39"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        4,
+        6
+      ],
+      "2": [
+        2,
+        4,
+        5,
+        12,
+        14,
+        16
+      ],
+      "2.2": [
+        7,
+        16,
+        17,
+        22,
+        31
+      ],
+      "2.2.a": [
+        7,
+        16,
+        17
+      ],
+      "2.2.b": [
+        12,
+        18,
+        22,
+        23,
+        24
+      ],
+      "2.2.c": [
+        13,
+        15,
+        31,
+        32
+      ],
+      "4": [
+        7,
+        16,
+        17
+      ],
+      "5": [
+        17
+      ],
+      "6": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "6.2": [
+        24
+      ],
+      "6.3": [
+        27
+      ],
+      "7": [
+        31,
+        32
+      ],
+      "7.3": [
+        32
+      ],
+      "8": [
+        36,
+        37
+      ],
+      "9": [
+        7,
+        16,
+        34,
+        35
+      ],
+      "10": [
+        7,
+        10,
+        34,
+        39
+      ],
+      "11": [
+        15,
+        31,
+        34
+      ],
+      "12": [
+        19,
+        35
+      ],
+      "13": [
+        18,
+        19,
+        20
+      ],
+      "13.2.c": [
+        21
+      ],
+      "13.2.e": [
+        38
+      ],
+      "14": [
+        12,
+        42,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "14.1": [
+        12,
+        44
+      ],
+      "14.3.f": [
+        47
+      ],
+      "15": [
+        40
+      ],
+      "16": [
+        31,
+        34
+      ],
+      "17": [
+        54
+      ],
+      "18": [
+        14,
+        55,
+        56,
+        57
+      ],
+      "19": [
+        55
+      ],
+      "20": [
+        33
+      ],
+      "21": [
+        59
+      ],
+      "22": [
+        62
+      ],
+      "23": [
+        60,
+        61
+      ],
+      "24": [
+        63,
+        64
+      ],
+      "25": [
+        13,
+        65
+      ],
+      "26": [
+        13,
+        66
+      ],
+      "27": [
+        65
+      ],
+      "28": [
+        67
+      ],
+      "29": [
+        68
+      ],
+      "30": [
+        68
+      ],
+      "31": [
+        68
+      ],
+      "32": [
+        69
+      ],
+      "33": [
+        42,
+        43,
+        71
+      ],
+      "35": [
+        40
+      ],
+      "39": [
+        74
+      ]
+    }
+  }
+}

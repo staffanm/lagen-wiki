@@ -1,0 +1,492 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32023R2411": "2c8806d5597c2ea26a2a5dc6f8af080c43e8153c96df72ebf3a4fe7269cdc166"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-internationellt",
+        "label": "Bakgrund och internationella åtaganden",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "syfte-mal",
+        "label": "Syfte och mål",
+        "range": [
+          5,
+          9
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "sokande-personuppgifter",
+        "label": "Sökande och personuppgifter",
+        "range": [
+          10,
+          14
+        ],
+        "articleRefs": [
+          "5",
+          "8"
+        ]
+      },
+      {
+        "id": "krav-skydd",
+        "label": "Krav för skydd",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "6",
+          "9"
+        ]
+      },
+      {
+        "id": "registreringsforfarande",
+        "label": "Registreringsförfarande",
+        "range": [
+          18,
+          26
+        ],
+        "articleRefs": [
+          "7",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "29"
+        ]
+      },
+      {
+        "id": "admin-overgang",
+        "label": "Administrativa bestämmelser och övergångsperioder",
+        "range": [
+          27,
+          31
+        ],
+        "articleRefs": [
+          "24",
+          "28",
+          "30"
+        ]
+      },
+      {
+        "id": "unionsregistret",
+        "label": "Unionsregistret",
+        "range": [
+          32,
+          34
+        ],
+        "articleRefs": [
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "id": "overklagande-namnd",
+        "label": "Överklagande och rådgivande nämnd",
+        "range": [
+          35,
+          36
+        ],
+        "articleRefs": [
+          "33",
+          "34",
+          "35",
+          "36"
+        ]
+      },
+      {
+        "id": "skyddets-omfattning",
+        "label": "Skyddets omfattning",
+        "range": [
+          37,
+          42
+        ],
+        "articleRefs": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "44"
+        ]
+      },
+      {
+        "id": "producentgrupper-doman",
+        "label": "Producentgrupper och domännamn",
+        "range": [
+          43,
+          45
+        ],
+        "articleRefs": [
+          "45",
+          "46"
+        ]
+      },
+      {
+        "id": "framjandet-markning",
+        "label": "Främjande och märkning",
+        "range": [
+          46,
+          49
+        ],
+        "articleRefs": [
+          "48"
+        ]
+      },
+      {
+        "id": "verifiering-kontroll",
+        "label": "Verifiering och kontroll",
+        "range": [
+          50,
+          59
+        ],
+        "articleRefs": [
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "55",
+          "56",
+          "57",
+          "58",
+          "59"
+        ]
+      },
+      {
+        "id": "marknadskontroll-sanktioner",
+        "label": "Marknadskontroll och sanktioner",
+        "range": [
+          60,
+          65
+        ],
+        "articleRefs": [
+          "54",
+          "60",
+          "61"
+        ]
+      },
+      {
+        "id": "samarbete-andringar",
+        "label": "Samarbete och ändringar i andra rättsakter",
+        "range": [
+          66,
+          68
+        ],
+        "articleRefs": [
+          "62",
+          "63",
+          "64"
+        ]
+      },
+      {
+        "id": "teknisk-finansiell",
+        "label": "Tekniska och finansiella bestämmelser",
+        "range": [
+          69,
+          73
+        ],
+        "articleRefs": [
+          "65",
+          "66",
+          "67"
+        ]
+      },
+      {
+        "id": "avslutande-bestammelser",
+        "label": "Avslutande bestämmelser",
+        "range": [
+          74,
+          80
+        ],
+        "articleRefs": [
+          "68",
+          "69",
+          "70",
+          "71",
+          "72",
+          "73"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "2": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "3": [
+        5
+      ],
+      "4": [
+        40
+      ],
+      "5": [
+        10
+      ],
+      "6": [
+        16,
+        17
+      ],
+      "7": [
+        19,
+        21
+      ],
+      "8": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "9": [
+        16,
+        17
+      ],
+      "10": [
+        18
+      ],
+      "11": [
+        18
+      ],
+      "12": [
+        23
+      ],
+      "13": [
+        21
+      ],
+      "14": [
+        21
+      ],
+      "15": [
+        21
+      ],
+      "16": [
+        21
+      ],
+      "17": [
+        20
+      ],
+      "18": [
+        29
+      ],
+      "19": [
+        24,
+        25
+      ],
+      "20": [
+        19,
+        24,
+        26
+      ],
+      "21": [
+        19,
+        21
+      ],
+      "22": [
+        21
+      ],
+      "23": [
+        21
+      ],
+      "24": [
+        28
+      ],
+      "25": [
+        21,
+        22
+      ],
+      "26": [
+        21
+      ],
+      "27": [
+        21
+      ],
+      "28": [
+        30
+      ],
+      "29": [
+        21
+      ],
+      "30": [
+        31
+      ],
+      "31": [
+        21
+      ],
+      "32": [
+        21
+      ],
+      "33": [
+        35
+      ],
+      "34": [
+        36
+      ],
+      "35": [
+        36
+      ],
+      "36": [
+        35
+      ],
+      "37": [
+        33,
+        34
+      ],
+      "38": [
+        32
+      ],
+      "39": [
+        34
+      ],
+      "40": [
+        37,
+        38,
+        40,
+        41
+      ],
+      "41": [
+        39
+      ],
+      "42": [
+        40
+      ],
+      "43": [
+        41
+      ],
+      "44": [
+        42
+      ],
+      "45": [
+        11,
+        43
+      ],
+      "46": [
+        44,
+        45
+      ],
+      "47": [
+        15
+      ],
+      "48": [
+        47,
+        48,
+        49
+      ],
+      "49": [
+        50
+      ],
+      "50": [
+        51
+      ],
+      "51": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "52": [
+        57
+      ],
+      "53": [
+        50
+      ],
+      "54": [
+        60
+      ],
+      "55": [
+        51,
+        57,
+        58
+      ],
+      "56": [
+        58
+      ],
+      "57": [
+        58
+      ],
+      "58": [
+        59
+      ],
+      "59": [
+        58
+      ],
+      "60": [
+        64
+      ],
+      "61": [
+        65
+      ],
+      "62": [
+        66
+      ],
+      "63": [
+        68
+      ],
+      "64": [
+        67
+      ],
+      "65": [
+        70,
+        71
+      ],
+      "66": [
+        69
+      ],
+      "67": [
+        72,
+        73
+      ],
+      "68": [
+        74,
+        75
+      ],
+      "69": [
+        74
+      ],
+      "70": [
+        76
+      ],
+      "71": [
+        71
+      ],
+      "72": [
+        72
+      ],
+      "73": [
+        77
+      ]
+    }
+  }
+}

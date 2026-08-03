@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R1781": "1438611fd3855637fd181c613b8b2ce0c23b67f3f3dee85d3eb4380b08a50fc9"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-strategi",
+        "label": "Bakgrund och strategiska mål",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "ramverk-syfte",
+        "label": "Ramverkets syfte och miljömässiga mål",
+        "range": [
+          5,
+          12
+        ],
+        "articleRefs": [
+          "1",
+          "3",
+          "5"
+        ]
+      },
+      {
+        "id": "tillämpningsområde-undantag",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          13,
+          14
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "fastställande-krav",
+        "label": "Fastställande av ekodesignkrav och särskilda hänsyn",
+        "range": [
+          15,
+          21
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "7"
+        ]
+      },
+      {
+        "id": "metoder-prestanda-kemikalier",
+        "label": "Metoder, prestandakrav och kemikaliesäkerhet",
+        "range": [
+          22,
+          27
+        ],
+        "articleRefs": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "id": "information-spårbarhet",
+        "label": "Informationskrav och spårbarhet",
+        "range": [
+          28,
+          31
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "digitalt-produktpass-tull",
+        "label": "Digitalt produktpass och tullkontroll",
+        "range": [
+          32,
+          45
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "märkning-etiketter",
+        "label": "Märkning och etiketter",
+        "range": [
+          46,
+          48
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "32",
+          "47"
+        ]
+      },
+      {
+        "id": "planering-samråd",
+        "label": "Prioritering, planering och samråd",
+        "range": [
+          49,
+          53
+        ],
+        "articleRefs": [
+          "18",
+          "19",
+          "20",
+          "21"
+        ]
+      },
+      {
+        "id": "smf-förstörelse",
+        "label": "Stöd till SMF och förbud mot förstörelse av produkter",
+        "range": [
+          54,
+          60
+        ],
+        "articleRefs": [
+          "22",
+          "23",
+          "24",
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "ekonomiska-aktörer",
+        "label": "Ekonomiska aktörers skyldigheter",
+        "range": [
+          61,
+          75
+        ],
+        "articleRefs": [
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38"
+        ]
+      },
+      {
+        "id": "överensstämmelse-standarder",
+        "label": "Bedömning av överensstämmelse och standarder",
+        "range": [
+          76,
+          82
+        ],
+        "articleRefs": [
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "id": "ce-märkning-anmälda-organ",
+        "label": "CE-märkning och anmälda organ",
+        "range": [
+          83,
+          98
+        ],
+        "articleRefs": [
+          "44",
+          "45",
+          "46",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "55",
+          "56",
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63"
+        ]
+      },
+      {
+        "id": "incitament-offentlig-upphandling",
+        "label": "Incitament och offentlig upphandling",
+        "range": [
+          99,
+          101
+        ],
+        "articleRefs": [
+          "64",
+          "65"
+        ]
+      },
+      {
+        "id": "marknadskontroll-skydd",
+        "label": "Marknadskontroll och skyddsåtgärder",
+        "range": [
+          102,
+          111
+        ],
+        "articleRefs": [
+          "66",
+          "67",
+          "68",
+          "69",
+          "70",
+          "71"
+        ]
+      },
+      {
+        "id": "förvaltning-sanktioner-övergång",
+        "label": "Förvaltning, sanktioner och övergångsbestämmelser",
+        "range": [
+          112,
+          122
+        ],
+        "articleRefs": [
+          "72",
+          "73",
+          "74",
+          "75",
+          "76",
+          "77",
+          "78",
+          "79",
+          "80"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        12
+      ],
+      "1.2": [
+        13
+      ],
+      "2": [
+        28,
+        32
+      ],
+      "3": [
+        5,
+        18
+      ],
+      "4": [
+        15,
+        22,
+        23
+      ],
+      "5": [
+        6,
+        16,
+        21
+      ],
+      "6": [
+        16,
+        24,
+        26,
+        27
+      ],
+      "7": [
+        16,
+        28,
+        30,
+        31
+      ],
+      "8": [
+        22
+      ],
+      "9": [
+        32
+      ],
+      "10": [
+        32,
+        36,
+        37
+      ],
+      "11": [
+        32,
+        39,
+        40
+      ],
+      "12": [
+        36
+      ],
+      "13": [
+        41
+      ],
+      "14": [
+        42
+      ],
+      "15": [
+        44,
+        45
+      ],
+      "16": [
+        46,
+        47
+      ],
+      "17": [
+        48
+      ],
+      "18": [
+        49
+      ],
+      "19": [
+        52
+      ],
+      "20": [
+        52
+      ],
+      "21": [
+        53
+      ],
+      "22": [
+        54
+      ],
+      "23": [
+        55
+      ],
+      "24": [
+        56
+      ],
+      "25": [
+        57,
+        58
+      ],
+      "26": [
+        60
+      ],
+      "27": [
+        61,
+        62
+      ],
+      "28": [
+        62
+      ],
+      "29": [
+        63,
+        64
+      ],
+      "30": [
+        65,
+        66
+      ],
+      "31": [
+        67,
+        68
+      ],
+      "32": [
+        46,
+        68
+      ],
+      "33": [
+        65
+      ],
+      "34": [
+        69
+      ],
+      "35": [
+        70,
+        71
+      ],
+      "36": [
+        73,
+        74
+      ],
+      "37": [
+        75,
+        76
+      ],
+      "38": [
+        77
+      ],
+      "39": [
+        78,
+        80
+      ],
+      "40": [
+        79
+      ],
+      "41": [
+        80,
+        81
+      ],
+      "42": [
+        81
+      ],
+      "43": [
+        82
+      ],
+      "44": [
+        83
+      ],
+      "45": [
+        84
+      ],
+      "46": [
+        84
+      ],
+      "47": [
+        46
+      ],
+      "48": [
+        85
+      ],
+      "49": [
+        86
+      ],
+      "50": [
+        86
+      ],
+      "51": [
+        86
+      ],
+      "52": [
+        88,
+        91,
+        92
+      ],
+      "53": [
+        89
+      ],
+      "54": [
+        90
+      ],
+      "55": [
+        95
+      ],
+      "56": [
+        95
+      ],
+      "57": [
+        85
+      ],
+      "58": [
+        86
+      ],
+      "59": [
+        93
+      ],
+      "60": [
+        94,
+        95
+      ],
+      "61": [
+        96,
+        97
+      ],
+      "62": [
+        98
+      ],
+      "63": [
+        98
+      ],
+      "64": [
+        99
+      ],
+      "65": [
+        100,
+        101
+      ],
+      "66": [
+        102,
+        104,
+        105
+      ],
+      "67": [
+        106
+      ],
+      "68": [
+        107,
+        108
+      ],
+      "69": [
+        109,
+        110
+      ],
+      "70": [
+        110
+      ],
+      "71": [
+        111
+      ],
+      "72": [
+        112
+      ],
+      "73": [
+        113
+      ],
+      "74": [
+        114
+      ],
+      "75": [
+        115,
+        116
+      ],
+      "76": [
+        117
+      ],
+      "77": [
+        118
+      ],
+      "78": [
+        118
+      ],
+      "79": [
+        119,
+        120,
+        121
+      ],
+      "80": [
+        122
+      ]
+    }
+  }
+}

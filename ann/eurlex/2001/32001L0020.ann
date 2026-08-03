@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32001L0020": "982a6e30684f41fa7342272246125c857655b1b56c204a597aa2e2659b57c41f"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-principer",
+        "label": "Bakgrund och grundläggande principer",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "id": "skydd-utsatta-grupper",
+        "label": "Skydd av oförmögna personer och barn",
+        "range": [
+          3,
+          5
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "teknisk-harmonisering",
+        "label": "Teknisk harmonisering och effektivitet",
+        "range": [
+          6,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "7"
+        ]
+      },
+      {
+        "id": "information-databas",
+        "label": "Information och europeisk databas",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "administrativa-forfaranden",
+        "label": "Administrativa förfaranden och tillstånd",
+        "range": [
+          10,
+          11
+        ],
+        "articleRefs": [
+          "6",
+          "9"
+        ]
+      },
+      {
+        "id": "tillverkning-markning",
+        "label": "Tillverkning och märkning av prövningsläkemedel",
+        "range": [
+          12,
+          14
+        ],
+        "articleRefs": [
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "kontroll-inspektion",
+        "label": "Kontroll, inspektion och personuppgifter",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "15"
+        ]
+      },
+      {
+        "id": "sakerhetsövervakning",
+        "label": "Säkerhetsövervakning och biverkningar",
+        "range": [
+          18,
+          18
+        ],
+        "articleRefs": [
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "genomforande",
+        "label": "Genomförande av direktivet",
+        "range": [
+          19,
+          19
+        ],
+        "articleRefs": [
+          "22"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        6
+      ],
+      "2": [
+        5
+      ],
+      "2.j": [
+        5
+      ],
+      "3": [
+        2
+      ],
+      "3.1": [
+        3,
+        4
+      ],
+      "3.2.a": [
+        2
+      ],
+      "3.2.c": [
+        16,
+        17
+      ],
+      "3.2.d": [
+        5
+      ],
+      "4": [
+        3
+      ],
+      "5": [
+        4
+      ],
+      "6": [
+        2,
+        10
+      ],
+      "6.3.b": [
+        2
+      ],
+      "6.3.g": [
+        3,
+        4,
+        5
+      ],
+      "7": [
+        8
+      ],
+      "9": [
+        10,
+        11
+      ],
+      "9.5": [
+        7
+      ],
+      "9.6": [
+        7
+      ],
+      "11": [
+        9
+      ],
+      "13": [
+        12
+      ],
+      "14": [
+        13,
+        14
+      ],
+      "15": [
+        15,
+        16,
+        17
+      ],
+      "16": [
+        18
+      ],
+      "17": [
+        18
+      ]
+    }
+  }
+}

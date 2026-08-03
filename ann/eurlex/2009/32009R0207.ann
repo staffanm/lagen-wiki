@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009R0207": "c3ccea612a5f7150047e91b500a870f48bee5af4b3f2eb4d37d22d82d4b72e31"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "kodifiering-syfte",
+        "label": "Kodifiering och allmänna syften",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "registrering-skydd",
+        "label": "Registrering och skyddets omfattning",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "4",
+          "6",
+          "7",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "marknad-bruk",
+        "label": "Marknadsföring och krav på bruk",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "13",
+          "15",
+          "51"
+        ]
+      },
+      {
+        "id": "formogenhetsobjekt",
+        "label": "Varumärket som förmögenhetsobjekt",
+        "range": [
+          11,
+          11
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "19",
+          "20",
+          "22"
+        ]
+      },
+      {
+        "id": "byran-organisation",
+        "label": "Byrån och dess organisation",
+        "range": [
+          12,
+          12
+        ],
+        "articleRefs": [
+          "2",
+          "115",
+          "124"
+        ]
+      },
+      {
+        "id": "overklagande-forfarande",
+        "label": "Överklagandeförfarande och rättsskydd",
+        "range": [
+          13,
+          14
+        ],
+        "articleRefs": [
+          "58",
+          "63",
+          "65"
+        ]
+      },
+      {
+        "id": "domstolsbehorighet",
+        "label": "Domstolsbehörighet och enhetlig rättsverkan",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "94",
+          "95",
+          "96",
+          "97",
+          "100"
+        ]
+      },
+      {
+        "id": "budget-genomforande",
+        "label": "Budget och genomförande",
+        "range": [
+          18,
+          19
+        ],
+        "articleRefs": [
+          "138",
+          "162"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        2,
+        3,
+        4
+      ],
+      "1.2": [
+        3
+      ],
+      "2": [
+        12
+      ],
+      "4": [
+        7,
+        8
+      ],
+      "6": [
+        7
+      ],
+      "7": [
+        7,
+        8
+      ],
+      "7.1.b": [
+        7
+      ],
+      "8": [
+        7,
+        8
+      ],
+      "8.1.b": [
+        8
+      ],
+      "9": [
+        8
+      ],
+      "13": [
+        9
+      ],
+      "15": [
+        10
+      ],
+      "16": [
+        11
+      ],
+      "17": [
+        11
+      ],
+      "22": [
+        11
+      ],
+      "51": [
+        10
+      ],
+      "58": [
+        13
+      ],
+      "65": [
+        13,
+        14
+      ],
+      "95": [
+        15
+      ],
+      "96": [
+        16
+      ],
+      "97": [
+        16,
+        17
+      ],
+      "100": [
+        16
+      ],
+      "115": [
+        12
+      ],
+      "138": [
+        18
+      ],
+      "162": [
+        19
+      ]
+    }
+  }
+}

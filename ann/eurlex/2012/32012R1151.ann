@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32012R1151": "5517ff7699bda58375d347d721df67e207e8b389248751a23971d3bebce1b146"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-och-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "rättslig-ram-och-sammanslagning",
+        "label": "Rättslig ram och sammanslagning",
+        "range": [
+          6,
+          14
+        ],
+        "articleRefs": [
+          "1",
+          "58"
+        ]
+      },
+      {
+        "id": "tillämpningsområde",
+        "label": "Tillämpningsområde",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "pdo-pgi-mal-och-immateriella-rätter",
+        "label": "Skyddade ursprungsbeteckningar och geografiska beteckningar: mål och immateriella rättigheter",
+        "range": [
+          18,
+          21
+        ],
+        "articleRefs": [
+          "4",
+          "11",
+          "13"
+        ]
+      },
+      {
+        "id": "pdo-pgi-definitioner-och-registrering",
+        "label": "Skyddade ursprungsbeteckningar och geografiska beteckningar: definitioner och registrering",
+        "range": [
+          22,
+          27
+        ],
+        "articleRefs": [
+          "5",
+          "7",
+          "11"
+        ]
+      },
+      {
+        "id": "pdo-pgi-märkning-och-skydd",
+        "label": "Skyddade ursprungsbeteckningar och geografiska beteckningar: märkning och skydd",
+        "range": [
+          28,
+          33
+        ],
+        "articleRefs": [
+          "12",
+          "13",
+          "14",
+          "16"
+        ]
+      },
+      {
+        "id": "gts-mal-och-kriterier",
+        "label": "Garanterade traditionella specialiteter: mål och kriterier",
+        "range": [
+          34,
+          37
+        ],
+        "articleRefs": [
+          "17",
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "gts-registrering-och-användning",
+        "label": "Garanterade traditionella specialiteter: registrering och användning",
+        "range": [
+          38,
+          43
+        ],
+        "articleRefs": [
+          "20",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "frivilliga-kvalitetsbegrepp",
+        "label": "Frivilliga kvalitetsbegrepp",
+        "range": [
+          44,
+          45
+        ],
+        "articleRefs": [
+          "27",
+          "29",
+          "31"
+        ]
+      },
+      {
+        "id": "kontroll-och-certifiering",
+        "label": "Kontroll- och certifieringssystem",
+        "range": [
+          46,
+          51
+        ],
+        "articleRefs": [
+          "35",
+          "36",
+          "37",
+          "39"
+        ]
+      },
+      {
+        "id": "generiska-termer-och-konflikter",
+        "label": "Generiska termer och konflikter med immateriella rättigheter",
+        "range": [
+          52,
+          56
+        ],
+        "articleRefs": [
+          "6",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "id": "gruppers-roll",
+        "label": "Gruppers roll",
+        "range": [
+          57,
+          57
+        ],
+        "articleRefs": [
+          "3",
+          "45"
+        ]
+      },
+      {
+        "id": "ansökan-och-registreringsförfarande",
+        "label": "Ansöknings- och registreringsförfaranden",
+        "range": [
+          58,
+          62
+        ],
+        "articleRefs": [
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54"
+        ]
+      },
+      {
+        "id": "förfarandebestämmelser",
+        "label": "Förfarandebestämmelser",
+        "range": [
+          63,
+          65
+        ],
+        "articleRefs": [
+          "56",
+          "57"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "2": [
+        15,
+        16,
+        17
+      ],
+      "3.2": [
+        57
+      ],
+      "3.3": [
+        36
+      ],
+      "3.6": [
+        52
+      ],
+      "4": [
+        18,
+        20
+      ],
+      "5": [
+        17,
+        22,
+        23
+      ],
+      "5.4": [
+        63
+      ],
+      "6": [
+        25,
+        53,
+        54,
+        55
+      ],
+      "7": [
+        23,
+        63
+      ],
+      "8": [
+        63
+      ],
+      "9": [
+        24
+      ],
+      "10": [
+        25
+      ],
+      "11": [
+        19,
+        20,
+        27
+      ],
+      "12": [
+        26,
+        28
+      ],
+      "12.7": [
+        63
+      ],
+      "13": [
+        29,
+        31,
+        32
+      ],
+      "14": [
+        31,
+        53,
+        54
+      ],
+      "15": [
+        30
+      ],
+      "16": [
+        33
+      ],
+      "17": [
+        34
+      ],
+      "18": [
+        36
+      ],
+      "19": [
+        37
+      ],
+      "20": [
+        38
+      ],
+      "21": [
+        25
+      ],
+      "22": [
+        38
+      ],
+      "23": [
+        39
+      ],
+      "24": [
+        40
+      ],
+      "25": [
+        41
+      ],
+      "26": [
+        42
+      ],
+      "27": [
+        44
+      ],
+      "29": [
+        44
+      ],
+      "31": [
+        45
+      ],
+      "35": [
+        46
+      ],
+      "36": [
+        46,
+        48
+      ],
+      "37": [
+        46,
+        47
+      ],
+      "39": [
+        49
+      ],
+      "41": [
+        52
+      ],
+      "42": [
+        53,
+        55
+      ],
+      "43": [
+        56
+      ],
+      "44": [
+        60
+      ],
+      "45": [
+        57
+      ],
+      "47": [
+        51
+      ],
+      "48": [
+        58
+      ],
+      "49": [
+        58,
+        61
+      ],
+      "50": [
+        61
+      ],
+      "51": [
+        25,
+        61
+      ],
+      "52": [
+        61
+      ],
+      "53": [
+        61
+      ],
+      "54": [
+        61
+      ],
+      "56": [
+        63
+      ],
+      "57": [
+        64
+      ],
+      "58": [
+        14
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:remisser/sou/2023:45/kungsbacka-kommun": "366218a0337ed64778d3accd740307e74accb4e31c8aecd02b99a7af397d26fc",
+      "artifact:forarbete/sou/2023-45": "2656d53642f7622cd8d0506880eaa07bd2157c6f69d7ae787bf078d29bf3ac66"
+    }
+  },
+  "overall": {
+    "sentiment": 0.6,
+    "quote": "Kungsbacka kommun anser att de författningsförslag som utredningen lämnar, i huvudsak är bra"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": -0.4,
+      "quote": "Kungsbacka kommun delar utredarens bedömning om att det är en komplex fråga, men menar att det vore olyckligt om frågan inte utreds närmare."
+    },
+    {
+      "forarbete_id": "a10.6",
+      "sentiment": 1.0,
+      "quote": "Kungsbacka kommun delar utredarens bedömning om att arbetsgivaren bör avgöra vilka befattningar som ska omfattas av regleringen."
+    },
+    {
+      "forarbete_id": "a10.9",
+      "sentiment": -0.8,
+      "quote": "Förslaget riskerar dock att få negativa konsekvenser och motverka sitt syfte."
+    }
+  ]
+}

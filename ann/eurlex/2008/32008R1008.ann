@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32008R1008": "d1002100c96c771f8ddcfd2dfedb8030b43d9d90acd4b5aa317e433e98c00860"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1",
+          "27"
+        ]
+      },
+      {
+        "id": "finansiell-tillsyn-licens",
+        "label": "Finansiell tillsyn och operativ licens",
+        "range": [
+          3,
+          6
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "forsakringskrav",
+        "label": "Försäkringskrav",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "leasing-luftfartyg",
+        "label": "Leasing av luftfartyg",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "sociallagstiftning",
+        "label": "Sociallagstiftning och anställda",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "inre-luftfartsmarknad",
+        "label": "Den inre luftfartsmarknaden",
+        "range": [
+          10,
+          10
+        ],
+        "articleRefs": [
+          "15",
+          "22"
+        ]
+      },
+      {
+        "id": "allman-trafikplikt",
+        "label": "Allmän trafikplikt",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "trafikfordelning",
+        "label": "Trafikfördelning mellan flygplatser",
+        "range": [
+          13,
+          13
+        ],
+        "articleRefs": [
+          "19"
+        ]
+      },
+      {
+        "id": "nodatgader",
+        "label": "Nödåtgärder",
+        "range": [
+          14,
+          14
+        ],
+        "articleRefs": [
+          "21"
+        ]
+      },
+      {
+        "id": "prissattning-konsument",
+        "label": "Prissättning och konsumentinformation",
+        "range": [
+          15,
+          16
+        ],
+        "articleRefs": [
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "genomfordande",
+        "label": "Genomförande och förfaranden",
+        "range": [
+          17,
+          17
+        ],
+        "articleRefs": [
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "subsidiaritet-proportionalitet",
+        "label": "Subsidiaritet och proportionalitet",
+        "range": [
+          18,
+          18
+        ],
+        "articleRefs": []
+      },
+      {
+        "id": "gibraltar",
+        "label": "Särskilda bestämmelser om Gibraltar",
+        "range": [
+          19,
+          19
+        ],
+        "articleRefs": [
+          "1.2"
+        ]
+      },
+      {
+        "id": "upphavande",
+        "label": "Upphävande av tidigare förordningar",
+        "range": [
+          20,
+          20
+        ],
+        "articleRefs": [
+          "27"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2
+      ],
+      "1.2": [
+        19
+      ],
+      "3": [
+        3,
+        4,
+        5,
+        6,
+        9
+      ],
+      "4": [
+        3,
+        4,
+        5
+      ],
+      "4.f": [
+        4
+      ],
+      "5": [
+        3,
+        5
+      ],
+      "8": [
+        3,
+        5
+      ],
+      "8.4": [
+        5
+      ],
+      "9": [
+        6
+      ],
+      "11": [
+        7
+      ],
+      "13": [
+        8
+      ],
+      "13.3": [
+        8
+      ],
+      "15": [
+        10
+      ],
+      "15.4": [
+        10
+      ],
+      "15.5": [
+        10
+      ],
+      "16": [
+        11,
+        12
+      ],
+      "16.1": [
+        11,
+        12
+      ],
+      "17": [
+        12
+      ],
+      "18": [
+        12
+      ],
+      "19": [
+        13
+      ],
+      "21": [
+        14
+      ],
+      "22": [
+        10,
+        15
+      ],
+      "23": [
+        15,
+        16
+      ],
+      "25": [
+        17
+      ],
+      "26": [
+        17
+      ],
+      "27": [
+        1,
+        20
+      ]
+    }
+  }
+}

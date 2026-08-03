@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32008R0765": "605628e34f7f61463e15e87015dd80ea4d685b1637ea14fb4f18ab58d30a0420"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "konsumentsakerhet",
+        "label": "Konsumentsäkerhet och direktiv 2001/95/EG",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "42"
+        ]
+      },
+      {
+        "id": "ackreditering-grundprinciper",
+        "label": "Ackrediteringens grunder och principer",
+        "range": [
+          8,
+          13
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "nationella-ackrediteringsorgan-org",
+        "label": "Nationella ackrediteringsorganens organisation",
+        "range": [
+          14,
+          17
+        ],
+        "articleRefs": [
+          "4",
+          "8"
+        ]
+      },
+      {
+        "id": "overvakning-gransoverskridande",
+        "label": "Övervakning och gränsöverskridande ackreditering",
+        "range": [
+          18,
+          22
+        ],
+        "articleRefs": [
+          "4",
+          "6",
+          "7",
+          "9",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "europeisk-ackrediteringsinfrastruktur",
+        "label": "Europeisk ackrediteringsinfrastruktur och EA",
+        "range": [
+          23,
+          25
+        ],
+        "articleRefs": [
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "ram-marknadskontroll",
+        "label": "Gemenskapens ram för marknadskontroll",
+        "range": [
+          26,
+          29
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "riskhantering-informationsutbyte",
+        "label": "Riskbedömning och informationsutbyte",
+        "range": [
+          30,
+          32
+        ],
+        "articleRefs": [
+          "20",
+          "21",
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "granskontroll-tredjelander",
+        "label": "Kontroll av produkter från tredjeländer",
+        "range": [
+          33,
+          35
+        ],
+        "articleRefs": [
+          "27",
+          "28",
+          "29"
+        ]
+      },
+      {
+        "id": "ce-markning",
+        "label": "Allmänna principer för CE-märkning",
+        "range": [
+          36,
+          38
+        ],
+        "articleRefs": [
+          "30"
+        ]
+      },
+      {
+        "id": "rattskydd-sanktioner",
+        "label": "Rättsmedel och sanktioner",
+        "range": [
+          39,
+          41
+        ],
+        "articleRefs": [
+          "5.5",
+          "41"
+        ]
+      },
+      {
+        "id": "gemenskapsfinansiering",
+        "label": "Gemenskapsfinansiering",
+        "range": [
+          42,
+          46
+        ],
+        "articleRefs": [
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "rettsliga-principer",
+        "label": "Rättsliga principer",
+        "range": [
+          47,
+          48
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        48
+      ],
+      "3": [
+        8
+      ],
+      "4": [
+        10,
+        11,
+        14,
+        15,
+        18,
+        19,
+        20
+      ],
+      "4.1": [
+        15
+      ],
+      "4.7": [
+        14
+      ],
+      "4.8": [
+        15
+      ],
+      "5": [
+        12,
+        13,
+        16
+      ],
+      "5.3": [
+        16
+      ],
+      "5.4": [
+        16
+      ],
+      "5.5": [
+        39
+      ],
+      "6": [
+        19
+      ],
+      "7": [
+        20
+      ],
+      "8": [
+        15,
+        16,
+        21,
+        22
+      ],
+      "9": [
+        21
+      ],
+      "10": [
+        22
+      ],
+      "11": [
+        22
+      ],
+      "12": [
+        24
+      ],
+      "13": [
+        25
+      ],
+      "14": [
+        23
+      ],
+      "15": [
+        5,
+        6,
+        7,
+        26
+      ],
+      "16": [
+        26
+      ],
+      "18": [
+        26,
+        28
+      ],
+      "19": [
+        27,
+        28,
+        31
+      ],
+      "19.1": [
+        27
+      ],
+      "19.5": [
+        31
+      ],
+      "20": [
+        29,
+        30
+      ],
+      "21": [
+        30
+      ],
+      "22": [
+        30
+      ],
+      "23": [
+        30
+      ],
+      "24": [
+        28
+      ],
+      "25": [
+        28
+      ],
+      "26": [
+        28
+      ],
+      "27": [
+        33,
+        34
+      ],
+      "28": [
+        34
+      ],
+      "29": [
+        34,
+        35
+      ],
+      "30": [
+        37,
+        38
+      ],
+      "31": [
+        42
+      ],
+      "32": [
+        43,
+        46
+      ],
+      "33": [
+        42,
+        46
+      ],
+      "34": [
+        42
+      ],
+      "35": [
+        45
+      ],
+      "36": [
+        42
+      ],
+      "37": [
+        42
+      ],
+      "41": [
+        41
+      ]
+    }
+  }
+}

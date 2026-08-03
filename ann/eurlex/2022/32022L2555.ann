@@ -1,0 +1,430 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32022L2555": "f185aa8ec821cdf29c3f349ed88dff3c279354cf1084334588328479fa93d65a"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-entiteter",
+        "label": "Tillämpningsområde och entiteter",
+        "range": [
+          6,
+          17
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "identifiering-registrering",
+        "label": "Identifiering och registrering",
+        "range": [
+          18,
+          21
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "sektorsspecifika-akter",
+        "label": "Sektorsspecifika unionsrättsakter",
+        "range": [
+          22,
+          29
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "infrastruktur-tjanser",
+        "label": "Särskilda tjänster och infrastruktur",
+        "range": [
+          30,
+          37
+        ],
+        "articleRefs": [
+          "2",
+          "6"
+        ]
+      },
+      {
+        "id": "myndigheter-csirts",
+        "label": "Behöriga myndigheter och CSIRT-enheter",
+        "range": [
+          38,
+          47
+        ],
+        "articleRefs": [
+          "8",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "nationella-strategier",
+        "label": "Nationella strategier och cyberhygien",
+        "range": [
+          48,
+          57
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "sarbarhetshantering",
+        "label": "Hantering av sårbarheter",
+        "range": [
+          58,
+          63
+        ],
+        "articleRefs": [
+          "7",
+          "12"
+        ]
+      },
+      {
+        "id": "eu-samarbete",
+        "label": "Samarbete på EU-nivå",
+        "range": [
+          64,
+          76
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "16",
+          "17",
+          "19"
+        ]
+      },
+      {
+        "id": "krishantering",
+        "label": "Krishantering och storskaliga incidenter",
+        "range": [
+          68,
+          72
+        ],
+        "articleRefs": [
+          "9"
+        ]
+      },
+      {
+        "id": "riskhantering",
+        "label": "Riskhanteringsåtgärder",
+        "range": [
+          77,
+          91
+        ],
+        "articleRefs": [
+          "21"
+        ]
+      },
+      {
+        "id": "specifika-tjansteleverantorer",
+        "label": "Särskilda tjänsteleverantörer",
+        "range": [
+          92,
+          112
+        ],
+        "articleRefs": [
+          "2",
+          "28"
+        ]
+      },
+      {
+        "id": "jurisdiktion-etablering",
+        "label": "Jurisdiktion och etablering",
+        "range": [
+          113,
+          118
+        ],
+        "articleRefs": [
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "informationsutbyte",
+        "label": "Informationsutbyte",
+        "range": [
+          119,
+          121
+        ],
+        "articleRefs": [
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "tillsyn-efterlevnad",
+        "label": "Tillsyn och efterlevnadskontroll",
+        "range": [
+          122,
+          136
+        ],
+        "articleRefs": [
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "styrning-slutbestammelser",
+        "label": "Styrning och slutbestämmelser",
+        "range": [
+          137,
+          144
+        ],
+        "articleRefs": [
+          "20",
+          "38",
+          "39",
+          "40",
+          "41"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "2": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "2.7": [
+        8
+      ],
+      "2.8": [
+        9
+      ],
+      "3": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "3.3": [
+        18
+      ],
+      "3.4": [
+        18
+      ],
+      "4": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "6": [
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "7": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "8": [
+        38,
+        39,
+        40
+      ],
+      "9": [
+        68,
+        69,
+        70,
+        71
+      ],
+      "10": [
+        41
+      ],
+      "11": [
+        42,
+        43,
+        44
+      ],
+      "11.3.e": [
+        43
+      ],
+      "12": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "14": [
+        64,
+        65,
+        66
+      ],
+      "15": [
+        47
+      ],
+      "16": [
+        68,
+        69,
+        70,
+        71
+      ],
+      "17": [
+        73,
+        74
+      ],
+      "19": [
+        75,
+        76
+      ],
+      "20": [
+        137
+      ],
+      "21": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        85,
+        86,
+        88,
+        89,
+        90,
+        91
+      ],
+      "21.2.d": [
+        85
+      ],
+      "23": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107
+      ],
+      "23.4": [
+        102
+      ],
+      "26": [
+        113,
+        114,
+        115,
+        116
+      ],
+      "27": [
+        117
+      ],
+      "28": [
+        109,
+        110,
+        111,
+        112
+      ],
+      "29": [
+        119,
+        120,
+        121
+      ],
+      "30": [
+        119,
+        120,
+        121
+      ],
+      "31": [
+        122
+      ],
+      "32": [
+        122,
+        123,
+        124,
+        125,
+        126
+      ],
+      "33": [
+        122
+      ],
+      "34": [
+        127,
+        129,
+        130
+      ],
+      "35": [
+        136
+      ],
+      "36": [
+        131,
+        132
+      ],
+      "37": [
+        134,
+        135
+      ]
+    }
+  }
+}

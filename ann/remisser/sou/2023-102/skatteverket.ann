@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/skatteverket": "584be3bdccc8905b162ca41f2e30d3960dd2dea97a35d7ec926c94b4470e2ddf",
+      "artifact:forarbete/sou/2023-102": "5cb0365885de555d43abe4d35b37a8f2abb2e4f2665af21d7cbd4cbdf7f5ac75"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Skatteverket har inga invändningar mot att förslagen genomförs."
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": 0.0,
+      "quote": "Då den befintliga definitionen utökas bör det inte ske genom ett eget (andra) stycke."
+    },
+    {
+      "forarbete_id": "sec160",
+      "sentiment": -0.2,
+      "quote": "Om detta i framtiden ska komma att ombesörjas av ytterligare aktörer bör de åläggas en skyldighet att meddela Skatteverket vilka medgivande för förvaltarregistrering som de lämnat."
+    },
+    {
+      "forarbete_id": "a1.12",
+      "sentiment": -0.3,
+      "quote": "Det är för Skatteverket inte tydligt att det tillägg som gjorts i 1 kap. 10 a § ABL avseende värdepapperscentral också får genomslag i Aktiebolagsförordningen."
+    },
+    {
+      "forarbete_id": "a1.15",
+      "sentiment": -0.3,
+      "quote": "Det bör säkerställas att begreppet värdepapperscentral i SFF omfattar DLT operatörer."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32014R0909": "6f6c26f6c2654f1dfc45c94b13e80f10adf3a0bccfcef6526755974630a92abe"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "internationella-standarder-tillsyn",
+        "label": "Internationella standarder och tillsynssamarbete",
+        "range": [
+          6,
+          10
+        ],
+        "articleRefs": [
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "kontobaserad-form-avvecklingsperioder",
+        "label": "Kontobaserad form och avvecklingsperioder",
+        "range": [
+          11,
+          13
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "avvecklingsdisciplin-utebliven-avveckling",
+        "label": "Avvecklingsdisciplin och hantering av utebliven avveckling",
+        "range": [
+          14,
+          19
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "auktorisation-tillsyn-granskat",
+        "label": "Auktorisation och tillsyn av värdepapperscentraler",
+        "range": [
+          20,
+          25
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "villkor-auktorisation-definitioner",
+        "label": "Definitioner och villkor för auktorisation",
+        "range": [
+          26,
+          34
+        ],
+        "articleRefs": [
+          "2",
+          "16",
+          "18",
+          "19",
+          "25"
+        ]
+      },
+      {
+        "id": "styrning-organisatoriska-krav",
+        "label": "Styrning och organisatoriska krav",
+        "range": [
+          35,
+          39
+        ],
+        "articleRefs": [
+          "26",
+          "27",
+          "28",
+          "30"
+        ]
+      },
+      {
+        "id": "uppforanderegler-transparens",
+        "label": "Uppföranderegler och transparens",
+        "range": [
+          40,
+          42
+        ],
+        "articleRefs": [
+          "32",
+          "33",
+          "34",
+          "35",
+          "38"
+        ]
+      },
+      {
+        "id": "avvecklingsslutgiltighet-kontanter",
+        "label": "Avvecklingens slutgiltighet och kontantavveckling",
+        "range": [
+          43,
+          46
+        ],
+        "articleRefs": [
+          "39",
+          "40"
+        ]
+      },
+      {
+        "id": "banktjanster-stabilitetskrav",
+        "label": "Banktjänster och finansiella stabilitetskrav",
+        "range": [
+          47,
+          52
+        ],
+        "articleRefs": [
+          "54",
+          "59",
+          "60"
+        ]
+      },
+      {
+        "id": "allmanna-stabilitetskrav-lankar",
+        "label": "Allmänna stabilitetskrav och länkar",
+        "range": [
+          53,
+          55
+        ],
+        "articleRefs": [
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47",
+          "48"
+        ]
+      },
+      {
+        "id": "tilltrade-emittentval",
+        "label": "Tillträde och emittenters val",
+        "range": [
+          56,
+          60
+        ],
+        "articleRefs": [
+          "49",
+          "50",
+          "51",
+          "52",
+          "53"
+        ]
+      },
+      {
+        "id": "sanktioner-efterlevnad",
+        "label": "Sanktioner och efterlevnad",
+        "range": [
+          61,
+          67
+        ],
+        "articleRefs": [
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66"
+        ]
+      },
+      {
+        "id": "esma-tekniska-standarder",
+        "label": "ESMAs roll och tekniska standarder",
+        "range": [
+          68,
+          75
+        ],
+        "articleRefs": [
+          "74",
+          "75"
+        ]
+      },
+      {
+        "id": "overgangs-slutbestammelser",
+        "label": "Övergångsbestämmelser och slutbestämmelser",
+        "range": [
+          76,
+          81
+        ],
+        "articleRefs": [
+          "69",
+          "76"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        10
+      ],
+      "2": [
+        26
+      ],
+      "3": [
+        11
+      ],
+      "4": [
+        11
+      ],
+      "5": [
+        12,
+        13
+      ],
+      "5.2": [
+        13
+      ],
+      "6": [
+        14
+      ],
+      "7": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "7.3": [
+        17
+      ],
+      "7.4": [
+        17,
+        18
+      ],
+      "7.9": [
+        14
+      ],
+      "8": [
+        16
+      ],
+      "9": [
+        28
+      ],
+      "10": [
+        22
+      ],
+      "11": [
+        22
+      ],
+      "12": [
+        8,
+        22
+      ],
+      "13": [
+        23
+      ],
+      "14": [
+        24
+      ],
+      "15": [
+        22
+      ],
+      "16": [
+        20,
+        26
+      ],
+      "17": [
+        26
+      ],
+      "18": [
+        29
+      ],
+      "19": [
+        32,
+        33
+      ],
+      "20": [
+        20
+      ],
+      "22": [
+        27
+      ],
+      "23": [
+        21
+      ],
+      "24": [
+        22,
+        23,
+        24
+      ],
+      "25": [
+        34
+      ],
+      "26": [
+        35
+      ],
+      "27": [
+        35,
+        36
+      ],
+      "28": [
+        37
+      ],
+      "29": [
+        55
+      ],
+      "30": [
+        38,
+        39
+      ],
+      "33": [
+        40
+      ],
+      "34": [
+        40
+      ],
+      "35": [
+        41
+      ],
+      "37": [
+        36
+      ],
+      "38": [
+        42
+      ],
+      "39": [
+        43
+      ],
+      "40": [
+        44
+      ],
+      "41": [
+        20
+      ],
+      "42": [
+        53
+      ],
+      "43": [
+        43
+      ],
+      "44": [
+        44
+      ],
+      "45": [
+        45
+      ],
+      "46": [
+        46
+      ],
+      "47": [
+        53
+      ],
+      "48": [
+        54
+      ],
+      "49": [
+        56
+      ],
+      "50": [
+        58
+      ],
+      "51": [
+        58
+      ],
+      "52": [
+        58
+      ],
+      "53": [
+        59
+      ],
+      "54": [
+        45,
+        46,
+        49
+      ],
+      "59": [
+        47,
+        49,
+        51
+      ],
+      "60": [
+        51,
+        52
+      ],
+      "61": [
+        61,
+        62
+      ],
+      "63": [
+        63
+      ],
+      "65": [
+        64
+      ],
+      "66": [
+        64
+      ]
+    }
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R1689": "089ab56bf3bb0198eb11ba1dec7acf4fbb592e2c2b3520d619df0b444ed96d4f"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "purpose-values",
+        "label": "Syfte och grundläggande värden",
+        "range": [
+          1,
+          8
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "legal-framework-relations",
+        "label": "Rättslig ram och förhållande till annan lagstiftning",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "definitions-biometrics",
+        "label": "Definitioner och biometri",
+        "range": [
+          12,
+          19
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "ai-literacy-scope",
+        "label": "AI-kunnighet och tillämpningsområde",
+        "range": [
+          20,
+          25
+        ],
+        "articleRefs": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "id": "risk-approach-ethics",
+        "label": "Riskbaserat tillvägagångssätt och etik",
+        "range": [
+          26,
+          27
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "prohibited-practices",
+        "label": "Förbjudna AI-användningsområden",
+        "range": [
+          28,
+          45
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "high-risk-classification",
+        "label": "Klassificering av AI-system med hög risk",
+        "range": [
+          46,
+          63
+        ],
+        "articleRefs": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "high-risk-requirements",
+        "label": "Krav för AI-system med hög risk",
+        "range": [
+          64,
+          80
+        ],
+        "articleRefs": [
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "provider-deployer-obligations",
+        "label": "Skyldigheter för leverantörer och tillhandahållare",
+        "range": [
+          81,
+          96
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "conformity-assessment",
+        "label": "Bedömning av överensstämmelse och registrering",
+        "range": [
+          123,
+          131
+        ],
+        "articleRefs": [
+          "43",
+          "44",
+          "45",
+          "46",
+          "47",
+          "48",
+          "49"
+        ]
+      },
+      {
+        "id": "transparency-generative-ai",
+        "label": "Transparens och generativ AI",
+        "range": [
+          132,
+          137
+        ],
+        "articleRefs": [
+          "50"
+        ]
+      },
+      {
+        "id": "innovation-sandboxes",
+        "label": "Innovation och regulatoriska sandlådor",
+        "range": [
+          138,
+          147
+        ],
+        "articleRefs": [
+          "57",
+          "58",
+          "59",
+          "60",
+          "62",
+          "63"
+        ]
+      },
+      {
+        "id": "governance-structures",
+        "label": "Styrning och tillsyn",
+        "range": [
+          148,
+          164
+        ],
+        "articleRefs": [
+          "64",
+          "65",
+          "66",
+          "67",
+          "68",
+          "69",
+          "70"
+        ]
+      },
+      {
+        "id": "general-purpose-ai",
+        "label": "AI-modeller för allmänna ändamål",
+        "range": [
+          97,
+          119
+        ],
+        "articleRefs": [
+          "51",
+          "52",
+          "53",
+          "54",
+          "55",
+          "56"
+        ]
+      },
+      {
+        "id": "market-surveillance-remedies",
+        "label": "Marknadskontroll och rättsmedel",
+        "range": [
+          155,
+          172
+        ],
+        "articleRefs": [
+          "71",
+          "72",
+          "73",
+          "74",
+          "75",
+          "76",
+          "77",
+          "79",
+          "80",
+          "81",
+          "82",
+          "83",
+          "85",
+          "86",
+          "87"
+        ]
+      },
+      {
+        "id": "final-provisions",
+        "label": "Slutbestämmelser och sanktioner",
+        "range": [
+          168,
+          180
+        ],
+        "articleRefs": [
+          "99",
+          "100",
+          "101",
+          "111",
+          "112",
+          "113"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        8
+      ],
+      "2": [
+        3,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "3": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "4": [
+        20
+      ],
+      "5": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        42,
+        43,
+        44
+      ],
+      "5.1.a": [
+        29
+      ],
+      "5.1.c": [
+        31
+      ],
+      "5.1.d": [
+        42
+      ],
+      "5.1.e": [
+        43
+      ],
+      "5.1.f": [
+        44
+      ],
+      "5.1.g": [
+        30
+      ],
+      "5.1.h": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "6": [
+        46,
+        50,
+        52,
+        53,
+        54
+      ],
+      "6.2": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "6.3": [
+        53
+      ],
+      "7": [
+        52
+      ],
+      "8": [
+        64
+      ],
+      "9": [
+        65
+      ],
+      "10": [
+        67,
+        69,
+        70
+      ],
+      "11": [
+        71
+      ],
+      "12": [
+        71
+      ],
+      "13": [
+        72
+      ],
+      "14": [
+        73
+      ],
+      "15": [
+        74,
+        75,
+        76,
+        77
+      ],
+      "16": [
+        79,
+        81,
+        83,
+        84
+      ],
+      "17": [
+        81,
+        146
+      ],
+      "18": [
+        71
+      ],
+      "19": [
+        71
+      ],
+      "20": [
+        155
+      ],
+      "22": [
+        82
+      ],
+      "23": [
+        83
+      ],
+      "24": [
+        83
+      ],
+      "25": [
+        84,
+        88
+      ],
+      "26": [
+        91,
+        92,
+        93
+      ],
+      "27": [
+        96
+      ],
+      "43": [
+        123,
+        125
+      ],
+      "47": [
+        129
+      ],
+      "48": [
+        129
+      ],
+      "49": [
+        131
+      ],
+      "50": [
+        132,
+        133,
+        134,
+        136
+      ],
+      "51": [
+        111
+      ],
+      "53": [
+        101,
+        104,
+        106,
+        107
+      ],
+      "54": [
+        82
+      ],
+      "55": [
+        114,
+        115
+      ],
+      "56": [
+        116,
+        117
+      ],
+      "57": [
+        138,
+        139
+      ],
+      "60": [
+        141
+      ],
+      "62": [
+        143
+      ],
+      "63": [
+        146
+      ],
+      "71": [
+        131
+      ],
+      "72": [
+        155
+      ],
+      "73": [
+        155
+      ],
+      "74": [
+        160
+      ],
+      "79": [
+        157
+      ],
+      "80": [
+        157
+      ],
+      "85": [
+        170
+      ],
+      "86": [
+        171
+      ],
+      "87": [
+        172
+      ],
+      "99": [
+        168
+      ],
+      "101": [
+        169
+      ],
+      "111": [
+        177
+      ],
+      "112": [
+        174
+      ],
+      "113": [
+        179
+      ]
+    }
+  }
+}

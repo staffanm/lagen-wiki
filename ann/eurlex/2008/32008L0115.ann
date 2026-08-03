@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32008L0115": "b0a9701d7389f0183320ff27e191d5a9d2a56c61e9103e1d81c0a843de287df6"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-och-strategi",
+        "label": "Bakgrund och strategi",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "allmanna-principer",
+        "label": "Allmänna principer och rättvisa förfaranden",
+        "range": [
+          5,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "6"
+        ]
+      },
+      {
+        "id": "asyl-och-frivilligt-atervandande",
+        "label": "Asyl och frivilligt återvändande",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "rettsakerhetsgarantier",
+        "label": "Rättssäkerhetsgarantier och rättshjälp",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "12",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "patvunget-atervandande",
+        "label": "Påtvingat återvändande och proportionalitet",
+        "range": [
+          13,
+          13
+        ],
+        "articleRefs": [
+          "8"
+        ]
+      },
+      {
+        "id": "inreseforbud",
+        "label": "Inreseförbud",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "forvar-och-grundrattigheter",
+        "label": "Förvar och grundläggande rättigheter",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "samarbete-och-information",
+        "label": "Samarbete och informationsutbyte",
+        "range": [
+          18,
+          19
+        ],
+        "articleRefs": [
+          "11",
+          "18"
+        ]
+      },
+      {
+        "id": "institutionellt-ramverk",
+        "label": "Institutionellt ramverk och diskriminering",
+        "range": [
+          20,
+          24
+        ],
+        "articleRefs": [
+          "1",
+          "5"
+        ]
+      },
+      {
+        "id": "medlemsstats-specifikt",
+        "label": "Särskilda bestämmelser för vissa stater",
+        "range": [
+          25,
+          30
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        4,
+        5,
+        20
+      ],
+      "2": [
+        5,
+        8,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "3": [
+        5
+      ],
+      "5": [
+        22,
+        23,
+        24
+      ],
+      "6": [
+        6,
+        9
+      ],
+      "7": [
+        10
+      ],
+      "8": [
+        13
+      ],
+      "8.4": [
+        13
+      ],
+      "9": [
+        12
+      ],
+      "10": [
+        22
+      ],
+      "11": [
+        14,
+        18
+      ],
+      "12": [
+        6,
+        11
+      ],
+      "13": [
+        11,
+        15
+      ],
+      "13.4": [
+        11
+      ],
+      "14": [
+        11,
+        12,
+        22
+      ],
+      "14.1.b": [
+        12
+      ],
+      "15": [
+        16
+      ],
+      "15.1": [
+        16
+      ],
+      "16": [
+        16,
+        17
+      ],
+      "17": [
+        17,
+        22
+      ],
+      "18": [
+        16,
+        17
+      ],
+      "20": [
+        20
+      ]
+    }
+  }
+}

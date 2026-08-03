@@ -1,0 +1,308 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32016R1036": "0254f43a22eabf744337bb6c1d7aadbf8333b3da9a0083ba80e62ee9e292ff94"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-kodifiering",
+        "label": "Bakgrund och kodifiering",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "berakning-dumpning",
+        "label": "Beräkning av dumpning",
+        "range": [
+          5,
+          8
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "faststallande-skada",
+        "label": "Fastställande av skada",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "unionsindustrin",
+        "label": "Definition av unionsindustri",
+        "range": [
+          10,
+          10
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "inledande-forfarande",
+        "label": "Inledande av förfarande",
+        "range": [
+          11,
+          11
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "undersoknings-forfarande",
+        "label": "Undersökningsförfarande och rättigheter",
+        "range": [
+          12,
+          12
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "provisoriska-atgarder",
+        "label": "Provisoriska åtgärder",
+        "range": [
+          13,
+          13
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "ataganden",
+        "label": "Åtaganden",
+        "range": [
+          14,
+          14
+        ],
+        "articleRefs": [
+          "8"
+        ]
+      },
+      {
+        "id": "avslutande-slutgiltiga-tullar",
+        "label": "Avslutande och slutgiltiga tullar",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "varaktighet-oversyn",
+        "label": "Varaktighet, översyn och absorption",
+        "range": [
+          18,
+          19
+        ],
+        "articleRefs": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "kringgande",
+        "label": "Kringgående av åtgärder",
+        "range": [
+          20,
+          21
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "allmna-bestammelser-overvakning",
+        "label": "Allmänna bestämmelser och övervakning",
+        "range": [
+          22,
+          24
+        ],
+        "articleRefs": [
+          "14"
+        ]
+      },
+      {
+        "id": "kontroll-stickprov-samarbete",
+        "label": "Kontroll, stickprov och samarbete",
+        "range": [
+          25,
+          27
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "sekretess-utlamnande",
+        "label": "Sekretess, utlämnande och unionens intresse",
+        "range": [
+          28,
+          30
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21"
+        ]
+      },
+      {
+        "id": "kommitte-forfarande",
+        "label": "Kommittéförfarande",
+        "range": [
+          31,
+          32
+        ],
+        "articleRefs": [
+          "15"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        2,
+        3,
+        4
+      ],
+      "2": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "3": [
+        9
+      ],
+      "3.1": [
+        9
+      ],
+      "4": [
+        10
+      ],
+      "4.1.a": [
+        10
+      ],
+      "5": [
+        11
+      ],
+      "5.1": [
+        11
+      ],
+      "5.2": [
+        11
+      ],
+      "6": [
+        12
+      ],
+      "7": [
+        13
+      ],
+      "7.1": [
+        13
+      ],
+      "8": [
+        14
+      ],
+      "8.1": [
+        14
+      ],
+      "8.9": [
+        14
+      ],
+      "9": [
+        15,
+        16
+      ],
+      "9.3": [
+        16
+      ],
+      "10": [
+        17
+      ],
+      "11": [
+        18
+      ],
+      "11.2": [
+        18
+      ],
+      "12": [
+        19
+      ],
+      "13": [
+        20,
+        21
+      ],
+      "13.1": [
+        20
+      ],
+      "13.2": [
+        21
+      ],
+      "14": [
+        22,
+        23,
+        24
+      ],
+      "14.4": [
+        22
+      ],
+      "14.5": [
+        23
+      ],
+      "14.6": [
+        24
+      ],
+      "15": [
+        31,
+        32
+      ],
+      "16": [
+        25
+      ],
+      "17": [
+        26
+      ],
+      "18": [
+        27
+      ],
+      "19": [
+        28
+      ],
+      "19.1": [
+        28
+      ],
+      "20": [
+        29
+      ],
+      "21": [
+        30
+      ],
+      "21.1": [
+        30
+      ]
+    }
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009L0125": "c92da9b547b4ad559da8e848cee72d2a7c5be27496f40c61f3ea3d0be22d25ea"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-inre-marknad",
+        "label": "Bakgrund och inre marknad",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "miljo-hallbarhet",
+        "label": "Miljö och hållbar utveckling",
+        "range": [
+          3,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "15"
+        ]
+      },
+      {
+        "id": "syfte-mal",
+        "label": "Syfte och mål",
+        "range": [
+          8,
+          11
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "livscykel-aspekter",
+        "label": "Livscykel och miljöaspekter",
+        "range": [
+          12,
+          16
+        ],
+        "articleRefs": [
+          "2",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "krav-självreglering",
+        "label": "Kravfastställande och självreglering",
+        "range": [
+          17,
+          21
+        ],
+        "articleRefs": [
+          "15",
+          "17"
+        ]
+      },
+      {
+        "id": "sme-stod",
+        "label": "Stöd till små och medelstora företag",
+        "range": [
+          22,
+          22
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "markning-overensstamning",
+        "label": "Märkning och överensstämmelse",
+        "range": [
+          23,
+          23
+        ],
+        "articleRefs": [
+          "3",
+          "5",
+          "8"
+        ]
+      },
+      {
+        "id": "samrad-samordning",
+        "label": "Samråd och samordning",
+        "range": [
+          24,
+          27
+        ],
+        "articleRefs": [
+          "12",
+          "18"
+        ]
+      },
+      {
+        "id": "tillsyn-organ",
+        "label": "Tillsyn och behöriga organ",
+        "range": [
+          28,
+          29
+        ],
+        "articleRefs": [
+          "3",
+          "7"
+        ]
+      },
+      {
+        "id": "sme-utbildning",
+        "label": "Utbildning för små och medelstora företag",
+        "range": [
+          30,
+          30
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "standardisering",
+        "label": "Standardisering",
+        "range": [
+          31,
+          34
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "kompletterande-instrument",
+        "label": "Kompletterande instrument",
+        "range": [
+          35,
+          35
+        ],
+        "articleRefs": [
+          "15"
+        ]
+      },
+      {
+        "id": "genomforande-befogenheter",
+        "label": "Genomförande och befogenheter",
+        "range": [
+          36,
+          38
+        ],
+        "articleRefs": [
+          "15",
+          "19"
+        ]
+      },
+      {
+        "id": "oversyn-sanktioner",
+        "label": "Översyn och sanktioner",
+        "range": [
+          39,
+          40
+        ],
+        "articleRefs": [
+          "20",
+          "21"
+        ]
+      },
+      {
+        "id": "juridiska-bestammelser",
+        "label": "Juridiska bestämmelser",
+        "range": [
+          41,
+          44
+        ],
+        "articleRefs": [
+          "23",
+          "24"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        8,
+        10
+      ],
+      "2": [
+        13
+      ],
+      "3": [
+        23,
+        29
+      ],
+      "3.2": [
+        23,
+        29
+      ],
+      "5": [
+        23
+      ],
+      "6": [
+        8
+      ],
+      "7": [
+        23,
+        27
+      ],
+      "8": [
+        23
+      ],
+      "9": [
+        31,
+        32
+      ],
+      "10": [
+        31,
+        32
+      ],
+      "12": [
+        27
+      ],
+      "13": [
+        22,
+        30
+      ],
+      "14": [
+        12
+      ],
+      "15": [
+        3,
+        4,
+        6,
+        7,
+        9,
+        13,
+        14,
+        15,
+        16,
+        17,
+        36,
+        38
+      ],
+      "15.2": [
+        15
+      ],
+      "16": [
+        17
+      ],
+      "17": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "18": [
+        24
+      ],
+      "19": [
+        36,
+        38
+      ],
+      "20": [
+        40
+      ],
+      "21": [
+        39
+      ],
+      "22": [
+        27
+      ],
+      "23": [
+        42
+      ]
+    }
+  }
+}

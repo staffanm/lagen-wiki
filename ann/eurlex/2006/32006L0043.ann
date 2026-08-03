@@ -1,0 +1,371 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32006L0043": "571f38737e6aca4c2649be903b9db9b5b861ed2c34e41beb0e1fc3fbf998b479"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "52"
+        ]
+      },
+      {
+        "id": "godkannande-kvalifikationer",
+        "label": "Godkännande och kvalifikationer",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "3",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "14"
+        ]
+      },
+      {
+        "id": "registrering",
+        "label": "Offentligt register",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "etik-konfidentialitet",
+        "label": "Yrkesetik och konfidentialitet",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "id": "oberoende",
+        "label": "Oberoende och objektivitet",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "22",
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "revisionsstandarder",
+        "label": "Revisionsstandarder",
+        "range": [
+          13,
+          14
+        ],
+        "articleRefs": [
+          "26"
+        ]
+      },
+      {
+        "id": "rapportering-koncernrevision",
+        "label": "Revisionsberättelse och koncernrevision",
+        "range": [
+          15,
+          16
+        ],
+        "articleRefs": [
+          "27",
+          "28"
+        ]
+      },
+      {
+        "id": "kvalitetssakring",
+        "label": "Kvalitetssäkring",
+        "range": [
+          17,
+          17
+        ],
+        "articleRefs": [
+          "29"
+        ]
+      },
+      {
+        "id": "utredningar-ansvar",
+        "label": "Utredningar, påföljder och ansvar",
+        "range": [
+          18,
+          19
+        ],
+        "articleRefs": [
+          "30",
+          "31"
+        ]
+      },
+      {
+        "id": "offentlig-tillsyn",
+        "label": "Offentlig tillsyn och samarbete",
+        "range": [
+          20,
+          21
+        ],
+        "articleRefs": [
+          "32",
+          "33",
+          "34",
+          "35",
+          "36"
+        ]
+      },
+      {
+        "id": "val-entledigande",
+        "label": "Val och entledigande",
+        "range": [
+          22,
+          22
+        ],
+        "articleRefs": [
+          "37",
+          "38"
+        ]
+      },
+      {
+        "id": "allmant-intresse",
+        "label": "Företag av allmänt intresse",
+        "range": [
+          23,
+          26
+        ],
+        "articleRefs": [
+          "39",
+          "40",
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "id": "tredjeland",
+        "label": "Tredjelandsaspekter",
+        "range": [
+          27,
+          29
+        ],
+        "articleRefs": [
+          "44",
+          "45",
+          "46",
+          "47"
+        ]
+      },
+      {
+        "id": "genomforande-slutbestammelser",
+        "label": "Genomförande och slutbestämmelser",
+        "range": [
+          30,
+          34
+        ],
+        "articleRefs": [
+          "48",
+          "49",
+          "50",
+          "51",
+          "53",
+          "54",
+          "55"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        5
+      ],
+      "2.7": [
+        11
+      ],
+      "2.13": [
+        23
+      ],
+      "3": [
+        6,
+        7
+      ],
+      "3.4": [
+        6
+      ],
+      "4": [
+        6
+      ],
+      "5": [
+        6
+      ],
+      "6": [
+        6,
+        7
+      ],
+      "7": [
+        7
+      ],
+      "8": [
+        7
+      ],
+      "9": [
+        7
+      ],
+      "10": [
+        7
+      ],
+      "11": [
+        6
+      ],
+      "12": [
+        6
+      ],
+      "14": [
+        6
+      ],
+      "15": [
+        8
+      ],
+      "16": [
+        8
+      ],
+      "17": [
+        8
+      ],
+      "21": [
+        9
+      ],
+      "22": [
+        11,
+        12
+      ],
+      "22.2": [
+        11,
+        12
+      ],
+      "23": [
+        10
+      ],
+      "24": [
+        11
+      ],
+      "25": [
+        11
+      ],
+      "26": [
+        13,
+        14
+      ],
+      "26.3": [
+        13
+      ],
+      "27": [
+        15
+      ],
+      "28": [
+        16
+      ],
+      "29": [
+        17
+      ],
+      "30": [
+        18
+      ],
+      "31": [
+        19
+      ],
+      "32": [
+        20,
+        21
+      ],
+      "32.3": [
+        21
+      ],
+      "33": [
+        20
+      ],
+      "34": [
+        20
+      ],
+      "35": [
+        20
+      ],
+      "36": [
+        20
+      ],
+      "37": [
+        22
+      ],
+      "38": [
+        22
+      ],
+      "39": [
+        23
+      ],
+      "40": [
+        23
+      ],
+      "41": [
+        23,
+        24,
+        25
+      ],
+      "41.6": [
+        25
+      ],
+      "42": [
+        26
+      ],
+      "43": [
+        23
+      ],
+      "44": [
+        27
+      ],
+      "45": [
+        27,
+        28
+      ],
+      "46": [
+        27
+      ],
+      "47": [
+        27,
+        28,
+        29
+      ],
+      "50": [
+        34
+      ],
+      "51": [
+        34
+      ],
+      "52": [
+        5
+      ]
+    }
+  }
+}

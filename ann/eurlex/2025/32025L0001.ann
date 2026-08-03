@@ -1,0 +1,497 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32025L0001": "d3b3b45d589a41c82c104a6c1cbeb78d756d538656ae46edb1c5b2850736d586"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "18"
+        ]
+      },
+      {
+        "id": "internationella-standarder",
+        "label": "Internationella standarder och harmonisering",
+        "range": [
+          5,
+          11
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "4"
+        ]
+      },
+      {
+        "id": "grupper-konglomerat",
+        "label": "Grupper och finansiella konglomerat",
+        "range": [
+          12,
+          16
+        ],
+        "articleRefs": [
+          "7",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "myndighetsutseende-proportionalitet",
+        "label": "Myndighetsutseende och proportionalitet",
+        "range": [
+          17,
+          20
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "aterhamtning-planering",
+        "label": "Planering för förebyggande återhämtning",
+        "range": [
+          21,
+          22
+        ],
+        "articleRefs": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "resolutionsplanering",
+        "label": "Resolutionsplanering",
+        "range": [
+          23,
+          31
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "villkor-resolution",
+        "label": "Villkor för resolution",
+        "range": [
+          32,
+          33
+        ],
+        "articleRefs": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "resolutionsmal-principer",
+        "label": "Resolutionsmål och allmänna principer",
+        "range": [
+          34,
+          37
+        ],
+        "articleRefs": [
+          "18",
+          "22",
+          "26"
+        ]
+      },
+      {
+        "id": "vardering-forlustabsorbering",
+        "label": "Värdering och förlustabsorbering",
+        "range": [
+          38,
+          43
+        ],
+        "articleRefs": [
+          "23",
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "resolutionsverktyg",
+        "label": "Specifika resolutionsverktyg",
+        "range": [
+          44,
+          53
+        ],
+        "articleRefs": [
+          "27",
+          "30",
+          "31",
+          "32"
+        ]
+      },
+      {
+        "id": "nedskrivning-konvertering",
+        "label": "Nedskrivning och konvertering",
+        "range": [
+          54,
+          63
+        ],
+        "articleRefs": [
+          "35",
+          "36",
+          "38"
+        ]
+      },
+      {
+        "id": "befogenheter-forfaranden",
+        "label": "Resolutionsbefogenheter och förfaranden",
+        "range": [
+          64,
+          77
+        ],
+        "articleRefs": [
+          "42",
+          "43",
+          "44",
+          "48",
+          "49",
+          "51",
+          "53"
+        ]
+      },
+      {
+        "id": "gransoverskridande-samarbete",
+        "label": "Gränsöverskridande grupper och samarbete",
+        "range": [
+          78,
+          85
+        ],
+        "articleRefs": [
+          "69",
+          "70",
+          "73",
+          "74"
+        ]
+      },
+      {
+        "id": "finansiering-garanti",
+        "label": "Finansieringsarrangemang och garantisystem",
+        "range": [
+          86,
+          86
+        ],
+        "articleRefs": [
+          "81"
+        ]
+      },
+      {
+        "id": "tillsyn-sanktioner",
+        "label": "Tillsyn, sanktioner och tekniska standarder",
+        "range": [
+          87,
+          93
+        ],
+        "articleRefs": [
+          "82",
+          "83"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och översyn",
+        "range": [
+          94,
+          96
+        ],
+        "articleRefs": [
+          "100",
+          "101"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        11
+      ],
+      "2": [
+        2
+      ],
+      "3": [
+        19
+      ],
+      "4": [
+        17,
+        18
+      ],
+      "5": [
+        21,
+        22
+      ],
+      "6": [
+        22
+      ],
+      "7": [
+        12,
+        25,
+        26
+      ],
+      "8": [
+        26
+      ],
+      "9": [
+        23,
+        24
+      ],
+      "10": [
+        12,
+        23
+      ],
+      "11": [
+        12,
+        27
+      ],
+      "12": [
+        13,
+        23
+      ],
+      "13": [
+        17,
+        43
+      ],
+      "14": [
+        17,
+        43
+      ],
+      "15": [
+        29
+      ],
+      "16": [
+        29,
+        30
+      ],
+      "17": [
+        27,
+        31
+      ],
+      "18": [
+        8,
+        34,
+        37
+      ],
+      "19": [
+        32,
+        33
+      ],
+      "20": [
+        12,
+        32
+      ],
+      "21": [
+        32
+      ],
+      "22": [
+        8,
+        38,
+        54
+      ],
+      "23": [
+        41,
+        43
+      ],
+      "24": [
+        41,
+        43
+      ],
+      "25": [
+        41,
+        43
+      ],
+      "26": [
+        34
+      ],
+      "27": [
+        45
+      ],
+      "28": [
+        34,
+        44
+      ],
+      "29": [
+        44
+      ],
+      "30": [
+        46,
+        53
+      ],
+      "31": [
+        44,
+        49,
+        50
+      ],
+      "32": [
+        44,
+        52
+      ],
+      "33": [
+        52
+      ],
+      "34": [
+        39
+      ],
+      "35": [
+        39,
+        54,
+        57,
+        58,
+        59,
+        61
+      ],
+      "36": [
+        54
+      ],
+      "37": [
+        55
+      ],
+      "38": [
+        54,
+        61,
+        63
+      ],
+      "39": [
+        39,
+        62
+      ],
+      "40": [
+        40,
+        55
+      ],
+      "41": [
+        41
+      ],
+      "42": [
+        64
+      ],
+      "43": [
+        68
+      ],
+      "44": [
+        30
+      ],
+      "45": [
+        46
+      ],
+      "46": [
+        68
+      ],
+      "47": [
+        68
+      ],
+      "48": [
+        74
+      ],
+      "49": [
+        74
+      ],
+      "50": [
+        74
+      ],
+      "51": [
+        75
+      ],
+      "52": [
+        75
+      ],
+      "53": [
+        77
+      ],
+      "54": [
+        64
+      ],
+      "55": [
+        40,
+        55
+      ],
+      "56": [
+        41
+      ],
+      "57": [
+        40,
+        41
+      ],
+      "58": [
+        76
+      ],
+      "59": [
+        76
+      ],
+      "60": [
+        76
+      ],
+      "61": [
+        76
+      ],
+      "62": [
+        74
+      ],
+      "63": [
+        66
+      ],
+      "64": [
+        65
+      ],
+      "65": [
+        66
+      ],
+      "66": [
+        66
+      ],
+      "67": [
+        69,
+        70,
+        71,
+        72
+      ],
+      "68": [
+        74
+      ],
+      "69": [
+        78,
+        80
+      ],
+      "70": [
+        78
+      ],
+      "73": [
+        82
+      ],
+      "74": [
+        82
+      ],
+      "75": [
+        84
+      ],
+      "76": [
+        85
+      ],
+      "81": [
+        48
+      ],
+      "82": [
+        92
+      ],
+      "83": [
+        92
+      ]
+    }
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32008R0889": "8a5a3a74d02084bd74d64e0e741cda16741f2a3fb40f6fe89fe1a1aafb504c4f"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "syfte-tillampning",
+        "label": "Syfte och tillämpningsområde",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "definitioner",
+        "label": "Definitioner",
+        "range": [
+          3,
+          3
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "vaktproduktion",
+        "label": "Ekologisk växtproduktion",
+        "range": [
+          4,
+          7
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "animalieproduktion-grunder",
+        "label": "Grunder för animalieproduktion och djurhållning",
+        "range": [
+          8,
+          11
+        ],
+        "articleRefs": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "16"
+        ]
+      },
+      {
+        "id": "miljo-djurtathet",
+        "label": "Miljöskydd och djurtäthet",
+        "range": [
+          12,
+          12
+        ],
+        "articleRefs": [
+          "3",
+          "15"
+        ]
+      },
+      {
+        "id": "djurskydd-ingrepp",
+        "label": "Djurskydd och ingrepp",
+        "range": [
+          13,
+          13
+        ],
+        "articleRefs": [
+          "18"
+        ]
+      },
+      {
+        "id": "utfodring-djurhalso",
+        "label": "Utfodring och djurhälsa",
+        "range": [
+          14,
+          17
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21",
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "biodling",
+        "label": "Särskilda regler för biodling",
+        "range": [
+          18,
+          18
+        ],
+        "articleRefs": [
+          "13",
+          "25"
+        ]
+      },
+      {
+        "id": "bearbetning",
+        "label": "Bearbetning och hantering av produkter",
+        "range": [
+          19,
+          22
+        ],
+        "articleRefs": [
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35"
+        ]
+      },
+      {
+        "id": "omstallning-undantag",
+        "label": "Omställningsperioder och undantag",
+        "range": [
+          23,
+          32
+        ],
+        "articleRefs": [
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47"
+        ]
+      },
+      {
+        "id": "markning-logotyp",
+        "label": "Märkning och gemenskapslogotyp",
+        "range": [
+          33,
+          34
+        ],
+        "articleRefs": [
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "62"
+        ]
+      },
+      {
+        "id": "kontroll-system",
+        "label": "Kontrollsystem och informationsutbyte",
+        "range": [
+          35,
+          38
+        ],
+        "articleRefs": [
+          "63",
+          "65",
+          "66",
+          "93",
+          "94"
+        ]
+      },
+      {
+        "id": "overgang-slut",
+        "label": "Övergångs- och slutbestämmelser",
+        "range": [
+          39,
+          42
+        ],
+        "articleRefs": [
+          "95",
+          "96",
+          "97"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1
+      ],
+      "1.2": [
+        2
+      ],
+      "2": [
+        3
+      ],
+      "3": [
+        5,
+        12
+      ],
+      "3.2": [
+        12
+      ],
+      "4": [
+        4
+      ],
+      "5": [
+        6
+      ],
+      "6": [
+        5
+      ],
+      "8": [
+        8
+      ],
+      "9": [
+        9
+      ],
+      "10": [
+        10
+      ],
+      "10.3": [
+        10
+      ],
+      "11": [
+        10
+      ],
+      "12": [
+        10
+      ],
+      "13": [
+        18
+      ],
+      "14": [
+        11
+      ],
+      "15": [
+        12
+      ],
+      "16": [
+        8
+      ],
+      "18": [
+        13
+      ],
+      "19": [
+        14
+      ],
+      "20": [
+        14,
+        15
+      ],
+      "21": [
+        14
+      ],
+      "22": [
+        7,
+        21
+      ],
+      "23": [
+        16,
+        17
+      ],
+      "23.1": [
+        17
+      ],
+      "24": [
+        17
+      ],
+      "24.5": [
+        17
+      ],
+      "25": [
+        18
+      ],
+      "26": [
+        19
+      ],
+      "27": [
+        20,
+        21
+      ],
+      "28": [
+        21
+      ],
+      "29": [
+        21
+      ],
+      "30": [
+        22
+      ],
+      "31": [
+        22
+      ],
+      "32": [
+        22
+      ],
+      "33": [
+        22
+      ],
+      "34": [
+        22
+      ],
+      "35": [
+        22
+      ],
+      "36": [
+        23
+      ],
+      "37": [
+        23
+      ],
+      "38": [
+        23
+      ],
+      "39": [
+        25
+      ],
+      "40": [
+        25,
+        26
+      ],
+      "41": [
+        27
+      ],
+      "42": [
+        24,
+        28
+      ],
+      "43": [
+        24,
+        28
+      ],
+      "44": [
+        28
+      ],
+      "45": [
+        29,
+        30
+      ],
+      "45.5": [
+        29
+      ],
+      "46": [
+        31
+      ],
+      "47": [
+        32
+      ],
+      "48": [
+        30
+      ],
+      "57": [
+        33
+      ],
+      "58": [
+        33
+      ],
+      "59": [
+        34
+      ],
+      "60": [
+        34
+      ],
+      "61": [
+        34
+      ],
+      "62": [
+        23
+      ],
+      "63": [
+        35
+      ],
+      "65": [
+        35
+      ],
+      "66": [
+        35
+      ],
+      "76": [
+        35
+      ],
+      "77": [
+        17
+      ],
+      "93": [
+        36,
+        37
+      ],
+      "94": [
+        36,
+        37,
+        38
+      ],
+      "95": [
+        39
+      ]
+    }
+  }
+}

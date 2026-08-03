@@ -1,0 +1,537 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32025R0327": "f7641d372b53fa291dd95d9f7f2b495b03ed35ae19ca3ee632537d494cd35e82"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "syfte-bakgrund",
+        "label": "Syfte och bakgrund",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "dataomfang-fragmentering",
+        "label": "Elektroniska hälsodata och systemfragmentering",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "2",
+          "13"
+        ]
+      },
+      {
+        "id": "primaranvandning-rattigheter",
+        "label": "Primäranvändning: Rättigheter och tillgång",
+        "range": [
+          8,
+          15
+        ],
+        "articleRefs": [
+          "3",
+          "5",
+          "6",
+          "7",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "kontroll-sekretess",
+        "label": "Begränsningar, sekretess och kontroll",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "vardpersonal-tillgang",
+        "label": "Hälso- och sjukvårdspersonalens tillgång",
+        "range": [
+          19,
+          22
+        ],
+        "articleRefs": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "digital-infrastruktur-primar",
+        "label": "Tjänster och digital infrastruktur för primäranvändning",
+        "range": [
+          20,
+          35
+        ],
+        "articleRefs": [
+          "4",
+          "16",
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "myndigheter-tillsyn",
+        "label": "Myndigheter och tillsyn för primäranvändning",
+        "range": [
+          23,
+          32
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "ehr-system-marknad",
+        "label": "Elektroniska hälsodokumentationssystem: Marknad och krav",
+        "range": [
+          36,
+          46
+        ],
+        "articleRefs": [
+          "25",
+          "26",
+          "27",
+          "30",
+          "36",
+          "37",
+          "39",
+          "40",
+          "41",
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "halsoapplikationer-registrering",
+        "label": "Hälsoapplikationer och registrering",
+        "range": [
+          47,
+          51
+        ],
+        "articleRefs": [
+          "47",
+          "48",
+          "49"
+        ]
+      },
+      {
+        "id": "sekundaranvandning-grund",
+        "label": "Sekundäranvändning: Grundprinciper och syften",
+        "range": [
+          52,
+          63
+        ],
+        "articleRefs": [
+          "50",
+          "51",
+          "53",
+          "54"
+        ]
+      },
+      {
+        "id": "access-organ-styrning",
+        "label": "Organ för tillgång till hälsodata: Styrning",
+        "range": [
+          64,
+          70
+        ],
+        "articleRefs": [
+          "55",
+          "56",
+          "57",
+          "59",
+          "62"
+        ]
+      },
+      {
+        "id": "sekundaranvandning-rattigheter",
+        "label": "Rättigheter och ansvar vid sekundäranvändning",
+        "range": [
+          67,
+          74
+        ],
+        "articleRefs": [
+          "61",
+          "71",
+          "74"
+        ]
+      },
+      {
+        "id": "infrastruktur-kataloger-sekundar",
+        "label": "Infrastruktur och kataloger för sekundäranvändning",
+        "range": [
+          75,
+          87
+        ],
+        "articleRefs": [
+          "75",
+          "76",
+          "77",
+          "78",
+          "79",
+          "80"
+        ]
+      },
+      {
+        "id": "kapacitetsbyggnad-utbildning",
+        "label": "Kapacitetsuppbyggnad, utbildning och finansiering",
+        "range": [
+          88,
+          91
+        ],
+        "articleRefs": [
+          "82",
+          "83",
+          "84",
+          "85"
+        ]
+      },
+      {
+        "id": "dataskydd-tredjeland",
+        "label": "Dataskydd, lagring och tredjeländer",
+        "range": [
+          92,
+          94
+        ],
+        "articleRefs": [
+          "86",
+          "87",
+          "88",
+          "89",
+          "90",
+          "91"
+        ]
+      },
+      {
+        "id": "eu-styrning-rattsmedel",
+        "label": "EU-styrning, rättsmedel och slutbestämmelser",
+        "range": [
+          95,
+          115
+        ],
+        "articleRefs": [
+          "92",
+          "93",
+          "94",
+          "95",
+          "96",
+          "99",
+          "100",
+          "101",
+          "102"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3
+      ],
+      "2": [
+        6,
+        7
+      ],
+      "3": [
+        8,
+        9
+      ],
+      "3.1": [
+        9
+      ],
+      "3.3": [
+        10
+      ],
+      "4": [
+        20,
+        21
+      ],
+      "5": [
+        12
+      ],
+      "6": [
+        13
+      ],
+      "7": [
+        14,
+        15
+      ],
+      "8": [
+        17,
+        18
+      ],
+      "9": [
+        16
+      ],
+      "10": [
+        18
+      ],
+      "11": [
+        19
+      ],
+      "12": [
+        19,
+        20
+      ],
+      "13": [
+        7,
+        11
+      ],
+      "14": [
+        25,
+        26
+      ],
+      "15": [
+        15,
+        26,
+        27
+      ],
+      "16": [
+        29
+      ],
+      "19": [
+        30,
+        31,
+        32
+      ],
+      "20": [
+        32
+      ],
+      "21": [
+        31,
+        99
+      ],
+      "22": [
+        23
+      ],
+      "23": [
+        33,
+        34
+      ],
+      "24": [
+        28,
+        35
+      ],
+      "25": [
+        36,
+        38
+      ],
+      "26": [
+        36,
+        39
+      ],
+      "27": [
+        42
+      ],
+      "30": [
+        36,
+        44,
+        45,
+        46
+      ],
+      "36": [
+        46
+      ],
+      "37": [
+        36
+      ],
+      "38": [
+        37
+      ],
+      "39": [
+        39
+      ],
+      "40": [
+        36
+      ],
+      "41": [
+        40
+      ],
+      "43": [
+        47,
+        48
+      ],
+      "44": [
+        47
+      ],
+      "45": [
+        47
+      ],
+      "47": [
+        49
+      ],
+      "48": [
+        49
+      ],
+      "49": [
+        51
+      ],
+      "50": [
+        59
+      ],
+      "51": [
+        55,
+        56
+      ],
+      "52": [
+        60
+      ],
+      "53": [
+        61
+      ],
+      "54": [
+        62,
+        63
+      ],
+      "55": [
+        64
+      ],
+      "56": [
+        64
+      ],
+      "57": [
+        64,
+        65,
+        68
+      ],
+      "59": [
+        68
+      ],
+      "60": [
+        55,
+        59
+      ],
+      "61": [
+        62,
+        63
+      ],
+      "62": [
+        69,
+        70
+      ],
+      "63": [
+        71
+      ],
+      "64": [
+        71,
+        103
+      ],
+      "66": [
+        72
+      ],
+      "67": [
+        73
+      ],
+      "68": [
+        73
+      ],
+      "69": [
+        73
+      ],
+      "71": [
+        54
+      ],
+      "72": [
+        76
+      ],
+      "73": [
+        77
+      ],
+      "74": [
+        79
+      ],
+      "75": [
+        80
+      ],
+      "77": [
+        84
+      ],
+      "78": [
+        85
+      ],
+      "79": [
+        86
+      ],
+      "82": [
+        88
+      ],
+      "83": [
+        89
+      ],
+      "84": [
+        89
+      ],
+      "85": [
+        90
+      ],
+      "86": [
+        93
+      ],
+      "87": [
+        93
+      ],
+      "88": [
+        92
+      ],
+      "89": [
+        92
+      ],
+      "90": [
+        94
+      ],
+      "91": [
+        94
+      ],
+      "92": [
+        95
+      ],
+      "93": [
+        97
+      ],
+      "94": [
+        95
+      ],
+      "95": [
+        98
+      ],
+      "96": [
+        98
+      ],
+      "99": [
+        102,
+        106
+      ],
+      "100": [
+        101
+      ],
+      "101": [
+        100
+      ],
+      "102": [
+        108
+      ]
+    }
+  }
+}

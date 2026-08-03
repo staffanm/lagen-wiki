@@ -1,0 +1,448 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32016R0794": "7154f2116f5d824ddd91c5c0ba1a37051035e3a9eb691f7a5497789134a340d4"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "75"
+        ]
+      },
+      {
+        "id": "mal-strategisk-analys",
+        "label": "Europols mål och strategisk analys",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "3",
+          "4.2"
+        ]
+      },
+      {
+        "id": "operativa-uppgifter",
+        "label": "Operativa uppgifter och samarbete",
+        "range": [
+          8,
+          11
+        ],
+        "articleRefs": [
+          "4.1",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "informationsutbyte-organisation",
+        "label": "Informationsutbyte och nationell organisation",
+        "range": [
+          12,
+          16
+        ],
+        "articleRefs": [
+          "4.1",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "styrelse-ledning",
+        "label": "Styrelse och ledning",
+        "range": [
+          17,
+          22
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "11",
+          "12",
+          "16"
+        ]
+      },
+      {
+        "id": "uppgiftsbehandling-atkomst",
+        "label": "Uppgiftsbehandling och åtkomst",
+        "range": [
+          23,
+          27
+        ],
+        "articleRefs": [
+          "17",
+          "18",
+          "19",
+          "20",
+          "22"
+        ]
+      },
+      {
+        "id": "samarbete-partners",
+        "label": "Samarbete med partners och tredjeland",
+        "range": [
+          28,
+          32
+        ],
+        "articleRefs": [
+          "21",
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "overforing-personuppgifter",
+        "label": "Överföring av personuppgifter",
+        "range": [
+          33,
+          38
+        ],
+        "articleRefs": [
+          "25",
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "dataskyddsprinciper",
+        "label": "Grundläggande dataskyddsprinciper",
+        "range": [
+          39,
+          46
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "ansvar-tillsyn",
+        "label": "Ansvar och tillsyn",
+        "range": [
+          47,
+          52
+        ],
+        "articleRefs": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "klagomal-skadestand",
+        "label": "Klagomål och skadestånd",
+        "range": [
+          53,
+          57
+        ],
+        "articleRefs": [
+          "46",
+          "47",
+          "48",
+          "49",
+          "50"
+        ]
+      },
+      {
+        "id": "kontroll-personal",
+        "label": "Parlamentarisk kontroll och personal",
+        "range": [
+          58,
+          60
+        ],
+        "articleRefs": [
+          "51",
+          "52",
+          "53",
+          "54"
+        ]
+      },
+      {
+        "id": "finansiella-bestammelser",
+        "label": "Finansiella och administrativa bestämmelser",
+        "range": [
+          61,
+          65
+        ],
+        "articleRefs": [
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "66",
+          "67"
+        ]
+      },
+      {
+        "id": "utvardering-overgang",
+        "label": "Utvärdering och övergångsbestämmelser",
+        "range": [
+          66,
+          76
+        ],
+        "articleRefs": [
+          "68",
+          "70",
+          "71",
+          "72",
+          "73"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        5
+      ],
+      "2": [
+        12
+      ],
+      "3": [
+        4,
+        6
+      ],
+      "4": [
+        7,
+        8,
+        12,
+        13
+      ],
+      "4.1.c": [
+        10,
+        16
+      ],
+      "4.1.d": [
+        10,
+        16
+      ],
+      "4.1.f": [
+        7
+      ],
+      "4.1.m": [
+        8
+      ],
+      "4.2": [
+        7
+      ],
+      "5": [
+        10,
+        16
+      ],
+      "6": [
+        11
+      ],
+      "7": [
+        14,
+        15
+      ],
+      "7.6": [
+        13
+      ],
+      "7.11": [
+        13
+      ],
+      "8": [
+        14
+      ],
+      "10": [
+        18,
+        19
+      ],
+      "11": [
+        21
+      ],
+      "11.1.l": [
+        49
+      ],
+      "12": [
+        21,
+        22
+      ],
+      "16": [
+        22
+      ],
+      "17": [
+        23
+      ],
+      "18": [
+        24,
+        25
+      ],
+      "18.3": [
+        25
+      ],
+      "19": [
+        26
+      ],
+      "20": [
+        27
+      ],
+      "21": [
+        28
+      ],
+      "22": [
+        27
+      ],
+      "23": [
+        29,
+        30
+      ],
+      "24": [
+        31
+      ],
+      "25": [
+        32,
+        34,
+        35,
+        36
+      ],
+      "26": [
+        30,
+        37,
+        38
+      ],
+      "27": [
+        37
+      ],
+      "28": [
+        40,
+        41
+      ],
+      "29": [
+        42
+      ],
+      "30": [
+        43
+      ],
+      "31": [
+        44
+      ],
+      "32": [
+        45
+      ],
+      "36": [
+        41,
+        46
+      ],
+      "37": [
+        46
+      ],
+      "38": [
+        47
+      ],
+      "39": [
+        50
+      ],
+      "40": [
+        48
+      ],
+      "41": [
+        49
+      ],
+      "42": [
+        50,
+        51
+      ],
+      "43": [
+        50,
+        51
+      ],
+      "44": [
+        51,
+        52
+      ],
+      "45": [
+        52
+      ],
+      "46": [
+        53
+      ],
+      "47": [
+        54
+      ],
+      "48": [
+        55
+      ],
+      "49": [
+        56
+      ],
+      "50": [
+        57
+      ],
+      "51": [
+        58
+      ],
+      "53": [
+        59
+      ],
+      "54": [
+        60
+      ],
+      "57": [
+        61
+      ],
+      "61": [
+        61,
+        63
+      ],
+      "62": [
+        68
+      ],
+      "63": [
+        16
+      ],
+      "65": [
+        41
+      ],
+      "66": [
+        21
+      ],
+      "67": [
+        65
+      ],
+      "68": [
+        66
+      ],
+      "70": [
+        67
+      ],
+      "71": [
+        68
+      ],
+      "72": [
+        69
+      ],
+      "73": [
+        69,
+        70
+      ],
+      "75": [
+        5
+      ]
+    }
+  }
+}

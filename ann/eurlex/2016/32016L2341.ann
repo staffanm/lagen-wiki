@@ -1,0 +1,464 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32016L2341": "0caeb433e2aa2a57c4100af362727ce0cde7cc09d414f2f181be3a6e64be3042"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "sociala-mal",
+        "label": "Sociala mål och pensioner",
+        "range": [
+          7,
+          10
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "gransoverskridande-rorlighet",
+        "label": "Gränsöverskridande rörlighet",
+        "range": [
+          11,
+          16
+        ],
+        "articleRefs": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "tillampningsomrade",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          17,
+          24
+        ],
+        "articleRefs": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "grundprinciper-definitioner",
+        "label": "Definitioner och grundläggande principer",
+        "range": [
+          25,
+          33
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "auktorisering-overlatelse",
+        "label": "Auktorisering och överlåtelser",
+        "range": [
+          34,
+          39
+        ],
+        "articleRefs": [
+          "9",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "tekniska-avsattningar",
+        "label": "Tekniska avsättningar och solvens",
+        "range": [
+          40,
+          44
+        ],
+        "articleRefs": [
+          "13",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "investeringsregler",
+        "label": "Investeringsregler och aktsamhetsprincipen",
+        "range": [
+          45,
+          50
+        ],
+        "articleRefs": [
+          "19"
+        ]
+      },
+      {
+        "id": "foretagsstyrning-risk",
+        "label": "Företagsstyrning och riskhantering",
+        "range": [
+          52,
+          58
+        ],
+        "articleRefs": [
+          "21",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28"
+        ]
+      },
+      {
+        "id": "rapportering-utkontraktering",
+        "label": "Rapportering och utkontraktering",
+        "range": [
+          59,
+          62
+        ],
+        "articleRefs": [
+          "29",
+          "30",
+          "31",
+          "32"
+        ]
+      },
+      {
+        "id": "information-intressenter",
+        "label": "Information till medlemmar och förmånstagare",
+        "range": [
+          63,
+          68
+        ],
+        "articleRefs": [
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44"
+        ]
+      },
+      {
+        "id": "tillsynens-ramverk",
+        "label": "Tillsynens syfte och befogenheter",
+        "range": [
+          69,
+          72
+        ],
+        "articleRefs": [
+          "45",
+          "46",
+          "47",
+          "48",
+          "49",
+          "50"
+        ]
+      },
+      {
+        "id": "informationshantering",
+        "label": "Informationsutbyte och tystnadsplikt",
+        "range": [
+          73,
+          74
+        ],
+        "articleRefs": [
+          "52",
+          "53",
+          "55",
+          "56",
+          "57",
+          "58"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och översyn",
+        "range": [
+          75,
+          81
+        ],
+        "articleRefs": [
+          "62",
+          "64",
+          "65"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        6
+      ],
+      "2": [
+        22,
+        23,
+        24,
+        27,
+        28
+      ],
+      "3": [
+        22
+      ],
+      "4": [
+        24
+      ],
+      "5": [
+        27
+      ],
+      "6": [
+        21,
+        25,
+        26,
+        29,
+        32,
+        33
+      ],
+      "7": [
+        7,
+        32
+      ],
+      "8": [
+        30
+      ],
+      "9": [
+        34
+      ],
+      "10": [
+        10,
+        26
+      ],
+      "11": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        35,
+        36
+      ],
+      "11.2": [
+        34
+      ],
+      "12": [
+        12,
+        13,
+        37,
+        38,
+        39
+      ],
+      "12.3": [
+        37
+      ],
+      "12.4": [
+        37
+      ],
+      "12.7": [
+        38
+      ],
+      "13": [
+        40,
+        41
+      ],
+      "14": [
+        42,
+        43
+      ],
+      "15": [
+        44
+      ],
+      "16": [
+        44
+      ],
+      "17": [
+        44
+      ],
+      "18": [
+        44
+      ],
+      "19": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "20": [
+        20
+      ],
+      "21": [
+        52,
+        54
+      ],
+      "21.1": [
+        52
+      ],
+      "21.3": [
+        54
+      ],
+      "22": [
+        55
+      ],
+      "23": [
+        53
+      ],
+      "24": [
+        54,
+        56
+      ],
+      "24.1": [
+        54
+      ],
+      "24.2": [
+        56
+      ],
+      "25": [
+        57
+      ],
+      "25.1": [
+        57
+      ],
+      "25.2": [
+        58
+      ],
+      "26": [
+        54
+      ],
+      "27": [
+        40,
+        54
+      ],
+      "28": [
+        57,
+        58
+      ],
+      "28.1": [
+        57
+      ],
+      "28.2.h": [
+        58
+      ],
+      "29": [
+        59
+      ],
+      "30": [
+        60
+      ],
+      "31": [
+        61
+      ],
+      "32": [
+        27
+      ],
+      "33": [
+        62
+      ],
+      "34": [
+        62
+      ],
+      "35": [
+        62
+      ],
+      "36": [
+        63
+      ],
+      "37": [
+        63,
+        64
+      ],
+      "38": [
+        66
+      ],
+      "39": [
+        66
+      ],
+      "40": [
+        66
+      ],
+      "41": [
+        65
+      ],
+      "42": [
+        67
+      ],
+      "43": [
+        68
+      ],
+      "44": [
+        63
+      ],
+      "45": [
+        69
+      ],
+      "46": [
+        70
+      ],
+      "47": [
+        71
+      ],
+      "48": [
+        71,
+        72
+      ],
+      "49": [
+        72
+      ],
+      "50": [
+        72
+      ],
+      "52": [
+        74
+      ],
+      "53": [
+        74
+      ],
+      "55": [
+        73
+      ],
+      "56": [
+        73
+      ],
+      "57": [
+        73
+      ],
+      "58": [
+        73
+      ],
+      "59": [
+        59
+      ],
+      "62": [
+        75
+      ],
+      "64": [
+        79,
+        80,
+        81
+      ],
+      "65": [
+        80
+      ]
+    }
+  }
+}

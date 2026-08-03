@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32023R1113": "8bacadaa90e6ae3d3ad03b78ef77fc78cd834744fa0cb80cc8483fbc3fef5a08"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          8
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "definitioner-samstammighet",
+        "label": "Definitioner och samstämmighet",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "proportionalitet-strategier",
+        "label": "Proportionalitet och strategier",
+        "range": [
+          12,
+          15
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "sparbarhet-restriktiva-atgarder",
+        "label": "Spårbarhet och restriktiva åtgärder",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "23"
+        ]
+      },
+      {
+        "id": "dataskydd-integritet",
+        "label": "Dataskydd och integritet",
+        "range": [
+          19,
+          19
+        ],
+        "articleRefs": [
+          "25"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-undantag",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          20,
+          27
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "verifiering-tröskelvarden",
+        "label": "Verifiering och tröskelvärden",
+        "range": [
+          28,
+          31
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "14",
+          "16"
+        ]
+      },
+      {
+        "id": "overforingar-union-utland",
+        "label": "Överföringar inom och utanför unionen",
+        "range": [
+          32,
+          35
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "24"
+        ]
+      },
+      {
+        "id": "informationskrav",
+        "label": "Krav på åtföljande uppgifter",
+        "range": [
+          36,
+          37
+        ],
+        "articleRefs": [
+          "4",
+          "14"
+        ]
+      },
+      {
+        "id": "fristående-adresser-batch",
+        "label": "Fristående adresser och batchöverföringar",
+        "range": [
+          38,
+          41
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "detektering-riskbaserad-hantering",
+        "label": "Detektering och riskbaserad hantering",
+        "range": [
+          42,
+          45
+        ],
+        "articleRefs": [
+          "7",
+          "8",
+          "11",
+          "12",
+          "16",
+          "17",
+          "20",
+          "21"
+        ]
+      },
+      {
+        "id": "misstankta-transaktioner-rapportering",
+        "label": "Misstänkta transaktioner och rapportering",
+        "range": [
+          46,
+          49
+        ],
+        "articleRefs": [
+          "9",
+          "13",
+          "18",
+          "22"
+        ]
+      },
+      {
+        "id": "teknik-riktlinjer-forfaranden",
+        "label": "Teknik, riktlinjer och förfaranden",
+        "range": [
+          50,
+          53
+        ],
+        "articleRefs": [
+          "36"
+        ]
+      },
+      {
+        "id": "lagring-bevarande",
+        "label": "Lagring och bevarande av uppgifter",
+        "range": [
+          54,
+          54
+        ],
+        "articleRefs": [
+          "26"
+        ]
+      },
+      {
+        "id": "sanktioner-tillsyn",
+        "label": "Sanktioner och tillsyn",
+        "range": [
+          55,
+          58
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "33"
+        ]
+      },
+      {
+        "id": "andringar-slutbestammelser",
+        "label": "Ändringar i direktiv och slutbestämmelser",
+        "range": [
+          59,
+          65
+        ],
+        "articleRefs": [
+          "38",
+          "40"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        11
+      ],
+      "2": [
+        3,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "2.3": [
+        23
+      ],
+      "2.4": [
+        20,
+        21
+      ],
+      "2.5": [
+        26
+      ],
+      "3": [
+        10
+      ],
+      "4": [
+        2,
+        36,
+        37
+      ],
+      "4.4": [
+        29
+      ],
+      "5": [
+        29,
+        32
+      ],
+      "5.2": [
+        29,
+        32
+      ],
+      "5.3": [
+        29
+      ],
+      "6": [
+        33
+      ],
+      "7": [
+        42,
+        51
+      ],
+      "8": [
+        44
+      ],
+      "9": [
+        47
+      ],
+      "11": [
+        42,
+        51
+      ],
+      "12": [
+        44
+      ],
+      "14": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "14.5": [
+        39
+      ],
+      "15": [
+        41
+      ],
+      "16": [
+        43,
+        51
+      ],
+      "16.2": [
+        39
+      ],
+      "17": [
+        44
+      ],
+      "19": [
+        48
+      ],
+      "20": [
+        43,
+        51
+      ],
+      "21": [
+        44
+      ],
+      "23": [
+        16,
+        18
+      ],
+      "24": [
+        33,
+        52
+      ],
+      "25": [
+        19
+      ],
+      "26": [
+        54
+      ],
+      "28": [
+        55
+      ],
+      "29": [
+        55
+      ],
+      "33": [
+        55
+      ],
+      "36": [
+        17,
+        18,
+        50,
+        51
+      ],
+      "38": [
+        59,
+        60,
+        61
+      ],
+      "40": [
+        64
+      ]
+    }
+  }
+}

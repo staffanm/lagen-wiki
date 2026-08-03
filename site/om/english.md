@@ -2,86 +2,115 @@
 title: About lagen.nu
 ---
 
-Lagen.nu is a non-profit, volunteer-run web site which provides access to legal information concerning the swedish legal system. It contains all statutes published in the main collection of statutory law, SFS (Svensk Författningssamling), an archive of case law from the swedish supreme court, the supreme administrative court, and a number of special courts, a large archive of preparatory works, a number of precental administrative decisions from a number of government agencies and regulations from several other government agencies. It also contains commentary on a number of the most important statutes, as well as important legal terms. These commentaries are written by law students and practicing lawyers.
+Lagen.nu is a non-profit, volunteer-run site that publishes Swedish legal
+information — and, increasingly, the European and international law that Swedish
+law refers to. Everything on it is free to read and free to reuse. This page is a
+summary in English; the rest of the site is in Swedish.
 
-## Collaborative commentaries
+The point of the site is not the texts themselves, which are public documents
+available elsewhere. It is the links **between** them: 250 000 documents and
+13.5 million resolved references, so that a provision can show you the case law
+that applies it, the preparatory works that explain it and the EU article it
+implements.
 
-Like any legal system, swedish law can be daunting at first. The style of writing has changed considerably from the oldest laws (from 1736) to the ones written today, and the terms used, as well as the structure of the regulation, often needs to be explained to be understandable. This understanding is what a typical legal education provides. But since the law applies to everyone - not just the legally trained - there is a need for an explaination of the statutory text. We provide this in the form of a law commentary for the most important statutes.
+## What is here
 
-For each important section of these statutes, a brief explaination of the section is written. This can include descriptions of terms used, guidelines for balancing opposing interests, notes on how the section have been referred to in important legal cases, and hypothetical examples of it's application. It frequently refers to other parts of the law that one needs to be aware of when analysing the particular section.
+- **Statutes (SFS)** — consolidated texts of the Swedish Code of Statutes,
+  around 11 000 acts of which some 5 300 are in force. Historical consolidations
+  are kept, so an act can be read as it stood at an earlier date.
+- **Agency regulations** — nearly 13 000 regulations from about seventy agency
+  code series, together with guiding decisions from the Parliamentary Ombudsmen
+  (JO), the Chancellor of Justice (JK), the National Board for Consumer Disputes
+  (ARN), the Competition Authority and the data protection authority (IMY), plus
+  the agencies' own published legal positions.
+- **Case law** — about 23 700 guiding decisions, from the Supreme Court and the
+  Supreme Administrative Court down to the courts of appeal and the specialised
+  appellate courts, from 1981 onward.
+- **Preparatory works** — around 97 000 documents: government bills, official
+  inquiries (SOU), ministry memoranda (Ds), terms of reference, committee
+  reports. Bills reach back to 1867 and SOU to 1922, mostly as scanned and
+  OCR-processed text.
+- **EU law** — around 64 000 documents from EUR-Lex: regulations, directives,
+  decisions and treaties, plus the Court of Justice's judgments and the Advocates
+  General's opinions, back to the first cases in 1954.
+- **International law** — the European Convention on Human Rights and the other
+  Council of Europe treaties, about 7 000 judgments of the European Court of
+  Human Rights, the international humanitarian law treaties, a selection of UN
+  treaties, and decisions of the International Criminal Court.
+- **Commentary and concepts** — a register of some 24 000 legal terms, most of
+  them statutory definitions found automatically, several hundred with an
+  explanation written by hand; and section-by-section commentary on a number of
+  important acts.
 
-Legal terms are often used in many different section commentaries. In these cases, it's often more effective to just mention the term in the section commentary and link it to a separate page, containing a more detailed description of the term, so that a reader not familiar with the term can learn more about it. This also keeps the statutory law commentary brief for readers who are familiar with the term.
+## How the linking works
 
-The commentaries have so far mainly been written by law students. The text of the commentaries are licensed under the Creative Commons Attribution-Share Alike license. Anyone who is knowledgeable about a certain statute is welcome to apply for writing its commentary.
+References in running text are read by a grammar rather than by pattern
+matching, which means a reference resolves to the exact provision rather than to
+the document — down to the subsection or the numbered point. The same grammar
+runs over every source, which is why a court decision, a preparatory work and an
+agency regulation can all point at precisely the same section.
 
-The actual writing is done using the Mediawiki system, the same web-based wiki application that Wikipedia uses. The text is written according to certain conventions (such as prefixing the commentary for an individual section with a headline consisting of that section's number). When saving the text of a legal commentary, it gets weaved together with the statutory law text and presented alongside of it. The text of pages that describe legal terms are combined with legal cases and statutes using or defining the same term.
+The result is that beside any provision you are reading, a context panel shows
+the case law and preparatory works that cite *that provision*, an extract from
+the relevant passage of the bill that introduced it, the EU directive article it
+transposes, and its amendment history.
 
-## Swedish legal information
+Two of those connections are not written down anywhere in structured form and
+had to be read out of the preparatory works themselves, in part with the help of
+a language model:
 
-As a civil law country, swedish law is primarily concerned with statutory law. The main legislative powers are the parliament (Riksdagen) and the government (Regeringen) - each of these institutions can adopt statutes which are published in the main official collection of statutory law, the Svensk Författningssamling (SFS). The statutes enacted by the parliament are referred to as laws, and the statutes enacted by the government as ordinances.
+- **Which directive article a Swedish provision implements**, read from the
+  bill's section-by-section commentary.
+- **Which provision of a new act corresponds to which provision of the act it
+  replaced** — read from the comparison tables in the bill where those exist,
+  otherwise from the commentary. This matters because a recodification otherwise
+  severs a statute from decades of case law: reading a section of the new act,
+  the panel also offers the decisions handed down under its predecessor,
+  following the chain back several generations.
 
-Whenever a particular statute is changed, this is done by adopting a new statute (the change statute) that states what sections of the old statute (the base statute) are to be changed, and how. In SFS, only these base statutes and change statutes are published. In practice, consolidated versions (texts where the actual texts of the base statutes have been changed according to subsequent change statutes) are used by lawyers and courts, but these texts are not officially binding.
+Both are shown together with the source they were read from, and both can be
+wrong.
 
-Lagen.nu uses consolidated versions of the statutes, available from the governments legal databases. These versions, which are in a non-structured plain text version, is parsed and analysed to get a XML version of the text that represents the true structure of the statue, divided into chapters, sections, paragraphs and so on.
+## Reuse
 
-Court decisions are also an important part of swedish law, particularly the decisions from the supreme courts. The National Courts Administration makes available an archive of over 10 000 court decisions. These are available with the full text of the verdict as well as some metadata (such as which statutory law sections the verdict is based upon, earlier cases referred to, and keywords for the issues in the case).
+Swedish statutory text and the decisions of public authorities are not protected
+by copyright. Case law summaries may be freely reproduced with attribution to
+the National Courts Administration (Domstolsverket). We actively encourage
+reuse, and there are four ways in:
 
-There are other sources of legal information in the Swedish system - particularly preparatory works for the statutes are often used when interpreting the statutes themselves, and courts often explicitly refer to these preparatory works. Certain administrative agencies have the power to create binding statutes concerning issues in their area. Some administrative agencies have the power to make legally binding decisions for certain issues, and these decisions are often referred to, particularly when doing legal investigations in areas where there's a dearth of supreme court decisions (such as consumer rights - not many consumers have the time and resources to appeal a case all the way to the supreme court). These sources are not yet present at lagen.nu.
+- **Links.** Every document's URL is stable and documented — the Copyright Act
+  (1960:729) is `https://lagen.nu/1960:729`, and section 12 of it is
+  `https://lagen.nu/1960:729#P12`. See [Hur man länkar](/om/lankning).
+- **A REST API** under `/api/v1`, with an OpenAPI schema at `/openapi.json` and
+  interactive documentation at `/docs`. It exposes search, document retrieval,
+  version history and — the interesting part — the citation graph in both
+  directions.
+- **Bulk downloads** of the whole corpus as gzipped NDJSON, one JSON document
+  per line. See [API och bulkdata](/om/api).
+- **An MCP interface**, so an AI assistant can look up current statutory text and
+  follow the citation graph instead of answering from memory. See
+  [lagen.nu i AI-verktyg](/om/mcp).
 
-## Browsing and navigation features
+A document's canonical URL is its identity everywhere: link target, API key,
+line id in the bulk files and id in the search index.
 
-## Statutes
+## The code
 
-There are about 1500 laws and 2000 ordinances in the swedish legal system. Some of these can be quite long (the longest, the income tax law, has around 1500 individual sections and close to 120 000 words), but since individual sections frequently refer to each other, each law is presented as a single web page.
+Running a site like this on a volunteer budget means automating nearly
+everything — downloading, parsing, structuring and cross-linking the material.
+The code is Python, released as open source under a BSD-style licence, and is at
+[GitHub](https://github.com/staffanm/ferenda/). Anyone wanting to build
+something similar, for Swedish law or for another body of documents, is welcome
+to it.
 
-To the left, each law have a treeview-like control containing the entire table of contents for the law, sectioned into chapters and headlines. In addition to this, the text of each section is parsed and references to other parts of the law (or other laws) are identified, and hyperlinked. Together, this makes navigating large amounts of statute text reasonably quick.
+## Caveats
 
-Statutes are divided in sections (and, for larger statutes, chapters and divisions). To the right of each individual section are a number of boxes containing information about that section.
-
-- If available, a commentary box explains the text of the
-section and gives examples of it's application.
-
-- If any of the legal cases (see below) refer to the section,
-they are listed in another box.
-
-- If another section of the same
-or any other statute refer to the section, these sections are mentioned in another box.
-
-- And finally, if the section have been changed, a box lists
-all the change statutes that have modified this section throughout it's history, with links to more information (including a PDF of the actual change statute).
-
-## Case law
-
-There are over 10 000 cases available on the web site, ranging back to 1981. The cases are from the swedish supreme court, the supreme administrative court, as well as the special courts used for certain legal disputes (such as labour law, environmental law, marketing law etc).
-
-Each case is presented in full text, with hyperlinked references to each individual statute section that is mentioned in the verdict, and other metadata. Of particular interest is the usage of keywords -- when preparing the case for publication, the National Courts Administration provides it with a series of keywords, often specific legal terms that was referred to in the verdict. This makes it possible to order the cases by keyword, for example, see all cases that deal with issues of occupational safety and health.
-
-## Legal terms
-
-When parsing statutory text, passages that define a particular term are recognized. This information is combined with the information about which keywords are used in which legal cases, as well as text from the legal information wiki (mentioned above), to form a single page that provides an overview of the term, its definition and usage. Links to this page appear whenever the term is used in commentary, as a keyword for a legal case, or in the statutory law text. Around 4500 terms are currently present in the system.
-
-## Reuseable
-
-We actively want people to use and reuse the legal information and functionality found at lagen.nu. We make this possible in four different ways.
-
-## Linking
-
-Being a public web site, we strive to make it easy to link to any content on lagen.nu. As each statute has it's own unique number (the SFS number), we use this to construct the URL for that statute - i.e. The Copyright Act (1960:729) has the URL `https://lagen.nu/1960:729`. Furthermore, any individual section can be referred to using named anchors, so to URL for section 12 of the copyright act is `https://lagen.nu/1960:729#P12`. This is a documented part of our interface and guaranteed not to change, so anyone linking to the site can be sure that the link will work indefinitely. And of course, noone needs to ask permission to link to us.
-
-## Structured data
-
-The actual statutory text are not copyrighted. The text of the legal cases are copyrighted, but may be reproduced by anyone as long as the text is not improperly changed and the author (in this case the National Courts Administration) is credited.
-
-Lagen.nu makes these texts available in a structured, XML-based format (specifically XHTML with embedded RDFa metadata). They can also be downloaded in bulk. The metadata used in the system (for example titles, dates, case numbers, and links between cases and statutes) is expressed using RDF, and the entire metadata set (comprising over a million RDF triples) can be downloaded in bulk as well.
-
-## Commentaries
-
-The commentaries are all licensed under the Creative Commons Attribution-Share Alike license, which should enable re-use of these in practically any scenario.
-
-## Code
-
-To run a web site like lagen.nu on a volounteer budget, a lot of things need to be automated. There is a fairly complex code base to do things like downloading all statutes and legal cases, parsing the raw data, structuring it and formatting it for presentation. This is done mainly in python (around 25000 lines) and XSLT (around 2500 lines). The code is licensed under a BSD-style license and can be fetched from [GitHub](https://github.com/staffanm/ferenda/) - everybody who wishes to build a similar site, or just to find out how we have done certain things, are welcome to check it out.
+The material is processed automatically from what public bodies publish, and both
+the sources and our processing can introduce errors. For anything that matters,
+check against the official publication. See
+[ansvarsfriskrivning](/om/ansvarsfriskrivning) (in Swedish) for the detail.
 
 ## Contact
 
-If you have any questions, please contact staffan@lagen.nu.
+Staffan Malmgren, staffan.malmgren@gmail.com. Please note that we cannot answer
+substantive legal questions.

@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32023L2225": "fb321ca28dde59d3c21336543407a942f6439d7794280cfd7341fa1ace3cbc9d"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          13
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-definitioner",
+        "label": "Tillämpningsområde och definitioner",
+        "range": [
+          14,
+          25
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "allmanna-principer",
+        "label": "Allmänna principer och icke-diskriminering",
+        "range": [
+          26,
+          32
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "reklam-marknadsforing",
+        "label": "Reklam och marknadsföring",
+        "range": [
+          33,
+          35
+        ],
+        "articleRefs": [
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "forhandsinformation",
+        "label": "Förhandsinformation och förklaringar",
+        "range": [
+          36,
+          45
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "paketlosningar-samtycke",
+        "label": "Paketlösningar, samtycke och rådgivning",
+        "range": [
+          46,
+          51
+        ],
+        "articleRefs": [
+          "13",
+          "14",
+          "15",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "kreditprovning-databaser",
+        "label": "Kreditprövning och tillgång till databaser",
+        "range": [
+          52,
+          57
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "avtalets-form-innehall",
+        "label": "Kreditavtalets form och innehåll",
+        "range": [
+          58,
+          61
+        ],
+        "articleRefs": [
+          "20",
+          "21",
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "kontokrediter-overskridande",
+        "label": "Kontokrediter och överskridande",
+        "range": [
+          62,
+          63
+        ],
+        "articleRefs": [
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "angerratt-uppsagning",
+        "label": "Ångerrätt, uppsägning och kombinerade avtal",
+        "range": [
+          64,
+          68
+        ],
+        "articleRefs": [
+          "26",
+          "27",
+          "28"
+        ]
+      },
+      {
+        "id": "fortidsaterbetalning-rantor",
+        "label": "Förtidsåterbetalning, räntor och kostnadstak",
+        "range": [
+          69,
+          74
+        ],
+        "articleRefs": [
+          "29",
+          "30",
+          "31"
+        ]
+      },
+      {
+        "id": "professionalism-utbildning",
+        "label": "Professionalism, kompetens och finansiell utbildning",
+        "range": [
+          75,
+          78
+        ],
+        "articleRefs": [
+          "32",
+          "33",
+          "34"
+        ]
+      },
+      {
+        "id": "betalningssvarigheter-stod",
+        "label": "Anståndsåtgärder och skuldrådgivning",
+        "range": [
+          79,
+          81
+        ],
+        "articleRefs": [
+          "35",
+          "36"
+        ]
+      },
+      {
+        "id": "tillsyn-godkannande",
+        "label": "Tillsyn, godkännande och registrering",
+        "range": [
+          82,
+          85
+        ],
+        "articleRefs": [
+          "37",
+          "38"
+        ]
+      },
+      {
+        "id": "overlatelse-tvistlosning",
+        "label": "Överlåtelse av rättigheter och tvistlösning",
+        "range": [
+          86,
+          88
+        ],
+        "articleRefs": [
+          "39",
+          "40"
+        ]
+      },
+      {
+        "id": "myndigheter-sanktioner-slutbestammelser",
+        "label": "Behöriga myndigheter, sanktioner och slutbestämmelser",
+        "range": [
+          89,
+          98
+        ],
+        "articleRefs": [
+          "41",
+          "44",
+          "46"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "2": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        24,
+        25
+      ],
+      "2.2.c": [
+        20
+      ],
+      "2.2.g": [
+        19
+      ],
+      "2.2.h": [
+        17
+      ],
+      "2.5": [
+        18
+      ],
+      "2.6": [
+        21
+      ],
+      "2.7": [
+        21
+      ],
+      "2.8": [
+        15
+      ],
+      "6": [
+        31
+      ],
+      "7": [
+        32
+      ],
+      "8": [
+        33
+      ],
+      "9": [
+        35
+      ],
+      "10": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        43,
+        44
+      ],
+      "11": [
+        42
+      ],
+      "12": [
+        45
+      ],
+      "13": [
+        46
+      ],
+      "14": [
+        47
+      ],
+      "14.4": [
+        48
+      ],
+      "15": [
+        49
+      ],
+      "16": [
+        50
+      ],
+      "17": [
+        51
+      ],
+      "18": [
+        53,
+        54,
+        55,
+        56
+      ],
+      "18.8": [
+        56
+      ],
+      "19": [
+        57
+      ],
+      "20": [
+        58,
+        59
+      ],
+      "21": [
+        59,
+        61
+      ],
+      "22": [
+        60
+      ],
+      "23": [
+        60,
+        61
+      ],
+      "24": [
+        62
+      ],
+      "25": [
+        63
+      ],
+      "26": [
+        64,
+        65,
+        66
+      ],
+      "27": [
+        67
+      ],
+      "28": [
+        68
+      ],
+      "29": [
+        70,
+        71
+      ],
+      "30": [
+        72
+      ],
+      "31": [
+        73
+      ],
+      "32": [
+        76
+      ],
+      "33": [
+        77
+      ],
+      "34": [
+        78
+      ],
+      "35": [
+        79,
+        80
+      ],
+      "36": [
+        81
+      ],
+      "37": [
+        82,
+        83,
+        84
+      ],
+      "38": [
+        85
+      ],
+      "39": [
+        86,
+        87
+      ],
+      "40": [
+        88
+      ],
+      "41": [
+        89
+      ],
+      "44": [
+        90,
+        91,
+        92
+      ],
+      "46": [
+        93
+      ]
+    }
+  }
+}

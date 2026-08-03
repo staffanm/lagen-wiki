@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32008L0098": "1c3b383ed94f53815a018317f4b1f8a5c4d93d3c97c4eeb535ceade1dc582c1a"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-undantag",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          10,
+          13
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "klassificering-farligt-avfall",
+        "label": "Klassificering av farligt avfall",
+        "range": [
+          14,
+          14
+        ],
+        "articleRefs": [
+          "7",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "insamling-lagring",
+        "label": "Insamling och lagring",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "3",
+          "10",
+          "15",
+          "24",
+          "26"
+        ]
+      },
+      {
+        "id": "definitioner-begrepp",
+        "label": "Definitioner och begrepp",
+        "range": [
+          18,
+          21
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "biprodukter-avfallsupphorande",
+        "label": "Biprodukter och avfallsupphörande",
+        "range": [
+          22,
+          24
+        ],
+        "articleRefs": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "ekonomiska-principer-producentansvar",
+        "label": "Ekonomiska principer och producentansvar",
+        "range": [
+          25,
+          27
+        ],
+        "articleRefs": [
+          "8",
+          "14"
+        ]
+      },
+      {
+        "id": "atervinningssamhalle-hierarki",
+        "label": "Återvinningssamhälle och avfallshierarki",
+        "range": [
+          28,
+          31
+        ],
+        "articleRefs": [
+          "4",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "sjalvforsorgning-narhet",
+        "label": "Självförsörjning och närhet",
+        "range": [
+          32,
+          33
+        ],
+        "articleRefs": [
+          "16"
+        ]
+      },
+      {
+        "id": "sarskillda-avfallsfloden",
+        "label": "Särskilda avfallsflöden",
+        "range": [
+          34,
+          35
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "22"
+        ]
+      },
+      {
+        "id": "tekniska-normer-avfallsplaner",
+        "label": "Tekniska normer och avfallsplaner",
+        "range": [
+          36,
+          39
+        ],
+        "articleRefs": [
+          "27",
+          "28",
+          "37"
+        ]
+      },
+      {
+        "id": "forebyggande-avfall",
+        "label": "Förebyggande av avfall",
+        "range": [
+          40,
+          41
+        ],
+        "articleRefs": [
+          "9",
+          "29"
+        ]
+      },
+      {
+        "id": "ekonomiska-styrmedel",
+        "label": "Ekonomiska styrmedel",
+        "range": [
+          42,
+          42
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "integration-lagstiftning",
+        "label": "Integration av tidigare lagstiftning",
+        "range": [
+          43,
+          44
+        ],
+        "articleRefs": [
+          "18",
+          "21"
+        ]
+      },
+      {
+        "id": "sanktioner-forfaranden",
+        "label": "Sanktioner och förfaranden",
+        "range": [
+          45,
+          47
+        ],
+        "articleRefs": [
+          "36",
+          "39"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser",
+        "range": [
+          48,
+          49
+        ],
+        "articleRefs": [
+          "40"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        6,
+        8,
+        9
+      ],
+      "2": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "2.1": [
+        10,
+        11
+      ],
+      "2.2": [
+        12,
+        13
+      ],
+      "3": [
+        18,
+        19,
+        20
+      ],
+      "4": [
+        6,
+        7,
+        31
+      ],
+      "5": [
+        22
+      ],
+      "6": [
+        22,
+        23
+      ],
+      "7": [
+        14
+      ],
+      "8": [
+        26,
+        27
+      ],
+      "9": [
+        40
+      ],
+      "10": [
+        28
+      ],
+      "10.2": [
+        28
+      ],
+      "11": [
+        29,
+        41,
+        42
+      ],
+      "11.2": [
+        41
+      ],
+      "12": [
+        19
+      ],
+      "13": [
+        6,
+        14
+      ],
+      "14": [
+        25,
+        26
+      ],
+      "15": [
+        15
+      ],
+      "16": [
+        32,
+        33,
+        39
+      ],
+      "17": [
+        14
+      ],
+      "18": [
+        14,
+        43
+      ],
+      "19": [
+        34
+      ],
+      "20": [
+        34
+      ],
+      "21": [
+        44
+      ],
+      "22": [
+        35
+      ],
+      "23": [
+        15
+      ],
+      "24": [
+        17
+      ],
+      "26": [
+        17
+      ],
+      "27": [
+        36
+      ],
+      "28": [
+        37,
+        38
+      ],
+      "29": [
+        40
+      ],
+      "36": [
+        45
+      ],
+      "39": [
+        47
+      ],
+      "40": [
+        48
+      ]
+    }
+  }
+}

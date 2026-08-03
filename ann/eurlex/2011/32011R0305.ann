@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32011R0305": "dd29c996385c95234ac32cef3bcace24dcd6da2f3a04fadc375a2692ebe808de"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "avsedd-anvandning",
+        "label": "Avsedd användning och väsentliga egenskaper",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "ramverk-ersattning",
+        "label": "Rättsligt ramverk och ersättning av direktiv",
+        "range": [
+          6,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "65"
+        ]
+      },
+      {
+        "id": "tekniska-specifikationer",
+        "label": "Harmoniserade tekniska specifikationer",
+        "range": [
+          10,
+          17
+        ],
+        "articleRefs": [
+          "3",
+          "17",
+          "27"
+        ]
+      },
+      {
+        "id": "standardiseringsorgan",
+        "label": "Standardiseringsorgan och standarder",
+        "range": [
+          18,
+          18
+        ],
+        "articleRefs": [
+          "17"
+        ]
+      },
+      {
+        "id": "europeiska-bedomningar",
+        "label": "Europeiska tekniska bedömningar och dokument",
+        "range": [
+          19,
+          23
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "prestandadeklaration",
+        "label": "Prestandadeklaration",
+        "range": [
+          24,
+          27
+        ],
+        "articleRefs": [
+          "4",
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "bedomning-kontroll",
+        "label": "Bedömning och fortlöpande kontroll av prestanda",
+        "range": [
+          28,
+          29
+        ],
+        "articleRefs": [
+          "28"
+        ]
+      },
+      {
+        "id": "ce-markning",
+        "label": "CE-märkning",
+        "range": [
+          30,
+          33
+        ],
+        "articleRefs": [
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "forenklade-forfaranden",
+        "label": "Förenklade förfaranden",
+        "range": [
+          34,
+          40
+        ],
+        "articleRefs": [
+          "36",
+          "37",
+          "38"
+        ]
+      },
+      {
+        "id": "ekonomiska-aktorer",
+        "label": "Ekonomiska aktörers skyldigheter",
+        "range": [
+          41,
+          41
+        ],
+        "articleRefs": [
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "kontaktpunkter",
+        "label": "Kontaktpunkter för byggprodukter",
+        "range": [
+          42,
+          45
+        ],
+        "articleRefs": [
+          "10"
+        ]
+      },
+      {
+        "id": "marknadskontroll",
+        "label": "Marknadskontroll och skyddsåtgärder",
+        "range": [
+          46,
+          47
+        ],
+        "articleRefs": [
+          "56",
+          "57",
+          "58",
+          "59"
+        ]
+      },
+      {
+        "id": "anmalda-organ",
+        "label": "Anmälda organ och anmälande myndigheter",
+        "range": [
+          48,
+          49
+        ],
+        "articleRefs": [
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "55"
+        ]
+      },
+      {
+        "id": "genomfordande",
+        "label": "Genomförande och delegerade akter",
+        "range": [
+          50,
+          54
+        ],
+        "articleRefs": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "68"
+        ]
+      },
+      {
+        "id": "miljo-slutbestammelser",
+        "label": "Miljö, hållbarhet och slutbestämmelser",
+        "range": [
+          55,
+          58
+        ],
+        "articleRefs": [
+          "3",
+          "67"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        4
+      ],
+      "2": [
+        5,
+        10,
+        14
+      ],
+      "3": [
+        5,
+        10,
+        11,
+        12,
+        55,
+        56,
+        57
+      ],
+      "4": [
+        24,
+        28
+      ],
+      "5": [
+        39
+      ],
+      "6": [
+        24,
+        26
+      ],
+      "6.5": [
+        25
+      ],
+      "7": [
+        52
+      ],
+      "8": [
+        30,
+        32,
+        33
+      ],
+      "9": [
+        30,
+        31
+      ],
+      "10": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "11": [
+        41
+      ],
+      "13": [
+        41
+      ],
+      "14": [
+        41
+      ],
+      "17": [
+        10,
+        11,
+        18
+      ],
+      "19": [
+        19,
+        20,
+        21
+      ],
+      "21": [
+        22,
+        23
+      ],
+      "26": [
+        20,
+        21
+      ],
+      "27": [
+        13,
+        14,
+        16,
+        17
+      ],
+      "28": [
+        28,
+        29
+      ],
+      "29": [
+        22,
+        23
+      ],
+      "31": [
+        23
+      ],
+      "36": [
+        34,
+        35
+      ],
+      "37": [
+        38
+      ],
+      "38": [
+        36,
+        39
+      ],
+      "39": [
+        48,
+        49
+      ],
+      "43": [
+        48,
+        49
+      ],
+      "56": [
+        46
+      ],
+      "58": [
+        47
+      ],
+      "59": [
+        30
+      ],
+      "60": [
+        51,
+        52
+      ],
+      "66": [
+        53
+      ],
+      "67": [
+        25,
+        55,
+        56
+      ]
+    }
+  }
+}

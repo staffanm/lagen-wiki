@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32019L0882": "fa8c63b974c55d03d4f1e680a128c258a867c82296fdba9aeb9761faa1525c26"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "background-purpose",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          8
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "legal-framework",
+        "label": "Rättslig ram och UN-konventionen",
+        "range": [
+          9,
+          17
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "scope-products",
+        "label": "Tillämpningsområde: Produkter",
+        "range": [
+          18,
+          27
+        ],
+        "articleRefs": [
+          "2.1"
+        ]
+      },
+      {
+        "id": "scope-services",
+        "label": "Tillämpningsområde: Tjänster",
+        "range": [
+          28,
+          43
+        ],
+        "articleRefs": [
+          "2.2"
+        ]
+      },
+      {
+        "id": "special-areas",
+        "label": "Nödkommunikation och offentlig sektor",
+        "range": [
+          44,
+          47
+        ],
+        "articleRefs": [
+          "2.3",
+          "4.8"
+        ]
+      },
+      {
+        "id": "free-movement-environment",
+        "label": "Fri rörlighet och bebyggd miljö",
+        "range": [
+          48,
+          51
+        ],
+        "articleRefs": [
+          "4.4",
+          "6"
+        ]
+      },
+      {
+        "id": "sme-micro-enterprises",
+        "label": "Små och medelstora företag",
+        "range": [
+          52,
+          53
+        ],
+        "articleRefs": [
+          "4.5",
+          "4.6"
+        ]
+      },
+      {
+        "id": "economic-operators",
+        "label": "Ekonomiska aktörers skyldigheter",
+        "range": [
+          54,
+          63
+        ],
+        "articleRefs": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "burden-changes",
+        "label": "Grundläggande ändringar och oproportionerlig börda",
+        "range": [
+          64,
+          69
+        ],
+        "articleRefs": [
+          "14"
+        ]
+      },
+      {
+        "id": "micro-exemptions",
+        "label": "Undantag för mikroföretag",
+        "range": [
+          70,
+          72
+        ],
+        "articleRefs": [
+          "4.5",
+          "14.4"
+        ]
+      },
+      {
+        "id": "standards-specifications",
+        "label": "Harmoniserade standarder och specifikationer",
+        "range": [
+          73,
+          77
+        ],
+        "articleRefs": [
+          "15"
+        ]
+      },
+      {
+        "id": "conformity-ce",
+        "label": "Överensstämmelse och CE-märkning",
+        "range": [
+          78,
+          83
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "market-surveillance",
+        "label": "Marknadskontroll och tillsyn",
+        "range": [
+          84,
+          89
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21",
+          "23"
+        ]
+      },
+      {
+        "id": "procurement-other-acts",
+        "label": "Offentlig upphandling och andra unionsakter",
+        "range": [
+          90,
+          92
+        ],
+        "articleRefs": [
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "implementation-remedies",
+        "label": "Genomförande, sanktioner och rättsmedel",
+        "range": [
+          93,
+          100
+        ],
+        "articleRefs": [
+          "26",
+          "27",
+          "28",
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "final-provisions",
+        "label": "Övergångsbestämmelser och slutföranden",
+        "range": [
+          101,
+          104
+        ],
+        "articleRefs": [
+          "31",
+          "32"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        5,
+        8
+      ],
+      "2.1": [
+        18,
+        25,
+        26,
+        27
+      ],
+      "2.1.a": [
+        25
+      ],
+      "2.1.b": [
+        26,
+        27
+      ],
+      "2.1.c": [
+        30
+      ],
+      "2.1.e": [
+        41
+      ],
+      "2.2": [
+        28,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "2.2.a": [
+        28,
+        29
+      ],
+      "2.2.b": [
+        31
+      ],
+      "2.2.c": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "2.2.d": [
+        39,
+        40
+      ],
+      "2.2.e": [
+        41
+      ],
+      "2.2.f": [
+        42,
+        43
+      ],
+      "2.3": [
+        44,
+        45
+      ],
+      "3": [
+        3,
+        4
+      ],
+      "4": [
+        22,
+        23,
+        24,
+        50
+      ],
+      "4.4": [
+        49
+      ],
+      "4.5": [
+        70
+      ],
+      "4.6": [
+        72
+      ],
+      "4.8": [
+        44,
+        45
+      ],
+      "4.9": [
+        93
+      ],
+      "5": [
+        36
+      ],
+      "6": [
+        48
+      ],
+      "7": [
+        55,
+        56,
+        58,
+        63
+      ],
+      "8": [
+        56
+      ],
+      "9": [
+        59,
+        60,
+        61
+      ],
+      "10": [
+        62
+      ],
+      "11": [
+        63
+      ],
+      "12": [
+        78
+      ],
+      "13": [
+        20
+      ],
+      "14": [
+        64,
+        66,
+        67,
+        68,
+        69
+      ],
+      "14.4": [
+        71
+      ],
+      "15": [
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "16": [
+        78
+      ],
+      "17": [
+        82
+      ],
+      "18": [
+        83
+      ],
+      "19": [
+        84
+      ],
+      "20": [
+        88,
+        89
+      ],
+      "21": [
+        88,
+        89
+      ],
+      "23": [
+        85,
+        86,
+        87
+      ],
+      "24": [
+        90,
+        91
+      ],
+      "25": [
+        90
+      ],
+      "26": [
+        93
+      ],
+      "27": [
+        94
+      ],
+      "28": [
+        96
+      ],
+      "29": [
+        95,
+        97,
+        99
+      ],
+      "30": [
+        98
+      ],
+      "32": [
+        101
+      ]
+    }
+  }
+}

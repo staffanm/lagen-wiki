@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009R1107": "a0e98d64a2ebec0f6e161df8ff2d018e9a5d417e009c8d26b5ee72ac4553a0ab"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "skyddsniva-mal",
+        "label": "Skyddsnivå och mål",
+        "range": [
+          6,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "godkannande-verksamma-amnen",
+        "label": "Godkännande av verksamma ämnen",
+        "range": [
+          10,
+          16
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "17",
+          "20",
+          "21"
+        ]
+      },
+      {
+        "id": "lag-risk-substitution",
+        "label": "Låg risk och substitution",
+        "range": [
+          17,
+          20
+        ],
+        "articleRefs": [
+          "22",
+          "24",
+          "50"
+        ]
+      },
+      {
+        "id": "ovriga-amnen-tillsatser",
+        "label": "Övriga ämnen och tillsatser",
+        "range": [
+          21,
+          22
+        ],
+        "articleRefs": [
+          "25",
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "produktgodkannande-allmant",
+        "label": "Produktgodkännande - allmänt",
+        "range": [
+          23,
+          26
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "30",
+          "31",
+          "32"
+        ]
+      },
+      {
+        "id": "omsesidigt-erkannande-zoner",
+        "label": "Ömsesidigt erkännande och zoner",
+        "range": [
+          27,
+          29
+        ],
+        "articleRefs": [
+          "40",
+          "41",
+          "42"
+        ]
+      },
+      {
+        "id": "sarskilda-anvandningsfall",
+        "label": "Särskilda användningsfall",
+        "range": [
+          30,
+          34
+        ],
+        "articleRefs": [
+          "49",
+          "51",
+          "52",
+          "53",
+          "54"
+        ]
+      },
+      {
+        "id": "hallbar-anvandning-etikett",
+        "label": "Hållbar användning och etikett",
+        "range": [
+          35,
+          36
+        ],
+        "articleRefs": [
+          "55",
+          "56",
+          "57"
+        ]
+      },
+      {
+        "id": "data-studier-konfidentialitet",
+        "label": "Data, studier och konfidentialitet",
+        "range": [
+          37,
+          41
+        ],
+        "articleRefs": [
+          "33",
+          "34",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63"
+        ]
+      },
+      {
+        "id": "forpackning-markning-reklam",
+        "label": "Förpackning, märkning och reklam",
+        "range": [
+          42,
+          43
+        ],
+        "articleRefs": [
+          "64",
+          "65",
+          "66"
+        ]
+      },
+      {
+        "id": "register-kontroll-tillsyn",
+        "label": "Register, kontroll och tillsyn",
+        "range": [
+          44,
+          46
+        ],
+        "articleRefs": [
+          "67",
+          "68"
+        ]
+      },
+      {
+        "id": "nodfall-sanktioner-ansvar",
+        "label": "Nödfall, sanktioner och ansvar",
+        "range": [
+          48,
+          51
+        ],
+        "articleRefs": [
+          "69",
+          "70",
+          "71",
+          "72",
+          "73",
+          "74"
+        ]
+      },
+      {
+        "id": "administrativt-genomforande",
+        "label": "Administrativa bestämmelser och genomförande",
+        "range": [
+          52,
+          59
+        ],
+        "articleRefs": [
+          "75",
+          "76",
+          "77",
+          "78",
+          "80",
+          "84"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        8,
+        9
+      ],
+      "2": [
+        9
+      ],
+      "4": [
+        8,
+        10,
+        24
+      ],
+      "4.2": [
+        7
+      ],
+      "4.3": [
+        7,
+        24
+      ],
+      "5": [
+        15
+      ],
+      "6": [
+        12
+      ],
+      "7": [
+        12
+      ],
+      "8": [
+        12,
+        13,
+        40
+      ],
+      "9": [
+        14
+      ],
+      "11": [
+        14
+      ],
+      "12": [
+        12
+      ],
+      "13": [
+        12
+      ],
+      "14": [
+        15
+      ],
+      "15": [
+        14
+      ],
+      "17": [
+        14
+      ],
+      "18": [
+        12
+      ],
+      "20": [
+        15
+      ],
+      "21": [
+        16
+      ],
+      "22": [
+        17
+      ],
+      "24": [
+        19
+      ],
+      "25": [
+        21
+      ],
+      "26": [
+        21
+      ],
+      "27": [
+        22
+      ],
+      "28": [
+        23
+      ],
+      "29": [
+        24,
+        25
+      ],
+      "30": [
+        26
+      ],
+      "31": [
+        31
+      ],
+      "32": [
+        15
+      ],
+      "33": [
+        37
+      ],
+      "34": [
+        39,
+        40
+      ],
+      "40": [
+        29
+      ],
+      "41": [
+        29
+      ],
+      "43": [
+        15
+      ],
+      "44": [
+        16
+      ],
+      "46": [
+        16
+      ],
+      "47": [
+        17
+      ],
+      "49": [
+        33
+      ],
+      "50": [
+        20
+      ],
+      "51": [
+        30
+      ],
+      "52": [
+        31
+      ],
+      "53": [
+        32
+      ],
+      "54": [
+        34
+      ],
+      "55": [
+        35
+      ],
+      "56": [
+        36
+      ],
+      "57": [
+        37
+      ],
+      "58": [
+        38
+      ],
+      "59": [
+        39
+      ],
+      "60": [
+        40
+      ],
+      "61": [
+        40
+      ],
+      "62": [
+        40
+      ],
+      "63": [
+        41
+      ],
+      "64": [
+        42
+      ],
+      "65": [
+        42
+      ],
+      "66": [
+        43
+      ],
+      "67": [
+        44
+      ],
+      "68": [
+        45,
+        46
+      ],
+      "69": [
+        48
+      ],
+      "72": [
+        49
+      ],
+      "73": [
+        50
+      ],
+      "74": [
+        51
+      ],
+      "75": [
+        52
+      ],
+      "76": [
+        53
+      ],
+      "78": [
+        54,
+        55
+      ]
+    }
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32016L0943": "14d29e85d9d029759480e5a0228cbb1646df94ca1b9eaff981168407d90b727c"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "harmonisering",
+        "label": "Behovet av harmonisering",
+        "range": [
+          5,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "6"
+        ]
+      },
+      {
+        "id": "omfattning-begransningar",
+        "label": "Tillämpningsområde och begränsningar",
+        "range": [
+          10,
+          13
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "definitioner",
+        "label": "Definitioner och olagliga handlingar",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "id": "lagligt-anskaffande",
+        "label": "Lagligt anskaffande och utnyttjande",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "yttrandefrihet",
+        "label": "Yttrandefrihet och visselblåsning",
+        "range": [
+          19,
+          20
+        ],
+        "articleRefs": [
+          "1",
+          "5"
+        ]
+      },
+      {
+        "id": "rattsliga-principer",
+        "label": "Rättsliga principer och preskription",
+        "range": [
+          21,
+          23
+        ],
+        "articleRefs": [
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "konfidentialitet-domstol",
+        "label": "Konfidentialitet i domstolsförfaranden",
+        "range": [
+          24,
+          25
+        ],
+        "articleRefs": [
+          "9"
+        ]
+      },
+      {
+        "id": "interimistiska-atgarder",
+        "label": "Interimistiska och slutliga åtgärder",
+        "range": [
+          26,
+          27
+        ],
+        "articleRefs": [
+          "10",
+          "12"
+        ]
+      },
+      {
+        "id": "korrigeringsatgarder",
+        "label": "Korrigeringsåtgärder och alternativa lösningar",
+        "range": [
+          28,
+          29
+        ],
+        "articleRefs": [
+          "12",
+          "13"
+        ]
+      },
+      {
+        "id": "skadestand-offentliggorande",
+        "label": "Skadestånd och offentliggörande",
+        "range": [
+          30,
+          31
+        ],
+        "articleRefs": [
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "sanktioner-samarbete",
+        "label": "Sanktioner och samarbete",
+        "range": [
+          32,
+          33
+        ],
+        "articleRefs": [
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "grundrattigheter",
+        "label": "Grundläggande rättigheter och dataskydd",
+        "range": [
+          34,
+          35
+        ],
+        "articleRefs": [
+          "9"
+        ]
+      },
+      {
+        "id": "rattslig-kontext",
+        "label": "Rättslig kontext och förhållande till annan rätt",
+        "range": [
+          36,
+          40
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        10,
+        11,
+        12,
+        13,
+        19,
+        36,
+        38,
+        39
+      ],
+      "1.2.a": [
+        19
+      ],
+      "1.2.b": [
+        11
+      ],
+      "1.2.c": [
+        11
+      ],
+      "1.2.d": [
+        12
+      ],
+      "1.3": [
+        13,
+        14
+      ],
+      "2.1": [
+        14
+      ],
+      "3.1.b": [
+        16
+      ],
+      "3.1.c": [
+        18
+      ],
+      "3.2": [
+        18
+      ],
+      "4": [
+        15
+      ],
+      "4.2": [
+        15
+      ],
+      "4.3": [
+        15
+      ],
+      "4.5": [
+        28
+      ],
+      "5.a": [
+        19
+      ],
+      "5.b": [
+        20
+      ],
+      "5.c": [
+        18
+      ],
+      "6": [
+        10
+      ],
+      "7.1": [
+        21
+      ],
+      "7.2": [
+        22
+      ],
+      "8": [
+        23
+      ],
+      "9": [
+        24,
+        25,
+        35
+      ],
+      "9.1": [
+        24,
+        25
+      ],
+      "9.4": [
+        35
+      ],
+      "10": [
+        26
+      ],
+      "10.1": [
+        26
+      ],
+      "10.2": [
+        26
+      ],
+      "11.2": [
+        21
+      ],
+      "12": [
+        27
+      ],
+      "12.1.c": [
+        28
+      ],
+      "12.1.d": [
+        7
+      ],
+      "13.3": [
+        29
+      ],
+      "14": [
+        30
+      ],
+      "14.1": [
+        30
+      ],
+      "14.2": [
+        30
+      ],
+      "15": [
+        31
+      ],
+      "16": [
+        32
+      ],
+      "17": [
+        33
+      ]
+    }
+  }
+}

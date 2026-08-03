@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009R1224": "b135efab00e073e56fb67b99d20b1e18d0c88150110249bc476acd5fba9e0944"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "omfång-förhållande",
+        "label": "Tillämpningsområde och förhållande till annan rätt",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "teknik-strategi",
+        "label": "Tekniska system och kontrollstrategi",
+        "range": [
+          8,
+          12
+        ],
+        "articleRefs": [
+          "5",
+          "9",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "tillträde-utrustning",
+        "label": "Tillträde, licenser och utrustning",
+        "range": [
+          13,
+          16
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "12",
+          "13"
+        ]
+      },
+      {
+        "id": "rapportering-loggbok",
+        "label": "Rapportering och fiskeloggböcker",
+        "range": [
+          17,
+          19
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "hamn-omlastning",
+        "label": "Hamnkontroll och omlastning",
+        "range": [
+          20,
+          21
+        ],
+        "articleRefs": [
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "kapacitet-ansträngning",
+        "label": "Fiskekapacitet och fiskeansträngning",
+        "range": [
+          22,
+          23
+        ],
+        "articleRefs": [
+          "26",
+          "38",
+          "39",
+          "40",
+          "41"
+        ]
+      },
+      {
+        "id": "förvaltning-redskap",
+        "label": "Förvaltningsplaner och tekniska åtgärder",
+        "range": [
+          24,
+          27
+        ],
+        "articleRefs": [
+          "42",
+          "43",
+          "44",
+          "46",
+          "47",
+          "48",
+          "49",
+          "55"
+        ]
+      },
+      {
+        "id": "saluföring-spårbarhet",
+        "label": "Saluföring och spårbarhet",
+        "range": [
+          28,
+          32
+        ],
+        "articleRefs": [
+          "56",
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68",
+          "69",
+          "70"
+        ]
+      },
+      {
+        "id": "övervakning-inspektion",
+        "label": "Övervakning och inspektionsförfaranden",
+        "range": [
+          33,
+          36
+        ],
+        "articleRefs": [
+          "71",
+          "73",
+          "74",
+          "79"
+        ]
+      },
+      {
+        "id": "överträdelser-sanktioner",
+        "label": "Överträdelser och sanktionssystem",
+        "range": [
+          37,
+          40
+        ],
+        "articleRefs": [
+          "82",
+          "85",
+          "89",
+          "90",
+          "91",
+          "92",
+          "93"
+        ]
+      },
+      {
+        "id": "kommissionens-befogenheter",
+        "label": "Kommissionens befogenheter och korrigeringsåtgärder",
+        "range": [
+          41,
+          43
+        ],
+        "articleRefs": [
+          "36",
+          "37",
+          "103",
+          "104",
+          "105",
+          "106",
+          "107",
+          "108"
+        ]
+      },
+      {
+        "id": "information-webbplatser",
+        "label": "Informationsutbyte och officiella webbplatser",
+        "range": [
+          44,
+          45
+        ],
+        "articleRefs": [
+          "33",
+          "109",
+          "110",
+          "111",
+          "114",
+          "115",
+          "116"
+        ]
+      },
+      {
+        "id": "genomförande-styrning",
+        "label": "Genomförande och organisatoriskt stöd",
+        "range": [
+          46,
+          47
+        ],
+        "articleRefs": [
+          "119",
+          "79"
+        ]
+      },
+      {
+        "id": "dataskydd-sekretess",
+        "label": "Dataskydd och sekretess",
+        "range": [
+          48,
+          48
+        ],
+        "articleRefs": [
+          "112",
+          "113"
+        ]
+      },
+      {
+        "id": "slutförbestämmelser",
+        "label": "Ändringar och slutförbestämmelser",
+        "range": [
+          49,
+          51
+        ],
+        "articleRefs": [
+          "120",
+          "121",
+          "122",
+          "123",
+          "124"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        6,
+        7
+      ],
+      "3": [
+        7
+      ],
+      "5": [
+        2,
+        11,
+        12
+      ],
+      "6": [
+        13
+      ],
+      "7": [
+        13
+      ],
+      "8": [
+        13
+      ],
+      "9": [
+        8,
+        14
+      ],
+      "10": [
+        14
+      ],
+      "11": [
+        8
+      ],
+      "12": [
+        15
+      ],
+      "13": [
+        16
+      ],
+      "14": [
+        17
+      ],
+      "15": [
+        17
+      ],
+      "16": [
+        19
+      ],
+      "17": [
+        21
+      ],
+      "18": [
+        21
+      ],
+      "19": [
+        21
+      ],
+      "20": [
+        20
+      ],
+      "21": [
+        20
+      ],
+      "22": [
+        20
+      ],
+      "23": [
+        18
+      ],
+      "24": [
+        18
+      ],
+      "25": [
+        19
+      ],
+      "26": [
+        22
+      ],
+      "33": [
+        44
+      ],
+      "35": [
+        10
+      ],
+      "36": [
+        43
+      ],
+      "37": [
+        43
+      ],
+      "38": [
+        23
+      ],
+      "39": [
+        23
+      ],
+      "40": [
+        23
+      ],
+      "41": [
+        23
+      ],
+      "42": [
+        24
+      ],
+      "43": [
+        24
+      ],
+      "44": [
+        24
+      ],
+      "46": [
+        24
+      ],
+      "47": [
+        25
+      ],
+      "48": [
+        25
+      ],
+      "49": [
+        25
+      ],
+      "50": [
+        26
+      ],
+      "51": [
+        26
+      ],
+      "52": [
+        26
+      ],
+      "53": [
+        26
+      ],
+      "54": [
+        26
+      ],
+      "55": [
+        27
+      ],
+      "56": [
+        28
+      ],
+      "57": [
+        28
+      ],
+      "58": [
+        28
+      ],
+      "59": [
+        29
+      ],
+      "60": [
+        29
+      ],
+      "61": [
+        29
+      ],
+      "62": [
+        30
+      ],
+      "63": [
+        30
+      ],
+      "64": [
+        30
+      ],
+      "65": [
+        30
+      ],
+      "66": [
+        31
+      ],
+      "67": [
+        31
+      ],
+      "68": [
+        31
+      ],
+      "69": [
+        32
+      ],
+      "70": [
+        32
+      ],
+      "71": [
+        33
+      ],
+      "73": [
+        34
+      ],
+      "74": [
+        34
+      ],
+      "79": [
+        36,
+        47
+      ],
+      "82": [
+        37
+      ],
+      "85": [
+        37
+      ],
+      "89": [
+        38
+      ],
+      "90": [
+        39
+      ],
+      "91": [
+        39
+      ],
+      "92": [
+        40
+      ],
+      "93": [
+        40
+      ],
+      "103": [
+        42
+      ],
+      "104": [
+        43
+      ],
+      "105": [
+        22
+      ],
+      "106": [
+        22
+      ],
+      "107": [
+        43
+      ],
+      "108": [
+        43
+      ],
+      "109": [
+        11
+      ],
+      "110": [
+        44
+      ],
+      "111": [
+        11
+      ],
+      "112": [
+        48
+      ],
+      "113": [
+        48
+      ],
+      "114": [
+        45
+      ],
+      "115": [
+        45
+      ],
+      "116": [
+        45
+      ],
+      "119": [
+        46
+      ]
+    }
+  }
+}

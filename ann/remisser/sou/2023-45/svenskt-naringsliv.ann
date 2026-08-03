@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:remisser/sou/2023:45/svenskt-naringsliv": "18dd1c99308902edc710249cceebc4e05e6376ab39582835af2859f5dfe7b825",
+      "artifact:forarbete/sou/2023-45": "2656d53642f7622cd8d0506880eaa07bd2157c6f69d7ae787bf078d29bf3ac66"
+    }
+  },
+  "overall": {
+    "sentiment": 0.6,
+    "quote": "Svenskt Näringsliv är således — med undantag för vad som anges nedan positiv till utredningens förslag."
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": -0.8,
+      "quote": "Svenskt Näringsliv motsätter sig att anmälningsskyldigheten inte ska omfatta övergångar till uppdrag och anställningar till företag där kommunen, regionen eller kommunalförbundet utövar ett rätt sligt bestämmande inflytande."
+    },
+    {
+      "forarbete_id": "a10.5",
+      "sentiment": -0.8,
+      "quote": "Samma synpunkter som ovan under rubriken Kapitel 7.4.2 Anmälningsskyldigheten bör begränsas."
+    },
+    {
+      "forarbete_id": "a10.10",
+      "sentiment": -0.5,
+      "quote": "Innan denna analys är gjord kan Svenskt Näringsliv inte tillstyrka att ämnesrestriktioner införs för en utvidgad krets av arbetstagare."
+    },
+    {
+      "forarbete_id": "a10.15.3",
+      "sentiment": -0.9,
+      "quote": "Svenskt Näringsliv kan inte tillstyrka att restriktionsersättningens storlek ska motsvara hela arbetstagarens månadslön vid anställningens upphörande."
+    }
+  ]
+}

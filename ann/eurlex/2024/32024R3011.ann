@@ -1,0 +1,404 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R3011": "2433593531a36dbce96c950f0ae34f93b7e49857c256ea3e7290b79fe041cd8b"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-forhallanden",
+        "label": "Tillämpningsområde och förhållande till annan lagstiftning",
+        "range": [
+          7,
+          12
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "behoriga-myndigheter",
+        "label": "Behöriga myndigheter",
+        "range": [
+          13,
+          15
+        ],
+        "articleRefs": [
+          "2",
+          "20"
+        ]
+      },
+      {
+        "id": "behorighet-lagforing",
+        "label": "Behörighet och lagföring",
+        "range": [
+          16,
+          19
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "grundrattigheter-rattsakerhet",
+        "label": "Grundläggande rättigheter och rättssäkerhet",
+        "range": [
+          20,
+          23
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "17"
+        ]
+      },
+      {
+        "id": "kriterier-ansokan",
+        "label": "Kriterier för ansökan om överföring",
+        "range": [
+          24,
+          30
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "information-berorda-personer",
+        "label": "Information till och rättigheter för berörda personer",
+        "range": [
+          31,
+          36
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "forfarande-overforing",
+        "label": "Förfarandet för ansökan och överföring",
+        "range": [
+          37,
+          42
+        ],
+        "articleRefs": [
+          "8",
+          "10",
+          "11",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "skal-för-avslag",
+        "label": "Skäl för avslag",
+        "range": [
+          43,
+          46
+        ],
+        "articleRefs": [
+          "12"
+        ]
+      },
+      {
+        "id": "rattsmedel",
+        "label": "Rättsmedel",
+        "range": [
+          47,
+          52
+        ],
+        "articleRefs": [
+          "17"
+        ]
+      },
+      {
+        "id": "effekter-ansokande-stat",
+        "label": "Effekter i den ansökande staten",
+        "range": [
+          53,
+          56
+        ],
+        "articleRefs": [
+          "21"
+        ]
+      },
+      {
+        "id": "effekter-anmodad-stat",
+        "label": "Effekter i den anmodade staten",
+        "range": [
+          57,
+          60
+        ],
+        "articleRefs": [
+          "22"
+        ]
+      },
+      {
+        "id": "kostnader-personuppgifter",
+        "label": "Kostnader och personuppgiftsskydd",
+        "range": [
+          61,
+          63
+        ],
+        "articleRefs": [
+          "8",
+          "19"
+        ]
+      },
+      {
+        "id": "it-system-statistik",
+        "label": "IT-system och statistik",
+        "range": [
+          64,
+          69
+        ],
+        "articleRefs": [
+          "24",
+          "25",
+          "26",
+          "28",
+          "29",
+          "30",
+          "31"
+        ]
+      },
+      {
+        "id": "allmana-bestammelser",
+        "label": "Allmänna bestämmelser och dataskydd",
+        "range": [
+          70,
+          74
+        ],
+        "articleRefs": [
+          "32"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "2": [
+        12,
+        13,
+        14
+      ],
+      "3": [
+        17,
+        18
+      ],
+      "3.1": [
+        18
+      ],
+      "4": [
+        19
+      ],
+      "5": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "5.1": [
+        24
+      ],
+      "5.2": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "5.3": [
+        30
+      ],
+      "6": [
+        20,
+        21,
+        22,
+        31
+      ],
+      "6.3": [
+        31
+      ],
+      "7": [
+        20,
+        21,
+        32,
+        33,
+        35
+      ],
+      "7.2": [
+        35
+      ],
+      "8": [
+        36,
+        62,
+        63
+      ],
+      "8.2.c": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "9": [
+        39
+      ],
+      "10": [
+        40
+      ],
+      "11": [
+        41
+      ],
+      "11.5": [
+        42
+      ],
+      "11.6": [
+        42
+      ],
+      "12": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "12.1": [
+        43,
+        44
+      ],
+      "12.2": [
+        43,
+        45
+      ],
+      "13": [
+        41
+      ],
+      "14": [
+        37,
+        38
+      ],
+      "15": [
+        31,
+        41
+      ],
+      "16": [
+        32,
+        33,
+        35
+      ],
+      "17": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "17.1": [
+        47
+      ],
+      "17.2": [
+        48,
+        49,
+        50
+      ],
+      "17.3": [
+        51
+      ],
+      "19": [
+        61
+      ],
+      "20": [
+        15
+      ],
+      "21": [
+        53,
+        54,
+        56
+      ],
+      "21.1": [
+        53
+      ],
+      "21.2": [
+        53,
+        54
+      ],
+      "21.5": [
+        56
+      ],
+      "22": [
+        57,
+        58,
+        59,
+        60
+      ],
+      "22.2": [
+        59
+      ],
+      "22.3": [
+        54
+      ],
+      "22.5": [
+        59
+      ],
+      "22.8": [
+        60
+      ],
+      "23": [
+        55
+      ],
+      "24": [
+        65,
+        66
+      ],
+      "25": [
+        69
+      ],
+      "26": [
+        66,
+        67
+      ],
+      "28": [
+        68
+      ],
+      "29": [
+        64
+      ],
+      "30": [
+        64
+      ],
+      "31": [
+        69
+      ],
+      "32": [
+        70
+      ]
+    }
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R1348": "ed3b3f6959a10d03a7999486e16b2a928c049600e11c4b7b81592573c6562238"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "tillämpningsområde-internationellt",
+        "label": "Tillämpningsområde och internationella åtaganden",
+        "range": [
+          8,
+          10
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "stöd-och-resurser",
+        "label": "Ekonomiskt stöd och operativt bistånd",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "76"
+        ]
+      },
+      {
+        "id": "förfarandegarantier-intervjuer",
+        "label": "Förfarandegarantier och personliga intervjuer",
+        "range": [
+          13,
+          16
+        ],
+        "articleRefs": [
+          "8",
+          "11",
+          "12",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "sårbarhet-särskilda-behov",
+        "label": "Särskilda förfarandegarantier och sårbarhet",
+        "range": [
+          17,
+          21
+        ],
+        "articleRefs": [
+          "20",
+          "21"
+        ]
+      },
+      {
+        "id": "barns-bästa-och-underåriga",
+        "label": "Skydd för underåriga och barns bästa",
+        "range": [
+          23,
+          37
+        ],
+        "articleRefs": [
+          "22",
+          "23",
+          "25"
+        ]
+      },
+      {
+        "id": "grundläggande-rättigheter",
+        "label": "Övriga grundläggande rättigheter och skyldigheter",
+        "range": [
+          22,
+          25
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "tillgång-till-förfarandet",
+        "label": "Tillgång till förfarandet: Ansökan och registrering",
+        "range": [
+          26,
+          33
+        ],
+        "articleRefs": [
+          "26",
+          "27",
+          "28",
+          "29",
+          "30"
+        ]
+      },
+      {
+        "id": "prövning-och-beslut",
+        "label": "Prövningsförfarandet och beslutsfattande",
+        "range": [
+          38,
+          44
+        ],
+        "articleRefs": [
+          "34",
+          "35",
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "nekande-av-prövning",
+        "label": "Nekande av prövning och säkra länder",
+        "range": [
+          45,
+          53
+        ],
+        "articleRefs": [
+          "38",
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ]
+      },
+      {
+        "id": "påskyndat-förfarande",
+        "label": "Påskyndat prövningsförfarande",
+        "range": [
+          54,
+          56
+        ],
+        "articleRefs": [
+          "42"
+        ]
+      },
+      {
+        "id": "gränsförfarandet",
+        "label": "Gränsförfarandet för asyl",
+        "range": [
+          57,
+          73
+        ],
+        "articleRefs": [
+          "43",
+          "44",
+          "45",
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54"
+        ]
+      },
+      {
+        "id": "efterföljande-ansökningar",
+        "label": "Hantering av efterföljande ansökningar",
+        "range": [
+          76,
+          78
+        ],
+        "articleRefs": [
+          "55",
+          "56"
+        ]
+      },
+      {
+        "id": "återkallande-av-skydd",
+        "label": "Återkallande av internationellt skydd",
+        "range": [
+          86,
+          86
+        ],
+        "articleRefs": [
+          "65",
+          "66"
+        ]
+      },
+      {
+        "id": "överklagande-rättsmedel",
+        "label": "Överklagande och effektiva rättsmedel",
+        "range": [
+          87,
+          96
+        ],
+        "articleRefs": [
+          "67",
+          "68",
+          "69"
+        ]
+      },
+      {
+        "id": "slutbestämmelser-data",
+        "label": "Slutbestämmelser, dataskydd och utvärdering",
+        "range": [
+          97,
+          108
+        ],
+        "articleRefs": [
+          "71",
+          "72",
+          "77"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1
+      ],
+      "2": [
+        8,
+        9,
+        10
+      ],
+      "4": [
+        12,
+        32,
+        42
+      ],
+      "5": [
+        12
+      ],
+      "8": [
+        13,
+        16,
+        31
+      ],
+      "9": [
+        22,
+        31
+      ],
+      "10": [
+        25
+      ],
+      "11": [
+        14
+      ],
+      "12": [
+        14
+      ],
+      "13": [
+        14,
+        15,
+        21
+      ],
+      "14": [
+        14
+      ],
+      "15": [
+        16
+      ],
+      "16": [
+        16
+      ],
+      "17": [
+        16
+      ],
+      "19": [
+        16
+      ],
+      "20": [
+        17,
+        18
+      ],
+      "21": [
+        20
+      ],
+      "22": [
+        23
+      ],
+      "23": [
+        35,
+        36
+      ],
+      "25": [
+        36,
+        37
+      ],
+      "26": [
+        27
+      ],
+      "27": [
+        28
+      ],
+      "28": [
+        29
+      ],
+      "29": [
+        29
+      ],
+      "30": [
+        33
+      ],
+      "31": [
+        34
+      ],
+      "32": [
+        23
+      ],
+      "33": [
+        35
+      ],
+      "34": [
+        38,
+        42
+      ],
+      "35": [
+        26,
+        43
+      ],
+      "36": [
+        39
+      ],
+      "37": [
+        40
+      ],
+      "38": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "39": [
+        54
+      ],
+      "41": [
+        31
+      ],
+      "42": [
+        55,
+        56
+      ],
+      "43": [
+        57,
+        58
+      ],
+      "44": [
+        58
+      ],
+      "45": [
+        60
+      ],
+      "46": [
+        68
+      ],
+      "47": [
+        59
+      ],
+      "48": [
+        59
+      ],
+      "49": [
+        59
+      ],
+      "50": [
+        59
+      ],
+      "51": [
+        68
+      ],
+      "52": [
+        73
+      ],
+      "53": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "54": [
+        65,
+        67
+      ],
+      "55": [
+        76,
+        77,
+        78
+      ],
+      "56": [
+        76
+      ],
+      "57": [
+        46,
+        51
+      ],
+      "58": [
+        47
+      ],
+      "59": [
+        48
+      ],
+      "60": [
+        82
+      ],
+      "61": [
+        79,
+        80
+      ],
+      "62": [
+        81
+      ],
+      "63": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "64": [
+        81
+      ],
+      "65": [
+        86
+      ],
+      "66": [
+        86
+      ],
+      "67": [
+        87,
+        88,
+        89
+      ],
+      "68": [
+        91,
+        92,
+        93,
+        94
+      ],
+      "69": [
+        43
+      ],
+      "72": [
+        12,
+        72
+      ],
+      "77": [
+        104
+      ]
+    }
+  }
+}

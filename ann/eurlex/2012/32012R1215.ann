@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32012R1215": "8b8e43f919cd71f8ecf9e0c75498750f1915cdebbdbe224afec873086345577f"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "rattslig-historik",
+        "label": "Rättslig historik och kontinuitet",
+        "range": [
+          7,
+          9
+        ],
+        "articleRefs": [
+          "68",
+          "69"
+        ]
+      },
+      {
+        "id": "tillampningsomrade",
+        "label": "Tillämpningsområde och undantag",
+        "range": [
+          10,
+          12
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "allmanna-behorighetsregler",
+        "label": "Allmänna behörighetsregler",
+        "range": [
+          13,
+          17
+        ],
+        "articleRefs": [
+          "4",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "skyddade-parter-avtal",
+        "label": "Skyddade parter och behörighetsavtal",
+        "range": [
+          18,
+          20
+        ],
+        "articleRefs": [
+          "10",
+          "15",
+          "19",
+          "20",
+          "21",
+          "25"
+        ]
+      },
+      {
+        "id": "litispendens-samband",
+        "label": "Litispendens och samband",
+        "range": [
+          21,
+          24
+        ],
+        "articleRefs": [
+          "29",
+          "30",
+          "31",
+          "33",
+          "34"
+        ]
+      },
+      {
+        "id": "interimistiska-atgarder-def",
+        "label": "Interimistiska åtgärder (definition)",
+        "range": [
+          25,
+          25
+        ],
+        "articleRefs": [
+          "2",
+          "35"
+        ]
+      },
+      {
+        "id": "erkannande-verkstallelighet",
+        "label": "Erkännande och verkställighet",
+        "range": [
+          26,
+          32
+        ],
+        "articleRefs": [
+          "36",
+          "39",
+          "41",
+          "42",
+          "43",
+          "44"
+        ]
+      },
+      {
+        "id": "interimistiska-atgarder-verk",
+        "label": "Interimistiska åtgärder (verkställighet)",
+        "range": [
+          33,
+          33
+        ],
+        "articleRefs": [
+          "35",
+          "42.2"
+        ]
+      },
+      {
+        "id": "internationella-ataganden",
+        "label": "Kontinuitet och internationella åtaganden",
+        "range": [
+          34,
+          36
+        ],
+        "articleRefs": [
+          "66",
+          "67",
+          "71",
+          "73"
+        ]
+      },
+      {
+        "id": "delegerade-akter",
+        "label": "Delegerade akter och bilagor",
+        "range": [
+          37,
+          37
+        ],
+        "articleRefs": [
+          "53",
+          "60",
+          "77"
+        ]
+      },
+      {
+        "id": "grundrattigheter-principer",
+        "label": "Grundläggande rättigheter och principer",
+        "range": [
+          38,
+          39
+        ],
+        "articleRefs": [
+          "45",
+          "47"
+        ]
+      },
+      {
+        "id": "institutionella-bestammelser",
+        "label": "Institutionella bestämmelser",
+        "range": [
+          40,
+          41
+        ],
+        "articleRefs": []
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        10,
+        12
+      ],
+      "1.2.d": [
+        12
+      ],
+      "1.2.e": [
+        10
+      ],
+      "2": [
+        2,
+        25
+      ],
+      "4": [
+        13,
+        15
+      ],
+      "6": [
+        14
+      ],
+      "7": [
+        16
+      ],
+      "7.4": [
+        17
+      ],
+      "10": [
+        18
+      ],
+      "11": [
+        18
+      ],
+      "15": [
+        18,
+        19
+      ],
+      "17": [
+        18
+      ],
+      "18": [
+        18
+      ],
+      "19": [
+        18,
+        19
+      ],
+      "20": [
+        18
+      ],
+      "21": [
+        18
+      ],
+      "23": [
+        18,
+        19
+      ],
+      "25": [
+        19,
+        20
+      ],
+      "29": [
+        21,
+        22
+      ],
+      "30": [
+        21
+      ],
+      "31": [
+        21,
+        22
+      ],
+      "33": [
+        23,
+        24
+      ],
+      "34": [
+        23,
+        24
+      ],
+      "35": [
+        25,
+        33
+      ],
+      "36": [
+        26,
+        27
+      ],
+      "39": [
+        26
+      ],
+      "42": [
+        32
+      ],
+      "42.2": [
+        33
+      ],
+      "43": [
+        32
+      ],
+      "44": [
+        29,
+        31
+      ],
+      "45": [
+        28,
+        29,
+        30
+      ],
+      "47": [
+        29
+      ],
+      "53": [
+        37
+      ],
+      "54": [
+        28
+      ],
+      "60": [
+        37
+      ],
+      "66": [
+        34
+      ],
+      "67": [
+        35
+      ],
+      "71": [
+        35
+      ],
+      "73": [
+        36
+      ],
+      "77": [
+        37
+      ]
+    }
+  }
+}

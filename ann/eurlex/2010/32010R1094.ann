@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32010R1094": "c050aa6eae677ed90ed1c043cf6e6e79658a886c489db9fcef2ddcaee14fbeff"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-behov",
+        "label": "Bakgrund och behov av europeisk tillsyn",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "inrättande-syfte",
+        "label": "Inrättande av ESFS och myndighetens syfte",
+        "range": [
+          8,
+          13
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "5"
+        ]
+      },
+      {
+        "id": "omfång-rättslig-grund",
+        "label": "Tillämpningsområde och rättslig grund",
+        "range": [
+          14,
+          19
+        ],
+        "articleRefs": [
+          "1",
+          "4",
+          "26"
+        ]
+      },
+      {
+        "id": "tekniska-standarder",
+        "label": "Tekniska standarder, riktlinjer och rekommendationer",
+        "range": [
+          20,
+          25
+        ],
+        "articleRefs": [
+          "10",
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "överträdelser-kris-tvister",
+        "label": "Överträdelser av unionsrätten, krissituationer och tvistlösning",
+        "range": [
+          26,
+          31
+        ],
+        "articleRefs": [
+          "17",
+          "18",
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "samarbete-kollegier",
+        "label": "Tillsynskollegier och samarbete mellan myndigheter",
+        "range": [
+          32,
+          38
+        ],
+        "articleRefs": [
+          "21",
+          "28"
+        ]
+      },
+      {
+        "id": "konvergens-utvärdering",
+        "label": "Konvergens, inbördes utvärderingar och samordning",
+        "range": [
+          39,
+          41
+        ],
+        "articleRefs": [
+          "29",
+          "30",
+          "31"
+        ]
+      },
+      {
+        "id": "marknad-internationellt",
+        "label": "Marknadsövervakning, analyser och internationella relationer",
+        "range": [
+          42,
+          44
+        ],
+        "articleRefs": [
+          "32",
+          "33",
+          "34"
+        ]
+      },
+      {
+        "id": "data-esrb-intressenter",
+        "label": "Datainsamling, relation till ESRB och intressentgrupper",
+        "range": [
+          45,
+          49
+        ],
+        "articleRefs": [
+          "35",
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "skydd-rättsprinciper",
+        "label": "Finanspolitiska skyddsåtgärder och rättssäkerhet",
+        "range": [
+          50,
+          51
+        ],
+        "articleRefs": [
+          "38",
+          "39"
+        ]
+      },
+      {
+        "id": "styrning-organisation",
+        "label": "Organisation, tillsynsstyrelse och förvaltningsstyrelse",
+        "range": [
+          52,
+          56
+        ],
+        "articleRefs": [
+          "40",
+          "43",
+          "45",
+          "47",
+          "48",
+          "51",
+          "53"
+        ]
+      },
+      {
+        "id": "gemensamma-organ-överklagan",
+        "label": "Gemensamma kommittén och överklagandenämnden",
+        "range": [
+          57,
+          58
+        ],
+        "articleRefs": [
+          "54",
+          "56",
+          "60"
+        ]
+      },
+      {
+        "id": "budget-personal",
+        "label": "Budget, förvaltning och personal",
+        "range": [
+          59,
+          61
+        ],
+        "articleRefs": [
+          "62",
+          "63",
+          "68"
+        ]
+      },
+      {
+        "id": "sekretess-insyn",
+        "label": "Konfidentialitet, personuppgifter och offentlighet",
+        "range": [
+          62,
+          64
+        ],
+        "articleRefs": [
+          "70",
+          "71",
+          "72"
+        ]
+      },
+      {
+        "id": "tredjeländer-övergång",
+        "label": "Tredjeländer, subsidiaritet och övergångsbestämmelser",
+        "range": [
+          65,
+          69
+        ],
+        "articleRefs": [
+          "75",
+          "76",
+          "82"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        9,
+        10,
+        16,
+        17,
+        18
+      ],
+      "1.2": [
+        17,
+        18
+      ],
+      "1.6": [
+        10,
+        11,
+        12
+      ],
+      "2": [
+        7,
+        8
+      ],
+      "4": [
+        14,
+        15
+      ],
+      "5": [
+        13
+      ],
+      "8.1.a": [
+        20,
+        21
+      ],
+      "8.1.b": [
+        7,
+        26,
+        31
+      ],
+      "8.1.c": [
+        38
+      ],
+      "8.1.d": [
+        46
+      ],
+      "8.1.e": [
+        40
+      ],
+      "8.1.f": [
+        42
+      ],
+      "8.1.g": [
+        42
+      ],
+      "9.1": [
+        10
+      ],
+      "9.5": [
+        11
+      ],
+      "10": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "15": [
+        24
+      ],
+      "16": [
+        25
+      ],
+      "17": [
+        26,
+        27,
+        28
+      ],
+      "17.6": [
+        28
+      ],
+      "18": [
+        29,
+        30
+      ],
+      "18.3": [
+        29
+      ],
+      "18.4": [
+        28
+      ],
+      "19": [
+        31
+      ],
+      "19.3": [
+        31
+      ],
+      "19.4": [
+        31
+      ],
+      "21": [
+        35
+      ],
+      "22": [
+        14
+      ],
+      "23": [
+        14
+      ],
+      "25": [
+        36
+      ],
+      "26": [
+        19
+      ],
+      "27": [
+        36
+      ],
+      "28": [
+        38
+      ],
+      "29": [
+        39
+      ],
+      "30": [
+        40
+      ],
+      "31": [
+        41
+      ],
+      "32": [
+        42
+      ],
+      "33": [
+        43
+      ],
+      "34": [
+        44
+      ],
+      "35": [
+        45
+      ],
+      "36": [
+        46
+      ],
+      "37": [
+        47,
+        48,
+        49
+      ],
+      "38": [
+        50
+      ],
+      "39": [
+        51
+      ],
+      "40": [
+        52
+      ],
+      "43": [
+        52
+      ],
+      "45": [
+        54
+      ],
+      "47": [
+        54
+      ],
+      "48": [
+        55
+      ],
+      "51": [
+        56
+      ],
+      "54": [
+        57
+      ],
+      "56": [
+        57
+      ],
+      "60": [
+        58
+      ],
+      "62": [
+        59
+      ],
+      "68": [
+        61
+      ],
+      "70": [
+        62
+      ],
+      "71": [
+        63
+      ],
+      "72": [
+        64
+      ],
+      "75": [
+        65
+      ],
+      "82": [
+        68,
+        69
+      ]
+    }
+  }
+}

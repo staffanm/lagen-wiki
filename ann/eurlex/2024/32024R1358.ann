@@ -1,0 +1,455 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R1358": "91ae4ccc8feb9cd8f1ce445dd92c46f33aa7a1247588cc34301f0cc5e0d6ece2"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "sakerhetsflaggning-sarstkilla-fall",
+        "label": "Säkerhetsflaggning och särskilda fall",
+        "range": [
+          6,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "17"
+        ]
+      },
+      {
+        "id": "tillfalligt-skydd",
+        "label": "Tillfälligt skydd",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "26"
+        ]
+      },
+      {
+        "id": "systemuppbyggnad-interoperabilitet",
+        "label": "Systemuppbyggnad och interoperabilitet",
+        "range": [
+          12,
+          17
+        ],
+        "articleRefs": [
+          "3",
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "biometriska-metoder",
+        "label": "Biometriska metoder",
+        "range": [
+          18,
+          19
+        ],
+        "articleRefs": [
+          "13",
+          "28"
+        ]
+      },
+      {
+        "id": "atersandande-identifiering",
+        "label": "Återsändande och identifiering",
+        "range": [
+          20,
+          24
+        ],
+        "articleRefs": [
+          "22",
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "myndighetsatkomst-samarbete",
+        "label": "Myndighetsåtkomst och samarbete",
+        "range": [
+          25,
+          27
+        ],
+        "articleRefs": [
+          "4",
+          "12"
+        ]
+      },
+      {
+        "id": "brottsbekampande-andamal",
+        "label": "Brottsbekämpande ändamål",
+        "range": [
+          28,
+          36
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7",
+          "32",
+          "33",
+          "34",
+          "35"
+        ]
+      },
+      {
+        "id": "registreringsskyldighet-omfattning",
+        "label": "Registreringsskyldighet och omfattning",
+        "range": [
+          37,
+          43
+        ],
+        "articleRefs": [
+          "13",
+          "15",
+          "18",
+          "20",
+          "22",
+          "23",
+          "24",
+          "26"
+        ]
+      },
+      {
+        "id": "skydd-av-underariga",
+        "label": "Skydd av underåriga",
+        "range": [
+          44,
+          47
+        ],
+        "articleRefs": [
+          "14"
+        ]
+      },
+      {
+        "id": "tekniska-regler-kvalitet",
+        "label": "Tekniska regler och kvalitet",
+        "range": [
+          48,
+          54
+        ],
+        "articleRefs": [
+          "13",
+          "38"
+        ]
+      },
+      {
+        "id": "lagring-och-radering",
+        "label": "Lagring och radering",
+        "range": [
+          55,
+          66
+        ],
+        "articleRefs": [
+          "29",
+          "30",
+          "31"
+        ]
+      },
+      {
+        "id": "forvaltning-kontrollmyndigheter",
+        "label": "Förvaltning och kontrollmyndigheter",
+        "range": [
+          67,
+          75
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7",
+          "32"
+        ]
+      },
+      {
+        "id": "dataskydd-rettslig-ram",
+        "label": "Dataskydd och rättslig ram",
+        "range": [
+          76,
+          81
+        ],
+        "articleRefs": [
+          "44",
+          "45",
+          "46",
+          "47",
+          "48"
+        ]
+      },
+      {
+        "id": "registrerades-rattigheter",
+        "label": "De registrerades rättigheter",
+        "range": [
+          82,
+          85
+        ],
+        "articleRefs": [
+          "40",
+          "42",
+          "43",
+          "49",
+          "50"
+        ]
+      },
+      {
+        "id": "tillsyn-utvardring-sanktioner",
+        "label": "Tillsyn, utvärdering och sanktioner",
+        "range": [
+          86,
+          99
+        ],
+        "articleRefs": [
+          "44",
+          "45",
+          "46",
+          "57",
+          "58",
+          "59"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        17
+      ],
+      "3": [
+        13,
+        17
+      ],
+      "4": [
+        67
+      ],
+      "5": [
+        28,
+        69
+      ],
+      "6": [
+        71,
+        72
+      ],
+      "7": [
+        28,
+        31,
+        32,
+        70
+      ],
+      "8": [
+        13,
+        15
+      ],
+      "9": [
+        13,
+        15
+      ],
+      "10": [
+        13,
+        15
+      ],
+      "11": [
+        13,
+        15
+      ],
+      "12": [
+        16
+      ],
+      "13": [
+        12,
+        38,
+        49,
+        51,
+        52
+      ],
+      "14": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "15": [
+        2,
+        3,
+        37,
+        38,
+        40
+      ],
+      "16": [
+        3,
+        21
+      ],
+      "17": [
+        7,
+        8,
+        17
+      ],
+      "18": [
+        5,
+        57
+      ],
+      "19": [
+        5,
+        57
+      ],
+      "20": [
+        4,
+        5
+      ],
+      "21": [
+        4,
+        5
+      ],
+      "22": [
+        6,
+        22,
+        38
+      ],
+      "23": [
+        20,
+        22,
+        24,
+        38
+      ],
+      "24": [
+        6,
+        38
+      ],
+      "25": [
+        3
+      ],
+      "26": [
+        9,
+        10,
+        11
+      ],
+      "27": [
+        12,
+        19,
+        54
+      ],
+      "28": [
+        12,
+        19,
+        54
+      ],
+      "29": [
+        55,
+        58,
+        59,
+        63,
+        64
+      ],
+      "30": [
+        65
+      ],
+      "31": [
+        21,
+        66
+      ],
+      "32": [
+        28,
+        35,
+        71,
+        73
+      ],
+      "33": [
+        30,
+        33,
+        74
+      ],
+      "34": [
+        32,
+        33,
+        74
+      ],
+      "35": [
+        36
+      ],
+      "36": [
+        68
+      ],
+      "37": [
+        48
+      ],
+      "38": [
+        49,
+        54
+      ],
+      "40": [
+        82
+      ],
+      "42": [
+        52,
+        87
+      ],
+      "43": [
+        82
+      ],
+      "44": [
+        88
+      ],
+      "45": [
+        86,
+        88
+      ],
+      "46": [
+        88,
+        89
+      ],
+      "47": [
+        78,
+        81
+      ],
+      "48": [
+        80
+      ],
+      "49": [
+        84
+      ],
+      "50": [
+        85
+      ],
+      "51": [
+        73
+      ],
+      "52": [
+        76
+      ],
+      "57": [
+        90
+      ],
+      "58": [
+        11
+      ],
+      "59": [
+        91
+      ],
+      "60": [
+        97
+      ]
+    }
+  }
+}

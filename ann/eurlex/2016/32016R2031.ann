@@ -1,0 +1,474 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32016R2031": "24eb00d054bcb659eb5665b58da4cfaa6e6499fecbdeffc94914b196f5dc0090"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "karantanskadegörare-definitioner",
+        "label": "Definitioner av karantänskadegörare",
+        "range": [
+          8,
+          9
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "anmalan-bekraftelse",
+        "label": "Anmälningsskyldighet och bekräftelse",
+        "range": [
+          10,
+          12
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "11",
+          "12",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "utrotning-inneslutning",
+        "label": "Utrotning och inneslutning",
+        "range": [
+          13,
+          18
+        ],
+        "articleRefs": [
+          "17",
+          "18",
+          "19",
+          "28"
+        ]
+      },
+      {
+        "id": "skyddade-zoner-icke-karantan",
+        "label": "Skyddade zoner och icke-karantänskadegörare",
+        "range": [
+          19,
+          23
+        ],
+        "articleRefs": [
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "inforsel-hogrisk",
+        "label": "Införsel och högriskväxter",
+        "range": [
+          24,
+          25
+        ],
+        "articleRefs": [
+          "40",
+          "41",
+          "42"
+        ]
+      },
+      {
+        "id": "undantag-inforsel",
+        "label": "Undantag och särskilda villkor vid införsel",
+        "range": [
+          26,
+          31
+        ],
+        "articleRefs": [
+          "46",
+          "47",
+          "48",
+          "49"
+        ]
+      },
+      {
+        "id": "skyddszoner-allmant",
+        "label": "Allmänna krav för skyddade zoner",
+        "range": [
+          32,
+          33
+        ],
+        "articleRefs": [
+          "53",
+          "54"
+        ]
+      },
+      {
+        "id": "karantansstationer",
+        "label": "Karantänstationer och inneslutningsanläggningar",
+        "range": [
+          34,
+          35
+        ],
+        "articleRefs": [
+          "60",
+          "61",
+          "62",
+          "63",
+          "64"
+        ]
+      },
+      {
+        "id": "registrering-sparbarhet",
+        "label": "Registrering och spårbarhet",
+        "range": [
+          36,
+          38
+        ],
+        "articleRefs": [
+          "65",
+          "66",
+          "67",
+          "68",
+          "69",
+          "70"
+        ]
+      },
+      {
+        "id": "sundhetscertifikat",
+        "label": "Sundhetscertifikat",
+        "range": [
+          39,
+          41
+        ],
+        "articleRefs": [
+          "71",
+          "72",
+          "73",
+          "74",
+          "100",
+          "101",
+          "102"
+        ]
+      },
+      {
+        "id": "vaxpass",
+        "label": "Växtpass och bemyndigande",
+        "range": [
+          42,
+          51
+        ],
+        "articleRefs": [
+          "78",
+          "79",
+          "80",
+          "83",
+          "84",
+          "85",
+          "86",
+          "87",
+          "88",
+          "89",
+          "90",
+          "93",
+          "94",
+          "95"
+        ]
+      },
+      {
+        "id": "treemballage",
+        "label": "Träemballage",
+        "range": [
+          52,
+          55
+        ],
+        "articleRefs": [
+          "43",
+          "96",
+          "97",
+          "98"
+        ]
+      },
+      {
+        "id": "befogenheter-genomförande",
+        "label": "Delegerade och genomförandeakter",
+        "range": [
+          56,
+          81
+        ],
+        "articleRefs": [
+          "105",
+          "106",
+          "107"
+        ]
+      },
+      {
+        "id": "avslutande-bestammelser",
+        "label": "Avslutande bestämmelser och ändringar",
+        "range": [
+          82,
+          90
+        ],
+        "articleRefs": [
+          "108",
+          "109",
+          "110",
+          "111",
+          "112",
+          "113"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "2": [
+        6
+      ],
+      "3": [
+        8
+      ],
+      "4": [
+        8
+      ],
+      "5": [
+        8
+      ],
+      "6": [
+        9
+      ],
+      "8": [
+        28
+      ],
+      "9": [
+        10
+      ],
+      "10": [
+        10
+      ],
+      "11": [
+        10
+      ],
+      "12": [
+        10
+      ],
+      "14": [
+        12
+      ],
+      "15": [
+        12
+      ],
+      "17": [
+        13
+      ],
+      "18": [
+        13
+      ],
+      "19": [
+        15
+      ],
+      "22": [
+        15
+      ],
+      "24": [
+        20
+      ],
+      "25": [
+        20
+      ],
+      "26": [
+        20
+      ],
+      "27": [
+        20
+      ],
+      "28": [
+        16,
+        17
+      ],
+      "30": [
+        18
+      ],
+      "32": [
+        21
+      ],
+      "34": [
+        22
+      ],
+      "36": [
+        23
+      ],
+      "37": [
+        23
+      ],
+      "40": [
+        24,
+        25
+      ],
+      "41": [
+        24
+      ],
+      "42": [
+        25
+      ],
+      "43": [
+        52
+      ],
+      "46": [
+        27
+      ],
+      "47": [
+        30
+      ],
+      "48": [
+        28
+      ],
+      "49": [
+        31
+      ],
+      "53": [
+        32
+      ],
+      "54": [
+        32
+      ],
+      "60": [
+        34
+      ],
+      "61": [
+        34
+      ],
+      "62": [
+        34
+      ],
+      "64": [
+        34
+      ],
+      "65": [
+        36
+      ],
+      "66": [
+        36
+      ],
+      "69": [
+        37
+      ],
+      "70": [
+        38
+      ],
+      "71": [
+        39,
+        41
+      ],
+      "72": [
+        39
+      ],
+      "73": [
+        40
+      ],
+      "74": [
+        39
+      ],
+      "78": [
+        42
+      ],
+      "79": [
+        42
+      ],
+      "80": [
+        42
+      ],
+      "83": [
+        44
+      ],
+      "84": [
+        45
+      ],
+      "87": [
+        46
+      ],
+      "89": [
+        46
+      ],
+      "90": [
+        46
+      ],
+      "91": [
+        49
+      ],
+      "93": [
+        50
+      ],
+      "95": [
+        51
+      ],
+      "96": [
+        52
+      ],
+      "97": [
+        52
+      ],
+      "98": [
+        52
+      ],
+      "100": [
+        53
+      ],
+      "101": [
+        53
+      ],
+      "102": [
+        54
+      ],
+      "105": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "107": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    }
+  }
+}

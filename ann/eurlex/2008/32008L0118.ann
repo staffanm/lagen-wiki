@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32008L0118": "3e2eee518dc08cbbeb7b9f79ec94b7fb40e573d10bd68cfbe582f1686da6a091"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-omfång",
+        "label": "Bakgrund och tillämpningsområde",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "5"
+        ]
+      },
+      {
+        "id": "tull-rorlighet",
+        "label": "Tullområde och rörlighet",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "3",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "skattskyldighet-uppbord",
+        "label": "Skattskyldighet och uppbörd",
+        "range": [
+          8,
+          12
+        ],
+        "articleRefs": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "undantag-skatteplikt",
+        "label": "Undantag från skatteplikt",
+        "range": [
+          13,
+          14
+        ],
+        "articleRefs": [
+          "12",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "skatteupplag",
+        "label": "Skatteupplag och kontroll",
+        "range": [
+          15,
+          16
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "19"
+        ]
+      },
+      {
+        "id": "flyttning-uppskov",
+        "label": "Flyttning under punktskatteuppskov",
+        "range": [
+          17,
+          21
+        ],
+        "articleRefs": [
+          "17",
+          "18",
+          "20",
+          "21",
+          "25"
+        ]
+      },
+      {
+        "id": "forfaranden-flyttning",
+        "label": "Förfaranden och övervakning",
+        "range": [
+          22,
+          25
+        ],
+        "articleRefs": [
+          "21",
+          "22",
+          "23",
+          "24",
+          "29"
+        ]
+      },
+      {
+        "id": "flyttning-efter-frislappande",
+        "label": "Flyttning efter frisläppande för konsumtion",
+        "range": [
+          26,
+          30
+        ],
+        "articleRefs": [
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "38"
+        ]
+      },
+      {
+        "id": "sarskillda-bestammelser",
+        "label": "Särskilda bestämmelser och undantag",
+        "range": [
+          31,
+          34
+        ],
+        "articleRefs": [
+          "39",
+          "40",
+          "41",
+          "42"
+        ]
+      },
+      {
+        "id": "genomforande-slutbestammelser",
+        "label": "Genomförande och slutbestämmelser",
+        "range": [
+          35,
+          37
+        ],
+        "articleRefs": [
+          "43",
+          "45",
+          "46",
+          "47",
+          "48",
+          "49"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "1.2": [
+        4
+      ],
+      "2": [
+        8
+      ],
+      "3": [
+        6,
+        7
+      ],
+      "5": [
+        6
+      ],
+      "6": [
+        6
+      ],
+      "7": [
+        8,
+        9
+      ],
+      "7.2": [
+        8
+      ],
+      "7.4": [
+        9
+      ],
+      "8": [
+        8,
+        11
+      ],
+      "8.1.a.ii": [
+        11
+      ],
+      "9": [
+        8,
+        10
+      ],
+      "10": [
+        11
+      ],
+      "11": [
+        10,
+        12
+      ],
+      "12": [
+        13
+      ],
+      "12.1": [
+        13
+      ],
+      "13": [
+        13
+      ],
+      "14": [
+        14
+      ],
+      "14.4": [
+        14
+      ],
+      "15": [
+        15
+      ],
+      "16": [
+        15,
+        16
+      ],
+      "17": [
+        17,
+        18
+      ],
+      "17.1.b": [
+        18
+      ],
+      "18": [
+        19
+      ],
+      "18.4.a": [
+        25
+      ],
+      "19": [
+        16
+      ],
+      "20": [
+        23
+      ],
+      "21": [
+        20,
+        21,
+        22
+      ],
+      "21.2": [
+        21
+      ],
+      "22": [
+        22
+      ],
+      "23": [
+        25
+      ],
+      "24": [
+        22
+      ],
+      "25": [
+        20,
+        21
+      ],
+      "26": [
+        24
+      ],
+      "27": [
+        24
+      ],
+      "28": [
+        23
+      ],
+      "29": [
+        21
+      ],
+      "30": [
+        25
+      ],
+      "31": [
+        25
+      ],
+      "32": [
+        27
+      ],
+      "32.3": [
+        27
+      ],
+      "33": [
+        28
+      ],
+      "33.1": [
+        28
+      ],
+      "34": [
+        28
+      ],
+      "35": [
+        28
+      ],
+      "36": [
+        29
+      ],
+      "36.1": [
+        29
+      ],
+      "37": [
+        9
+      ],
+      "38": [
+        11,
+        30
+      ],
+      "39": [
+        31
+      ],
+      "40": [
+        32
+      ],
+      "41": [
+        33
+      ],
+      "42": [
+        34
+      ],
+      "43": [
+        35
+      ],
+      "45": [
+        35
+      ],
+      "46": [
+        36
+      ],
+      "47": [
+        1
+      ],
+      "48": [
+        35
+      ],
+      "49": [
+        35
+      ]
+    }
+  }
+}

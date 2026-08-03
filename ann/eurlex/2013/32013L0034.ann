@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32013L0034": "ed97499705e69432d06314d2619c7e5f5c7cd541a3bd740df94692c5630ad1fb"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "tillampsningsomrade",
+        "label": "Tillämpningsområde",
+        "range": [
+          5,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "rattvisande-bild",
+        "label": "Rättvisande bild och allmänna krav",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "foretagsstorlekar",
+        "label": "Företagskategorier och storlekar",
+        "range": [
+          12,
+          15
+        ],
+        "articleRefs": [
+          "3",
+          "36"
+        ]
+      },
+      {
+        "id": "redovisningsprinciper",
+        "label": "Redovisnings- och värderingsprinciper",
+        "range": [
+          16,
+          19
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "upstallningsformer",
+        "label": "Uppställningsformer",
+        "range": [
+          20,
+          22
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "11",
+          "13"
+        ]
+      },
+      {
+        "id": "noter-upplysningar",
+        "label": "Upplysningar i noter",
+        "range": [
+          23,
+          25
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "forvaltningsberattelse",
+        "label": "Förvaltningsberättelse och företagsstyrning",
+        "range": [
+          26,
+          28
+        ],
+        "articleRefs": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "koncern-grund",
+        "label": "Koncernredovisning - Grundprinciper",
+        "range": [
+          29,
+          32
+        ],
+        "articleRefs": [
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "koncern-metoder",
+        "label": "Koncernredovisning - Undantag och metoder",
+        "range": [
+          33,
+          37
+        ],
+        "articleRefs": [
+          "23",
+          "24",
+          "25",
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "offentliggörande",
+        "label": "Offentliggörande",
+        "range": [
+          38,
+          39
+        ],
+        "articleRefs": [
+          "30",
+          "31",
+          "32"
+        ]
+      },
+      {
+        "id": "ansvar-revision",
+        "label": "Ansvar och revision",
+        "range": [
+          40,
+          43
+        ],
+        "articleRefs": [
+          "33",
+          "34",
+          "35"
+        ]
+      },
+      {
+        "id": "betalningsrapportering",
+        "label": "Rapportering om betalningar till offentliga myndigheter",
+        "range": [
+          44,
+          49
+        ],
+        "articleRefs": [
+          "41",
+          "42",
+          "43",
+          "44"
+        ]
+      },
+      {
+        "id": "betalnings-genomforande",
+        "label": "Genomförande och översyn av betalningsrapporter",
+        "range": [
+          50,
+          53
+        ],
+        "articleRefs": [
+          "46",
+          "47",
+          "48"
+        ]
+      },
+      {
+        "id": "delegerade-akter",
+        "label": "Uppdateringar och delegerade befogenheter",
+        "range": [
+          54,
+          54
+        ],
+        "articleRefs": [
+          "49"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och rättslig grund",
+        "range": [
+          55,
+          58
+        ],
+        "articleRefs": [
+          "51",
+          "53",
+          "54"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        5,
+        6,
+        7
+      ],
+      "2": [
+        12,
+        13
+      ],
+      "3": [
+        12
+      ],
+      "4": [
+        4,
+        9
+      ],
+      "4.3": [
+        9
+      ],
+      "4.4": [
+        9
+      ],
+      "6": [
+        16,
+        17,
+        18
+      ],
+      "7": [
+        18
+      ],
+      "8": [
+        19
+      ],
+      "9": [
+        20
+      ],
+      "12": [
+        21,
+        22
+      ],
+      "14": [
+        10,
+        11
+      ],
+      "16": [
+        23,
+        24
+      ],
+      "17": [
+        25
+      ],
+      "18": [
+        25
+      ],
+      "19": [
+        26
+      ],
+      "20": [
+        28
+      ],
+      "21": [
+        29
+      ],
+      "22": [
+        30,
+        31
+      ],
+      "23": [
+        32,
+        33
+      ],
+      "24": [
+        34,
+        35
+      ],
+      "25": [
+        29
+      ],
+      "26": [
+        29
+      ],
+      "27": [
+        36
+      ],
+      "30": [
+        38
+      ],
+      "31": [
+        15
+      ],
+      "33": [
+        40,
+        41,
+        42
+      ],
+      "34": [
+        43
+      ],
+      "36": [
+        13,
+        14,
+        15
+      ],
+      "42": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "43": [
+        45,
+        46,
+        47
+      ],
+      "44": [
+        44
+      ],
+      "46": [
+        50
+      ],
+      "47": [
+        51
+      ],
+      "48": [
+        52,
+        53
+      ],
+      "49": [
+        54
+      ]
+    }
+  }
+}

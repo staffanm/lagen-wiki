@@ -7,7 +7,7 @@ lagtext och myndighetsbeslut omfattas inte av upphovsrätt; rättsfallsreferat f
 återges fritt med angivande av källan (Domstolsverket). Vi uppmuntrar
 återanvändning.
 
-Det finns tre sätt att komma åt innehållet:
+Det finns fyra sätt att komma åt innehållet:
 
 - **Länka** till läsvyer med de permanenta adresserna -- se
   [Hur man länkar till lagen.nu](/om/lankning).
@@ -16,6 +16,11 @@ Det finns tre sätt att komma åt innehållet:
   (citeringsgrafen), versionshistorik och skillnader mellan lydelser.
 - **Bulknedladdning** av hela korpusen som komprimerade NDJSON-filer, en rad per
   dokument.
+- **MCP** för AI-verktyg, så att en chatbot kan slå upp gällande lagtext och
+  följa citeringsgrafen istället för att svara ur minnet.
+
+De två första beskrivs närmare under [API och bulkdata](/om/api), det sista
+under [lagen.nu i AI-verktyg](/om/mcp).
 
 Varje dokument identifieras överallt med sin kanoniska `https://lagen.nu/…`-adress
 -- samma sträng är API-nyckel, rad-id i bulkdumparna och id i sökindexet.

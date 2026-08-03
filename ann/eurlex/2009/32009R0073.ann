@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009R0073": "a622d8d17d9f3f08d4a33a898eb83137fd5666aab9a58e0c5439d2147408994c"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tvarvillkor-miljo",
+        "label": "Tvärvillkor och miljö",
+        "range": [
+          3,
+          7
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "modulering-landsbygd",
+        "label": "Modulering och landsbygdsutveckling",
+        "range": [
+          8,
+          11
+        ],
+        "articleRefs": [
+          "7",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "specialregioner-anslutning",
+        "label": "Särskilda geografiska områden och anslutningsstater",
+        "range": [
+          12,
+          17
+        ],
+        "articleRefs": [
+          "7.3",
+          "10",
+          "121"
+        ]
+      },
+      {
+        "id": "finansiell-disciplin",
+        "label": "Budgetär disciplin och finansiell mekanism",
+        "range": [
+          18,
+          18
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "radgivning-kontroll",
+        "label": "Jordbruksrådgivning och kontrollsystem",
+        "range": [
+          19,
+          21
+        ],
+        "articleRefs": [
+          "12",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "admin-utbetalning",
+        "label": "Administrativa trösklar och utbetalningar",
+        "range": [
+          22,
+          26
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "30",
+          "32"
+        ]
+      },
+      {
+        "id": "samlat-gardsstod",
+        "label": "Systemet med samlat gårdsstöd",
+        "range": [
+          27,
+          32
+        ],
+        "articleRefs": [
+          "33",
+          "34",
+          "40",
+          "41",
+          "42",
+          "43",
+          "45"
+        ]
+      },
+      {
+        "id": "frikoppling-integrering",
+        "label": "Frikoppling och integrering av sektorer",
+        "range": [
+          33,
+          41
+        ],
+        "articleRefs": [
+          "38",
+          "51",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67"
+        ]
+      },
+      {
+        "id": "specialstod-ordningar",
+        "label": "Särskilda stödordningar",
+        "range": [
+          42,
+          45
+        ],
+        "articleRefs": [
+          "88",
+          "93",
+          "98"
+        ]
+      },
+      {
+        "id": "nya-medlemsstater",
+        "label": "Nya medlemsstater och enhetlig arealersättning",
+        "range": [
+          46,
+          49
+        ],
+        "articleRefs": [
+          "121",
+          "122"
+        ]
+      },
+      {
+        "id": "yttersta-randomraden",
+        "label": "Yttersta randområden och statligt stöd",
+        "range": [
+          50,
+          51
+        ],
+        "articleRefs": [
+          "138",
+          "139"
+        ]
+      },
+      {
+        "id": "genomforande-ikrafttradande",
+        "label": "Genomförande och ikraftträdande",
+        "range": [
+          52,
+          53
+        ],
+        "articleRefs": [
+          "149"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2
+      ],
+      "4": [
+        3
+      ],
+      "5": [
+        3
+      ],
+      "6": [
+        4,
+        6,
+        7
+      ],
+      "7": [
+        8,
+        11
+      ],
+      "7.3": [
+        12
+      ],
+      "8": [
+        15
+      ],
+      "9": [
+        9,
+        10,
+        14
+      ],
+      "10": [
+        16,
+        17
+      ],
+      "11": [
+        18
+      ],
+      "12": [
+        19
+      ],
+      "14": [
+        20
+      ],
+      "15": [
+        21
+      ],
+      "28": [
+        22
+      ],
+      "29": [
+        24
+      ],
+      "30": [
+        25
+      ],
+      "32": [
+        26
+      ],
+      "33": [
+        27,
+        28
+      ],
+      "34": [
+        28
+      ],
+      "38": [
+        33
+      ],
+      "39": [
+        29
+      ],
+      "40": [
+        28
+      ],
+      "41": [
+        28
+      ],
+      "42": [
+        27
+      ],
+      "43": [
+        28
+      ],
+      "45": [
+        31
+      ],
+      "46": [
+        32
+      ],
+      "47": [
+        32
+      ],
+      "51": [
+        33,
+        34
+      ],
+      "52": [
+        34
+      ],
+      "53": [
+        34
+      ],
+      "54": [
+        33
+      ],
+      "63": [
+        33
+      ],
+      "64": [
+        33,
+        40,
+        41
+      ],
+      "65": [
+        33,
+        40,
+        41
+      ],
+      "66": [
+        33
+      ],
+      "67": [
+        33
+      ],
+      "68": [
+        35
+      ],
+      "69": [
+        35,
+        36
+      ],
+      "70": [
+        35
+      ],
+      "71": [
+        35
+      ],
+      "77": [
+        40,
+        41
+      ],
+      "88": [
+        43
+      ],
+      "93": [
+        44
+      ],
+      "98": [
+        45
+      ],
+      "121": [
+        16,
+        17
+      ],
+      "122": [
+        46,
+        47
+      ],
+      "138": [
+        50
+      ],
+      "139": [
+        51
+      ],
+      "149": [
+        53
+      ]
+    }
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32004L0109": "3cc5c80ea404ebd9c7a3b9888f7d8e6f254a29633a20c19333081376b0c62faa"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillämpningsomr-principer",
+        "label": "Tillämpningsområde och grundläggande principer",
+        "range": [
+          4,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "arlig-halvar-rapportering",
+        "label": "Årlig redovisning och halvårsrapporter",
+        "range": [
+          9,
+          12
+        ],
+        "articleRefs": [
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "sarskillda-rapporteringskrav",
+        "label": "Särskilda rapporteringskrav och interimistisk information",
+        "range": [
+          13,
+          16
+        ],
+        "articleRefs": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "ansvar",
+        "label": "Civilrättsligt ansvar",
+        "range": [
+          17,
+          17
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "storre-innehav",
+        "label": "Underrättelse om större värdepappersinnehav",
+        "range": [
+          18,
+          21
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "likabehandling-rattigheter",
+        "label": "Likabehandling och utövande av rättigheter",
+        "range": [
+          22,
+          22
+        ],
+        "articleRefs": [
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "tillgang-information-sprak",
+        "label": "Tillgång till information och språk",
+        "range": [
+          23,
+          26
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "tredjeland",
+        "label": "Bestämmelser för tredjeländer",
+        "range": [
+          27,
+          27
+        ],
+        "articleRefs": [
+          "23"
+        ]
+      },
+      {
+        "id": "tillsyn-samarbete",
+        "label": "Tillsyn och samarbete mellan myndigheter",
+        "range": [
+          28,
+          29
+        ],
+        "articleRefs": [
+          "24",
+          "25",
+          "26"
+        ]
+      },
+      {
+        "id": "genomfordande-kommitte",
+        "label": "Genomförandeåtgärder och kommittéförfarande",
+        "range": [
+          30,
+          36
+        ],
+        "articleRefs": [
+          "27"
+        ]
+      },
+      {
+        "id": "sanktioner-overklagande",
+        "label": "Sanktioner och rätt till överklagande",
+        "range": [
+          37,
+          37
+        ],
+        "articleRefs": [
+          "28",
+          "29"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och förhållande till annan lagstiftning",
+        "range": [
+          38,
+          42
+        ],
+        "articleRefs": [
+          "30",
+          "31",
+          "32"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "1.2": [
+        5
+      ],
+      "1.3": [
+        6
+      ],
+      "1.4": [
+        4
+      ],
+      "2": [
+        6,
+        18,
+        20,
+        21
+      ],
+      "3": [
+        6,
+        7,
+        8
+      ],
+      "4": [
+        9,
+        10
+      ],
+      "5": [
+        11,
+        12,
+        15
+      ],
+      "6": [
+        16
+      ],
+      "7": [
+        17
+      ],
+      "8": [
+        4,
+        15
+      ],
+      "9": [
+        18,
+        20
+      ],
+      "9.4": [
+        20
+      ],
+      "9.5": [
+        20
+      ],
+      "9.6": [
+        20
+      ],
+      "10": [
+        18
+      ],
+      "11": [
+        19
+      ],
+      "12": [
+        18
+      ],
+      "12.4": [
+        21
+      ],
+      "12.5": [
+        21
+      ],
+      "13": [
+        18
+      ],
+      "14": [
+        18
+      ],
+      "15": [
+        18
+      ],
+      "16": [
+        18
+      ],
+      "17": [
+        22
+      ],
+      "17.3": [
+        22
+      ],
+      "18": [
+        22
+      ],
+      "18.4": [
+        22
+      ],
+      "19": [
+        23,
+        25
+      ],
+      "20": [
+        24
+      ],
+      "21": [
+        25,
+        26
+      ],
+      "22": [
+        26
+      ],
+      "23": [
+        27
+      ],
+      "24": [
+        28,
+        29
+      ],
+      "25": [
+        29
+      ],
+      "26": [
+        29
+      ],
+      "27": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "28": [
+        37
+      ],
+      "29": [
+        37
+      ]
+    }
+  }
+}

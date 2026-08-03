@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32005L0029": "6ddc058b2afc890834b366a84abc3864d769c5ea1b6e644e0d4cb56bc06b2bb2"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-avgransningar",
+        "label": "Tillämpningsområde och avgränsningar",
+        "range": [
+          6,
+          9
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "forhallande-annan-lagstiftning",
+        "label": "Förhållande till annan lagstiftning",
+        "range": [
+          10,
+          10
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "generella-forbud",
+        "label": "Generella förbud och harmonisering",
+        "range": [
+          11,
+          13
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "vilseledande-metoder",
+        "label": "Vilseledande affärsmetoder",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "aggressiva-metoder",
+        "label": "Aggressiva affärsmetoder",
+        "range": [
+          16,
+          16
+        ],
+        "articleRefs": [
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "svartlistan",
+        "label": "Förteckning över otillbörliga metoder",
+        "range": [
+          17,
+          17
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "konsumentbegreppet",
+        "label": "Genomsnittskonsumenten och särskilt utsatta grupper",
+        "range": [
+          18,
+          19
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "uppforandekoder",
+        "label": "Uppförandekoder",
+        "range": [
+          20,
+          20
+        ],
+        "articleRefs": [
+          "10"
+        ]
+      },
+      {
+        "id": "efterlevnad-sanktioner",
+        "label": "Efterlevnad, bevisbörda och sanktioner",
+        "range": [
+          21,
+          22
+        ],
+        "articleRefs": [
+          "11",
+          "12",
+          "13"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och översyn",
+        "range": [
+          23,
+          25
+        ],
+        "articleRefs": [
+          "18"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "3": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "3.2": [
+        9
+      ],
+      "3.3": [
+        9
+      ],
+      "3.4": [
+        10
+      ],
+      "3.5": [
+        24
+      ],
+      "3.9": [
+        9
+      ],
+      "4": [
+        2,
+        5
+      ],
+      "5": [
+        11,
+        12,
+        13
+      ],
+      "5.2": [
+        18
+      ],
+      "5.3": [
+        18,
+        19
+      ],
+      "5.5": [
+        17
+      ],
+      "6": [
+        14
+      ],
+      "7": [
+        14,
+        15
+      ],
+      "7.5": [
+        15
+      ],
+      "8": [
+        16
+      ],
+      "9": [
+        16
+      ],
+      "10": [
+        20
+      ],
+      "11": [
+        21
+      ],
+      "12": [
+        21
+      ],
+      "13": [
+        22
+      ],
+      "18": [
+        23,
+        24
+      ]
+    }
+  }
+}

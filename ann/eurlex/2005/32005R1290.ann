@@ -1,0 +1,339 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32005R1290": "bbf2a8f93f42da0036e7337d46a03361b452187995429e6b0806ffdd094b95c0"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "syfte-fonder",
+        "label": "Syfte och fonder",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "utbetalande-organ",
+        "label": "Utbetalande organ och samordning",
+        "range": [
+          3,
+          5
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "information-data",
+        "label": "Informationsöverföring och IT",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "8"
+        ]
+      },
+      {
+        "id": "ekonomisk-forvaltning",
+        "label": "Ekonomisk förvaltning och garantier",
+        "range": [
+          8,
+          10
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "betalningsfrister-sanktioner",
+        "label": "Betalningsfrister och sanktioner",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "budgetdisciplin-tak",
+        "label": "Budgetdisciplin och utgiftstak",
+        "range": [
+          13,
+          17
+        ],
+        "articleRefs": [
+          "12",
+          "18",
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "valutakurser",
+        "label": "Referensväxelkurser",
+        "range": [
+          18,
+          18
+        ],
+        "articleRefs": [
+          "21"
+        ]
+      },
+      {
+        "id": "ejflu-finansiering",
+        "label": "EJFLU:s finansieringsmetod",
+        "range": [
+          19,
+          22
+        ],
+        "articleRefs": [
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29"
+        ]
+      },
+      {
+        "id": "rakenskap-overensstamning",
+        "label": "Avslutande av räkenskaper och överensstämmelse",
+        "range": [
+          23,
+          24
+        ],
+        "articleRefs": [
+          "30",
+          "31"
+        ]
+      },
+      {
+        "id": "oegentligheter-aterkrav",
+        "label": "Oegentligheter och återkrav av medel",
+        "range": [
+          25,
+          29
+        ],
+        "articleRefs": [
+          "32",
+          "33",
+          "34"
+        ]
+      },
+      {
+        "id": "tillsyn-kontroller",
+        "label": "Kommissionens tillsyn och kontroller",
+        "range": [
+          30,
+          31
+        ],
+        "articleRefs": [
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "overgangsaldre-program",
+        "label": "Övergångsbestämmelser för äldre program",
+        "range": [
+          32,
+          33
+        ],
+        "articleRefs": [
+          "38",
+          "39",
+          "40"
+        ]
+      },
+      {
+        "id": "administration-sekretess",
+        "label": "Administration, rapportering och sekretess",
+        "range": [
+          34,
+          37
+        ],
+        "articleRefs": [
+          "41",
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och ikraftträdande",
+        "range": [
+          38,
+          41
+        ],
+        "articleRefs": [
+          "47",
+          "48",
+          "49"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "3": [
+        1,
+        2
+      ],
+      "4": [
+        1,
+        2
+      ],
+      "6": [
+        3,
+        4,
+        5
+      ],
+      "6.1": [
+        3,
+        4
+      ],
+      "6.2": [
+        4
+      ],
+      "6.3": [
+        5
+      ],
+      "8": [
+        6,
+        7
+      ],
+      "9": [
+        8,
+        25
+      ],
+      "9.1": [
+        25
+      ],
+      "9.2": [
+        8
+      ],
+      "10": [
+        9
+      ],
+      "12": [
+        13
+      ],
+      "14": [
+        10
+      ],
+      "16": [
+        11
+      ],
+      "17": [
+        12
+      ],
+      "18": [
+        13,
+        14
+      ],
+      "19": [
+        16
+      ],
+      "20": [
+        17
+      ],
+      "21": [
+        18
+      ],
+      "24": [
+        19,
+        20
+      ],
+      "25": [
+        19
+      ],
+      "26": [
+        20
+      ],
+      "27": [
+        21
+      ],
+      "28": [
+        20
+      ],
+      "29": [
+        22
+      ],
+      "30": [
+        23
+      ],
+      "31": [
+        24
+      ],
+      "32": [
+        26,
+        27
+      ],
+      "33": [
+        28,
+        29
+      ],
+      "34": [
+        29
+      ],
+      "36": [
+        30,
+        31
+      ],
+      "37": [
+        30
+      ],
+      "38": [
+        32
+      ],
+      "39": [
+        32
+      ],
+      "40": [
+        33
+      ],
+      "41": [
+        34
+      ],
+      "43": [
+        35
+      ],
+      "44": [
+        36
+      ],
+      "45": [
+        37
+      ],
+      "47": [
+        38
+      ],
+      "48": [
+        40
+      ],
+      "49": [
+        41
+      ]
+    }
+  }
+}

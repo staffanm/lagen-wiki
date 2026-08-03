@@ -1,0 +1,389 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "google/gemma-4-31B-it",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32018R0858": "681b667b882f37dbcf6fb80204cc205712bfaf843e30dd08c4de589710b46f59"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "background-and-purpose",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "market-surveillance-strengthening",
+        "label": "Stärkande av marknadskontroll",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "technical-services-competence",
+        "label": "Tekniska tjänsters kompetens och tillsyn",
+        "range": [
+          11,
+          19
+        ],
+        "articleRefs": [
+          "67",
+          "68",
+          "70",
+          "73",
+          "76"
+        ]
+      },
+      {
+        "id": "compliance-and-assessment",
+        "label": "Efterlevnad och bedömningar",
+        "range": [
+          20,
+          23
+        ],
+        "articleRefs": [
+          "10",
+          "6"
+        ]
+      },
+      {
+        "id": "cooperation-and-forum",
+        "label": "Samarbete och forum",
+        "range": [
+          24,
+          26
+        ],
+        "articleRefs": [
+          "11",
+          "6"
+        ]
+      },
+      {
+        "id": "market-surveillance-procedures",
+        "label": "Förfaranden för marknadskontroll",
+        "range": [
+          27,
+          36
+        ],
+        "articleRefs": [
+          "8",
+          "9",
+          "51",
+          "52"
+        ]
+      },
+      {
+        "id": "technical-requirements-and-parts",
+        "label": "Tekniska krav och utrustning",
+        "range": [
+          37,
+          39
+        ],
+        "articleRefs": [
+          "5",
+          "55",
+          "56"
+        ]
+      },
+      {
+        "id": "type-approval-system",
+        "label": "System för typgodkännande",
+        "range": [
+          40,
+          43
+        ],
+        "articleRefs": [
+          "22",
+          "26",
+          "31",
+          "33",
+          "34"
+        ]
+      },
+      {
+        "id": "corrective-measures",
+        "label": "Korrigerande åtgärder",
+        "range": [
+          44,
+          46
+        ],
+        "articleRefs": [
+          "14",
+          "17",
+          "19",
+          "52",
+          "53"
+        ]
+      },
+      {
+        "id": "small-series-approval",
+        "label": "Godkännande av små serier",
+        "range": [
+          47,
+          47
+        ],
+        "articleRefs": [
+          "41",
+          "42",
+          "43"
+        ]
+      },
+      {
+        "id": "international-regulations",
+        "label": "Internationella föreskrifter",
+        "range": [
+          48,
+          49
+        ],
+        "articleRefs": [
+          "57",
+          "58"
+        ]
+      },
+      {
+        "id": "repair-and-maintenance-info",
+        "label": "Information om reparation och underhåll",
+        "range": [
+          50,
+          54
+        ],
+        "articleRefs": [
+          "61",
+          "62",
+          "63",
+          "64",
+          "65"
+        ]
+      },
+      {
+        "id": "delegation-and-implementation",
+        "label": "Delegerade och genomförandeakter",
+        "range": [
+          55,
+          56
+        ],
+        "articleRefs": [
+          "82",
+          "83"
+        ]
+      },
+      {
+        "id": "sanctions-and-data-protection",
+        "label": "Sanktioner och dataskydd",
+        "range": [
+          57,
+          62
+        ],
+        "articleRefs": [
+          "84",
+          "85"
+        ]
+      },
+      {
+        "id": "final-provisions",
+        "label": "Slutbestämmelser",
+        "range": [
+          63,
+          64
+        ],
+        "articleRefs": [
+          "91"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        7,
+        8
+      ],
+      "2": [
+        7,
+        8
+      ],
+      "5": [
+        37,
+        40
+      ],
+      "6": [
+        9,
+        21,
+        24
+      ],
+      "8": [
+        10,
+        27,
+        30,
+        31,
+        32,
+        34
+      ],
+      "9": [
+        10,
+        35
+      ],
+      "10": [
+        21,
+        22
+      ],
+      "11": [
+        24
+      ],
+      "13.1": [
+        40
+      ],
+      "13.4": [
+        4
+      ],
+      "14": [
+        45,
+        46
+      ],
+      "17": [
+        45,
+        46
+      ],
+      "19": [
+        45,
+        46
+      ],
+      "22": [
+        40
+      ],
+      "26": [
+        40
+      ],
+      "31": [
+        11,
+        42
+      ],
+      "33": [
+        43
+      ],
+      "34": [
+        43
+      ],
+      "41": [
+        47
+      ],
+      "42": [
+        47
+      ],
+      "43": [
+        47
+      ],
+      "51": [
+        30
+      ],
+      "52": [
+        30,
+        45
+      ],
+      "53": [
+        44,
+        45
+      ],
+      "55": [
+        38,
+        39
+      ],
+      "56": [
+        38,
+        39
+      ],
+      "57": [
+        48,
+        49
+      ],
+      "58": [
+        48,
+        49
+      ],
+      "61": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "62": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "63": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "64": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "65": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "67": [
+        11,
+        15
+      ],
+      "68": [
+        11,
+        13,
+        14
+      ],
+      "70": [
+        11,
+        13,
+        14
+      ],
+      "73": [
+        11,
+        15,
+        16
+      ],
+      "76": [
+        11,
+        15
+      ],
+      "82": [
+        55
+      ],
+      "83": [
+        56
+      ],
+      "84": [
+        57,
+        59
+      ],
+      "85": [
+        61
+      ]
+    }
+  }
+}

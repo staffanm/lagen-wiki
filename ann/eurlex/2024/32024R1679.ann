@@ -1,0 +1,538 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R1679": "23bedefdfc777fc3640663a1b2a42d425fa4ce78ef2286cc08466dff0e2b852f"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och övergripande mål",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "pci-kvalitetskrav",
+        "label": "Projekt av gemensamt intresse och kvalitetskrav",
+        "range": [
+          7,
+          11
+        ],
+        "articleRefs": [
+          "8",
+          "50"
+        ]
+      },
+      {
+        "id": "miljo-klimat",
+        "label": "Miljöbedömningar och klimatsäkring",
+        "range": [
+          12,
+          16
+        ],
+        "articleRefs": [
+          "5",
+          "46"
+        ]
+      },
+      {
+        "id": "natstrukturen",
+        "label": "Nätets struktur och utbyggnadstider",
+        "range": [
+          17,
+          26
+        ],
+        "articleRefs": [
+          "2",
+          "6",
+          "10"
+        ]
+      },
+      {
+        "id": "undantag-specialfall",
+        "label": "Undantag och isolerade nät",
+        "range": [
+          27,
+          28
+        ],
+        "articleRefs": [
+          "17",
+          "65"
+        ]
+      },
+      {
+        "id": "sjöfart-maritimt",
+        "label": "Sjöfart och det europeiska sjöfartsområdet",
+        "range": [
+          29,
+          29
+        ],
+        "articleRefs": [
+          "25",
+          "26",
+          "27",
+          "28"
+        ]
+      },
+      {
+        "id": "transportkorridorer",
+        "label": "Transportkorridorer och samordning",
+        "range": [
+          30,
+          35
+        ],
+        "articleRefs": [
+          "7",
+          "11",
+          "13",
+          "51",
+          "52",
+          "53",
+          "54"
+        ]
+      },
+      {
+        "id": "genomforande-tredjeland",
+        "label": "Genomförande av PCI och samarbete med tredjeländer",
+        "range": [
+          36,
+          41
+        ],
+        "articleRefs": [
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "geopolitik-resiliens",
+        "label": "Geopolitiskt läge och strategisk resiliens",
+        "range": [
+          42,
+          45
+        ],
+        "articleRefs": [
+          "17",
+          "46",
+          "47"
+        ]
+      },
+      {
+        "id": "jarnvag-infrastruktur",
+        "label": "Järnvägsinfrastruktur och signalsystem",
+        "range": [
+          46,
+          51
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "16",
+          "18",
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "inre-vattenvagar",
+        "label": "Transport på inre vattenvägar",
+        "range": [
+          52,
+          53
+        ],
+        "articleRefs": [
+          "21",
+          "22",
+          "23",
+          "24"
+        ]
+      },
+      {
+        "id": "vag-flyg-terminaler",
+        "label": "Väg, flyg och multimodala terminaler",
+        "range": [
+          54,
+          62
+        ],
+        "articleRefs": [
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39"
+        ]
+      },
+      {
+        "id": "urbana-knutpunkter",
+        "label": "Urbana knutpunkter och hållbar stadsmobilitet",
+        "range": [
+          63,
+          67
+        ],
+        "articleRefs": [
+          "40",
+          "41",
+          "42"
+        ]
+      },
+      {
+        "id": "digitalisering-innovation",
+        "label": "Digitalisering, IKT och ny teknik",
+        "range": [
+          68,
+          76
+        ],
+        "articleRefs": [
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "resiliens-sakerhet-underhall",
+        "label": "Resiliens, säkerhet och underhåll",
+        "range": [
+          77,
+          90
+        ],
+        "articleRefs": [
+          "46",
+          "47",
+          "48",
+          "49"
+        ]
+      },
+      {
+        "id": "styrning-administration",
+        "label": "Styrning, finansiering och administration",
+        "range": [
+          91,
+          102
+        ],
+        "articleRefs": [
+          "55",
+          "57",
+          "58",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "2": [
+        17,
+        21
+      ],
+      "4": [
+        4,
+        5,
+        11,
+        21,
+        46,
+        47
+      ],
+      "5": [
+        12,
+        13,
+        14,
+        15,
+        79
+      ],
+      "6": [
+        18,
+        19
+      ],
+      "7": [
+        30,
+        31,
+        35
+      ],
+      "8": [
+        8,
+        9,
+        10,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "9": [
+        41,
+        43
+      ],
+      "10": [
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "11": [
+        30,
+        31,
+        35
+      ],
+      "12": [
+        4,
+        5,
+        11,
+        46,
+        47,
+        48,
+        50,
+        52,
+        54,
+        56,
+        58,
+        69
+      ],
+      "13": [
+        30,
+        31,
+        35
+      ],
+      "14": [
+        46,
+        50
+      ],
+      "15": [
+        46,
+        50
+      ],
+      "16": [
+        47,
+        48,
+        50
+      ],
+      "17": [
+        28,
+        45
+      ],
+      "18": [
+        49,
+        50,
+        51
+      ],
+      "19": [
+        32
+      ],
+      "20": [
+        46,
+        47,
+        48
+      ],
+      "21": [
+        52,
+        53
+      ],
+      "22": [
+        52
+      ],
+      "23": [
+        52
+      ],
+      "24": [
+        52
+      ],
+      "25": [
+        29,
+        54,
+        55
+      ],
+      "26": [
+        54,
+        55
+      ],
+      "27": [
+        54,
+        55
+      ],
+      "28": [
+        54,
+        55
+      ],
+      "29": [
+        56,
+        57
+      ],
+      "30": [
+        56,
+        57
+      ],
+      "31": [
+        56,
+        57
+      ],
+      "32": [
+        56,
+        57
+      ],
+      "33": [
+        58,
+        59
+      ],
+      "34": [
+        58
+      ],
+      "35": [
+        58,
+        59
+      ],
+      "36": [
+        61,
+        62
+      ],
+      "37": [
+        61
+      ],
+      "38": [
+        61,
+        62,
+        76
+      ],
+      "39": [
+        61,
+        62
+      ],
+      "40": [
+        63
+      ],
+      "41": [
+        63,
+        64,
+        65
+      ],
+      "42": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "43": [
+        68,
+        69,
+        70,
+        71
+      ],
+      "44": [
+        68
+      ],
+      "45": [
+        73,
+        74
+      ],
+      "46": [
+        10,
+        12,
+        14,
+        77,
+        78,
+        79
+      ],
+      "47": [
+        80
+      ],
+      "48": [
+        89,
+        90
+      ],
+      "49": [
+        81
+      ],
+      "50": [
+        11
+      ],
+      "51": [
+        82,
+        83
+      ],
+      "52": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "53": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "54": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "55": [
+        97
+      ],
+      "56": [
+        41
+      ],
+      "57": [
+        88
+      ],
+      "58": [
+        93,
+        94
+      ],
+      "59": [
+        16
+      ],
+      "60": [
+        36
+      ],
+      "61": [
+        97
+      ],
+      "62": [
+        93
+      ],
+      "63": [
+        94
+      ],
+      "64": [
+        36
+      ],
+      "65": [
+        98
+      ]
+    }
+  }
+}

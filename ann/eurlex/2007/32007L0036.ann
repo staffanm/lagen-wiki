@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32007L0036": "b21f347e88ecb762ff9eb4a3d83f7eaa903b09af2464bc4336ce7d9afadeaef5"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "gransoverskridande-rattigheter",
+        "label": "Gränsöverskridande rättigheter",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "7"
+        ]
+      },
+      {
+        "id": "information-kallelse",
+        "label": "Information och kallelse",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "dagordning-forslag",
+        "label": "Dagordning och förslag till beslut",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "fragor-stamman",
+        "label": "Frågor vid bolagsstämman",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "9"
+        ]
+      },
+      {
+        "id": "elektronisk-kommunikation",
+        "label": "Elektronisk kommunikation och röstning",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "8",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "fullmakter",
+        "label": "Röstning med fullmakt",
+        "range": [
+          10,
+          11
+        ],
+        "articleRefs": [
+          "10",
+          "11",
+          "13"
+        ]
+      },
+      {
+        "id": "rostningsprocedur",
+        "label": "Röstningsförfaranden och tidsramar",
+        "range": [
+          12,
+          12
+        ],
+        "articleRefs": [
+          "12"
+        ]
+      },
+      {
+        "id": "resultat-offentliggörande",
+        "label": "Röstningsresultat och offentliggörande",
+        "range": [
+          13,
+          13
+        ],
+        "articleRefs": [
+          "14"
+        ]
+      },
+      {
+        "id": "juridiska-ramverk",
+        "label": "Juridiska principer och införlivande",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "15"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "4": [
+        3
+      ],
+      "5": [
+        6
+      ],
+      "5.1": [
+        6
+      ],
+      "5.3": [
+        6
+      ],
+      "5.4": [
+        6
+      ],
+      "6": [
+        7
+      ],
+      "6.2": [
+        7
+      ],
+      "7": [
+        3,
+        5
+      ],
+      "8": [
+        9
+      ],
+      "9": [
+        8
+      ],
+      "10": [
+        10
+      ],
+      "10.1": [
+        10
+      ],
+      "10.3": [
+        10
+      ],
+      "10.4": [
+        10
+      ],
+      "11": [
+        9,
+        10
+      ],
+      "12": [
+        9,
+        12
+      ],
+      "13": [
+        11
+      ],
+      "14": [
+        13
+      ],
+      "14.2": [
+        13
+      ],
+      "15": [
+        14,
+        15
+      ]
+    }
+  }
+}

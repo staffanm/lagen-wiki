@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32006L0070": "c4f91dd022d878fe7b349351b19be2598aa008f5dd37b4bfddcc372aa246d69e"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-pep",
+        "label": "Bakgrund och risker för personer i politiskt utsatt ställning",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "definition-pep",
+        "label": "Definition av personer i politiskt utsatt ställning",
+        "range": [
+          3,
+          5
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "grundval-kundkontroll",
+        "label": "Grundval för lägre krav på kundkontroll",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "lag-risk-kunder",
+        "label": "Kriterier för lågriskkunder",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "3.1",
+          "3.2"
+        ]
+      },
+      {
+        "id": "lag-risk-produkter",
+        "label": "Kriterier för lågriskprodukter och transaktioner",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "3.3",
+          "3.4"
+        ]
+      },
+      {
+        "id": "begransad-finansiell-verksamhet",
+        "label": "Tillfällig eller begränsad finansiell verksamhet",
+        "range": [
+          11,
+          13
+        ],
+        "articleRefs": [
+          "4.1",
+          "4.2"
+        ]
+      },
+      {
+        "id": "undantag-och-tillsyn",
+        "label": "Hantering och tillsyn av undantag",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "4.3",
+          "4.4"
+        ]
+      },
+      {
+        "id": "ovriga-bestammelser",
+        "label": "Övriga bestämmelser",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        6,
+        11
+      ],
+      "2": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "2.1": [
+        1,
+        3
+      ],
+      "2.2": [
+        1
+      ],
+      "2.3": [
+        1,
+        4
+      ],
+      "2.4": [
+        5
+      ],
+      "3": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "3.1": [
+        7
+      ],
+      "3.2": [
+        8
+      ],
+      "3.3": [
+        9
+      ],
+      "3.4": [
+        6,
+        10
+      ],
+      "4": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "4.1": [
+        11,
+        12
+      ],
+      "4.2": [
+        13
+      ],
+      "4.3": [
+        14
+      ],
+      "4.4": [
+        15
+      ],
+      "5": [
+        17
+      ]
+    }
+  }
+}

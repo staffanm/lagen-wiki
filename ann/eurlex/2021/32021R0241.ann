@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32021R0241": "2c60002ab8e7b0cfb894171e8dc8b01f7d0567dc283fa38a73ce399e75623a9d"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "rättslig-grund-bakgrund",
+        "label": "Rättslig grund och bakgrund",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "strategiskt-ramverk",
+        "label": "Strategiskt ramverk och kriskontext",
+        "range": [
+          4,
+          7
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "facilitetens-syfte",
+        "label": "Facilitetens syfte och utformning",
+        "range": [
+          8,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "4"
+        ]
+      },
+      {
+        "id": "sex-pelare",
+        "label": "De sex pelarna",
+        "range": [
+          10,
+          16
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "finansiering-synergier",
+        "label": "Finansieringsprinciper och synergier",
+        "range": [
+          17,
+          22
+        ],
+        "articleRefs": [
+          "8",
+          "23",
+          "7",
+          "28"
+        ]
+      },
+      {
+        "id": "klimat-digitala-mal",
+        "label": "Klimat- och digitala mål",
+        "range": [
+          23,
+          27
+        ],
+        "articleRefs": [
+          "5",
+          "18.4.e",
+          "18.4.f",
+          "29"
+        ]
+      },
+      {
+        "id": "sociala-mal-styrning",
+        "label": "Sociala mål och ekonomisk styrning",
+        "range": [
+          28,
+          29
+        ],
+        "articleRefs": [
+          "18.4.o",
+          "10"
+        ]
+      },
+      {
+        "id": "planer-aterhamtning-resiliens",
+        "label": "Planer för återhämtning och resiliens",
+        "range": [
+          30,
+          36
+        ],
+        "articleRefs": [
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "tilldelning-utformning",
+        "label": "Tilldelning och planernas utformning",
+        "range": [
+          37,
+          39
+        ],
+        "articleRefs": [
+          "11",
+          "12",
+          "18"
+        ]
+      },
+      {
+        "id": "bedomning-godkannande",
+        "label": "Bedömning och godkännande",
+        "range": [
+          40,
+          45
+        ],
+        "articleRefs": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "lan-finansiering",
+        "label": "Lån och finansiella villkor",
+        "range": [
+          46,
+          48
+        ],
+        "articleRefs": [
+          "13",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "genomforande-utbetalningar",
+        "label": "Genomförande och utbetalningar",
+        "range": [
+          49,
+          53
+        ],
+        "articleRefs": [
+          "21",
+          "24"
+        ]
+      },
+      {
+        "id": "kontroll-transparens",
+        "label": "Kontroll, revision och transparens",
+        "range": [
+          54,
+          61
+        ],
+        "articleRefs": [
+          "22",
+          "25",
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "overvakning-slutbestammelser",
+        "label": "Övervakning, utvärdering och slutbestämmelser",
+        "range": [
+          62,
+          75
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "34",
+          "36"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        8
+      ],
+      "2": [
+        2,
+        4,
+        6,
+        10
+      ],
+      "3": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "4": [
+        8,
+        9,
+        30
+      ],
+      "5": [
+        20,
+        23,
+        25
+      ],
+      "6": [
+        19,
+        37
+      ],
+      "7": [
+        22
+      ],
+      "8": [
+        18
+      ],
+      "9": [
+        20,
+        62
+      ],
+      "10": [
+        29
+      ],
+      "11": [
+        37,
+        44
+      ],
+      "12": [
+        45,
+        46
+      ],
+      "13": [
+        46
+      ],
+      "14": [
+        47,
+        48
+      ],
+      "15": [
+        47,
+        48
+      ],
+      "16": [
+        31,
+        67
+      ],
+      "17": [
+        32
+      ],
+      "18": [
+        38,
+        39
+      ],
+      "18.4.d": [
+        23,
+        25
+      ],
+      "18.4.e": [
+        23,
+        26
+      ],
+      "18.4.f": [
+        26
+      ],
+      "18.4.o": [
+        28
+      ],
+      "19": [
+        41,
+        42,
+        43
+      ],
+      "20": [
+        45
+      ],
+      "21": [
+        49
+      ],
+      "22": [
+        40,
+        54,
+        72
+      ],
+      "22.2.d": [
+        54
+      ],
+      "23": [
+        18
+      ],
+      "24": [
+        51,
+        52,
+        53
+      ],
+      "25": [
+        60
+      ],
+      "26": [
+        61
+      ],
+      "27": [
+        58
+      ],
+      "28": [
+        22,
+        62
+      ],
+      "29": [
+        63,
+        66
+      ],
+      "30": [
+        65
+      ],
+      "31": [
+        67
+      ],
+      "32": [
+        68
+      ],
+      "33": [
+        66
+      ],
+      "34": [
+        73
+      ],
+      "36": [
+        75
+      ]
+    }
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R1157": "adfd863760035e69d0683f21bd0336aa9f72d2aa314ab0dda58cd4031f4c8091"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "internationella-ramar",
+        "label": "Internationella överenskommelser och definitioner",
+        "range": [
+          5,
+          9
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "allmanna-principer",
+        "label": "Allmänna principer och tillämpningsområde",
+        "range": [
+          10,
+          17
+        ],
+        "articleRefs": [
+          "2",
+          "36"
+        ]
+      },
+      {
+        "id": "overvakning-cirkularitet",
+        "label": "Övervakning och cirkulär ekonomi",
+        "range": [
+          18,
+          21
+        ],
+        "articleRefs": [
+          "4",
+          "15",
+          "16"
+        ]
+      },
+      {
+        "id": "kriterier-behandling",
+        "label": "Kriterier för återvinning och bortskaffande",
+        "range": [
+          22,
+          25
+        ],
+        "articleRefs": [
+          "4",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "anmalan-system",
+        "label": "Anmälningsförfarande och elektroniska system",
+        "range": [
+          26,
+          31
+        ],
+        "articleRefs": [
+          "5",
+          "6",
+          "7",
+          "14",
+          "27"
+        ]
+      },
+      {
+        "id": "spårbarhet-dokumentation",
+        "label": "Dokumentation och spårbarhet",
+        "range": [
+          32,
+          34
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21"
+        ]
+      },
+      {
+        "id": "artagningsskyldighet-tvister",
+        "label": "Återtagningsskyldigheter och tvistlösning",
+        "range": [
+          35,
+          37
+        ],
+        "articleRefs": [
+          "22",
+          "25",
+          "28",
+          "29"
+        ]
+      },
+      {
+        "id": "admin-specialområden",
+        "label": "Administrativa bestämmelser och särskilda områden",
+        "range": [
+          38,
+          41
+        ],
+        "articleRefs": [
+          "30",
+          "31",
+          "33",
+          "36"
+        ]
+      },
+      {
+        "id": "exportbegransningar",
+        "label": "Exportförbud och begränsningar till tredjeländer",
+        "range": [
+          42,
+          51
+        ],
+        "articleRefs": [
+          "37",
+          "39",
+          "40",
+          "41",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "revision-tredjeländer",
+        "label": "Revision av anläggningar i tredjeländer",
+        "range": [
+          52,
+          53
+        ],
+        "articleRefs": [
+          "46",
+          "59"
+        ]
+      },
+      {
+        "id": "import-transit",
+        "label": "Import och transitering",
+        "range": [
+          54,
+          57
+        ],
+        "articleRefs": [
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "57",
+          "58"
+        ]
+      },
+      {
+        "id": "inspektion-sanktioner",
+        "label": "Inspektioner, sanktioner och efterlevnad",
+        "range": [
+          58,
+          63
+        ],
+        "articleRefs": [
+          "60",
+          "61",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68",
+          "69",
+          "70",
+          "71"
+        ]
+      },
+      {
+        "id": "samarbete-rapportering",
+        "label": "Samarbete och rapportering",
+        "range": [
+          64,
+          67
+        ],
+        "articleRefs": [
+          "73",
+          "74",
+          "75",
+          "76",
+          "77",
+          "78"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Befogenheter och slutbestämmelser",
+        "range": [
+          68,
+          73
+        ],
+        "articleRefs": [
+          "80",
+          "84",
+          "86"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "2": [
+        5,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "3": [
+        5
+      ],
+      "4": [
+        19,
+        22,
+        23,
+        24
+      ],
+      "4.1": [
+        22
+      ],
+      "4.2": [
+        19,
+        23
+      ],
+      "4.3": [
+        22
+      ],
+      "4.5": [
+        24
+      ],
+      "5": [
+        26,
+        28,
+        36
+      ],
+      "6": [
+        26
+      ],
+      "7": [
+        26
+      ],
+      "9": [
+        26
+      ],
+      "11": [
+        22
+      ],
+      "12": [
+        25
+      ],
+      "14": [
+        27
+      ],
+      "15": [
+        18,
+        19
+      ],
+      "16": [
+        18,
+        19
+      ],
+      "18": [
+        23
+      ],
+      "19": [
+        32
+      ],
+      "20": [
+        33
+      ],
+      "21": [
+        34
+      ],
+      "22": [
+        35
+      ],
+      "25": [
+        18,
+        35
+      ],
+      "27": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "28": [
+        36
+      ],
+      "29": [
+        37
+      ],
+      "30": [
+        38
+      ],
+      "31": [
+        39
+      ],
+      "33": [
+        40
+      ],
+      "36": [
+        41
+      ],
+      "37": [
+        42
+      ],
+      "39": [
+        44
+      ],
+      "40": [
+        46
+      ],
+      "41": [
+        46
+      ],
+      "44": [
+        48
+      ],
+      "45": [
+        48
+      ],
+      "46": [
+        52,
+        53
+      ],
+      "48": [
+        57
+      ],
+      "49": [
+        55
+      ],
+      "50": [
+        54
+      ],
+      "52": [
+        54
+      ],
+      "55": [
+        52
+      ],
+      "57": [
+        57
+      ],
+      "58": [
+        57
+      ],
+      "59": [
+        1,
+        10,
+        11,
+        25,
+        44,
+        52
+      ],
+      "60": [
+        58,
+        59
+      ],
+      "61": [
+        59
+      ],
+      "63": [
+        60
+      ],
+      "64": [
+        61
+      ],
+      "65": [
+        62
+      ],
+      "66": [
+        62
+      ],
+      "67": [
+        63
+      ],
+      "68": [
+        63
+      ],
+      "69": [
+        63
+      ],
+      "70": [
+        63
+      ],
+      "71": [
+        63
+      ],
+      "73": [
+        64
+      ],
+      "74": [
+        65
+      ],
+      "75": [
+        66
+      ],
+      "76": [
+        66
+      ],
+      "77": [
+        67
+      ],
+      "78": [
+        66
+      ],
+      "80": [
+        68
+      ],
+      "84": [
+        64
+      ],
+      "86": [
+        72
+      ]
+    }
+  }
+}

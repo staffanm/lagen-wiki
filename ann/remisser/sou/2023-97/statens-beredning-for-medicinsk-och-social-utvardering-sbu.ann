@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:remisser/sou/2023:97/statens-beredning-for-medicinsk-och-social-utvardering-sbu": "c94a956b807bf85e8895a74dc7a011676ce072031461a34e7885dd4f2c528dae",
+      "artifact:forarbete/sou/2023-97": "cbd2958724ae2084aadcf234ea9c91639558f8644178cac31e4b29494b21786d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "SBU tillstyrker generellt förslagen och noterar att flera av de dem ligger inom SBU:s uppdrag."
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.3.2",
+      "sentiment": -0.2,
+      "quote": "uppdraget kan behöva förlängas och utvidgas om dessa grupper ska inkluderas"
+    },
+    {
+      "forarbete_id": "a10.3.11",
+      "sentiment": 1.0,
+      "quote": "SBU tillstyrker detta förslag"
+    }
+  ]
+}

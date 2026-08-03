@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024L1346": "9368260a765d36de07ba269291691a350aaa9dfc346557f6d8bb16b195198ff4"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-grundregler",
+        "label": "Tillämpningsområde och grundläggande principer",
+        "range": [
+          7,
+          11
+        ],
+        "articleRefs": [
+          "3",
+          "19"
+        ]
+      },
+      {
+        "id": "information-dokumentation",
+        "label": "Information och dokumentation",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "organisation-rorelsefrihet",
+        "label": "Organisering och rörelsefrihet",
+        "range": [
+          14,
+          21
+        ],
+        "articleRefs": [
+          "7",
+          "8",
+          "9"
+        ]
+      },
+      {
+        "id": "risk-avvikande",
+        "label": "Risk för avvikande",
+        "range": [
+          23,
+          25
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "forvar-grunder-garantier",
+        "label": "Förvar: Grunder och rättssäkerhetsgarantier",
+        "range": [
+          26,
+          30
+        ],
+        "articleRefs": [
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "forvar-villkor-alternativ",
+        "label": "Förvar: Förhållanden och alternativ",
+        "range": [
+          31,
+          34
+        ],
+        "articleRefs": [
+          "12",
+          "13",
+          "29"
+        ]
+      },
+      {
+        "id": "inkvartering-familj",
+        "label": "Inkvartering och familjesammanhållning",
+        "range": [
+          35,
+          38
+        ],
+        "articleRefs": [
+          "14",
+          "20"
+        ]
+      },
+      {
+        "id": "underariga-ensamkommande",
+        "label": "Underåriga och ensamkommande barn",
+        "range": [
+          39,
+          45
+        ],
+        "articleRefs": [
+          "26",
+          "27"
+        ]
+      },
+      {
+        "id": "halsa-utbildning",
+        "label": "Hälso- och sjukvård samt utbildning",
+        "range": [
+          46,
+          48
+        ],
+        "articleRefs": [
+          "15",
+          "16",
+          "22"
+        ]
+      },
+      {
+        "id": "arbetsmarknad-integration",
+        "label": "Arbetsmarknad och social trygghet",
+        "range": [
+          50,
+          57
+        ],
+        "articleRefs": [
+          "17"
+        ]
+      },
+      {
+        "id": "sprak-utbildning",
+        "label": "Språkkunskaper och yrkesutbildning",
+        "range": [
+          58,
+          59
+        ],
+        "articleRefs": [
+          "18"
+        ]
+      },
+      {
+        "id": "materiella-villkor",
+        "label": "Materiella mottagningsvillkor",
+        "range": [
+          60,
+          63
+        ],
+        "articleRefs": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "inskrankning-indragning",
+        "label": "Inskränkning och indragning av förmåner",
+        "range": [
+          62,
+          63
+        ],
+        "articleRefs": [
+          "21",
+          "23"
+        ]
+      },
+      {
+        "id": "styrning-beredskap",
+        "label": "Styrning, tillsyn och beredskapsplanering",
+        "range": [
+          64,
+          67
+        ],
+        "articleRefs": [
+          "31",
+          "32"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och införlivande",
+        "range": [
+          68,
+          77
+        ],
+        "articleRefs": [
+          "4",
+          "35",
+          "36"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1
+      ],
+      "2.3": [
+        49
+      ],
+      "2.7": [
+        8,
+        60
+      ],
+      "2.8": [
+        8
+      ],
+      "2.11": [
+        23,
+        24
+      ],
+      "2.12": [
+        23
+      ],
+      "2.13": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "3": [
+        2,
+        3,
+        4,
+        7,
+        10
+      ],
+      "4": [
+        68
+      ],
+      "5": [
+        12
+      ],
+      "6": [
+        13
+      ],
+      "6.3": [
+        13
+      ],
+      "7": [
+        17
+      ],
+      "7.2": [
+        17
+      ],
+      "7.4": [
+        17
+      ],
+      "8": [
+        18
+      ],
+      "8.3": [
+        18
+      ],
+      "8.5": [
+        18
+      ],
+      "9": [
+        19,
+        20,
+        21
+      ],
+      "9.1": [
+        19
+      ],
+      "9.2": [
+        20
+      ],
+      "9.4": [
+        21
+      ],
+      "10": [
+        26,
+        33
+      ],
+      "10.4": [
+        23,
+        24,
+        25
+      ],
+      "11": [
+        27,
+        28,
+        29
+      ],
+      "11.3": [
+        27
+      ],
+      "12": [
+        31,
+        32
+      ],
+      "13": [
+        31,
+        32
+      ],
+      "14": [
+        35,
+        38
+      ],
+      "15": [
+        46
+      ],
+      "16": [
+        48
+      ],
+      "17": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "17.1": [
+        50,
+        52
+      ],
+      "17.3": [
+        53,
+        54
+      ],
+      "17.5": [
+        55
+      ],
+      "18": [
+        58
+      ],
+      "19": [
+        60,
+        61
+      ],
+      "19.3": [
+        61
+      ],
+      "20": [
+        20,
+        35,
+        36,
+        37
+      ],
+      "20.4": [
+        37
+      ],
+      "20.10": [
+        36
+      ],
+      "21": [
+        9,
+        47
+      ],
+      "22": [
+        46,
+        47
+      ],
+      "23": [
+        62,
+        63
+      ],
+      "24": [
+        37,
+        47
+      ],
+      "25": [
+        47
+      ],
+      "26": [
+        39,
+        40
+      ],
+      "27": [
+        42,
+        43,
+        44,
+        45
+      ],
+      "28": [
+        37,
+        47
+      ],
+      "29": [
+        34
+      ],
+      "31": [
+        64
+      ],
+      "32": [
+        66,
+        67
+      ]
+    }
+  }
+}

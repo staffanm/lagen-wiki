@@ -12,7 +12,7 @@ För vissa lagar finns det kommentarer till bestämmelserna. Många juridiska be
 
 Vi strävar efter att dessa kommentarer ska på ett enkelt och begripligt sätt förklara lagtexten genom att beskriva juridiska begrepp, hänvisa till andra relevanta delar av lagstiftningen och ge en översikt av lagstiftningens struktur. Vi strävar förstås också efter att dessa förklaringar ska vara korrekta och uppdaterade.
 
-Vi kan dock inte garantera att kommentarerna till 100% är korrekta eller fullständiga. Om du hittar ett fel är vi tacksamma om du [talar om det för oss](https://github.com/staffanm/lagen.nu/issues/new). Om du själv är jurist (eller har motsvarande kunskaper) och vill hjälpa till med att skriva och förbättra kommentarer, gå till [Deltagarportalen](http://wiki.lagen.nu/index.php/Lagen.nu:Deltagarportalen) för att komma igång.
+Vi kan dock inte garantera att kommentarerna till 100% är korrekta eller fullständiga. Om du hittar ett fel är vi tacksamma om du [talar om det för oss](https://github.com/staffanm/lagen.nu/issues/new). Om du själv är jurist (eller har motsvarande kunskaper) och vill hjälpa till med att skriva och förbättra kommentarer, hör av dig -- se [kontaktinformation](/om/kontakt).
 
 ## Lagar och andra författningar
 
@@ -20,7 +20,7 @@ Vi kan inte garantera att själva lagarna som de återges här verkligen, till 1
 
 Varför är det så? Det system som hanterar lagtexterna utgår från från lagarna som de är publicerade i [Regeringskansliets rättsdatabaser](http://rkrattsbaser.gov.se/sfst) och redan där står det uttryckligen att dessa versioner kan innehålla fel, framförallt avsaknader av bilagor. Alla sådana fel finns även på lagen.nu. Sen omformateras lagtexterna automatiskt av ett datorprogram som lägger på sådana saker som rubriker, styckeindelning och hänvisningar till andra lagparagrafer. Det här programmet kan också införa fel.
 
-När vi blir uppmärksammade på att att ett fel av enklare typ (stavfel och liknande) förekommer i Regeringskansliets rättsdatabaser, och om vi kan bekräfta att motsvarande fel inte finns i Svensk författningssamling, så kan det hända att vi gör en manuell korrigering av informationen (samtidigt som vi underrättar Regeringskansliet om felet). Eftersom det finns över 4000 lagar och förordningar är det dock inte möjligt att göra en fullständig genomgång av dessa.
+När vi blir uppmärksammade på att att ett fel av enklare typ (stavfel och liknande) förekommer i Regeringskansliets rättsdatabaser, och om vi kan bekräfta att motsvarande fel inte finns i Svensk författningssamling, så kan det hända att vi gör en manuell korrigering av informationen (samtidigt som vi underrättar Regeringskansliet om felet). Eftersom det rör sig om drygt 11 000 författningar, varav ca 5 300 gällande, är det dock inte möjligt att göra en fullständig genomgång av dessa.
 
 ## Rättsfall
 
@@ -32,7 +32,7 @@ Det kan förekomma att vissa personuppgifter inte anonymiserats. När vi får ve
 
 ## Förarbeten
 
-De förarbeten (propositioner, utredningar i form av SOU- och Ds-betänkanden, samt komittédirektiv) som finns på lagen.nu hämtas från flera olika källor. I första hand hämtas dokumenten från [Regeringskansliets sida för rättsdokument](http://www.regeringen.se/rattsdokument), men äldre dokument hämtas även från [Riksdagen](https://www.riksdagen.se/sv/Dokument-Lagar/) (propositioner) och `KB <http://regina.kb.se/sou/>`. Det framgår bredvid rubriken för varje enskilt förarbete vilken källa som använts. Äldre material är i regel skannat från pappersoriginal och sedan OCR-behandlats för att få ut läsbar text. I denna process kan fel i texten uppstå. Om något verkar konstigt, kontrollera mot det inskannade källdokumentet.
+De förarbeten (propositioner, utredningar i form av SOU- och Ds-betänkanden, samt komittédirektiv) som finns på lagen.nu hämtas från flera olika källor. I första hand hämtas dokumenten från [Regeringskansliets sida för rättsdokument](http://www.regeringen.se/rattsdokument), men äldre dokument hämtas även från [Riksdagen](https://www.riksdagen.se/sv/Dokument-Lagar/) (propositioner) och [Kungliga biblioteket](https://www.kb.se/). Det framgår bredvid rubriken för varje enskilt förarbete vilken källa som använts. Äldre material är i regel skannat från pappersoriginal och sedan OCR-behandlats för att få ut läsbar text. I denna process kan fel i texten uppstå. Om något verkar konstigt, kontrollera mot det inskannade källdokumentet.
 
 ## EU-rätt
 
@@ -46,6 +46,20 @@ Det varierar från myndighet till myndighet på vilket sätt de hanterar ändrin
 
 Eftersom processerna för föreskriftsgivande och -publicerande skiljer sig åt är det svårt för lagen.nu att garantera att de föreskrifter som visas på webbplatsen inte är inaktuella. Vid osäkerhet bör kontroll mot myndighetens egen publicering av sin författningssamling göras.
 
-## Praxis
+## Myndighetsavgöranden
 
-På lagen.nu finns vägledande avgöranden från ARN, JO och JK. Dessa är hämtade direkt från myndigheternas respektive webbplatser, och bedömningen av vilka avgöranden som kan anses vägledande är myndigheternas. För särskilt JO saknas äldre praxis, även fast denna fortfarande är att se som vägledande. Inga garantier för fullständighet kan därför ges.
+På lagen.nu finns vägledande avgöranden från JO, JK, ARN, Konkurrensverket och Integritetsskyddsmyndigheten (IMY). Dessa är hämtade direkt från myndigheternas respektive webbplatser, och bedömningen av vilka avgöranden som kan anses vägledande är myndigheternas. För särskilt JO saknas äldre praxis, även fast denna fortfarande är att se som vägledande. Inga garantier för fullständighet kan därför ges.
+
+## Rättsliga ställningstaganden
+
+Myndigheters egna ställningstaganden om hur de tolkar den lagstiftning de tillämpar hämtas från respektive myndighets webbplats. De binder ingen utanför myndigheten. Myndigheterna avgör själva vad de publicerar och hur länge ett ställningstagande ligger kvar, så ett ställningstagande som dragits tillbaka kan ligga kvar här.
+
+## Folkrätt
+
+Fördragstexter hämtas från Europarådets fördragskontor, ICRC och FN:s fördragssamling, och Europadomstolens avgöranden från HUDOC. Materialet återges på originalspråk (engelska eller franska) utom där en svensk översättning publicerats i SFS. När en konvention är inkorporerad i svensk rätt är det den svenska författningstexten som gäller -- jämför mot den när det är den som är tillämplig.
+
+## Maskinellt utlästa samband
+
+Vissa kopplingar mellan dokument finns inte nedskrivna i strukturerad form någonstans, utan har lästs ut ur förarbetena -- delvis med hjälp av en språkmodell. Det gäller vilken EU-direktivartikel en paragraf genomför, och vilken paragraf i en ny lag som motsvarar vilken i den lag den ersatte. Sådana uppgifter visas alltid tillsammans med den källa de lästs ur, men de kan vara felaktiga. De är en läshjälp, inte en auktoritativ uppgift.
+
+Detsamma gäller de sammanställningar av remissinstansernas synpunkter som visas på ett fåtal utredningar. De är automatiskt framtagna sammanfattningar av vad varje remissvar säger, och det är svaret i original som gäller -- det finns länkat.

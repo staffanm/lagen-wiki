@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32023R1804": "1a301b27dd1269ced9290d79d0a7bf17dc38ae7c80269410d584e68098fcfa1d"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "alternativa-drivmedel-teknik",
+        "label": "Alternativa drivmedel och teknisk utveckling",
+        "range": [
+          4,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "allmana-principer-infrastruktur",
+        "label": "Allmänna principer för infrastruktur",
+        "range": [
+          9,
+          12
+        ],
+        "articleRefs": [
+          "5",
+          "20"
+        ]
+      },
+      {
+        "id": "latta-elfordon",
+        "label": "Mål för lätta elfordon",
+        "range": [
+          13,
+          17
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "tunga-elfordon",
+        "label": "Mål för tunga elfordon",
+        "range": [
+          18,
+          25
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "privat-infrastruktur",
+        "label": "Privat infrastruktur och planering",
+        "range": [
+          26,
+          27
+        ],
+        "articleRefs": [
+          "14"
+        ]
+      },
+      {
+        "id": "smart-laddning-elnat",
+        "label": "Smart laddning och elnät",
+        "range": [
+          28,
+          31
+        ],
+        "articleRefs": [
+          "5.8",
+          "15.3"
+        ]
+      },
+      {
+        "id": "marknad-pristransparens",
+        "label": "Marknadskonkurrens och pristransparens",
+        "range": [
+          32,
+          34
+        ],
+        "articleRefs": [
+          "5.3",
+          "5.4",
+          "5.5",
+          "5.6"
+        ]
+      },
+      {
+        "id": "vatgasinfrastruktur",
+        "label": "Vätgasinfrastruktur",
+        "range": [
+          35,
+          42
+        ],
+        "articleRefs": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "flytande-metan-vag",
+        "label": "Flytande metan för vägtransport",
+        "range": [
+          43,
+          44
+        ],
+        "articleRefs": [
+          "8"
+        ]
+      },
+      {
+        "id": "sjofartsinfrastruktur",
+        "label": "Sjöfartsinfrastruktur",
+        "range": [
+          45,
+          53
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "luftfartsinfrastruktur",
+        "label": "Luftfartsinfrastruktur",
+        "range": [
+          54,
+          56
+        ],
+        "articleRefs": [
+          "12"
+        ]
+      },
+      {
+        "id": "nationella-handlingsprogram",
+        "label": "Nationella handlingsprogram",
+        "range": [
+          57,
+          64
+        ],
+        "articleRefs": [
+          "14"
+        ]
+      },
+      {
+        "id": "användarinformation-data",
+        "label": "Användarinformation och data",
+        "range": [
+          65,
+          70
+        ],
+        "articleRefs": [
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "tekniska-specifikationer",
+        "label": "Tekniska specifikationer och standarder",
+        "range": [
+          71,
+          77
+        ],
+        "articleRefs": [
+          "21"
+        ]
+      },
+      {
+        "id": "uppfoljning-oversyn",
+        "label": "Uppföljning och översyn",
+        "range": [
+          78,
+          81
+        ],
+        "articleRefs": [
+          "15",
+          "17",
+          "18",
+          "24",
+          "25"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        3,
+        5
+      ],
+      "2": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        44
+      ],
+      "3": [
+        13,
+        14,
+        15
+      ],
+      "3.2": [
+        16
+      ],
+      "3.7": [
+        24
+      ],
+      "3.8": [
+        24
+      ],
+      "3.9": [
+        24
+      ],
+      "4": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "4.8": [
+        25
+      ],
+      "5": [
+        33,
+        34,
+        36,
+        37,
+        38,
+        39
+      ],
+      "5.1": [
+        36
+      ],
+      "5.2": [
+        36
+      ],
+      "5.3": [
+        33,
+        34
+      ],
+      "5.4": [
+        33
+      ],
+      "5.5": [
+        33,
+        34
+      ],
+      "5.6": [
+        34
+      ],
+      "5.8": [
+        30
+      ],
+      "6": [
+        35,
+        41
+      ],
+      "6.4": [
+        35
+      ],
+      "7": [
+        33,
+        36
+      ],
+      "8": [
+        43,
+        44
+      ],
+      "9": [
+        45,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "10": [
+        45,
+        53
+      ],
+      "11": [
+        52
+      ],
+      "12": [
+        54,
+        55,
+        56
+      ],
+      "14": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "15.3": [
+        29,
+        30
+      ],
+      "15.4": [
+        29,
+        30
+      ],
+      "17": [
+        78
+      ],
+      "18": [
+        78
+      ],
+      "19": [
+        65,
+        66
+      ],
+      "20": [
+        67,
+        68,
+        69,
+        70
+      ],
+      "21": [
+        71,
+        72,
+        73,
+        75
+      ]
+    }
+  }
+}

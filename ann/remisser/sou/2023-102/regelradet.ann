@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/regelradet": "b68acb147cc1a9c2c1e5b01faf1d6e1e86692fe5d13eb43fe631822053349f18",
+      "artifact:forarbete/sou/2023-102": "5cb0365885de555d43abe4d35b37a8f2abb2e4f2665af21d7cbd4cbdf7f5ac75"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Regelrådet finner att konsekvensutredningen uppfyller kraven i 6 och 7 §§ förordningen (2007:1244) om konsekvensutredning vid regelgivning."
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.10.1",
+      "sentiment": 0.5,
+      "quote": "Definitionen av avstämningsbolag utvidgas till att omfatta även aktiebolag vilkas bolagsordning innehåller förbehåll om att aktierna i bolaget ska vara registrerade i en distribuerad liggare enligt DLT-förordningen (se avsnitt 4.10.1)."
+    },
+    {
+      "forarbete_id": "a4.13",
+      "sentiment": 0.5,
+      "quote": "Det gäller till exempel förslaget att det ska tas in bestämmelser om förvaltarregistrering i den nya kompletteringslagen (se avsnitt 4.13)"
+    },
+    {
+      "forarbete_id": "a4.16",
+      "sentiment": 0.5,
+      "quote": "och de bestämmelser om tillsyn och ingripanden som föreslås (se avsnitt 4.16)."
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.6,
+      "quote": "Regelrådet finner att redovisningen av berörda företag utifrån storlek är bristfällig."
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32014L0025": "a89a0ae7692212a582efedcef122d3d666546861088e76fd1ee2de2ed70303a1"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "tillämpningsomrade-definitioner",
+        "label": "Tillämpningsområde och definitioner",
+        "range": [
+          7,
+          18
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "sektorsspecifikt-omrade",
+        "label": "Sektorsspecifikt tillämpningsområde",
+        "range": [
+          19,
+          25
+        ],
+        "articleRefs": [
+          "4",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "id": "undantag-begransningar",
+        "label": "Undantag och särskilda begränsningar",
+        "range": [
+          31,
+          37
+        ],
+        "articleRefs": [
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "samarbete-anknutna-foretag",
+        "label": "Samarbete och anknutna företag",
+        "range": [
+          38,
+          42
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "30",
+          "42"
+        ]
+      },
+      {
+        "id": "konkurrensutsatta-verksamheter",
+        "label": "Konkurrensutsatta verksamheter",
+        "range": [
+          43,
+          50
+        ],
+        "articleRefs": [
+          "34",
+          "35"
+        ]
+      },
+      {
+        "id": "miljo-sociala-krav",
+        "label": "Miljö, sociala krav och arbetsrätt",
+        "range": [
+          51,
+          56
+        ],
+        "articleRefs": [
+          "36"
+        ]
+      },
+      {
+        "id": "innovation-forfaranden",
+        "label": "Innovation och strategiska förfaranden",
+        "range": [
+          57,
+          61
+        ],
+        "articleRefs": [
+          "44",
+          "48",
+          "49",
+          "50"
+        ]
+      },
+      {
+        "id": "elektronisk-kommunikation",
+        "label": "Elektronisk kommunikation och sekretess",
+        "range": [
+          62,
+          69
+        ],
+        "articleRefs": [
+          "39",
+          "40"
+        ]
+      },
+      {
+        "id": "upphandlingsmetoder-instrument",
+        "label": "Upphandlingsmetoder och instrument",
+        "range": [
+          70,
+          82
+        ],
+        "articleRefs": [
+          "51",
+          "52",
+          "53",
+          "54",
+          "55",
+          "56",
+          "57"
+        ]
+      },
+      {
+        "id": "tekniska-specifikationer-anbud",
+        "label": "Tekniska specifikationer och anbudsprocess",
+        "range": [
+          83,
+          91
+        ],
+        "articleRefs": [
+          "60",
+          "61",
+          "65",
+          "66",
+          "75"
+        ]
+      },
+      {
+        "id": "tilldelningskriterier-livscykel",
+        "label": "Tilldelningskriterier och livscykelkostnader",
+        "range": [
+          92,
+          104
+        ],
+        "articleRefs": [
+          "82",
+          "83"
+        ]
+      },
+      {
+        "id": "uteslutning-kontroll",
+        "label": "Uteslutning och kontroll",
+        "range": [
+          105,
+          111
+        ],
+        "articleRefs": [
+          "80",
+          "84",
+          "88"
+        ]
+      },
+      {
+        "id": "kontraktsforvaltning",
+        "label": "Ändringar och uppsägning av kontrakt",
+        "range": [
+          113,
+          118
+        ],
+        "articleRefs": [
+          "89",
+          "90"
+        ]
+      },
+      {
+        "id": "sarskilda-system",
+        "label": "Särskilda upphandlingssystem",
+        "range": [
+          119,
+          126
+        ],
+        "articleRefs": [
+          "91",
+          "92",
+          "93",
+          "94",
+          "95",
+          "96",
+          "97",
+          "98"
+        ]
+      },
+      {
+        "id": "styrning-genomforande",
+        "label": "Styrning, övervakning och genomförande",
+        "range": [
+          127,
+          142
+        ],
+        "articleRefs": [
+          "99",
+          "100",
+          "101",
+          "102",
+          "106"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "2": [
+        6,
+        10,
+        11,
+        12,
+        17,
+        18
+      ],
+      "4": [
+        12,
+        19,
+        20,
+        21,
+        23
+      ],
+      "5": [
+        13,
+        14,
+        15
+      ],
+      "6": [
+        16
+      ],
+      "8": [
+        21
+      ],
+      "9": [
+        21
+      ],
+      "10": [
+        21,
+        24
+      ],
+      "11": [
+        21
+      ],
+      "12": [
+        21
+      ],
+      "13": [
+        21
+      ],
+      "14": [
+        25
+      ],
+      "15": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "18": [
+        18
+      ],
+      "19": [
+        18
+      ],
+      "20": [
+        18
+      ],
+      "21": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "22": [
+        37
+      ],
+      "23": [
+        37
+      ],
+      "28": [
+        39,
+        40,
+        41
+      ],
+      "29": [
+        39,
+        41
+      ],
+      "30": [
+        39,
+        40
+      ],
+      "34": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "35": [
+        49,
+        50
+      ],
+      "36": [
+        52,
+        54,
+        55,
+        56
+      ],
+      "39": [
+        62
+      ],
+      "40": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "44": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "48": [
+        60
+      ],
+      "49": [
+        59
+      ],
+      "50": [
+        61
+      ],
+      "51": [
+        71,
+        72
+      ],
+      "52": [
+        73,
+        74,
+        75
+      ],
+      "53": [
+        76
+      ],
+      "54": [
+        77
+      ],
+      "55": [
+        78,
+        79,
+        80,
+        81
+      ],
+      "60": [
+        83,
+        84,
+        86
+      ],
+      "61": [
+        85
+      ],
+      "65": [
+        87,
+        88
+      ],
+      "66": [
+        89,
+        90
+      ],
+      "75": [
+        91
+      ],
+      "82": [
+        94,
+        95,
+        97,
+        98,
+        99
+      ],
+      "83": [
+        101,
+        102
+      ],
+      "84": [
+        108
+      ],
+      "88": [
+        110
+      ],
+      "89": [
+        113,
+        114,
+        115,
+        117
+      ],
+      "90": [
+        118
+      ],
+      "91": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "95": [
+        126
+      ],
+      "99": [
+        127,
+        128,
+        129,
+        130,
+        131
+      ],
+      "100": [
+        132
+      ],
+      "106": [
+        140
+      ]
+    }
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R0900": "08876c3ad8a87abc995477b17a7dadb4633cdc07658991269178bb4055f7110c"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "inriktningsteknik-grundrattigheter",
+        "label": "Inriktningsteknik och grundläggande rättigheter",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "harmonisering-inre-marknad",
+        "label": "Harmonisering och den inre marknaden",
+        "range": [
+          7,
+          13
+        ],
+        "articleRefs": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-avgransningar",
+        "label": "Tillämpningsområde och avgränsningar",
+        "range": [
+          14,
+          17
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "icke-diskriminering-tredjelandsinblandning",
+        "label": "Icke-diskriminering och tredjelandsinblandning",
+        "range": [
+          18,
+          20
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "definitioner-reklam-aktorer",
+        "label": "Definitioner av politisk reklam och aktörer",
+        "range": [
+          21,
+          37
+        ],
+        "articleRefs": [
+          "3",
+          "8"
+        ]
+      },
+      {
+        "id": "aktorer-ansvar",
+        "label": "Aktörernas roller och ansvar",
+        "range": [
+          38,
+          42
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "tillborlig-aktsamhet-forklaringar",
+        "label": "Tillbörlig aktsamhet och förklaringar",
+        "range": [
+          43,
+          45
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "digitala-tjanster-mellanhänder",
+        "label": "Digitala tjänster och mellanhänder",
+        "range": [
+          46,
+          55
+        ],
+        "articleRefs": [
+          "6",
+          "13",
+          "15"
+        ]
+      },
+      {
+        "id": "markning-transparensmeddelanden",
+        "label": "Märkning och transparensmeddelanden",
+        "range": [
+          56,
+          63
+        ],
+        "articleRefs": [
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "europeisk-databas",
+        "label": "Europeisk databas för politisk reklam",
+        "range": [
+          64,
+          67
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "rapportering-anmalningar-tillgang",
+        "label": "Rapportering, anmälningar och tillgång till information",
+        "range": [
+          68,
+          73
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "dataskydd-personuppgifter",
+        "label": "Dataskydd och behandling av personuppgifter",
+        "range": [
+          74,
+          88
+        ],
+        "articleRefs": [
+          "18",
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "retrsliga-foretradare-tillsyn",
+        "label": "Rättsliga företrädare och tillsyn",
+        "range": [
+          89,
+          91
+        ],
+        "articleRefs": [
+          "21",
+          "22"
+        ]
+      },
+      {
+        "id": "tillsynsmyndigheter-sanktioner",
+        "label": "Tillsynsmyndigheter, samarbete och sanktioner",
+        "range": [
+          92,
+          106
+        ],
+        "articleRefs": [
+          "22",
+          "23",
+          "24",
+          "25"
+        ]
+      },
+      {
+        "id": "slutbestammelser-utvardering",
+        "label": "Slutbestämmelser och utvärdering",
+        "range": [
+          107,
+          114
+        ],
+        "articleRefs": [
+          "26",
+          "27",
+          "28",
+          "29",
+          "30"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        4,
+        5,
+        11,
+        14,
+        16
+      ],
+      "2": [
+        14,
+        16,
+        47,
+        48
+      ],
+      "3": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "4": [
+        12
+      ],
+      "5": [
+        18,
+        19
+      ],
+      "5.1": [
+        18
+      ],
+      "5.2": [
+        19
+      ],
+      "6": [
+        11,
+        44
+      ],
+      "7": [
+        43,
+        44,
+        45
+      ],
+      "8": [
+        22,
+        23,
+        26
+      ],
+      "9": [
+        9,
+        44
+      ],
+      "9.3": [
+        62
+      ],
+      "10": [
+        44,
+        52
+      ],
+      "11": [
+        56,
+        57
+      ],
+      "12": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "13": [
+        64,
+        66
+      ],
+      "14": [
+        68
+      ],
+      "15": [
+        69,
+        70,
+        71,
+        72
+      ],
+      "16": [
+        102
+      ],
+      "17": [
+        73
+      ],
+      "18": [
+        6,
+        74,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "18.1": [
+        77,
+        79
+      ],
+      "18.2": [
+        82
+      ],
+      "18.3": [
+        77
+      ],
+      "18.4": [
+        75,
+        80,
+        81
+      ],
+      "19": [
+        83,
+        84,
+        87
+      ],
+      "19.1": [
+        83
+      ],
+      "20": [
+        88
+      ],
+      "21": [
+        89
+      ],
+      "22": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        101,
+        103
+      ],
+      "22.1": [
+        90
+      ],
+      "22.3": [
+        91
+      ],
+      "22.4": [
+        92
+      ],
+      "22.8": [
+        101
+      ],
+      "23": [
+        97,
+        98,
+        99,
+        100
+      ],
+      "24": [
+        105,
+        106
+      ],
+      "25": [
+        104
+      ],
+      "26": [
+        107
+      ],
+      "27": [
+        111
+      ],
+      "28": [
+        109
+      ],
+      "29": [
+        110
+      ],
+      "30": [
+        112,
+        113
+      ]
+    }
+  }
+}

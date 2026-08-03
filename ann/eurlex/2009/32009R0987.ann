@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32009R0987": "520a44da188dc3b6fdbfdced92b2453c8b2fb2fc1432c4ab1e8bd81b2cb600a5"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "syfte-elektronik",
+        "label": "Syfte och elektroniska hjälpmedel",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "4",
+          "88"
+        ]
+      },
+      {
+        "id": "rettsakerhet-stod",
+        "label": "Rättssäkerhet och stöd till försäkrade",
+        "range": [
+          6,
+          9
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "behorighet-bosattning",
+        "label": "Behörighet och bosättningsort",
+        "range": [
+          10,
+          11
+        ],
+        "articleRefs": [
+          "6",
+          "11"
+        ]
+      },
+      {
+        "id": "oppenhet-rorlighet",
+        "label": "Öppenhet och rörlighet",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "sarskilda-formaner",
+        "label": "Särskilda förmåner och vård",
+        "range": [
+          14,
+          17
+        ],
+        "articleRefs": [
+          "22",
+          "26",
+          "44"
+        ]
+      },
+      {
+        "id": "finans-indrivning",
+        "label": "Finansiella förfaranden och indrivning",
+        "range": [
+          18,
+          21
+        ],
+        "articleRefs": [
+          "66",
+          "71",
+          "75"
+        ]
+      },
+      {
+        "id": "information-personer",
+        "label": "Information till berörda personer",
+        "range": [
+          22,
+          22
+        ],
+        "articleRefs": [
+          "3",
+          "19",
+          "89"
+        ]
+      },
+      {
+        "id": "grund-overgang",
+        "label": "Rättslig grund och övergång",
+        "range": [
+          23,
+          24
+        ],
+        "articleRefs": [
+          "96"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2
+      ],
+      "2": [
+        3,
+        4,
+        6
+      ],
+      "2.1": [
+        6
+      ],
+      "3": [
+        7,
+        9,
+        22
+      ],
+      "3.1": [
+        22
+      ],
+      "4": [
+        3,
+        4
+      ],
+      "6": [
+        10
+      ],
+      "11": [
+        11
+      ],
+      "19": [
+        22
+      ],
+      "22": [
+        15,
+        16
+      ],
+      "26": [
+        16
+      ],
+      "44": [
+        14
+      ],
+      "66": [
+        18
+      ],
+      "71": [
+        19,
+        20
+      ],
+      "75": [
+        19
+      ],
+      "79": [
+        20
+      ],
+      "89": [
+        22
+      ],
+      "96": [
+        24
+      ]
+    }
+  }
+}

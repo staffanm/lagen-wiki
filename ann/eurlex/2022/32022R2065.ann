@@ -1,0 +1,576 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32022R2065": "40d6d11285db648dbe4afb2f5b3c6838f3b85756bddb4c5c2dd63910932a4c08"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-definitioner",
+        "label": "Tillämpningsområde och definitioner",
+        "range": [
+          5,
+          15
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "ansvarsfrihet-undantag",
+        "label": "Ansvarsfrihet och undantag",
+        "range": [
+          16,
+          30
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "myndighetsforelagganden",
+        "label": "Myndighetsförelägganden",
+        "range": [
+          31,
+          39
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "allmanna-aktsamhetskrav",
+        "label": "Allmänna krav på tillbörlig aktsamhet",
+        "range": [
+          40,
+          49
+        ],
+        "articleRefs": [
+          "11",
+          "12",
+          "13",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "anmalning-atgarder",
+        "label": "Mekanismer för anmälan och åtgärder",
+        "range": [
+          50,
+          56
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "plattforms-klagomalssystem",
+        "label": "Krav för onlineplattformar: klagomål och tvistlösning",
+        "range": [
+          57,
+          64
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21",
+          "23"
+        ]
+      },
+      {
+        "id": "transparens-gransnitt-konsument",
+        "label": "Transparens, gränssnitt och konsumentskydd",
+        "range": [
+          65,
+          74
+        ],
+        "articleRefs": [
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "30",
+          "31",
+          "32"
+        ]
+      },
+      {
+        "id": "systemrisker-riskhantering",
+        "label": "Systemrisker och riskhantering för VLOPs och VLOSEs",
+        "range": [
+          75,
+          90
+        ],
+        "articleRefs": [
+          "33",
+          "34",
+          "35",
+          "36"
+        ]
+      },
+      {
+        "id": "tillsyn-revision-dataatkomst",
+        "label": "Tillsyn, revision och dataåtkomst för VLOPs och VLOSEs",
+        "range": [
+          91,
+          100
+        ],
+        "articleRefs": [
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42"
+        ]
+      },
+      {
+        "id": "standarder-uppforandekoder",
+        "label": "Standarder och uppförandekoder",
+        "range": [
+          101,
+          108
+        ],
+        "articleRefs": [
+          "43",
+          "44",
+          "45",
+          "46",
+          "47",
+          "48"
+        ]
+      },
+      {
+        "id": "tillsynsmyndigheter-samordnare",
+        "label": "Tillsynsmyndigheter och samordnare",
+        "range": [
+          109,
+          116
+        ],
+        "articleRefs": [
+          "49",
+          "50",
+          "51"
+        ]
+      },
+      {
+        "id": "sanktioner-rattsmedel",
+        "label": "Sanktioner, rättsmedel och behörighet",
+        "range": [
+          117,
+          126
+        ],
+        "articleRefs": [
+          "52",
+          "53",
+          "54",
+          "56"
+        ]
+      },
+      {
+        "id": "genomfordrande-samarbete",
+        "label": "Genomförande och samarbete",
+        "range": [
+          127,
+          130
+        ],
+        "articleRefs": [
+          "57",
+          "58",
+          "59",
+          "60"
+        ]
+      },
+      {
+        "id": "europeiska-namnden",
+        "label": "Europeiska nämnden för digitala tjänster",
+        "range": [
+          131,
+          136
+        ],
+        "articleRefs": [
+          "61",
+          "62",
+          "63"
+        ]
+      },
+      {
+        "id": "kommissionen-utvardering-slut",
+        "label": "Kommissionens befogenheter, utvärdering och slutbestämmelser",
+        "range": [
+          137,
+          156
+        ],
+        "articleRefs": [
+          "64",
+          "65",
+          "66",
+          "67",
+          "69",
+          "70",
+          "71",
+          "73",
+          "74",
+          "75",
+          "76",
+          "79",
+          "84",
+          "85",
+          "86",
+          "91"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "2": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "3": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "3.h": [
+        12
+      ],
+      "3.i": [
+        13
+      ],
+      "3.k": [
+        14
+      ],
+      "4": [
+        16,
+        19,
+        21
+      ],
+      "5": [
+        19,
+        21
+      ],
+      "6": [
+        16,
+        17,
+        18,
+        22,
+        23,
+        24
+      ],
+      "6.1": [
+        22
+      ],
+      "6.2": [
+        23
+      ],
+      "6.3": [
+        24
+      ],
+      "7": [
+        26
+      ],
+      "8": [
+        30
+      ],
+      "9": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        38
+      ],
+      "10": [
+        31,
+        37,
+        38
+      ],
+      "11": [
+        42
+      ],
+      "12": [
+        43
+      ],
+      "13": [
+        44
+      ],
+      "14": [
+        45,
+        46,
+        47,
+        48
+      ],
+      "15": [
+        49
+      ],
+      "16": [
+        50,
+        51,
+        52,
+        53
+      ],
+      "17": [
+        54,
+        55
+      ],
+      "18": [
+        56
+      ],
+      "19": [
+        57
+      ],
+      "20": [
+        58
+      ],
+      "21": [
+        59,
+        60
+      ],
+      "22": [
+        61,
+        62
+      ],
+      "23": [
+        63,
+        64
+      ],
+      "24": [
+        65,
+        66
+      ],
+      "25": [
+        67
+      ],
+      "26": [
+        68,
+        69
+      ],
+      "27": [
+        70
+      ],
+      "28": [
+        71
+      ],
+      "29": [
+        57
+      ],
+      "30": [
+        72,
+        73
+      ],
+      "31": [
+        74
+      ],
+      "32": [
+        74
+      ],
+      "33": [
+        75,
+        76,
+        77,
+        78
+      ],
+      "34": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "35": [
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "36": [
+        91
+      ],
+      "37": [
+        92,
+        93
+      ],
+      "38": [
+        94
+      ],
+      "39": [
+        95
+      ],
+      "40": [
+        96,
+        97,
+        98
+      ],
+      "41": [
+        99
+      ],
+      "42": [
+        100
+      ],
+      "43": [
+        101
+      ],
+      "44": [
+        102
+      ],
+      "45": [
+        103,
+        104
+      ],
+      "46": [
+        107
+      ],
+      "47": [
+        105
+      ],
+      "48": [
+        108
+      ],
+      "49": [
+        109
+      ],
+      "50": [
+        111,
+        112
+      ],
+      "51": [
+        114,
+        115,
+        116
+      ],
+      "52": [
+        117
+      ],
+      "53": [
+        118
+      ],
+      "54": [
+        121
+      ],
+      "55": [
+        122
+      ],
+      "56": [
+        123,
+        124,
+        125,
+        126
+      ],
+      "57": [
+        127
+      ],
+      "58": [
+        128
+      ],
+      "59": [
+        129
+      ],
+      "60": [
+        130
+      ],
+      "61": [
+        131
+      ],
+      "62": [
+        132,
+        134,
+        135,
+        136
+      ],
+      "63": [
+        132,
+        133
+      ],
+      "64": [
+        137
+      ],
+      "65": [
+        138
+      ],
+      "66": [
+        139,
+        140
+      ],
+      "67": [
+        141
+      ],
+      "69": [
+        141
+      ],
+      "70": [
+        142
+      ],
+      "71": [
+        142
+      ],
+      "73": [
+        144
+      ],
+      "74": [
+        144
+      ],
+      "75": [
+        145
+      ],
+      "76": [
+        144
+      ],
+      "79": [
+        146
+      ],
+      "84": [
+        148
+      ],
+      "85": [
+        148
+      ],
+      "86": [
+        149
+      ],
+      "91": [
+        150
+      ]
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32008L0120": "f4d73e873ca16fc44563c70ceaee9373b148bcae4204d8fa061612bb0b0143b7"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-kodifiering",
+        "label": "Bakgrund och kodifiering",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "marknad-standarder",
+        "label": "Marknad och gemensamma standarder",
+        "range": [
+          5,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "9"
+        ]
+      },
+      {
+        "id": "utrymme-miljo",
+        "label": "Utrymme och miljö",
+        "range": [
+          8,
+          10
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "id": "ingrepp-praxis",
+        "label": "Ingrepp och god praxis",
+        "range": [
+          11,
+          11
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "forskning-avvagning",
+        "label": "Forskning och avvägning",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "5",
+          "7"
+        ]
+      },
+      {
+        "id": "genomforande-juridik",
+        "label": "Genomförande och juridiska bestämmelser",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "11",
+          "13"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        7
+      ],
+      "3": [
+        8,
+        9,
+        10
+      ],
+      "3.3": [
+        10
+      ],
+      "3.4": [
+        9,
+        10
+      ],
+      "3.5": [
+        8
+      ],
+      "3.8": [
+        9
+      ],
+      "4": [
+        8
+      ],
+      "5": [
+        13
+      ],
+      "6": [
+        11
+      ],
+      "6.a": [
+        11
+      ],
+      "6.b": [
+        11
+      ],
+      "7": [
+        13
+      ],
+      "9": [
+        7
+      ],
+      "11": [
+        14
+      ],
+      "12": [
+        12
+      ],
+      "13": [
+        15
+      ]
+    }
+  }
+}

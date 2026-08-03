@@ -1,0 +1,428 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32016L0680": "483ce867dde94b8227d829c4f3accb9eac39a8e4b4d46746d10cb79b3783ca61"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampsningsomradde",
+        "label": "Tillämpningsområde och omfattning",
+        "range": [
+          5,
+          14
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "skyddsniva-principer",
+        "label": "Skyddsnivå och allmänna principer",
+        "range": [
+          15,
+          20
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "definitioner-kategorier",
+        "label": "Definitioner och känsliga uppgifter",
+        "range": [
+          21,
+          25
+        ],
+        "articleRefs": [
+          "3",
+          "10"
+        ]
+      },
+      {
+        "id": "behandlingsprinciper",
+        "label": "Principer för behandling",
+        "range": [
+          26,
+          34
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "34"
+        ]
+      },
+      {
+        "id": "laglighet-sarskillda-kategorier",
+        "label": "Laglighet och särskilda kategorier av uppgifter",
+        "range": [
+          35,
+          38
+        ],
+        "articleRefs": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ]
+      },
+      {
+        "id": "den-registrerades-rattigheter",
+        "label": "Den registrerades rättigheter och information",
+        "range": [
+          39,
+          49
+        ],
+        "articleRefs": [
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "id": "ansvar-och-sakerhet",
+        "label": "Ansvar, inbyggt dataskydd och säkerhet",
+        "range": [
+          50,
+          63
+        ],
+        "articleRefs": [
+          "19",
+          "20",
+          "21",
+          "22",
+          "24",
+          "25",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "34"
+        ]
+      },
+      {
+        "id": "tredjeland-overforingar",
+        "label": "Överföringar till tredjeland",
+        "range": [
+          64,
+          74
+        ],
+        "articleRefs": [
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40"
+        ]
+      },
+      {
+        "id": "tillsynsmyndigheter",
+        "label": "Oberoende tillsynsmyndigheter",
+        "range": [
+          75,
+          84
+        ],
+        "articleRefs": [
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47"
+        ]
+      },
+      {
+        "id": "klagomal-och-rattsmedel",
+        "label": "Klagomål och rättsmedel",
+        "range": [
+          85,
+          89
+        ],
+        "articleRefs": [
+          "52",
+          "53",
+          "54",
+          "55",
+          "56",
+          "57"
+        ]
+      },
+      {
+        "id": "genomforande-slutsatser",
+        "label": "Genomförande och slutbestämmelser",
+        "range": [
+          90,
+          107
+        ],
+        "articleRefs": [
+          "58",
+          "59",
+          "60",
+          "61",
+          "63"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        4,
+        7,
+        11,
+        15
+      ],
+      "2": [
+        11,
+        12,
+        14,
+        18,
+        34
+      ],
+      "3": [
+        13,
+        21,
+        23,
+        24
+      ],
+      "3.1": [
+        21
+      ],
+      "3.12": [
+        23
+      ],
+      "3.14": [
+        24
+      ],
+      "4": [
+        26,
+        28,
+        29,
+        30,
+        32,
+        34
+      ],
+      "4.1.a": [
+        26
+      ],
+      "4.1.b": [
+        29
+      ],
+      "4.1.d": [
+        30,
+        32
+      ],
+      "4.1.e": [
+        26
+      ],
+      "4.1.f": [
+        28
+      ],
+      "5": [
+        26
+      ],
+      "6": [
+        31
+      ],
+      "7": [
+        30,
+        32
+      ],
+      "8": [
+        35,
+        33
+      ],
+      "9": [
+        11,
+        36
+      ],
+      "10": [
+        37
+      ],
+      "11": [
+        38
+      ],
+      "12": [
+        39,
+        40,
+        41
+      ],
+      "13": [
+        42,
+        44
+      ],
+      "13.3": [
+        44
+      ],
+      "14": [
+        43
+      ],
+      "15": [
+        44,
+        45,
+        46
+      ],
+      "16": [
+        47
+      ],
+      "17": [
+        48
+      ],
+      "18": [
+        49
+      ],
+      "19": [
+        50,
+        51,
+        52
+      ],
+      "20": [
+        53
+      ],
+      "21": [
+        54
+      ],
+      "22": [
+        55
+      ],
+      "24": [
+        56
+      ],
+      "25": [
+        56,
+        57
+      ],
+      "27": [
+        58
+      ],
+      "28": [
+        59
+      ],
+      "29": [
+        28,
+        60
+      ],
+      "30": [
+        61
+      ],
+      "31": [
+        62
+      ],
+      "32": [
+        63
+      ],
+      "34": [
+        63
+      ],
+      "35": [
+        64,
+        65
+      ],
+      "36": [
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "37": [
+        71
+      ],
+      "38": [
+        72
+      ],
+      "39": [
+        73
+      ],
+      "40": [
+        74
+      ],
+      "41": [
+        75,
+        76,
+        77
+      ],
+      "42": [
+        78,
+        79
+      ],
+      "43": [
+        79
+      ],
+      "45": [
+        80
+      ],
+      "46": [
+        81,
+        82
+      ],
+      "47": [
+        82
+      ],
+      "50": [
+        83
+      ],
+      "51": [
+        84
+      ],
+      "52": [
+        85
+      ],
+      "53": [
+        86
+      ],
+      "54": [
+        88
+      ],
+      "55": [
+        87
+      ],
+      "56": [
+        88
+      ],
+      "57": [
+        89
+      ],
+      "59": [
+        98
+      ],
+      "60": [
+        94
+      ],
+      "61": [
+        95
+      ],
+      "63": [
+        96
+      ]
+    }
+  }
+}

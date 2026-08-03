@@ -44,7 +44,7 @@ Arbetet med lagkommentarerna har möjliggjorts genom ekonomiskt stöd från [Int
 
 ## 2009-08-19 11:21:00 Ny betaversion
 
-En ny betaversion, med en ny grafisk design, är klar för testning. Arbetet med lagkommenterandet har gått framåt med stormsteg, och kommentarerna till RB, ÄB, LAS och MBL är i princip klara. Tanken med den nya designen är att lagtexten ska kunna presenteras sida vid sida med information om samma text - kommentarer, rättsfall, hänvisningar från andra lagar m.m. Samtidigt har färgschemat och övriga grafiska detaljer fått en översyn. Maila gärna dina kommentarer till [staffan@tomtebo.org](staffan@tomtebo.org)
+En ny betaversion, med en ny grafisk design, är klar för testning. Arbetet med lagkommenterandet har gått framåt med stormsteg, och kommentarerna till RB, ÄB, LAS och MBL är i princip klara. Tanken med den nya designen är att lagtexten ska kunna presenteras sida vid sida med information om samma text - kommentarer, rättsfall, hänvisningar från andra lagar m.m. Samtidigt har färgschemat och övriga grafiska detaljer fått en översyn. Maila gärna dina kommentarer till [staffan.malmgren@gmail.com](mailto:staffan.malmgren@gmail.com)
 
 ## 2009-08-03 20:41:13 Betaversion av lagen.nu
 
@@ -60,7 +60,7 @@ lagen.nu drivs ideellt med syftet att göra det möjligt för den intresserade a
 
 Under sommaren och hösten 2009 kommer jag försöka utveckla en sådan lagtextkommentar. Jag kan fixa det tekniska som krävs för en sådan tjänst, men för att skriva kommentarerna behöver jag hjälp av dig som studerar juridik, är färdig jurist eller bara är riktigt insatt i ett visst rättsområde. Den långsiktiga målsättningen är att intresserade personer ska bidra med sin tid för att de finner projektet kul och målsättningen eftersträvansvärd, men jag tror att man kan kickstarta det hela genom avlönat arbete. Jag har därför sökt och fått medel från [Internetfonden](http://www.iis.se/se-ar-mer/internetfonden/) för att driva ett pilotprojekt.
 
-För mer information, se [projektsidan](http://wiki.lagen.nu/index.php/Huvudsida), och skicka [mig](mailto:staffan@tomtebo.org) en intresseanmälan om det verkar intressant!
+För mer information, se [projektsidan](http://wiki.lagen.nu/index.php/Huvudsida), och skicka [mig](mailto:staffan.malmgren@gmail.com) en intresseanmälan om det verkar intressant!
 
 ## 2009-02-19 21:02:11 Dags att uppgradera IE6
 
@@ -78,7 +78,7 @@ Efter två veckors testperiod är det nu dags att presentera den nya versionen a
 
 Sedan årsskiftet har jag jobbat med en ny version av lagen.nu, som nu går nu att betatesta på [ferenda.lagen.nu](http://ferenda.lagen.nu/). Utåt sett är de stora nyheterna en ny grafisk design och att rättsfallen nu finns med i fulltext. Läs mer om [vad som är nytt](https://lagen.nu/om/nytt.html).
 
-Bakom kulisserna har i stort sett all kod som skapar sidorna skrivits om. Detta har resulterat i att systemet nu är bättre att känna igen vad som är vad i en lagtext -- rubriker, paragrafer, tabeller, hänvisningar med mera ska nu identifieras mycket säkrare än tidigare. Men det finns säkerligen massor av fel kvar! Därför finns det ett litet formulär för felanmälan på alla sidor. Använd gärna det om du stöter på något som inte ser rätt ut. Eller så kan du meddela problem och brister via epost till [staffan@tomtebo.org](mailto:staffan@tomtebo.org).
+Bakom kulisserna har i stort sett all kod som skapar sidorna skrivits om. Detta har resulterat i att systemet nu är bättre att känna igen vad som är vad i en lagtext -- rubriker, paragrafer, tabeller, hänvisningar med mera ska nu identifieras mycket säkrare än tidigare. Men det finns säkerligen massor av fel kvar! Därför finns det ett litet formulär för felanmälan på alla sidor. Använd gärna det om du stöter på något som inte ser rätt ut. Eller så kan du meddela problem och brister via epost till [staffan.malmgren@gmail.com](mailto:staffan.malmgren@gmail.com).
 
 ## 2008-02-23 13:26:49 Tack för hjälpen!
 
@@ -276,7 +276,7 @@ För beta:
 
 ## 2004-10-30 13:04:40 Lagen.nu har smygpremiär
 
-Från och med idag är lagen.nu tillgänglig i vad man kanske kan kalla en alfa-version. Det betyder att långt ifrån all funktionalitet som jag vill ha med är på plats, och att det kan finnas massor av fel. Under de närmaste veckorna kommer mer funktionalitet på plats, men om det är något särskilt du efterlyser, eller om du hittat några buggar, kontakta mig gärna på [staffan@tomtebo.org](mailto:staffan@tomtebo.org).
+Från och med idag är lagen.nu tillgänglig i vad man kanske kan kalla en alfa-version. Det betyder att långt ifrån all funktionalitet som jag vill ha med är på plats, och att det kan finnas massor av fel. Under de närmaste veckorna kommer mer funktionalitet på plats, men om det är något särskilt du efterlyser, eller om du hittat några buggar, kontakta mig gärna på [staffan.malmgren@gmail.com](mailto:staffan.malmgren@gmail.com).
 
 ## 2004-10-28 02:39:42 Publiceringsfunktion på plats
 

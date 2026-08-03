@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32021R2303": "18c96081c8d40904eb9da809376f9ce7fac9614255aed81dbfd2c4657e9e88cb"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "fran-easo-till-auaa",
+        "label": "Från EASO till EUAA",
+        "range": [
+          5,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "19.6"
+        ]
+      },
+      {
+        "id": "samarbete-information",
+        "label": "Samarbete och informationsutbyte",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "4",
+          "6"
+        ]
+      },
+      {
+        "id": "sambandsman",
+        "label": "Sambandsmän",
+        "range": [
+          12,
+          12
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "stod-fortbildning",
+        "label": "Stöd och fortbildning",
+        "range": [
+          13,
+          15
+        ],
+        "articleRefs": [
+          "2",
+          "8"
+        ]
+      },
+      {
+        "id": "landinformation",
+        "label": "Landinformation och vägledning",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "id": "operativa-standarder",
+        "label": "Operativa standarder och bästa praxis",
+        "range": [
+          19,
+          19
+        ],
+        "articleRefs": [
+          "13"
+        ]
+      },
+      {
+        "id": "overvakningsmekanism",
+        "label": "Övervakningsmekanismen",
+        "range": [
+          20,
+          24
+        ],
+        "articleRefs": [
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "operativt-tekniskt-bistand",
+        "label": "Operativt och tekniskt bistånd",
+        "range": [
+          25,
+          29
+        ],
+        "articleRefs": [
+          "16",
+          "19",
+          "20"
+        ]
+      },
+      {
+        "id": "oproportionerligt-tryck",
+        "label": "Särskilt tryck och ingripande",
+        "range": [
+          30,
+          34
+        ],
+        "articleRefs": [
+          "21",
+          "22",
+          "23"
+        ]
+      },
+      {
+        "id": "externa-relationer",
+        "label": "Samarbete med utomstående parter",
+        "range": [
+          35,
+          39
+        ],
+        "articleRefs": [
+          "35",
+          "36",
+          "37",
+          "38"
+        ]
+      },
+      {
+        "id": "grundrattigheter-civilsamhalle",
+        "label": "Grundläggande rättigheter och civilsamhälle",
+        "range": [
+          40,
+          45
+        ],
+        "articleRefs": [
+          "49",
+          "51",
+          "57",
+          "58"
+        ]
+      },
+      {
+        "id": "organisation-styrning",
+        "label": "Organisation och styrning",
+        "range": [
+          46,
+          50
+        ],
+        "articleRefs": [
+          "39",
+          "40",
+          "41",
+          "46",
+          "47",
+          "48"
+        ]
+      },
+      {
+        "id": "finansiella-bestammelser",
+        "label": "Finansiella och administrativa bestämmelser",
+        "range": [
+          51,
+          54
+        ],
+        "articleRefs": [
+          "52",
+          "53",
+          "54",
+          "55",
+          "56"
+        ]
+      },
+      {
+        "id": "dataskydd",
+        "label": "Dataskydd och personuppgifter",
+        "range": [
+          55,
+          60
+        ],
+        "articleRefs": [
+          "29",
+          "30",
+          "31",
+          "32"
+        ]
+      },
+      {
+        "id": "slutförseglingar",
+        "label": "Juridiska ramar och slutförseglingar",
+        "range": [
+          61,
+          69
+        ],
+        "articleRefs": [
+          "69",
+          "70",
+          "71",
+          "72",
+          "73"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        5,
+        6,
+        7
+      ],
+      "1.2": [
+        3,
+        6
+      ],
+      "2.1.a": [
+        9,
+        19
+      ],
+      "2.1.b": [
+        10
+      ],
+      "2.1.d": [
+        15
+      ],
+      "2.1.e": [
+        16
+      ],
+      "2.1.f": [
+        16
+      ],
+      "2.1.g": [
+        17
+      ],
+      "2.1.h": [
+        18
+      ],
+      "2.1.i": [
+        6,
+        25
+      ],
+      "2.1.j": [
+        13,
+        68
+      ],
+      "2.1.k": [
+        13
+      ],
+      "2.1.l": [
+        25,
+        26
+      ],
+      "2.1.m": [
+        8,
+        28
+      ],
+      "2.1.p": [
+        12
+      ],
+      "2.1.q": [
+        6,
+        20
+      ],
+      "2.1.r": [
+        39
+      ],
+      "2.1.s": [
+        14
+      ],
+      "4": [
+        9
+      ],
+      "5": [
+        10
+      ],
+      "6.2": [
+        11
+      ],
+      "7": [
+        12
+      ],
+      "8": [
+        15
+      ],
+      "9": [
+        16
+      ],
+      "10": [
+        16
+      ],
+      "11.1": [
+        17
+      ],
+      "12": [
+        18
+      ],
+      "13": [
+        19
+      ],
+      "14": [
+        6,
+        20,
+        21,
+        22
+      ],
+      "15.4": [
+        20
+      ],
+      "15.5": [
+        23
+      ],
+      "16": [
+        6,
+        25,
+        26
+      ],
+      "16.2.j": [
+        41,
+        42
+      ],
+      "16.2.k": [
+        41,
+        42
+      ],
+      "18.2.e": [
+        41,
+        43
+      ],
+      "18.2.n": [
+        44,
+        45
+      ],
+      "19.6": [
+        8,
+        28
+      ],
+      "20": [
+        27
+      ],
+      "21": [
+        33,
+        34
+      ],
+      "22": [
+        30
+      ],
+      "23": [
+        31
+      ],
+      "35": [
+        38
+      ],
+      "36": [
+        39
+      ],
+      "37": [
+        35
+      ],
+      "38": [
+        37
+      ],
+      "49": [
+        44
+      ],
+      "50": [
+        40
+      ],
+      "51": [
+        45
+      ],
+      "57": [
+        43
+      ],
+      "58": [
+        43
+      ],
+      "69": [
+        50
+      ],
+      "73": [
+        68
+      ]
+    }
+  }
+}

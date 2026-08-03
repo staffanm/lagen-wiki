@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32024R1991": "69ccfaa32507f97c7f0187fdd3083bc3a62588ad929fd491cfb8c0b67099b19a"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-internationella-ataganden",
+        "label": "Bakgrund och internationella åtaganden",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "eu-strategier-biologisk-mangfald",
+        "label": "EU:s strategier för biologisk mångfald",
+        "range": [
+          7,
+          13
+        ],
+        "articleRefs": [
+          "1",
+          "14"
+        ]
+      },
+      {
+        "id": "socioekonomiska-fordelar-klimat",
+        "label": "Socioekonomiska fördelar och klimatkoppling",
+        "range": [
+          14,
+          23
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "befintlig-lagstiftning-skyddade-omraden",
+        "label": "Befintlig lagstiftning och skyddade områden",
+        "range": [
+          24,
+          30
+        ],
+        "articleRefs": [
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "malsattningar-gott-tillstand",
+        "label": "Målsättningar för gott tillstånd och icke-försämring",
+        "range": [
+          31,
+          37
+        ],
+        "articleRefs": [
+          "4",
+          "5"
+        ]
+      },
+      {
+        "id": "undantag-energi-forsvar",
+        "label": "Undantag för energi och försvar",
+        "range": [
+          38,
+          39
+        ],
+        "articleRefs": [
+          "6",
+          "7"
+        ]
+      },
+      {
+        "id": "marina-ekosystem-fiskeri",
+        "label": "Marina ekosystem och fiskeriförvaltning",
+        "range": [
+          40,
+          46
+        ],
+        "articleRefs": [
+          "5",
+          "18"
+        ]
+      },
+      {
+        "id": "urbana-ekosystem",
+        "label": "Urbana ekosystem",
+        "range": [
+          47,
+          49
+        ],
+        "articleRefs": [
+          "8"
+        ]
+      },
+      {
+        "id": "vattendrag-pollinatorer",
+        "label": "Vattendrag och pollinatörer",
+        "range": [
+          50,
+          53
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "jordbruksekosystem-organiska-jordar",
+        "label": "Jordbruksekosystem och organiska jordar",
+        "range": [
+          54,
+          60
+        ],
+        "articleRefs": [
+          "11"
+        ]
+      },
+      {
+        "id": "skogsekosystem",
+        "label": "Skogsekosystem",
+        "range": [
+          61,
+          64
+        ],
+        "articleRefs": [
+          "12",
+          "13"
+        ]
+      },
+      {
+        "id": "nationella-planer-synergier",
+        "label": "Nationella restaureringsplaner och synergier",
+        "range": [
+          65,
+          71
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "19"
+        ]
+      },
+      {
+        "id": "overvakning-rapportering-stod",
+        "label": "Övervakning, rapportering och stöd",
+        "range": [
+          72,
+          77
+        ],
+        "articleRefs": [
+          "20",
+          "21"
+        ]
+      },
+      {
+        "id": "finansiering",
+        "label": "Finansiering",
+        "range": [
+          78,
+          81
+        ],
+        "articleRefs": [
+          "15.3.u"
+        ]
+      },
+      {
+        "id": "rattslig-pruvnig-genomforande",
+        "label": "Rättslig prövning och genomförande",
+        "range": [
+          82,
+          85
+        ],
+        "articleRefs": [
+          "14.20"
+        ]
+      },
+      {
+        "id": "forvaltning-utvardring-delegering",
+        "label": "Förvaltning, utvärdering och delegering",
+        "range": [
+          86,
+          91
+        ],
+        "articleRefs": [
+          "22",
+          "23",
+          "24",
+          "26",
+          "27"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        14
+      ],
+      "4": [
+        24,
+        26,
+        27,
+        28,
+        29,
+        30,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "4.1": [
+        28,
+        35
+      ],
+      "4.4": [
+        28
+      ],
+      "4.7": [
+        25,
+        26,
+        29,
+        30,
+        34,
+        36
+      ],
+      "4.11": [
+        37
+      ],
+      "4.12": [
+        37
+      ],
+      "4.13": [
+        37
+      ],
+      "4.14": [
+        38
+      ],
+      "4.15": [
+        38
+      ],
+      "5": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "5.1": [
+        41
+      ],
+      "5.5": [
+        45
+      ],
+      "5.9": [
+        37
+      ],
+      "5.11": [
+        38
+      ],
+      "5.12": [
+        38
+      ],
+      "6": [
+        38,
+        67,
+        68
+      ],
+      "7": [
+        39
+      ],
+      "8": [
+        47,
+        48
+      ],
+      "9": [
+        50
+      ],
+      "10": [
+        51,
+        52,
+        53
+      ],
+      "11": [
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "11.4": [
+        59,
+        60
+      ],
+      "12": [
+        61,
+        62,
+        63
+      ],
+      "13": [
+        64
+      ],
+      "14": [
+        65,
+        66,
+        69,
+        70,
+        71
+      ],
+      "15": [
+        65,
+        72
+      ],
+      "18": [
+        43,
+        44
+      ],
+      "19": [
+        69
+      ],
+      "20": [
+        72,
+        73,
+        74,
+        75
+      ],
+      "21": [
+        75,
+        77
+      ],
+      "22": [
+        86
+      ],
+      "23": [
+        86
+      ],
+      "24": [
+        87
+      ],
+      "26": [
+        89
+      ],
+      "27": [
+        88
+      ]
+    }
+  }
+}

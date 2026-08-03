@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32011L0092": "59184e1e6cf683b3fe5768ed7c68e9ad61988036063986fcc8a49a3df0f532bb"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "kodifiering-principer",
+        "label": "Kodifiering och grundläggande principer",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "urval-projekt",
+        "label": "Urval av projekt för bedömning",
+        "range": [
+          7,
+          11
+        ],
+        "articleRefs": [
+          "2",
+          "4"
+        ]
+      },
+      {
+        "id": "bedomningens-innehall",
+        "label": "Bedömningens innehåll och uppgifter",
+        "range": [
+          12,
+          14
+        ],
+        "articleRefs": [
+          "3",
+          "5"
+        ]
+      },
+      {
+        "id": "gransoverskridande-samrad",
+        "label": "Gränsöverskridande samråd",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "allmanhetens-deltagande",
+        "label": "Allmänhetens deltagande och Århuskonventionen",
+        "range": [
+          16,
+          21
+        ],
+        "articleRefs": [
+          "6",
+          "9",
+          "11"
+        ]
+      },
+      {
+        "id": "undantag-tillampning",
+        "label": "Undantag och tillämpningsområde",
+        "range": [
+          22,
+          23
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och principer",
+        "range": [
+          24,
+          25
+        ],
+        "articleRefs": [
+          "14",
+          "15"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        4,
+        5,
+        6,
+        22
+      ],
+      "1.1": [
+        2,
+        4,
+        5,
+        6
+      ],
+      "1.2": [
+        3
+      ],
+      "1.4": [
+        22
+      ],
+      "2": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "2.1": [
+        7,
+        8,
+        9
+      ],
+      "2.4": [
+        23
+      ],
+      "3": [
+        2,
+        14
+      ],
+      "4": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "4.1": [
+        8
+      ],
+      "4.2": [
+        9,
+        10
+      ],
+      "4.3": [
+        11
+      ],
+      "5": [
+        12,
+        13
+      ],
+      "5.1": [
+        12
+      ],
+      "5.2": [
+        13
+      ],
+      "6": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "6.2": [
+        16
+      ],
+      "6.3": [
+        17
+      ],
+      "6.4": [
+        16
+      ],
+      "7": [
+        15,
+        18
+      ],
+      "8": [
+        7,
+        13
+      ],
+      "9": [
+        16,
+        18
+      ],
+      "11": [
+        18,
+        21
+      ],
+      "11.1": [
+        21
+      ],
+      "14": [
+        25
+      ],
+      "15": [
+        1
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:remisser/sou/2023:45/forsvarets-materielverk": "fa862a38ef538f994f4e085f84d6aaa423fbd04a59ca94651bec571696e7fbd4",
+      "artifact:forarbete/sou/2023-45": "2656d53642f7622cd8d0506880eaa07bd2157c6f69d7ae787bf078d29bf3ac66"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "FMV är positiva till förslaget om övergångsrestriktioner."
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.13",
+      "sentiment": -0.7,
+      "quote": "En längre restriktionstid inom försvarsområdet skulle kunna leda till rekryteringsförluster för både myndigheter och industri och påverka Sveriges förmåga att utveckla och producera försvarsmateriel."
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": -0.5,
+      "quote": "FMV noterar även att en framtida tillämpning av övergångsrestriktioner i större omfattning skulle innebära betydande kostnader som, om de som utredningen föreslår ska bäras inom befintliga ramar, i så fall får konsekvenser på myndighetens verksamhet att upphandla och utveckla materiel och tjänster till Försvarsmakten."
+    }
+  ]
+}

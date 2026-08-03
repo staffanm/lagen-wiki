@@ -2,6 +2,13 @@
 title: Cookies
 ---
 
-Lagen.nu använder inte egna cookies, men använder sig av tredjepartstjänster från [Google Analytics](https://www.google.com/analytics/) och [GitHub](https://github.com/). Dessa tredjepartstjänster kan sätta cookies för att kunna samla in användarstatistik.
+Lagen.nu laddar inga resurser från tredje part. Typsnitt, stilmallar och skript
+levereras från samma server som sidorna, och det finns varken
+besöksstatistikverktyg eller inbäddat innehåll utifrån. Ingen tredje part kan
+alltså sätta cookies via lagen.nu.
 
-Om du inte vill att lagen.nu ska spara dessa cookies hos dig kan du använda din webläsares funktionalitet för att slå av cookies. De flesta moderna webläsare kan göra sådant på webbplatsnivå. Funktionaliteten i webtjänsten kommer vara oförändrad.
+Tjänsten sätter inte heller själv några cookies för vanliga besökare. Ditt val
+av ljust eller mörkt tema sparas lokalt i webbläsaren (i localStorage, inte i en
+cookie) och skickas aldrig till servern. Inloggade skribenter, som kan redigera
+kommentarer och begreppsförklaringar direkt på sajten, får en sessionscookie så
+länge de är inloggade.

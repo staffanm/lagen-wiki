@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32019R0943": "58f0b4b890ca67ade7456849109a373740ee43182df60fe81a2dd4a62e1d31ed"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "omvandling-flexibilitet",
+        "label": "Energiomställning och flexibilitet",
+        "range": [
+          5,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "12"
+        ]
+      },
+      {
+        "id": "balansmarknad-ansvar",
+        "label": "Balansmarknad och balansansvar",
+        "range": [
+          8,
+          15
+        ],
+        "articleRefs": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "befintligt-regelverk",
+        "label": "Befintligt regelverk",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "7",
+          "9"
+        ]
+      },
+      {
+        "id": "elomraden-kapacitetsberakning",
+        "label": "Elområden och kapacitetsberäkning",
+        "range": [
+          19,
+          21
+        ],
+        "articleRefs": [
+          "14",
+          "16",
+          "37"
+        ]
+      },
+      {
+        "id": "marknadsprinciper-prissättning",
+        "label": "Marknadsprinciper och prissättning",
+        "range": [
+          22,
+          25
+        ],
+        "articleRefs": [
+          "3",
+          "10"
+        ]
+      },
+      {
+        "id": "nattariffer-overbelastning",
+        "label": "Nättariffer och överbelastning",
+        "range": [
+          26,
+          31
+        ],
+        "articleRefs": [
+          "16",
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "integrering-tariffer",
+        "label": "Marknadsintegrering och tariffsystem",
+        "range": [
+          32,
+          41
+        ],
+        "articleRefs": [
+          "18",
+          "19"
+        ]
+      },
+      {
+        "id": "entso-e-resurstillracklighet",
+        "label": "Entso för el och resurstillräcklighet",
+        "range": [
+          42,
+          44
+        ],
+        "articleRefs": [
+          "28",
+          "30",
+          "23"
+        ]
+      },
+      {
+        "id": "kapacitetsmekanismer",
+        "label": "Kapacitetsmekanismer",
+        "range": [
+          45,
+          51
+        ],
+        "articleRefs": [
+          "21",
+          "22",
+          "26"
+        ]
+      },
+      {
+        "id": "regionalt-samarbete-rcc",
+        "label": "Regionalt samarbete och RCC",
+        "range": [
+          52,
+          59
+        ],
+        "articleRefs": [
+          "35",
+          "36",
+          "37",
+          "42"
+        ]
+      },
+      {
+        "id": "eu-dso-nattforeskrifter",
+        "label": "EU DSO-enheten och nätföreskrifter",
+        "range": [
+          60,
+          66
+        ],
+        "articleRefs": [
+          "52",
+          "53",
+          "55",
+          "58",
+          "59"
+        ]
+      },
+      {
+        "id": "tillsyn-sanktioner",
+        "label": "Tillsyn och sanktioner",
+        "range": [
+          67,
+          70
+        ],
+        "articleRefs": [
+          "65",
+          "66"
+        ]
+      },
+      {
+        "id": "genomforande-slutsatser",
+        "label": "Genomförande och slutbestämmelser",
+        "range": [
+          71,
+          75
+        ],
+        "articleRefs": [
+          "58",
+          "68",
+          "69"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "3": [
+        22,
+        23,
+        24
+      ],
+      "4": [
+        51
+      ],
+      "5": [
+        10,
+        15
+      ],
+      "5.2": [
+        25
+      ],
+      "6": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "7": [
+        9,
+        16
+      ],
+      "8": [
+        13
+      ],
+      "9": [
+        17
+      ],
+      "10": [
+        24
+      ],
+      "12": [
+        5,
+        7
+      ],
+      "13": [
+        25
+      ],
+      "14": [
+        19,
+        30,
+        31
+      ],
+      "15": [
+        31
+      ],
+      "16": [
+        27,
+        28,
+        29
+      ],
+      "16.8": [
+        27,
+        28
+      ],
+      "18": [
+        26,
+        37,
+        39,
+        40
+      ],
+      "19": [
+        38,
+        41
+      ],
+      "20": [
+        43,
+        45
+      ],
+      "21": [
+        45,
+        46
+      ],
+      "22": [
+        50
+      ],
+      "23": [
+        43,
+        44
+      ],
+      "25": [
+        44
+      ],
+      "26": [
+        49,
+        50
+      ],
+      "28": [
+        42
+      ],
+      "30": [
+        42,
+        65
+      ],
+      "35": [
+        53
+      ],
+      "36": [
+        54
+      ],
+      "37": [
+        19,
+        20,
+        21,
+        55,
+        57
+      ],
+      "42": [
+        57
+      ],
+      "46": [
+        58
+      ],
+      "49": [
+        35,
+        36,
+        37
+      ],
+      "52": [
+        60
+      ],
+      "55": [
+        60
+      ],
+      "58": [
+        33,
+        61,
+        62,
+        63
+      ],
+      "59": [
+        61,
+        62
+      ],
+      "63": [
+        66
+      ],
+      "65": [
+        68
+      ],
+      "66": [
+        67,
+        69
+      ]
+    }
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32021R1147": "cfb1a386f9516d7a8c7de03434ff609b88ff1e090b20c51058c1add8e6fa8ef8"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "3"
+        ]
+      },
+      {
+        "id": "rattigheter-principer",
+        "label": "Rättigheter och grundläggande principer",
+        "range": [
+          5,
+          6
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "asylsystemet",
+        "label": "Det gemensamma europeiska asylsystemet",
+        "range": [
+          7,
+          12
+        ],
+        "articleRefs": [
+          "3.2a"
+        ]
+      },
+      {
+        "id": "integration-tredjelander",
+        "label": "Integration och samarbete med tredjeländer",
+        "range": [
+          13,
+          17
+        ],
+        "articleRefs": [
+          "3.2b",
+          "5"
+        ]
+      },
+      {
+        "id": "genomforande-integration",
+        "label": "Genomförande av integrationsåtgärder",
+        "range": [
+          18,
+          20
+        ],
+        "articleRefs": [
+          "4",
+          "16.10"
+        ]
+      },
+      {
+        "id": "laglig-migration",
+        "label": "Laglig migration",
+        "range": [
+          21,
+          22
+        ],
+        "articleRefs": [
+          "3.2b"
+        ]
+      },
+      {
+        "id": "atervandande-atertagande",
+        "label": "Återvändande och återtagande",
+        "range": [
+          23,
+          31
+        ],
+        "articleRefs": [
+          "3.2c"
+        ]
+      },
+      {
+        "id": "synergier-mervarde",
+        "label": "Synergier och unionsmervärde",
+        "range": [
+          32,
+          35
+        ],
+        "articleRefs": [
+          "9"
+        ]
+      },
+      {
+        "id": "transparens-efterlevnad",
+        "label": "Transparens, synlighet och efterlevnad",
+        "range": [
+          36,
+          40
+        ],
+        "articleRefs": [
+          "11.10",
+          "30"
+        ]
+      },
+      {
+        "id": "budget-program",
+        "label": "Budgetfördelning och programplanering",
+        "range": [
+          41,
+          43
+        ],
+        "articleRefs": [
+          "13",
+          "16"
+        ]
+      },
+      {
+        "id": "tematisk-del-sarskilda-atgarder",
+        "label": "Tematisk del och särskilda åtgärder",
+        "range": [
+          44,
+          46
+        ],
+        "articleRefs": [
+          "11",
+          "18"
+        ]
+      },
+      {
+        "id": "stodmekanismer-nodhjalp",
+        "label": "Stödmekanismer, driftsstöd och nödhjälp",
+        "range": [
+          47,
+          52
+        ],
+        "articleRefs": [
+          "21",
+          "31"
+        ]
+      },
+      {
+        "id": "finansiell-forvaltning",
+        "label": "Finansiell förvaltning och kontroll",
+        "range": [
+          53,
+          60
+        ],
+        "articleRefs": [
+          "22"
+        ]
+      },
+      {
+        "id": "tillampningsomrade-regioner",
+        "label": "Tillämpningsområde och särskilda regioner",
+        "range": [
+          61,
+          64
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "overvakning-utvardering-klimat",
+        "label": "Övervakning, utvärdering och klimatmål",
+        "range": [
+          65,
+          67
+        ],
+        "articleRefs": [
+          "33",
+          "34",
+          "35"
+        ]
+      },
+      {
+        "id": "administrativt-overgang",
+        "label": "Administrativa och övergångsbestämmelser",
+        "range": [
+          68,
+          76
+        ],
+        "articleRefs": [
+          "37",
+          "39",
+          "40"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        4
+      ],
+      "2.6": [
+        47
+      ],
+      "2.10": [
+        46
+      ],
+      "3": [
+        1,
+        4
+      ],
+      "3.2.a": [
+        7,
+        8,
+        10,
+        11,
+        12
+      ],
+      "3.2.b": [
+        14,
+        21,
+        22
+      ],
+      "3.2.c": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "3.2.d": [
+        8,
+        13
+      ],
+      "4": [
+        19
+      ],
+      "5": [
+        5,
+        9,
+        13,
+        34
+      ],
+      "5.2": [
+        9,
+        34
+      ],
+      "5.3": [
+        34
+      ],
+      "6": [
+        5,
+        6
+      ],
+      "7": [
+        61
+      ],
+      "9": [
+        32,
+        33,
+        35
+      ],
+      "11": [
+        44
+      ],
+      "11.9": [
+        19
+      ],
+      "13": [
+        41,
+        42
+      ],
+      "15.3": [
+        45
+      ],
+      "16": [
+        43
+      ],
+      "16.4": [
+        10
+      ],
+      "16.10": [
+        18
+      ],
+      "18": [
+        46
+      ],
+      "19": [
+        13,
+        44
+      ],
+      "20": [
+        8
+      ],
+      "21": [
+        47
+      ],
+      "22": [
+        59
+      ],
+      "24": [
+        63
+      ],
+      "25": [
+        48
+      ],
+      "26": [
+        50
+      ],
+      "30": [
+        36
+      ],
+      "31": [
+        49
+      ],
+      "33": [
+        65
+      ],
+      "34": [
+        65
+      ],
+      "35": [
+        66
+      ],
+      "37": [
+        69
+      ],
+      "39": [
+        68,
+        74
+      ],
+      "40": [
+        76
+      ]
+    }
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-07-27",
+    "inputs": {
+      "artifact:eurlex/32023R0956": "5508ae173b8da2f1fbda71d7a9345b09a785cea1a279ab11444eafdf89fddc22"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-klimatmål",
+        "label": "Bakgrund och klimatmål",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "koldioxidläckage-syfte",
+        "label": "Koldioxidläckage och CBAM:s syfte",
+        "range": [
+          8,
+          15
+        ],
+        "articleRefs": [
+          "1",
+          "31"
+        ]
+      },
+      {
+        "id": "tillämpningsområde-utsläpp",
+        "label": "Tillämpningsområde och utsläpp",
+        "range": [
+          16,
+          19
+        ],
+        "articleRefs": [
+          "2",
+          "3",
+          "7"
+        ]
+      },
+      {
+        "id": "certifikat-prissättning",
+        "label": "CBAM-certifikat och prissättning",
+        "range": [
+          20,
+          25
+        ],
+        "articleRefs": [
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "6"
+        ]
+      },
+      {
+        "id": "sanktioner-efterlevnad",
+        "label": "Sanktioner och efterlevnad",
+        "range": [
+          26,
+          26
+        ],
+        "articleRefs": [
+          "26"
+        ]
+      },
+      {
+        "id": "produktomfattning-urval",
+        "label": "Produktomfattning och urval",
+        "range": [
+          27,
+          41
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "importtillstånd-tull",
+        "label": "Importtillstånd och tullkontroll",
+        "range": [
+          42,
+          44
+        ],
+        "articleRefs": [
+          "4",
+          "5",
+          "17",
+          "25"
+        ]
+      },
+      {
+        "id": "deklaration-verifiering",
+        "label": "Deklaration, verifiering och registrering",
+        "range": [
+          45,
+          48
+        ],
+        "articleRefs": [
+          "6",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "operativ-hantering-el",
+        "label": "Operativ hantering och elmarknader",
+        "range": [
+          49,
+          56
+        ],
+        "articleRefs": [
+          "7",
+          "20",
+          "21",
+          "2.7"
+        ]
+      },
+      {
+        "id": "administration-genomförande",
+        "label": "Administration och genomförande",
+        "range": [
+          57,
+          64
+        ],
+        "articleRefs": [
+          "14",
+          "15",
+          "19",
+          "32",
+          "33",
+          "34",
+          "35"
+        ]
+      },
+      {
+        "id": "översyn-samarbete",
+        "label": "Översyn och internationellt samarbete",
+        "range": [
+          65,
+          74
+        ],
+        "articleRefs": [
+          "30"
+        ]
+      },
+      {
+        "id": "juridiska-slutbestämmelser",
+        "label": "Juridiska och slutliga bestämmelser",
+        "range": [
+          75,
+          82
+        ],
+        "articleRefs": [
+          "28",
+          "29",
+          "36"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        8,
+        9,
+        10,
+        14,
+        15
+      ],
+      "2": [
+        16,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        41
+      ],
+      "2.2": [
+        18
+      ],
+      "2.3": [
+        41
+      ],
+      "2.4": [
+        16,
+        54,
+        55,
+        56
+      ],
+      "2.7": [
+        55,
+        56
+      ],
+      "3": [
+        19,
+        31
+      ],
+      "4": [
+        42,
+        43
+      ],
+      "5": [
+        42
+      ],
+      "6": [
+        25,
+        45
+      ],
+      "7": [
+        19,
+        51,
+        52
+      ],
+      "8": [
+        47
+      ],
+      "9": [
+        46
+      ],
+      "10": [
+        48
+      ],
+      "12": [
+        58,
+        70
+      ],
+      "14": [
+        59
+      ],
+      "15": [
+        61
+      ],
+      "16": [
+        22
+      ],
+      "17": [
+        42
+      ],
+      "18": [
+        47
+      ],
+      "19": [
+        62,
+        63
+      ],
+      "20": [
+        23,
+        60
+      ],
+      "21": [
+        23,
+        49
+      ],
+      "22": [
+        24,
+        50
+      ],
+      "23": [
+        24
+      ],
+      "24": [
+        24
+      ],
+      "25": [
+        43
+      ],
+      "26": [
+        26
+      ],
+      "27": [
+        53,
+        66
+      ],
+      "28": [
+        77
+      ],
+      "29": [
+        79
+      ],
+      "30": [
+        65,
+        67,
+        68,
+        69
+      ],
+      "31": [
+        11,
+        12
+      ],
+      "32": [
+        57
+      ],
+      "33": [
+        57
+      ],
+      "34": [
+        57
+      ],
+      "35": [
+        57
+      ],
+      "36": [
+        82
+      ]
+    }
+  }
+}
