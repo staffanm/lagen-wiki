@@ -20,7 +20,8 @@ Två saker är värda att veta först:
 
 API:et ligger under `/api/v1` på samma server som sidorna. Det är öppet för
 anrop från andra webbplatser (CORS, endast GET). Interaktiv dokumentation finns
-på `/docs` och ett maskinläsbart schema på `/openapi.json`.
+på [`/docs`](/docs) och ett maskinläsbart schema på
+[`/openapi.json`](/openapi.json).
 
 Dokumentadresser skickas alltid som frågeparametern `uri`, aldrig som del av
 sökvägen -- lagen.nu-adresser innehåller både `:` och `/`.

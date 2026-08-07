@@ -28,7 +28,8 @@ JSON-artefakten är källan till sanning; sökindex och katalog är härledda oc
 byggas om ur artefakterna.
 
 API:et ligger under `/api/v1`. Ett maskinläsbart schema serveras på
-`/openapi.json` och interaktiv dokumentation på `/docs`.
+[`/openapi.json`](/openapi.json) och interaktiv dokumentation på
+[`/docs`](/docs).
 
 Plattformen bakom lagen.nu är öppen källkod och kan återanvändas för att bygga
 andra tjänster som hanterar liknande informationssamlingar. Läs mer om
