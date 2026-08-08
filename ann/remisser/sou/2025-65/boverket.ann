@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/boverket": "735b69b68dfbb25ce55199bfe26b17c0bb9f60ccbf16066d594f97d80d7bb4fb",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Boverket tillstyrker Justitiedepartementets remiss ”En mer flexibel hyresmarknad”.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": 1.0,
+      "quote": "Utredningen föreslår att parterna vid privatuthyrning som utgångspunkt ska vara fria att komma överens om inflyttningshyrans storlek, vilket ger större frihet än dagens regelverk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1.4",
+      "sentiment": -0.5,
+      "quote": "Boverket ser en risk för att dessa förändringar skapar incitament för spekulationsköp, där bostadsrätter i högre grad köps av personer med syfte att hyra ut snarare än att själva bo i lägenheterna.",
+      "quote_type": "grund"
+    }
+  ]
+}

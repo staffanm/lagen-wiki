@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/statskontoret": "d3935c99d025ebc7ea49ad1832a5231f04dbe371cca46564582db131785f12d9",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Statskontoret bedömer att förslagen kan bidra till ett mer ändamålsenligt valsedelsystem genom att valsäkerheten stärks samtidigt som statens kostnader minskar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -0.2,
+      "quote": "Genom att redan i delbetänkandet lägga fram förslag som är anpassade till det nuvarande systemet med partispecifika valsedlar har kommittén i praktiken uteslutit möjligheten att i slutbetänkandet föreslå ett system med gemensamma eller neutrala valsedlar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec197",
+      "sentiment": 0.2,
+      "quote": "Det är dock oklart hur kommittén har beräknat kostnadsökningarna, vilket gör det svårt att bedöma om den angivna summan är rimlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec318",
+      "sentiment": 0.2,
+      "quote": "Statskontoret vill dock understryka att ett sådant arbete förutsätter ett formellt regeringsuppdrag och tillräckliga medel redan i ett tidigt skede.",
+      "quote_type": "grund"
+    }
+  ]
+}

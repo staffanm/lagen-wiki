@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/lansstyrelsen-i-stockholms-lan": "45b0b4faecfe0221601592c87dbde9dd143b38a1b7ac6a41ee8686565cf1f344",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Länsstyrelsen bör därför tillföras ytterligare medel för hanteringen av de tillkommande arbetsuppgifterna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3.2",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen befarar att effektiviteten kan komma att minska om det i stället är privata aktörer som ska utföra arbetsuppgiften.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen befarar att kostnaderna kommer öka mer än marginellt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec99",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen befarar även att kostnaderna för skyddsåtgärder vid övergivna gruvhål kommer överstiga det som anges i utredningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

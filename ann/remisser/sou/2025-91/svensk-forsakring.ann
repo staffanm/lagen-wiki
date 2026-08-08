@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/svensk-forsakring": "0cfe675b04e9ee1b839e1a78ca120e7d054030fa1c7f70f6cdd6abe9a7ce908a",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Utredningens förslag om att det i bouppteckningen ska lämnas vissa uppgifter om försäkringar är onödigt långtgående och bör begränsas avsevärt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": -0.2,
+      "quote": "När det gäller periodiskt utfallande försäkringsersättning finns dock oklarheter som behöver belysas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": -0.5,
+      "quote": "Eftersom efterlevandepension är avsedd för den efterlevandes försörjning och faller ut periodiskt skiljer sig pensionen från flertalet andra tillgångar som tillfaller efterlevande make.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec330",
+      "sentiment": -0.5,
+      "quote": "Att ta fram denna information kommer av flera skäl att bli betungande för försäkringsbolagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": -0.2,
+      "quote": "Det kan inte begäras att ett försäkringsbolag utan särskild anledning ska undersöka om sådana förhållanden föreligger innan ersättning betalas, särskilt som bolagets möjligheter att inhämta sådan information är mycket begränsade.",
+      "quote_type": "grund"
+    }
+  ]
+}

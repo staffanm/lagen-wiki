@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:125/kustbevakningen": "79f58174b93727c7e17569243951204ed5eaed9fda6baa4e8480fd4a6e78e2df",
+      "artifact:forarbete/sou/2025-125": "8fbe18bc2acd39c5bc37f0d668576018901c84abb912d974543ac98521ecb8c8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kustbevakningen har i huvudsak inga synpunkter på utredningens förslag men önskar framhålla följande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.5.5",
+      "sentiment": -0.5,
+      "quote": "Mot ovanstående bakgrund förordar Kustbevakningen att avgiftssanktioner samlas på en myndighet på motsvarande sätt som Havs- och vattenmyndigheten hanterar sanktionsavgifter inom fisket oavsett vilken myndighet eller tillsynsfunktion som har upptäckt en överträdelse inom jaktregelverket.",
+      "quote_type": "grund"
+    }
+  ]
+}

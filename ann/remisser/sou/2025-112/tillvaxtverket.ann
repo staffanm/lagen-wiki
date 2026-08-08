@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:112/tillvaxtverket": "e3c1ca0bd03ad6ed72c074c0cf7f1a6d823dd5075678abb0681ddbda7da79931",
+      "artifact:forarbete/sou/2025-112": "327d2d12c90657abd95e45e3d5371180d3dc968a3250c1269d1486751bc6c593"
+    }
+  },
+  "overall": {
+    "sentiment": 0.7,
+    "quote": "Tillväxtverket tycker att åtgärderna stärker myndighetens möjligheter att på ett strukturerat och rättssäkert sätt använda relevant information i arbetet med riskbedömning och kontroll.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5.6",
+      "sentiment": 0.8,
+      "quote": "Tillväxtverket anser att den föreslagna sekretessregleringen är väl avvägd och ger ett tillräckligt skydd för de uppgifter som kommer att hanteras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.6",
+      "sentiment": 1.0,
+      "quote": "Tillväxtverket tillstyrker utredningens bedömning att den personuppgiftsbehandling som möjliggörs genom Arachne och Edes är nödvändig och proportionerlig samt har stöd i ett allmänt intresse i enlighet med artikel 6.1 e i dataskyddsförordningen (GDPR).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": 0.0,
+      "quote": "Tillväxtverket efterfrågar ett klargörande av om en grundläggande rättighetsbedömning Fundamental rights impact assessment enligt artikel 27 i AI-förordningen behöver genomföras om AI-funktionalitet tillförs systemen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": 1.0,
+      "quote": "Myndigheten delar utredningens bedömning att någon ytterligare DPIA inte behöver genomföras av svenska myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7",
+      "sentiment": 0.5,
+      "quote": "Tillväxtverket ser ett stort värde i att en central myndighet ges i uppdrag att ta fram utbildningar, metodstöd och nationella riktlinjer för när riskflaggor ska föranleda manuell granskning eller inte.",
+      "quote_type": "grund"
+    }
+  ]
+}

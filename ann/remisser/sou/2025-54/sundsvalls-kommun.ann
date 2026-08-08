@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:54/sundsvalls-kommun": "ddb3559a323863d431338a08eaead99c0a80e4a7dd1fb976ee7edc1911b5b365",
+      "artifact:forarbete/sou/2025-54": "7aaeb3a04e899501717f3265fee63505ccf9529ba9e8e7301f283a0cd3c94fac"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Individ- och arbetsmarknadsnämnden avger ett remissvar utan ställningstagande men med synpunkter och kommentarer enligt nedan.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.5.3",
+      "sentiment": -0.2,
+      "quote": "Sundsvalls kommun ser en risk att det är mer sannolikt att resultatet blir en ökad mängd ärenden att hantera gällande brott av mindre allvarlig karaktär, och där intresseavvägningen lär tala för att en utvisning inte ska beslutas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": -0.5,
+      "quote": "Sundsvalls kommun ser även en rättssäkerhetsrisk i att prövningen av verkställighetshinder flyttas från domstol till Migrationsverket, då detta kan minska den juridiska kontrollen och öka risken för felaktiga beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5.1",
+      "sentiment": 1.0,
+      "quote": "Sundsvalls kommun uppfattar att de angivna förutsättningarna är tydliga och ställer sig positiv att man väljer att föreslå att bibehålla kravet på strängare påföljd än böter för att utvisning ska kunna komma i fråga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.1",
+      "sentiment": -0.2,
+      "quote": "Vi menar att det ändå finns en påtaglig risk att utredningens förslag kommer att medföra ett ytterligare ärendetryck på socialtjänsterna eftersom man sannolikt förväntas yttra sig i alla ärenden där det finns barn som kan påverkas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.5,
+      "quote": "Fler barn kommer att ha föräldrar som utvisas på grund av brottslighet och kommer därmed att få svårare att upprätthålla sin relation till den föräldern.",
+      "quote_type": "grund"
+    }
+  ]
+}

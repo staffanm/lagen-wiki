@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:58/livsmedelsverket": "d7692b069b44aab79d82350307012eb5b9a8dbf2a3d12786862b9dd86efb9d99",
+      "artifact:forarbete/sou/2025-58": "ba36ed43caad5065a24954f0cd558aaf490376f8b49d2831dc80ba70fc994f7a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten ser positivt på digitalisering av hästpass som kan stärka spårbarhet och tillförlitlighet för hästar som ingår i livsmedelskedjan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.19.8",
+      "sentiment": 0.5,
+      "quote": "Digitala hästpass kan förbättra förutsättningarna för att säkerställa att endast hästar med korrekt identitet och godkänd läkemedelsstatus går in i livsmedelskedjan vilket medför en stärkt spårbarhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 1.0,
+      "quote": "Förslagen bedöms inte påverka myndighetens nuvarande regelverk eller medföra några större kostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/natverket-mot-cancer": "1be1ddcc5a11d4125f25ac9ade9b0c6acd57474e9d6d468b5e94d94fe64aeeb4",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Samtidigt återstår stora brister i vården kring jämlikhet, effektivitet och samordning som måste lösas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec80",
+      "sentiment": -0.2,
+      "quote": "Ett sådant sjukvårdssystem skulle underlätta den statliga styrningen och samordningen mellan regioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4",
+      "sentiment": 0.8,
+      "quote": "NMC instämmer i att staten bör ta ett större ansvar för de sex områden som speciﬁceras, även om vi skulle önska att kommittén varit tydligare med hur ett utökat statligt ansvarstagande skulle gå till.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 0.5,
+      "quote": "Här menar NMC att regeringen i ett första steg borde se till att förslagen i Nationell plan för hälso- och sjukvårdens kompetensförsörjningen (som Nationella vårdkompetensrådet presenterade 2024) realiseras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.3",
+      "sentiment": 0.5,
+      "quote": "Särskilt viktigt för cancerpatienter är området som rör läkemedel och hjälpmedel där åtgärder måste vidtas akut för att säkra jämlik tillgång över landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec275",
+      "sentiment": 0.8,
+      "quote": "Vi anser liksom kommittén att staten måste ta ett omtag och tillsammans med övriga aktörer inleda ett omfattande åtgärdspaket för att Patientlagen ska efterlevas.",
+      "quote_type": "grund"
+    }
+  ]
+}

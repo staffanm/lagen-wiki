@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/umea-universitet": "6eb90f4df24a5a434b22505b7a50c18603cb109721187852c91246debb8bf2ef",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Umeå universitet anser att utredningen är välgjord och slutsatserna i stort är väl avvägda och väl grundade.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec62",
+      "sentiment": -0.2,
+      "quote": "Även om utredningen pekar på att bristen på sjuksköterskor delvis beror på för få utbildningsplatser, bör det understrykas att den huvudsakliga utmaningen snarare är att många utbildade sjuksköterskor lämnar yrket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec96",
+      "sentiment": -0.5,
+      "quote": "Det finns en betydande risk i att utbildningarna formas utifrån verksamheternas omedelbara behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec67",
+      "sentiment": -0.2,
+      "quote": "Utvecklingen inom AI medför möjligheter och utmaningar rörande integritet och ansvar som bör hanteras samlat genom tydliga nationella regelverk.",
+      "quote_type": "grund"
+    }
+  ]
+}

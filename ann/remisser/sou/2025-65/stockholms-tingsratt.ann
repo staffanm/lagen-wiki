@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/stockholms-tingsratt": "d7076411916ac6f2234f38b4c198a2a118168780376277cbca1fa78221475fa2",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt har tingsrätten inte några synpunkter på det som anges i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec35",
+      "sentiment": -0.2,
+      "quote": "Det bör i den fortsatta beredningen förtydligas vad tingsrätterna har att pröva med anledning av de föreslagna ändringarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.8",
+      "sentiment": -0.2,
+      "quote": "En närmare analys av detta bör dock göras i den fortsatta beredningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

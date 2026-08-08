@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:47/forsvarsmakten": "f0704651b92b8a1357f3ae98f5f5cf0c00d79e9ccce7f3f1a9e654c19d00d97b",
+      "artifact:forarbete/sou/2025-47": "1998cf0776597c0c9e6ddd14550096440acb7a8c6b7dd2c25e14ff07bc80a796"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Försvarsmakten konstaterar att utredningen avgränsat bort frågor om elberedskap och bedömer att betänkandets förslag inte i tillräcklig omfattning beaktat totalförsvarets krav vid utformning av sina förslag, vilket är Försvarsmaktens främsta synpunkt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec276",
+      "sentiment": -0.5,
+      "quote": "Försvarsmakten anser att den nuvarande regleringen av området i stort är ändamålsenlig och att det inte finns behov av en större översyn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": 0.2,
+      "quote": "Försvarsmakten anser att konsekvenser för Sveriges säkerhet måste utredas grundligt innan ett sådant verktyg kan införas, detta för att säkerställa att uppgifter som omfattas av sekretess och som rör Sveriges säkerhet inte riskerar att röjas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6.5",
+      "sentiment": 0.8,
+      "quote": "Försvarsmakten anser att det positivt att sådan analys nu har gjorts och delar betänkandets bedömning.",
+      "quote_type": "grund"
+    }
+  ]
+}

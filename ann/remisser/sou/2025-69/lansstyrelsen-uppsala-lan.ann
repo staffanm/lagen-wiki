@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:69/lansstyrelsen-uppsala-lan": "3eb157418fe62739b912b9607aff340b1716c365aedcf8ce7122f43701233a96",
+      "artifact:forarbete/sou/2025-69": "e9fe403717ef019299c4fc8689d9fb71197ea9f2a8ad889130b543582d2661a1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen i Uppsala ställer sig positiva till förslagen som har tagits fram i utredningen för att skapa effektivare samverkan för djur- och folkhälsa.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.5,
+      "quote": "Däremot behövs ett förtydligande kring vilka sjukdomar som avses eftersom det finns sjukdomar som är anmälningspliktiga hos människor men inte hos djur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": -0.5,
+      "quote": "Därför kommer det med stor sannolikhet innebära en större resursåtgång än vad kommunerna lagt på samma arbetsuppgifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om delning av uppgifter mellan myndigheterna i smittskyddsarbetet samt utlämnande av uppgifter från Jordbruksverkets djurregister och djurdatabaser.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.9",
+      "sentiment": -1.0,
+      "quote": "Däremot är länsstyrelseinstruktionen en mer övergripande förordning som inte ska reglera på den detaljnivån.",
+      "quote_type": "grund"
+    }
+  ]
+}

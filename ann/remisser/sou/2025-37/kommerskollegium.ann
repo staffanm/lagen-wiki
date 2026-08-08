@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:37/kommerskollegium": "62d6c8cb0e9cb0aa57d69ed6b45a89a5347e37eb3591a8dab230adb421c6a74f",
+      "artifact:forarbete/sou/2025-37": "f2caa386251f276824b88c0c043ef741f67175b8f957b93142f12fc4f4448b10"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kommerskollegium ser positivt på att betänkandet innehåller en väl genomarbetad analys av hur den föreslagna regleringen bedöms förhålla sig till EU-rätten (i bl.a. sammanfattningen och avsnitt 3, 5, 17.4 och bilaga 4).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.4",
+      "sentiment": 1.0,
+      "quote": "Kommerskollegium ser positivt på att betänkandet innehåller en väl genomarbetad analys av hur den föreslagna regleringen bedöms förhålla sig till EU-rätten",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.7.5",
+      "sentiment": -0.2,
+      "quote": "Enligt vår bedömning skulle förslaget i avsnitt 5.7.5 om krav i skollagen på att en enskild huvudman måste vara en juridisk person eventuellt kunna utgöra en anmälningspliktig bestämmelse.",
+      "quote_type": "grund"
+    }
+  ]
+}

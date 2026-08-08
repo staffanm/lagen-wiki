@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/jordbruksverket": "f5b412fa5cd281d8e532fe2fad2a358bc99c8c2c3a80fcca7595d47bcca843c7",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Jordbruksverket ställer sig positivt till de förslag som presenteras för att säkra tillgången till läkemedel i bristsituationer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec64",
+      "sentiment": 0.5,
+      "quote": "Ett samråd skulle ge Jordbruksverket möjlighet att tillföra viktig kunskap utifrån myndighetens ansvarsområde när det gäller djurskydd, smittskydd och antimikrobiell resistens samt tillfälle att i bedömningen av vilka läkemedel som ska begränsas väga in möjliga konsekvenser utifrån exempelvis djurhållarens och veterinärprofessionens perspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.2,
+      "quote": "Jordbruksverket anser att uppdraget till E-hälsomyndigheten även bör inkludera veterinärmedicinska läkemedel och/eller läkemedel som förskrivs eller rekvireras av veterinär.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec75",
+      "sentiment": -0.2,
+      "quote": "Jordbruksverket instämmer i länsstyrelsernas synpunkt om att beslutanderätten behöver klargöras när det gäller sådana åtgärder för att undvika oklarheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8.2",
+      "sentiment": 1.0,
+      "quote": "Jordbruksverket delar Läkemedelsverkets uppfattning.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

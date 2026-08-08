@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:119/sundsvalls-tingsratt": "5180df851981592ceea4cc78df0c1394d20e8715f0174d950095d13cb571342a",
+      "artifact:forarbete/sou/2025-119": "4ffe1b3a3b8b7263d217456e1fadfaf32122d48eff13747b01cb521abb874202"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt har tingsrätten inte några synpunkter mot förslagen som lämnats i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.9.3",
+      "sentiment": -0.5,
+      "quote": "Straffansvaret i lagtexten är därför vidare än det som utredningen avsett att det ska vara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec392",
+      "sentiment": -0.2,
+      "quote": "Det finns annars en risk för att domstolarna inte kan upprätthålla förväntad effektivitet och kvalitet.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/lansstyrelsen-stockholm": "55d7b87e6479be0da356f82cb09097009ab52ea7e1847a053be4bcbc426a6d02",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen Stockholm välkomnar och tillstyrker majoriteten av förslagen i slutbetänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1.6",
+      "sentiment": -0.5,
+      "quote": "Sammantaget behövs här en struktur i styrkedjan där en eller flera aktörer ges ansvar för förvaltning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.2,
+      "quote": "Vi saknar tydliga skrivningar om hur arbetet inom samordningscentrumet ska bedrivas, inte bara vad centrumet ska syfta till.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen befarar att centrala myndigheters uppdrag att ingå i samordningscentrumet kan få negativa konsekvenser för länsstyrelsernas regionala samverkansstrukturer, genom att aktuella myndigheter väljer att inte ingå i flera olika samverkansstrukturer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen gör samma bedömning som utredningen om att en särskild strategi för hedersrelaterat våld och förtryck skulle försvåra ett samordnat arbete för att förebygga och bekämpa samtliga våldsformer som omfattar det sjätte jämställdhetspolitiska delmålet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.5",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen anser att det formulerade målet gällande återfallsförebyggande arbetet är otydligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1.10",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen ser att kommunernas stora utmaning är att just identifiera och motivera målgruppen till insats och att det behövs kunskap om hur man gör detta.",
+      "quote_type": "grund"
+    }
+  ]
+}

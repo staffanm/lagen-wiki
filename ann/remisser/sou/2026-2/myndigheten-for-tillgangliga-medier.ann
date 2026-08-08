@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/myndigheten-for-tillgangliga-medier": "3bee05d13d196ccdc2b7b6f1869e561389ff6d70e7136bb107edc050326bbaac",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "MTM ser positivt på förslaget att minska antalet valsedlar i vallokalerna, men konstaterar samtidigt att de reformer som föreslås i delbetänkandet i begränsad utsträckning bidrar till att lösa de tillgänglighetsproblem som utredningen själv identifierar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.3",
+      "sentiment": 1.0,
+      "quote": "MTM:s kunskap om dessa gruppers förutsättningar bekräftar bilden som beskrivs i utredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": 1.0,
+      "quote": "Sammantaget menar MTM att ett system med gemensamma valsedlar skulle kunna öka förutsättningarna för personer med funktionsnedsättning att rösta självständigt och med bibehållen valhemlighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": -0.5,
+      "quote": "Ett system med neutrala valsedlar löser inte svårigheten för personer med synnedsättning att kunna rösta självständigt, utan snarare förvärrar detta problem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.8",
+      "sentiment": -0.2,
+      "quote": "Dock finns en risk att en teknisk lösning i sig blir ett tillgänglighetshinder för personer med exempelvis synnedsättning eller kognitiv funktionsnedsättning, som kan behöva stöd för att använda ett nytt digitalt gränssnitt, vilket riskerar att valhemligheten inte kan upprätthållas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.2,
+      "quote": "I övrigt konstaterar MTM att de reformer som beskrivs i detta delbetänkande endast i begränsad utsträckning avhjälper de tillgänglighetsproblem som utredningen pekar på i avsnitt 4.4.3, vilket även är en avgränsning kommittén gör i delbetänkandet.",
+      "quote_type": "grund"
+    }
+  ]
+}

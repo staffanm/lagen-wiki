@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:109/stockholms-tingsratt": "a212cb2878724ccb527f5faf6469d540a9239be08a0a18db1ac983589609e97e",
+      "artifact:forarbete/sou/2025-109": "98c6ec215c748b185b72329d97ae9b9b49e64e1ef1e2e530c207deb50c4d88d5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Därmed kan bedömningen av om det i ett visst fall skulle innebära en kränkning av rätten till en rättvis rättegång att döma en person som varit föremål för provokativa åtgärder för brott underlättas av att förutsättningarna för användningen är tydligt reglerade.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.15",
+      "sentiment": 0.2,
+      "quote": "En sådan bestämmelse skulle enligt tingsrätten tydliggöra innebörden av och stärka rättssäkerheten i den reglering utredningen föreslår, inte minst för personer utanför de brottsbekämpande myndigheterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.13.5",
+      "sentiment": 0.2,
+      "quote": "Enligt tingsrätten finns det dock anledning att överväga om det bör införas ytterligare begränsningar i möjligheterna att använda denna typ av åtgärder, för att minimera risken för okontrollerad spridning på internet eller annars av det material som framställs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec197",
+      "sentiment": 0.2,
+      "quote": "Tingsrätten anser även att det vore önskvärt med en fördjupad analys av de tekniska förutsättningarna för att framställa dylikt material, mot bakgrund av risken för att användningen av befintligt övergreppsmaterial resulterar i bilder som påminner om eller annars kan härledas till verkliga brottsoffer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6-3",
+      "sentiment": -0.2,
+      "quote": "Vidare noterar tingsrätten att det i avsnittet om konsekvenser av utredningens förslag saknas analys av hur domstolarna kan påverkas om förslagen genomförs, trots att det anges att fler personer kan antas lagföras till följd av att provokativa åtgärder används i större utsträckning än tidigare.",
+      "quote_type": "grund"
+    }
+  ]
+}

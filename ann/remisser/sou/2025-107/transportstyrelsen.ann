@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:107/transportstyrelsen": "a707b7822285e3fb4d6a5bd9f2dce6bf42a18a9f8e43d3d876d1bd8bfaa45b15",
+      "artifact:forarbete/sou/2025-107": "47622113b6201e4ecf4f8f07faace798ed84e0806822644f3a8e9a35e1a5fff4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Transportstyrelsen anser att flera förslag presenterade i betänkandet är rimliga, såsom att uppdatera basåret för att de svenska klimatmålen ska överensstämma bättre med EU:s mål, att införa ändringarna i klimatlagen som medför en utökning av klimathandlingsplanens omfattning samt att utveckla tydliga bokföringsregler som håller över tid.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.2,
+      "quote": "Transportstyrelsen anser att målet bör kvarstå, men att även inrikes sjöfart undantas. Detta eftersom en stor del av transporterna med både flyg och sjöfart nu har inkluderats i EU ETS.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec84",
+      "sentiment": 0.5,
+      "quote": "Sådana mål eller indikatorer kan fungera som ett komplement till EU-lagstiftningen och bidra till att påskynda omställningen av transportsektorn mot minskad klimatpåverkan, på samma sätt som 2030målet har gjort.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec24",
+      "sentiment": -0.2,
+      "quote": "Transportstyrelsen noterar att ingen transportmyndighet föreslås delta i valberedningen, vilket borde övervägas med tanke på transportsektorns viktiga roll i omställningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

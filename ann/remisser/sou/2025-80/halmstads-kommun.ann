@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/halmstads-kommun": "d07940f1bf24fa09f8d29675b083a093f0b043233a2392d96ec3811f3c32d79a",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Halmstads kommun ställer sig i huvudsak positiv till förslagen i betänkandet Koordinatbestämda fastighetsgränser och anser att de utgör ett viktigt steg för att uppnå effektivitetsförbättringar och digitaliseringsvinster i samhällsbyggnadsprocessen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a15",
+      "sentiment": 0.2,
+      "quote": "Halmstads kommun ser förslaget om ett succesivt införande positivt, men bedömer att nyttorna sannolikt kommer på lång sikt när en övervägande del av fastighetsgränserna är koordinatbestämda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a22",
+      "sentiment": 0.5,
+      "quote": "Utredningen föreslår att reformen bör följas upp vilket Halmstads kommun ser positivt på att det sker i en relativ närtid för expansiva kommuner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4",
+      "sentiment": -0.2,
+      "quote": "Om det avses ske fältmätning och kontroller för att omvandla en rättsligt klar fastighetsgräns till koordinatbestämd fastighetsgräns finns risk för att de tid- och kostnadsvinster som bedöms ske minskar om inte helt försvinner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": -0.2,
+      "quote": "Halmstads kommun vill framföra att föreslaget kvalitetskrav i grundkarteområdet riskerar att medföra ökade kostnader och risk för en förlängd process för framställning av grundkartan, dels genom arbetet för att nå fram till kvalitetskravet, dels för den tid som det tar innan eventuella överklaganden av förrättningsbeslut får laga kraft.",
+      "quote_type": "grund"
+    }
+  ]
+}

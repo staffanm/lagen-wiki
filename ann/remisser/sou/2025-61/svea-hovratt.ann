@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:61/svea-hovratt": "3afd570180f63a15a52dbcef9f2b1a048eb9eb75e6483e9c4411aa0d51e97a06",
+      "artifact:forarbete/sou/2025-61": "c8d09bc4b2ee92f1bde3bdb0285bc5766bdfef45db2fb06aa2b9f212091e91e2"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Utifrån de intressen som Svea hovrätt har att beakta har domstolen inte några synpunkter att lämna angående förslagen och bedömningarna i sak.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.5,
+      "quote": "Det finns därtill en risk för att det uppstår en otydlighet med två skilda krav i samma kapitel – det riskerar att skapa en osäkerhet dels hos den tillståndsgivande myndigheten om vilket krav som ska tillämpas, dels hos domstolen som behöver ta ställning till vilket krav som tillämpats när tillståndet givits och frågan är om adoptionen ska tillåtas av domstol.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a29",
+      "sentiment": -0.5,
+      "quote": "Bestämmelsen i 29 § bör placeras som ett andra stycke i nuvarande 26 § och formuleras om till ”Prövningen ska göras innan barnet lämnar landet.”",
+      "quote_type": "grund"
+    }
+  ]
+}

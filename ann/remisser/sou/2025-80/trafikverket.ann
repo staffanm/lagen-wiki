@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/trafikverket": "8bf76bbfcd34bd9907cabb6637b973eba89d8154b2f20917e1c238c8427810c9",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Trafikverket konstaterar således att möjligheterna till ett effektivare arbetssätt med ett införande av koordinatbestämda gränser är omfattande.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.8",
+      "sentiment": -0.5,
+      "quote": "De i utredningen angivna förslag till hantering utan GNSS-möjligheter upplevs inte tillräckliga för en långsiktig, redundant och rättssäker hantering av koordinatbestämda gränser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5.5",
+      "sentiment": -0.2,
+      "quote": "säkerställandet av fastighetsgränser vid rätt tidpunkt är en förutsättning för ett effektivt projektgenomförande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5.3",
+      "sentiment": -0.2,
+      "quote": "Med anledning av eventuella kommande OPSlösningar och behov av flexibel lagstiftning som möjliggör framtida arbetssätt efterfrågar Trafikverket en mer generell skrivning om vem som ska kunna söka förrättning genom en koppling till sektorslagarna väglagen och lag om byggande av järnväg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.4.2",
+      "sentiment": -0.2,
+      "quote": "De problem med mätning som kan uppstå i sådan mark borde kunna uppstå också för järnvägsfastigheter i sådana områden.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/lansstyrelsen-i-vastra-gotaland": "ef9367ed1452507399f7668c613b611caee07808e10414ea2bd6cc7265da7cd3",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det riskerar att bli otydligt med så många tillsynsmyndigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.1",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen föreslår på grund av det att särskilda instruktioner avseende samverkan för att säkerställa dessa grundläggande värden lämnas till den samordnande marknadskontrollsmyndigheten, jämte de instruktioner som föreslås under avsnitt 9.5.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6.4",
+      "sentiment": 1.0,
+      "quote": "den samverkande myndigheten skulle ges ansvar för informationsskyldigheten till AI-byrån, skulle riskera att leda till onödig samverkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6.8",
+      "sentiment": -0.2,
+      "quote": "För att öka förutsättningarna för tillsynsmyndigheter att delta, och på så vis också få ett mer hållbart resultat av sandlådeprojekten, bör även tillsynsmyndigheterna som deltar med stöd av artikel 57.10 erhålla ersättning för sina kostnader för deltagande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.11",
+      "sentiment": -0.2,
+      "quote": "Det ställer resursmässiga krav, både personella och finansiella som ökar tillsynsmyndigheternas kostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

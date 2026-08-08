@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:89/sveriges-lantbruksuniversitet": "668bd7c02b82f19c94298fe106c564055c552934991f02b6def5d5465fb54a19",
+      "artifact:forarbete/sou/2025-89": "afe1fb1af513037b8ebe2623eb4a101b40c95abf5ec06765e928348800d59876"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammantaget ser SLU att förslaget förbättrar förutsättningarna för kunskapssammanställningar och en mer adaptiv fiskförvaltning som syftar till långsiktig hållbarhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec101",
+      "sentiment": 0.7,
+      "quote": "Att syftet med registrering och rapportering får vara vetenskaplig forskning och rådgivning, framställande av statistik och att säkerställa hållbarhet och förvaltning i enlighet med syftet av lagen (6 kap. 5 §) ser SLU som främjande för vårt uppdrag att ta fram kunskap för fiskförvaltningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6.5",
+      "sentiment": 0.8,
+      "quote": "En sådan utmärkning förbättrar och ökar detaljeringsnivån i de undersökningar av fiskets omfattning som görs på-plats genom inventering av bojar och andra märken, inklusive men ej begränsat till undersökningar av eventuell undertäckning av register nämnda ovan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec1134",
+      "sentiment": -0.2,
+      "quote": "Huruvida fiskevakter kommer att ha åtkomst till registret baserat på sin anställningsform eller genom sitt förordnande.",
+      "quote_type": "grund"
+    }
+  ]
+}

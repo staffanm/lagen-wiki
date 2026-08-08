@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/motala-kommun": "e0ba48587e3abf515d55d278e79e67da60882b495c35e6bda30b6ad58738c6a0",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Ett i praktiken statligt monopol skulle försämra effektiviteten och försvåra bostadsförsörjningen i tätorts- och tillväxtområden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": 1.0,
+      "quote": "tillstyrker i stället de delar som förstärker fastighetsbildningens roll i samhällsbyggnadsprocessen",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.2.2",
+      "sentiment": 1.0,
+      "quote": "• tydligare nationella krav på kompetens och kvalitet",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": 0.5,
+      "quote": "• tillsyn, dock bör den vara neutral",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 1.0,
+      "quote": "• förstärkt samverkan mellan stat och kommun",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

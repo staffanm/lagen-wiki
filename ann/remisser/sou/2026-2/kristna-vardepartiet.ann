@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/kristna-vardepartiet": "bd40ed6889f50bfa09ab5ef23e39f2add743de19267c2cd1295963c6a015f6e6",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vi delar bedömningen att nuvarande system är ineffektivt, resurskrävande och i praktiken orättvist mellan etablerade och mindre partier.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": 1.0,
+      "quote": "Ett sådant system kan bidra till: – mer jämlika villkor mellan partier – minskad administrativ och ekonomisk belastning – förbättrad tillgänglighet och tydlighet för väljare – minskad miljöpåverkan",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "Detta riskerar att leda till att mindre och nya partier i praktiken osynliggörs i valprocessen, trots att de formellt fortfarande får delta.",
+      "quote_type": "grund"
+    }
+  ]
+}

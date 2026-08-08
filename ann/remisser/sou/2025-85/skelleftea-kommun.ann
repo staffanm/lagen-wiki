@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/skelleftea-kommun": "fa1c635a4a01f7d308f457b70bce59660bc288ee609dae9f7a30f47dc3ecbeff",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "För Skellefteå kommun är det avgörande att hela landet ges förutsättningar att utvecklas – från kuststäder till inland och fjällnära bygder.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": 0.5,
+      "quote": "För att det ska fungera i praktiken måste styrningen till statliga myndigheter förtydligas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "Samtidigt är det avgörande att kommunerna får en mer aktiv och styrande roll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.5,
+      "quote": "Det finns risk för att en sammanslagning gör att målen för den regionala utvecklingspolitiken och landsbygdspolitiken tillsammans blir för brett, eftersom den regionala utvecklingspolitiken redan idag är väldigt bred.",
+      "quote_type": "grund"
+    }
+  ]
+}

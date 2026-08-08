@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:77/arjeplogs-kommun": "7b55d162d841afc7bb2c0e90249958936986e0e45ef5236f8cdd5e92d351056d",
+      "artifact:forarbete/sou/2025-77": "2d5c562dd97d981752cb93f65a08d116c79a1f8908f9e6fb9bb9e7d703e82f34"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Arjeplogs kommun har tagit del av betänkandet SOU 2025:77 och tillstyrker förslaget om att Skatteverket får huvudansvar för lönegarantin vilket kan öka effektivitet och rättssäkerhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec11",
+      "sentiment": 1.0,
+      "quote": "Skatteverket får huvudansvar för lönegarantin vilket kan öka effektivitet och rättssäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": -0.2,
+      "quote": "Uppgiftsskyldigheten måste vara tydligt avgränsad till vad som är nödvändigt för bedömning — inte generella frågeställningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

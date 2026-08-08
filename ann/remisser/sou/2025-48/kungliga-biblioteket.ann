@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/kungliga-biblioteket": "6fbf2fbb98bd8cb96a54f7eb1629aa7b7a5cdbcf87ba7ff1ce0bb1ab3d74913b",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "KB och andra bibliotek är grundläggande resurser för forskning, utbildning, vård och, inte minst för resurssvaga kategorier av innevånare, en nödvändighet för att kunna utöva sina rättigheter och skyldigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "KB instämmer i förslaget att det bör införas en lag om samhällsinriktade skyddsåtgärder.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec41",
+      "sentiment": 1.0,
+      "quote": "KB instämmer i förslaget att enskilda, såväl individer som organisationer har det primära ansvaret för att förhindra smittspridning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec42",
+      "sentiment": -1.0,
+      "quote": "KB menar att utredningens resonemang bland annat kan få till följd att samhällsviktig forskning hindras och att vårdpersonal inte får tillgång till aktuell forskning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec34",
+      "sentiment": -1.0,
+      "quote": "Det är bara genom parlamentarisk beredning som det är möjligt att bedöma om de allmänna förutsättningarna i 3 kapitlet i författningsförslaget är uppfyllda, det vill säga att kraven på proportionalitet, evidens, respekt för människors lika värde samt hänsyn till barnens bästa kan granskas och ifrågasättas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec15",
+      "sentiment": 0.2,
+      "quote": "KB anser att en konsekvens för det offentliga som behöver lyftas i utredningen är vikten av att säkra upp bibliotekens förmåga att ge digital tillgång till källmaterial och medietjänster när accessen till delar av samhället begränsas.",
+      "quote_type": "grund"
+    }
+  ]
+}

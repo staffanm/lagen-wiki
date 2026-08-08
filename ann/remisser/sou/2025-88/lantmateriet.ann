@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/lantmateriet": "313fc75b7b1e678a46506291ff50252b9f7b517cc8d5bddcfd9805a9987977a4",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Lantmäteriet har ingen erinran på lagförslaget i sig.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.2,
+      "quote": "saknas redogörelse om ett sådant beslut avses påverka bedömningar i lantmäteriförrättningar, samt hur ett sådant besked blir tillgängligt och känt för lantmäterimyndigheterna.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/statens-fastighetsverk": "99d387ee70ed91ff09576e014d0c4489daa17507d1c0dd71984648cbd601ec89",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "SFV ser ingen nytta med att de lantmäteriförrättningar som gäller statligt ägda fastigheter inom kommuner med kommunal lantmäterimyndighet skulle handläggas av Lantmäteriet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": -0.5,
+      "quote": "Den kommunala lantmäterimyndigheten har god kännedom om lokala förhållanden och handlägger rimligen förrättningen på ett effektivt sätt vad gäller tid och kostnader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5.3",
+      "sentiment": 1.0,
+      "quote": "SFV instämmer i de synpunkter som inhämtats i stycke 6.5.3 om sakägares förväntningar på förrättningsverksamheten där vikten av att effektivisera fastighetsbildningsprocessen betonas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": 1.0,
+      "quote": "SFV ställer sig positiv till utredningen förslag att ärenden som omfattas av bestämmelserna i säkerhetsskyddslagen ska handläggas av Lantmäteriet.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

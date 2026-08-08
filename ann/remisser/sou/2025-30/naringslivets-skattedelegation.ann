@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/naringslivets-skattedelegation": "5c160aaed0bf94c4e4755d456720e07c048ea652a8bf41385ab9eb9952f295ed",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "NSD välkomnar förbättringar men anser att mer offensiva förslag behövs och att sådana också kan utformas utifrån regler i andra EU-medlemsstater.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": -0.5,
+      "quote": "Förslaget om utvidgning av den förenklade förfarandet av vmb är alltför begränsat, komplicerat och beaktar inte behoven hos branscher där begagnathandeln är i sin linda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": 0.2,
+      "quote": "Detta är visserligen välkommet men medför begränsad förbättring då Skatteverkets tillämpning och uttalande i Rättslig vägledning redan åtgärdar just det problemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec222",
+      "sentiment": -0.5,
+      "quote": "NSD menar att utredningens bedömning är alltför förenklad och inte tillräckligt nyanserad.",
+      "quote_type": "grund"
+    }
+  ]
+}

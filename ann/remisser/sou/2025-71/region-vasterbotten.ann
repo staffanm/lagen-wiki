@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:71/region-vasterbotten": "6bdb194c37d52fd2f6a1c4edfd2730a8747d3f1b90b1031c670dc6b31a270007",
+      "artifact:forarbete/sou/2025-71": "957a0b0208845de41ee3eb7c78a854f8c82bf13e7ec07e3ebdf350fdecdb0325"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Regionen samtycker i sak kring betänkandets förslag men vill lyfta att det utifrån betänkandet är svårt att dra några slutsatser vad förändringen skulle innebära i form av personella insatser och eventuellt ökad administration.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.11.1",
+      "sentiment": 1.0,
+      "quote": "Detta bör ge ökad kontroll över den egna vården och bidra till större trygghet vilket regionen anser ligger i linje med omställningen mor personcentrerad vård och patientens ansvar för sin egen hälsa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.13.2",
+      "sentiment": 1.0,
+      "quote": "En lösning, där uppgifter delas direkt mellan vårdgivarnas egna system, bedöms dock minska administrationen och förbättra arbetsprocesserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.6",
+      "sentiment": -0.5,
+      "quote": "Regionen anser att tidsramar ifråga om ikraftträdande av nya eller ändrade författningar är alltför snäva och att utredningen har underskattat konsekvenserna i detta avseende.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18.6",
+      "sentiment": -0.5,
+      "quote": "Om sjukvårdshuvudmännen inte kompenseras i motsvarande utsträckning riskerar dessa kostnader att belasta regionens redan ansträngda budget",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/kriminalvarden": "5b8a12270add7adb37a34dc64356f2e71eed4db163f47ff065529933b7bd2293",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslagen bör kunna bidra till ett utökat och mer frekvent informationsutbyte både till och från myndigheten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.8.5",
+      "sentiment": 0.2,
+      "quote": "Samtidigt innebär denna svårighet, särskilt i kombination med den låga tröskeln för utlämnande, en risk för att personuppgifter kan komma att behandlas i strid med dataskyddsrättsliga principer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": -0.5,
+      "quote": "Förutom att regleringen förutsätter en analys av vilken information som är intressant att dela, krävs bra strukturer för informationsdelning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": -0.2,
+      "quote": "förslaget om att elektroniskt utlämnande ska vara tillåtet om det inte är olämpligt riskerar att föranleda en osäkerhet om vad som gäller för elektroniskt utlämnande i de fall sådan reglering saknas.",
+      "quote_type": "grund"
+    }
+  ]
+}

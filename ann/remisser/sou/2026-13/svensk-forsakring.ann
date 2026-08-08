@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:13/svensk-forsakring": "ecda2d5a15691dd7d3f7ce9af9d20d16eab5b75f20449687621df37a6bfff690",
+      "artifact:forarbete/sou/2026-13": "aa7c4aa821e82ffd40ba6d95445a5ac6a4b6de75f8e6b57acfe2ae5301506548"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Den systematiska och organiserade brottsligheten påverkar många delar av samhället, inklusive försäkringsbranschen, och dess utbredning har blivit alltmer omfattande.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 1.0,
+      "quote": "Vi delar även utredarens bedömning att det finns ett behov att se över aktuell kriminalisering för att mer effektivt förebygga, förhindra och bekämpa sådan allvarlig brottslighet som dessa grupperingar ägnar sig åt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2.4",
+      "sentiment": -0.5,
+      "quote": "Om samrörsbrottet införs utan ytterligare vägledning för försäkringsbranschen kring vilken typ av rådgivning som omfattas av straffansvaret, finns en betydande risk för att försäkringsföretag och medarbete kan komma att avstå från att utreda nya kunder eller de försäkrade då de är oroliga för att sådana åtgärder kan omfattas av det nya samröresbrottet.",
+      "quote_type": "grund"
+    }
+  ]
+}

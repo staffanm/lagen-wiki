@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:51/eskilstuna-kommun": "20c937efdcc37586c3fc09b799d05486ec8b8b88521fd46d322cc4b03b49e135",
+      "artifact:forarbete/sou/2025-51": "258d56514e13c4c5451bf445ef12c74926eae0c3d6b9e933fa95a5d91e5d1ad9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Eskilstuna kommun välkomnar betänkandet och delar bedömningen att klimatanpassning är en av vår tids största samhällsutmaningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": -0.5,
+      "quote": "Eskilstuna kommun anser dock att kommunerna bör ha en tydlig samordningsroll, exempelvis via en kontaktpunkt för klimatanpassning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec13",
+      "sentiment": 1.0,
+      "quote": "Markreservat i detaljplan för framtida klimatanpassning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec18",
+      "sentiment": 1.0,
+      "quote": "Dispensmöjligheter från strandskydd för klimatanpassningsåtgärder.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 1.0,
+      "quote": "Tillfälligt marktillträde för att skydda eller återställa vägar och järnvägar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 0.5,
+      "quote": "Klimatrisker som översvämningar och avrinningsområden går över kommungränser.",
+      "quote_type": "grund"
+    }
+  ]
+}

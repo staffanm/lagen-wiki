@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:113/statens-beredning-for-medicinsk-och-social-utvardering": "7234f119f8db96573ee826ff542fa30a66a4df173b07e166bcecbed39d45d4a9",
+      "artifact:forarbete/sou/2025-113": "8c1c0cf1be8ee429662154c8dc64f07f510f8551ac68bae66465171635e8c748"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "SBU tillstyrker i huvudsak utredningens inriktning att stärka elevhälsans uppdrag och tillgänglighet, men lämnar flera viktiga tillägg.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "Ett tydligare uppdrag kan bidra till ökad likvärdighet och bättre förutsättningar för ett förebyggande arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.5,
+      "quote": "SBU bedömer att det saknas en tydlig koppling mellan föreslagen bemanning och tillgänglighet och vilka insatser som är effektiva för att främja elevers hälsa och lärande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": 0.0,
+      "quote": "SBU vill framhålla att dessa insatser bör ses som ett komplement till insatser på gruppnivå och att de inte bör ersätta sådana arbetssätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7",
+      "sentiment": 0.0,
+      "quote": "Förslaget kan förbättra tillgängligheten till stöd, men SBU vill uppmärksamma risken att ökat fokus på individinriktade insatser kan leda till att universella hälsofrämjande och förebyggande insatser prioriteras ned.",
+      "quote_type": "grund"
+    }
+  ]
+}

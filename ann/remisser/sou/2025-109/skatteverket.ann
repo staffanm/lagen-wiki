@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:109/skatteverket": "170f3856cc4954ac0ae2878442ea882c11872d98e450bdd2dd629a424e843700",
+      "artifact:forarbete/sou/2025-109": "98c6ec215c748b185b72329d97ae9b9b49e64e1ef1e2e530c207deb50c4d88d5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Skatteverket saknar en analys av de risker som kan uppstå till följd av att fiktiva fordonsuppgifter förs in i folkbokföringsverksamheten samt hur förslaget bör utformas för att avvärja eller i vart fall begränsa dessa risker.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6.3",
+      "sentiment": 1.0,
+      "quote": "Skatteverket delar utredningens bedömning att de brottsbekämpande myndigheterna har behov av att kunna använda fordon med uppgifter som innebär att fordonen inte kan kopplas till myndigheterna och att uppgifterna om fordonen i statliga register – däribland folkbokföringen – ska vara fiktiva.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.7.4",
+      "sentiment": 0.2,
+      "quote": "Om förslagen i propositionen antas kan hänvisningen i 4 § inte kvarstå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.7.5",
+      "sentiment": -0.2,
+      "quote": "Det har inte varit möjligt för Skatteverket att göra en fullständig analys av hur dessa och andra risker bör hanteras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.7.6",
+      "sentiment": -0.5,
+      "quote": "En sådan åtgärd skulle innebära stora kostnader för Skatteverket, och bör därför inte omfattas av de ändringar som föreslås kunna beslutas om enligt 7 § andra stycket i den föreslagna lagen om fiktiva fordonsuppgifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.7.8",
+      "sentiment": -0.2,
+      "quote": "Med hänsyn härtill och den stora betydelse det har för det svenska samhället med korrekt folkbokföring och ett lågt folkbokföringsfel är det enligt Skatteverkets mening viktigt med en återkommande, effektiv och noggrann tillsyn av beslutsmyndigheterna.",
+      "quote_type": "grund"
+    }
+  ]
+}

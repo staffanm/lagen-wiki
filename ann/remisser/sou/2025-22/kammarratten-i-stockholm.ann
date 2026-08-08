@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/kammarratten-i-stockholm": "64f2504789b80a6c2a6be4a7fc26abadd58bd20631915ba4cf20431ee9d7fbcc",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Detta mot bakgrund av att det, vad gäller kommuners och regioners säljverksamhet, ytterst rör frågor om gränserna för den kommunala självstyrelsen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": 1.0,
+      "quote": "Kammarrätten har inga synpunkter på förslagen i hemställan från Konkurrensverket om företagskoncentrationer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec439",
+      "sentiment": 1.0,
+      "quote": "Detta mot bakgrund av att det, vad gäller kommuners och regioners säljverksamhet, ytterst rör frågor om gränserna för den kommunala självstyrelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec510",
+      "sentiment": -0.2,
+      "quote": "Kammarrätten anser dock att det är svårt att uppskatta hur Konkurrensverkets handläggning av ärenden enligt den nya lagen kommer att utvecklas och hur många av ärendena som kommer att prövas i domstol.",
+      "quote_type": "grund"
+    }
+  ]
+}

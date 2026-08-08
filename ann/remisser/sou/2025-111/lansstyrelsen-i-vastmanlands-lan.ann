@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/lansstyrelsen-i-vastmanlands-lan": "780bcf9870f9af31943c8d049d33a8b97a2a27c0cf05208b5f93a0d014c5a384",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen instämmer i förslaget men vill samtidigt framhålla behovet av tydliga och förutsägbara kriterier för när ersättning ska kunna beviljas, för att säkerställa en enhetlig rättstillämpning och begränsa oönskade kostnadsdrivande effekter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.7.1",
+      "sentiment": 0.8,
+      "quote": "Länsstyrelsen delar utredningens bedömning att nuvarande ordning i vissa fall kan innebära en obalans mellan enskild och det allmänna, särskilt i mer komplexa mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.7.3",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen anser därför att det är centralt att det tydligt framgår att ersättning ska vara ett undantag och förutsätta att det framstår som oskäligt att den enskilde själv står för kostnaderna, därför måste bedömningsgrunderna preciseras i lagtext eller förarbeten.",
+      "quote_type": "grund"
+    }
+  ]
+}

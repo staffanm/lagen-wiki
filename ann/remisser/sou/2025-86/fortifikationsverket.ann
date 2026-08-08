@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:86/fortifikationsverket": "5fab3355d5854e6ad88cb935edbe3402ec29f3805833761205056837ae321cf1",
+      "artifact:forarbete/sou/2025-86": "b0dcdd24a25a2d12cb2cbd40a2be00ca8cbb7c0ad6b35674c7550080e553e1d9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Fortifikationsverket instämmer i huvudsak i förslagen som lämnas i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec26",
+      "sentiment": -0.5,
+      "quote": "Fortifikationsverket anser dock att civilplikt inte bör begränsas till Försvarsmakten i det militära försvaret, utan bör kunna fullgöras även i verksamhet hos övriga myndigheter i det militära försvaret.",
+      "quote_type": "grund"
+    }
+  ]
+}

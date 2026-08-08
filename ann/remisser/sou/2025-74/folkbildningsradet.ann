@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:74/folkbildningsradet": "7f8c4612a811473d407146d155a4edb16fcd71d1c1c94bf0495d4b8f6641ef0b",
+      "artifact:forarbete/sou/2025-74": "86931f969c453d367aa6280683810685078a23447696be3482179222d1c28951"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Folkbildningsrådet anser att förslagen är proportionerliga och nödvändiga för att folkhögskolor ska kunna utföra arbetsmarknadspolitiska insatser på ett effektivt sätt samtidigt som deltagarnas integritet skyddas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6.8",
+      "sentiment": 0.5,
+      "quote": "Folkbildningsrådet konstaterar att detta kräver nya IT-system och rutiner för informationsutbyte",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9",
+      "sentiment": 1.0,
+      "quote": "Detta är en viktig integritetsskyddsåtgärd",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec887",
+      "sentiment": 1.0,
+      "quote": "Detta förslag ger flexibilitet att anpassa reglerna över tid utan lagändring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec857",
+      "sentiment": 0.5,
+      "quote": "Folkbildningsrådet anser att folkhögskolorna bör kompenseras för dessa merkostnader då skolornas ekonomi är mycket ansträngd.",
+      "quote_type": "grund"
+    }
+  ]
+}

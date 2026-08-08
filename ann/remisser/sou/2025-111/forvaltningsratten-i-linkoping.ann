@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/forvaltningsratten-i-linkoping": "f1f434e225dda7779e1b38f1152da01a0f5681073938f4f4542fda0a5d1de738",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förvaltningsrätten bedömer dock att det aktuella förslaget kan ge upphov till vissa svårigheter i den praktiska tillämpningen och vill mot denna bakgrund framhålla följande synpunkter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.7",
+      "sentiment": -0.5,
+      "quote": "Den osäkerhet kring rätten till ersättning som förslaget innebär är också något som eventuellt riskerar att påverka förtroendet för domstolarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.8.1",
+      "sentiment": 0.5,
+      "quote": "Förvaltningsrätten anser att den föreslagna ändringen, med en knytning till prisbasbeloppet, är väl avvägd.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec209",
+      "sentiment": 0.0,
+      "quote": "Förvaltningsrätten ställer sig dock tveksam till utredningens bedömning att detta skulle leda till minskad debitering för tidspillan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": -0.2,
+      "quote": "Förvaltningsrätten ställer sig dock tveksam till utredningens slutsats om att advokater generellt sett debiterar färre timmar för samma uppdrag som en biträdande jurist eller annan jurist än advokat.",
+      "quote_type": "grund"
+    }
+  ]
+}

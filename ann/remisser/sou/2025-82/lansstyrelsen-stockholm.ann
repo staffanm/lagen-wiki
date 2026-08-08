@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/lansstyrelsen-stockholm": "c91cac9b0c8c5d8cae07b9628b4834c859d0b3dfda8bd167ecaf3be77d1a2883",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen tillstyrker slutbetänkandets förslag att - behålla nuvarande regler för aktiebolags möjligheter att förvärva lantbruksegendom. - ta bort inlösenskyldigheten för köp av lantbruksegendom där förvärvstillstånd vägras enligt glesbygdsbestämmelserna i 7 § Jordförvärvslagen. - utvidga släktskapsundantaget så att även förälder och syskon är undantagna.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen Stockholm delar bilden av att en uppluckring av jordförvärvslagen inte ska ske lättvindigt, och instämmer i slutbetänkandets slutsatser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2.2",
+      "sentiment": 0.2,
+      "quote": "Vi bedömer att det saknas en djupare regional analys som fångar skillnader mellan olika typer av landsbygder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.3.2",
+      "sentiment": 1.0,
+      "quote": "utvidga släktskapsundantaget så att även förälder och syskon är undantagna",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

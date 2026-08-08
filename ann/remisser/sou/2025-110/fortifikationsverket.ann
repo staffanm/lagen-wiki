@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/fortifikationsverket": "d48311248f8b1c9c5f579c0f7f02be8b040ff6cbd6db8adeebbaec5c5e7c8761",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Fortifikationsverket tillstyrker utredningens förslag och välkomnar att myndigheten föreslås undantas från tillämpning av skyldigheterna i EU:s förordning om gigabitinfrastruktur (GIA).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 1.0,
+      "quote": "Fortifikationsverket tillstyrker utredningens förslag och välkomnar att myndigheten föreslås undantas från tillämpning av skyldigheterna i EU:s förordning om gigabitinfrastruktur (GIA).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec11",
+      "sentiment": 1.0,
+      "quote": "Likaså är Fortifikationsverket positiv till att informationsdelning och samordning begränsas till det som är nödvändigt samt att det sker under strikt kontroll för att inte röja känslig information om försvarsanläggningar och annan skyddsvärd infrastruktur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec11",
+      "sentiment": -0.2,
+      "quote": "Fortifikationsverket vill särskilt betona vikten av att förslagen i betänkandet tillämpas på ett sätt som säkerställer att fysisk infrastruktur med betydelse för totalförsvaret och samhällsviktiga funktioner inte exponeras på ett sätt som kan äventyra Sveriges säkerhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

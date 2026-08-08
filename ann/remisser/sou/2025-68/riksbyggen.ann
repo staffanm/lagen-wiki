@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/riksbyggen": "502eeac25549f5dcfff5fd2b42db6e219d8bb71b50d0cb56659ee4ee6ff8640b",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "En välfungerande försörjningsberedskap är en grundläggande förutsättning för att upprätthålla samhällets funktionalitet och medborgarnas trygghet i såväl fredstid som under extraordinära händelser och kriser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.10",
+      "sentiment": 1.0,
+      "quote": "Vi anser att en sådan utredning är nödvändig för att säkerställa att lagstiftningen är ändamålsenlig och anpassad till de utmaningar som Sverige kan komma att ställas inför i framtiden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec96",
+      "sentiment": -0.5,
+      "quote": "Utan fungerande fastigheter och bostäder riskerar samhällets motståndskraft och det psykologiska försvaret att undergrävas, vilket riskerar att få allvarliga konsekvenser för både individer och samhälle.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/region-kalmar": "6122578e738e1ee0d99a10471f5d826881cee14790ec874badfdcbe51b8a2415",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Regionen bejakar förslaget att Läkemedelsverket (LV) ska ges ett bemyndigande att föreskriva om tillfälliga begränsningar vid förordnande och utlämnande av läkemedel i bristsituationer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 1.0,
+      "quote": "Regionen bejakar förslaget att Läkemedelsverket (LV) ska ges ett bemyndigande att föreskriva om tillfälliga begränsningar vid förordnande och utlämnande av läkemedel i bristsituationer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec65",
+      "sentiment": 1.0,
+      "quote": "Det är positivt att LV föreslås kunna besluta om begränsningar både vid faktisk läkemedelsbrist samt vid hotande läkemedelsbrist, då i preventivt syfte.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec71",
+      "sentiment": -0.5,
+      "quote": "Regionen är tveksam till hur detta kan fungera i praktiken, då det riskerar bli dubbla budskap, och motsätter sig förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": -0.5,
+      "quote": "Region Kalmar län vill påtala att eHM i praktiken saknar möjlighet att skapa ett systemstöd som kan användas som underlag för hur vi bör hantera bristande tillgång på viktiga slutenvårdsläkemedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.6",
+      "sentiment": 0.2,
+      "quote": "En förutsättning är att de ansvariga myndigheterna har resurser i erforderlig utsträckning, för att undvika att regelverket blir tandlöst.",
+      "quote_type": "grund"
+    }
+  ]
+}

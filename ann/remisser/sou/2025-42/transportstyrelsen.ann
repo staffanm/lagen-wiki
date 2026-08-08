@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/transportstyrelsen": "293d403e7e903fa6bdcc8f47809402cbc14ff1f7bf2310fdf409ebe92c6f812f",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Transportstyrelsen tillstyrker förslaget i övrigt med undantag för de delar som det redogörs för i detta remissvar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3.4",
+      "sentiment": 0.5,
+      "quote": "De grundläggande skyldigheterna i 2 kap. 1 § säkerhetsskyddslagen bedöms inte vara tillräckliga för att Transportstyrelsen ska kunna hitta och ingripa mot dessa förfaranden på ett effektivt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -1.0,
+      "quote": "Transportstyrelsens bedömning är sammantaget att nyttan med att uppgifter om LOB ska utgöra underlag vid registerkontroll inte uppväger de risker som spridningen av uppgiftssamlingen skulle kunna medföra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.5,
+      "quote": "Transportstyrelsen anser att utredningen saknar en analys för hur man rent tekniskt ämnar etablera ett automatiskt flöde för att transportera säkerhetsskyddsklassificerad information som uppfyller de tekniska krav som föreligger.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 0.0,
+      "quote": "Transportstyrelsen bedömer att tidsåtgången för myndigheten att utföra de nya arbetsuppgifterna som avses i detta avsnitt (ta emot anmälningar enligt 4 kap. 1 a § SsL och besluta om förelägganden för sådana verksamhetsutövare samt besluta om föreläggande att göra en särskild säkerhetsskyddsbedömning och lämplighetsprövning (6 kap. 6 § SsL), kan beräknas till 215 timmar årligen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": 0.0,
+      "quote": "Tidsåtgången för de nya arbetsuppgifter som föreslås i 6 kap. SsL som avser åtgärder vid fara i dröjsmål kan beräknas till 25 timmar per år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": -0.5,
+      "quote": "Utifrån en övergripande kostnadsberäkning medför förslaget kostnader på mer än 25 miljoner för att vidta adekvata skyddsåtgärder för att kunna efterleva säkerhetsskyddsregelverket.",
+      "quote_type": "grund"
+    }
+  ]
+}

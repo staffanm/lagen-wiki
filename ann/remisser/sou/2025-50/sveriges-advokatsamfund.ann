@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/sveriges-advokatsamfund": "6f37bd1c114a09409b307027962aee2af402d1ee2665024b97252b9263d36745",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Advokatsamfundet har i huvudsak ingen erinran mot de förslag som lämnas i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.1",
+      "sentiment": 1.0,
+      "quote": "Utifrån vad som redogörs för i betänkandet förefaller antagandet att det kan finnas fördelar med att överföra ansvaret för viltförvaltning till en mindre myndighet som har en särskild inriktning på detta område vara välgrundat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11.2",
+      "sentiment": -1.0,
+      "quote": "Detta innebär en uppenbar risk för att vapentillstånd kan komma att ges till personer som är olämpliga för det.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9",
+      "sentiment": -0.2,
+      "quote": "Motsvarande redogörelse saknas emellertid vad gäller Havs- och vattenmyndighetens hantering av ansvaret för de marina däggdjuren och det går inte av betänkandet att utläsa hur Havs- och vattenmyndigheten uppfyller detta ansvar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "Lydelsen av utredningens föreslagna bestämmelse i 3 kap. 18 a § ordningslagen (1993:1617) är otydlig såtillvida att det inte explicit framgår om såväl punkten 1 som 2 ska vara uppfylld för att länsstyrelsen ska kunna återkalla ett tillstånd för skjutbanor som inte hör till Försvarsmakten, eller om det räcker med att en av de två punkterna är uppfyllda.",
+      "quote_type": "grund"
+    }
+  ]
+}

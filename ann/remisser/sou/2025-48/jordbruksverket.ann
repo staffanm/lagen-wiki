@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/jordbruksverket": "6521d92c1bfc6a10c7502ea1a596f1f963a4b03870acf6f39e98d9e237bdb0c3",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Jordbruksverket anser att de delar av delbetänkandet som vi berörs av är välgrundade och relevanta men behöver kompletteras när det gäller det europeiska och internationella samarbetet på djursidan vilket är en viktig del av samverkan för att uppmärksamma hot i form av nya smittämnen och för hanteringen av dessa.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 0.8,
+      "quote": "För att samverkan mellan myndigheter ska fungera effektivt krävs, förutom ändamålsenliga regelverk och tydlig ansvarsfördelning, att myndigheter har gedigen kunskap om andra myndigheters ansvarsområden och formerna för samverkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.2,
+      "quote": "Mot bakgrund av det menar verket att strategin även bör grundas i de regelverk och standarder som gäller för djursjukdomar och zoonoser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av att ett djurvirus är ett av de scenarier som utredaren särskilt lyfter saknar vi en beskrivning av de europeiska och internationella samarbeten som finns för djurhälsa och smittskydd för djur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.7",
+      "sentiment": -0.2,
+      "quote": "Vid ett smittutbrott kan det uppstå problem med tillgång till personal till följd av sjukdom och/eller begränsningar i antal personer som får vistas på försöksdjursanläggningen samtidigt.",
+      "quote_type": "grund"
+    }
+  ]
+}

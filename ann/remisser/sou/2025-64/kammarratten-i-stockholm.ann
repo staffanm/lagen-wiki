@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/kammarratten-i-stockholm": "4fd4dccaef327ad4d1fc4e3bcf73be109818a1f8a7515cce374a571ce0893eb1",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarrätten anser att utredningens förslag i allt väsentligt framstår som välmotiverade och ändamålsenliga.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": -0.2,
+      "quote": "I det fortsatta lagstiftningsarbetet bör det tydliggöras vad detta justerade uttryckssätt innebär.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a25",
+      "sentiment": -0.2,
+      "quote": "bör frågan om behovet av övergångsbestämmelser övervägas vidare inom ramen för den fortsatta beredningen av lagstiftningsärendet.",
+      "quote_type": "grund"
+    }
+  ]
+}

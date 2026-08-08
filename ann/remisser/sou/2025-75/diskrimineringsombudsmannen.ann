@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:75/diskrimineringsombudsmannen": "d46255dd1c68c4e472ed22cb1fdf886a3f5b9c3d027774b460262d3099f98184",
+      "artifact:forarbete/sou/2025-75": "6c1747356aef8861690e0e55231a670ab88642b59dc2975b505edeeb781a1461"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Baserat på att utredningen synliggör risker för diskriminering kopplat till förslaget om utökad användning av biometriska uppgifter menar DO att det är nödvändig att den testverksamhet som föreslås prövas och utvärderas innan ny lagstiftning på området kan aktualiseras.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.6",
+      "sentiment": -0.5,
+      "quote": "Åtgärderna kan i praktiken komma att tillämpas selektivt och oproportionerligt ofta riktas mot personer med utländsk bakgrund.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6.13",
+      "sentiment": 0.2,
+      "quote": "Kunskap om diskriminering och diskrimineringslagen är särskilt viktig för personer som ges utökade befogenheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a26.9",
+      "sentiment": -0.2,
+      "quote": "Enligt DO:s bedömning kan det inte uteslutas att utökade befogenheter och möjlighet att lagra biometriska uppgifter kan leda till diskriminering kopplat till personers etniska tillhörighet med konsekvenser för de som drabbas.",
+      "quote_type": "grund"
+    }
+  ]
+}

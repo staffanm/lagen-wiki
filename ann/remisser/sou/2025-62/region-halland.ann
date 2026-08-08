@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/region-halland": "6a7e63bedbf9b778d36c833749ae28a12834e87fd1d2fddc1ebfddee57401797",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Region Halland lämnar synpunkter gällande läkemedel, rättspsykiatrisk vård, screening, kunskapsstyrning och kompetensförsörjning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.4.3",
+      "sentiment": -0.5,
+      "quote": "Region Halland anser att det inte tydligt framkommer vilka sakliga grunder som motiverar kommitténs rekommendation om att initiera en utredning kring ett utökat statligt ansvar för läkemedel, särskilt avseende finansiering och styrning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.6",
+      "sentiment": 0.2,
+      "quote": "Det är dock viktigt att beakta de risker och utmaningar som en statlig finansiering kan medföra, och att säkerställa att regionen har möjlighet att prioritera förebyggande insatser och hantera de specifika behov som finns i regionen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.5",
+      "sentiment": -0.5,
+      "quote": "Socialstyrelsen har idag ett tydligt uppdrag från staten att ansvara för de nationella screeningprogrammen, vilket väcker frågor om behovet och innebörden av ytterligare statligt ansvarstagande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec529",
+      "sentiment": -0.5,
+      "quote": "Region Halland delar inte denna uppfattning och anser att relationen mellan olika kunskapsstöd och nationella riktlinjer är tydlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 0.5,
+      "quote": "Vid en nationell samordning blir det därför avgörande att säkerställa en kontinuerlig och strukturerad dialog kring mottagningskapaciteten för VFU, så att utbildningsvolymer, praktikplatser och utbildningskvalitet hålls i balans.",
+      "quote_type": "grund"
+    }
+  ]
+}

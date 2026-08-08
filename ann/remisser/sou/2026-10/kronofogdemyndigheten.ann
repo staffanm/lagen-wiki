@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/kronofogdemyndigheten": "bc2c9cdb3a9505a733860d08557488183992c954e2f3ddfba07028f7ab3f671e",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kronofogdemyndigheten (Kronofogden) ser positivt på åtgärder som stärker den tillgångsinriktade brottsbekämpningen och gör det svårare att tillgodogöra sig brottsvinster.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.6.6",
+      "sentiment": -0.5,
+      "quote": "Vad Kronofogden ska bidra med är därmed tveksamt, särskilt på sikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7",
+      "sentiment": 0.5,
+      "quote": "För att den föreslagna ordningen ska fungera i praktiken är det viktigt att Kronofogden genast underrättas när en ansökan om förlängning görs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "Det skulle, precis som framhålls i betänkandet, lösa mycket av den problematik som Kronofogden och andra inblandade aktörer nu ställs inför.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 1.0,
+      "quote": "Kronofogden instämmer i den bedömning av kostnader och konsekvenser för myndigheten som gjorts i betänkandet.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

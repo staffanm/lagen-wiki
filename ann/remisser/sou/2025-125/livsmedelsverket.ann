@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:125/livsmedelsverket": "e9f1ad599bece3e28e5f281a6204f32572de219c76051ddf2d0525d34b4ee240",
+      "artifact:forarbete/sou/2025-125": "8fbe18bc2acd39c5bc37f0d668576018901c84abb912d974543ac98521ecb8c8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Livsmedelsverkets bedömer att det finns stora utmaningar med förslaget och att det kan få påtagliga konsekvenser för företag och myndigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.10",
+      "sentiment": 1.0,
+      "quote": "Livsmedelsverket är positivt till förslaget eftersom möjligheterna att kunna agera snabbt och effektivt har stor betydelse både för den svenska populationen av vilt och ur ett folkhälsoperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.14.1",
+      "sentiment": -1.0,
+      "quote": "Livsmedelsverket ser stora utmaningar med förslaget och bedömer att förslaget kan få påtagliga konsekvenser för företag och för myndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.14.2",
+      "sentiment": 1.0,
+      "quote": "Som utredaren påpekar har länsstyrelserna redan ansvar för viltet enligt djurskyddslagstiftningen och det är därför logiskt att deras ansvar utökas till att omfattat vilt i hägn enligt viltförvaltningslagstiftningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.2.1",
+      "sentiment": -0.5,
+      "quote": "Det skulle bl.a. innebära att den administrativa och ekonomiska bördan för vissa livsmedelsföretagare som håller djur i vilthägn ökade, att de livsmedelsföretagare som idag tar emot vilt som nedlagts vid jakt i hägn till sina vilthanteringsanläggningar påverkas negativt i och med att djuren ska levereras till slakterier samt att jägares möjligheter att leverera små mängder vilt och kött av frilevande vilt som hållits i hägn begränsades.",
+      "quote_type": "grund"
+    }
+  ]
+}

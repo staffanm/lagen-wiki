@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:86/statskontoret": "51bba1b5977d3d0c846d1a6bcd0494f0efae1b4a92fc9166bb0fde69b434754b",
+      "artifact:forarbete/sou/2025-86": "b0dcdd24a25a2d12cb2cbd40a2be00ca8cbb7c0ad6b35674c7550080e553e1d9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Statskontoret tillstyrker utredningens förslag om att höja de generella ersättningarna (dagersättning och dagpenning) för värnpliktiga och totalförsvarspliktiga (11.9.3).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.9.3",
+      "sentiment": 1.0,
+      "quote": "Statskontoret delar utredningens bedömning att dagersättningen bör följa den allmänna prisutvecklingen och att de ekonomiska förutsättningarna för värnpliktiga inte bör vara sämre än för icke-värnpliktiga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.9.5",
+      "sentiment": 1.0,
+      "quote": "Med utgångspunkt i samma bedömning som ovan tillstyrker vi även förslaget om att dagpenningen ska motsvara hela den totalförsvarspliktigas sjukpenninggrundande inkomst (11.9.5).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.9.4",
+      "sentiment": 1.0,
+      "quote": "Vi bedömer att en automatisk justering som knyts till prisbasbeloppet är en mer effektiv ordning framför att regeringen ser över nivån (11.9.4).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5.1",
+      "sentiment": 0.5,
+      "quote": "Statskontoret delar utredningens bedömning att en reglering av Värnpliktsrådets finansiering kan bidra till att stärka rådets oberoende.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5.1",
+      "sentiment": 0.2,
+      "quote": "Statskontoret bedömer att det är centralt att Försvarsmakten har tillräcklig förmåga att identifiera och bedöma vilken typ av kompetens som behövs inom myndigheten för att myndigheten fortsättningsvis ska kunna stärka den egna personalförsörjningen på ett effektivt sätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

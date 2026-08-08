@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:112/statens-energimyndighet": "86acbec2f84563618d914f4264f384acd87a1d70c3b1a6e660ddc204a1d09ca6",
+      "artifact:forarbete/sou/2025-112": "327d2d12c90657abd95e45e3d5371180d3dc968a3250c1269d1486751bc6c593"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Energimyndigheten saknar dock resonemang kring hur uppgifterna om verklig huvudman som inkommit i samband med bl.a. tillsyneller stödverksamhet förhåller sig till offentlighets- och sekretesslagen (OSL) 30 kap. 23 § st. 1 p. 2.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5.6",
+      "sentiment": 1.0,
+      "quote": "Energimyndigheten delar utredningens slutsats om att det kan finnas behov av ytterligare sekretessreglering i enlighet med utredningens förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.4",
+      "sentiment": 1.0,
+      "quote": "Förutsättningarna för en myndighet att fatta ett beslut om att med hänvisning till OSL 8:3 dela uppgifterna bedöms därför vara goda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.4",
+      "sentiment": -0.5,
+      "quote": "Eftersom uppgifter om verklig huvudman kommer att avse uppgifter om ett affärsförhållande mellan företaget och en annan enskild regleras uppgiften av OSL 30:23 st. 1 p. 2, vilket innebär att absolut sekretess råder för uppgiften.",
+      "quote_type": "grund"
+    }
+  ]
+}

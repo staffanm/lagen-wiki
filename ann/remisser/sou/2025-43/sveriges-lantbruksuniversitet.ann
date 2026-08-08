@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/sveriges-lantbruksuniversitet": "39a075f91f8fb112bc667d8be346acdf6245d0a4c154dd01f4388132cee80720",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Utredningsarbetet förefaller väl avvägt och ändringarna är till synes ändamålsenliga.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 1.0,
+      "quote": "Valet som reglerande instans är naturligt med tanke på Läkemedelsverkets roll som expertmyndighet och beredskapsmyndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec68",
+      "sentiment": 0.5,
+      "quote": "Därför behöver eventuella begränsningar i föreskrifter utformas så ett djurslags (inklusive människa) liv och hälsa inte är överordnat ett annat djurslags liv och hälsa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8.6",
+      "sentiment": -0.2,
+      "quote": "Rent spekulativt kan de föreslagna ändringarna förväntas skapa merarbete och kostnader för djursjukvården, då alternativa behandlingar kan behöva identifieras och eventuella licenser för försäljning av läkemedel som ej är godkända i Sverige kan behöva sökas.",
+      "quote_type": "grund"
+    }
+  ]
+}

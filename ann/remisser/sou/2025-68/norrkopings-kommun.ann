@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/norrkopings-kommun": "08c106ce70bee7cf4e243de305a0e81a49b1237dcc80dd981a5dd8fb1370dc6c",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Norrköpings kommun ställer sig positiva till förslagen i betänkandet i sin helhet men har några synpunkter enligt nedan.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": 0.5,
+      "quote": "Därför bör även kommunerna få möjlighet till F-avtalen då samma behov föreligger på lokal nivå som nationell nivå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4",
+      "sentiment": -0.2,
+      "quote": "För att få effekt i att bygga upp en beredskapsförmåga måste finansiering bli långsiktigare och mer förutsägbar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec187",
+      "sentiment": 0.5,
+      "quote": "Det är ett bra första steg men det bör också tas i beaktande vilken infrastruktur som finns i kommunen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6",
+      "sentiment": 0.8,
+      "quote": "Vi ser att denna hänsyn bör leda till förenklingar och utökade möjligheter för längre avtalstider och högre kravställningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.5",
+      "sentiment": 0.0,
+      "quote": "För att utreda behovet av civilplikt för reparationsberedskapen bör först vad som ska göras av vem fastställas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.4",
+      "sentiment": -0.5,
+      "quote": "Ett nationellt register men den rörlighet som finns för maskiner/fordon/företag (köp och sälj av utrustning och företag) generellt genererar troligen mer arbete än effekt.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/inspektionen-for-strategiska-produkter": "aec39863c43bbfce8beed212c6f63b93b5fee5c7e652385503e653a91c085815",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "ISP välkomnar ett förslag som innebär en gedigen registerkontroll inom ramen for säkerhetsprövningar som i förlängningen stärker Sveriges säkerhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec84",
+      "sentiment": 1.0,
+      "quote": "ISP ser positivt på den utvidgning av tillämpningsområdet för ingripandemöjligheten som föreslås i 4 kap. 12 § säkerhetsskyddslagen (2018:585), SäkL, och den anmälningsplikt som föreslås i 4 kap. 1 a § SäkL.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a4.4.2",
+      "sentiment": 1.0,
+      "quote": "ISP ser positivt på den utvidgning av tillämpningsområdet för ingripandemöjligheten som föreslås i 4 kap. 12 § säkerhetsskyddslagen (2018:585), SäkL, och den anmälningsplikt som föreslås i 4 kap. 1 a § SäkL.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.2,
+      "quote": "ISP bedömer att en förlängd anställningsprocedur kan medföra en risk för att arbetsgivare under processen kan förlora arbetssökande som erbjuds en annan anställning eller i övrigt tackar nej till erbjuden tjänst innan säkerhetsprövningen är genomförd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec190",
+      "sentiment": 1.0,
+      "quote": "ISP instämmer med utredningen att det är lämpligt att se över hela säkerhetsprövningsförfarandet för att få en samlad bild.",
+      "quote_type": "grund"
+    }
+  ]
+}

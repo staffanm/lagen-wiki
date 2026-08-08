@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/sveriges-kommuner-och-regioner-skr": "407842037a5de49882e50330ddac8b803f749cc598d625a298ac7ad04fa0b909",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Eftersom Omnibus inte är slutförhandlad och beslutad ännu, så är SKRs huvudsakliga rekommendation att regeringen analyserar Omnibus påverkan på utredningens förslag innan de går vidare till eventuell proposition.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1",
+      "sentiment": 1.0,
+      "quote": "SKR har inga invändningar mot rekommendationerna författningsförslaget och hur staten väljer att fördela ansvar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a4.3.1",
+      "sentiment": 0.2,
+      "quote": "När utredningen fokuserar på kompetensspridning och tillsyn så förlorar den samtidigt en del av den mer proaktiva innebörden, dvs att stimulera användningen av dataakten för nationell och europisk datadriven utveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.2",
+      "sentiment": 0.2,
+      "quote": "SKR efterlyser inte ett behov av att staten ska begära viten av staten (vilket inte stöds i lagen) men hade gärna sett ett utökad resonemang kring varför denna situation sannolikt inte kan uppstå, och hur detta relaterar till kommuner och regioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.1",
+      "sentiment": 0.5,
+      "quote": "SKR instämmer med utredningens resonemang men ser ett tydligt behov av konkret vägledning i händelse av att en part ska hämta eller utlämna data på grundval av nödläge.",
+      "quote_type": "grund"
+    }
+  ]
+}

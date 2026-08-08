@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:90/skatteverket": "3afe938154e6614bd7f1701f7af14b9cfef85da343047a4d480ee4b1fffc2e76",
+      "artifact:forarbete/sou/2025-90": "c2e4c30d4c5dcb7aed515c66494488233ac250895bf23594526ec562841615d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "S katte ver ket tillstyr ker att f örsla ge t ge n o mf örs . S katte ver ket a vstyr ker d oc k att f ör me dli n gs my n di g hete n, efter sa mtyc ke, s ka k u n na ge n o mf öra ri kta de k o ntr oller s o m i n ne bär ö ver va k ni n g eller kartlä g g ni n g a v e n e ns kil ds pers o nli ga f ör hålla n de n.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.5",
+      "sentiment": 0.2,
+      "quote": "S katte ver ket f öreslår att bestä m melse n i 3 § la ge n o m f ör me dli n g a v vissa p ostf örsä n delser k o m pletteras e nli gt f ölja n de.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.8",
+      "sentiment": -0.5,
+      "quote": "S katte ver ket a vstyr ker d oc k att f ör me dli n gs my n di g hete n, efter sa mtyc ke, s ka k u n na ge n o mf öra ri kta de k o ntr oller s o m i n ne bär ö ver va k ni n g eller kartlä g g ni n g a v e n e ns kil ds pers o nli ga f ör hålla n de n.",
+      "quote_type": "grund"
+    }
+  ]
+}

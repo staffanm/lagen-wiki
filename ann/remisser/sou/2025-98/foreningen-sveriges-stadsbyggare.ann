@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/foreningen-sveriges-stadsbyggare": "36031ed3607deac189d4f98db1586add83e4ee2301d5b4708a1a4c060e6e5a66",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Föreningen bedömer att det aktuella förslaget medför negativa konsekvenser för Sveriges samhällsbyggnad.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec206",
+      "sentiment": -0.5,
+      "quote": "utredningen inte har beaktat fastighetsbildningens roll i samhällsbyggnadsprocessen och därav inte den viktiga stödfunktion som lantmäterimyndigheterna har i kommunernas plan- och byggverksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": -1.0,
+      "quote": "De villkor som utredningen föreslår för att behålla eller inrätta en ny kommunal lantmäterimyndighet är otydliga och omöjliggör de kommunala lantmäterimyndigheternas existens.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -1.0,
+      "quote": "Föreningen delar varken utredningens bedömning om lämplighet eller att fastighetsbildning utgör statlig verksamhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

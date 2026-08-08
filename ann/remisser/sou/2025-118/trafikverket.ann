@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/trafikverket": "fc45f0cc39332e5385686938cabbdf161840fa1d8e0ea4795f206b69e1e7772f",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Med dessa synpunkter tillstyrker Trafikverket utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.5.4",
+      "sentiment": -0.2,
+      "quote": "Det behöver enligt vår uppfattning beskrivas vilka uppgifter det är fråga om, vilka andra aktörer som avses samt varför utökningen är nödvändig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.5",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av de besparingar och bemanningstak som beslutats av regeringen kommer Trafikverkets möjligheter att genomföra detta eller andra uppdrag att påverkas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.4",
+      "sentiment": -0.2,
+      "quote": "Här behöver det också förtydligas hur omfattande kartläggningen ska vara.",
+      "quote_type": "grund"
+    }
+  ]
+}

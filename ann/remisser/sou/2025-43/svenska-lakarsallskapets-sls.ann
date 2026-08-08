@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/svenska-lakarsallskapets-sls": "80fd745ac30962dfb568259f8f05f7989ad90ae4ec134a8b3d00e44d82871659",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "DME tillstyrker betänkandets syfte och slutsatser, som vi uppfattar som rimliga.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.2,
+      "quote": "Svenska läkarsällskapet betonar dock att utformandet av ett systemstöd inte får fördröja besluten kring begränsning av förordnande och utlämnande",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8.1",
+      "sentiment": -0.2,
+      "quote": "Detta gäller enbart nyskrivna recept, giltiga befintliga recept kommer behöva kunna begränsas för utlämning, dvs både förskrivning och utlämning behöver kunna begränsas för att insatsen ska få full effekt och det inte ska bli en ojämlik hantering",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8.3",
+      "sentiment": -0.5,
+      "quote": "Beslut om att begränsa förordnande och utlämnande måste föregås av beslut om prioritering – hur görs detta, på vilka grunder och av vem?",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8.6",
+      "sentiment": -0.2,
+      "quote": "Så länge det inte finns inbyggda systemstöd som helt förhindrar/stoppar förordnande av läkemedel, kommer det behövas en möjlighet att begränsa utlämnandet från apotek.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec68",
+      "sentiment": -0.2,
+      "quote": "Eftersom all sjukvård skulle kunna betecknas som ”nödvändig för… hälsa” behöver här betonas att det endast eller huvudsakligen är stora behov som motiverar begränsningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec27",
+      "sentiment": -0.2,
+      "quote": "DME uppfattar att begränsningar på ett tydligt sätt måste grundas i just stora medicinska behov av läkemedel.",
+      "quote_type": "grund"
+    }
+  ]
+}

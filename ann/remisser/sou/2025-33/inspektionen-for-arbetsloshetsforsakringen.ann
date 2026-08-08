@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/inspektionen-for-arbetsloshetsforsakringen": "08c0f17a71032ef9183873c8d2ecf943fb51c4f7fcf1b2f5e2180893dd88aca8",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "IAF har med utgångspunkt i myndighetens ansvarsområde tagit del av betänkandet och har inga synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.10.6",
+      "sentiment": 0.5,
+      "quote": "ärenden rörande uteslutning enligt 37 § i lagen (1997:239) om arbetslöshetskassor och frånkännande enligt 46 § i lagen (1997:238) om arbetslöshetsförsäkring kan vara av betydelse för Migrationsverket utöver ärenden rörande återkrav",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.8.3",
+      "sentiment": 1.0,
+      "quote": "Förslaget om att reglera uppgiftsskyldigheten i utlänningslagen och inte luta sig mot en generell sekretessbrytande regel i offentlighets- och sekretesslagen har dessutom en ytterligare fördel mot bakgrund av att endast en del av arbetslöshetskassornas verksamhet omfattas av offentlighets- och sekretesslagen.",
+      "quote_type": "grund"
+    }
+  ]
+}

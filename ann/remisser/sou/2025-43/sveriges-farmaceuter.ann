@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/sveriges-farmaceuter": "67a42df7e33dfb2b1620b2fab5979e253fb41ec42fada03947758d22ce173cda",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sveriges Farmaceuter anser att det huvudsakliga ansvaret vid bristsituationer bör ligga på förskrivaren.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec67",
+      "sentiment": -0.5,
+      "quote": "Vi anser, baserat på ovan, att det bör vara begränsat förordnande som införs som huvudregel och endast i undantagsfall bör utlämnandet begränsas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5.1",
+      "sentiment": 0.5,
+      "quote": "Detta skulle öka patientsäkerheten och minska risken för bristsituationer på grund av felaktig förskrivning eller överförskrivning av annat slag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 1.0,
+      "quote": "Precis som utredningen föreslår så är ett systemstöd hos förskrivare och apotek nödvändigt för att säkerställa att de tillfälliga reglerna kan efterlevas.",
+      "quote_type": "grund"
+    }
+  ]
+}

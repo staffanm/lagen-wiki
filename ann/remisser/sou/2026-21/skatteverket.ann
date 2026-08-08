@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:21/skatteverket": "facd1e9cb0fe703523f46b7eb604533d1c10f7efaf22e78141f1d67a5895de84",
+      "artifact:forarbete/sou/2026-21": "b4fe47551a2f6371e860be92a47a77882040d95cf28d07cac21ec3172d27ca53"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Skatteverket tillstyrker utredningens förslag att verket ska få underrättelser om slutliga beslut om återkallelse av svenskt medborgarskap.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2.2",
+      "sentiment": 0.0,
+      "quote": "Betänkandets beskrivning ger intrycket att Skatteverkets registrering enbart sker i ärenden om folkbokföring, varför detta förtydligande kan ge en mer fullständig bild av verkets registreringsansvar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 0.5,
+      "quote": "För att Skatteverket ska kunna uppfylla de krav på registrering som följer av folkbokföringslagen (1991:481) och lagen om samordningsnummer behöver det därför införas en bestämmelse som möjliggör att uppgift om utländskt medborgarskap kan lämnas till Skatteverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -0.2,
+      "quote": "För att Skatteverket ska kunna lämna ut sekretessbelagda uppgifter till Migrationsverket behöver det finnas en tillämplig sekretessbrytande bestämmelse.",
+      "quote_type": "grund"
+    }
+  ]
+}

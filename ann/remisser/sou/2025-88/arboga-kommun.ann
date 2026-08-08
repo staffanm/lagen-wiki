@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/arboga-kommun": "be034db30952b10f997f241ecc74f9cdcd6181fa50f1bcbbd0ec288aa9ea2b26",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Arboga kommun ställer sig i grunden positiv till utredningens syfte att skapa tydligare och tidigare besked från det allmänna avseende mark- och vattenanvändning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec19",
+      "sentiment": -0.2,
+      "quote": "Det finns en risk att beskedet, trots sin icke-bindande karaktär, i praktiken får en styrande effekt på den efterföljande planläggningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec29",
+      "sentiment": 0.2,
+      "quote": "Kommunen vill understryka vikten av att dessa tidiga besked harmoniserar med kommunens strategiska dokument, bland annat kommunens översiktsplan, som är ett strategiskt dokument för långsiktig markanvändning och samhällsutveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": -0.2,
+      "quote": "Vidare bör det klargöras hur kommunens planmonopol respekteras i processen.",
+      "quote_type": "grund"
+    }
+  ]
+}

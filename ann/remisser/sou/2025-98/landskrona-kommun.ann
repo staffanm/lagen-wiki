@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/landskrona-kommun": "676272e70d3e4fa1105b2feba6cc620f0d16ded7914b69e725a858ee4695471c",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Sammantaget riskerar förslagen att resultera i sämre kvalitet, högre kostnader och längre genomförandetider (från planbesked till byggnation).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.2,
+      "quote": "Förslaget innebär att KLM inte längre har möjlighet att välja en lägre taxa än Lantmäteriet, vilket kommer att fördyra fastighetsbildningen för medborgare och näringsidkare i Landskrona och för Landskrona stad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.5,
+      "quote": "Att statliga projekt ska lämnas över till Lantmäteriet innebär en sämre helhetssyn över till exempel infrastrukturprojekt och stadsbyggnadsprojekt som en statlig myndighet eller bolag är en del av.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": -0.5,
+      "quote": "Att separera KLM från kommunen (exempelvis att KLM måste ha egna lokaler och inte får dela på kommunens gemensamma resurser som HR, ekonomi, IT) skulle innebära ökade kostnader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.5,
+      "quote": "Det hade varit en stor fördel för kommuner att kunna bilda KLM i samverkan och för befintliga KLM att samarbeta med varandra, vilket borde föreslås i utredningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:77/aklagarmyndigheten": "8710215f7ea8cf3562ae2a6415d6e53e541a9f9d7e0102d6724098d237172383",
+      "artifact:forarbete/sou/2025-77": "2d5c562dd97d981752cb93f65a08d116c79a1f8908f9e6fb9bb9e7d703e82f34"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Äklagarmyndigheten ställer sig sammanfattningsvis positiv till de remitterade ftirslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec11",
+      "sentiment": 1.0,
+      "quote": "Detta bedöms som positivt ur ett brottsftirebyggande perspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 1.0,
+      "quote": "Åklagarmyndigheten instämmer vidare i utredningens fiirslag om att lönegaranti ska omfattas av bidragsbrottslagens tilllimpningsområde sarnt att uppgifter i en ansökan om lönegaranti ska liimnas på heder och samvete och att ansvar ftir osann fiirslikran och vårdslös ftirsäkran därmed kan komma ifråga.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.6",
+      "sentiment": 1.0,
+      "quote": "Eftersom Skatteverkets brottsutredande enhet inte kan leda forundersökningar blir det mest iindamålsenligt och effektivt att aklagare på Ekobrottsmyndigheten leder dessa.",
+      "quote_type": "grund"
+    }
+  ]
+}

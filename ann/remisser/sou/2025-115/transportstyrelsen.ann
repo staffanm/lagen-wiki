@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/transportstyrelsen": "eac89d6e2236ffac3400e0b385f52fd9d5f6a0070b204bbc5a26ed429e09a6f8",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Transportstyrelsen bedömer att betänkandet utgör ett viktigt steg för att stärka cybersäkerheten i produkter med digitala element och därmed bidra till en mer robust och säker digital infrastruktur.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": -0.2,
+      "quote": "Utan en sådan tydlighet finns en risk för överlappande ansvar eller oklarheter i tillsynen, särskilt i situationer där brister i produkter får konsekvenser för transportsystemens informations- och nätverkssäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 0.2,
+      "quote": "Transportstyrelsen bedömer att det finns ett behov av att samordna dessa rapporteringsflöden så att de inte leder till onödig administrativ börda eller fragmenterad lägesbild.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.6",
+      "sentiment": 0.5,
+      "quote": "Myndigheten vill dock framhålla att sekretessregleringen behöver utformas så att den inte i onödan försvårar nödvändig informationsdelning mellan myndigheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

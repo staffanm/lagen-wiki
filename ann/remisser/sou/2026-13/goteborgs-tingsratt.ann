@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:13/goteborgs-tingsratt": "c1f9c420e80513b2d7f7a26192f40860750fb69962943ce21e01e7615dcc7732",
+      "artifact:forarbete/sou/2026-13": "aa7c4aa821e82ffd40ba6d95445a5ac6a4b6de75f8e6b57acfe2ae5301506548"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Tingsrätten anser att det finns goda skäl för en kriminalisering med hänsyn till vad som förs fram i betänkandet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.2.2",
+      "sentiment": -0.2,
+      "quote": "Tingsrätten anser emellertid att det bör övervägas om delar av den föreslagna lagstiftningen kan definieras tydligare för att skapa en tillfredsställande förutsägbarhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec207",
+      "sentiment": -0.5,
+      "quote": "Enligt tingsrätten vore en utformning likt den finländska lagstiftningen att föredra. Detta särskilt med hänsyn till vad som föreslås beträffande användning av hemliga tvångsmedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec188",
+      "sentiment": -0.2,
+      "quote": "Ett möjligt alternativ till den lösning som föreslås i betänkandet skulle, vilket tingsrätten även fram- förde i sitt remissvar över Promemorian Straff för deltagande i en terroristorganisation (DS 2022:6), kunna vara att som för andra brottstyper (exempelvis misshandel och narkotikabrott), gradindela med ytterligare ett allvarligare steg utöver det grova brottet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.2",
+      "sentiment": -0.5,
+      "quote": "Det finns en betydande risk att arbetsbelastningen ökar på ett sätt som negativt påverkar möjligheten för domstolarna att klara sitt uppdrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

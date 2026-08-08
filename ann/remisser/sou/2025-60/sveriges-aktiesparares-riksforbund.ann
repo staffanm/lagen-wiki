@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:60/sveriges-aktiesparares-riksforbund": "d084cc3512d46d211efe23f7b368f80b6bc9df116f696a03e2fd3511d09d10d7",
+      "artifact:forarbete/sou/2025-60": "ba08a5cf25200bcc4b5e48a4ae829bfa92fdb7a8a18e1f7113bf8aa0612a2eee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sammanfattningsvis ställer sig Aktiespararna överlag positiva till förslagen men har vissa funderingar, framförallt kring inlösenfrekvens och införandet av uppsägningstid.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.5",
+      "sentiment": 1.0,
+      "quote": "Förslagen kring en ny skattetransparent fondstruktur för institutionella investerare löser ett praktiskt problem och främjar svenska fonders konkurrenskraft på ett internationellt plan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": 1.0,
+      "quote": "Införandet av en möjlighet till en börshandlad andelsklass är även detta något som Aktiespararna ser positivt på och som ökar möjligheterna för investerarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": -0.5,
+      "quote": "Aktiespararna ser att detta kan innebära att likviditetsrisken för konsumenten ökar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": -0.5,
+      "quote": "Även detta kan vara till förfång för investerarna.",
+      "quote_type": "grund"
+    }
+  ]
+}

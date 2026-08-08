@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/regelradet": "15456493013a40643b110854f18c6b68dabc072a720cd6c1a5959143b28c4516",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Regelrådet bedömer att konsekvensutredningen uppfyller kraven i 6 och 7 §§ förordningen (2007:1244) om konsekvensutredning vid regelgivning .",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": -0.5,
+      "quote": "Mot bakgrund av hur problematiskt nuvarande placering av hushållningsbestämmelserna i miljöbalken beskrivs i betänkandet är det förvånande att en flytt av dessa inte bedöms medföra några direkta eller indirekta konsekvenser för företag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.5,
+      "quote": "Det hade även varit önskvärt med mer utförliga resonemang kring de potentiellt negativa konsekvenserna för olika företag och branscher beträffande förslaget om tidiga områdesanvändningsbesked från regeringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.2,
+      "quote": "Redovisningen av berörda företag och konsekvenser för företag är däremot svagare.",
+      "quote_type": "grund"
+    }
+  ]
+}

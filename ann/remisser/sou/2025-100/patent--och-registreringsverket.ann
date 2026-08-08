@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:100/patent--och-registreringsverket": "dd84dcf684c8057ef36efb93d4c231a0acea7866395ad474cba18204fac04c50",
+      "artifact:forarbete/sou/2025-100": "b519ed844627b2d5676019b5b0a8bf5290f7e3fd99e92af851cf8f38837e790d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "PRV ställer sig positivt till utredningens förslag men kommer nedan särskilt att utveckla synpunkter som rör utredningens förslag om den tänkta rollen för PRV.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": 0.2,
+      "quote": "PRV delar således utredningens problembild och behovet av ett tydligt uppdrag på området, men bedömer att uppdraget förutsätter betydligt mer resurser än de minst två årsarbetskrafter som utredningen anger.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": 0.5,
+      "quote": "PRV vill poängtera att myndigheten inte bör ha en operativ roll i beslut om blockering eller proportionalitet i enskilda fall.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Utan ett sådant resurstillskott bedömer PRV att det blir svårt att uppnå en grundläggande nivå.",
+      "quote_type": "grund"
+    }
+  ]
+}

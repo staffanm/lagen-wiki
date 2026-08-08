@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:92/bohuslans-museum": "8b6b471a2e1c76059f3ce02d68600a005b0adf6ca4dd34e3233228fa7f08df8e",
+      "artifact:forarbete/sou/2025-92": "c1db6346e92cb1aaf69fe092a6e40e7ceba88b5192c9caee2959771165f82273"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Det viktigaste i utredningen är insikten om att kulturens infrastruktur – institutioner, skolan, folkbildning, kulturaktörer med flera – är avgörande för att den kultur som finns i kanon ska kunna värnas och tillgängliggöras för människor, och för att syftet med kanon därmed ska kunna nås.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.4",
+      "sentiment": 0.5,
+      "quote": "Den trängda ekonomiska situation för länsmuseer som kommittén identifierat underminerar museernas möjlighet att möjliggöra bildningsresor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.8",
+      "sentiment": 0.0,
+      "quote": "museerna med sin kulturhistoriska expertkunskap och arena för unika lärmiljöer en viktig resurs för skolorna i deras arbete med måluppfyllelse i såväl historiska och samhällsorienterande ämnen som i skolans kulturuppdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec550",
+      "sentiment": -0.5,
+      "quote": "Det vore att låta det som initialt är privata medel finansiera det som måste anses tillhöra det offentliga åtagandet, nämligen att tillhandahålla en grundläggande nivå av kultur och bildning och på så vis främja de syften som anges för kulturkanon.",
+      "quote_type": "grund"
+    }
+  ]
+}

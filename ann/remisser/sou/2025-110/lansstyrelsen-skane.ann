@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/lansstyrelsen-skane": "6ddb16b0999fe63878726e42243f7c09c704898244185616cb2263597d4b4cf2",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen välkomnar de ändringar som föreslås då de är ändamålsenliga för ett robust, tillgängligt digitalt nät för alla i Sverige.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 1.0,
+      "quote": "Det är särskilt välkommet att Sverige inför en kompletteringslag som ger byanät samma rättigheter som nätoperatörer i GIA och samtidigt inte ska ges samma skyldigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec59",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen välkomnar även att sanktion föreslås i stället för ”Tyst godkännande” när tillståndsansökningar handlagts över fyra månader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": -0.2,
+      "quote": "Det är viktigt att det tydligare framkommer vilka krav som gäller.",
+      "quote_type": "grund"
+    }
+  ]
+}

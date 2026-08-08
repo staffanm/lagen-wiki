@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/domstolsverket_ny": "d6137637f197bd913c39c410ebede8b50bf0d5cc044ca6645e4c7f6ff5a9b13a",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Utifrån ovannämnda utgångspunkter har Domstolsverket inte några invändningar mot förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.2.4",
+      "sentiment": 1.0,
+      "quote": "Domstolsverket instämmer, efter avstämning med Domstolsakademin, i utredningens bedömningar i avsnitt 11.2.4 och 12.1.9 angående vikten och behovet av utbildning för att öka medvetenheten hos domare och därmed öka rättssäkerheten i berörda måltyper.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1.9",
+      "sentiment": 1.0,
+      "quote": "Domstolsverket instämmer, efter avstämning med Domstolsakademin, i utredningens bedömningar i avsnitt 11.2.4 och 12.1.9 angående vikten och behovet av utbildning för att öka medvetenheten hos domare och därmed öka rättssäkerheten i berörda måltyper.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.3",
+      "sentiment": 0.0,
+      "quote": "Uppgifter om kön och ålder kommer inte att kunna utläsas direkt av domen, men av avgöranderapporten som innehåller uppgifter från bland annat domen.",
+      "quote_type": "grund"
+    }
+  ]
+}

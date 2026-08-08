@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/riksantikvarieambetet": "72e9a3f128c7024b1ba1db1e523409900b74e9a7db195ff05f9d05af6b8cfcbe",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Riksantikvarieämbetet instämmer i bedömningen som återfinns i avsnitt 5.3 om att regeringens styrning av statliga myndigheters ansvar och uppgifter i förhållande till regional utveckling och en livskraftig landsbygd bör förtydligas och vara mer sammanhållen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 1.0,
+      "quote": "En sådan styrning skulle både synliggöra hur myndigheter redan bidrar, ge bättre förutsättningar att rikta insatserna mer träffsäkert mot de effekter som eftersträvas och göra samspelet och rollfördelningen mellan berörda aktörer tydligare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": 1.0,
+      "quote": "Kulturarvet är en förutsättning för att skapa attraktiva, inkluderande och identitetsskapande platser – vilket är kärnan i lyckad territoriell utveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3",
+      "sentiment": 1.0,
+      "quote": "Sammantaget visar detta på kulturarvsområdets betydelse i relation till de utgångspunkter som utredningen lyfter fram som centrala för sammanhållningspolitikens möjlighet att bemöta framtida utmaningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "För att kulturarv ska bidra till hållbar utveckling krävs samverkan mellan kulturarvsinstitutioner, offentliga aktörer och lokalsamhället, där lokala perspektiv inkluderas i beslutsprocesser och strategier.",
+      "quote_type": "grund"
+    }
+  ]
+}

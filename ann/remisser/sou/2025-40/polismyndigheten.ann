@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:40/polismyndigheten": "fc9f7e1ebfa9e44bd11600126df56dbfd679e9605f40de852a58e89660e15e51",
+      "artifact:forarbete/sou/2025-40": "c04285caa82b9652fb357cbae989fe2dee864542cf2f237c017dbd2cc406bc0c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslaget innebär att regelverket för tivolianordningar blir enklare och tydligare och att tillsynen på området stärks, vilket kan förväntas leda till säkrare tivolin.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.10",
+      "sentiment": 1.0,
+      "quote": "Att Polismyndighetens verksamhet renodlas så att myndighetens resurser läggs på åtgärder som endast Polismyndigheten kan lösa är positivt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": -0.5,
+      "quote": "Denna ordning vore inte praktiskt genomförbar för varken Polismyndigheten eller verksamhetsutövarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec70",
+      "sentiment": 0.2,
+      "quote": "Förslagsvis bör det tydliggöras i lagtexten att en revisionsbesiktning ”trumfar” en montagebesiktning; både revisions- och montagebesiktning ska inte ske.",
+      "quote_type": "grund"
+    }
+  ]
+}

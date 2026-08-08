@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/kammarkollegiet": "744777c416718548d21f3a12f7d996213546b1a5a2ecb996afc6b838365c0130",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Utifrån de aspekter som Kammarkollegiet har att beakta har kollegiet inte några synpunkter på betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2.7",
+      "sentiment": -0.2,
+      "quote": "Förordningen är sällan tillämplig och den ersättning som kan bli aktuell är ringa.",
+      "quote_type": "grund"
+    }
+  ]
+}

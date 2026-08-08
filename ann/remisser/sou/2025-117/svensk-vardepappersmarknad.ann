@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:117/svensk-vardepappersmarknad": "63564fba3bf7a08083a0e3b23798833ef1e50b796a1529b47777ad5c48480379",
+      "artifact:forarbete/sou/2025-117": "e9f7c3ab9cf49724fafdf32b1ac759e11d234a9fee7d593cc7ebb686a52a59d9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sverige har redan idag en väl fungerande fondmarknad som på flera sätt är framstående ur ett europeiskt perspektiv, men som framgår av utredningen finns det åtgärder som skulle kunna bidra till en mer väl fungerande fondmarknad.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 0.5,
+      "quote": "förvaring på investeringssparkonto (ISK) för Eltifs skapar bättre förutsättningar för ett utbrett sparande i dessa fonder",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec10",
+      "sentiment": -0.2,
+      "quote": "Att ställa krav på ett betydande antal investerare är vagt, även om man som riktmärke nämner ett par hundra investerare, men framför allt ställer det krav på kontoförande institut att löpande följa upp antalet investerare i dessa fonder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec10",
+      "sentiment": -0.2,
+      "quote": "utan förtydligande av bad begreppet över tid innebär mer precis är risken påtagligt för olika tolkning och hantering hos instituten som tillhandahåller ISK, vilket i slutändan riskerar att drabba de kunder som väljer att investera i Eltifs genom ISK.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec10",
+      "sentiment": -0.2,
+      "quote": "Det vore dock orimligt att den som tillhandahåller ISK ska göra en egen värdering av de Eltifs som förvaras på ISK hos dem.",
+      "quote_type": "grund"
+    }
+  ]
+}

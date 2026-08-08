@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:121/aklagarmyndigheten": "035d4be9e986adbdac63d166685830b5d83e5ec03e0dfec1ec31bfa0c5a29a34",
+      "artifact:forarbete/sou/2025-121": "ea5ef53bafffc374cd9c6ed48c2efc9bb84857af58aacd3e714712108c789c6b"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Förslagen i stort bedöms som positiva ur ett brottsförebyggande perspektiv.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.5",
+      "sentiment": 1.0,
+      "quote": "Beslut om besöksförbud är förhållandevis sällsynta och effekterna av ett minskat utrymme att meddela sådant beslut bedöms inte ha någon betydande påverkan på Åklagarmyndighetens verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9",
+      "sentiment": 1.0,
+      "quote": "Åklagarmyndigheten delar vidare utredningens bedömning att en undantagsregel från betänketiden vid förekomst av våld skulle vara svår att utforma och tillämpa i praktiken.",
+      "quote_type": "grund"
+    }
+  ]
+}

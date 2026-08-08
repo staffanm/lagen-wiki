@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/forsakringskassan": "3370f70251dae81c9c1373ea05646b358750ec6dba24a81275aed35477df7991",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Enligt Försäkringskassans uppfattning är det nu aktuella förslaget om en bestämmelse om egeninitierat uppgiftslämnande av sådana uppgifter som inte är sekretessbelagda ytterligare ett symptom på ett i grunden bristfälligt regelverk, som över tid blivit alltmer komplext och som inte är anpassat till nutida behov av informationsutbyte mellan myndigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.8.5",
+      "sentiment": 1.0,
+      "quote": "Försäkringskassan tillstyrker den föreslagna bestämmelsen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.2.4",
+      "sentiment": 1.0,
+      "quote": "Enligt Försäkringskassan saknas förutsättningar för att sådana utredningar ska resultera i ett sammanhängande och överskådligt dataskyddsregelverk, oavsett hur förtjänstfulla förslag de lämnar inom ramen för sina uppdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": -0.5,
+      "quote": "Försäkringskassan anser att det underlag som utredningen presenterar inte är tillräckligt för att dra slutsatsen att förslaget inte på sikt medför ökade kostnader för myndigheten.",
+      "quote_type": "grund"
+    }
+  ]
+}

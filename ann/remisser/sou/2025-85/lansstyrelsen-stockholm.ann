@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/lansstyrelsen-stockholm": "f23d22ef740ee47f8e751419ddb2ddd285a3fc9198dd268c4e622f88bc55ed60",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen i Stockholms län tillstyrker föreslagen författningsändring och lämnar vidare synpunkter enligt nedan.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": 0.2,
+      "quote": "Utan detta riskerar myndigheten få svårt att hålla för områdena relevant kompetens varpå förutsättningarna för att balansera olika samhällsintressen försvåras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "Ett större statligt mandat inom den regionala utvecklingspolitiken och landsbygdspolitiken skulle skapa en mer partsneutral ordning och stärka genomförandekraften av den nationella politiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "Att samla dessa två logiker inom samma politikområde kan leda till svårigheter i prioriteringar.",
+      "quote_type": "grund"
+    }
+  ]
+}

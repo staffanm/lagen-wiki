@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:109/svea-hovratt": "cf55c0f6f7d5d7b41e08992a616fa8791a523e680fa88123f665d790215cb026",
+      "artifact:forarbete/sou/2025-109": "98c6ec215c748b185b72329d97ae9b9b49e64e1ef1e2e530c207deb50c4d88d5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Utredningens förslag framstår enligt hovrätten i huvudsak som väl genomarbetade.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4",
+      "sentiment": 1.0,
+      "quote": "Hovrätten lämnar förslagen i avsnitt 4 (”Fordon med fiktiva uppgifter”) utan erinran.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.13.4",
+      "sentiment": -1.0,
+      "quote": "framstår det som uppenbart att förslaget kan komma att innebära risk för att barn far illa eller skadas till följd av provokationen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.13.5",
+      "sentiment": 0.2,
+      "quote": "Att polisen ges en sådan möjlighet kan riskera att undergräva legitimiteten av kriminaliseringen, i de delar den omfattar sådant som polisen kommer ges rätt att genomföra som provokativa åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.15",
+      "sentiment": -0.2,
+      "quote": "Om polisen ges en lagreglerad möjlighet att hos enskilda personer provocera fram brott som de annars inte hade begått, talar starka skäl för att det samtidigt i lag regleras i vilka fall provokationen kan leda till straffrättsligt ansvar för den provocerade.",
+      "quote_type": "grund"
+    }
+  ]
+}

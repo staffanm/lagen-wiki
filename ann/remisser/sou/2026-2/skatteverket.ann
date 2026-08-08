@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/skatteverket": "c8cc965c575cddd3da4effb64dfe7b2d072c3e8d80c1657326a5223d63d2326c",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslagen i betänkandet bedöms inte medföra några konsekvenser för Skatteverkets verksamhet utan påverkar myndigheten endast marginellt och främst indirekt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": -0.2,
+      "quote": "Skatteverket anser att det är inte framgår tydligt i förslaget var denna gallringsfrist ska skrivas in.",
+      "quote_type": "grund"
+    }
+  ]
+}

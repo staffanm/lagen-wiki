@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:121/journalistforbundet": "e6934fac7451d76016faff195f6a5fd0824baf64286ac0ff72b07fdd67fb0fb9",
+      "artifact:forarbete/sou/2025-121": "ea5ef53bafffc374cd9c6ed48c2efc9bb84857af58aacd3e714712108c789c6b"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Mot den bakgrunden avstyrker Journalistförbundet förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.6.9",
+      "sentiment": -1.0,
+      "quote": "Enligt Journalistförbundet finns det anledning att ifråg asätta om bestämmelsen är ändamålsenligt utformad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.13",
+      "sentiment": -1.0,
+      "quote": "Enligt Journalistförbundet saknas den typen av starkt skyddsintresse i detta fall.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:72/funktionsratt-sverige": "eff5873d13e86352d30e638683e64fccdc5003264f63120f0f2ba3af98320d8e",
+      "artifact:forarbete/sou/2025-72": "59e44215ab2cc8c10f2c3c2408927e6a5e205b6be9de35dbe57bb8e7227b8b53"
+    }
+  },
+  "overall": {
+    "sentiment": -0.6,
+    "quote": "Funktionsrätt Sverige anser att utredningen misslyckas med sitt syfte att främja en likvärdig resursfördelning, och i stället riskerar förslagen att förstärka befintliga strukturella ojämlikheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.1.5",
+      "sentiment": 1.0,
+      "quote": "Funktionsrätt Sverige delar utredningens bedömning att en beräkningsmodell med en norm för anpassade grundskolan inte bör tas fram.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.2.5",
+      "sentiment": 0.5,
+      "quote": "Vi är dock kritiska till att man inför nya slags skolor, i det här fallet en skola som är en variant av särskilt stöd, utan att det ställs krav på den ordinarie skolan att säkerställa tillgängligheten för alla barn och elever, vilka måste vara där enligt skolplikten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": -0.5,
+      "quote": "Särlösningar i finansieringen riskerar att fördjupa splittringar i systemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 0.8,
+      "quote": "Att införa en bindande skolpengsnorm utan att först säkerställa att resurserna fördelas utifrån barns och elevers faktiska behov riskerar att förstärka befintliga strukturella brister och försvåra en rättighetsbaserad styrning av skolväsendet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5.2",
+      "sentiment": -1.0,
+      "quote": "Att införa villkorade belopp och återkrav inom ett redan splittrat system, där resursskolor täcker upp för andra skolors misslyckande, riskerar att ytterligare försvåra transparens, rättssäkerhet och långsiktig planering, och förstärker en utveckling där särlösningar ersätter strukturella förbättringar.",
+      "quote_type": "grund"
+    }
+  ]
+}

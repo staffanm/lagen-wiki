@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/ostersunds-kommun": "8eec89a514e8b9657f3ecbb5e1987876ec3694f3eecc020bb1448959275f0bba",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Att flyget har en avgörande betydelse för tillgängligheten och näringslivsutvecklingen i såväl Östersunds kommun som i övriga länet är uppenbart.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec322",
+      "sentiment": 0.5,
+      "quote": "så att en upphandlad trafik kan komma till stånd i det fall den kommersiella trafiken skulle upphöra eller kraftigt reduceras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": 0.2,
+      "quote": "enbart anslagsfinansiering av åtgärderna kommer att trycka undan andra nödvändiga investeringar i övriga delen av landet, däribland i region Jämtland- Härjedalen samt åtgärder för att restidsmålet på 4 h till Stockholm via Atlantbanan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec314",
+      "sentiment": -0.5,
+      "quote": "Utredningen lämnar dock inga förslag när det gäller genomförande av dessa viktiga åtgärder.",
+      "quote_type": "grund"
+    }
+  ]
+}

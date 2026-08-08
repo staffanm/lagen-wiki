@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:3/journalistforbundet": "ebc2e4b6cc76153b1b2df1d83514e60c61421b6f6b3776794e2126dd0e6a75a8",
+      "artifact:forarbete/sou/2026-3": "a57602efa93a3a568c65f2616a90564109efac9844cf6fcbd52ded0f202140f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt ansluter dig Journalistförbundet till de synpunkter som TCO lämnar i sitt remissvar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec488",
+      "sentiment": -0.2,
+      "quote": "Det framgår inte av förslaget huruvida sekretess gäller beslut i de aktuella ärendena.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec488",
+      "sentiment": 1.0,
+      "quote": "Förslaget innebär vidare att den tystnadsplikt som följer av den nya sekretessbestämmelsen inte ha r företräde framför rätten att meddela och offentliggöra uppgifter.",
+      "quote_type": "grund"
+    }
+  ]
+}

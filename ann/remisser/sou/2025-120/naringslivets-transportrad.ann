@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/naringslivets-transportrad": "fdd265ffe1ef7667fbe902f43b0e5f0cc6a94f0bcbe63e61b03dd3c274395ea6",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I detta läge är alla åtgärder för att öka effektiviteten i byggande och underhåll av infrastruktur ytterst angelägna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.2,
+      "quote": "vid val av objekt bör sådana som ökar näringslivets konkurrenskraft prioriteras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.3",
+      "sentiment": 0.2,
+      "quote": "så att effektivitetsvinster som uppstår till följd av innovation och förbättringar även kommer Trafikverkets egen verksamhet till nytta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.6",
+      "sentiment": 0.2,
+      "quote": "tillgänglighetsbaserade ersättningsmodeller är att föredra.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.4.2",
+      "sentiment": -0.2,
+      "quote": "Om avgifter bedöms nödvändiga kan det accepteras om det finns avgiftsfria alternativ och om den avgiftsbelagda infrastrukturen ger betydande tids- eller drivmedelsbesparingar för näringslivet, tex genom att näringslivet kan lasta mer på varje transport.",
+      "quote_type": "grund"
+    }
+  ]
+}

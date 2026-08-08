@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:20/skatteverket-": "93bc4dceaf2969331aafc2510938772e3a6ca8c47354dd794f525bc3a59d88cc",
+      "artifact:forarbete/sou/2026-20": "4bbbaf1255ebc0c511f2d6d339133f0df3731fa34b68ae49c40ee83603563261"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket har inga synpunkter på att förslagen genomförs.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1.1",
+      "sentiment": 0.2,
+      "quote": "Om förslaget genomförs behöver Skatteverket dessa uppgifter för att på ett korrekt sätt först kunna bestämma om det ska beräknas ett skattesänkningsbidrag eller en skattebromsavgift, och sedan om det är aktuellt, storleken på denna.",
+      "quote_type": "grund"
+    }
+  ]
+}

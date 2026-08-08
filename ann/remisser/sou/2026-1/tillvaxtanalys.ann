@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:1/tillvaxtanalys": "844606e0e4a95bf1512157ed22712cbb291ab8993c8bf682d708103ef328515e",
+      "artifact:forarbete/sou/2026-1": "800122abdf1a75716ad0b7e15b8b8e168d5039afbac180a5b4abf6bbfb8f9388"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Den vetenskapliga litteraturen ger övervägande evidens för att statligt stöd i allmänhet och skatteincitament i synnerhet ger stor effekt på företagens FoU-verksamhet och att de samhällsekonomiska vinsterna är betydande trots stora dödviktseffekter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.7.3",
+      "sentiment": 0.8,
+      "quote": "Kostnader för FoU-personal dominerar FoU-utgifterna, har stark koppling till faktisk FoU-verksamhet och är lättare att kontrollera.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.5,
+      "quote": "Förslaget skulle dock missgynna små, nystartade företag och hög-risk FoU som enligt forskningen svarar för en stor del av den radikala innovationen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 1.0,
+      "quote": "En återbetalningsbar skattereduktion kommer alla FoUföretag till del och tenderar därför att skapa större additionalitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Det är angeläget att redan inför implementeringen planera för utvärderbarhet, så att insatsens effekter kan analyseras på ett tillförlitligt sätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

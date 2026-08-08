@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:1/tco": "7b83df28b75ee6f30c512c7e12e495c34c92f56f0c5803febaae3faa6e95de79",
+      "artifact:forarbete/sou/2026-1": "800122abdf1a75716ad0b7e15b8b8e168d5039afbac180a5b4abf6bbfb8f9388"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "TCO anser vidare att ytterligare åtta miljarder kronor i skattenedsättning är mycket omfattande.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": -1.0,
+      "quote": "En sådan lösning innebär att nya, innovativa och växande företag inte omfattas av skattenedsättningen förrän de med tiden har genererat överskott som gör att sparade avdrag kan användas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": -1.0,
+      "quote": "TCO avstyrker därför alternativ 1, såväl förslaget i avsnitt 6.1 som avsnitt 6.2.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": 0.5,
+      "quote": "En sådan lösning innebär att även företag som inte genererat överskott omedelbart får del av skatteförmånen.",
+      "quote_type": "grund"
+    }
+  ]
+}

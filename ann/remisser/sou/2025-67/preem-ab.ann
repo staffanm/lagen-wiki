@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/preem-ab": "ba690f6d0f023f660d9ba8538f84cc47d1d12bd1052d6b112cd0328fc83b06cf",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Preem instämmer i många av rapportens slutsatser men önskar lämna synpunkter kring avsnitten 8.6 och 8.7 som rör flygbränsle.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": -0.2,
+      "quote": "En sådan kommission riskerar att bli ineffektiv eftersom affärskritisk information inte kan delas mellan konkurrenter, vilket begränsar möjligheten till verkligt samarbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7",
+      "sentiment": 1.0,
+      "quote": "Vi instämmer i utredningens förslag om att ge Sjöfartsverket tillräckliga förutsättningar för att bedriva isbrytning vid Gävle hamn för att hålla farlederna för flygbränsle till Arlanda öppna.",
+      "quote_type": "grund"
+    }
+  ]
+}

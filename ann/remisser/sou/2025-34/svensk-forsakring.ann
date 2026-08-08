@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:34/svensk-forsakring": "58583276eb1d37c1e3c20a60d59155b3c55f98a3dc02e2b7cfdb7a006188138d",
+      "artifact:forarbete/sou/2025-34": "9ee1bd0a602bd9cd0e75ac89a99c8041d61f181ca21a2fa200f6a8440ed23f10"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi är mot denna bakgrund positiva till grundtanken att direktivets reglering ska vara subsidiär till sektorspecifik reglering när sådan finns och att endast den sektorspecifika regleringen då ska tillämpas oavsett att det kan finnas skillnader på detaljnivå.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 0.2,
+      "quote": "Ett försäkringsbolag måste därför ha möjlighet att kontrollera att den som frånträder ett försäkringsavtal verkligen har rätt att göra det, t.ex. genom krav på inloggning eller dylikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.1",
+      "sentiment": 0.5,
+      "quote": "Svensk Försäkring vill understryka att det är mycket betydelsefullt att denna skiljelinje mellan individuell och kollektiv försäkring upprätthålls även fortsättningsvis.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec114",
+      "sentiment": -0.2,
+      "quote": "Utformningen av undantaget i distansavtalslagen gör det lätt att förbise undantaget i försäkringsdistributionslagen.",
+      "quote_type": "grund"
+    }
+  ]
+}

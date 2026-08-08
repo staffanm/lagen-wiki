@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:119/domstolsverket": "8a7523b0be05ecb8165d3486ea3f8d0caca8b69f938659c82294a6ed39275d80",
+      "artifact:forarbete/sou/2025-119": "4ffe1b3a3b8b7263d217456e1fadfaf32122d48eff13747b01cb521abb874202"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Utan en sådan helhetsbedömning föreligger risk för att domstolarna inte kan upprätthålla förväntad effektivitet och kvalitet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec392",
+      "sentiment": -0.5,
+      "quote": "Domstolsverket gör bedömningen att kostnadsökningen är för stor för att rymmas inom ordinarie anslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec395",
+      "sentiment": 1.0,
+      "quote": "Domstolsverket delar utredningens bedömning av kostnadsökningen avseende rättsliga biträden (s. 452 i betänkandet) samt uppfattningen om att anslaget angående kostnaderna för dem bör öka i motsvarande mån.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/lulea-kommun": "c29abe2de8fa94f9e75fa1aaf15d8b1607b35f80f4b3ef8a872b3ec5fd152895",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Vi avstyrker förslaget i remissen och anser att detta inte kommer att gynna verksamheterna i vår region samt att förslaget kommer att leda till säkerheten kring livsmedel i vår region kommer att försämras.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.6",
+      "sentiment": -1.0,
+      "quote": "Med fler objekt och större geografiska avstånd anser vi att risken är stor att man får sämre kontakt med verksamhetsutövarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.1.6",
+      "sentiment": -0.5,
+      "quote": "Dessa inspektörer blir inte alls delaktiga på samma sätt utan blir isolerade på sin arbetsplats och med sina objekt, dessutom utan den omgivande organisation (kommunen) som ensamma inspektörer idag har",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a21",
+      "sentiment": 0.2,
+      "quote": "Kommunen ser positivt på att finansieringsmodellen ses över i syfte att minska den administrativa bördan för företag, särskilt små aktörer.",
+      "quote_type": "grund"
+    }
+  ]
+}

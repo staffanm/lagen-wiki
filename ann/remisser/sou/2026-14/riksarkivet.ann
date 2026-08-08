@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:14/riksarkivet": "f782d8e76af422b32d42acebcdcf865f1133d066778d42a7aa8543695892b857",
+      "artifact:forarbete/sou/2026-14": "0ec452691a6f7f3cd823876b4b1f91ae14c1657a6b5c2d54bf4fc5f1eead963a"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Riksarkivet har inga invändningar mot utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec54",
+      "sentiment": 1.0,
+      "quote": "För att användningen ska vara möjlig är det viktigt att utredningen har tydliggjort att den aktuella användningen betraktas som en statlig garantibeteckning som på statens uppdrag anbringas på produkter, inte som användning i näringsverksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 1.0,
+      "quote": "I och med att kontrollstämpling alltid kräver ackreditering utförd av svenskt ackrediteringsorgan, förblir staten den faktiska användaren av den officiella beteckningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

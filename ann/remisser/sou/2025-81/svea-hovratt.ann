@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:81/svea-hovratt": "5af333dbcbaa2f73ba7e473f7bc82298e4b84f533e323b4f15d0204ba3febd10",
+      "artifact:forarbete/sou/2025-81": "18dbd0bb1ff96f8c252ba4781ad24b1dde501603dec2d1055b6aac74edf95632"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Hovrätten har inga principiella synpunkter på de förslag som förs fram.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.7",
+      "sentiment": -0.5,
+      "quote": "Att inte reglera vilka befogenheter som gäller i situationen innan Kronofogdemyndighetens biträdesbegäran öppnar för att det av misstag sker överträdelser av den enskildes rättigheter, vilket även innefattar ett potentiellt tjänstefelsansvar för enskilda tjänstemän.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 1.0,
+      "quote": "Hovrätten tillstyrker att bestämmelsen om rekonventionstalan utgår.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

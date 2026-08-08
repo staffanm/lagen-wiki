@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:4/sameskolstyrelsen": "40c8299f8298d91ac0e27f8aaa2ffc6727c2c54882795b0fb7db0c76f7800249",
+      "artifact:forarbete/sou/2026-4": "9f57f06578d5cdc186cd459541a865ab36f8d5860a42dcd4927f2de6d9840fd8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sameskolstyrelsen har några kommentarer till remissen",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.1.2",
+      "sentiment": -0.2,
+      "quote": "Sameskolstyrelsen anser att det bör finnas några ramar i denna bestämmelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1.4",
+      "sentiment": -0.2,
+      "quote": "Sameskolstyrelsen tycker att organisationen behöver förankras med skolchef eftersom att det påverkar budgetarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1.7",
+      "sentiment": -0.5,
+      "quote": "Sameskolstyrelsen saknar förskollärarexamen som behörig att gå rektorsutbildning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.1",
+      "sentiment": 0.5,
+      "quote": "Sameskolstyrelsen vill att även statliga myndigheter ska omfattas så att vi inte hamnar utanför eftersom att vi inte är en kommunal skola.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.4",
+      "sentiment": 0.8,
+      "quote": "Sameskolstyrelsen tycker att det är mycket viktigt.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

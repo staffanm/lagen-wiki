@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:14/tullverket": "c5c23db9b379f282b7b93c56fd652e7a15e19862c060f8b3271e46c7755bdd02",
+      "artifact:forarbete/sou/2026-14": "0ec452691a6f7f3cd823876b4b1f91ae14c1657a6b5c2d54bf4fc5f1eead963a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Tullverket är positiv till förslagen i sak men vill särskilt uppmärksamma följande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec15",
+      "sentiment": 0.2,
+      "quote": "Om Swedacs utökade tillsyn leder till ett behov av samverkan med Tullverket kan det föranleda en ökad arbetsbörda med till viss del nya arbetsuppgifter för Tullverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec17",
+      "sentiment": 0.2,
+      "quote": "För det fall Swedac kommer företa dolda testköp avseende import till Sverige från ett tredjeland behöver förslagets förenlighet med de tullrättsliga formaliteterna analyseras i den fortsatta lagstiftningsprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1.1",
+      "sentiment": -0.2,
+      "quote": "Tullverket vill med anledningen av vald skrivning för tydlighetens skull framföra att den tullmyndighet som åsyftas i avsnittet inte är Tullverket utan korrekt benämning bör vara den finska tullmyndigheten Tulli.",
+      "quote_type": "grund"
+    }
+  ]
+}

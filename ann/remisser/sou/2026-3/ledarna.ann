@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:3/ledarna": "bbeb1e0143fb1f9fe595141373524f911bf556c5a72a2bc5734212599b5b2389",
+      "artifact:forarbete/sou/2026-3": "a57602efa93a3a568c65f2616a90564109efac9844cf6fcbd52ded0f202140f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Ledarna anser att det är en genomarbetad utredning som för ett väl utvecklat resonemang.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.2.2",
+      "sentiment": -0.5,
+      "quote": "Ledarna anser att regelsystemet blivit tydligare och mer enhetligt om den nya lagen i tillämpliga delar också hänvisade till och synkroniserades med LAS.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "Det kommer med stor sannolikhet betyda en betydligt större administrativ börda då de åläggs att dokumentera och förklara algoritmiska system, hantera eventuella invändningar mot automatiserade beslut samt säkerställa efterlevnad av dataskydds- och rapporteringskrav.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.10",
+      "sentiment": -1.0,
+      "quote": "Det är därför orimligt att chefer kan bli föremål för individuellt straffansvar avseende arbetsmiljöbrott då de själva inte kan påverka de algoritmer som styr.",
+      "quote_type": "grund"
+    }
+  ]
+}

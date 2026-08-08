@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:84/domstolsverket": "dddf3941b31ef610b2ea2efc980016e252b4f6f30348cafe8e5ae156a24998df",
+      "artifact:forarbete/sou/2025-84": "316cc38993c62773077c8f90dc994921ac81d26564be89872d71e339c7a69a0e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Domstolsverket kan dock utifrån presenterat underlag inte dela utredningens bedömning att kostnaderna torde bli försumbara.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.2.2",
+      "sentiment": -0.5,
+      "quote": "Domstolsverket anser att beräkningen i stället bör utgå från styckkostnaden för LVU-mål, vilken är 31 919 kr.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.9.5",
+      "sentiment": -0.2,
+      "quote": "Vidare saknas en analys av de tillkommande kostnaderna för offentligt biträde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": -0.2,
+      "quote": "Inte heller de ekonomiska konsekvenserna av överklagandena av tillståndsbesluten behandlas i utredningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

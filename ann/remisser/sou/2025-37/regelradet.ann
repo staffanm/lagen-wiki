@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:37/regelradet": "c5a31d36c745b6e2dc63aa26d0da22e395b7d4ad2d931bd2b47e0dc168c52795",
+      "artifact:forarbete/sou/2025-37": "f2caa386251f276824b88c0c043ef741f67175b8f957b93142f12fc4f4448b10"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Regelrådet bedömer att konsekvensutredningen uppfyller kraven i 6 och 7 §§ förordningen (2007:1244) om konsekvensutredning vid regelgivning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.1",
+      "sentiment": -0.5,
+      "quote": "Regelrådet ifrågasätter att redovisning inte skulle vara relevant beträffande övriga förslag som utredningen lägger fram och anser mot den bakgrunden att det hade varit önskvärt med en mer utförlig redogörelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": -0.5,
+      "quote": "Mot bakgrund av de omfattande konsekvenser som vissa av utredningens förslag kommer att få för delar av friskolesektorn är denna avsaknad av konkretion, enligt Regelrådets uppfattning, en uppenbar brist.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": -0.5,
+      "quote": "Däremot saknas information om storleken på berörda företag, vilket Regelrådet ser som en uppenbar brist.",
+      "quote_type": "grund"
+    }
+  ]
+}

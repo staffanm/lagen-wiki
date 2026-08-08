@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/goteborg-kommun": "eb8af87dee3a32173f9c883a08b1007f64c2c0dd682178318408df109580789e",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I förhållande till stadens erfarenheter av Covid-19 pandemin finns en hög grad av igenkänning i de beskrivningar och bedömningar som görs i utredningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.3",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad delar utredningens bedömning om att det är ansvarsprincipen som ska råda och att det inte behövs en särskild handlingsprincip för smiddskyddsåtgärder.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.9.5",
+      "sentiment": 0.5,
+      "quote": "Det är viktigt att utvecklingen sker i samverkan med bland annat kommuner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.5,
+      "quote": "En tydlig, konkret och förutsägbar lagstiftning minskar osäkerheten för kommuner, företag och andra berörda aktörer i krissituationer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec53",
+      "sentiment": -0.2,
+      "quote": "Det är inte osannolikt att ett beslut om förbud måste fattas med stor skyndsamhet vilket inte ger utrymme för den normala beslutsprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.5,
+      "quote": "Göteborgs Stad anser att det är viktigt att strategiarbetet sker i bred samverkan med berörda aktörer där bland annat kommuner ingår.",
+      "quote_type": "grund"
+    }
+  ]
+}

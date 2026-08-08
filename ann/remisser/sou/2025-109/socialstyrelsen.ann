@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:109/socialstyrelsen": "9e6788055a9d952f6f4508d299f648b29ccf97df82f968d12fa27cd59342c9a5",
+      "artifact:forarbete/sou/2025-109": "98c6ec215c748b185b72329d97ae9b9b49e64e1ef1e2e530c207deb50c4d88d5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Barn är enligt barnkonventionen särskilt skyddsvärda och en provokativ handling mot ett barn riskerar att inte alltid vara i enlighet med barnets bästa, även om syftet är att på längre sikt bryta ett kriminellt beteende.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec172",
+      "sentiment": 0.5,
+      "quote": "Myndigheten instämmer i de skäl som utredningen framför som stöd för att det bör gälla en restriktiv användning av särskilda provokativa åtgärder mot barn, så som att det finns en lång och brett förankrad tradition i samhället av att särbehandla barn, samt att barn skiljer sig från vuxna när det gäller fysisk och psykisk utveckling och känslomässiga behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec184",
+      "sentiment": -0.5,
+      "quote": "Socialstyrelsen anser att det saknas en särskild analys av förslagens konsekvenser för barn och unga med funktionsnedsättningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

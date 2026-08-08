@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:117/kammarratten-i-stockholm": "231cb0140353bd33ee2c5bf51352d09fd56df410a29a79df12817c16a0da6f71",
+      "artifact:forarbete/sou/2025-117": "e9f7c3ab9cf49724fafdf32b1ac759e11d234a9fee7d593cc7ebb686a52a59d9"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Kammarrätten lämnar följande synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.15.3",
+      "sentiment": -0.2,
+      "quote": "Dessa föregående beslut får emellertid överklagas och det anges inte om det krävs att de har fått laga kraft innan Finansinspektionen får besluta om tvångslikvidation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec31",
+      "sentiment": -0.2,
+      "quote": "Särskilt när det gäller rekvisiten att fonden över tid ska ägas av ett betydande antal icke-professionella investerare efterlyser kammarrätten dock ytterligare vägledning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec33",
+      "sentiment": -0.5,
+      "quote": "Domstolarna måste därför garanteras nödvändiga medel för att kunna hantera den ökade regleringen och förväntad ökad måltillströmning på finansmarknadsområdet.",
+      "quote_type": "grund"
+    }
+  ]
+}

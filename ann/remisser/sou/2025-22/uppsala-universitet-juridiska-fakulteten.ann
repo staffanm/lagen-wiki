@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/uppsala-universitet-juridiska-fakulteten": "b23db33b09b070b635df17495ac11cb94d924d7a506c4fd30cd9d8166dbf77c8",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Juridiska fakultetsnämnden tillstyrker förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6.3",
+      "sentiment": 0.5,
+      "quote": "För att en tillämpning av proportionalitetsprincipen blir tillräckligt rigoröst och undvika att konkurrensverket vidtar andra konkurrensfrämjande åtgärder som inte är kopplade till de konkurrensproblem som identifierats bör formuleringen ändras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 1.0,
+      "quote": "Att det har funnits möjlighet för att koncentrationer som inte uppnår omsättningströsklar i konkurrensrättslig lagstiftning resulterar i hämmandet av konkurrensen är ett välkänt problem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket har förlorat mål i domstolarna, inte sällan pga. att definitionen av den relevanta marknaden inte varit korrekt.",
+      "quote_type": "grund"
+    }
+  ]
+}

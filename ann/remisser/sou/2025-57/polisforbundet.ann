@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:57/polisforbundet": "de294617d2e07eee734aefe931d2da886c663486a4c898c1220aab09ac60cdd0",
+      "artifact:forarbete/sou/2025-57": "8cf9bb514d6bbb185bf9bc093699cb8e4192e8a8f7352a55e97006d808786230"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Polisförbundet tillstyrker utredningens förslag och vill särskilt framhålla följande",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.5,
+      "quote": "Förslaget om en polisiär beredskapsresurs bestående av faktisk polisiär kompetens i form av polisstudenter och tidigare poliser är väl avvägt. Den framtida numerären på reservpoliser behöver dock nogsamt följas upp utifrån Polismyndighetens behov i förhållande till omvärldsläget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.13",
+      "sentiment": 1.0,
+      "quote": "Även utredningens förslag om att polisers folkrättsliga ställning i krig ska vara civil är väl avvägt i sin hänsyn till bland annat allmänhetens säkerhet, civilsamhällets behov, Sveriges folkrättsliga förpliktelser samt poliskårens förutsättningar att på bästa sätt fortsätta att verka i uppdraget.",
+      "quote_type": "grund"
+    }
+  ]
+}

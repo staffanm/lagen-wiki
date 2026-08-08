@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:53/migrationsverket": "9b6d667f5d1594f71041d83c07c027dedcaf9f19951e53705d3667532f5eebb2",
+      "artifact:forarbete/sou/2025-53": "1b5d2ced0349cbd7f9e81a7f1c3e41751352e4c3e89c351a85f75a5c2819aa25"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Migrationsverket tillstyrker remissen i de delar som rör Migrationsverket med följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.6",
+      "sentiment": -0.5,
+      "quote": "Konsekvensen av förslaget blir att arbetskraftsinvandrare i många yrkeskategorier, kommer att få den längre kvalificeringstiden.",
+      "quote_type": "grund"
+    }
+  ]
+}

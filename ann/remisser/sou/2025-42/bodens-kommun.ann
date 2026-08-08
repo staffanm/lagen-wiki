@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/bodens-kommun": "08bee5c2853a7e29f62683233407dbd6c70216526357b43e655c50a05aa9a9c4",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Utan tillförsel av ekonomiska medel, centralt stöd och kompetens kan förslaget leda till en försämring, snarare än en förbättring, av relevanta åtgärder på säkerhetskänslig verksamhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.2",
+      "sentiment": -0.2,
+      "quote": "Risken med en utökning av befogenheter (krav på utökad anmälningsplikt) för tillsynsmyndighet är att tidigare bedömningar blir föremål för ingripande på grund av en ”central stress” att skydda svenska intressen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": -0.5,
+      "quote": "Konsekvensen av detta kan bli en ökad distansiering mellan tillsynsmyndighet och verksamhetsutövaren, då eventuella dialoger om stöd kan medföra fler kontroller och tvångsåtgärder av ingripande karaktär.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 0.5,
+      "quote": "Däremot uppstår ett par utmaningar med detta, då bristen på tillgång till informationen inte ökar en verksamhetsutövares förmåga att ta del av de underlag som stödjer genomförandet av en säkerhetsprövning.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/region-ostergotland": "33349375fabc81531904c5207f973c8797e5d6b69394572d2de2174c45dfd6ed",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Östergötland välkomnar delbetänkandet och dess övergripande ställningstaganden och bedömningar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.2,
+      "quote": "Region Östergötland tillstyrker förslag till förändring i Lag (2010: 630) om regionalt utvecklingsansvar även om regionens bedömning är att detta inte ändrar något i sak.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec76",
+      "sentiment": 1.0,
+      "quote": "Det regionala ägarskapet är en förutsättning för ett demokratiskt och regionalt förankrat genomförande av politiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 1.0,
+      "quote": "Region Östergötland har allt sedan processen med att ta fram den nu gällande nationella strategin (Skr. 2020/21:133) betonat vikten av ett geografiskt helhetsperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec149",
+      "sentiment": -0.2,
+      "quote": "Det handlar mer om en kultur, framför allt i myndighetsvärlden, där sektorsperspektivet ofta är rådande och kanske bristande resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec154",
+      "sentiment": -0.5,
+      "quote": "Region Östergötlands bestämda uppfattning är att detta samarbete i allt väsentligt fungerar väl.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": 0.5,
+      "quote": "Detta skulle vara ett effektivt sätt att säkerställa en rumslig planering i alla län, samtidigt som möjligheten till regionplan i enligt med plan- och bygglagen kvarstår för de län där behovet av en mer explicit mark- och vattenanvändningsplanering finns på regional nivå.",
+      "quote_type": "grund"
+    }
+  ]
+}

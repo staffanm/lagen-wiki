@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/vattenfall": "552dd10ae5f772db99101b502c51dae141ac1ffcdf936dc65f6a074557e0e44b",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Vattenfall har i grunden en restriktiv hållning när det gäller tillträde till verksamhetens anläggningar, men ser samtidigt positivt på ett gemensamt EU‑perspektiv på området och välkomnar generella förtydliganden av gällande regelverk i syfte att förenkla processer och skapa ökad förutsebarhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9-2",
+      "sentiment": -0.5,
+      "quote": "Vattenfalls samlade bedömning är därför att samförläggning nära elnätsverksamhetens anläggningar, framför allt regionnätsanläggningar, både i mark och luft, innebär betydande risker för leveranssäkerheten, försvårar underhållsarbeten och leder till ökade livscykelkostnader för bolagets elnätsanläggningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": -0.2,
+      "quote": "Ur Vattenfall Eldistributions perspektiv innebär detta en ökad administrativ börda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18",
+      "sentiment": 0.2,
+      "quote": "Vattenfall föreslår därför att eventuella uthyrningsavtal villkoras så att de upphör i samband med avveckling av aktuell byggnad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.2,
+      "quote": "Som kontext kan nämnas att information om Vattenfall Eldistributions passiva infrastruktur omfattas av minst en säkerhetsklass där extern tillgång till dessa data ska förhindras.",
+      "quote_type": "grund"
+    }
+  ]
+}

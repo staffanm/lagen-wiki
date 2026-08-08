@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:37/boras-kommun": "7d0de7c04c6db6836912200e5a2ae0ba1f5579fb44ea936f298a13b671391121",
+      "artifact:forarbete/sou/2025-37": "f2caa386251f276824b88c0c043ef741f67175b8f957b93142f12fc4f4448b10"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Borås Stad tycker att de olika förslagen i utredningen innebär förbättringar men tillsynen i sig av fristående förskolor är alltför resurskrävande för en kommun att genomföra och föreslår därför att godkännande och ägar- och ledningsprövningen av fristående förskolor borde ingå i Skolinspektionens ansvar, på samma sätt som fristående skolor gör.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "Att undersöka ägarförhållanden som sträcker sig utanför Sveriges gränser kräver stora resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.2,
+      "quote": "i den kommunala tillsynen är tillsynsmyndigheten kommunal och då borde rimligtvis eventuella avgifter tillfalla kommunen.",
+      "quote_type": "grund"
+    }
+  ]
+}

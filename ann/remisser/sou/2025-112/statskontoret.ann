@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:112/statskontoret": "791e8642576a7c73fc50fb9fdf0f458fb81da3f125e7f72cc999519a2ff3f2fb",
+      "artifact:forarbete/sou/2025-112": "327d2d12c90657abd95e45e3d5371180d3dc968a3250c1269d1486751bc6c593"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammanfattningsvis bedömer Statskontoret att ett användande av Arachne och Edes kan stärka skyddet av EU‑medel, under förutsättning av: tydlig styrning, gemensamma arbetssätt, tillräcklig kompetens, hög datakvalitet samt en rättssäker och proportionerlig tillämpning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "En gemensam rättslig ram redan under den frivilliga fasen innebär att berörda myndigheter kan etablera ändamålsenliga arbetssätt, bygga upp nödvändig kompetens och anpassa sina IT-miljöer under ordnade former, innan uppgiftslämnandet till Arachne blir obligatoriskt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": 0.5,
+      "quote": "Statskontoret delar utredningens bedömning att ytterligare utredning behövs och att berörda myndigheter behöver ges ändamålsenliga förutsättningar för att arbeta med Arachne men även Edes.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

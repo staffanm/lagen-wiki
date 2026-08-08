@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/lansstyrelsen-i-gavleborgs-lan": "adce93f1737850424fcc648308c1c31c0ad8b60011b1693157c33ebc4654f248",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen Gävleborg (Länsstyrelsen) tillstyrker förslagen i delbetänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": -0.2,
+      "quote": "Ett problem är att det kan bli många olika listor, eftersom länsstyrelsen behöver skapa en ny lista för varje kombination av namn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.7.1",
+      "sentiment": -0.5,
+      "quote": "Exempelvis innebär avsaknaden av partivalsedlar med partisymbol en försämring ur perspektivet kognitiv tillgänglighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

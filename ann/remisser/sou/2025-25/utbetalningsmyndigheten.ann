@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/utbetalningsmyndigheten": "3547ebbd1f82549f6ffefd1e1d5eea966ac493c9aab0eb400c36c7b8df89242e",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.6,
+    "quote": "Utbetalningsmyndigheten instämmer i förslagen, även om bedömningen är att förslagen inte explicit berör myndighetens verksamhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.11",
+      "sentiment": 0.9,
+      "quote": "myndigheten sannolikt kan bidra till det utvecklade kontrollarbetet, med hjälp av de underrättelser som skickas till utbetalande myndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.5",
+      "sentiment": -0.2,
+      "quote": "De legala förutsättningarna och resurserna för att bidra till samverkan behöver dock utredas vidare, innan det är möjligt att ta ställning till ett utökat samarbete.",
+      "quote_type": "grund"
+    }
+  ]
+}

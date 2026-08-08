@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:83/lunds-universitet-juridiska-fakultetsstyrelsen": "5bcdb7572dbcd44952e019f595438da056c8bed395f5079c5ad714acc11bdfe0",
+      "artifact:forarbete/sou/2025-83": "fe22b84e7351f785a71dbd8034fd7c683f3f2c341350b360482faa5784f9ef16"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Fakultetsstyrelsen har inget att invända mot betänkandets slutsats att det saknas behov av att införa ett nationellt förbud mot tiggeri.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.3",
+      "sentiment": 1.0,
+      "quote": "förslaget skulle riskera att motverka Sveriges internationella åtaganden i fråga om arbetet mot människohandel",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.2",
+      "sentiment": -1.0,
+      "quote": "Den föreslagna kriminaliseringen är vag och motsägelsefull vilket innebär allvarliga problem i relation till den straffrättsliga legalitetsprincipen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec154",
+      "sentiment": -0.5,
+      "quote": "utredningen inte har identifierat ett godtagbart skyddsintresse som inte redan är skyddat genom andra kriminaliseringar",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec178",
+      "sentiment": -0.5,
+      "quote": "den valda lagtekniska lösningen att hänvisa till allmän plats är olämplig med tanke på Europadomstolens praxis",
+      "quote_type": "grund"
+    }
+  ]
+}

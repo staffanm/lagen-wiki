@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:31/lansstyrelsen-i-orebros-lan": "c8fb0edd76e82858a60f83f853dff88141e568f575ac4a1743ba9cbf68b198b9",
+      "artifact:forarbete/sou/2025-31": "e7c4dbe9b042c6e1d10f651782855418bac084c351c484930a03ffa7ab2a06bd"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Länsstyrelsen anser att det saknas en helhetsbild av de förändringar som sker inom området då det pågår ett flertal parallella utredningar, vilket det hänvisas till i utredningen, som vars utgång påverkar varandra.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec113",
+      "sentiment": -1.0,
+      "quote": "Trots att ensamkommande barn befinner sig i en extra utsatt situation föreslår utredningen ingen särreglering som ger ensamkommande barn utökade rättigheter när det gäller tillgången till offentligt bekostade biträden, utöver den föreslagna timmen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsens arbete visar att digital kompetens hos nyanlända ofta är svag och att stöd krävs för att genomföra digitala ansökningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker att i 20 § första stycket lagen om svenskt medborgarskap (2001:82) införs en möjlighet till förvärv av svenskt medborgarskap för de utlänningar som har beviljats ett tidsbegränsat uppehållstillstånd på någon av de grunder som omfattas av utmönstringen av permanent uppehållstillstånd.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.3.7",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser att utredningens barnkonsekvensanalys är ofullständig då den inte på ett fullgott sätt redogör för konsekvenser för barns rättigheter och dessutom saknar en proportionalitetsbedömning i relation till andra intressen.",
+      "quote_type": "grund"
+    }
+  ]
+}

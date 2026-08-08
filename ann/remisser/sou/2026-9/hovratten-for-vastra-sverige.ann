@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:9/hovratten-for-vastra-sverige": "7e83b65c5818f56fee2deffd2e4e121512763b475c43aacaf7569b0a4c5d1de5",
+      "artifact:forarbete/sou/2026-9": "6e2fe757deba6487afb4900466860dd25cfab83203ab6a46a85c3d959c713359"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Hovrätten har granskat betänkandet med utgångspunkt i de aspekter som de allmänna domstolarna har att beakta och lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.6.2",
+      "sentiment": -0.2,
+      "quote": "Enligt hovrätten saknas dock i det remitterade betänkandet en fullgod analys av barnets bästa i sammanhanget och ett klargörande av hur ett tillgodoseende av ett barns intressen ska gå till i varje enskilt fall (jfr 1 kap. 8 och 10 §§ utlänningslagen).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.2",
+      "sentiment": 0.2,
+      "quote": "Även om så är fallet skulle det ha varit välgörande om utredningen hade redovisat överväganden och riktlinjer för hur Migrationsverket ska göra sin bedömning om ett föreläggande, där adressaten är under 18 år, bör förenas med vite (jfr JO 1997/98 s. 60.)",
+      "quote_type": "grund"
+    }
+  ]
+}

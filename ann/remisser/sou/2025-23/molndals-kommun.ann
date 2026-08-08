@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:23/molndals-kommun": "7c068cd6a2d44ec2eb34b78fd8008ba418f5c8b7877cf22d88a69b296fdb117a",
+      "artifact:forarbete/sou/2025-23": "b2d48664048a020b85b19246d070df9c345abde883c4cd3cafb969951f44570e"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Nämnden för överförmyndare i samverkan har ingen invändning mot övriga förslag i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.4.1",
+      "sentiment": 1.0,
+      "quote": "tillstyrker att skyldigheten att enligt 16 kap. 11 § föräldrabalken sätta in medel som tillfaller omyndig person på ett spärrat bankkonto, också ska omfatta Kronofogdemyndigheten vid utbetalning av medel som influtit genom utmätning",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec363",
+      "sentiment": 1.0,
+      "quote": "tillstyrker att Kronofogdemyndigheten genom en ny reglering i 13 kap. 4 § utsökningsförordningen får en skyldighet att informera överförmyndaren om utbetalning till omyndigt barn, även när utbetalningen inte överstiger ett prisbasbelopp",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

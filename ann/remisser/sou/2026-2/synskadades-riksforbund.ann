@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/synskadades-riksforbund": "7aee0e7200488c105594b514acfe530cf34f13f3a10c3000a6ca0fec912515b2",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "SRF är kritiskt till att delbetänkandet inte innehåller konkreta förslag till tillgänglighetslösningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.3",
+      "sentiment": 0.5,
+      "quote": "Kommittén redovisar på ett klargörande sätt hur svårt det är att orientera sig i systemet, att genomföra en korrekt personröstning och att själv kontrollera att rösten blivit som avsett.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": -0.2,
+      "quote": "det i nuläget finns ett alltför stort utrymme för att rösta fel för att vi ska kunna ställa oss bakom gemensamma valsedlar som en fungerande lösning, om inte mer robusta och användartestade hjälpmedel tas fram.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": -1.0,
+      "quote": "SRF bedömer att neutrala valsedlar i praktiken skulle vara mycket svåra att använda för personer som är blinda och också problematiska för många med nedsatt syn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": -0.5,
+      "quote": "Detta förslag skulle försvåra för många av våra medlemmar att rösta på partier som saknar kandidatvalsedlar, eftersom blanka valsedlar behöver användas.",
+      "quote_type": "grund"
+    }
+  ]
+}

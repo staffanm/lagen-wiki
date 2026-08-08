@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:21/jamstalldhetsmyndigheten": "84d1b1aa2c96d931867dcbf362abe311037c2fd2d62d1e3be492309fee33f299",
+      "artifact:forarbete/sou/2026-21": "b4fe47551a2f6371e860be92a47a77882040d95cf28d07cac21ec3172d27ca53"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Jämställdhetsmyndigheten tillstyrker utredningens förslag men har vissa synpunkter som myndigheten anser bör beaktas i det fortsatta lagstiftningsarbetet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.7.2",
+      "sentiment": -0.5,
+      "quote": "Sammantaget uppfyller regeringens jämställdhetsanalys inte grundläggande krav på en jämställdhetsintegrerad konsekvensbedömning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.5",
+      "sentiment": -0.5,
+      "quote": "Utredningen saknar tillräckligt utvecklade resonemang kring hur barnkonventionens krav på individuell och motiverad bedömning ska säkerställas i praktiken, särskilt i situationer där barn påverkas indirekt genom föräldrars återkallade medborgarskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.7.1",
+      "sentiment": -0.2,
+      "quote": "Utredningen bör tydligare definiera vilka typer av brottslighet och beteenden som avses, för att undvika godtyckliga tillämpningar och säkerställa att brottsoffer – såsom personer utsatta för människohandel eller exploatering – inte riskerar att felaktigt omfattas.",
+      "quote_type": "grund"
+    }
+  ]
+}

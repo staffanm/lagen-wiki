@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/vardforbundet": "b6b4ecdca6f1042385d9afc560224ae318c11ad25d63af7e33d87a86904f8ba4",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vårdförbundet tillstyrker utredningens samtliga förslag vilka bedöms bidra till en ökad möjlighet att säkerställa tillgången till läkemedel vid bristsituationer, men vill samtidigt lyfta vissa aspekter som kan vara värda att överväga vidare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 1.0,
+      "quote": "Vårdförbundet ser positivt på att Läkemedelsverket ges ett tydligt mandat att agera vid läkemedelsbrist.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.5,
+      "quote": "Förbundet anser dock att systemstödet behöver vara på plats samtidigt som Läkemedelsverkets bemyndigande träder i kraft.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec71",
+      "sentiment": 1.0,
+      "quote": "Det är särskilt viktigt i situationer där sjuksköterskor och/eller barnmorskor ansvarar för patienter med komplexa behov, exempelvis inom hemsjukvård eller abortvård.",
+      "quote_type": "grund"
+    }
+  ]
+}

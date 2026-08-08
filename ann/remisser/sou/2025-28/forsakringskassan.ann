@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/forsakringskassan": "2a0c34e00ecb3bef6d3f557eff9532cca05143076ee2d21e8b930692d8227f6a",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försäkringskassan anser att de förslag som lämnas i betänkandet för att reformera det jämställdhetspolitiska arbetet mot våld är viktiga och ändamålsenliga.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 1.0,
+      "quote": "Försäkringskassan ser positivt på utredningens förslag att inrätta ett nationellt samordningscentrum mot våld vid Jämställdhetsmyndigheten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec156",
+      "sentiment": -0.5,
+      "quote": "Försäkringskassan vill här påtala att samordningsförbund inte är en samverkanspart och att sektorsövergripande samverkan därför inte kan ske med samordningsförbund.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.2",
+      "sentiment": 0.5,
+      "quote": "Försäkringskassan anser att det är positivt att det i betänkandet framhålls att myndigheten är en viktig aktör i arbetet för att öka upptäckten av våld genom att man ställer frågor om våld till sin målgrupp.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.1",
+      "sentiment": 0.8,
+      "quote": "Särskilda strategier riskerar att skapa stuprör i arbetet och försvaga kopplingen till de övriga våldsformerna och till den övriga jämställdhetspolitiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.2",
+      "sentiment": -0.2,
+      "quote": "Försäkringskassan noterar att beroende på vad detta innebär skulle det kunna föranleda ökade kostnader för myndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.2",
+      "sentiment": -0.5,
+      "quote": "Arbetsgivare har däremot, enligt arbetsmiljölagen (1977:1160), ansvar för arbetsmiljön och för att förebygga risker för ohälsa och olycksfall i arbetet.",
+      "quote_type": "grund"
+    }
+  ]
+}

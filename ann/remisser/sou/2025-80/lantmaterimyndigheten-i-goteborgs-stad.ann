@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/lantmaterimyndigheten-i-goteborgs-stad": "333a3ce5ddb884010ac65f68cc2707c2e52a9d94bd4d6ce5aeee0c09462f2ef9",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Lantmäterimyndigheten i Göteborgs Stad ser överlag positivt på utredningen men vill framföra vissa synpunkter och åskådliggöra vissa problem.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a16.6",
+      "sentiment": -0.5,
+      "quote": "Lantmäterimyndigheten ifrågasätter rättssäkerheten när parterna får möjlighet att själva träffa överenskommelse om gränsers läge.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": 0.2,
+      "quote": "Det finns en risk i kommuner som saknar kommunal lantmäterimyndighet eller erforderlig lantmäterikompetens, att man i ett för sent skede inser att fastighetsbestämning behöver göras och att planprocessen av denna anledning onödigt fördröjs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.3.2",
+      "sentiment": -0.5,
+      "quote": "Genom att låta gränser enbart få utgöra raka segment mellan två gränspunkter innebär det att en mängd data (många nya gränspunkter) kommer behöva registreras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.4.2",
+      "sentiment": -0.5,
+      "quote": "Med den nya bestämmelsen skulle det innebära att i princip inga fastighetsgränser av de som vi idag anser har säkra koordinater, skulle gå att koordinatbestämma.",
+      "quote_type": "grund"
+    }
+  ]
+}

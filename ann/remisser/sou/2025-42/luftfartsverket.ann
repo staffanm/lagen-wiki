@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/luftfartsverket": "f9f7dd6cd017f256cbfd050045ce8708a486265aecfebf3aee4028f5dddf9346",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten har inga synpunkter i sak men anser att tiden för ikraftträdande är kort.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.2,
+      "quote": "anser att tiden för ikraftträdande är kort",
+      "quote_type": "grund"
+    }
+  ]
+}

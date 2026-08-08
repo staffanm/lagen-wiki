@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:100/svenskt-naringsliv": "b16e76bd630be1e93679bb1c16a662cb6dc6cc8b99437a9557da0a39a4d4f620",
+      "artifact:forarbete/sou/2025-100": "b519ed844627b2d5676019b5b0a8bf5290f7e3fd99e92af851cf8f38837e790d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det handlar om teknikneutral lagstiftning, skydd av kunskapsbaserade tillgångar samt åtgärder mot en typ av brottslighet som omsätter stora summor pengar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Den modernisering som utredningen föreslår motsvarar de behov som finns idag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.2,
+      "quote": "Den formuleringen kan tolkas som att man snävar in området på ett onödigt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec60",
+      "sentiment": 1.0,
+      "quote": "Marknadsföringsförbudet är ett viktigt steg för att minska synligheten och därmed minska efterfrågan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec59",
+      "sentiment": 1.0,
+      "quote": "Det är inte rimligt att utesluta något av leden, eftersom det skulle det göra det svårare att gripa in.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 1.0,
+      "quote": "Eftersom illegal ip-tv ofta är en del av organiserad brottslighet är det viktigt att straffsanktionerna speglar samhällets strävan efter att hindra sådan verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 0.5,
+      "quote": "En rättssäker hantering av mål kring illegal ip-tv förutsätter tillgång på den kompetens som finns hos Patent- och marknadsdomstolen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:60/pensionsmyndigheten": "4cc97463b2bbc05e79b83a242ead69e05eb6a1536fe5a7f1a38c67e3a2d4b2d8",
+      "artifact:forarbete/sou/2025-60": "ba08a5cf25200bcc4b5e48a4ae829bfa92fdb7a8a18e1f7113bf8aa0612a2eee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslagen i delbetänkandet är i stor utsträckning en anpassning till EU-direktiven AIFM och UCITS, vilket innebär att svenska regler harmoniseras med europeiska krav för att stärka konsumentskyddet och transparensen på fondmarknaden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4",
+      "sentiment": 0.8,
+      "quote": "En sådan struktur bedöms kunna förbättra avkastningsmöjligheterna för pensionssparare genom att möjliggöra reducering av utländsk källskatt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.5",
+      "sentiment": 0.8,
+      "quote": "Förslaget kan bidra till större trygghet för sparare eftersom risken minskar för att hela fonden påverkas negativt av enstaka problem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.1.4",
+      "sentiment": 0.8,
+      "quote": "Förslaget stärker tillsynen av fondmarknaden och bidrar till att upprätthålla dess förtroende.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": 0.8,
+      "quote": "Förslaget stärker tillsynen av fondmarknaden och bidrar till att upprätthålla dess förtroende.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.4",
+      "sentiment": -0.2,
+      "quote": "Myndigheten invänder mot utredningens uttalande om att den tekniska lösningen för hantering av försäkringshändelser inom premiepensionssystemet utgör ett hinder för att fonder med annat än daglig inlösen ska kunna ingå i utbudet på fondtorget.",
+      "quote_type": "grund"
+    }
+  ]
+}

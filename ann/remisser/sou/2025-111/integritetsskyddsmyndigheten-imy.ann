@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/integritetsskyddsmyndigheten-imy": "cb25613d8ab7aecf1fa1f70fc785afb59e7a1262d45af85f126a02963f11703e",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "IMY anser dock att bestämmelsens utformning och de anförda skälen riskerar att leda till en alltför långtgående rätt till ersättning och alltför höga ersättningsnivåer",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.7.1",
+      "sentiment": 1.0,
+      "quote": "IMY delar utredningens bedömning att enskilda i vissa situationer bör kunna beviljas ersättning för rättegångskostnader i förvaltningsmål",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.7.3",
+      "sentiment": -0.5,
+      "quote": "IMY anser dock att bestämmelsens utformning och de anförda skälen riskerar att leda till en alltför långtgående rätt till ersättning och alltför höga ersättningsnivåer",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4.4",
+      "sentiment": -0.2,
+      "quote": "det inte är helt tydligt hur den föreslagna regleringen är avsedd att tillämpas ser IMY klara risker för att ersättningskrav i enskilda fall kan komma att uppgå till betydande belopp som är svåra att förutse för myndigheterna",
+      "quote_type": "grund"
+    }
+  ]
+}

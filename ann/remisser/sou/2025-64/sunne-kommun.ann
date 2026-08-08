@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/sunne-kommun": "804d936e26105b266971da3e6a1b0ddd5252d418ab3b5d19fbc25fb17c42aaf9",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kommunernas lokala kännedom är viktig för att kunna bedriva en nära dialog med företagarna om livsmedelskontrollen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.4",
+      "sentiment": -0.2,
+      "quote": "Vid t ex misstänkt matfusk eller vid misstänkta fall av matförgiftning är det viktigt med en snabb insats vilket Sunne kommun tror kommer försvåras genom en statlig kontroll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2",
+      "sentiment": 0.5,
+      "quote": "Då bibehålls den nära lokala kännedomen och dialogen samtidigt som fler årsarbetskrafter inom livsmedelskontrollen kan säkerställas på ett mer stabilt sätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

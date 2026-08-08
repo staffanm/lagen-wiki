@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/upphandlingsmyndigheten": "fbc3f2f84da197db926627986dd539504f8e02323eca042ba119fc63ea44518c",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Upphandlingsmyndigheten anser dock att de upphandlings- och statsstödsrättsliga aspekterna på att ett statligt bolag bedriver delar av Trafikverkets beställarverksamhet inte är tillräckligt belysta.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.4.1",
+      "sentiment": -0.2,
+      "quote": "Upphandlingsmyndigheten efterfrågar en fördjupad analys i dessa delar innan förslaget genomförs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.5",
+      "sentiment": -0.2,
+      "quote": "statsstödsreglerna innebär att det kommer att ställas många krav på den nya verksamheten som bör beaktas innan förslaget genomförs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.1",
+      "sentiment": 1.0,
+      "quote": "Alternativ och redundans är särskilt viktigt för att säkerställa resiliens i infrastrukturprojekten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.2,
+      "quote": "Dock är det inte givet att samma effektivitetsvinster går att uppnå inom ramen för ett anslagsfinansierat bolag som styrs och finansieras med beaktande av statsstöds- och upphandlingsreglerna.",
+      "quote_type": "grund"
+    }
+  ]
+}

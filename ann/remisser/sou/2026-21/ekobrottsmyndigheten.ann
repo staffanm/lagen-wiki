@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:21/ekobrottsmyndigheten": "140fb7fce9bcd9a81df26dd68c05d802528e0238f047fa9199eeac31ee8d5373",
+      "artifact:forarbete/sou/2026-21": "b4fe47551a2f6371e860be92a47a77882040d95cf28d07cac21ec3172d27ca53"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Mot bakgrund av de intressen som Ekobrottsmyndigheten har att beakta lämnas följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8",
+      "sentiment": 1.0,
+      "quote": "En annan ordning riskerar också att undergräva förtroendet för rättsordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.1",
+      "sentiment": 1.0,
+      "quote": "Förslaget i denna del avser mycket allvarliga brott som direkt riktar sig mot rikets säkerhet eller internationella brottsmålsdomstolens jurisdiktion varför behovet av att kunna upphäva ett medborgarskap ter sig som särskilt stort.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": -0.5,
+      "quote": "Ekobrottsmyndigheten menar att förslaget behöver bli mer konkret och tydligt för att uppfylla de krav på förutsägbarhet som måste kunna ställas vid en så ingripande åtgärd.",
+      "quote_type": "grund"
+    }
+  ]
+}

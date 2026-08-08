@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/lansstyrelsen-i-varmland": "61fa26e408920bb2465af96ba2de7307728820c26d15041694a17c4d3eaf6163",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen har i övrigt inga invändningar mot utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.5,
+      "quote": "En förutsättning är dock att statens ansvar för övergivna gruvhål inte ändras och att länsstyrelserna tillförs nya medel för uppdraget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.2",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen har dock inte någon erfarenhet av detta och har därför svårt att överblicka konsekvenserna och bedöma hur väl det skulle fungera i praktiken.",
+      "quote_type": "grund"
+    }
+  ]
+}

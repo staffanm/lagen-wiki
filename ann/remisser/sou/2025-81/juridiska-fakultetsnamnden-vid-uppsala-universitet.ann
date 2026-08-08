@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:81/juridiska-fakultetsnamnden-vid-uppsala-universitet": "8bcb4f247f056c62ca4edbc3fde85058a97b77072335763a026579ab580cd19c",
+      "artifact:forarbete/sou/2025-81": "18dbd0bb1ff96f8c252ba4781ad24b1dde501603dec2d1055b6aac74edf95632"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Fakultetsnämnden avstyrker utredningens förslag att avskaffa möjligheten till rekonventionstalan enligt vad som utvecklas nedan.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8",
+      "sentiment": 1.0,
+      "quote": "Fakultetsnämnden vill här särskilt betona det som utredningen anför om behovet av en samlad analys av samtliga brottsbekämpande myndigheters tillgång till uppgifter av olika slag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Fakultetsnämnden instämmer också i utredningens bedömningar gällande att sanktionsväxling från straffansvar till sanktionsavgift för försenad årsredovisning av flera skäl är olämplig och skulle riskera att försvåra det brottsbekämpande arbetet på ekobrottsområdet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.5,
+      "quote": "Utifrån intresset att bekämpa den kriminella ekonomin framstår det som mycket problematiskt om det förekommer skuldbetalningar genom utmätning som skulle vara brottsliga utanför det exekutiva förfarandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": -1.0,
+      "quote": "Om den tilltalade är föremål för enskilt åtal kan det nog rentav ofta finnas goda skäl att pröva ett enskilt åtal från den tilltalade mot målsäganden/åklagaren inom ramen för samma rättegång.",
+      "quote_type": "grund"
+    }
+  ]
+}

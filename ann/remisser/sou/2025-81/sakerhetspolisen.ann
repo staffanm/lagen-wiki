@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:81/sakerhetspolisen": "0efc1d88293ed00d4331528d258c0aab136eed6d4f115ae55b0ac47e65368938",
+      "artifact:forarbete/sou/2025-81": "18dbd0bb1ff96f8c252ba4781ad24b1dde501603dec2d1055b6aac74edf95632"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I övrigt har Säkerhetspolisen ingen erinran mot förslagen i de remitterade delarna.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": -0.2,
+      "quote": "Skälet för en sådan mer omfattande åtkomst är i första hand att Säkerhetspolisen bättre ska kunna kontrollera inflöde och innehåll i penningtvättsregistret mot risker för finansiering av terrorism.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -0.2,
+      "quote": "Hotaktörer som är verksamma inom Säkerhetspolisens ansvarsområde, inklusive kontraterror och kontraspionage, är inte sällan aktiva även inom olika former av ekonomisk brottslighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

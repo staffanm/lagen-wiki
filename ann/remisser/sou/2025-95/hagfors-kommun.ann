@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:95/hagfors-kommun": "8fea5a813ada51dfc9966ff57b9b3db526bb5fba54de116b46a2ff00420f98d2",
+      "artifact:forarbete/sou/2025-95": "613ac92cd1fc517e8bc3ec573b279ef426ca513eb1305ec1af52d26309784bd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sammanfattningsvis ser Hagfors kommun positivt på delar av betänkandet men understryker vikten av att regelverket utformas med hänsyn till Barnkonventionen, till individens psykiska och sociala förutsättningar samt till de demografiska utmaningar som många av landets kommuner står inför.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.5,
+      "quote": "Ett tydligare försörjningskrav kan bidra till att säkerställa att den person som redan är bosatt i Sverige har förmåga att försörja sig själv och sina anhöriga utan att belasta socialförsäkringssystemen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.15",
+      "sentiment": 0.5,
+      "quote": "Genom att skapa incitament för arbete och egenförsörjning kan reglerna motivera den bosatta personen att snabbare etablera sig på arbetsmarknaden och i samhället, vilket på sikt kan underlätta en hållbar integration.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3",
+      "sentiment": -0.5,
+      "quote": "Vissa delar i betänkandet kan riskera att stå i strid med Barnkonventionen, särskilt när det gäller barnets rätt till familjeliv och principen om barnets bästa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.10",
+      "sentiment": -0.5,
+      "quote": "En sådan situation kan skapa oro, stress och psykisk ohälsa, vilket i sin tur kan försvåra personens möjligheter att fokusera på etablering och inträde på arbetsmarknaden.",
+      "quote_type": "grund"
+    }
+  ]
+}

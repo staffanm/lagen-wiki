@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/brottsforebyggande-radet": "f144c2a1e5ed522e9db38a421c43c0b35582abc89d91bbbdeb755f7e434db39f",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Brå tillstyrker därför utredningens huvudförslag i den del som avser att polisen även fortsättningsvis ska ha ansvar för samtliga vapenärenden.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.11.1",
+      "sentiment": 1.0,
+      "quote": "Brå delar utredningens uppfattning att uppgiften att pröva om en person bör ges tillstånd att inneha vapen är en polisiär uppgift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11.2",
+      "sentiment": -1.0,
+      "quote": "Brå delar även utredningens syn på de risker som kan uppstå om handläggning av vapenärenden flyttas till en civil myndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6.2",
+      "sentiment": 1.0,
+      "quote": "Brå delar utredningens uppfattning att ansvar för trafikskadat vilt och vilt som tillfaller staten inte är polisiära uppgifter",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.3",
+      "sentiment": 1.0,
+      "quote": "Brå delar utredningens uppfattning att ansvar för trafikskadat vilt och vilt som tillfaller staten inte är polisiära uppgifter",
+      "quote_type": "grund"
+    }
+  ]
+}

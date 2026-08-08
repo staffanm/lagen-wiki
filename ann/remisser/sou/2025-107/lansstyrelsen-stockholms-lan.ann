@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:107/lansstyrelsen-stockholms-lan": "2ddb962ae373686d3b7978a199b672361322ab1bc5fc77598171e19c60cda145",
+      "artifact:forarbete/sou/2025-107": "47622113b6201e4ecf4f8f07faace798ed84e0806822644f3a8e9a35e1a5fff4"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Länsstyrelsen i Stockholms län (Länsstyrelsen) välkomnar betänkandet och tillstyrker Miljömålsberedningens förslag till uppdaterat etappmål till 2030 för klimat.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": 1.0,
+      "quote": "Vi välkomnar att förslaget innebär en ökad grad av harmonisering till Sveriges EU-åtagande och bidrar till ökad tydlighet och jämförbarhet mellan de båda målen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "Styrning från nationell nivå genom sektorsmål för transporter och nationella/internationella styrmedel är däremot en förutsättning för att länets utsläpp från transportsektorn ska kunna minska på ett kostnadseffektivt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget att en valberedning tillsätts för att utse ledamöter i det klimatpolitiska rådet och att förordnandetiden för ledamöterna i rådet förlängs för att värna rådets bredd och kompetens.",
+      "quote_type": "grund"
+    }
+  ]
+}

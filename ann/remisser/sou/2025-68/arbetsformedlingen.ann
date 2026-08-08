@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/arbetsformedlingen": "515c30a0141a0fb83f697179c34bf4009ac2ff5194bb6bd7f5f853c921bb2bfb",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Arbetsförmedlingen tillstyrker i huvudsak utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6",
+      "sentiment": 0.2,
+      "quote": "Arbetsförmedlingen anser att det finns en påtaglig risk för att en tvingande reglering utan koppling till sanktioner inte kommer att följas av upphandlande myndigheter och enheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": -0.2,
+      "quote": "Med anledning av det vill myndigheten se ett tydligare resonemang kring när F-avtal är undantagna upphandlingsrättens tillämpningsområde (frånsett vad som anges i 3.9.3 Förfaranden som är uttryckligen undantagna från reglerna om upphandling).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.5",
+      "sentiment": -0.5,
+      "quote": "Detta kommer att, i sin tur, snedvrida konkurrensen på arbetsmarknaden i och med att vissa aktörer får konkurrensfördelar som andra inte har.",
+      "quote_type": "grund"
+    }
+  ]
+}

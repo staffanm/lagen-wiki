@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/socialstyrelsen": "26379546a44c4d659e1d7b015f8a28ae90d5f44e2febc67b7c398d36a03cada7",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Socialstyrelsen välkomnar denna utredning och ser positivt till möjligheten att bredda de verktyg som kan finnas tillgängliga för att minimera konsekvenserna av kritisk brist på läkemedel.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.2.1",
+      "sentiment": 0.5,
+      "quote": "Socialstyrelsen tillstyrker förslagen men önskar att det förtydligas att även humanläkemedel på licens ingår i begreppet humanläkemedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.5,
+      "quote": "Socialstyrelsen önskar att E-hälsomyndigheten i sitt arbete med systemstöd även ska ta hänsyn till Läkemedelsregistret och läkemedelsstatistiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8",
+      "sentiment": -0.5,
+      "quote": "Orsaken till att Socialstyrelsen inte delar bedömningen är att trots begränsningen i förordningsrätten så kommer det att finnas många patienter som redan har aktiva recept sedan före begränsningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

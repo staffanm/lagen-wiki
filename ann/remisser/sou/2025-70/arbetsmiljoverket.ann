@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:70/arbetsmiljoverket": "c98981950479d065711be4fd4c27e03b869f2eb7725e8b39f2ac41097ac9b780",
+      "artifact:forarbete/sou/2025-70": "21e44eb2249e2dea5d04cd086cfbcb6c4e9713b1194aa26cb56bec2ae0339e9b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Arbetsmiljöverket anser att en lagändring som tar bort hinder för de som vill och kan arbeta längre upp i åldern är positivt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 1.0,
+      "quote": "Arbetsmiljöverket anser att kopplingen mellan las-åldern och riktåldern är bra eftersom det innebär att dessa följs åt även om riktåldern skulle sänkas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec52",
+      "sentiment": -0.5,
+      "quote": "Detta innebär att om las-åldern med tiden kommer att överstiga 69 år så kommer arbetsgivare inte att få del av bidraget för sina äldsta medarbetare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 1.0,
+      "quote": "Arbetsmiljöverket gör samma bedömning avseende verkets egen informationsgivning och ser inget behov av att öka sin informationsgivning med anledning av förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.3.6",
+      "sentiment": 0.2,
+      "quote": "Arbetsmiljöverket gör dessutom bedömningen att kostnadsökningar för arbetsgivare, på grund av ökat behov av arbetsanpassning och rehabilitering för personer som väljer att arbeta längre, kommer att vara liten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.8",
+      "sentiment": -0.5,
+      "quote": "Denna strukturella ojämställdhet innebär att färre kvinnor än män kan utnyttja möjligheten att arbeta högre upp i åldern, har sämre förutsättningar att arbeta de extra åren samt att de ekonomiska fördelarna med att förlänga arbetslivet är sämre för kvinnor.",
+      "quote_type": "grund"
+    }
+  ]
+}

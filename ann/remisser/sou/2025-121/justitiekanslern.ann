@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:121/justitiekanslern": "bb35a6578cdd92be35823ddaecd4318c39e5b41868758e7ef0dbb127d2703e7a",
+      "artifact:forarbete/sou/2025-121": "ea5ef53bafffc374cd9c6ed48c2efc9bb84857af58aacd3e714712108c789c6b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslaget innebär ett principiellt avsteg från den grundläggande principen att endast myndigheter får förelägga vite.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.6.8",
+      "sentiment": -1.0,
+      "quote": "Förslaget innebär ett principiellt avsteg från den grundläggande principen att endast myndigheter får förelägga vite.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.8",
+      "sentiment": 1.0,
+      "quote": "Vad gäller den föreslagna ändringen avseende de ekonomiska förutsättningarna för att beviljas ersättningsgaranti har Justitiekanslern inga synpunkter på förslaget.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

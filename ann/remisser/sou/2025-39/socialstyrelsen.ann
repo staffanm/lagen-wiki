@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:39/socialstyrelsen": "63349f474e39bd6eade0df86ff1c7135f69597f2a496d9927ae0a9043e8661cc",
+      "artifact:forarbete/sou/2025-39": "030cdbea8ee7c44b3c9a0f433cdd7f751b76efebf39c03c1cc1625da3d87b584"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Socialstyrelsen är positiv till utredningens förslag, som syftar till att fler personer ska kunna ta del av insatser med stöd av digital teknik och att personer med nedsatt beslutsförmåga ska erbjudas insatser med digital teknik på lika villkor som andra personer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.5",
+      "sentiment": 0.5,
+      "quote": "Vikten av att det är legitimerad personal grundar sig på att det behövs kunskap kring hur kognitiva sjukdomar, skador och funktionsnedsättningar påverkar den kognitiva förmågan att hantera och förstå abstrakt teknik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.9",
+      "sentiment": 0.5,
+      "quote": "Socialstyrelsen gör bedömningen att nuvarande reglering med krav på uppföljning av insatser inte är tillräckligt detaljerad för att säkra att tillräcklig uppföljning sker när det gäller den enskildes beslutsförmåga i relation till användningen av integritetskänslig digital teknik.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/lansstyrelsen-i-dalarnas-lan": "375fedb82c98b90d3576e887d04bf89b3f228e441724c3bc165d929f48f23be7",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen är enig med utredarna i betydelsen av digitalisering av samhällsbyggnadsprocessen och tydliga fastighetsgränser, och delar bedömningen att förslaget ger vinster för de areella näringarna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 1.0,
+      "quote": "införandet av ett utbrett koordinatbestämt fastighetssystem sannolikt skulle få flera positiva effekter för de areella näringarna",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.3",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser därför att förslaget får störst betydelse i områden med höga fastighetsvärden och högt exploateringstryck, med risk att skogsbruket och landsbygden hamnar efter i digitaliseringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4",
+      "sentiment": 0.2,
+      "quote": "Enskilda fastighetsägare är dock troligtvis inte villiga att ta den ekonomiska risken med att ansöka om en åtgärd som riskerar att ställas in.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.5",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen bedömer att det i praktiken skulle vara svårt att uppfylla rekvisiten utan den omfattande utredning och mätning i fält som normalt sker i samband med fastighetsbestämning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.7",
+      "sentiment": -0.5,
+      "quote": "Givet de problem som finns med oklara gränser inom de areella näringarna och de potentiella vinster som ett koordinatbestämt fastighetssystem skulle kunna innebära anser länsstyrelsen att utredarna borde ha utforskat möjligheten att påskynda införandet av ett system med koordinatbestämda fastighetsgränser med olika stimulansåtgärder.",
+      "quote_type": "grund"
+    }
+  ]
+}

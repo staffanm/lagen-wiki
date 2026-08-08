@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/lansstyrelsen-varmland": "e02e546c6577efbaeb575319f3d33ea9b7265b2cf24c85e599640c25d3bc1c2e",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Detta ställer krav på snabba reaktioner, fungerande informationsflöden och kommunikationskanaler till veterinärer och djurkliniker, samt krav på digitala systemstöd som i dag saknas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6.6",
+      "sentiment": 0.5,
+      "quote": "det finns hinder för att tillsynen fullt ut ska fungera som ett effektivt verktyg för att upprätthålla följsamheten till de kommande föreskrifterna",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec75",
+      "sentiment": 1.0,
+      "quote": "Det gäller särskilt hur tillsynen kan stärkas och samordnas mellan de berörda myndigheterna.",
+      "quote_type": "grund"
+    }
+  ]
+}

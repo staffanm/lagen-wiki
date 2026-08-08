@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:32/sveriges-fiskares-producentorganisation": "efb7fef362964002488578d12fdf532d6b56b3f67ad05fbae832568dd740a4b4",
+      "artifact:forarbete/sou/2025-32": "26d80d3408f8a86054abee979a4040504620837bce388bbf4a4cc1ac89c1b1e7"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "SFPO anser att de författningsförslag som presenteras i delbetänkandet är bra och har inget att invända.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.2.3",
+      "sentiment": 1.0,
+      "quote": "SFPO välkomnar en förenkling av möjligheterna till skyddsjakt och att det jakträttsliga regelverket föreslås bli mindre komplicerat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.5,
+      "quote": "SFPO ser det som ett litet steg i rätt riktning att jakträtt på sådant allmänt vatten som avses i 12.2 § jaktlagen, liksom på sådana holmar, klippor och skär, som inte hör till något hemman (fastighet), ska kunna upplåtas efter anmälan till jaktkortsregistret och att dagens system, som kräver ansökan och beslut, ska tas bort.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 0.5,
+      "quote": "SFPO delar uppfattningen att i den mån sådan jakt har populationsbegränsande effekter i de delar av zonen där sälar orsakar skador på fiskeredskap kan förslaget medföra bättre förutsättningar för yrkesfisket.",
+      "quote_type": "grund"
+    }
+  ]
+}

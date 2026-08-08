@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:99/inspektionen-for-socialforsakringen": "50208fde2f9bf4ef0edb112ec736ee6700a631d8b339204097cbfc387f97ad05",
+      "artifact:forarbete/sou/2025-99": "6c1cd093ee04097aeceeff8169f890fa879410d8b56abaf496322e4ed42c73f0"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "ISF avstyrker utredningens huvudförslag att det ska införas en särskild lag som reglerar förutsättningarna för att kunna återkalla vissa permanenta uppehållstillstånd och som reglerar undantag från vissa villkor för beviljande av tidsbegränsat uppehållstillstånd (avsnitt 5) eftersom förslaget strider mot flera grundläggande förvaltningsrättsliga principer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": -1.0,
+      "quote": "Att införa en retroaktiv lagstiftning som innebär att ett sådant gynnande beslut får ändras, skulle innebära ett rättsligt skifte med stor inverkan på enskildas rättssäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "ISF anser att utredningens redovisning av de negativa konsekvenserna täcker många viktiga potentiella följder (avsnitt 10).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3",
+      "sentiment": 0.0,
+      "quote": "ISF tar inte ställning till övriga delar i bedömningen (avsnitt 10.3).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": -0.2,
+      "quote": "Mot denna bakgrund ser vi en risk för att huvudförslaget kan förstärka problemet med felaktiga utbetalningar som uppstår när myndigheter använder inaktuella uppgifter.",
+      "quote_type": "grund"
+    }
+  ]
+}

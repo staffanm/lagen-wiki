@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/forsvarsmakten": "56dc34bf9134cbba91e6dcd5315252992a3d353175fb57eb9dd0dac429899b06",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försvarsmakten bedömer dock inte att förslaget påverkar Försvarsmaktens möjlighet att bevaka riksintresse för totalförsvarets militära del.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.5,
+      "quote": "Försvarsmakten bedömer att det kan föreligga en sådan risk då länsstyrelsen har en viktig roll att samordna statens intressen i planeringsprocesserna enligt plan- och bygglagen (2010:900), PBL, samt att samråd enligt 9 kap. 51 § PBL ska genomföras med länsstyrelsen gällande vissa lovåtgärder för totalförsvaret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 1.0,
+      "quote": "Försvarsmakten bedömer att regleringarna i MB och PBL med fördel kan motsvara varandra för att tillämpningen ska bli enhetlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 1.0,
+      "quote": "Ändringsförslaget innebär att fler överprövade mål träffas av bestämmelsen, exempelvis mål som prövas av domstolen i första instans.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": 0.5,
+      "quote": "Försvarsmakten bedömer att avgiften med fördel skulle kunna vara högre för att fylla sitt syfte att förhindra onödigt utdragna överklagandeprocesser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": -0.5,
+      "quote": "Även i egenskap av verksamhetsutövare företräder myndigheter statens intressen.",
+      "quote_type": "grund"
+    }
+  ]
+}

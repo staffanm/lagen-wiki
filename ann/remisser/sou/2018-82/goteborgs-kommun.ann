@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/goteborgs-kommun": "311d465237b9e73f56a43bc4f64f5efa7fa4ab4fad41ce3ceb21ff9c24204b32",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi tillstryker föreslagna kompletteringar enligt remissen SOU 2018:82 med följande kompletteringar från bolag och förvaltningar inom Göteborgs Stad.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.4.4",
+      "sentiment": -0.5,
+      "quote": "Ett krav på säkerhetsskyddsavtal vid samverkan mellan myndigheter som ingår i en och samma kommunal juridiska person skulle medföra praktiska olägenheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec524",
+      "sentiment": -0.2,
+      "quote": "Påståendet om marginella kostnadsökningar kan emeller tid ifrågasättas mot bakgrund av den ökande samverkan som sker på andra sätt än vi upphandling och där det kan råda en skyldighet att ingå säkerhetsskyddsavtal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": 1.0,
+      "quote": "Kretslopp och vatten som anläggningsägare för samhällskritisk verksamhet ser det som mycket viktigt att lagen klargör / möjliggör ingripande mot överlåtelser eller andra förfaranden som är olämpliga från säkerhetsskyddssynpunkt.",
+      "quote_type": "grund"
+    }
+  ]
+}

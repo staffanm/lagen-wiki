@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/arvidsjaurs-kommun": "b25fca46d403daa2314054cacdaf48298e21b7cd984bac91c4c2896aa9049185",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kommunen är i det stora hela positiv till förslagen men mostätter sig i följande delar:",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.7.3",
+      "sentiment": -1.0,
+      "quote": "En kostnad får inte bli en avgörande faktor för om den enskilde har möjlighet att överklaga eller inte.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.5",
+      "sentiment": -0.5,
+      "quote": "Vilka som ska ingå i samrådskrets i en detaljplan beror på detaljplanens innehåll och bör vara möjlig att bedöma från fall till fall.",
+      "quote_type": "grund"
+    }
+  ]
+}

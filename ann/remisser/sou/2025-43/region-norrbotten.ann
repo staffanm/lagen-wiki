@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/region-norrbotten": "b1d863d8ecbe706a4f530d764b3ce1f25fbd84f7f2a966ac10edb1add1e4f335",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Norrbotten ställer sig överlag positiv till de förslag som lämnas i delbetänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6.2",
+      "sentiment": 1.0,
+      "quote": "Regionen ställer sig särskilt positiv till att det nu kommer lagstadgas om att den fria förskrivningsrätten kan inskränkas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.5,
+      "quote": "Ett fungerande systemstöd kommer underlätta regionernas arbete med att planera och styra omfördelning av läkemedlen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.2",
+      "sentiment": 0.5,
+      "quote": "Regionen menar att det förekommer att det blir kedjereaktioner där bristtillståndet efter en tid omfattar en större grupp av läkemedel och ser att Läkemedelsverket sannolikt har bättre förutsättningar att förutse en sådan situation än de enskilda regionerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.6",
+      "sentiment": -0.5,
+      "quote": "Enligt dagens lagstiftning får en region inte sälja eller fördela redan expedierade rekvisitionsläkemedel till en annan region. Detta är mycket olyckligt och kan i värsta fall leda till patientsäkerhetsrisker.",
+      "quote_type": "grund"
+    }
+  ]
+}

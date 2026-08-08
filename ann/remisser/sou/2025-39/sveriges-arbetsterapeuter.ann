@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:39/sveriges-arbetsterapeuter": "591aa7ef9b4a0bfdf9ea551a2f4e14037255d237ab25853458041517ed2a3a5d",
+      "artifact:forarbete/sou/2025-39": "030cdbea8ee7c44b3c9a0f433cdd7f751b76efebf39c03c1cc1625da3d87b584"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sveriges Arbetsterapeuter är positiva till utredningens förslag och tillstyrker dessa, men vill betona vissa delar i förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 1.0,
+      "quote": "Digitala lösningar kan bidra till ökad självständighet, trygghet och delaktighet för många brukare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 0.5,
+      "quote": "det är ett verktyg som kan användas när det är lämpligt och i enlighet med individens behov och förutsättningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 1.0,
+      "quote": "En teknikneutral lagstiftning skapar förutsättningar för att möta framtida utveckling utan behov av återkommande lagändringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 1.0,
+      "quote": "En mer generell reglering är ändamålsenlig, särskilt med tanke på den snabba tekniska utvecklingen och behovet av flexibilitet i tillämpningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7",
+      "sentiment": 0.5,
+      "quote": "det finns en risk att varken brukare eller personal är medvetna om omfattningen eller användningen av dessa data.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec330",
+      "sentiment": 1.0,
+      "quote": "Arbetsterapeuter har även en viktig roll i att bidra med kunskap i utvecklingen och kvalitetssäkringen av metodstöd.",
+      "quote_type": "grund"
+    }
+  ]
+}

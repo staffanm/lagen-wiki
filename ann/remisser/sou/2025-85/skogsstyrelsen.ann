@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/skogsstyrelsen": "08e29199be30d6ffa9587bb9fa8ef71004cd5d2d00a9bd738cda10aecea4aeb0",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Samtidigt ser vi behov av att inför slutbetänkandet i större utsträckning beakta skogens roll för regional utveckling och landsbygdsutveckling.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec60",
+      "sentiment": -0.5,
+      "quote": "Klimatperspektivet saknas till stor del i delbetänkandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": 0.2,
+      "quote": "Skogsstyrelsen instämmer i behovet av tydligare begreppsanvändning, men framhåller risken att skogliga frågor försvinner i en alltför bred ”territoriell politik”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": -0.5,
+      "quote": "Skogsstyrelsen saknar skogsbruk och skog i skrivningarna under denna rubrik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.5,
+      "quote": "I tillägg till detta kan det dessutom finnas behov av tydligare uppdrag för myndigheter som har regional/lokal närvaro (till exempel Skogsstyrelsen).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec121",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen tillstyrker utredningens förslag om en gemensam verksamhetslogik med indikatorer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec127",
+      "sentiment": -0.2,
+      "quote": "Skogsstyrelsens bedömning är att en geografisk omorganisation av statliga myndigheter inte skulle lösa denna fråga, det kan i stället handla om förändrat arbetssätt eller sakområdesansvar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.2,
+      "quote": "Dess betydelse för klimat, sysselsättning, bioekonomi och energiomställning bör integreras i en framtida territoriell politik.",
+      "quote_type": "grund"
+    }
+  ]
+}

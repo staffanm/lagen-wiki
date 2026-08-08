@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/lansstyrelsen-i-vastra-gotalands-lan": "c8c7f0125c58c3336be8fc18700d56cc161f55bec815cce3aaa30952f78bb28d",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen ställer sig bakom de förslag som redovisas i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen vill dock betona betydelsen av att det vid verksamhetsöverföringen säkerställs att Försvarets radioanstalt (FRA) upprätthåller samma ambitionsnivå gällande det förebyggande strategiska arbetet med informations- och cybersäkerhet som Myndigheten för samhällsskydd och beredskap (MSB) gjort.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4",
+      "sentiment": 0.2,
+      "quote": "Vidare anser Länsstyrelsen att det är av stor betydelse att Myndigheten för civilt försvar, när namnbytet sker vid årsskiftet, inom ramen för sina uppdrag ges tillräckliga förutsättningar att även i fortsättningen kunna ge stöd till offentlig sektor för att stärka informations- och cybersäkerhetsperspektivet i planeringsarbetet för höjd beredskap, krigsstabsarbete, övningar samt förmågeutvecklingen för samverkan inom ramen för Nato.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen anser även att det är viktigt att förflyttningen av ansvaret från MSB till FRA inte medför en förflyttning av fokus och resurser från det strukturella arbetet med styrning och ledning av informations- och cybersäkerhetsarbetet inom offentlig sektor.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/statistiska-centralbyran": "2cb3a8a3d8c9b09581fc1c672491d9793bac43ea58beac88933d94fdfe0da9c0",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "SCB har inga synpunkter på utredarens slutsatser och rekommendationer. Däremot saknar SCB en beskrivning av påverkan på offentliga finanser enligt nationalräkenskaperna (NR) och den komplexitet som föreligger.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.2,
+      "quote": "Däremot saknar SCB en beskrivning av påverkan på offentliga finanser enligt nationalräkenskaperna (NR) och den komplexitet som föreligger.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec6",
+      "sentiment": 0.0,
+      "quote": "SCB anser att det finns en stor sannolikhet att även det föreslagna svenska bolaget kommer att klassificeras i offentlig förvaltning i NR.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec129",
+      "sentiment": 0.0,
+      "quote": "Här är det svårt att på förhand ge besked om hur ett OPS kommer att påverka offentliga finanser.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:32/sametinget": "b3449691ea514721d9f460ecff994d6fc5eee471504f31e41fe42a90597f9129",
+      "artifact:forarbete/sou/2025-32": "26d80d3408f8a86054abee979a4040504620837bce388bbf4a4cc1ac89c1b1e7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Sametingets lämnar härmed synpunkter på 4.4 Förvaltningsmärkning av varg och 4.8 Skyddsjakt på enskilds initiativ enligt 28-28 b §§ jaktförordningen för att skydda ren.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4",
+      "sentiment": 1.0,
+      "quote": "Detta bland annat för att snabbt kunna flytta en varg från renskötselområdet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.8",
+      "sentiment": -0.5,
+      "quote": "Det finns en risk att myndigheterna inte uppfattar att de har stöd att utforma vägledningar för skyddsjakt för att skydda ren som tar adekvat hänsyn till ekonomiska, sociala och kulturella behov, till regionala och lokala särdrag som art- och habitatdirektivet tydligt stadgar ska ske, se syftet i artikel 2, särskilt 2.3 samt traditionell kunskap som det stadgas i konventionen om biologisk mångfald.",
+      "quote_type": "grund"
+    }
+  ]
+}

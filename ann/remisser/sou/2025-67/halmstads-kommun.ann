@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/halmstads-kommun": "4bd7c92e496b354772a155f7dbd2b50a6138936693c06fa08c1f8c425d85fef0",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Halmstads kommun tycker att utredningens förslag till utvecklingen av Arlanda är bra och anser att det är av största vikt att se hela-resan-perspektivet för att effektivisera resor till och från Arlanda, särskilt sedan Bromma flygplats inte längre är ett alternativ.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.2.2",
+      "sentiment": 0.2,
+      "quote": "Biljettlösningar över länsgränser bör ses över i fler sammanhang än Stockholmsregionen för att underlätta för resenärerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec322",
+      "sentiment": 0.5,
+      "quote": "Ur ett totalförsvarsperspektiv bör linjen mellan Stockholm - Halmstad pekas ut som en samhällsviktig inrikes flyglinje med allmän trafikplikt, likt Peter Norman pekar på andra flyglinjer där rimliga transportalternativ saknas, detta eftersom rimliga transportalternativ saknas om den kommersiella flygtrafiken upphör eller kraftigt reduceras till och från Halmstad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec261",
+      "sentiment": 0.2,
+      "quote": "Alla passagerare som flyger inrikestrafik ska kunna samlas på en terminal för att man på ett tidseffektivt sätt ska kunna transportera sig vidare i landet.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:20/boxholms-kommun": "6f090bf0e1ce703ac741196ca461384e450971b8029f8bf0f185aa4097dfe2e4",
+      "artifact:forarbete/sou/2026-20": "4bbbaf1255ebc0c511f2d6d339133f0df3731fa34b68ae49c40ee83603563261"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Kommunen anser att förslagen utgör ett oacceptabelt ingrepp i det kommunala självstyret och den grundlagsskyddade beskattningsrätten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1.1",
+      "sentiment": -1.0,
+      "quote": "Den föreslagna konstruktionen riskerar att skapa en ekonomisk omfördelning som systematiskt gynnar ekonomiskt starka tillväxtkommuner på bekostnad av kommuner som kämpar med betydande strukturella utmaningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -1.0,
+      "quote": "Att staten inför ekonomiska sanktioner mot kommuner som tvingas höja skatten för att upprätthålla välfärden undergräver det lokala demokratiska mandatet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec300",
+      "sentiment": -0.5,
+      "quote": "Det är djupt orättvist att staten först underfinansierar sina egna reformer och därefter utkräver en straffavgift när kommunen försöker täcka de faktiska kostnaderna för samma uppdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec296",
+      "sentiment": 0.5,
+      "quote": "Genom att minska antalet riktade statsbidrag kan administrationen minska och effektiviteten öka.",
+      "quote_type": "grund"
+    }
+  ]
+}

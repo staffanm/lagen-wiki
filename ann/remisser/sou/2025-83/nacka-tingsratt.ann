@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:83/nacka-tingsratt": "6800302cb83210644c238dc03f308ac17b61041719680242ebaec68d446fd3a9",
+      "artifact:forarbete/sou/2025-83": "fe22b84e7351f785a71dbd8034fd7c683f3f2c341350b360482faa5784f9ef16"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Enligt tingsrättens uppfattning framstår det inte som att det beteende som föreslås bli kriminaliserat typiskt sett orsakar skada på det angivna skyddsintresset.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec155",
+      "sentiment": -0.5,
+      "quote": "Om lagstiftningsarbetet fortsätter måste det för att undvika gränsdragningsproblematik övervägas en tydligare definition av begreppet försörjning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": -0.5,
+      "quote": "Domstolen konstaterar att Europadomstolens praxis i detta avseende kommer att innebära tillämpningssvårigheter eftersom det vid bedömningen av om gärningen är straffbar ska beaktas omständigheter som tar sikte på den tilltalades person och inte gärningen som sådan.",
+      "quote_type": "grund"
+    }
+  ]
+}

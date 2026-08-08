@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/region-stockholm": "69dd0a1bcd8bf43df4cf84275c5d6bae5910c8bba81df0eacb4db4f51a02bbce",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Region Stockholm ställer sig positiv till de av utredningen föreslagna nationella anpassningarna till följd av AI-förordningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec22",
+      "sentiment": 1.0,
+      "quote": "regionen ser positivt på utredningens förslag kring offentlighet och sekretess och innovationsfrämjande åtgärder, särskilt förslaget om att införa sekretessbrytande bestämmelse om att sekretess inte hindrar att en uppgift för utveckling, träning, testning och validering av ett AI-system i en regulatorisk sandlåda för AI lämnas till en enskild eller annan myndighet, givet att det med hänsyn till omständigheterna inte är olämpligt att uppgiften lämnas ut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec436",
+      "sentiment": 0.5,
+      "quote": "Region Stockholm vill lyfta att regionen ser det som viktigt att Post- och telestyrelsen i denna samordnande roll säkerställer kunskapsinhämtning från regioner och kommuner för att exempelvis regelverk och stöd för tillämpning och efterlevandekontroll, liksom i inrättandet av regulatorisk sandlåda, ska kunna ta hänsyn till regioner och kommuners förutsättningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

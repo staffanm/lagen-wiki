@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/forsvarsmakten": "cf0d82b1715024da8a3632ef1ec2e053c2c4d16b4b174e747c7ba77b5cc21bf0",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammantaget bedömer Försvarsmakten att förslagen kan underlätta för myndigheterna att fullgöra sin författningsreglerade verksamhet och genomföra nödvändig myndighetssamverkan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.30",
+      "sentiment": -0.5,
+      "quote": "Försvarsmakten anser att den nya bestämmelsen inte har en sådan koppling till vad som regleras i paragrafen i övrigt att det motiverar att placera den i samma paragraf.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.22",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av att delning av passageraruppgiftssamlingar (PNR-uppgifter) regleras i denna lag, föreslår Försvarsmakten att tillägget omformuleras som en upplysning om att det därutöver framgår av offentlighets- och sekretesslagen (2009:400) att PNR-information får lämnas ut i vissa fall.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/hassleholms-kommun": "353208389b304b30609ac5c134418047082b4cc419c5c6ad9210129193e0b940",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Hässleholm kommun lämnar följande yttrande över betänkandet \"Nya regler CD om arv och testamente - bland annat ett testamentsregister i offentlig regi och ::i ett stärkt skydd för efterlevande sambor (SOU 2025:91)\"",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": 1.0,
+      "quote": "Ställningstagandet grundar sig på de ökade problem som detta kan förväntas medföra när det gäller att i samband med bouppteckning kunna \"hitta\" samtliga dödsbodelägare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.3",
+      "sentiment": -0.2,
+      "quote": "Åtminstone bör huvudregeln finnas kvar, men med möjlighet för arvlåtaren att i testamente förordna om att detta inte ska gälla, alltså tvärt om mot förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Kommunen ser positivt på ett testamentsregister.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.3.2",
+      "sentiment": -0.2,
+      "quote": "Detta innebär en ökad arbetsbelastning för överförmyndaren med eventuellt åtföljande behov av resursförstärkning och därmed hörande kostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

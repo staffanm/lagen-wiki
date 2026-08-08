@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/giva-sverige": "d20bf527d6ec500dafe50c06d0a65871407558947651e1d5957a4832a330f015",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "I det här remissvaret tar Giva Sverige ställning till utredningens två förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13",
+      "sentiment": 0.5,
+      "quote": "Förslaget både ökar incitament till givande och förhindrar svinn, samt skulle bidra positivt till verksamheter som sociala matbutiker och matcentraler.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3.4",
+      "sentiment": -0.5,
+      "quote": "Vi är mycket kritiska till den begränsningen då det inte finns någon koppling mellan donationer av livsmedel och ändamålet social hjälpverksamhet, vilket i dagsläget är ett krav för godkännande för skattereduktion av gåvor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.5,
+      "quote": "Förslaget om förenklad vinstmarginalbeskattning vid försäljning av begagnade varor är positivt då det främjar återbruk och ger kommersiella aktörer goda förutsättningar att vara en del av den cirkulära omställningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

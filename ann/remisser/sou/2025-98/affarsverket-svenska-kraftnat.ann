@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/affarsverket-svenska-kraftnat": "57c88ea2c0edfe45313fe55bc6d84192f2e3cd447a2c343e483c52dde47b3749",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Svenska kraftnät välkomnar utredningens målsättning att med de framlagda förslagen stärka effektivitet, enhetlighet och rättssäkerhet i fastighetsbildningsverksamheten i hela landet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.8,
+      "quote": "Eftersom Svenska kraftnäts projekt och initierade förrättningar ofta berör ett stort antal fastighetsägare i flera kommuner innebär skillnader i handläggning, praxis eller kostnader mellan olika lantmäterimyndigheter en risk för bristande likabehandling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": 0.8,
+      "quote": "Svenska kraftnät delar utredningens bild av att avgiftssättningen inom förrättningsverksamheten idag skiljer sig åt i landet och således inte alltid ger tillräcklig förutsägbarhet och transparens.",
+      "quote_type": "grund"
+    }
+  ]
+}

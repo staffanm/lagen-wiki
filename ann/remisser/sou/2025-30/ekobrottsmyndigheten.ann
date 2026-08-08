@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/ekobrottsmyndigheten": "eea88cd3dc247896d09a782e3bd2f601bd9a17e8dd3f28b3c97b807aa1250121",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Ekobrottsmyndigheten har tagit del av förslagen i rubricerat betänkande utifrån de aspekter som myndigheten har att beakta inom ramen för sitt brottsförebyggande uppdrag och vill framföra följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": -0.2,
+      "quote": "Ekobrottsmyndigheten kan inom ramen för sitt brottsförebyggande arbete konstatera att ideella föreningar, till följd av låg transparens och bristfälliga kontrollmekanismer, används för ekonomisk brottslighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": -0.5,
+      "quote": "Ekobrottsmyndigheten ser sammanfattningsvis en betydande risk för att förslaget förenklar en överföring av brottsvinster till den legala ekonomin.",
+      "quote_type": "grund"
+    }
+  ]
+}

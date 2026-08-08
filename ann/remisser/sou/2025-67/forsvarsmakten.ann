@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/forsvarsmakten": "55caf1baf8ea06cfe8def3ece0a396dc83dc47da97d726c3f096c0dd7a45a47d",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försvarsmakten ställer sig särskilt positiva till de av utredningens förslag som sammanfaller med de förslag Försvarsmakten lämnat till regeringen för att uppnå Sveriges Nationella plan för militär rörlighet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.5,
+      "quote": "Försvarsmakten anser att formuleringen ”totalförsvarsändamål, det vill säga militära och andra samhällsviktiga transporter” kan bidra till otydlighet i tillämpningen av bestämmelserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec320",
+      "sentiment": 1.0,
+      "quote": "Försvarsmakten delar därför utredarens uppfattning att det är av stor vikt att tillräckliga mandat finns för att möjliggöra nödvändiga militära och andra samhällsviktiga transporter.",
+      "quote_type": "grund"
+    }
+  ]
+}

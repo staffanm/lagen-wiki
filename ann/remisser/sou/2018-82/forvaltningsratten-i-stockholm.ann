@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/forvaltningsratten-i-stockholm": "d8ab66aa5bc99cc196755670763d22dd0537950a0357a737efe271991fc78dbd",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Utredningens bedömning att förslaget medför en begränsad måltillströmning, och en liten påverkan på domstolarna, är mot den bakgrunden ytterst osäker.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec300",
+      "sentiment": -0.5,
+      "quote": "Eftersom förvaltningsrätten är exklusivt forum innebär förslaget också att förvaltningsrätten inte har möjlighet att lämna över mål som rör den egna verksamheten för prövning vid en annan domstol.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec27",
+      "sentiment": -0.5,
+      "quote": "Domstolarnas självständighet gör att tillsyn över domstolar är en komplex fråga.",
+      "quote_type": "grund"
+    }
+  ]
+}

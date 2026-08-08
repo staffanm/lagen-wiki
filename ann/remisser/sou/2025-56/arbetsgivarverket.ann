@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:56/arbetsgivarverket": "1ab703a92f1359fcbe65d2dc98f69a2242445139f5bb95d9082fc7338568a458",
+      "artifact:forarbete/sou/2025-56": "aa474607a823f641b3c41a3a7a0ae03a90bc89660beb4c770fe2fdd7ff299a48"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Utredningens förslag riskerar att medföra ett antal negativa konsekvenser som inte väger upp de eventuella positiva effekterna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.4",
+      "sentiment": 0.5,
+      "quote": "Arbetsgivarverket delar bedömningen att det är lämpligt att i förebyggande syfte stärka domstolarnas och domarnas vertikala oberoende.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec10",
+      "sentiment": -1.0,
+      "quote": "Det arbetsrättsliga inslaget är så begränsat att det kan ses som i det närmaste utraderat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -1.0,
+      "quote": "Arbetsgivarens möjlighet att agera mot ordinarie domare som agerar olämpligt försvagas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.5,
+      "quote": "Detta kan inte anses omfattas av kommittédirektivet och det kan konstateras att reglerna om bisysslor för domare är mycket omdiskuterade.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.15",
+      "sentiment": -0.2,
+      "quote": "Det är oklart hur det ska hanteras framöver och om den nya ordningen överensstämmer med Sveriges internationella åtaganden.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:63/myndigheten-for-yrkeshogskolan": "46cfabe2efe05fb3a2b2fcabdd9b89faaa0f9ae8848aae1282e9f4548dfe2b47",
+      "artifact:forarbete/sou/2025-63": "461094f462cdf3d5e300f64df1c13bc71f9e5017089a2d108dbaf9978b04511e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "MYH instämmer i utredningens bedömning avseende utbildning till yrkesrollerna medicinsk vårdadministratör, specialistutbildad undersköterska och medicinsk fotterapeut.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.18",
+      "sentiment": -0.5,
+      "quote": "För att bidra till ett säkerställande av ökad patientsäkerhet inom tandvården föreslår därför myndigheten för yrkeshögskolan en reglering som innebär att utbildning till tandsköterska enbart ska få ges inom yrkeshögskolan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.12",
+      "sentiment": 0.2,
+      "quote": "Detta går i linje med signalerna myndigheten får från arbetslivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.13",
+      "sentiment": 0.5,
+      "quote": "Myndigheten delar uppfattningen att ytterligare utredning av behovet att reglera specialiserande utbildningar för bland annat undersköterskor vore önskvärt.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": 1.0,
+      "quote": "Förslaget om reglering av utbildningar som avser yrkesrollen medicinsk fotterapeut tillstyrker myndigheten i sin helhet.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

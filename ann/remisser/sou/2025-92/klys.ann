@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:92/klys": "80432a89038d647c1e64ab6784b90bf483e31c18e636979620ae9072a8b5d23c",
+      "artifact:forarbete/sou/2025-92": "c1db6346e92cb1aaf69fe092a6e40e7ceba88b5192c9caee2959771165f82273"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Sammantaget gör detta att KLYS avstyrker förslaget om att bilda en stiftelse.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.2",
+      "sentiment": -1.0,
+      "quote": "Vi bedömer att den föreslagna konstruktionen medför risker för styrning av konstnärligt och kulturellt innehåll och att principen om armlängds avstånd kan komma att urholkas, inte minst utifrån att bildandet av stiftelsen sker utifrån en politisk beställning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Förslaget föregås inte av en tillräckligt genomarbetad konsekvensanalys, särskilt vad gäller de ekonomiska och principiella konsekvenserna av att avskilja medel från Allmänna arvsfonden – en fond som under närmare ett sekel utgjort ett betydande och stabilt finansieringsinstrument för civilsamhället.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec550",
+      "sentiment": -0.2,
+      "quote": "KLYS noterar vidare att antagandet om en långsiktig real avkastning om fyra procent framstår som optimistiskt mot bakgrund av de senaste årens föränderliga finansiella marknader.",
+      "quote_type": "grund"
+    }
+  ]
+}

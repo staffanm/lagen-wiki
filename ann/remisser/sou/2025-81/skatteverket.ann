@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:81/skatteverket": "eaeda61aea5a624cc061b448248d3c9a714bd11fc63bab86a697e971ed1cbc8d",
+      "artifact:forarbete/sou/2025-81": "18dbd0bb1ff96f8c252ba4781ad24b1dde501603dec2d1055b6aac74edf95632"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket tillstyrker förslagen gällande • åtkomst till vissa uppgiftssamlingar (avsnitt 8), • utmätning på distans (avsnitt 9) och • sanktionsväxling (avsnitt 10).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 0.2,
+      "quote": "Skatteverket anser att myndigheten bör ha direktåtkomst till penningtvättsregistret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 0.2,
+      "quote": "Skatteverket bedömer dock att kostnaderna kommer att bli betydande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Skatteverket tillstyrker förslagen gällande • åtkomst till vissa uppgiftssamlingar (avsnitt 8), • utmätning på distans (avsnitt 9) och • sanktionsväxling (avsnitt 10).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Skatteverket tillstyrker förslagen gällande • åtkomst till vissa uppgiftssamlingar (avsnitt 8), • utmätning på distans (avsnitt 9) och • sanktionsväxling (avsnitt 10).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 0.0,
+      "quote": "Förslaget gällande rekonventionstalan (avsnitt 11) berör inte Skatteverkets verksamhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

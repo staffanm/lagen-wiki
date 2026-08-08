@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/lansstyrelsen-vastra-gotalands-lan": "0f82ad7c2a40b7f483e5ab41768e5e705defccd810edddfae1026c7ca46f79d3",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen tillstyrker förslaget men med vissa påpekanden.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.1",
+      "sentiment": -0.5,
+      "quote": "Att förutsätta, så som anges på sidan 135, att regleringen är avsedd för seriösa aktörer anser vi inte vara en tillräcklig analys av konsekvenserna av förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.2",
+      "sentiment": 0.2,
+      "quote": "Vår erfarenhet från handläggningen av deponeringsärenden är att det är viktigt med tydlighet om vem som har ansvaret att meddela oss att en stämningsansökan har lämnats in till tingsrätten.",
+      "quote_type": "grund"
+    }
+  ]
+}

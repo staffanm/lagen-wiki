@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/ekonomistyrningsverket": "619664ca0fd0c75c23580ffcfb34f548a9b99cc3db7c8caeec13bd9f295a6ecb",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "ESV har inget att invända mot förslagen men vill framhålla följande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a21",
+      "sentiment": -0.2,
+      "quote": "ESV tolkar formuleringen som att ett obestämt ekonomiskt mål ska gälla för verksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a21",
+      "sentiment": -0.5,
+      "quote": "Det leder till låg transparens (för riksdagen) genom att avgiftsintäkterna och motsvarande kostnader redovisas utanför statsbudgeten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a26.10",
+      "sentiment": -0.5,
+      "quote": "Den tabell som redovisar effekterna på statens budget är missvisande.",
+      "quote_type": "grund"
+    }
+  ]
+}

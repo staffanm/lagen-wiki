@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/aklagarmyndigheten": "8277e29e35a6a4bb7c89399766feccc5f282d312d431902f5c5181fc5d4ef596",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Åklagarmyndigheten anser att det bör övervägas om det vore mer ändamålsenligt att straffbelägga uppsåtliga och oaktsamma överträdelser av vistelseförbud och understryker vikten av att de föreskrifter som utfärdas är så tydliga och enkla som möjligt för de som ska följa och tillämpa dem.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec52",
+      "sentiment": 0.2,
+      "quote": "Som myndigheten framförde i samband med införandet av covid-19-lagen är det viktigt att de platser som avses beskrivs noggrant, inte bara på platsen i form av skyltning eller avspärrningar, utan även i själva förbudet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec54",
+      "sentiment": -0.2,
+      "quote": "Nu när bestämmelsen ska permanenteras finns det skäl att överväga om det inte vore mer ändamålsenligt att straffansvar ska omfatta den som uppsåtligen eller av oaktsamhet bryter mot en föreskrift om vistelseförbud.",
+      "quote_type": "grund"
+    }
+  ]
+}

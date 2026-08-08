@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/pensionsmyndigheten": "acc977e8d6d0e38616fc975999ef285fa127f5a64cbf5345b1915a9bcd3647c6",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Pensionsmyndigheten tillstyrker förslaget om en ny bestämmelse i offentlighetsoch sekretesslagen (2009:400), OSL, som förtydligar att det finns rättslig grund för att behandla personuppgifter i enlighet med EU:s dataskyddsförordning när uppgifter som inte är sekretessbelagda i förhållande till mottagaren lämnas ut på initiativ av den utlämnande myndigheten.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.8.5",
+      "sentiment": 0.5,
+      "quote": "Pensionsmyndigheten anser fortsatt att ett sådant förtydligande är en viktig förutsättning för att myndigheterna ska kunna utveckla effektiva system för uppgiftsutbyte med stöd av den nya sekretessbrytande bestämmelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.5",
+      "sentiment": -0.5,
+      "quote": "Pensionsmyndigheten bedömer dock att myndighetens behov av att kunna behandla personuppgifter kommer att förändras över tid och att de nuvarande ändamålsbestämmelserna därmed riskerar att begränsa myndighetens möjligheter att utveckla nya ändamålsenliga digitala arbetssätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

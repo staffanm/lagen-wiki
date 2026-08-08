@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/orebro-universitet": "f8adc2c3eaadebda3b37ff6291049d02bdf5c74a7f4e48747d4a4c6593492bf8",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "SOU 2025:25 är en omfattande rapport som behandlar många aspekter av kriminalitet i arbetslivet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4",
+      "sentiment": -0.2,
+      "quote": "Kriminologisk forskning har dock länge visat, med början i Edwin Sutherlands arbete om white-collar crime, att de sociala skadorna från synliga och känslomässigt starka brott ofta bleknar i jämförelse med de som orsakas av stora företag inom finans-, energi- och industrisektorerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec335",
+      "sentiment": 0.2,
+      "quote": "Däremot presenteras inte någon tydlig bild av hur det praktiska samspelet mellan myndigheter ska gå till.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec338",
+      "sentiment": -0.5,
+      "quote": "Om Sverige ska bedriva brottsförebyggande arbete utifrån en evidensbaserad ansats måste utvärderingsprocesser byggas in redan i utformningen av nya insatser.",
+      "quote_type": "grund"
+    }
+  ]
+}

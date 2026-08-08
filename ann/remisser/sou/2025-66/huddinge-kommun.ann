@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:66/huddinge-kommun": "860df3104cea23cc68cefa1451dc8a4e5ca99a7843129ea5edad5d15315af5ed",
+      "artifact:forarbete/sou/2025-66": "d17cda5a6b525b2e0549fcf8bcc405271e7eef9479b900db16a2c9a1e0fefab0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sammantaget bedömer Huddinge kommun att förslagen i betänkandet kan få viss påverkan på kommunens verksamheter, men att omfattningen sannolikt blir begränsad.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -0.2,
+      "quote": "Om fler personer döms till villkorligt fängelse med krav på aktivitet eller sysselsättning, aktualiseras frågan om ansvarsfördelning mellan kommunen och Arbetsförmedlingen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": -0.2,
+      "quote": "Vidare kan en ökning av antalet frihetsberövade, genom fler eller längre fängelsestraff, marginellt påverka kommunens kostnader för ekonomiskt bistånd.",
+      "quote_type": "grund"
+    }
+  ]
+}

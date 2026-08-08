@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:31/centrala-studiestodsnamnden": "b322ec7b3db4cda3afebc462f907979a652b2ef6ad5aa57f8ed13805f57db13c",
+      "artifact:forarbete/sou/2025-31": "e7c4dbe9b042c6e1d10f651782855418bac084c351c484930a03ffa7ab2a06bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Utredningens förslag får följaktligen påverkan på CSN:s verksamhet och CSN begär full kostnadstäckning för utredningens förslag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.7.1",
+      "sentiment": 0.2,
+      "quote": "Mot bakgrund av att det nu i stor utsträckning framgår direkt av lagen vilka uppehållstillstånd som ger rätt till studiestöd anser CSN att det kan finnas skäl att överväga om det skulle kunna bidra till ökad tydlighet och förutsebarhet om även förutsättningarna för att den som beviljats statusförklaring ska ha rätt till stöd framgick av lagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "CSN har inget att invända mot förslaget om ikraftträdande förutsatt att myndigheten får full kostnadstäckning för nödvändigt utvecklingsarbete enligt vad som framgår i avsnitt 11.4 nedan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4",
+      "sentiment": -0.5,
+      "quote": "Om myndigheten inte får anslagsförstärkning som motsvarar angivna kostnader kommer det att få konsekvenser för CSN:s förmåga att leverera uppdraget, i form av längre handläggningstider, eller få påverkan på och tränga ut annan utveckling såsom exempelvis nödvändig digital förnyelse.",
+      "quote_type": "grund"
+    }
+  ]
+}

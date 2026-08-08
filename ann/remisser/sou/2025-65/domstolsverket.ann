@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/domstolsverket": "e578a11a03dd6963ae37eb8b1cdbcf30de9cc63a9355a54fa0e0e2495628bff9",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Domstolsverket har inga synpunkter på förslagen i sak.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.4.8",
+      "sentiment": 0.5,
+      "quote": "Det är emellertid förenat med svårigheter att bedöma hur förslagen kommer att påverka målinflödet vid tingsrätterna och hyres- och arrendenämnderna.",
+      "quote_type": "grund"
+    }
+  ]
+}

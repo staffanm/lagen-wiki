@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:49/centrum-for-rattvisa": "3771d0adcadcd803b87d59d73bd0f8e591e7196a0a47e2b53275fd4b48622aa4",
+      "artifact:forarbete/sou/2025-49": "5ef2d5ef8c6493b78e414bdd605c5e95ce874ee1ce91bafc844c62cff010b775"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "utredningens förslag kommer att medföra större risker för den personliga integriteten än nuvarande reglering",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.1.2",
+      "sentiment": 1.0,
+      "quote": "medför Säkerhetspolisens behandling av stora informationsmängder enligt den föreslagna lagen motsvarande risker för enskildas rättigheter som hemlig massövervakning i form av signalspaning",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7.2",
+      "sentiment": -0.5,
+      "quote": "riktade sökningar mot en viss fysisk person i bulkinsamlad data möjliggör en mycket ingående och integritetskänslig kartläggning och profilering av personen ifråga",
+      "quote_type": "grund"
+    }
+  ]
+}

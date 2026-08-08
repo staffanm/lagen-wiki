@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:125/statens-veterinarmedicinska-anstalt": "e677b5c7c069f369b8f44946ff8e1c8271e45a5544b90c7432df4b1ea4820dc1",
+      "artifact:forarbete/sou/2025-125": "8fbe18bc2acd39c5bc37f0d668576018901c84abb912d974543ac98521ecb8c8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Statens veterinärmedicinska anstalt (SVA) tillstyrker förslaget utifrån de delar som berör myndighetens uppdrag och önskar framföra följande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.9.2",
+      "sentiment": 0.5,
+      "quote": "SVA anser dock att det kan förtydligas att jakträttshavaren, inom formuleringen får genomföra de åtgärder som behövs, även kan delegera eller godkänna att annan person genomför åtgärder som leder till avlivningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.10",
+      "sentiment": 0.5,
+      "quote": "Här anser SVA att det är viktigt att den myndighet som beslutar om skyddsjakt inför dessa beslut har god samverkan och samråd med SVA som expertmyndighet, och med Jordbruksverket som hanterare av utbrott av allmänfarliga djursjukdomar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.10",
+      "sentiment": 0.5,
+      "quote": "Dessa är förslag som liknar tidigare lagstiftning och fungerar väl under förutsättning att samverkan och kommunikation mellan SVA, Naturvårdsverket, länsstyrelser, Naturhistoriska riksmuseet och Polisen fungerar minst lika bra som i nuläget.",
+      "quote_type": "grund"
+    }
+  ]
+}

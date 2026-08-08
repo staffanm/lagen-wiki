@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/foretagarna": "90ac6e61fb598a6bf5346cdbf4ea9932f0a40e8d829370932f4a177509bef7f6",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förslaget om att införa ett nytt konkurrensverktyg avstyrks. Förslaget om att införa en informationsplikt för företag tillstyrks.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": -1.0,
+      "quote": "Det skulle innebära ett principiellt skifte från en ordning där tillsyn grundas på konstaterade lagöverträdelser till att myndigheten ges befogenhet att påverka marknaders utformning utifrån mer otydliga och svåravgränsade konkurrensproblem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 1.0,
+      "quote": "Genom att ge Konkurrensverket denna möjlighet kan konkurrenssituationen på aktuell marknad säkerställas utan att den administrativa bördan för företagen blir alltför betungande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": 0.5,
+      "quote": "Företagarna tillstyrker utredningens förslag förutom delarna om överflyttning av mål till allmän förvaltningsdomstol samt avskaffande av den subsidiära talerätten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec439",
+      "sentiment": -0.5,
+      "quote": "Ekonomiska frågor och konkurrensrätt hanteras bäst av patent- och marknadsdomstolar, särskilt vid bedömning av exempelvis underprissättning och diskriminering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec440",
+      "sentiment": -0.5,
+      "quote": "Eftersom utredningens förslag innebär ett förbättrat och tydligare regelverk som kan stärka företagens möjligheter att driva ärenden på egen hand, finns starka skäl att behålla den subsidiära talerätten som en viktig rättssäkerhetsgaranti.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 0.5,
+      "quote": "Företagarna anser dock även offentliga aktörer bör omfattas av förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec37",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker därför förslaget om utökade tidsfrister för Konkurrensverket och för domstolarna i koncentrationsärenden.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

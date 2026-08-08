@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/lansstyrelsen-i-sodermanlands-lan": "0a2b85c48659e1c5af35d67382b8c21ec0e0e8e09064b8e185d807546abc3e62",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Länsstyrelsen avstyrker att Livsmedelsverket får ansvaret för kontrollerna av primärproduktion av livsmedel respektive foder.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19.1",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen bör behålla kontrollen av livsmedel och foder i primärproduktion då statlig organisation för detta på regional nivå samt kompetens redan finns på plats i etablerad form.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.2",
+      "sentiment": -1.0,
+      "quote": "Kontrollen av foder i primärproduktionen bör även i fortsättningen utföras av Länsstyrelsen av samma skäl som anges under föregående rubrik i Länsstyrelsens yttrande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.2",
+      "sentiment": 1.0,
+      "quote": "Kontroll av transport av animaliska biprodukter är ett kontrollområde som i dag i vissa fall är svårt för Länsstyrelsen att effektivt kontrollera i och med att många aktörer bedriver verksamhet i flera län.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.3",
+      "sentiment": 1.0,
+      "quote": "Att kontrollansvaret för djurskydd vid slakt och animaliska biprodukter samt revision av slakterier flyttas till Livsmedelsverket innebär en förenkling av kontrollen då Livsmedelsverket genom officiell veterinär redan närvarar på slakteriet och har kontrollansvaret för djurskydd vid slakt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a21.4.1",
+      "sentiment": 1.0,
+      "quote": "Offentlig kontroll och annan offentlig verksamhet av livsmedels- och foderanläggningar inom primärproduktionen har länge varit anslagsfinansierad och Länsstyrelsen instämmer därför i bedömningen att offentlig kontroll och annan offentlig verksamhet avseende livsmedel, foder och ABP i primärproduktionen ska finansieras med anslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

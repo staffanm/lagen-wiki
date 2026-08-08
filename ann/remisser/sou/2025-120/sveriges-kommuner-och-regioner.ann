@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/sveriges-kommuner-och-regioner": "068b6d47b66e0646dab794781036775df18b15c36d812a75a6bf16dd33efd8d1",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "SKR välkomnar ambitionen att korta ner byggtiderna för transportinfrastrukturåtgärder vilket är en angelägen fråga för kommuner och regioner.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec6",
+      "sentiment": -0.2,
+      "quote": "Bolagets rollfördelningen mot Trafikverket, kommuner och regioner är central och behöver vara tydlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.5,
+      "quote": "Avseende val av åtgärder anser SKR att det är lämpligt att komplettera beslutsunderlag med lokala och regionala nyttokriterier så som pendling, näringsliv och bostadsförsörjning med flera.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.3",
+      "sentiment": -0.2,
+      "quote": "Vid val av bolagsformen ges en annat offentlighetsstruktur än vid myndighetsform. Om detta kan påverka olika aktörers insyn i arbetet är det något som behöver beaktas i ägardirektiv för föreslaget bolag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec12",
+      "sentiment": -0.2,
+      "quote": "Här är nuvarande planeringscykel med få justeringar mellan planrevideringar vart fjärde år en begränsande faktor.",
+      "quote_type": "grund"
+    }
+  ]
+}

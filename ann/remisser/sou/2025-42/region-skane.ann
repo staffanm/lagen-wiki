@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/region-skane": "9bcf9ad072825a7220254ec0ce3ee1d3ef7ec4342962caec6fe98a3927b6a07a",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammanfattningsvis tillstyrker regionen i huvudsak de föreslagna ändringarna i SOU 2025:42, då de sammantaget stärker skyddet för Sveriges säkerhet (förhållanden av grundläggande betydelse för Sverige), men understryker vikten av att man i det vidare arbetet beaktar behovet av rättssäkerhet, proportionalitet och hanterbarhet för komplexa organisationer med blandade säkerhetsskyddsnivåer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": 1.0,
+      "quote": "Regionen anser att detta är en rimlig anpassning till det förändrade säkerhetspolitiska läget och stärker säkerhetsskyddets preventiva funktion.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.2",
+      "sentiment": 1.0,
+      "quote": "Förslaget har potential att öka säkerhetsmedvetandet hos verksamhetsutövare och minska riskerna kopplat till de nationella säkerhetsintressena.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "Förslaget är relevant i ett skärpt hotläge och kan bidra till ökad flexibilitet, både på kort och på lång sikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.2,
+      "quote": "en ytterligare administrativ börda i kombination med ökade volymer och ökade integritetsrisker riskerar att ytterligare fördröja eller försvåra rekrytering och tillsättning av nyckelkompetens.",
+      "quote_type": "grund"
+    }
+  ]
+}

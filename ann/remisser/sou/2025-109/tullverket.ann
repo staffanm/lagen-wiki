@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:109/tullverket": "724e6c3343a8ce1510850a44160986f5cb94bd9dea30b802e20585f57df5da94",
+      "artifact:forarbete/sou/2025-109": "98c6ec215c748b185b72329d97ae9b9b49e64e1ef1e2e530c207deb50c4d88d5"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Tullverket tillstyrker utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Tullverket delar utredningens bedömning att de brottsbekämpande myndigheterna har behov av att använda provokativa åtgärder i den brottsutredande verksamheten och att det finns behov av ett tydligare regelverk när det gäller användningen av vissa former av provokativa åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 1.0,
+      "quote": "Tullverket är även enig med utredningen om att de brottsbekämpande myndigheterna har behov av att kunna använda fordon med uppgifter som innebär att fordonen inte kan kopplas till myndigheterna, både för att utreda och för att förhindra brott.",
+      "quote_type": "grund"
+    }
+  ]
+}

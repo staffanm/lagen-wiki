@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/sakerhetspolisen": "c0367b99c4a322055987304c84aa520fd0d8c6f341af732d804ebcead1981134",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I övrigt har Säkerhetspolisen ingen erinran mot utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.4.4",
+      "sentiment": -0.5,
+      "quote": "En sådan kompletterande bestämmelse skulle ge ökad tydlighet och underlätta för säkerhetskänsliga verksamheter och leverantörer till säkerhetskänsliga verksamheter, vilka annars själva i varje enskilt fall skulle behöva göra en bedömning av vilken information som undantaget i förordningen omfattar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.7",
+      "sentiment": -0.5,
+      "quote": "En sådan kompletterande bestämmelse skulle ge ökad tydlighet och underlätta för säkerhetskänsliga verksamheter och leverantörer till säkerhetskänsliga verksamheter, vilka annars själva i varje enskilt fall skulle behöva göra en bedömning av vilken information som undantaget i förordningen omfattar.",
+      "quote_type": "grund"
+    }
+  ]
+}

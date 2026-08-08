@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:86/lansstyrelsen-vastra-gotaland": "a2722f9a47f176df756c0ebab20cdd768e9ee52abfa6b0462b4d5a26cf2e7e16",
+      "artifact:forarbete/sou/2025-86": "b0dcdd24a25a2d12cb2cbd40a2be00ca8cbb7c0ad6b35674c7550080e553e1d9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen tillstyrker i allt väsentligt betänkandets förslag om hur personalförsörjningen av det militära försvaret ska stärkas.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec12",
+      "sentiment": -0.5,
+      "quote": "Skulle utredningens förslag om att även tidigare yrkesofficerare och reservofficerare omfattas av en förlängd skyldighet att fullgöra värnplikt så kan det påverka länsstyrelsens möjlighet att fullgöra uppdraget inom det civila försvaret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.9.2",
+      "sentiment": 0.5,
+      "quote": "Det är dock viktigt för Länsstyrelsen att eventuella ökade kostnader för vår myndighet täcks av statlig ersättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec287",
+      "sentiment": 0.2,
+      "quote": "Samtidigt kan det medföra en osäkerhet i myndighetens egen personalplanering och i värsta fall ett betydande bortfall av nyckelkompetenser under långa perioder och vid höjd beredskap.",
+      "quote_type": "grund"
+    }
+  ]
+}

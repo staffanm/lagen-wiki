@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/lansstyrelsen-i-skane-lan": "a17332993d4d3731619eb96b0d5e22699d8af596c5d83180479d34e57ed3eb1e",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Skåne län (nedan länsstyrelsen) tillstyrker i huvudsak utredningens förslag och ser positivt på reformerna som ett led i att minska antalet valsedlar för att få ett mer robust valsystem.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": -0.5,
+      "quote": "Fler handskrivna röster kan leda till att länsstyrelsen under den slutliga rösträkningen ställs inför fler svåra bedömningar och tolkningar av vilket parti samt vilken kandidat väljaren avser att rösta på.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.2,
+      "quote": "Fler handskrivna röster kan också leda till att fler röster bedöms vara ogiltiga. Detta kan i sin tur leda till ett minskat förtroende för valsystemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen bedömer att förslaget kommer att vara tidsbesparande vid den slutliga rösträkningen eftersom rösterna inte behöver redovisas separat för varje lista, vilket behövs om partiet har flera parallella listor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.7.1",
+      "sentiment": -0.2,
+      "quote": "De föreslagna reformerna ställer högre krav på väljarens förkunskaper om bland annat vilka partier och kandidater som ställer upp i valet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen vill belysa vikten av att man vid utvärderingen inkluderar väljarperspektivet och särskilt beaktar konsekvenserna för väljare som har svårt att realisera sin rösträtt på grund av system, strukturer och andra hinder i samhället.",
+      "quote_type": "grund"
+    }
+  ]
+}

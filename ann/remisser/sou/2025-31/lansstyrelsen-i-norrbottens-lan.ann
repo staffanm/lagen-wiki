@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:31/lansstyrelsen-i-norrbottens-lan": "d14c5f0072be17a6f560c141b43ab8f6e1901c4310611152ac2ff2f2d71062f4",
+      "artifact:forarbete/sou/2025-31": "e7c4dbe9b042c6e1d10f651782855418bac084c351c484930a03ffa7ab2a06bd"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Förslaget riskerar att få negativa konsekvenser för etablering och integration.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec113",
+      "sentiment": -0.5,
+      "quote": "Förslaget innebär en försämring av möjligheten till en rättssäker prövning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Förslaget innebär en väsentlig förändring av uppdraget som god man.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser att förslaget får negativa konsekvenser för integrationen vilket kan få följdverkningar i ett län som Norrbotten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.2",
+      "sentiment": -1.0,
+      "quote": "Att tidsbegränsa uppehållstillstånden för denna grupp framstår som inhumant, men även kostandsineffektivt då utredningen själv konstaterar att kvotflyktingar i princip alltid kommer att ha rätt till uppehållstillstånd i samband med förlängning.",
+      "quote_type": "grund"
+    }
+  ]
+}

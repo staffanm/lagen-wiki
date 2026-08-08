@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:1/stockholms-handelskammare": "4eb51cce5fbbe4e173bc393ffa4228c0f84e55ab6caecdaff57ec1210d3225c3",
+      "artifact:forarbete/sou/2026-1": "800122abdf1a75716ad0b7e15b8b8e168d5039afbac180a5b4abf6bbfb8f9388"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi anser att detta alternativ är klart mer konkurrenskraftigt, enkelt att tillämpa och har låg risk för missbruk, jämfört med alternativ 2 (QRTC).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "Det förhöjda kostnadsavdraget är enligt utredningens egna beräkningar dubbelt så kraftfullt som den återbetalningsbara skattereduktionen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Den återbetalningsbara skattereduktionen som utredningen föreslår är i jämförelse ett svagare alternativ med snävare bas och lägre nivå än vad jämförbara länder, till exempel Irland, erbjuder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.4",
+      "sentiment": 1.0,
+      "quote": "SHK välkomnar att utredningen avvisar krav på förhandsgodkännande, vilket är särskilt viktigt för små och medelstora företag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -0.2,
+      "quote": "Nuvarande definition har kritiserats för att vara snäv och svårtillämpad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -0.2,
+      "quote": "SHK:s bedömning är att utredningen sannolikt överskattar budgeteffekterna och därmed finansieringsbehovet för reformen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.13",
+      "sentiment": -1.0,
+      "quote": "NSD:s analys visar att omkring hälften av den ökade skattebördan till följd av denna åtgärd skulle bäras av FoU-företag, det vill säga precis de företag som reformen avser att stimulera.",
+      "quote_type": "grund"
+    }
+  ]
+}

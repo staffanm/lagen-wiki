@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/svenskt-naringsliv": "6e0faf9e4415e055c15ee90ac4f63d8754dc70a2e613676473260227c7ba306f",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Bostadsmarknadens dysfunktioner hämmar arbetskraftens rörlighet och medför betydande samhällsekonomiska kostnader",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": 1.0,
+      "quote": "Förslaget sänker transaktionskostnader, ökar förutsägbarhet och frigör underutnyttjat bestånd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1.4",
+      "sentiment": 1.0,
+      "quote": "Det ger mer proportionerlig avvägning mellan föreningens intressen och innehavarens behov och förbättrar resursutnyttjandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 1.0,
+      "quote": "Detta minskar de ekonomiska riskerna och kan öka utbudet i segment med hög nytta av rörlighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:69/arbetsmiljoverket": "6656b4b201773745b294352c7a84145788981ba3d96d3a46bf44bab79580ba72",
+      "artifact:forarbete/sou/2025-69": "e9fe403717ef019299c4fc8689d9fb71197ea9f2a8ad889130b543582d2661a1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Arbetsmiljöverket tillstyrker förslaget att lägga till Arbetsmiljöverket till de myndigheter som vid behov ska omfattas av samrådsskyldighet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 1.0,
+      "quote": "Arbetsmiljöverket tillstyrker förslaget att lägga till Arbetsmiljöverket till de myndigheter som vid behov ska omfattas av samrådsskyldighet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec306",
+      "sentiment": 0.8,
+      "quote": "Utifrån de överväganden som utredningen redovisat, bland annat det merarbete som det skulle innebära för berörda myndigheter, har Arbetsmiljöverket förståelse för utredningens bedömning att en sådan informationsskyldighet inte bör införas.",
+      "quote_type": "grund"
+    }
+  ]
+}

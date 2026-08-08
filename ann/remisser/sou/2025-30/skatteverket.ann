@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/skatteverket": "260ae389fa9c84119f9df86cc87a9627738e34a4d5fc515ed3707bb1d25d15f0",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslagen ryms inom ramen för bestämmelserna i rådets direktiv 2006/112/EG om ett gemensamt system för mervärdesskatt (mervärdesskattedirektivet) och innebär tydligare och enklare mervärdesskatteregler som minskar företagens administrativa börda.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3",
+      "sentiment": 0.2,
+      "quote": "För att undvika en sådan tolkning anser Skatteverket att det bör framgå att ”så gott som uteslutande” i detta sammanhang kan avse mer än 90 procent av värdet på varorna eller mer än 90 procent av antalet varor som ett företag säljer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.6",
+      "sentiment": 0.2,
+      "quote": "Där saknas det information om hur företagen ska hantera ovanstående varuinköp och därmed hur man beräknar vinstmarginalen och beskattningsunderlaget vid övergången till de nya bestämmelserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": 0.2,
+      "quote": "Som texten är formulerad nu kan man felaktigt uppfatta det som att det finns en valfrihet att tillämpa förenklad vinstmarginalbeskattning i stället för normal vinstmarginalbeskattning i dessa situationer (s. 204).",
+      "quote_type": "grund"
+    }
+  ]
+}

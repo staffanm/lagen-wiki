@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/ekero-kommun": "775ac9bef5d37e23fa5747f483f99053cd8c7c7d96d5f1a170ae947affd5dea4",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Ekerö kommun tillstyrker utredningen och ser förbättrad tillgänglighet till Arlanda som avgörande för regionens konkurrenskraft.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.2,
+      "quote": "För att stärka Arlandas funktion som arbetsplatsnod och för att skapa bättre förutsättningar för näringslivet inom regionens alla delar, bör denna aspekt beaktas i det fortsatta arbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec275",
+      "sentiment": 0.5,
+      "quote": "Vägen mellan Arlanda och Stockholm måste få ökad kapacitet genom utbyggnad.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec338",
+      "sentiment": 0.5,
+      "quote": "Förslagen bör kompletteras med snabbuss- eller BRT-lösningar till strategiska pendeltågsstationer såsom Barkarby, Kista och Märsta, med syfte att skapa effektiva och tillförlitliga förbindelser till Arlanda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": 0.5,
+      "quote": "På så sätt säkerställs att dessa resurser inte konkurrerar med andra prioriterade infrastrukturbehov på såväl regional som nationell nivå.",
+      "quote_type": "grund"
+    }
+  ]
+}

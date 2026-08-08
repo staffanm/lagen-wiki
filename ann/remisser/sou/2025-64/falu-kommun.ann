@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/falu-kommun": "3310864c213aed9bcdf500b80c648bf9b103c626c0ddb86ddaf78f24d86fa105",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Myndighetsnämnden för bygg- och miljöfrågor (MyN) har inget att yttra i ärendet utan ställer sig positiva till förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.6",
+      "sentiment": 1.0,
+      "quote": "Bedömningen är att en kontrollmyndighet är den optimalaste lösningen för hela livsmedelskedjan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.2",
+      "sentiment": 1.0,
+      "quote": "När det gäller tillsyn rörande ABP är det många kommuner som inte haft resurser att genomföra denna tillsyn bla Falu kommun.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.1.6",
+      "sentiment": 1.0,
+      "quote": "Förslaget innebär också att samtliga livsmedelsinspektörer får fler kollegor vilket bidrar till bättre samsyn och ökad möjlighet som inspektör att bli specialiserad i olika frågor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a21.7",
+      "sentiment": 0.5,
+      "quote": "Detta kan innebära högre timtaxor för företag som tidigare haft kommunal kontroll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.3.8",
+      "sentiment": 1.0,
+      "quote": "ett exempel är livsmedelsfusk och annan kriminalitet som är kopplat till livsmedelskedjan, en uppgift som är lättare att genomföra i en organisation som täcker hela landet.",
+      "quote_type": "grund"
+    }
+  ]
+}

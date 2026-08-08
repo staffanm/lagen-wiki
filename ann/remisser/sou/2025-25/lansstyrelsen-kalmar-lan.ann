@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/lansstyrelsen-kalmar-lan": "b9d425b141d1c0878b2d9f735c0d591da1025970ed0ebb2976d000a3a813fa42",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Länsstyrelsen delar delegationens bedömning att arbetet mot arbetslivskriminalitet måste bedrivas långsiktigt och effektivt och de förslag på åtgärder som föreslås i slutbetänkandet bör leda till att arbetslivskriminaliteten kan begränsas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3.5",
+      "sentiment": 0.5,
+      "quote": "För att utveckla detta arbete på ett mer likvärdigt sätt ser Länsstyrelsen positivt på ett formaliserat och resurssatt uppdrag för att ytterligare bidra i det fortsatta arbetet mot arbetslivskriminalitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": 0.5,
+      "quote": "Ett uttalat uppdrag till länsstyrelserna skulle kunna stärka och stötta samverkan mellan den lokala, regionala och nationella nivån.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.8",
+      "sentiment": 0.2,
+      "quote": "För framtida arbete och analyser är det viktigt att följa upp förslagen som verkställs och vilken effekt de har på brottslighet och det brottsförebyggande arbetet.",
+      "quote_type": "grund"
+    }
+  ]
+}

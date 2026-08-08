@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:78/fortifikationsverket": "78390dc2e181e9126bf493f458acab8eaf4097bd7ff14579962a3246f2047888",
+      "artifact:forarbete/sou/2025-78": "5e962ecad284bd4ad32df402fefc51220b5adbb1f6196029e4d8b81eb1e4f5b2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Fortifikationsverket bedömer att betänkandet inte innehåller något förslag som primärt påverkar myndigheten.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.1",
+      "sentiment": 0.5,
+      "quote": "en utvecklad och anpassad civil utrikes underrättelsetjänst bidra till att höja Fortifikationsverkets förmåga till strategiska förvärv av fast egendom och säkerställa kontroll över områden av betydelse för totalförsvaret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": -0.2,
+      "quote": "Fortifikationsverket konstaterar att betänkandet inte innehåller något resonemang om de infrastrukturella konsekvenserna av utredningens förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.5",
+      "sentiment": 1.0,
+      "quote": "Fortifikationsverket välkomnar därför dels utredningens förslag om stärkt digital förmåga och ett nödvändigt tekniklyft för en effektiv informationsdelning mellan totalförsvarsmyndigheter, dels att formerna för delgivning utvecklas.",
+      "quote_type": "grund"
+    }
+  ]
+}

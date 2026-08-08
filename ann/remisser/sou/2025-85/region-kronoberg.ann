@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/region-kronoberg": "9ef412e8b3dc4427cda1fda584adb9fc517b60cac74579271843e9b22a4b1735",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Kronoberg ser positivt på att utredningen har tillsatts och är i stort positiv till regeringens delbetänkande om regional- och landsbygdsutveckling.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Region Kronoberg tillstyrker författningsförslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec124",
+      "sentiment": 0.5,
+      "quote": "det är angeläget att kontaktytorna mellan regionerna och de nationella myndigheterna stärks liksom att det finns en ökad statlig närvaro i hela landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": -0.2,
+      "quote": "det innebär en stor risk att alltför detaljerade nationella styrmedel, exempelvis i form av delmål som direkt omfattar regionerna, kan ge en negativ påverkan på flernivåstyret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec135",
+      "sentiment": 0.5,
+      "quote": "utmaningen som behöver lösas framför allt är sammanhållningen mellan myndigheterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec126",
+      "sentiment": 0.5,
+      "quote": "En lagreglering som tydligt fastställer länsstyrelsernas roll som samordnande av myndigheter och regionernas roll som ansvariga för det regionala utvecklingsansvaret med ansvar för samordningen av ett brett spektrum av aktörer skulle bidra till en ökad tydlighet i uppdragen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 0.5,
+      "quote": "landsbygdsutveckling med fördel kan ses som en del i av det regionala utvecklingsuppdraget som åligger regionerna enligt lag.",
+      "quote_type": "grund"
+    }
+  ]
+}

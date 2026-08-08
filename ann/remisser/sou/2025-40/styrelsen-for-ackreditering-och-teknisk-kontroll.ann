@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:40/styrelsen-for-ackreditering-och-teknisk-kontroll": "9c9ec05a088a581ba5770316ab04cfb5b1ecd9d66565f494f38de69bd540aee2",
+      "artifact:forarbete/sou/2025-40": "c04285caa82b9652fb357cbae989fe2dee864542cf2f237c017dbd2cc406bc0c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "En ny reglering bedöms skapa förutsättningar för hög säkerhet för konsumenter och en mer träffsäker tillsyn.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": 1.0,
+      "quote": "Ackreditering är ett verktyg genom vilket staten kan säkerställa kontrollorganens kompetens, opartiskhet och arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec70",
+      "sentiment": -0.2,
+      "quote": "För att undvika osäkerhet för vilket kontrollorgan som får göra montagebesiktningar anser Swedac att det i den fortsatta implementeringen av regelverket bör tydliggöras att det är det kontrollorgan som den som tillhandahåller tivolianordningen anlitar för att göra just en montagebesiktning som har ansvar att utföra en sådan.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/ringhals-ab": "4fdd6eeb3ead0b6ef7868d8154283251121472d414fb6064fd1c4b1c3acbe02a",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.1,
+    "quote": "Ringhals AB (Ringhals) har tagit del av rubricerad remiss och önskar lämna kommentarer enligt nedan.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec5",
+      "sentiment": -0.2,
+      "quote": "Det är viktigt att denna typ av samverkan inte försvåras med ny lagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec26",
+      "sentiment": 0.8,
+      "quote": "Det bedöms innebära en enklare tillsynsstruktur att ha tillsyn utifrån lagen om kärnteknisk verksamhet och utifrån säkerhetsskyddslagen från samma tillsynsmyndighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

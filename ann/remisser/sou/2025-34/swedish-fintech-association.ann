@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:34/swedish-fintech-association": "1eddb6d7ad773c338682ef03ffc705d6f68a088eadccbc5a0896c64f43329cad",
+      "artifact:forarbete/sou/2025-34": "9ee1bd0a602bd9cd0e75ac89a99c8041d61f181ca21a2fa200f6a8440ed23f10"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vi ser dock vissa risker som kan hämma innovation och konkurrenskraft, särskilt för mindre och digitalt inriktade företag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec119",
+      "sentiment": -0.2,
+      "quote": "Det är i många fall svårt att identifiera om ett förklaringskrav faktiskt finns i den sektorsspecifika regleringen, särskilt när sådana krav inte är tydligt benämnda som just \"förklaringskrav\".",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": -0.2,
+      "quote": "Det finns risk att konsumenten felaktigt uppfattar den som en garanti för att köpet hävs, även för produkter där ångerrätt inte gäller – t.ex. fond- eller aktieköp till fast kurs.",
+      "quote_type": "grund"
+    }
+  ]
+}

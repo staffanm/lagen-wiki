@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:93/kemikalieinspektionen": "41a5e073316d617971f4e3cbf7d9eab18957eb2310ac3f8f09ea75f3aca4af50",
+      "artifact:forarbete/sou/2025-93": "201aa2c9468bea44887a18a07b9556294fb64c34f2aea6d2f31ad09b58f302f0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Kemikalieinspektionens remissvar är avgränsat till synpunkter på de av utredningens förslag som berör kemikaliehantering och miljömålssystemet",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": -1.0,
+      "quote": "Enligt vår bedömning skulle förslaget innebära en olycklig utveckling av en bestämmelse som har grundläggande betydelse för tillämpningen av miljöbalken, särskilt inom områden där detaljreglering saknas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 1.0,
+      "quote": "Kemikalieinspektionen tillstyrker utredningens förslag att Skogsskadecentrum får i uppdrag att ta fram underlag som kan utgöra modell för bedömning av läckage, transporter och liknande spridning som ett bekämpningsmedel kan få från en skogsplantskola och som kan utgöra en risk för hälsa och miljö.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.7",
+      "sentiment": 0.5,
+      "quote": "Andra avfallsströmmar, exempelvis aska från värmeverk som förbränner hushållsavfall, kan innehålla farliga och oönskade ämnen som inte förekommer i skogsbiomassa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 1.0,
+      "quote": "Kemikalieinspektionen tillstyrker utredarens förslag om att det behöver tas fram nya målöverskridande etappmål eftersom etappmål är en nödvändig komponent i miljömålssystemet.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:103/svea-hovratt": "d0fda8cef5bd118cdfc6ff7e5dd23ce9ed4492f36facf42e1dd0f95c01929055",
+      "artifact:forarbete/sou/2025-103": "3494f54a32c4c4ce08c80df5c6f1304db463ec2825930548fa2363c4c69ec03f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utredningens förslag framstår som välövervägda.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec181",
+      "sentiment": -0.2,
+      "quote": "Hovrätten kan inte finna att detta tas upp i författningskommentaren.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec25",
+      "sentiment": -0.5,
+      "quote": "Hovrätten har svårt att se hur den ska tillämpas tillsammans med paragrafens andra stycke, enligt vilket en produkt trots vad som anges i första stycket 1–4 inte ska ha en säkerhetsbrist om den som påstås vara skadeståndsansvarig visar något annat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": -0.5,
+      "quote": "Den nyssnämnda synpunkten gör sig gällande även avseende dessa.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.5.4",
+      "sentiment": 1.0,
+      "quote": "Hovrätten har ingen anledning att ifrågasätta dessa bedömningar och har därför ingen synpunkt i denna del.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/forvaltningsratten-i-stockholm": "a1ed6dda2a895cfc4c25436366a0dc9b0f4eba7097d33824ed176b2a845c030d",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förvaltningsrätten i Stockholm har, utifrån de aspekter som domstolen har att beakta, inget att erinra mot förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a15.13",
+      "sentiment": -0.2,
+      "quote": "Sammantaget kan det förväntas röra sig om en inte obetydlig andel nya mål för förvaltningsdomstolarna. Det är därför tveksamt om den ökade måltillströmningen verkligen kan hanteras inom befintliga ramar.",
+      "quote_type": "grund"
+    }
+  ]
+}

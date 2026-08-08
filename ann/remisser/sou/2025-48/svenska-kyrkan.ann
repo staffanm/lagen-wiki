@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/svenska-kyrkan": "be14fbf7b113e68749d037b54c566894e93cb562bfbb47446eb5716c6fc9647f",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenska kyrkan tillstyrker i huvudsak utredningens förslag om och förutsättningar för en stärkt pandemilagstiftning och en nationell strategi för pandemiberedskap och pandemihantering.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec44",
+      "sentiment": 0.5,
+      "quote": "Utifrån detta är det önskvärt att det skrivs ut i lagtexten att lagen inte medger smittskyddsåtgärder i form av begränsade öppettider eller stängning beträffande religiös verksamhet öppen för allmänheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec51",
+      "sentiment": -0.2,
+      "quote": "vill särskilt betona vikten av att undanta allmänna sammankomster som hålls för religiösa begravningsceremonier från smittskyddsbegränsningar i form av stränga deltagarbegränsningar eller förbud.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.2,
+      "quote": "Svenska kyrkan uppfattar dock att utredningen i första hand riktar sig till det offentliga samhället, myndigheter, näringsliv etcetera, medan Svenska kyrkan inte nämns och trossamfund och civilsamhälle framstår framför allt som mottagare av åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a2.1.1",
+      "sentiment": 1.0,
+      "quote": "Svenska kyrkan tillstyrker utgångspunkterna för den nationella strategin samt förslaget att det av den nationella strategin ska framgå, att smittskyddsåtgärder i första hand ska bygga på frivillighet och en strävan att hålla samhället så öppet som möjligt.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

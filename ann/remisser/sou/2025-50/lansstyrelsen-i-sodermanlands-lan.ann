@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/lansstyrelsen-i-sodermanlands-lan": "e9c8c355218a05a7222ee5d8c2c280896ca11a3a96250216044ea965c01e786d",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen är positiv till att behovet av en effektiviserad viltförvaltning med ökade resurser lyfts.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": -0.5,
+      "quote": "Det är enligt Länsstyrelsens mening lämpligast att ansvaret för handläggning av vapenärenden inte överförs till myndigheten utan kvarstår hos Polismyndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.18.2",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen vill betona att ett sådant uppdrag skulle innebära en väsentlig ändring i arbetskraftsbehov och därmed finansiering inom viltförvaltningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5.2",
+      "sentiment": 0.5,
+      "quote": "Detta förtydligande är efterfrågat men förutsätter att det finansieras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9",
+      "sentiment": 0.5,
+      "quote": "För att överföringen av dessa uppgifter till länsstyrelserna ska vara möjlig behöver finansieringen utredas i särskild ordning i enlighet med utredningens förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.3",
+      "sentiment": 0.2,
+      "quote": "De tillkommande uppgifterna förutsätter tillräcklig finansiering eftersom de medför ökade arbetskostnader och kräver investeringar i utrustning.",
+      "quote_type": "grund"
+    }
+  ]
+}

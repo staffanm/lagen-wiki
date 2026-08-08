@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/regelradet": "9e3e40017f0d1a37ad2445c4347ab683e16fe7607be6f79d10640a872aac9baf",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Regelrådet bedömer att konsekvensutredningen inte uppfyller kraven i förordningen (2024:183) om konsekvensutredningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": -1.0,
+      "quote": "redovisningarna av delaspekterna berörda företag och påverkan på företagens kostnader och intäkter är bristfälliga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.6",
+      "sentiment": -0.2,
+      "quote": "Det anges emellertid att endast ett eller ett fåtal företag kommer att ingå i respektive projekt, vilket medför en risk att de företag som ingår i ett projekt får en konkurrensfördel gentemot andra aktörer i sin bransch.",
+      "quote_type": "grund"
+    }
+  ]
+}

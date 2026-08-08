@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/transportstyrelsen": "08781d96c9965911c50534697987390713ffd00b5175af8443d4e9ea4560003a",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utan höjning av vårt anslag kan undanträngningseffekter uppstå inom andra verksamhetsområden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec719",
+      "sentiment": -0.2,
+      "quote": "Det finns i dagsläget ingen systemlösning, dvs fält i vägtrafikregistret, som möjliggör för Polismyndigheten att registrera att ett fordon är taget i beslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": -0.2,
+      "quote": "För att hantera den ökade mängden ärenden kommer det att bli en ökning av resursåtgången främst kopplat till utbildningsinsatser, sekretessprövning och dokumentation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.20",
+      "sentiment": -0.2,
+      "quote": "Samtidigt kan den breda tillämpningen innebära att även beslag som inte har som huvudsyfte att påverka förfogandet ändå får stora konsekvenser för registrering, ägarbyte och pantsättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6.7",
+      "sentiment": -0.2,
+      "quote": "Transportstyrelsen har noterat att den sekretessbrytande regeln i förslaget i första hand är utformad för informationsutbyte mellan svenska myndigheter och inte även för andra länder.",
+      "quote_type": "grund"
+    }
+  ]
+}

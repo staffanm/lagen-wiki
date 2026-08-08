@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:4/barnombudsmannen": "6dddede0b4743f0b89992211e7ac8d8f6e5bd4b0007800382bc9819008abdb25",
+      "artifact:forarbete/sou/2026-4": "9f57f06578d5cdc186cd459541a865ab36f8d5860a42dcd4927f2de6d9840fd8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Barnombudsmannen bedömer att de sammantaget bör skapa bättre förutsättningar för barns rätt till utbildning av hög kvalitet, trygghet och likvärdighet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.8.5",
+      "sentiment": 1.0,
+      "quote": "Detta är viktigt ur ett barnrättsperspektiv eftersom det stärker barns rätt till likvärdig utbildning, även om de är tvångsomhändertagna för vård eller är frihetsberövade på grund av brott.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a2.2.5",
+      "sentiment": 1.0,
+      "quote": "Detta är positivt ur ett barnrättsperspektiv, eftersom det ligger i linje med barnkonventionen om barns rätt att uttrycka sina åsikter i frågor som rör dem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.8.2",
+      "sentiment": -0.2,
+      "quote": "Barnombudsmannen ser en risk att den samlade reformtakten kan skapa en lång period av ökad belastning och osäkerhet för rektorer och lärare.",
+      "quote_type": "grund"
+    }
+  ]
+}

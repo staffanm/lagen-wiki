@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/stockholms-kommun": "3334d6c74bd2e54d5b6978f8353c20b2dfb04c41fa3ff86527e4bb2ee5840fa8",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Stadsledningskontorets anser att förändringsförslagen i betänkandet i huvudsak är befogade och ligger i linje med vad som krävs för att svara upp mot ett förändrat säkerhetsläge i omvärlden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec418",
+      "sentiment": 0.2,
+      "quote": "Stadsledningskontoret ser dock att tillsynsrollen behöver hanteras och organiseras på så sätt att det inte begränsar det samarbete och den nära samverkan som finns mellan Länsstyrelsen och andra regionala aktörer, såsom kommuner, om säkerhetsskyddsfrågor och andra närliggande frågor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec177",
+      "sentiment": -0.5,
+      "quote": "Den förbättring av säkerhetsskyddet som lokala och regionala myndigheter skulle få genom att teckna säkerhetsskyddsavtal vid samverkan och samarbete står inte i proportion till den administrativa börda det påför myndigheten, och i förlängningen Säkerhetspolisen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": -0.5,
+      "quote": "Att leda, samordna och tillse att verksamheten följer lagar och regler anser stadsledningskontoret ingår i verksamhetschefernas ordinarie uppdrag och hur detta arbete ska organiseras och ansvaret fördelas bör av proportionalitetsskäl inte detaljstyras mer än i beslutad lagstiftning.",
+      "quote_type": "grund"
+    }
+  ]
+}

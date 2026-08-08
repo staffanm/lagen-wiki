@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/vastsvenska-handelskammaren": "959319a6ed7b916adbc401ede346d3d76440637ea7c4ba6e82d26b2a284fab52",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Västsvenska Handelskammaren välkomnar regeringens initiativ att utreda hur tillgängligheten till Arlanda kan stärkas och konstaterar att utredaren har gjort ett gediget arbete och presenterat en rad omfattande och varierade åtgärdsförslag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec311",
+      "sentiment": -0.2,
+      "quote": "I det perspektivet framstår behovet av ett femte och sjätte spår, som utredaren lyfter, som mycket avlägset.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec313",
+      "sentiment": 0.5,
+      "quote": "Utan den möjligheten försämras statens förhandlingsposition och kostnaden för skattebetalarna riskerar att öka.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec356",
+      "sentiment": 0.5,
+      "quote": "exakt modell och fördelning måste bli föremål för ytterligare utredning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec329",
+      "sentiment": 0.2,
+      "quote": "Även flyglinjer som saknar koppling till Arlanda bör då prövas enligt samma kriterier, exempelvis Göteborg - Luleå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec335",
+      "sentiment": -0.2,
+      "quote": "det reducerar frågan om Arlanda från en nationell angelägenhet till att vara högst lokal",
+      "quote_type": "grund"
+    }
+  ]
+}

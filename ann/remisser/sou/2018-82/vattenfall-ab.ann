@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/vattenfall-ab": "72a9999c6d816d1cc10b18a913731bf13e1a72ae2d0253212844c1658c14a11e",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Det finns dock grundläggande skillnader i hur verksamheten organiseras och styrs inom myndigheter jämfört med näringslivet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.4",
+      "sentiment": 0.5,
+      "quote": "Men en stor koncern som Vattenfall består av många dotterbolag och juridiska enheter, vilket påverkar hur säkerhetsskyddsavtal kan och bör användas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec171",
+      "sentiment": 1.0,
+      "quote": "Vattenfall ställer sig positiv till att det blir ett ökat fokus på säkerhetsskyddsanalysen med betoning på verksamheten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": -0.5,
+      "quote": "Vattenfall delar däremot inte uppfattningen att detta ska lösas genom att säkerhetsskyddschef med automatik sitter i ledningsgruppen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7",
+      "sentiment": -0.2,
+      "quote": "Vattenfall anser att grundtanken med kontrollstationer är bra, men att de föreslagna ändringarna inte är tillräckligt anpassade för näringslivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7",
+      "sentiment": -0.5,
+      "quote": "Det stora antalet tillsynsmyndigheter innebär att Vattenfall måste förhålla sig till olika föreskrifter, samråd, rapportering, krav på säkerhetsskydd, efterlevnad, säkerhetsprövning av personal med mera.",
+      "quote_type": "grund"
+    }
+  ]
+}

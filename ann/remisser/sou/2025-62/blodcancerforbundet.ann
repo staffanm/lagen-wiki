@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/blodcancerforbundet": "e66f556d8561b23cfd9848a032e7cc73ae4309a0651ea7f834881aaa220065e3",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Tyvärr ger Vårdansvarskommittén inte några skarpa förslag utan överlämnar frågorna kring hur statlig styrning ska utformas till ytterligare utredningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": 0.2,
+      "quote": "styrningen behöver ske på ett annat sätt och betydligt skarpare än idag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.3",
+      "sentiment": 0.8,
+      "quote": "En översyn av hela läkemedelssystemet bör genomföras där det bör ingå hur statens ansvar för finansiering och styrning av läkemedel kan stärkas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 0.5,
+      "quote": "Särskilt utmanande är hur ytterligare utredning ska kunna lägga förslag på arbetsmiljöförbättringar som kan påverka kompetensförsörjningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec275",
+      "sentiment": -0.5,
+      "quote": "Patientlagen efterlevs inte idag.",
+      "quote_type": "grund"
+    }
+  ]
+}

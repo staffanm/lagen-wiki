@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/sveriges-elva-handelskammare": "200da2b9977b77b71cefcbd898d65ef99adf12f7b9b2e7807bc66d10bef2009f",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi menar dock att förslagen inte skapar förutsättningar för ett framgångsrik utnyttjande av offentlig-privat samverkan (OPS) så som är nödvändigt för att sänka kostnaderna och korta tidslinjerna för ny transportinfrastruktur.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec6",
+      "sentiment": 1.0,
+      "quote": "Sveriges elva Handelskammare tillstyrker gemensamt utredningens förslag om ett nytt statligt bolag för genomförande av transportinfrastruktur.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec129",
+      "sentiment": -0.5,
+      "quote": "Utredningen föreslår att det nya statliga bolaget ska kunna nyttja OPS som genomförandemodell, men utan att föreslå de processuella och regelmässiga ändringar som krävs för att denna modell ska bli framgångsrik i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.2",
+      "sentiment": -0.5,
+      "quote": "Även om det ofta inte är rätt ersättningsmodell för transportinfrastruktur är det ett rimligt verktyg för det nya statliga bolaget och andra aktörer att ha i verktygslådan vid utvecklingen av OPS-projekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec8",
+      "sentiment": -0.5,
+      "quote": "Utredningen föreslår inga förändringar av objektsurvalsprocessen, utan konstaterar att endast projekt inom ramen för Nationell plan kan överföras till det nya bolaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec60",
+      "sentiment": -0.2,
+      "quote": "Ett statligt bolag med erfarenhet och expertkompetens inom OPS vore väl placerat att i framtiden också leda genomförandet av andra OPS-satsningar inom till exempel VA-, digital- och social infrastruktur.",
+      "quote_type": "grund"
+    }
+  ]
+}

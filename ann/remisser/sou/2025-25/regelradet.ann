@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/regelradet": "7f085da360482bfecbf1420c3186d28ca73807faed88accb357608307462d64f",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Regelrådet bedömer att konsekvensutredningen uppfyller kraven i 6 och 7 §§ förordningen (2007:1244) om konsekvensutredning vid regelgivning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": 0.5,
+      "quote": "Regelrådet finner att beskrivningen av alternativa lösningar och effekter av om någon reglering inte kommer till stånd är godtagbar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3",
+      "sentiment": -0.5,
+      "quote": "Regelrådet finner att beskrivningen av berörda företag utifrån antal och storlek är bristfällig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.6",
+      "sentiment": -0.5,
+      "quote": "Regelrådet finner att beskrivningen av om särskilda hänsyn kan tas till små företag vid reglernas utformning är bristfällig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.13",
+      "sentiment": 0.5,
+      "quote": "Regelrådet har inte funnit något skäl till att ifrågasätta förslagsställarens bedömning och finner att beskrivningen av förslagets överensstämmelse med EU-rätten är godtagbar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.15",
+      "sentiment": -0.5,
+      "quote": "Regelrådet finner att beskrivningen av om särskild hänsyn kan tas till tidpunkten för ikraftträdande är bristfällig.",
+      "quote_type": "grund"
+    }
+  ]
+}

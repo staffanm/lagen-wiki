@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/lansstyrelsen-i-skane": "4c37b0d8f194acae8b1bc89519040d62b1effec9e47e795d2ba068dc2912c215",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Länsstyrelsen delar bedömningen att det kan bidra till effektivisering.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 1.0,
+      "quote": "Då det under nuvarande former enligt utredningen förekommit dubbelarbete, kan identifiering av sådant dubbelarbete underlättas när verksamheten är samlad under en myndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec66",
+      "sentiment": 1.0,
+      "quote": "Generellt sett bedömer Länsstyrelsen genom att samla de olika kontaktpunkterna (NCSC, CERT- SE/ CSIRT mfl.) tillsammans med övriga cybersäkerhetsförmågor och - kompetenser, bidrar det till att stärka cybersäkerhetsförmågan nationellt.",
+      "quote_type": "grund"
+    }
+  ]
+}

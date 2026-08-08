@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:58/varnamo-kommun": "7150451bfe96570874255dd96d7d3ee8914643352a657b6cd175af485b19faf0",
+      "artifact:forarbete/sou/2025-58": "ba36ed43caad5065a24954f0cd558aaf490376f8b49d2831dc80ba70fc994f7a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Förvaltningens bedömning är att de förslag som finns i remissen kring en stärkt hästnäring är positiva för att stärka företagande inom hästnäringen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.9.1",
+      "sentiment": 1.0,
+      "quote": "Kommunledningsförvaltningen delar bedömningen att det finns ett behov av att ta fram bättre system och parametrar (antal hästar, antal anläggningar) för att regelbundet kunna följa utvecklingen inom näringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.19.6",
+      "sentiment": 1.0,
+      "quote": "Kommunledningsförvaltningen välkomnar utredningen och är positiv till utredningens utgångspunkter och de förslag som handlar om regelförenklingar.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

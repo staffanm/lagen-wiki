@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/smakom": "87e4b5fe76c47681f95df8c3b155e122404bd8c3c2a03475f1401e0cc8fc71fd",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "SmåKom ställer sig bakom utredningens förslag men vill i sammanhanget påpeka följande:",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.6",
+      "sentiment": -0.5,
+      "quote": "I merparten av våra medlemskommuner finns inga finansiella marginaler kvar och inga kostnader kan anses som försumbara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": -0.5,
+      "quote": "Systemet har inte underhållits eller utvecklats i takt med övriga samhället och innehåller många brister som påverkar våra medlemskommuner negativt när det bland annat kommer till etableringar, byggnation och turismverksamhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

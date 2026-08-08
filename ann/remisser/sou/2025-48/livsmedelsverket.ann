@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/livsmedelsverket": "0f91f282e95d1b0c136ef464be2fbe33c5d121ae9129a8523dab3f816e13d930",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Livsmedelsverket välkomnar utredningens förslag som i praktiken konsoliderar viktiga åtgärder och erfarenheter från hanteringen av covid-19-pandemin.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 1.0,
+      "quote": "Livsmedelsverket tillstyrker förslaget om att utveckla en nationell strategi för hantering av pandemier med tydliga mål och fokusområden.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 1.0,
+      "quote": "Det finns behov av att klargöra vissa förhållanden både i fråga om ansvar och befogenheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

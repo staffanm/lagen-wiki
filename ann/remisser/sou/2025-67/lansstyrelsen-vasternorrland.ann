@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/lansstyrelsen-vasternorrland": "59aba6afc707878a28353871f646520610d2bc5034f09072d7a9661eddd05070",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "För att Arlanda fullt ut ska fungera som Sveriges flygnav krävs däremot ett större fokus på regional tillgänglighet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec153",
+      "sentiment": -0.5,
+      "quote": "utredningen förbiser den möjlighet som ett dubbelspår på Nya Ostkustbanan, Gävle – Härnösand, har för en ökad tillgänglighet till Arlanda flygplats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec329",
+      "sentiment": 0.5,
+      "quote": "Däremot anser länsstyrelsen att utpekandet av sådana flyglinjer bör omfatta fler än de fem flyglinjer som trafikerar Swedavias flygplatser som utredningen nämner.",
+      "quote_type": "grund"
+    }
+  ]
+}

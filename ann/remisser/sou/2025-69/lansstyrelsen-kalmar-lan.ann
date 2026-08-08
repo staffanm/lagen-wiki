@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:69/lansstyrelsen-kalmar-lan": "020234ca769e42a454f7ea724f4b01f5f6098d17d3c6d886b1621a59d0c6a8e3",
+      "artifact:forarbete/sou/2025-69": "e9fe403717ef019299c4fc8689d9fb71197ea9f2a8ad889130b543582d2661a1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen har god kompetens för att arbeta med dessa frågor men konstaterar att uppdraget måste komma med ökad finansiering.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen Kalmar tillstyrker förslaget om att kommunernas ansvar för hantering av smittor hos sällskapsdjur tas bort.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 0.2,
+      "quote": "För att förslaget till lagändring ska få avsedd effekt bör det i lagen definieras, eller hänvisas till skrivningar i annan lagstiftning, vilka sjukdomar som omfattas av begreppet ”allvarlig smittsam sjukdom”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": 1.0,
+      "quote": "Tillstyrks.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": 1.0,
+      "quote": "Tillstyrks.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

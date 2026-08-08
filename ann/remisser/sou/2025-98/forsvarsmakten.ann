@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/forsvarsmakten": "5c50ed269a12f8c00a38baccec8d6ba61054cc242346ee03cb677a2a46f602b3",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försvarsmakten tillstyrker förslaget om en ny bestämmelse i fastighetsbildningslagen (1970:988) enligt vilken förrättningar där en statlig myndighet eller ett statligt helägt bolag är sökande ska ges in till och handläggas av den statliga lantmäterimyndigheten.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.3",
+      "sentiment": 1.0,
+      "quote": "Försvarsmakten tillstyrker förslaget om en ny bestämmelse i fastighetsbildningslagen (1970:988) enligt vilken förrättningar där en statlig myndighet eller ett statligt helägt bolag är sökande ska ges in till och handläggas av den statliga lantmäterimyndigheten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a2-4",
+      "sentiment": -0.2,
+      "quote": "Försvarsmakten ser annars en risk att säkerhetsskyddsklassificerade uppgifter ändå hamnar hos de kommunala lantmäterimyndigheterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a2-3",
+      "sentiment": 0.2,
+      "quote": "I punkten 4 samma paragraf bör det förtydligas att det är den kommunala lantmäterimyndigheten, inte den statliga, som avses.",
+      "quote_type": "grund"
+    }
+  ]
+}

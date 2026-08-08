@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/svenska-bankforeningen": "b138e497f509d4a811c2a7e37930452a60ac62f3cc053b277f2795b2f31a8d5b",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sammantaget anser vi att det finns skäl att ytterligare titta på ovanstående frågor.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": 1.0,
+      "quote": "Bankföreningen anser att lägesbeskrivningen och den internationella jämförelsen i utredningen är mycket bra.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.2,
+      "quote": "Vi anser dock att utredningen borde ha antagit ett bredare perspektiv för att undanröja hinder för finansieringen av lönsamma investeringar så att en situation med dålig lönsamhet och låg tillgång på jordbruksmark kan åtgärdas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18.2.5",
+      "sentiment": -0.2,
+      "quote": "I detta ligger också att anta en mer enhetlig syn på förutsättningarna för brukande av jordbruksmark i enskild firma och genom aktiebolag ur skattesynpunkt, inte minst för att underlätta vid generationsskiften.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18.2.4",
+      "sentiment": -0.5,
+      "quote": "Krångliga regler medför en tung administrativ börda som kan hindra eller försvåra en utveckling av företaget och försämra möjligheten till tillväxt och lönsamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2.1",
+      "sentiment": -0.2,
+      "quote": "Vidare skulle en samordnad process, där myndigheterna koordinerar sin tillämpning och praxis, förbättra förutsättningar och förutsägbarheten för samtliga lantbrukare i Sverige i fråga om tillstånd och tillsyn.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:93/fortifikationsverket": "f765738e89443fe48ff8bd4df676d3ad3ea0caa988db09a0c6a29a0ff9e01585",
+      "artifact:forarbete/sou/2025-93": "201aa2c9468bea44887a18a07b9556294fb64c34f2aea6d2f31ad09b58f302f0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammantaget bedömer Fortifikationsverket att förslagen stärker Sveriges beredskap och försörjningstrygghet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.7",
+      "sentiment": 1.0,
+      "quote": "Myndigheten välkomnar ett mer evidensbaserat arbetssätt och en mer ändamålsenlig reglering.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 0.8,
+      "quote": "Tydligare regler för skogsbruket, inte minst vad gäller artskydd bedöms öka förutsebarheten för Fortifikationsverket i egenskap av skogsägare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.11",
+      "sentiment": 1.0,
+      "quote": "Förslaget om standardisering av skogsbilvägar bedöms ge stor nytta för myndighetens verksamhet som utöver virkestransporter kan användas till andra ändamål i händelse av kris eller krig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": -0.5,
+      "quote": "utredningen inte i tillräcklig utsträckning redogör för de undantagsregler som föreslås kunna utnyttjas för exempelvis försvars- eller annan prioriterad verksamhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

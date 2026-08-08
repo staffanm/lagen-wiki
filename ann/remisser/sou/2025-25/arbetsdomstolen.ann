@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/arbetsdomstolen": "da4196ce6dd1be427bf0979716e022b9655553bf0df2043b84f9140311cd21cc",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt har Arbetsdomstolen inga synpunkter på de förslag som lämnas i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.7.1",
+      "sentiment": -0.2,
+      "quote": "Arbetsdomstolens bedömning är att den nya lagen kan väntas leda till att byggsyndikatet väcker talan mot arbetsgivare med kollektivavtal med annan arbetstagarorganisation i avsevärt fler lönetvister än tidigare, dvs. tvister som normalt är mer komplicerade än tvister om förhandlingsvägran.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.3",
+      "sentiment": -0.2,
+      "quote": "Även förslaget om ett särskilt statsbidrag till arbetstagarorganisationer för att hjälpa irreguljära migranter att ta tillvara sina rättigheter enligt lagen (2013:644) om rätt till lön och annan ersättning för arbete utfört av en utlänning som inte har rätt att vistas i Sverige kan i förlängningen förväntas leda till fler processer i Arbetsdomstolen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.8.2",
+      "sentiment": 0.5,
+      "quote": "Arbetsdomstolen föreslår att ett skyndsamhetskrav införs för mål där part har ett tidsbegränsat uppehållstillstånd enligt 5 kap. 15 d § utlänningslagen, förslagsvis likt det som gäller i tvister om ogiltigförklaring av uppsägning eller avskedande (se 43 § lagen [1982:80] om anställningsskydd).",
+      "quote_type": "grund"
+    }
+  ]
+}

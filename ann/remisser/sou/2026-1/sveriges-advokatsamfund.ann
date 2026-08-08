@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:1/sveriges-advokatsamfund": "16335251f3cbe0b10b73d2aa1ad35065e289cd95157d44b025d88050ca4723fd",
+      "artifact:forarbete/sou/2026-1": "800122abdf1a75716ad0b7e15b8b8e168d5039afbac180a5b4abf6bbfb8f9388"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Advokatsamfundet har inget att invända mot förslaget i betänkandet, men har ett antal synpunkter rörande detaljer enligt nedan.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": 0.0,
+      "quote": "Advokatsamfundet uppfattar dock inte någon skillnad mellan alternativen ur ett rättssäkerhetsperspektiv och har således ingen uppfattning om vilket som är att föredra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.7",
+      "sentiment": 0.2,
+      "quote": "Exempelvis framgår inte huruvida pensionskostnader eller kostnader för personalutbildningar ska ingå i underlaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -0.5,
+      "quote": "Enligt Advokatsamfundets erfarenhet har dessa definitioner vid tillämpning av FOUlagen givit upphov till svåra gränsdragningsfrågor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.4",
+      "sentiment": -0.2,
+      "quote": "det kan ta många år från det att deklarationen lämnas in till dess att Skatteverket granskar deklarationen och tar ställning till avdragsyrkandet.",
+      "quote_type": "grund"
+    }
+  ]
+}

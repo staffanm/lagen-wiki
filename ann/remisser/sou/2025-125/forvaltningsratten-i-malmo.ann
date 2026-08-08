@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:125/forvaltningsratten-i-malmo": "bbb54eee5b85bee5148889fff4c182d4638c49fc398f1eea3215a1c32fbc93ae",
+      "artifact:forarbete/sou/2025-125": "8fbe18bc2acd39c5bc37f0d668576018901c84abb912d974543ac98521ecb8c8"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Förvaltningsrätten i Malmö har, utifrån de aspekter som domstolen har att beakta, följande synpunkter på det förslag som lämnats.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.3.3",
+      "sentiment": -0.5,
+      "quote": "Förvaltningsrätten anser att det finns skäl att överväga om den nya bestämmelsen ska innehålla rekvisit som anger under vilka omständigheter ett beslut får ändras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.3.3",
+      "sentiment": -0.2,
+      "quote": "Förvaltningsrätten, som noterar att förslaget innebär en utökad möjlighet att överklaga beslut till förvaltningsdomstolarna, saknar ett fördjupat resonemang kring varför det bedöms saknas anledning att anta att måltillströmningen kommer att öka markant och betonar – som utredningen också anger - att det är av stor vikt att regeringen följer utvecklingen och en eventuell kostnadsökning för domstolarna.",
+      "quote_type": "grund"
+    }
+  ]
+}

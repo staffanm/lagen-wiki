@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:117/svensk-forsakring": "7e5cb4a876b28d1de2b60ef1e1c5bde8201ebb6a5155b0b8c63309f1e458df76",
+      "artifact:forarbete/sou/2025-117": "e9f7c3ab9cf49724fafdf32b1ac759e11d234a9fee7d593cc7ebb686a52a59d9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Svensk Försäkring välkomnar Fondmarknadsutredningens förslag att premier för fondförsäkring ska få placeras i fondandelsbolag och associationsrättsliga specialfonder.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec10",
+      "sentiment": -0.5,
+      "quote": "Varken i Solvens II-regelverket (se t.ex. bilaga 2 i direktivet 2009/138/EC) eller i regleringen för tjänstepensionsföretag (IORP 2) finns det några hinder för detta.",
+      "quote_type": "grund"
+    }
+  ]
+}

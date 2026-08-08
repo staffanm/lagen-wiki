@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:72/torsas-kommun": "8559ffd767cafe1b40137c153edaf44a259cdb8d438e1416d31aeb998ce1521b",
+      "artifact:forarbete/sou/2025-72": "59e44215ab2cc8c10f2c3c2408927e6a5e205b6be9de35dbe57bb8e7227b8b53"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Torsås kommun ställer sig positiva till förslaget utifrån följande skäl:",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Pga av skillnader mellan huvudmän både på strukturell nivå men också deras olika förutsättningar kommer det bli svårigheter att få en gemensam likvärdig skolpengsnorm.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Bra att tydliggöra utbudsansvaret och att skapa generella ersättningsnivåer för detta.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.5.2",
+      "sentiment": 1.0,
+      "quote": "Bra med villkorade belopp vid satsningar som kan återkrävas om beloppet inta har använts till det förutbestämda syftet.",
+      "quote_type": "grund"
+    }
+  ]
+}

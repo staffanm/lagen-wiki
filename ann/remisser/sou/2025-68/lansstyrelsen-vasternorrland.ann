@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/lansstyrelsen-vasternorrland": "6863e28848e4e45b28cd3e1cdc0e2c1ac6ec5b8417def16a0d7f0bcf27cf1faa",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen Västernorrland ställer sig överlag positiv till utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": 0.2,
+      "quote": "Det kan därför vara rimligt att tillförsel av tjänstepersoner inte fördelas schablonmässigt enligt utredningens förslag, utan baseras på en mer grundlig analys av det faktiska behovet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a2.5.2",
+      "sentiment": 1.0,
+      "quote": "I händelse av höjd beredskap och krig som kan påverka varuflöden är skogen en inhemsk och potentiellt mycket viktig resurs.",
+      "quote_type": "grund"
+    }
+  ]
+}

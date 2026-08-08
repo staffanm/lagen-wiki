@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:52/integritetsskyddsmyndigheten": "3b88bdf8d288890875710135987756f955306e61b59c225e6f4b3b66922f9a91",
+      "artifact:forarbete/sou/2025-52": "4d5e74c56afadf49e44bd84297c2d7e7df96670250cfa6da96f9bac96e81a2ba"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "IMY tillstyrker förslagen till ändringar i lagen (2018:90) om insyn i finansiering av partier (insynslagen) med följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "delar IMY kommitténs bedömning att den utökade personuppgiftsbehandling som förslagen aktualiserar är nödvändig av hänsyn till ett viktigt allmänt intresse",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6.8",
+      "sentiment": -0.5,
+      "quote": "Det kan starkt ifrågasättas om enskilda revisorer har förutsättningar att uppfylla dessa skyldigheter och om det således är lämpligt att de pekas ut som personuppgiftsansvariga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.7.2",
+      "sentiment": -0.2,
+      "quote": "I likhet med kommittén ställer sig IMY tveksam till om den personuppgiftsbehandling som den redovisade regleringen ger upphov till skulle vara proportionerlig, särskilt i fråga om organisationer som inte lämnar bidrag som utgår som en andel av medlemsavgifterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.12.2",
+      "sentiment": 0.5,
+      "quote": "När det gäller behandlingen av känsliga personuppgifter delar IMY kommitténs bedömning att bland annat undantaget i artikel 9.2 g i dataskyddsförordningen kan tillämpas.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/polismyndigheten": "893685d8bacfa4cfde63844d11906aa9826d541c8621eabd2f58b3cb907d7da9",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Polismyndigheten, som i huvudsak inte har något att erinra mot övriga förslag i betänkandet, lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.3",
+      "sentiment": 0.8,
+      "quote": "Genom att systematiskt begå denna typ av regelöverträdelser skaffar sig företrädarna för dessa företag betydande ekonomiska fördelar, detta ofta på bekostnad av de anställda, skötsamma konkurrenter och samhället i stort.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.5",
+      "sentiment": 0.5,
+      "quote": "Lönestöld slår dels mot den enskilde arbetstagaren, som ofta redan befinner sig i en utsatt situation, dels mot det svenska lönegarantisystemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.10",
+      "sentiment": 0.5,
+      "quote": "För att möta dessa fördelar måste sanktionsavgifterna vara effektiva, proportionella och avskräckande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.17.1",
+      "sentiment": 0.5,
+      "quote": "Genom en möjlighet att meddela näringsförbud för upprepade och allvarliga regelöverträdelser, exempelvis regler kring utstationeringar, arbetstidsavtal samt säkerhet- och arbetsmiljöfrågor, skulle samhället ges en ökad förmåga att agera brottsförebyggande och mer resurseffektivt mot arbetslivskriminalitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.4",
+      "sentiment": -0.8,
+      "quote": "Att funktionen finns inom Polismyndigheten säkerställer tillgång till underrättelser och annan sekretessbelagd information samt ett fungerande informationsflöde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": 1.0,
+      "quote": "en utvecklad samverkan är väsentlig i det fortsatta arbetet mot arbetslivskriminalitet.",
+      "quote_type": "grund"
+    }
+  ]
+}

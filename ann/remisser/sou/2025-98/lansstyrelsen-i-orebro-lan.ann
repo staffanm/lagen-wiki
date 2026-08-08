@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/lansstyrelsen-i-orebro-lan": "304468f7e5166fb25cc734708f8f09a935e11a32668cddf5113616ca1222c4bd",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Länsstyrelsen bedömer att utredningens förslag i flera delar saknar analyser vilket skapar ett ensidigt fokus, som riskerar att påverka service och effektivitet i samhällsbyggnadsprocessen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec206",
+      "sentiment": -0.5,
+      "quote": "Genom att övergå från samråd i tidiga skeden, mellan kommun och kommunalt lantmäteri, till formella samråd, mellan kommun och statliga lantmäteriet, riskerar planprocessen bli utdragen genom rättelser som hade kunnat undvikas genom tidig samverkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": -0.5,
+      "quote": "Kraven riskerar i förlängningen att försämra möjligheterna för dem att bedriva en ändamålsenlig verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": -0.5,
+      "quote": "Sammantaget ser vi en risk för ett ökat antal felaktiga förrättningsbeslut som kommer överklagas av länsstyrelsen.",
+      "quote_type": "grund"
+    }
+  ]
+}

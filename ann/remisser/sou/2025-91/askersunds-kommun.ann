@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/askersunds-kommun": "d29b24472faf45143ee9eccdf9206925d930def6046e4508c083c49d0e661301",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Utredningen bedömer i avsnitt 15.4 att förslagen inte medför några kostnadsökningar för kommunerna. Sydnärkes överförmyndarnämnd delar inte den bedömningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 0.2,
+      "quote": "Om utredningens förslag genomförs vill nämnden uppmärksamma att författningskommentar till 15 kap. 6 § saknas och bör läggas till.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec6",
+      "sentiment": 0.2,
+      "quote": "Det medför behov av ökade resurser hos landets överförmyndarverksamheter och ökade kostnader för kommunerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec11",
+      "sentiment": 0.5,
+      "quote": "bedömer att registret bör vara frivilligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.2,
+      "quote": "Behörigheten att ansöka om boutredningsman i 19 kap. 1 § Ärvdabalken bör även omfatta god man enligt 11 kap. 2 § Föräldrabalken och framtidsfullmaktshavare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.3",
+      "sentiment": 0.2,
+      "quote": "nämnden bedömer att istadarätten ska gälla vid tillämpningen av nya 7 kap. 3 a § Ärvdabalken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4",
+      "sentiment": -0.5,
+      "quote": "En utökad arvskrets innebär fler dödsbodelägare och därmed sannolikt ett behov av fler gode män enligt 11 kap. 3 § Föräldrabalken vilket medför ökade kostnader för överförmyndarverksamheternas handläggning och ökade arvoden enligt 12 kap. 16 § Föräldrabalken.",
+      "quote_type": "grund"
+    }
+  ]
+}

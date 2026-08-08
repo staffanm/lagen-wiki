@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:87/svensk-handel": "d39964d9e0f96152a03bdf084b7e21ef32029e8efaa1aa9f8ffe09e5bc3e771c",
+      "artifact:forarbete/sou/2025-87": "9df8cd50f8f07d5fe6625a7096a7d32e74f5028048c96cf2db13ef02650c1ac9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Ett högt förtroende för både offentliga och privata aktörer är avgörande för rättssäkerhet, sund konkurrens och en väl fungerande marknad.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 0.5,
+      "quote": "Förslagen om utvidgade tillämpningsområden och skärpta straff kan bidra till att minska risken för otillbörligt agerande i både offentlig och privat sektor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -0.5,
+      "quote": "Detta kan vara särskilt betungande för små och medelstora företag som inte har egna compliance-avdelningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec13",
+      "sentiment": -0.5,
+      "quote": "En alltför bred definition av mutbrott och tjänstefel riskerar att kriminalisera legitima affärsrelationer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -0.5,
+      "quote": "Det finns risk att företag som redan följer höga etiska standarder ändå får ökade kostnader och administration, utan att detta står i proportion till den faktiska risknivån.",
+      "quote_type": "grund"
+    }
+  ]
+}

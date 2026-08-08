@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:83/aklagarmyndigheten": "4569e4956db1d106c2818dcba95ee77a56e964cea24a98d067e0f01744615129",
+      "artifact:forarbete/sou/2025-83": "fe22b84e7351f785a71dbd8034fd7c683f3f2c341350b360482faa5784f9ef16"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Myndigheten delar bedömningen att den befintliga regleringen i ordningslagen redan ger kommunerna tillräckliga möjligheter att förebygga ordningsstörningar i samband med tiggeri.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.1",
+      "sentiment": 1.0,
+      "quote": "Vidare delar Åklagarmyndigheten utredningens uppfattning att ett nationellt tiggeriförbud riskerar att stå i strid med både Europakonventionen och EU:s människohandelsdirektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.2",
+      "sentiment": -1.0,
+      "quote": "Åklagarmyndigheten avstyrker det författningsförslag som utredningen har lämnat.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec158",
+      "sentiment": -0.5,
+      "quote": "Det saknas en tillräckligt klar och övertygande motivering till varför tiggeri, såsom det nu föreslås, ska leda till en strängare påföljd än penningböter.",
+      "quote_type": "grund"
+    }
+  ]
+}

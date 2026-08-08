@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/ockero-kommun": "de25975c2eebace53dac01d1d9c6d79031ae852f5a3a468c3856929a2128759a",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Öckerö kommun välkomnar möjligheten att lämna synpunkter på delbetänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec181",
+      "sentiment": 1.0,
+      "quote": "Ett ö-läge innebär särskilda förutsättningar såsom transportberoende, småskalighet och begränsade stordriftsfördelar, men också unika värden i livsmiljö, natur och attraktionskraft.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "När lokala kunskaper om platsens förutsättningar kombineras med nationella ramar för styrning och resursfördelning skapas förutsättningar för en utvecklingspolitik som är både långsiktig och träffsäker.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec207",
+      "sentiment": 1.0,
+      "quote": "De rapporter som tagits fram utgör ett värdefullt underlag för att utveckla det territoriella perspektivet i svensk utvecklingspolitik och belyser frågor som annars riskerar att förbises.",
+      "quote_type": "grund"
+    }
+  ]
+}

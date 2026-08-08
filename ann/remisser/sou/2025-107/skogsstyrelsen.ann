@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:107/skogsstyrelsen": "3ae81bc0a2c9a5217a9ca3610145091da38360dee2dfd3ea656d3383c591d93c",
+      "artifact:forarbete/sou/2025-107": "47622113b6201e4ecf4f8f07faace798ed84e0806822644f3a8e9a35e1a5fff4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Skogsstyrelsen anser att det är viktigt att när åtgärder inom sektorn för markanvändning, förändrad markanvändning och skogsbruk (LULUCF) används som kompletterande åtgärder behöver hänsyn tas till sektorns totala förändrade avgång och upptag av växthusgaser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.1.1",
+      "sentiment": -0.2,
+      "quote": "Skogsstyrelsen ser att det finns en risk för att utsläppsminskningar till följd av att metodförändringar beaktas för år 2030 men inte i basårsutsläppen leder till att utsläppsminskningar som redovisas inte är reella utan skapade av förändrad metodik för beräkningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.1.2",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen instämmer i att detta ger ökad tydlighet när de totala utsläppseffekterna från regeringars åtgärder följs upp under perioden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2.1",
+      "sentiment": 0.5,
+      "quote": "Inriktningen kan således stödja företag i långsiktiga investeringsbeslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2.2",
+      "sentiment": -1.0,
+      "quote": "Skogsstyrelsen anser att det inte finns ett behov av att överträffa EU-åtagandet för att åtgärder i LULUCF-sektorn ska kunna räknas som kompletterande åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen tillstyrker förslaget att Miljömålsberedningen får i uppdrag att se över Sveriges målkonstruktion och etappmål för 2040, när EU:s klimatramverk för 2040 är beslutat.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.5,
+      "quote": "Minskade utsläpp från transporter är därför avgörande för att Sverige ska nå sina klimatmål.",
+      "quote_type": "grund"
+    }
+  ]
+}

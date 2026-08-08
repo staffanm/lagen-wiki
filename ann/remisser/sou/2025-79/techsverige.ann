@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/techsverige": "4e43047d81ce963f77dd1f5ae9d810d79d9cbc7e759385c955cced991a657385",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "TechSveriges ståndpunkt är som tidigare att ett annat sätt att fördela ansvaret skulle ha varit mer ändamålsenligt och ställer sig därför inte bakom förslaget att Försvarets radioanstalt (FRA) ska ha det övergripande ansvaret för samhällets informations- och cybersäkerhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3.1",
+      "sentiment": -0.5,
+      "quote": "Ett övergripande skäl TechSveriges hållning är att statens viktigaste bidrag till informations- och cybersäkerhet förmodligen inte är inom det området som är FRA:s välkända styrkor som till exempel inom kryptografi, signalskydd och många andra relevanta teknikområden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.10",
+      "sentiment": 0.2,
+      "quote": "Utvärderingen bör även analysera om ansvarsfördelningen inom staten för det övergripande ansvaret för samhällets informations- och cybersäkerhet har fungerat, särskilt avseende samarbetet med näringslivet.",
+      "quote_type": "grund"
+    }
+  ]
+}

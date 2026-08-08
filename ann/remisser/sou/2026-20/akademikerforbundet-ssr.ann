@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:20/akademikerforbundet-ssr": "3e908ed4731ace499df4fee1d797468df85e2410b12929c12f6f314e771b4550",
+      "artifact:forarbete/sou/2026-20": "4bbbaf1255ebc0c511f2d6d339133f0df3731fa34b68ae49c40ee83603563261"
+    }
+  },
+  "overall": {
+    "sentiment": -0.8,
+    "quote": "Däremot utgår utredningen från ett antal andra antaganden som inte är sanna, vilket medför att många av utredningens förslag är olämpliga.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1.1",
+      "sentiment": -1.0,
+      "quote": "Skattebroms riskerar att förvärra detta problem, istället för att ge fler möjligheter att jämna ut skillnaderna i välfärdstjänster beroende på ort.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.1",
+      "sentiment": -0.2,
+      "quote": "Vi ställer oss dock frågande till om just utredningens effektivitet i sig är ett tillräckligt definierat mått för att krävas i lag, och begreppet förefaller oss oftast definieras som ”vi känner igen det när vi ser det”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.1",
+      "sentiment": 0.5,
+      "quote": "Mer konjunkturstabiliserade statsbidrag, utifrån bredare skattebaser, skulle också bemöta kommunerna och regionernas konjunkturkänslighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

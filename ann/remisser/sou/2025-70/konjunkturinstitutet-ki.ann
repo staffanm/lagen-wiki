@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:70/konjunkturinstitutet-ki": "800cd25bff0bd113f0b02778668d4275e10e65c1d275038a8984707e5e839366",
+      "artifact:forarbete/sou/2025-70": "21e44eb2249e2dea5d04cd086cfbcb6c4e9713b1194aa26cb56bec2ae0339e9b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "KI delar bedömningen att en automatisk koppling mellan las-åldern och riktåldern stärker samordningen mellan pensionsoch arbetsmarknadssystemen, samtidigt som risken elimineras för att las-åldern understiger pensionssystemets normålder.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec122",
+      "sentiment": 1.0,
+      "quote": "KI delar bedömningen att en automatisk koppling mellan las-åldern och riktåldern stärker samordningen mellan pensionsoch arbetsmarknadssystemen, samtidigt som risken elimineras för att las-åldern understiger pensionssystemets normålder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.1",
+      "sentiment": -0.2,
+      "quote": "framgår det inte tydligt av underlaget att ett intervall om just två år är samhällsekonomiskt eller arbetsmarknadsmässigt optimalt i jämförelse med alternativa intervall eller en mer flexibel konstruktion.",
+      "quote_type": "grund"
+    }
+  ]
+}

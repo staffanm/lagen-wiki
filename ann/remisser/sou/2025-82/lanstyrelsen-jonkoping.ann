@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/lanstyrelsen-jonkoping": "88d6ff408dedb539b4cca0872f40238515e2733e774089a024d58449a532ad28",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen instämmer med utredningens bedömningar och tillstyrker förslagen på ändringar i jordförvärvslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.1",
+      "sentiment": 1.0,
+      "quote": "Trots de utmaningar som finns anser Länsstyrelsen att de eventuella fördelar i form av tillförsel av extra kapital inte bedöms uppväga de risker som finns med att öka juridiska personers möjligheter att förvärva lantbruksegendom.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2.1",
+      "sentiment": 1.0,
+      "quote": "När det gäller glesbygdsbestämmelserna välkomnas förslagen som syftar till en mer enhetlig och ändamålsenlig hantering.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a20.3.1",
+      "sentiment": 0.2,
+      "quote": "Det förutsätts att medel tillförs myndigheterna motsvarande tillkommande uppdrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

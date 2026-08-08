@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/avfallsverige": "1806fb4a618d04381e0e550145a6bfb39ed25b670662372dd27403e8fe2330b7",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Avfall Sverige är något tveksam till förslaget att bryta ut 3 och 4 kapitlen om hushållning med mark och vatten ur miljöbalken till en egen lag som inte innehåller någon motsvarighet till generationsmålet i miljöbalkens portalparagraf (1 kap. 1 § första stycket).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec12",
+      "sentiment": -0.2,
+      "quote": "Det finns en viss risk att avsaknaden av denna koppling medför att avvägningarna enligt lagen styr mot att prioritera föreliggande mer kortsiktiga behov, i stället för att säkerställa en hållbar användning av mark och vatten även för kommande generationers behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.7",
+      "sentiment": 0.5,
+      "quote": "Avfall Sverige anser liksom SKR att det är nödvändigt att ta ett helhetsgrepp kring hushållningsbestämmelserna och riksintressesystemet, att en sammanhållen syn på nyttjandet av nationella tillgångar behövs.",
+      "quote_type": "grund"
+    }
+  ]
+}

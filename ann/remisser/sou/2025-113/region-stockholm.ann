@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:113/region-stockholm": "a542f40e5a32f44bd52a1f153ca8cdbbe0f95ab5f9c26e6ac23cd8bb13a9d7ac",
+      "artifact:forarbete/sou/2025-113": "8c1c0cf1be8ee429662154c8dc64f07f510f8551ac68bae66465171635e8c748"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Det finns ett behov av att tydliggöra elevhälsans uppdrag, ansvarsfördelning och var insatser ska erbjudas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.8.2",
+      "sentiment": 0.8,
+      "quote": "Det blir tydligt med en ingång för övriga aktörer att vända sig till och samverka med.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.8.3",
+      "sentiment": -0.8,
+      "quote": "Regionen tolkar utredningens förslag om obligatoriska samverkansöverenskommelser som mycket tidskrävande och praktiskt svårt att genomföra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.10",
+      "sentiment": 1.0,
+      "quote": "Region Stockholm instämmer med utredningens analyser och slutsatser och har inga fler kommentarer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": 0.8,
+      "quote": "Utredningens förslag överensstämmer med Socialstyrelsens uppdrag att ta fram ett Nationellt hälsoprogram för barn och unga.",
+      "quote_type": "grund"
+    }
+  ]
+}

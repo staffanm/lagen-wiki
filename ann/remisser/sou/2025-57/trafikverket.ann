@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:57/trafikverket": "214cfb7249276dad24f8868c6ec36f3eb7fb1108f73ffdfeba084f24739dbf52",
+      "artifact:forarbete/sou/2025-57": "8cf9bb514d6bbb185bf9bc093699cb8e4192e8a8f7352a55e97006d808786230"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Trafikverket stödjer i sak utredningens förslag men med följande tillägg",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.11",
+      "sentiment": 0.2,
+      "quote": "Trafikverket behöver därför vara delaktig i det fortsatta arbetet med samordning av gränsövervakning, där infrastruktur spelar en viktig roll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9.4",
+      "sentiment": -0.5,
+      "quote": "I den aktuella utredningen förefaller analysen av driftvärnets roll och funktion vara alltför begränsad, då den huvudsakligen baseras på dess historiska utformning snarare än på en prövning av dess möjliga framtida utveckling.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/tranemo-kommun": "216e35b03d3fdde0fda07eb427a1f0993c068713c27c31199a917befb827cdd3",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Tillgången till läkemedel har central betydelse för en fungerande hälso- och sjukvård, och bristande tillgång kan utgöra ett hot mot liv och hälsa.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec4",
+      "sentiment": 1.0,
+      "quote": "Vi ser positivt på att utredningen konstaterar att det finns behov av att tillfälligt kunna begränsa förordnande och utlämnande av vissa läkemedel i bristsituationer och att det säkerställs att de som har störst behov av ett visst läkemedel även får tillgång till det vid läkemedelsbrist särskilt när det saknas alternativa läkemedel eller behandlingsmöjligheter för vissa patientgrupper samt när läkemedel börjar användas utanför godkänd indikation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 1.0,
+      "quote": "Tranemo kommun ser positivt på att Läkemedelsverket får mandat att agera vid läkemedelsbrist",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 1.0,
+      "quote": "E – hälsomyndigheten får uppdrag att införa systemstöd för att underlätta tillämpning och kontroll av efterlevnaden av de föreskrifter som utredningen föreslår att Läkemedelsverket ska ges ett bemyndigande att utfärda.",
+      "quote_type": "grund"
+    }
+  ]
+}

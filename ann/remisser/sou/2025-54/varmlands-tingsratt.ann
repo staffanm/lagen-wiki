@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:54/varmlands-tingsratt": "9142aa30b233cec6908040d3137156b799f7ba728b893609e2696911a3bf4664",
+      "artifact:forarbete/sou/2025-54": "7aaeb3a04e899501717f3265fee63505ccf9529ba9e8e7301f283a0cd3c94fac"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Den ökade arbetsbördan, förlängningen av handläggningstiderna och ökade kostnader inte kan anses rimliga eller motiverade innan en alternativ och mer effektiv processordning har utretts.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.5.5",
+      "sentiment": 0.2,
+      "quote": "Tingsrätten är positiv till att alla omständigheter som ska beaktas vid intresseavvägningen vid utvisning samlas i 8 a kap. 2 § utlänningslagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.2,
+      "quote": "Det är naturligtvis mer effektivt att koncentrera prövningen av verkställighetshinder på det sättet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 1.0,
+      "quote": "Tingsrätten tillstyrker förslaget att domstolar inte ex officio ska kunna ta upp frågan om utvisning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -1.0,
+      "quote": "Detta även när det är uppenbart att yrkandet inte kommer att bifallas (se s. 348), vilket ju inte bidrar till att använda såväl åklagares som domstolars resurser på ett effektivt sätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

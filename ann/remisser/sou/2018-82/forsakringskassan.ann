@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/forsakringskassan": "8cae4b73fc44069c75a89386e12d1d97183fba234d65e3a5d12769ad9d0fbd23",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Samhället och omvärlden har förändrats och förmågan att effektivt och samordnat förebygga och möta omedelbara hot och utmaningar behöver därför stärkas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec5",
+      "sentiment": 1.0,
+      "quote": "skyddet upprätthålls oavsett var verksamheten bedrivs",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": 1.0,
+      "quote": "tydliggör hur brister i säkerhetsskydd ska förebyggas",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": 0.5,
+      "quote": "det bör vara upp till generaldirektören hur denne vill ordna den ledningsgrupp som utgör stöd inför beslutsfattande",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.8",
+      "sentiment": 0.2,
+      "quote": "för att inte fördröja upphandlingsprocessen mer än nödvändigt",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.17",
+      "sentiment": -0.5,
+      "quote": "det för att utveckla och förbättra myndigheters arbete med säkerhetsskydd behövs en instans dit myndigheten kan vända sig för att få råd",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.8",
+      "sentiment": 0.2,
+      "quote": "efterlyser här en tydlig vägledning i hur klassningen ska genomföras och med vilken detaljeringsgrad för att anses vara genomförd och uppfylla de krav som ska ligga till grund för en sanktionsavgift",
+      "quote_type": "grund"
+    }
+  ]
+}

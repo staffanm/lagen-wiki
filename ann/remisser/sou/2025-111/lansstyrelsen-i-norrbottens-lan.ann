@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/lansstyrelsen-i-norrbottens-lan": "3cf8d9831eb3a1f5dbea55016c9603c2ebe61152da261042bab02860a354cfdf",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen i Norrbottens län instämmer i förslagen i avsnitt 12 och 16.5. Länsstyrelsen i Norrbottens län motsätter sig bedömningen i avsnitt 15.4.4.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a15.4.4",
+      "sentiment": -0.5,
+      "quote": "För det fall att länsstyrelsen skulle behöva ersätta enskilda parters rättegångskostnader kommer detta att påverka länsstyrelsens verksamhet, bland annat med risk för att myndigheten inte skulle kunna genomföra myndighetens uppdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i förslaget till lag om ändring i förvaltningsprocesslagen.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

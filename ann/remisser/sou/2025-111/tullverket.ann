@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/tullverket": "3f708579aead745b692c321de9cf9bf33deabac8ce4d9bfba4341327be87b587",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Tullverket tillstyrker förslagen till ändringar i förvaltningsprocesslagen då de bedöms förenkla och minska arbetsbördan för myndigheten samt medföra en högre rättssäkerhet för enskilda.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": 0.5,
+      "quote": "Tullverket tillstyrker förslagen till ändringar i förvaltningsprocesslagen då de bedöms förenkla och minska arbetsbördan för myndigheten samt medföra en högre rättssäkerhet för enskilda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.3",
+      "sentiment": -0.2,
+      "quote": "Tullverket vill påtala att det kan behövas författningsändringar för att undvika dubbelreglering när det gäller den typ av mål i vilka enskilda redan i dag kan få ersättningsyrkanden prövade i förvaltningsdomstol, dvs. mål om skatt och tull.",
+      "quote_type": "grund"
+    }
+  ]
+}

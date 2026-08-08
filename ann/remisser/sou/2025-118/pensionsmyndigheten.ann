@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/pensionsmyndigheten": "c2079a021ab178284e2cdd75eda9e607b16fe99288e567605b975b455e9cf2bc",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Pensionsmyndigheten lämnar följande synpunkter på de delar av förslagen som berör myndighetens verksamhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5.1",
+      "sentiment": 0.2,
+      "quote": "Pensionsmyndigheten anser att det ytterligare bör belysas hur tillämpningen kan se ut i praktiken för de olika sektorerna för att bedöma om och hur ett allmänt nödläge kan anses fastställt i enlighet med förordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.4",
+      "sentiment": 1.0,
+      "quote": "Ett sådant material kan bl.a. underlätta för myndigheter och andra offentliga organ att identifiera vilka datahållare som finns och vilken typ av data som respektive aktör kan ha behov av vid allmänna nödlägen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.5",
+      "sentiment": 0.2,
+      "quote": "Det bör övervägas om någon eller några länsstyrelser får motsvarande uppdrag som de sektorsansvariga myndigheterna då även de regionala och lokala myndigheterna omfattas av förordningens tillämpningsområde och har ett ansvar för fredstida krissituationer respektive extraordinära händelser i fredstid samt under höjd beredskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": -0.2,
+      "quote": "Pensionsmyndigheten anser dock att det hade varit önskvärt med schematiska överväganden över de bestämmelser som mest troligen kan bli tillämpliga utifrån några typscenarion, då flera av de sekretessbestämmelser som aktualiseras sannolikt bör vara desamma för flertalet myndigheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

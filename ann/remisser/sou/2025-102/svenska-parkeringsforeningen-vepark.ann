@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/svenska-parkeringsforeningen-vepark": "955b78d73559ad3bfdaedcddfaa53270bb493ed4bacde112e6385ff9541117a4",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Svepark tillstyrker utredningens förslag vad gäller bestridanden av parkeringsanmärkningar/felparkeringsavgifter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.5,
+      "quote": "såväl resurser som kompetens att hantermängden av ärenden på ett effektivt och rättsättssäkert sätt, både vad avser organisation om kompetens.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": -0.2,
+      "quote": "Svepark bedömer att utredningen kan ha underskattat hur många ärenden som kan komma att prövas i högre instans när prövningstillstånd inte längre krävs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.1",
+      "sentiment": -0.5,
+      "quote": "Enligt Sveparks uppgifter tas sådana rättelsebegäranden inte emot “över disk” vid polisstationer i dag.",
+      "quote_type": "grund"
+    }
+  ]
+}

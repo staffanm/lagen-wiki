@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:108/arbetsgivarverket": "ad943ddc49079d0ed281931e5120f4707acef6e64e83f458db7412790d827c3d",
+      "artifact:forarbete/sou/2025-108": "a775d95754ce5897c73c1b61b58817b4b1fcc07241129ab779d9551bc2bbbef7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammantaget bedömer Arbetsgivarverket att utredningen har gjort en väl avvägd helhetsbedömning, där behovet av utökade behandlingsmöjligheter balanseras mot ett högt integritetsskydd genom kompletterande skyddsregler, inklusive införandet av absolut sekretess vid användning av dataanalys och urval.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.8,
+      "quote": "Alternativ A ger ett tydligare och bättre rättsligt stöd för myndigheternas arbete samt minskar risken för tolkningssvårigheter i tillämpningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.1",
+      "sentiment": 1.0,
+      "quote": "Ett nationellt frånvaroregister ger förbättrade förutsättningar för ett datadrivet arbetssätt och kan bidra till bättre uppföljning och samordning samt minska risken för felaktiga utbetalningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.10",
+      "sentiment": -0.2,
+      "quote": "Det är inte en tillfredsställande ordning om jämförbara eller samma uppgifter skyddas olika beroende på var de behandlas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.11",
+      "sentiment": -1.0,
+      "quote": "För att säkerställa att Skolverket ges tillräckliga förutsättningar att bygga upp och ansvara för ett nationellt frånvaroregister i enlighet med de höga krav som ställs, krävs en längre tidsram för ikraftträdande än den 1 januari 2027.",
+      "quote_type": "grund"
+    }
+  ]
+}

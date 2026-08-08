@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/kommunala-lantmaterimyndigheten-i-norrkoping": "797844be8e212311227b45d2ec426170a0a5b18d75c85eea94f8687db3e6cc6d",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Lantmäterimyndigheten i Norrköpings kommun (klm-N) är mycket positiv till införande av koordinatbestämda fastighetsgränser, men har invändningar mot förslaget till möjligheten att göra överenskommelse om koordinatbestämning samt mot kravet på lägesnoggrannhet på 0,025 m.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a16.6",
+      "sentiment": -0.5,
+      "quote": "Klm-N menar att det saknas skäl för överenskommelse om koordinatbestämning, eftersom endast rättsligt entydiga gränser kan koordinatbestämmas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.1",
+      "sentiment": 0.0,
+      "quote": "Frågor uppstår då om det är något som ska debiteras som förrättningskostnad och anses ingå i grundbeloppet eller om det ska debiteras som uppdragsverksamhet eftersom huvudregeln är att den koordinatbestämda gränsen inte ska stakas ut eller utmärkas?",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec98",
+      "sentiment": -0.5,
+      "quote": "Klm-N anser att en standardosäkerhet på högst 0,05 m är fullt tillräcklig med hänsyn till att det allmänna behovet och nyttan av koordinatbestämda gränser är stort och att det är angeläget att koordinatbestämningen kan göras med rimlig tidsåtgång och kostnad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2",
+      "sentiment": -0.5,
+      "quote": "Det går emot SOU 2025:98 som kraftigt vill minska möjligheten för de kommunala lantmäterimyndigheterna att delta i planprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.4",
+      "sentiment": 0.0,
+      "quote": "Vad menas med skyndsamt här? Meningen bör väl vara att ett sådant ärende ska handläggas så att detaljplaneprocessen inte försenas.",
+      "quote_type": "grund"
+    }
+  ]
+}

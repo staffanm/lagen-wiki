@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:1/foretagarna": "536fcc6f1baa92ce8e0db47da6fc50f6c832edc56691e7b39aefe24d1f31bcb2",
+      "artifact:forarbete/sou/2026-1": "800122abdf1a75716ad0b7e15b8b8e168d5039afbac180a5b4abf6bbfb8f9388"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Företagarna välkomnar att incitamenten för FoU förstärks.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec275",
+      "sentiment": 1.0,
+      "quote": "Företagarna ställer oss bakom det som framförs i det särskilda yttrandet",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.7",
+      "sentiment": -0.2,
+      "quote": "Detta val kan i någon mån ha en begränsande effekt, då investeringar i exempelvis AI, maskinlärande och andra tekniskt baserade FoU-insatser inte omfattas av incitamentet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8.4",
+      "sentiment": 0.5,
+      "quote": "Genom att företag som inte har skatt att avräkna reduktionen mot – typiskt sett mindre och yngre företag som inte har börjat gå med vinst ännu – kan få tillgodohavandet utbetalt, har alternativet med skattereduktion en tydligare likviditetsstärkande effekt på kort sikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.13",
+      "sentiment": -1.0,
+      "quote": "Som framhålls i det särskilda yttrandet avstyrker Företagarna förslaget om att finansiera skatteincitamentet genom begränsningar av ränteavdragsmöjligheter för företag.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

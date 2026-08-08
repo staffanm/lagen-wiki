@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/lansstyrelsen-gotland": "63c8304e0c9cf6e2e91cc3af3e2b991a02f44d9ead95a752042a002ad7f3b3a4",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utan hinder enligt jordförvärvslagen kommer ett ökat bolagsägande att leda till negativa konsekvenser för jordbrukets utveckling samt bosättning och sysselsättning på landsbygden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18",
+      "sentiment": 0.0,
+      "quote": "Det skulle underlätta för enskilda personer om de i annan lagstiftning, kan få en statlig lånegaranti för det kapitalbehov där säkerhet i jordbruksmark inte räcker.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": 0.5,
+      "quote": "Om statens inlösenskyldighet upphör finns större möjligheter att vägra förvärv där man bedömer att köparen inte planerar att bosätta sig permanent.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.1",
+      "sentiment": -0.5,
+      "quote": "Eftersom det finns en stor variation av andelen glesbygdsområden mellan länen i landet kommer arbetet med att utreda och aktualisera dessa och därefter den utökade handläggningstiden att innebära högre kostnader för län med stor andel glesbygdsområden.",
+      "quote_type": "grund"
+    }
+  ]
+}

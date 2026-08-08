@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/goteborgs-kommun": "43cb5b6b3fe4570d75cadb0b712289551e2a5ae6a8a72914908ab9cfc7f0c3a9",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Göteborgs Stad ser i huvudsak positivt på förslaget men ser skäl att lämna synpunkter gällande säkerhetsskyddsavtal och anmälningsplikt, utökade registerkontroller samt säkerhetsprövning utan placering i säkerhetsklass.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1-2",
+      "sentiment": -0.2,
+      "quote": "det finns oklarheter och behov av förtydligande avseende vilka förfaranden som avses i 4 kap. 1 a § 2",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec248",
+      "sentiment": -0.5,
+      "quote": "Göteborgs Stads bedömning är att tillsynsmyndigheterna i första hand bör lämna vägledning i syfte att verksamhetsutövarna ska beredas möjlighet att uppfylla kraven i säkerhetsskyddslagen och först därefter använda sig av förelägganden, eventuellt förenade med viten för att åstadkomma förändring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 0.5,
+      "quote": "Förslagen om utökade registerkontroller bedöms stärka skyddet för säkerhetskänslig verksamhet och säkerhetsskyddsklassificerade uppgifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": -0.2,
+      "quote": "utökade registerkontroller också medför en risk för tidsfördröjningar i registerkontrollprocessen, vilket kan påverka verksamhetsutövarens förmåga att tillsätta säkerhetskritiska roller i tid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.1",
+      "sentiment": -0.5,
+      "quote": "Göteborgs Stad bedömer att avsaknaden riskerar att föra med sig en lucka i lagstiftningen som omfattar personer som i sin befattning får ta del av uppgifter klassade som begränsat hemliga och därigenom har möjlighet att orsaka ringa skada för Sveriges säkerhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

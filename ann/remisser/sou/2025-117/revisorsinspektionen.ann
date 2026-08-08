@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:117/revisorsinspektionen": "041dd76f79af92ae043ac90ae47c0a11d7f3ce6103f3baf75bc4a6d99be08c92",
+      "artifact:forarbete/sou/2025-117": "e9f7c3ab9cf49724fafdf32b1ac759e11d234a9fee7d593cc7ebb686a52a59d9"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Revisorsinspektionen har, utifrån de intressen som myndigheten har att beakta, följande synpunkter på förslagen i slutbetänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec592",
+      "sentiment": -0.2,
+      "quote": "Därefter följer emellertid en beskrivning av god redovisningssed, vilket rätteligen borde vara god revisionssed.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec592",
+      "sentiment": -0.5,
+      "quote": "Detta är tvärtom ett mycket viktigt moment i en revision och kan kräva att revisorn uttalar sig i frågan i revisionsberättelsen, se International Standard on Auditing (ISA) 570 Fortsatt drift.",
+      "quote_type": "grund"
+    }
+  ]
+}

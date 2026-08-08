@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:103/elektronikbranschen": "b3becab61d8e1d0db40df80a93181626aaecec856634fb35c625060e295ac108",
+      "artifact:forarbete/sou/2025-103": "3494f54a32c4c4ce08c80df5c6f1304db463ec2825930548fa2363c4c69ec03f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Våra medlemmar verkar på en globalt konkurrensutsatt marknad, där lika och förutsebara villkor är viktiga för långsiktig lönsamhet och omställning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec75",
+      "sentiment": 0.5,
+      "quote": "En svensk särdefinition riskerar överimplementering och olika ansvarsfördelning mellan medlemsstaterna och därmed ökade kostnader och sämre konkurrensvillkor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": -0.2,
+      "quote": "ElektronikBranschen anser att bestämmelsen om vilka omständigheter som ska beaktas vid bedömningen av säkerhetsbrist bör kompletteras för att fullt ut spegla direktivet och öka förutsebarheten i tillämpningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.10.2",
+      "sentiment": -0.5,
+      "quote": "Samtidigt finns en risk att produktansvariga företag tvingas lägga omfattande resurser på att utreda och motbevisa påståenden om säkerhetsbrist eller orsakssamband, även när produkter har reparerats, uppgraderats eller påverkats av tredje man efter att de släppts ut på marknaden – vilket kan vara svårt om detta skett av en oberoende aktör eller av konsumenten själv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec104",
+      "sentiment": 0.2,
+      "quote": "Samtidigt bedömer ElektronikBranschen att det är otydligt i vilken utsträckning regleringen kommer att ge reell hjälp för konsumenter i praktiken.",
+      "quote_type": "grund"
+    }
+  ]
+}

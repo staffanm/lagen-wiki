@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/trafikanalys": "a30f7b3742c4c40fe6af2926720506003c1d3b4541115fe0d53f9ed96b78c687",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Trafikanalys stödjer därför i huvudsak utredningens förslag och ser dem som ett viktigt underlag för att stärka effektiviteten och långsiktigheten i infrastrukturplaneringen och genomförandet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec153",
+      "sentiment": 1.0,
+      "quote": "Vi bedömer att den föreslagna inriktningen, där bolaget ges ett helhetsansvar för att planera, projektera, bygga och förvalta väg- och järnvägsinfrastruktur, är ändamålsenlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec169",
+      "sentiment": 1.0,
+      "quote": "Det är angeläget att kostnader för drift, underhåll och reinvesteringar beaktas redan i ett tidigt skede av planeringen, så att investeringsbeslut grundas i ett långsiktigt och kostnadseffektivt helhetsperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec147",
+      "sentiment": -0.5,
+      "quote": "Urvalet uppfyller endast delvis regeringens direktiv avseende samhällsekonomisk lönsamhet, risköverföring och genomförandeförutsättningar, och det framgår inte tydligt hur dessa kriterier har tillämpats eller vägts mot varandra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec165",
+      "sentiment": 0.5,
+      "quote": "Vi delar utredningens bedömning att kontinuerlig uppföljning och jämförelser mellan bolaget och Trafikverket är nödvändig för att säkerställa lärande, transparens och förbättrad effektivitet i genomförandet av infrastrukturinvesteringar.",
+      "quote_type": "grund"
+    }
+  ]
+}

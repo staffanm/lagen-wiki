@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:24/kammarratten-i-stockholm": "23e7a39cee9f3692bd2bf380e7e8c081c82894ad75db2d5c2562bd4c3c39fcba",
+      "artifact:forarbete/sou/2025-24": "88406afe1f6a6b8622563c5c72858e0acc520793bcf2ba1fc08caa4758f55814"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kammarrätten har utifrån de aspekter domstolen har att beakta, inga synpunkter på förslagen, men vill lämna följande kommentarer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec45",
+      "sentiment": -0.5,
+      "quote": "I 45 § i förordningen hänvisas till beslut enligt 39 och 40 §§. Något beslut ska dock inte fattas enligt 39 §.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec29",
+      "sentiment": -0.2,
+      "quote": "I betänkandet saknas överväganden av om detta medför några konsekvenser för domstolarna.",
+      "quote_type": "grund"
+    }
+  ]
+}

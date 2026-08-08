@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/skogsstyrelsen": "866abc9ce23f32ca08d5c5482622aa1784a32c977844b8af6136d9b2f9431b78",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det skulle modernisera det viktiga arbetet med viltförvaltning genom ett tydligare helhetsansvar samt i högre grad jämställa brukandet av vilt med andra areella näringar, på liknande sätt som det är utformat i Norge och Finland.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4",
+      "sentiment": 1.0,
+      "quote": "Den myndighetsinstruktion som föreslås för den nya myndigheten innebär tydligare helhetsansvar att förebygga och begränsa skador orsakade av vilt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec46",
+      "sentiment": 0.2,
+      "quote": "På detta sätt blir det tydligare att myndigheterna arbetar på uppdrag av en och samma regering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.18",
+      "sentiment": 0.5,
+      "quote": "Ett tillägg i instruktionen avseende insamlandet av statistik kan innebära att Skogsstyrelsen måste överta finansiering av dagens Älgbetesinventering (Äbin) som idag finansieras av skogsbruket.",
+      "quote_type": "grund"
+    }
+  ]
+}

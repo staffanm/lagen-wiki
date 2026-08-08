@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/integritetsskyddsmyndigheten": "67f5fecd53413c1fdaf8650a42f5844b1ca53f5ed4b9e36a6d418f0c67204407",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "IMY ifrågasätter inte behovet av utökad registerkontroll till följd av det förändrade säkerhetsläget.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 0.2,
+      "quote": "IMY framhåller att registerkontrollen inte bör ske automatiskt mot de register som föreslås kunna kontrolleras, utan en bedömning ska göras av behovet i varje enskilt fall, för att förslaget ska vara proportionerligt och uppgiftsminimering iakttas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.4",
+      "sentiment": -0.5,
+      "quote": "IMY anser inte att betänkandet på ett tillräckligt sätt kunnat motivera behovet och ändamålsenligheten av kontrollen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.5",
+      "sentiment": -0.2,
+      "quote": "IMY konstaterar att det rör sig om mycket känsliga personuppgifter, vilket gör att starka skäl krävs för behandlingen, för att den ska vara proportionerlig.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:63/sveriges-fotterapeuter": "2c5f32b7663e89d5f63553f01e432d565d7c91470c2c119ac82cc1b9b4b3a553",
+      "artifact:forarbete/sou/2025-63": "461094f462cdf3d5e300f64df1c13bc71f9e5017089a2d108dbaf9978b04511e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi delar utredningens bedömning att patientsäkerheten är det avgörande skälet till att reglera yrket.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": 0.5,
+      "quote": "Sveriges Fotterapeuter tillstyrker alltså införandet av Skyddad Yrkestitel för Medicinska Fotterapeuter men anser att regleringen behöver kompletteras med: • Översyn av yrkestiteln för att undvika begreppsförvirring (Specialistfotterapeut alternativt Medicinsk Fotsjukvård med specialistkompetens) • Tydligare utbildningskrav och nationell samordning • Kvalitetskontroll av utbildningarnas teoretiska och praktiska moment • Krav på kompletterande kurser för Skyddad Yrkestitel • Samverkan med branschen för validering av yrkeskunskaper",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec191",
+      "sentiment": 1.0,
+      "quote": "Utbildningen ska ge den kompetens som krävs för att självständigt bedöma, behandla och följa upp patienter inom hälso- och sjukvårdens område.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec182",
+      "sentiment": -0.5,
+      "quote": "Vi ser ett problem i användningen av titeln ”Medicinsk Fotterapeut” eftersom många utbildningsanordnare redan använder benämningen för utbildningar av varierande kvalitet och längd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec206",
+      "sentiment": 0.5,
+      "quote": "Språkkrav motsvarande de som gäller för undersköterskor bör införas, då bristande språkkunskaper kan påverka patientsäkerhet och vårdkvalitet.",
+      "quote_type": "grund"
+    }
+  ]
+}

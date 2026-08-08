@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/stadsnatsforeningen": "aa3aa4e62abd08993f24d5897d911ef41c7305ece3278c3b02e4d6a24b6047a9",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "en anpassning av svensk rätt till EU:s gigabitinfrastrukturförordning kan bidra till att främja en snabbare, mer kostnadseffektiv och mer förutsägbar utbyggnad av digital infrastruktur i Sverige.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19.2.2",
+      "sentiment": 0.5,
+      "quote": "myndigheten har en viktig roll i att säkerställa att informationspunkten blir ändamålsenlig, inte ges en mer omfattande funktion än nödvändigt, att känslig information inte centraliseras samt att uppdraget genomförs i samordning med berörda myndigheter och aktörer och med beaktande av säkerhetsaspekter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.1.2",
+      "sentiment": 1.0,
+      "quote": "Stadsnätsföreningen stödjer utredningens förslag att PTS ges rollen som tvistlösningsorgan.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a20.3",
+      "sentiment": -0.5,
+      "quote": "kostnaderna för uppgifter som har en bred samhällsnytta fördelas på enskilda aktörer, oberoende av i vilken utsträckning de nyttjar dem.",
+      "quote_type": "grund"
+    }
+  ]
+}

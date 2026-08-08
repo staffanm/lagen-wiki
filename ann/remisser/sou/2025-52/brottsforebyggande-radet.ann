@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:52/brottsforebyggande-radet": "81afe838d98821aa247975f1797979c40a67edcfe8348fe49b72878b26c44997",
+      "artifact:forarbete/sou/2025-52": "4d5e74c56afadf49e44bd84297c2d7e7df96670250cfa6da96f9bac96e81a2ba"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Brå tillstyrker förslagen i stort men vill framföra några synpunkter beträffande vissa av förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec596",
+      "sentiment": -0.5,
+      "quote": "Brås generella bild är att otillåten påverkan inte begränsar sig till att påverka beslut i enskilda ärenden (Brå 2014:4, Brå 2016:13, Brå 2024:2).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec628",
+      "sentiment": -0.5,
+      "quote": "Brås bild är dock att även förtroendevalda och tjänstepersoner på regional och kommunal nivå utsätts för påverkansförsök, inklusive påverkansförsök från personer inom kriminella grupperingar som representerar företag eller föreningar (Brå 2025:4, Brå 2023).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec709",
+      "sentiment": -0.2,
+      "quote": "att tillsynsmyndigheten inte föreslås få några sanktionsmöjligheter är det tveksamt om regelverket kommer att ha avsedd effekt på dessa aktörer.",
+      "quote_type": "grund"
+    }
+  ]
+}

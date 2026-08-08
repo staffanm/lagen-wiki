@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/osthammars-kommun": "34f4cd6d34174b2ea5128fe173d261059016cbd955538074128c3e8206bf4cc8",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Bygg- och miljönämnden i Östhammars Kommun har invändningar mot förslaget att införa en kontrollorganisation på det sätt som föreslås i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a25",
+      "sentiment": -0.5,
+      "quote": "Östhammars kommun anser att det riskerar att blir rörigt och svårhanterligt för livsmedelsföretagarna med flera stora förändringar på så kort tid, och förespråkar att övergången till en mer centraliserad livsmedelskontroll bör ske mer succesivt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec546",
+      "sentiment": -0.5,
+      "quote": "vi befarar att den anpassade rådgivningen, som grundar sig i god kännedom om den enskilda verksamheten istället kan bli sämre när livsmedelskontrollen centraliseras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec601",
+      "sentiment": -0.5,
+      "quote": "Med längre reseavstånd till objekten riskerar kostnaderna att öka då kontrollen inte kan bedrivas lika effektivt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.1",
+      "sentiment": 0.2,
+      "quote": "Östhammars kommun kan se fördelar med att, likt Finland, införa tvingande samverkan för kommuner som har mindre än ett visst antal årsarbetskrafter avsedda för livsmedelskontroll och därmed minska ner på antalet kontrollmyndigheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

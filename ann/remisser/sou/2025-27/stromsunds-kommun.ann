@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:27/stromsunds-kommun": "6af5ea57182ec5017e4d1ab0ee8889561457fbf85a275c5b2da89ca09f28e794",
+      "artifact:forarbete/sou/2025-27": "5c74e1c68981d87d80949b8ee7ec726fa77a655e3d3c12c7fa9b9bbd07c4dfb8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Socialnämnden i Strömsund Ɵllstyrker betänkandets förslag Ɵll förändringar i socionomutbildningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.5.3",
+      "sentiment": 0.2,
+      "quote": "Det har betydelse i synnerhet i de orter där utbildningen är en förutsäƩning för rekrytering regionalt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5.6",
+      "sentiment": 0.5,
+      "quote": "Två perioder ger större kunskap om arbetsmarknaden inför val av inriktning och framƟda arbetsliv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5.7",
+      "sentiment": -0.2,
+      "quote": "Med de rådande samhällsutmaningarna kan det inte vara godtagbart aƩ minska antalet socionomer på arbetsmarknaden.",
+      "quote_type": "grund"
+    }
+  ]
+}

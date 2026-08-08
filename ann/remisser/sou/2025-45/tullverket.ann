@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/tullverket": "b33f868325c235a0f6bf71fba29152b3559e8668f0aaf7e740d91a3ece2c147d",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Tullverket tillstyrker förslagen om en ny bestämmelse i OSL avseende utlämnande av icke sekretessbelagda uppgifter till andra myndigheter på eget initiativ och bestämmelserna om att utlämnande av uppgifter ska ske elektroniskt på annat sätt än genom direktåtkomst, om det inte är olämpligt.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.8.5",
+      "sentiment": 1.0,
+      "quote": "Tullverket tillstyrker förslagen om en ny bestämmelse i OSL avseende utlämnande av icke sekretessbelagda uppgifter till andra myndigheter på eget initiativ och bestämmelserna om att utlämnande av uppgifter ska ske elektroniskt på annat sätt än genom direktåtkomst, om det inte är olämpligt.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": 0.5,
+      "quote": "Tullverket vill dock framföra att det vore önskvärt om man i det fortsatta lagstiftningsärendet närmare kunde utveckla innebörden av uttrycket ”om det inte är olämpligt” i skrivningarna om att personuppgifter får lämnas ut elektroniskt på annat sätt än genom direktåtkomst om det inte är olämpligt.",
+      "quote_type": "grund"
+    }
+  ]
+}

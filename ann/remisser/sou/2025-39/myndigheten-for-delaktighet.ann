@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:39/myndigheten-for-delaktighet": "614336cc718027c75aee5bd0fc9db6d43e0ca6f0bd42879d8816ec6c7e27b68b",
+      "artifact:forarbete/sou/2025-39": "030cdbea8ee7c44b3c9a0f433cdd7f751b76efebf39c03c1cc1625da3d87b584"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "MFD är i stort positiv till förslagen och bedömningarna i betänkandet Digital teknik på lika villkor – En reglering för socialtjänsten och verksamhet enligt LSS (SOU 2025:39), men framför några synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.5",
+      "sentiment": -0.2,
+      "quote": "MFD anser att det är angeläget att personer som ska göra bedömningen av den enskildes beslutsförmåga har tillräcklig kompetens och utbildning för uppgiften och att personalen får stöd och vägledning i bedömningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.7",
+      "sentiment": 0.5,
+      "quote": "MFD anser att det utöver ett metodstöd även kan finnas behov av att tillhandahålla utbildnings- eller kompetenshöjande insatser till personalen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.12",
+      "sentiment": -0.2,
+      "quote": "Att underlätta för professionen i vård- och omsorgsverksamhet att få den enskildes samtycke till användning av digital teknik för personer med nedsatt beslutsförmåga får aldrig ske på bekostnad av den enskildes rätt till frivillighet, självbestämmande och inflytande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.2",
+      "sentiment": -0.2,
+      "quote": "Digital teknik får aldrig helt ersätta mänsklig kontakt.",
+      "quote_type": "grund"
+    }
+  ]
+}

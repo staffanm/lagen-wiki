@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:95/bodens-kommun": "6bb5aaa0ebe43be8df5f9a5a58e0ad7c01c14c0f7f9e88e970ea5a9492e1f220",
+      "artifact:forarbete/sou/2025-95": "613ac92cd1fc517e8bc3ec573b279ef426ca513eb1305ec1af52d26309784bd1"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Vi noterar att flera av föreslagen i utredningen riskerar att stå i konflikt med internationella konventioner, däribland FN:s konvention om mänskliga rättigheter och Barnkonventionen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec9",
+      "sentiment": -1.0,
+      "quote": "Den sammanlagda separationstiden kan i praktiken bli upp till 5-6 år när man beaktar handläggningstider vilket är oacceptabelt ur ett barnrättsperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.5,
+      "quote": "Att utöka försörjningskraven och göra dem till huvudregel även vid förlängning av uppehållstillstånd riskerar att skapa mycket stora hinder för redan etablerade familjer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec191",
+      "sentiment": 1.0,
+      "quote": "Det är positivt att kravet på att ett barn ska vara ogift för att omfattas av en rätt eller möjlighet till uppehållstillstånd på grund av anknytning till en förälder eller förälders make eller sambo tas bort.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec243",
+      "sentiment": 1.0,
+      "quote": "Det är också positivt att ensamkommande barn även fortsättningsvis undantas från försörjningskravet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec177",
+      "sentiment": -0.5,
+      "quote": "Det är också negativt ur ett barnperspektiv att grupper som inte omfattas av familjeåterföreningsdirektivet inte ska ha någon principiell rätt till familjeåterförening utan enbart en möjlighet enligt utredningens förslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

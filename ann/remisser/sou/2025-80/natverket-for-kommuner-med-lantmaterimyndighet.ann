@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/natverket-for-kommuner-med-lantmaterimyndighet": "e6a23278e6554920c7571051cf02d53df6da915a8c99d03b68b9dcf14572cfe4",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Nätverket för kommuner med lantmäterimyndighet (KLM) tillstyrker i huvudsak förslagen men ser att vissa delar kan förbättras eller förtydligas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.4.2",
+      "sentiment": -0.5,
+      "quote": "Sätts kraven lägre än 0,05 m finns risk för att det kommer krävas omfattande ommätningar av områden som idag anses inmätta med hög kvalitet, dvs låg standardosäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": -0.2,
+      "quote": "KLM anser att det är otydligt vad som är bestående tekniska hinder och hur antagandet av när kostnaden blir orimligt hög ska göras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.6",
+      "sentiment": -1.0,
+      "quote": "Detta kan medföra att lagligen tillkomna klara gränser, bildade med de normalt höga kraven på utredning och lantmätarkompetens sätts ur spel med rättsosäkerhet som följd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": -0.2,
+      "quote": "KLM ser dock att förslaget leder till ökade kostnader i ett tidigt skede av planprocessen eftersom även de gränser som är rättsligt klara med hög kvalitet behöver koordinatbestämmas.",
+      "quote_type": "grund"
+    }
+  ]
+}

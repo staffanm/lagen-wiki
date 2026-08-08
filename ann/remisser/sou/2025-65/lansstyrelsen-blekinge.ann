@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/lansstyrelsen-blekinge": "e0f2396ca4b852a45dc8a5de801e5888d40351243d04378c69ccd62abb3e7684",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Länsstyrelsen Blekinge anser att vissa delar av förslaget stärker hyresgästens trygghet, medan andra delar innebär en risk för att redan utsatta grupper kan påverkas negativt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.5,
+      "quote": "En skarp uppsägning på grund av brottslighet riskerar att försätta hela familjer, inklusive barn, i en mycket utsatt och osäker situation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.1",
+      "sentiment": 1.0,
+      "quote": "Regler om rättelse vid misskötsamhet ger hyresgästen möjlighet att åtgärda problem innan uppsägning sker, vilket länsstyrelsen ser som positivt då det kan minska risken för plötsliga avhysningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser att förslaget innebär en ny arbetsuppgift som kan kräva ökade resurser till länsstyrelserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": 0.0,
+      "quote": "Men samtidigt anser länsstyrelsen att vissa delar av förslaget innebär en risk för att redan utsatta grupper kan påverkas negativt, särskilt vad gäller reglerna kring misskötsel och kraven på skriftlig eller digital kommunikation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8.1",
+      "sentiment": 1.0,
+      "quote": "Förbudet mot att hyresvärden kan säga upp tidsbestämda avtal i förtid utan saklig grund ökar, enligt länsstyrelsen, förutsägbarheten och tryggheten för hyresgästen och utgör ett viktigt skydd mot osäkerhet och risken för hemlöshet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8.2",
+      "sentiment": -0.5,
+      "quote": "Personer med ekonomiska svårigheter riskerar att snabbt förlora sitt boende vid relativt små förseningar, utan möjlighet till återvinning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8.3",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser att kravet på att kommunikation vid uppsägning ska ske skriftligt eller digitalt kan skapa hinder för personer med till exempel språksvårigheter, psykisk ohälsa eller bristande digital kompetens.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:54/stockholms-tingsratt": "6c36e63d91a21f74f2d657eaa603a2c302894db10752ee73d69ba0fd75821290",
+      "artifact:forarbete/sou/2025-54": "7aaeb3a04e899501717f3265fee63505ccf9529ba9e8e7301f283a0cd3c94fac"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Sammantaget anser alltså tingsrätten på en övergripande nivå att förlagen i reformen inte bör genomföras innan man avvaktat effekterna av tidigare lagstiftning samt övervägt att flytta hela prövningen till Migrationsverket.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.5.5",
+      "sentiment": -0.2,
+      "quote": "Det framgår inte av den föreslagna lagtexten att risken för fortsatt brottslighet ska väga tyngre än tidigare, eller att intresseavvägningen ska ske på en skärpt nivå samt att en utgångspunkt ska vara att inte mer hänsyn ska tas till skäl som talar mot utvisning än vad som krävs enligt Sveriges internationella åtaganden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -1.0,
+      "quote": "Utformningen framstår för tingsrätten som en omotiverad begränsning av åklagares utförande av sitt uppdrag som dessutom tynger processen på ett omotiverat sätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

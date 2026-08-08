@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/ovanakers-kommun": "df3be1fa1d3ffd12d0e431367f47e1241c841947d84f09226ed3572dbebdd026",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Ovanåkers kommun ställer sig bakom remissvaret från SmåKom i sin helhet men vill även förtydliga vissa frågeställningar som delbetänkandet berör.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec27",
+      "sentiment": 0.2,
+      "quote": "Vi håller med utredningens reflektion att bristen på en nationell utvecklingspolitik samt bristen på metoder för utvärdering försvårar möjligheten för en sammanhållen regional politik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec122",
+      "sentiment": -0.2,
+      "quote": "Vi vill understryka behovet av tydligheten i gränsdragningen mellan Region och Länsstyrelse vad gäller det regionala utvecklingsansvaret samt att även uppdraget till de statliga myndigheterna måste förtydligas så att de möjliggör och bidrar till den regionala utvecklingen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Om regionen ska ta ansvar för ett nytt politikområde kan detta inte finansieras inom ramen för den budget regionerna idag har för sin utvecklingspolitik.",
+      "quote_type": "grund"
+    }
+  ]
+}

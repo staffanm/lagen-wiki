@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/skatteverket": "a07b0df6c607aad518eb56064ac8824afc9759022ded840e77b246b719a3bb48",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket tillstyrker förslaget, men lämnar vissa synpunkter på avsnitt 12 avseende regulatoriska sandlådor för AI och testning under verkliga förhållanden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.6.2",
+      "sentiment": -0.2,
+      "quote": "Det behöver utredas vidare ifall AI-verkstaden vid behov enbart tillhandahåller en teknisk infrastruktur till stöd för en beslutade sandlådeprojekt, eller medför att Skatteverket och Försäkringskassan behöver utses till behöriga myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6.8",
+      "sentiment": -0.2,
+      "quote": "Skatteverket anser att, för det fall Skatteverket och/eller Försäkringskassan, inom ramen för en vertikal sandlåda för AI-verkstaden, eller ett projekt i en horisontell sandlåda som berör AI-verkstaden, behöver ha ett tydligare mandat att delta i samarbetet med den inrättande myndigheten, än vad som följer av 8 § förvaltningslagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6.13",
+      "sentiment": 0.0,
+      "quote": "Skatteverket efterlyser därutöver en bedömning huruvida handlingar och uppgifter som utbytes mellan myndigheter och mellan myndigheter och privata aktörer inom ett sandlådeprojekt är att anse som expedierade från eller inkomna till de berörda myndigheterna, och därmed allmänna.",
+      "quote_type": "grund"
+    }
+  ]
+}

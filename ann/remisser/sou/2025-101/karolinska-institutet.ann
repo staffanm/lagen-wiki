@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/karolinska-institutet": "147cc9500c7b67c3154ff39df4f473eb380a4a4387a7f50d78df75c2234517ec",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "KI noterar att betänkandet lyfter forskningsundantaget men ser ett kritiskt behov av förtydliganden i den svenska lagstiftningen för att motverka oskäliga hinder mot forskning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "KI menar att forskningsundantaget behöver göras explicit och tydligt i svensk lagtext för att säkerställa forskningens frihet och Sveriges position som kunskapsnation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.3",
+      "sentiment": -0.5,
+      "quote": "Den föreslagna regleringen skapar en strukturell barriär för innovation och patientnytta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.7.6",
+      "sentiment": -0.2,
+      "quote": "KI föreslår att det ska införas en tydlig tidsgräns för handläggning av ansökningar och att det införs en sammanhållen ansökningsportal för test i verkliga förhållanden samt att det bör övervägas om en modell där tyst godkännande kan tillämpas under strikta förutsättningar, exempelvis vid låg risk och forskningsanknytning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.7",
+      "sentiment": -0.5,
+      "quote": "Detta är avgörande för att möjliggöra AI-lösningar som bygger på registerdata.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6.3",
+      "sentiment": -0.5,
+      "quote": "Denna fragmenterade ansvarsfördelning riskerar att skapa omfattande administrativa hinder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": -0.2,
+      "quote": "För att forskningsresultat inom AI och hälsa ska komma patienter till gagn krävs särskilda stödstrukturer som underlättar överföringen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:95/asylrattscentrum": "496f13aeace44c2bd31303c7d9597987a8b06c11797413d8647ed77f59242450",
+      "artifact:forarbete/sou/2025-95": "613ac92cd1fc517e8bc3ec573b279ef426ca513eb1305ec1af52d26309784bd1"
+    }
+  },
+  "overall": {
+    "sentiment": -0.8,
+    "quote": "Asylrättscentrum anser att förslagen kan strida mot EU-rätten, Europakonventionen, och barnkonventionen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2.2",
+      "sentiment": -1.0,
+      "quote": "Vårdnad är ofta svårare att bevisa än föräldraskap och det kan uppstå situationer där ett krav som anknyter till vårdnaden leder till orimliga resultat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.9",
+      "sentiment": 0.5,
+      "quote": "Emellertid ställs flera krav på anknytningspersoner som i praktiken fortsatt kommer att göra det omöjligt för medsökande syskon att beviljas uppehållstillstånd tillsammans med föräldrarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": -1.0,
+      "quote": "Mot bakgrund av de risker för konventionskränkningar som föreligger redan utifrån det undantag som idag finns avstyrker Asylrättscentrum förslaget om en ytterligare skärpning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": -1.0,
+      "quote": "Det framstår inte som rimligt att anknytningspersonen för all framtid ska prövas gentemot försörjningskraven.",
+      "quote_type": "grund"
+    }
+  ]
+}

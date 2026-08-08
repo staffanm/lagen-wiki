@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/umea-universitet": "9a6d55c897c0416d7083d58ab8a4474f4ee7d6217b5e14584ae1c50783443d23",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Umeå universitet ställer sig delvis positiv till betänkandet, eftersom det minskar antalet valsedlar och underlättar administrationen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.5,
+      "quote": "Den första gäller att mindre och nya partier inte ges någon motsvarande lättnad i administrationen av kandidatvalsedlar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.5,
+      "quote": "Den andra, och enligt vår bedömning mest betydande, bristen är att gemensamma eller neutrala valsedlar avfärdas utan tillräckligt ingående överväganden och utan tydliga motiveringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.8",
+      "sentiment": 0.0,
+      "quote": "Det gäller exempelvis digitala valsedelsskrivare, där det i betänkandet lyfts fram både fördelar och nackdelar med det utan en tydlig ståndpunkt.",
+      "quote_type": "grund"
+    }
+  ]
+}

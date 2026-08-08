@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/lantmaterimyndigheten-uddevalla-kommun": "18ea8d866aba6d601d0cd628c6a704c2d27e827c50b4d4c79ed33214e754aaf0",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi (kommunala Lantmäterimyndigheten i Uddevalla) instämmer i förslaget att koordinatbestämda fastighetsgränser bör införas.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.4.2",
+      "sentiment": -0.5,
+      "quote": "Vid praktisk mätning med GNSS Nätverks-RTK är förhållandena inte alltid optimala och variationer förekommer mellan olika mättillfällen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.6",
+      "sentiment": -1.0,
+      "quote": "Om inte en överenskommen koordinat är inmätt och kvalitetskontrollerad av Lantmäterimyndigheten så finns en betydande risk att parternas avsikt inte överensstämmer med det som anges i överenskommelsen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/kammarratten-i-goteborg": "5655fa96633824722e0634b494f4d8e4f75ba88c356dbf33b88956fac847845a",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kammarrätten instämmer i utredningens bedömning att kompletteringslagen bör utformas så att sanktionsavgift ska tas ut vid överträdelser.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.9.4",
+      "sentiment": -0.2,
+      "quote": "Kammarrätten anser att rätten till effektivt rättsmedel genom att kunna överklaga sådana beslut verkar följa av artikel 39.1 i dataförordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5.4",
+      "sentiment": -0.2,
+      "quote": "En ytterligare precisering i kompletteringslagen i syfte att vägleda rättstillämpningen är möjlig och hade ökat förutsebarheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.4",
+      "sentiment": 1.0,
+      "quote": "Mot denna bakgrund, och med hänsyn till dataförordningens komplexitet, kan även ett litet antal klagomålsärenden kräva betydande resurser hos PTS och i förlängningen hos förvaltningsdomstolarna, och då särskilt Förvaltningsrätten i Stockholm.",
+      "quote_type": "grund"
+    }
+  ]
+}

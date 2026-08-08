@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:95/myndigheten-for-delaktighet": "1adca33c648e861aecd1721d7ec615c7edacb9a414c36db5ff7ff91d1208d89c",
+      "artifact:forarbete/sou/2025-95": "613ac92cd1fc517e8bc3ec573b279ef426ca513eb1305ec1af52d26309784bd1"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "MFD konstaterar att betänkandet saknar en konsekvensanalys av hur förslagen kan påverka migranter med funktionsnedsättning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.7.1",
+      "sentiment": -0.2,
+      "quote": "Detta riskerar att leda till indirekt diskriminering av personer med funktionsnedsättning om till exempel lönebidrag och andra arbetsmarknadsinsatser som Arbetsförmedlingen erbjuder målgruppen gör det omöjligt att uppfylla försörjningskravet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": -0.5,
+      "quote": "MFD befarar därför att försörjningskravet och bristfälliga system för att utreda funktionsnedsättning leder till indirekt diskriminering av migranter med funktionsnedsättning.",
+      "quote_type": "grund"
+    }
+  ]
+}

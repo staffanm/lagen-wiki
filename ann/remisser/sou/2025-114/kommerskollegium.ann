@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/kommerskollegium": "799a50c4eec4b4bc59284f40e507db72a416fd730472327ac6c9a963950e9da7",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kommerskollegium tillstyrker förslaget att införa en möjlighet till frysning av tillgångar i kvalificerade säkerhetsärenden, under förutsättning att regleringen preciseras.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.6",
+      "sentiment": 0.2,
+      "quote": "Kommerskollegium bedömer att ett sådant klargörande är nödvändigt för att motverka felaktig tillämpning hos privata aktörer, dvs. att dessa aktörer tillämpar reglerna mer omfattande än vad som krävs, särskilt kreditinstitut och betalningsförmedlare, där interna sanktionsramverk annars riskerar att mekaniskt appliceras på beslut enligt LSU.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.8.4",
+      "sentiment": 0.5,
+      "quote": "Ett uttryckligt förtydligande om att hävning enligt LSU tar sikte på fall där den berörda fysiska personen själv omfattas av en unionsrättslig frysningsåtgärd, eller där ett beslut enligt LSU avser tillgångar som redan omfattas av en sådan unionsrättslig frysning, minskar risken för parallella och svåröverblickbara restriktioner i samma transaktionskedja.",
+      "quote_type": "grund"
+    }
+  ]
+}

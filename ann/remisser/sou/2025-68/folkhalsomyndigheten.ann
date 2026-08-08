@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/folkhalsomyndigheten": "851d940f845485a06c19edfd60c3ab043cdd1f348e5eef5710137266eb05423c",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Folkhälsomyndigheten instämmer i förslagen med undantag för avsnitt 1.9, om att en rapporteringsskyldighet om försörjningsberedskapsavtal införs i förordningen (2022:524) om statliga myndigheters beredskap, där myndigheten motsätter sig utredningens förslag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.9",
+      "sentiment": -1.0,
+      "quote": "Även om det inte finns något formellt hinder mot att reglera den tänkta uppgiftsskyldigheten i en förordning bör en sådan sekretessbrytande bestämmelse i första hand regleras i en lag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a2.5.4",
+      "sentiment": 0.2,
+      "quote": "Folkhälsomyndigheten vill understryka vikten av att säkra tillgången till produkter närliggande till sjukvårdsprodukter såsom exempelvis personlig skyddsutrustning samt produkter för testning och provanalys.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": 0.2,
+      "quote": "Folkhälsomyndigheten vill betona att det kommer vara utmanande för myndigheter att inom ramen för gällande rätt bedöma det rättsliga utrymmet för att kunna ingå F-avtal med företag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 0.2,
+      "quote": "Om utredningens förslag att reglera rapporteringsskyldigheten i förordningen (2022:524) om statliga myndigheters beredskap tas vidare bör befintliga rapporteringsstrukturer beaktas, för att inte påföra mer rapportering än nödvändigt.",
+      "quote_type": "grund"
+    }
+  ]
+}

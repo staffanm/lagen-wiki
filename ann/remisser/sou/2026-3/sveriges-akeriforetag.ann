@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:3/sveriges-akeriforetag": "6774798f63f9cc9e48897eb302859acf95a81f07b1ad1761dad2a36f60775685",
+      "artifact:forarbete/sou/2026-3": "a57602efa93a3a568c65f2616a90564109efac9844cf6fcbd52ded0f202140f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sveriges Åkeriföretag är dock i huvudsak positiva till utredningens förslag då många av de tjänster som omfattas av plattformsarbete är transport- och leveranstjänster, där t e x gig-modellen har pressat sociala villkor för anställda och priserna kraftigt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec122",
+      "sentiment": -0.5,
+      "quote": "Det vore olyckligt om det finns en betydande risk att traditionella transportförmedlingar, digitala fraktbörser och logistikplattformar felaktigt klassificeras som digitala arbetsplattformar i direktivets mening.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec177",
+      "sentiment": -0.2,
+      "quote": "Detta skulle innebära en viss förvirring i näringen och påverka etablerade affärsmodeller inom transportsektorn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "Sveriges Åkeriföretag anser att det finns risk för att ovan förhållanden minskar driv mot mer innovation och teknik, i en bransch som redan är under digitalisering, om reglerna för algoritmisk arbetsledning blir allt för trubbiga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.9",
+      "sentiment": -0.5,
+      "quote": "Mot denna bakgrund framstår konsekvensanalysen som otillräcklig, i synnerhet med branscher som transportnäringen.",
+      "quote_type": "grund"
+    }
+  ]
+}

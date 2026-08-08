@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/storumans-kommun": "e80f58af15d607303335927f468b3eee417f8f9cb1d5003f96c1e8fe60bf6175",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.6,
+    "quote": "Nämnden ställer sig negativ till att kontrollen flyttas till en nationell myndighet och menar att utredaren har för höga tankar om staten som kontrollmyndighet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a22.1",
+      "sentiment": 0.8,
+      "quote": "Det är exempelvis positivt att utbildningsmaterial och stöd tas fram till företagare, att myndigheter samverkar och delar relevant information.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a18.2.1",
+      "sentiment": 0.8,
+      "quote": "Nämnden anser även att det är positivt att en verksamhet inte ska ha flera kontrollmyndigheter och att man uppmärksammar att myndigheternas bemötande och service ska vara god och företagsanpassad.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.4.2",
+      "sentiment": -0.5,
+      "quote": "Att tro att en myndighet av aktuell omfattning (nya slv) genomgående kommer kunna bedöma situationer mer likvärdigt än handläggare i kommuner är naivt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.4",
+      "sentiment": -1.0,
+      "quote": "Föreslagen omstrukturering kommer med största sannolikhet leda till försämring vid en kriseller krigssituation då den lokala kännedomen och närheten kommer vara av stor vikt.",
+      "quote_type": "grund"
+    }
+  ]
+}

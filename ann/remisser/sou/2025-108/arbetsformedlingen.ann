@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:108/arbetsformedlingen": "47d8ef39e56dbb032435fe69b2210e1a0caebada4b180dfb5cfc7e134d1e2314",
+      "artifact:forarbete/sou/2025-108": "a775d95754ce5897c73c1b61b58817b4b1fcc07241129ab779d9551bc2bbbef7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Arbetsförmedlingen konstaterar att utredningen inte har lämnat några sådana förslag angående exempelvis aktivitetsstöd, utvecklingsersättning och etableringsersättning, vilka administreras av Försäkringskassan och har stor betydelse för den arbetsmarknadspolitiska verksamheten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.1",
+      "sentiment": -0.2,
+      "quote": "Arbetsförmedlingen konstaterar att utredningen inte har lämnat några sådana förslag angående exempelvis aktivitetsstöd, utvecklingsersättning och etableringsersättning, vilka administreras av Försäkringskassan och har stor betydelse för den arbetsmarknadspolitiska verksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.9.4",
+      "sentiment": 1.0,
+      "quote": "Ökad kunskap och riskmedvetenhet förbättrar förutsättningarna för Arbetsförmedlingen att bedriva ett effektivt kontrollarbete för att minska de felaktiga utbetalningarna och säkerställa att korrekta beslut fattas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3.2",
+      "sentiment": 1.0,
+      "quote": "Arbetsförmedlingen skulle då kunna få underrättelser och utreda om vårdnadshavare befinner sig utomland och felaktigt får utbetalningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

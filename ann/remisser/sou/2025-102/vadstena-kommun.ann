@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/vadstena-kommun": "c084b7f8a51eb1efb50243aa929c04ac22dc47027171d90bc2237ef58b891128",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Bland annat stödjer kommunen utredningens uppfattning att det finns anledning att flytta uppgifter som saknar betydelse för Polismyndighetens kärnverksamhet och som lika bra eller bättre kan utföras av andra myndigheter utan att kostnaderna ökar eller framstår som omotiverade.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.1.2",
+      "sentiment": -0.5,
+      "quote": "Detta är inte kunskaper som vi som liten kommun har idag - och heller inte något vi önskar få ansvar över.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.5,
+      "quote": "Att hitta former för samverkan och/eller att anställa ny personal, alternativt utbilda personal, innebär en praktisk hantering som tar tid.",
+      "quote_type": "grund"
+    }
+  ]
+}

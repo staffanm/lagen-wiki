@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/lantbrukarnas-riksforbund": "07ef14e36700be84e30510bfe1e0442d90c1487d4031460ae91a3b83b8a2ec58",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vår uppfattning är att viltförvaltningen måste få en tydligare och mer effektiv styrning, med ett ökat fokus på att begränsa och förebygga viltskador.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec256",
+      "sentiment": 1.0,
+      "quote": "Enligt LRFs uppfattning är bildandet av en mindre Viltförvaltningsmyndighet utan ansvar för vapenärenden avgörande för att få en funktionell och fokuserad myndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec308",
+      "sentiment": -1.0,
+      "quote": "Att effektivt leda och få en myndighet med dubbla, så disparata verksamheter som viltförvaltning och vapentillståndsgivning är enligt LRFs uppfattning svårt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": 0.5,
+      "quote": "För att säkerställa att viltförvaltningen bidrar till en långsiktigt balanserad utveckling bör det tydligt framgå att brukandet av vilt ska vara hållbart.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec46",
+      "sentiment": 1.0,
+      "quote": "Avsaknaden av samverkan med dessa myndigheter i viltskadefråga har varit en stor brist i viltförvaltningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec17",
+      "sentiment": 0.5,
+      "quote": "Det behövs därför även bättre vägledning som säkerställer en mer enhetlig och ändamålsenlig handläggning i hela landet när det är lämpligt.",
+      "quote_type": "grund"
+    }
+  ]
+}

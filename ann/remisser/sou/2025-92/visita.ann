@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:92/visita": "b95dc8a62be055fbc6f80975c2afdd932972f67fd3f155cb7be8a86df017eafc",
+      "artifact:forarbete/sou/2025-92": "c1db6346e92cb1aaf69fe092a6e40e7ceba88b5192c9caee2959771165f82273"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Det presenterade förslaget visar en bred kanon som omfattar konst, litteratur, samhällsfenomen och uppfinningar. Det är en styrka.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.2",
+      "sentiment": 0.5,
+      "quote": "representanter från besöksnäringen måste ingå i stiftelsens arbete, eftersom hotell, restauranger och upplevelseaktörer spelar en central roll i att levandegöra kulturarvet för både svenska och internationella besökare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.3",
+      "sentiment": 0.5,
+      "quote": "portalen även redan från början måste utvecklas för en internationell publik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -0.5,
+      "quote": "Att utelämna detta riskerar att göra kanonen mindre relevant för både kultur och turism.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:123/bolagsverket": "fdb2dd7a275280c74b7b308f69e37bd2c519fc068c09099fc8466fb4147cac13",
+      "artifact:forarbete/sou/2025-123": "c831d59e895bbc7c3d3bcecad3d6575c5ea79fb529bc06a8743a4e492daded7b"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Bolagsverket har utifrån sitt ansvarsområde och de frågor myndigheten har att bevaka inga synpunkter på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.0,
+      "quote": "Bolagsverket anser att begreppet självrapportering i detta sammanhang riskerar att missförstås som att Bolagsverket inte har möjlighet att vidta åtgärder i samband med prövningen av ett registreringsärende, vilket inte är fallet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": 0.0,
+      "quote": "För att undvika eventuella missförstånd önskar Bolagsverket klargöra att det inte kommer att framgå av myndighetens register om en aktör omfattas av det förvärvsförbud som föreslås.",
+      "quote_type": "grund"
+    }
+  ]
+}

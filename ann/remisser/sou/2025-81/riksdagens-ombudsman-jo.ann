@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:81/riksdagens-ombudsman-jo": "626e3ab34e01f48779b34f264c4063cde239e4670e451eb2e61248d4bfd0428c",
+      "artifact:forarbete/sou/2025-81": "18dbd0bb1ff96f8c252ba4781ad24b1dde501603dec2d1055b6aac74edf95632"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "När det gäller de författningsförslag som lämnas om åtkomst till vissa uppgiftssamlingar har jag inga synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8",
+      "sentiment": 1.0,
+      "quote": "När det gäller de författningsförslag som lämnas om åtkomst till vissa uppgiftssamlingar har jag inga synpunkter.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.4.2",
+      "sentiment": -0.2,
+      "quote": "I anledning av det förslaget vill jag upplysa om att det hos JO pågår en granskning av en s.k. distansutmätning där frågor om bl.a. underrättelseskyldigheten utreds (JO:s ärende med dnr 11591-2024).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.8.3",
+      "sentiment": 1.0,
+      "quote": "Jag delar utredningens bedömning när det gäller vikten av dokumentation när biträde lämnas till Kronofogdemyndigheten med att ta utmätt egendom i förvar.",
+      "quote_type": "grund"
+    }
+  ]
+}

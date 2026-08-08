@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:99/pensionsmyndigheten": "694de38ccc4bb51e3671a4f2d54056134a611c165b891a6637ea684e4f50df55",
+      "artifact:forarbete/sou/2025-99": "6c1cd093ee04097aeceeff8169f890fa879410d8b56abaf496322e4ed42c73f0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Pensionsmyndigheten har utifrån sina ansvarsområden inga synpunkter på förslagen i sig.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.3.2",
+      "sentiment": 0.2,
+      "quote": "I det fortsatta lagstiftningsarbetet önskar dock Pensionsmyndigheten att det tydliggörs att eventuella tillfälliga uppehållstillstånd kommer beviljas vid samma tidpunkt som de permanenta uppehållstillstånden återkallas, och att det därmed inte kommer uppstå en period där enskilda saknar laglig vistelse och inte kan ta emot socialförsäkringsförmåner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.8",
+      "sentiment": -0.2,
+      "quote": "Myndigheten konstaterar därför att förslagen kommer medföra en okänd kostnadsökning för Pensionsmyndigheten.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/riksforbundet-enskilda-vagar": "4a8eff674ce0d220f3670ef52ea79f9c58b9d46e60df8f3d61f650a3dcc8faef",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Införandet av koordinatbestämda gränser är en sedan lång tid diskuterad och efterfrågad åtgärd som är en grundsten i digitaliseringen av Sverige.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.2",
+      "sentiment": 0.5,
+      "quote": "Problemen har historiska orsaker och åtgärdas bara i den takt som Lantmäteriets krav på kostnadstäckning tillåter, med andra ord betalningsviljan för Lantmäteriets tjänster hos enskilda fastighetsägare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.6",
+      "sentiment": 0.5,
+      "quote": "Överenskommelsemodellen skulle kunna bli användbar i situationer där fysiska gränspunkter redan dokumenterats med tillförlitliga koordinatuppgifter i tidigare förrättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": -0.5,
+      "quote": "Detta krav kan komma att ytterligare fördyra planprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.2",
+      "sentiment": -0.2,
+      "quote": "Det leder sannolikt till en generellt ökad osäkerhet om betydelsen av fysiska markeringar.",
+      "quote_type": "grund"
+    }
+  ]
+}

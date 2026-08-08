@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:77/goteborgs-tingsratt": "26511f02258299d45c5d6e21c0cbff93a9ca09d0430c1303145a33062dd2b64a",
+      "artifact:forarbete/sou/2025-77": "2d5c562dd97d981752cb93f65a08d116c79a1f8908f9e6fb9bb9e7d703e82f34"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Göteborgs tingsrätt har, utifrån de aspekter som domstolen har att beakta, i stort ingen erinran mot förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.1",
+      "sentiment": -0.2,
+      "quote": "kan dock ifrågasättas om lönegarantifrågor i fall där ett insolvensförfarande pågår utomlands även fortsättningsvis bör handläggas vid arbetstagarens hemvistforum.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": -0.2,
+      "quote": "En följd av denna ändring från handläggning enligt rättegångsbalken som inte berörts i utredningen är att det inte kommer vara möjligt att höra en part under sanningsförsäkran.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:66/eksjo-kommun": "98416f7bb8224467f7d487d549107ca95ff5f6afd53364a921da776f651700fd",
+      "artifact:forarbete/sou/2025-66": "d17cda5a6b525b2e0549fcf8bcc405271e7eef9479b900db16a2c9a1e0fefab0"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Utredningen har kommit fram till att genomförande av reformen skulle leda till kraftigt ökade kostnader för staten och risken finns då att statsbidragen till kommunen minskar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec48",
+      "sentiment": -0.5,
+      "quote": "Minskade statsbidrag till kommunerna i Sverige riskerar att leda till stora besparingar i kommunerna vilket kan leda till minskad service och kvalitet till invånarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec29",
+      "sentiment": 0.5,
+      "quote": "Detta skulle kunna leda till minskat antal brott i kommunen då fler människor avtjänar fängelsestraff och risken att de återfaller i brott minskar.",
+      "quote_type": "grund"
+    }
+  ]
+}

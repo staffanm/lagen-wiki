@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/myndigheten-for-civilt-forsvar": "12a4710844d05dd199dd9ef4c2e7bfaf2fdd308c9a704c2b3ca262855200cbfd",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten för civilt försvar stödjer utredningens inriktning och betonar vikten av tydlig kompletterande reglering för att främja en rättssäker implementering av cyberresiliensförordningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.6",
+      "sentiment": 0.2,
+      "quote": "Myndigheten för civilt försvar ser positivt på utredningens förslag om sekretesskydd för uppgifter i sårbarhets- och incidentrapporter, men vill betona vikten av att en sådan sekretess inte hindrar att åtgärder kan vidtas för att skydda samhällets funktionalitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.14",
+      "sentiment": 0.5,
+      "quote": "Denna bestämmelse måste dock inkludera sårbarheter och incidenter såväl som cyberhot, i den mening som avses i EU:s legala definitioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 1.0,
+      "quote": "Utredningen framhåller att stödet till företag ska samordnas med nationella cybersäkerhetsaktörer vilket ger Myndigheten för civilt försvar en tydlig roll i stödsystemet.",
+      "quote_type": "grund"
+    }
+  ]
+}

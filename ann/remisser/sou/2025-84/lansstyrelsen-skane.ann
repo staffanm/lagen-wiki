@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:84/lansstyrelsen-skane": "63d89499e946f4ef3f1b26549881e87dd44d5ff00da1ba9b27ee2264e6574700",
+      "artifact:forarbete/sou/2025-84": "316cc38993c62773077c8f90dc994921ac81d26564be89872d71e339c7a69a0e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen vill påtala vikten av att säkerställa kompetens om bland annat funktionsnedsättning hos yrkesverksamma som ska arbeta på hem för barn och unga.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 1.0,
+      "quote": "Det är angeläget för att reformen ska få avsedd effekt, inte minst eftersom flera kommuner uppger ett ansträngt läge inom socialtjänsten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen vill påtala vikten av att såväl föreståndare som personal har relevant kunskap om barn och unga med funktionsnedsättning oavsett vilken av de tre föreslagna kategorierna som boendet tillhör.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.8",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen vill påtala att myndigheten inte känner till att någon förfrågan om sådant medgivande som anges i 26 § tredje stycket förundersökningskungörelsen (1947:948) har inkommit under de senaste åren.",
+      "quote_type": "grund"
+    }
+  ]
+}

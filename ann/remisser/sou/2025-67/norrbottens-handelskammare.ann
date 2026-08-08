@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/norrbottens-handelskammare": "a3592cc457d02bff4f9457d06a33ae24f7b72f108af278d0264503e263201690",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Norrbottens Handelskammare tillstyrker utredningens övergripande inriktning men ser behov av viktiga kompletteringar för att säkerställa ett robust, konkurrenskraftigt och geografiskt rättvist transportsystem.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec16",
+      "sentiment": 0.2,
+      "quote": "De är avgörande för flygbränsleförsörjning till norra Sverige och därmed även för Arlandas inrikes kapacitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec322",
+      "sentiment": 0.5,
+      "quote": "Utan detta riskerar ökade krav på samhällsviktiga linjer att tränga undan annan upphandlad trafik och därmed försämra näringslivets tillgänglighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/livsmedelsverket": "e9cc0d2fa554e3352ec808831e729f05efa570096dbcbad3843f62faf522f4b9",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Myndigheten har vissa synpunkter som i huvudsak är relaterade till livsmedelsdonationers roll i samhället samt konsekvenser rörande folkhälsan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": 0.5,
+      "quote": "Livsmedelsverket tillstyrker att ett kvalificerat undantag för donation av livsmedel införs men erinrar om vikten av att livsmedelsdonationer stödjer tillgången till hälsosam mat och hälsosamma matvanor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.4",
+      "sentiment": -0.5,
+      "quote": "Livsmedelsverket ser en risk att alltför stort fokus på donationer kan hämma livsmedelsföretagens drivkrafter att arbeta med olika metoder som förhindrar att överskott uppstår.",
+      "quote_type": "grund"
+    }
+  ]
+}

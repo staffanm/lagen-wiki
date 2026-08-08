@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:9/arbetsformedlingen": "d4af56d6205b1604722747a9286aa6e6924e19a2449e91e82d44502c0945a8b1",
+      "artifact:forarbete/sou/2026-9": "6e2fe757deba6487afb4900466860dd25cfab83203ab6a46a85c3d959c713359"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Arbetsförmedlingen tillstyrker förslagen om anpassning av svensk rätt till EU-rätten samt införandet av en registreringsskyldighet för EESmedborgare förenad med vite som sanktion.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 1.0,
+      "quote": "Det är särskilt angeläget att Migrationsverket tilldelas ett tydligt huvudansvar för registreringsförfarandet och tillhörande kontroller för att säkerställa en enhetlig tillämpning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2.11",
+      "sentiment": 0.2,
+      "quote": "Arbetsförmedlingen bedömer att förslagen endast får begränsad påverkan på myndighetens verksamhet eftersom en rättssäker handläggning även framöver förutsätter att uppehållsrätten för arbetssökande styrks med samma verifierbara underlag som i dag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2.14",
+      "sentiment": -0.2,
+      "quote": "Mot denna bakgrund finns risk för följdkonsekvenser i form av fördröjd handläggning även inom Arbetsförmedlingen som är beroende av Statens servicecenter för vissa identitetskontroller och andra delar av den löpande ärendehanteringen.",
+      "quote_type": "grund"
+    }
+  ]
+}

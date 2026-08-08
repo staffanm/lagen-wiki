@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/mark-och-miljodomstolen-vaxjo-tingsratt": "86366b8238d3dbfb0de6e39a588207cd88b9bd6dd69bbf2752588c92307566f0",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Mark- och miljödomstolen anser att utredningen i huvudsak är gediget utförd och tillstyrker ett införande av koordinatbestämda fastighetsgränser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a16.6.4",
+      "sentiment": -0.2,
+      "quote": "Med hänsyn till den begränsning som gäller för avvikelser vid överenskommelse om fastighetsbestämning, där fältarbete i många fall även är nödvändigt, kan det ifrågasättas hur genomförbar den föreslagna skrivningen kommer att vara i praktiken när det gäller fastighetsgränser av sämre kvalitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5.3",
+      "sentiment": -0.2,
+      "quote": "Det bör övervägas att i en eventuellt kommande proposition utveckla under vilka omständigheter det står klart att en fastighetsgräns ska koordinatbestämmas.",
+      "quote_type": "grund"
+    }
+  ]
+}

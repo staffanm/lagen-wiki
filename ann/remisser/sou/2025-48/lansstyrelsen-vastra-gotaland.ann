@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/lansstyrelsen-vastra-gotaland": "3a629a2f0e93827094bc9f2da30dc96949fb9335ff6e61cc6457949eaf50e565",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen är positiv till utredningens förslag om en ny lag, lagen om samhällsinriktade smittskyddsåtgärder, samt en nationell strategi för hantering av pandemier.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec33",
+      "sentiment": 0.5,
+      "quote": "De förslag till smittskyddsåtgärder rörande begränsning av antalet personer, minsta avstånd, begränsade öppettider och andra åtgärder som föreslås är rimliga utifrån Länsstyrelsens erfarenheter av tillsyn enligt Covid-19-lagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Förslaget är något mer flexibelt utformat jämfört med Covid-19-lagen, vilken förenklar tillsynen och möjligheten för tillsynsmyndigheten att göra rimliga bedömningar utifrån reella risker för smittspridning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec59",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget att Länsstyrelsen ska få besluta om samhällsinriktade smittskyddsåtgärder i enskilda fall och vid behov samråda med smittskyddsläkaren.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen anser att det uttryckligen behöver framgå av lagtexten att vi har befogenhet att besluta om förbud.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec69",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker att Folkhälsomyndigheten ska hållas informerad om de beslut som fattas av tillsynsmyndigheten med stöd av lagen om samhällsinriktade smittskyddsåtgärder.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.3.2",
+      "sentiment": -0.2,
+      "quote": "Samtidigt konstaterar utredningen att även länsstyrelserna tar fram regionala lägesbilder, eftersom de ansvarar för att en samlad regional lägesbild sammanställs vid krissituationer.",
+      "quote_type": "grund"
+    }
+  ]
+}

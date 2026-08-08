@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/sveriges-kommuner-och-regioner-skr": "772b6411c94cf05e9b23895c1932996145fc0defb7cc77fd44e9b70ec06af042",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det är ett av flera viktiga verktyg för att kunna förebygga eller hantera uppkomna bristsituationer, så att tillgången till läkemedel säkerställs till de som har störst behov.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6.1",
+      "sentiment": 1.0,
+      "quote": "Det är ett av flera viktiga verktyg för att kunna förebygga eller hantera uppkomna bristsituationer, så att tillgången till läkemedel säkerställs till de som har störst behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.2",
+      "sentiment": 0.2,
+      "quote": "Det finns dock inga förslag om hur en sådan process ska se ut eller hur beslut om prioritering ska fattas, och därmed på vilken grund Läkemedelsverket ska fatta sina beslut om begräsningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 1.0,
+      "quote": "SKR ser positivt på utredningens förslag att ge E-hälsomyndigheten i uppdrag att utreda möjligheten att införa systemstöd som kan underlätta tillämpning och kontroll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8",
+      "sentiment": -0.5,
+      "quote": "Detta resonemang gäller dock enbart för nyskrivna recept och utredningen förbiser därmed alla befintliga recept som är giltiga för flera uttag under ett helt år från utfärdandet.",
+      "quote_type": "grund"
+    }
+  ]
+}

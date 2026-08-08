@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:7/skolverket": "e519bfde6fc56f6fc626cd148e97338bc7efc1be29f6fa28a4e63e0dc58faf2c",
+      "artifact:forarbete/sou/2026-7": "7a846bbd7b56ef1c76f8c2a569d6204c1cff17ef01ba342d52cb501a13be5642"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skolverket är generellt positiv till samverkan med Folkhälsomyndigheten och samverkan mellan myndigheterna sker redan idag inom flera uppdrag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec317",
+      "sentiment": 0.5,
+      "quote": "För att Skolverket ska kunna ta ställning till om myndigheten ska vara kärnmyndighet alternativt sektorsansvarig, önskar Skolverket förtydliganden kring vad det innebär, samt hur finansieringen är tänkt att se ut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec355",
+      "sentiment": 0.2,
+      "quote": "I det fall regeringen väljer att gå vidare med bedömningen behöver det utredas vad det blir för konsekvenser för skolhuvudmän, exempelvis avseende ökad administrativ börda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec365",
+      "sentiment": 0.5,
+      "quote": "Det är därför viktigt, för att säkerställa en god datakvalitet, att först försäkra sig om att ett fungerande system för att samla in robust statistik finns på plats.",
+      "quote_type": "grund"
+    }
+  ]
+}

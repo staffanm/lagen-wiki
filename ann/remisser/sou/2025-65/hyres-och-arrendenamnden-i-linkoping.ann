@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/hyres-och-arrendenamnden-i-linkoping": "0e22ac51f1f0a81cd30f379d42eff872a94befb552704a7f1b83da8cc1fd42a6",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Hyresnämnden i Linköping har ingen erinran mot förslaget, men vill lämna följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec31",
+      "sentiment": -0.2,
+      "quote": "Om en hyra sänks för förfluten tid finns därmed i vissa situationer ingen bortre begränsning i tid för en eventuell återbetalningsskyldighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec204",
+      "sentiment": 0.2,
+      "quote": "förslagen, i de delar de kan komma att begränsa besittningsskyddet, bör genomgå en utvärdering över tid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.5,
+      "quote": "Processmaterialet skulle då ha bättre förutsättningar att bli så komplett som möjligt i hyresnämnden och överinstansen undvika tidsödande omprövningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

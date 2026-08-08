@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/polismyndigheten": "7f269a3a4340d1aa63b530cde0473bcd658a94d88cfa3fc5b457b099b3466d61",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Polismyndigheten är positiv till förslagen och lämnar följande medskick.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19.1.7",
+      "sentiment": 0.8,
+      "quote": "En samlad nationell kontroll har många fördelar, exempelvis att kontrollerna blir mindre personberoende och att risken för otillåten och otillbörlig påverkan därmed minskar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20-2",
+      "sentiment": 0.5,
+      "quote": "Beroende på vad som kommer fram vid kontroller i livsmedelskedjan kan dock informationsutbyte med andra myndigheter också aktualiseras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a22.2.2",
+      "sentiment": 0.8,
+      "quote": "Kontrollmyndigheterna har viktiga verktyg som, tillsammans med andra myndigheters verktyg, gör att det går att agera kraftfullare mot aktörer som begår regelöverträdelser och brott i livsmedelskedjan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a24.1",
+      "sentiment": -0.2,
+      "quote": "Enligt Polismyndigheten får en översyn av regelverket inte medföra att de materiella reglerna blir alltför generösa, med den följden att detta kan utnyttjas av kriminella aktörer.",
+      "quote_type": "grund"
+    }
+  ]
+}

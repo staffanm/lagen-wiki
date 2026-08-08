@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:109/tidningsutgivarna": "510fdc765335d4bbc64b4c0ea27b51817bd1348daba585a9ef0f152b851d4194",
+      "artifact:forarbete/sou/2025-109": "98c6ec215c748b185b72329d97ae9b9b49e64e1ef1e2e530c207deb50c4d88d5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "om detta anses nödvändigt tillstyrker TU att användningen lagregleras, i synnerhet vad gäller ”särskilt” provokativa åtgärder.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec172",
+      "sentiment": 0.2,
+      "quote": "Det kan exempelvis gälla om eventuella konflikter skulle uppstå i förhållande till tryck- och yttrandefriheten, t ex meddelarfriheten och meddelarskyddet i samband med användandet av särskilt provokativa åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 1.0,
+      "quote": "TU har inget att erinra mot den föreslagna lagen i sig.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": -0.5,
+      "quote": "Enligt TU:s mening finns ett insynsbehov i hanteringen av fiktiva uppgifter om fordon, så att det inte missbrukas.",
+      "quote_type": "grund"
+    }
+  ]
+}

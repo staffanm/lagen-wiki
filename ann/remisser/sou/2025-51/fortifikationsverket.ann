@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:51/fortifikationsverket": "bd57cba8e4f7b15014d00a41501317605dc9c746d62ab19de8321f98dbe6cb25",
+      "artifact:forarbete/sou/2025-51": "258d56514e13c4c5451bf445ef12c74926eae0c3d6b9e933fa95a5d91e5d1ad9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Fortifikationsverket instämmer i huvudsak i förslagen som lämnas i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "I annat fall riskerar ett tillträde att ske på känsliga markområden eller andra utrymmen där det är av stor vikt att placeringen inte stör pågående verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec16",
+      "sentiment": -0.5,
+      "quote": "Mot bakgrund av att Fortifikationsverkets fastighetsbestånd kan innehålla uppgifter som omfattas av sekretess bedömer Fortifikationsverket att myndigheten har begränsade möjligheter att redovisa uppgifter om dagvattensystemets kapacitet i anslutning till den aktuella fastigheten enligt föreslagen ändring i lagen om allmänna vattentjänster (2006:412).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec37",
+      "sentiment": 0.0,
+      "quote": "Dock anges det inte någon tidsaspekt för hur långt innan uppstart som samråd ska hållas.",
+      "quote_type": "grund"
+    }
+  ]
+}

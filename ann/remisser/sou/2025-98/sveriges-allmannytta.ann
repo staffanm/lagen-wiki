@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/sveriges-allmannytta": "96c5c91b8f4950afdfc25e31b677a5ddcb78629efccccb9d7b5128442b4e994b",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Sveriges Allmännytta bedömer att utredningens förslag inte kommer ha någon större verkan på handläggningstid eller kostnader för fastighetsbildningsärenden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 1.0,
+      "quote": "Sveriges Allmännytta är positiv till förslaget till förtydliganden i Lantmäteriets ansvar för förrättningsverksamheten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec27",
+      "sentiment": 0.8,
+      "quote": "förslaget om att förtydliga avgiftsuttaget som gör det lättare att förutse kostnader för ett fastighetsbildningsärende.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec22",
+      "sentiment": -0.5,
+      "quote": "För små kommuner är det förödande att det inte finns någon möjlighet att gå samman och samverka.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5.2",
+      "sentiment": -1.0,
+      "quote": "bestämmelsen kraftigt begränsar myndighetens medverkan i samhällsbyggnadsprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -1.0,
+      "quote": "Utredningens förslag begränsar de kommunala lantmäterimyndigheternas verksamhet och försvagar deras roll i samhällsbyggnadsprocessen.",
+      "quote_type": "grund"
+    }
+  ]
+}

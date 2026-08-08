@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:107/transportforetagen": "118de805320cb4ad25e27d166adbb2000c3945fa78b0f7086ce19abbb87a69f9",
+      "artifact:forarbete/sou/2025-107": "47622113b6201e4ecf4f8f07faace798ed84e0806822644f3a8e9a35e1a5fff4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Det möjliggör en effektivare styrning, med bibehållen ambitionsnivå, mot såväl etappmål till 2030 som långsiktigt mål till 2045.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.8,
+      "quote": "Det möjliggör en effektivare styrning, med bibehållen ambitionsnivå, mot såväl etappmål till 2030 som långsiktigt mål till 2045.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec101",
+      "sentiment": 1.0,
+      "quote": "Miljömålsberedningens föreslagna ändringar gällande klimatpolitiska rådets tillsättning och förordnandetid tillstyrks i sin helhet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": -1.0,
+      "quote": "Specifika sektorsvisa mål minskar flexibiliteten och riskerar att samhällets resurser felalkoeras.",
+      "quote_type": "grund"
+    }
+  ]
+}

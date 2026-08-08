@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/svenska-westernskytteforbundet": "a44631a412831e2917e017546c7204982b4ee79555fc4f9d65c332f61b4a3c8f",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenska Westernskytteförbundet ser positivt på de delar av utredningen som stärker sportskyttets och jaktens förutsättningar i Sverige.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.1",
+      "sentiment": 1.0,
+      "quote": "en sådan myndighet ger bättre förutsättningar för en samlad, tydlig och kompetent hantering av jakt- och viltfrågor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11.2",
+      "sentiment": 1.0,
+      "quote": "detta skapar en mer ändamålsenlig och rättssäker förvaltning, med bättre förståelse för jägarnas och sportskyttarnas behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9",
+      "sentiment": 1.0,
+      "quote": "Förbundet tillstyrker att ansvaret för besiktning och godkännande av skjutbanor flyttas bort från Polismyndigheten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.9.3",
+      "sentiment": 1.0,
+      "quote": "Vi tillstyrker att Viltmyndigheten ges föreskriftsrätt för skjutbanor samt ansvar för finansiering av tillsynen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.9.2",
+      "sentiment": -0.5,
+      "quote": "detta säkerställer kompetens, förankring i verksamheten och effektivitet i tillståndsprocesserna.",
+      "quote_type": "grund"
+    }
+  ]
+}

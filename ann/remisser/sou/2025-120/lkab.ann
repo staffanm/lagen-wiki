@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/lkab": "8b878a67c97e6d52bc0048a6b6b6bef5efd21b0a6162a0703a1694d9883498fe",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "LKAB välkomnar utredningens ambition att skapa en ny organisation för en mer effektiv, förutsägbar och snabb process för planering och genomförande av statlig transportinfrastruktur.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec6",
+      "sentiment": 0.5,
+      "quote": "Detta kan bidra till: • kortare ledtider • tydligare ansvar • bättre kostnadskontroll • ökad flexibilitet i finansiering",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec4",
+      "sentiment": 0.8,
+      "quote": "I dag är ansvarsfördelningen mellan Trafikverket, regeringen och andra aktörer ofta otydlig, vilket leder till: • utdragna processer • bristande prioriteringar • svag koppling mellan industriell utveckling och infrastrukturplanering",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a2",
+      "sentiment": 0.2,
+      "quote": "Det är dock viktigt att finansieringsmodellerna inte försämrar konkurrenskraften eller riskerna för näringslivet.",
+      "quote_type": "grund"
+    }
+  ]
+}

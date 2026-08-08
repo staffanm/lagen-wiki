@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:119/karlstads-kommun": "37fb3cdb0a7ea6ad12793857ea6cf53bc8b78379cb6a9d752494fb009accce74",
+      "artifact:forarbete/sou/2025-119": "4ffe1b3a3b8b7263d217456e1fadfaf32122d48eff13747b01cb521abb874202"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Kommunen anser att förslagen kan bidra till ett stärkt arbete mot människohandel.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec271",
+      "sentiment": 1.0,
+      "quote": "Karlstad kommun ser särskilt positivt på att Socialstyrelsen bör ges i uppdrag att kartlägga tillgången till boendeinsatser för människohandelsoffer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 1.0,
+      "quote": "Det behövs eftersom kunskapen om prostitution och människohandel skiljer sig mycket mellan socialtjänsten i olika kommuner.",
+      "quote_type": "grund"
+    }
+  ]
+}

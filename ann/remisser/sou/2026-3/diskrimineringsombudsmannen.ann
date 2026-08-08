@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:3/diskrimineringsombudsmannen": "9adaaa618ee23b0db59b5d032e4c0e8957475ea0e18176a3f5c106cdb82c396a",
+      "artifact:forarbete/sou/2026-3": "a57602efa93a3a568c65f2616a90564109efac9844cf6fcbd52ded0f202140f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "DO menar dock att utredningen inte i tillräckligt hög utsträckning beaktat eller analyserat DO:s möjligheter att utifrån sitt uppdrag utöva tillsyn gentemot digitala arbetsplattformar, detta trots att det konstateras att det finns risker för diskriminering kopplat till delar av dessa verksamheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.7",
+      "sentiment": -0.5,
+      "quote": "Avsaknaden av en analys av hur den föreslagna implementeringen av plattformsdirektivet förhåller sig till AI-förordningens bestämmelser gör det oklart vilket mandat DO har som artikel 77-myndighet enligt AI-förordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.2,
+      "quote": "DO konstaterar att utredningen inte föreslagit att någon presumtionsregel ska gälla för DO:s tillsyn över diskrimineringslagen, till skillnad från den bestämmelse som föreslås gälla i Arbetsmiljöverkets tillsyn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "DO saknar en djupare analys av risken för diskriminering vid användandet av algoritmisk arbetsledning och hur implementeringen i svensk rätt på bästa sätt kan motverka en sådan risk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 0.2,
+      "quote": "DO bedömer att det kan vara otydligt för en läsare som inte har större kunskaper om EU-rätt vad det innebär att förutse utövandet av grundläggande rättigheter som fastställs i stadgan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": 0.2,
+      "quote": "Lagen om digitala arbetsplattformar träffar alltså en något annan grupp men ställer lägre krav på plattformsföretagen i fråga om vilka risker för just diskriminering som identifieras och åtgärdas.",
+      "quote_type": "grund"
+    }
+  ]
+}

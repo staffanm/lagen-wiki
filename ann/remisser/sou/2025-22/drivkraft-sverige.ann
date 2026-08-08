@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/drivkraft-sverige": "c0a87f68774184a690b9565abc73a3033a376626781ab30e063893c65ae5d473",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Drivkraft Sverige tillstyrker det nya förslaget om offentlig säljverksamhet. • Drivkraft Sverige ställer sig bakom Svenskt Näringslivs remissvar om ett nytt konkurrensverktyg för Konkurrensverket och avstyrker därmed förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": -1.0,
+      "quote": "Detta riskerar att minska förutsägbarheten och rättssäkerheten för olika verksamhetsutövare vilket kan påverka investeringsviljan i svensk näringsverksamhet negativt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": 1.0,
+      "quote": "Enligt Konkurrensverket finns det starka indikationer på att ett betydande antal kommuner gynnar sin egen säljverksamhet i fråga om markupplåtelse.",
+      "quote_type": "grund"
+    }
+  ]
+}

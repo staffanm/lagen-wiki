@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/sundsvalls-kommun": "69d544a148752230cfedde04b7b2da5e5afca141f3d6b21a6b3abb95718b2df2",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Brist på statligt stöd motverkar arbetet med en jämlik hälso- och sjukvård och underminerar den samverkan vi försöker uppnå genom t.ex. ”en god och nära vård”.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.1",
+      "sentiment": 0.2,
+      "quote": "det kvarstår osäkerhet kring hur de förslagna förändringarna i regionernas ansvar kommer att påverka kommunerna på längre sikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec119",
+      "sentiment": 1.0,
+      "quote": "Som kommittén föreslår så bör statsbidrag inte vara riktade i för stor utsträckning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 0.5,
+      "quote": "Det som är avgörande för att Sundsvall och Västernorrland, såväl som andra kommuner och regioner, ska kunna fullgöra sina uppdrag är att resurser från statligt håll avsätts till såväl kompetensförsörjning som kompetensutveckling.",
+      "quote_type": "grund"
+    }
+  ]
+}

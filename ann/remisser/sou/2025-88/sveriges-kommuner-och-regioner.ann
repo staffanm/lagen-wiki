@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/sveriges-kommuner-och-regioner": "dc4e9ff69df9b58d26158090490220f8173eddec1f006caca9103096e06b15dc",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sveriges Kommuner och Regioner (SKR) ställer sig delvis positivt till förslaget i remissen, under förutsättning att förslagen inte innebär inskränkningar i det kommunala självstyret, planmonopolet och kommuners möjligheter att lämna veto i avgörande mark- och vattenfrågor.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": -0.5,
+      "quote": "Utredningen har inte inom ramen för detta tilläggsuppdrag haft tid eller möjlighet att utreda frågorna på det uttömmande sätt som skulle behövas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.6",
+      "sentiment": 0.5,
+      "quote": "SKR anser även att det är positivt att regeringens prövning avseende tillåtlighet till miljöfarlig verksamhet begränsas till att vara en prövning av lokaliseringen i förhållande till 3-4 kap. miljöbalken och en avvägning mellan olika riksintressen medan den mer detaljerade materiella prövningen enligt miljöbalken och EU-rätten, som kräver en mer omfattande bedömning, görs av en opolitisk prövningsmyndighet därefter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.5",
+      "sentiment": 1.0,
+      "quote": "SKR tillstyrker att det ska krävas en specifik miljöbedömning vid ansökning om ett områdesanvändningsbesked.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": -0.5,
+      "quote": "Förslaget om att flytta hushållningsbestämmelserna kan få stora konsekvenser, inte bara för industrietableringar, utan för hela den fysiska planeringen i landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9-2",
+      "sentiment": -0.5,
+      "quote": "Det saknas delvis en beskrivning av vad det innebär att lyfta ut 3-4 kap. och 17 miljöbalken till en egen lag samt en motivering till varför det skulle underlätta kommande tillståndsprövningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

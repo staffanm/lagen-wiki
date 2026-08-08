@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/statens-institutionsstyrelse": "fc9e74ca1505ebc7e327854159aeeb0b2901ba26435e2158d42db4dac76ffe45",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Statens institutionsstyrelse (SiS) har, utifrån de aspekter myndigheten har att beakta, inga synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.8.2",
+      "sentiment": -0.2,
+      "quote": "frågan om hur förvarstagna barns rätt till skolgång ska tillgodoses under förvarstiden inte har behandlats i betänkandet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.15.2",
+      "sentiment": -0.2,
+      "quote": "frågan om hur förvarstagna barns rätt till skolgång ska tillgodoses under förvarstiden inte har behandlats i betänkandet",
+      "quote_type": "grund"
+    }
+  ]
+}

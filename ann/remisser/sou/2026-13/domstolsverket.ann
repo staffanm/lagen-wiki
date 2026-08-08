@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:13/domstolsverket": "aa884fcebde5206d586a8e3581c89733e5b531a3c129304ca1986587e92c4399",
+      "artifact:forarbete/sou/2026-13": "aa7c4aa821e82ffd40ba6d95445a5ac6a4b6de75f8e6b57acfe2ae5301506548"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Domstolsverket har bedömt att promemorian i övrigt inte innehåller något förslag som i någon större mån påverkar Sveriges Domstolar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a16.2",
+      "sentiment": 0.2,
+      "quote": "Domstolsverket instämmer i utredningens bedömning att det är mycket svårt att göra några säkra prognoser över vilka ekonomiska konsekvenser förslagen i betänkandet innebär men att förslagen kommer att innebära kostnader för Sveriges Domstolar som inte ryms inom befintliga anslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec290",
+      "sentiment": -0.2,
+      "quote": "En ordning där brottsbekämpande myndigheter genom någon form av automatiserad teknisk lösning får tillgång till domar i elektroniskt format skulle behöva utredas noggrant och grundligt med hänsyn till rättsliga och tekniska förutsättningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

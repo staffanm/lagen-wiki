@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:109/brottsofferjouren-sverige": "2b82a4bb1640801c160f01e6e17af67da6a1e84f43f401f9780909440615db3a",
+      "artifact:forarbete/sou/2025-109": "98c6ec215c748b185b72329d97ae9b9b49e64e1ef1e2e530c207deb50c4d88d5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammanfattningsvis anser BOJ att förslaget innebär en rimlig avvägning mellan behovet av effektiva verktyg för brottsbekämpning och kravet på rättssäkerhet, under förutsättning att kraven på synnerliga skäl, proportionalitet och restriktiv användning upprätthålls.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.13.3",
+      "sentiment": 1.0,
+      "quote": "Den här typen av ingripande metoder innebär betydande integritetsrisker och måste därför användas restriktivt och endast när mindre ingripande alternativ inte är tillräckliga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.13.4",
+      "sentiment": 1.0,
+      "quote": "Många av de brott som våra stödsökande har utsatts för – inte minst sexualbrott mot barn, grov narkotikabrottslighet och annan organiserad kriminalitet – begås i slutna miljöer eller digitala sammanhang där traditionella utredningsmetoder ofta är otillräckliga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec180",
+      "sentiment": 1.0,
+      "quote": "Från ett brottsofferperspektiv är behovet av tidiga ingripanden och ett starkt skydd för barn överordnat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec184",
+      "sentiment": -0.2,
+      "quote": "Det bör därför finnas tydliga riktlinjer, utbildning och uppföljning för att säkerställa att metoderna används ansvarsfullt och med respekt för de berördas integritet och säkerhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

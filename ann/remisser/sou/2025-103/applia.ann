@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:103/applia": "766a07274daababd81f5976e1fd281df0f41cd28219181aab6803ce9b020db28",
+      "artifact:forarbete/sou/2025-103": "3494f54a32c4c4ce08c80df5c6f1304db463ec2825930548fa2363c4c69ec03f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Vår bedömning",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec75",
+      "sentiment": 1.0,
+      "quote": "En svensk särdefinition riskerar överimplementering och olika ansvarsfördelning mellan medlemsstaterna och därmed ökade kostnader och sämre konkurrensvillkor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec24",
+      "sentiment": -0.5,
+      "quote": "Direktivet anger att flera omständigheter ska beaktas vid bedömningen av om en produkt har en säkerhetsbrist, men som saknas i det svenska förslaget.",
+      "quote_type": "grund"
+    }
+  ]
+}

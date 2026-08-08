@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/lansstyrelsen-jamtlands-lan": "286e423620e9a222e25018a85c73247cf30ecc76bb86b776bfc65241335347c6",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen delar uppfattningen om att utländska arbetstagare är en särskild utsatt riskgrupp i arbetslivet och tillstyrker därmed föreslagna åtgärder.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": 0.5,
+      "quote": "Förslaget att införa en sanktionsavgift är ett viktigt steg mot att stärka rättssäkerheten för utländska arbetstagare och skickar en signal om att exploatering inte accepteras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9",
+      "sentiment": -0.5,
+      "quote": "om skrivningen gällande sexuella ändamål plockas bort ur lagtexten riskerar arbetet gällande människohandel i sexuella ändamål att urholkas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.5",
+      "sentiment": -0.2,
+      "quote": "Om uppdrag utökas behöver det åtföljas av resursförstärkning då det inte ryms inom nuvarande uppdrag och budgetramar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": 0.5,
+      "quote": "för ett långsiktigt samarbete ska bli verkningsfull behöver kommuner inkluderas både i strategiskt arbete och på operativ nivå.",
+      "quote_type": "grund"
+    }
+  ]
+}

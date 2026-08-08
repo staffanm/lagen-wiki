@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:84/statens-institutionsstyrelse": "db29e272469dd36cfaf2c23e716c01fd18947f572eb20505a8cd9549e594acdb",
+      "artifact:forarbete/sou/2025-84": "316cc38993c62773077c8f90dc994921ac81d26564be89872d71e339c7a69a0e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "För att möjliggöra en sådan samordning anser SiS att genomförandet av förslagen i betänkandet bör avvakta en sådan samlad analys för att sedan kunna samordnas med övriga förslag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.1.2",
+      "sentiment": 0.2,
+      "quote": "SiS anser att det av kategoriseringen bör framgå att de särskilda ungdomshemmen har en statlig huvudman för att särskilja dessa hem från andra slags hem för barn och unga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.6.3",
+      "sentiment": 0.5,
+      "quote": "SiS ser positivt på förslaget men anser att det bör framgå att huvudmannens beslut om allmänna besökstider ska anpassas efter de placerades ålder och mognad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7.3",
+      "sentiment": -0.5,
+      "quote": "Det är inte lämpligt att utforma ett beslut om provtagning som en uppmaning.",
+      "quote_type": "grund"
+    }
+  ]
+}

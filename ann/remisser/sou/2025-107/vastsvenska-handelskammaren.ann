@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:107/vastsvenska-handelskammaren": "a3904de231e7bbe9ecf6b30b1e02ea2a7b8291834dea1e0061260ac4702b7b88",
+      "artifact:forarbete/sou/2025-107": "47622113b6201e4ecf4f8f07faace798ed84e0806822644f3a8e9a35e1a5fff4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Västsvenska Handelskammaren tillstyrker i huvudsak de föreslagna författningsändringarna i klimatlagen och instruktionen för Klimatpolitiska rådet, under förutsättning att dessa bidrar till ökad transparens, långsiktighet och fokus på genomförande.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.8,
+      "quote": "De föreslagna ändringarna i 4 och 5 §§ bidrar till en mer strukturerad och transparent uppföljning av klimatpolitiken, särskilt genom tydligare kopplingar mellan utsläppsutveckling, etappmål, målbana och kompletterande åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 0.5,
+      "quote": "En tydlig och transparent nomineringsprocess kan bidra till att säkerställa hög vetenskaplig kompetens, bred ämnesmässig representation och kontinuitet i rådets arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.2,
+      "quote": "En tydligare koppling mellan svenska och europeiska mål stärker legitimiteten och skapar förutsägbarhet för företag på en internationell marknad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2.2",
+      "sentiment": -0.2,
+      "quote": "Annars finns en risk att kompletterande åtgärder används som ersättning för nödvändiga inhemska utsläppsminskningar snarare än som ett komplement.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "Här är gapet mellan mål och faktisk utveckling tydligt, och behovet av politiskt ledarskap särskilt stort.",
+      "quote_type": "grund"
+    }
+  ]
+}

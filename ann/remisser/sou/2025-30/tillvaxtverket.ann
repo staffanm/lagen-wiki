@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/tillvaxtverket": "9b21822c08efb1325689bdd88267c42e2c810abd984f4d7151849d243cfc817e",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Tillväxtverket delar utredningens bedömning att förslagen i betänkandet bör leda till minskade administrativa kostnader för de berörda företagen och samtidigt medföra förbättrade konkurrensvillkor och resurseffektivitet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": 1.0,
+      "quote": "Förslaget innebär en tydlig förenkling som väntas bidra till ökad lönsamhet inom handeln med begagnade varor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": 1.0,
+      "quote": "Den föreslagna möjligheten till kvalificerat undantag vid donationer av livsmedel till godkända mottagare, kombinerat med fortsatt avdragsrätt för ingående skatt, bör leda till minskad osäkerhet kring mervärdesskattekonsekvenser.",
+      "quote_type": "grund"
+    }
+  ]
+}

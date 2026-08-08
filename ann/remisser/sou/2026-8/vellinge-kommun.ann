@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/vellinge-kommun": "655cfc05604fa35be726d96784cf2f6aa86d18b6ccf2cf62d6bfac4a8271fddb",
+      "artifact:forarbete/sou/2026-8": "e65a317898fbd79f6ed54e253d65b00ec08803cea95ba0a4e41cb2ffb6c9ae56"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vellinge kommun ställer sig överlag positiva till slutbetänkandet och dess innehåll, särskilt det uttalade fokus på barnrätt som synliggörs i slutbetänkandets förslag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec9",
+      "sentiment": 0.5,
+      "quote": "Det behöver därför tydliggöras hur dessa sakkunniga ska prioritera denna sortens sakkunnigutlåtande, för att inte processen ska riskera dra ut på tiden, med konsekvenser för det enskilda barnet och/eller familjen som följd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec331",
+      "sentiment": 0.5,
+      "quote": "För att syftet med lagförslaget ska kunna uppnås krävs att tidsramar för domstolsprövningen går i linje med ordinarie handläggning i individärendet för att säkerställa barnets bästa i behandlingsprocessen, samt för att undvika extra administration som tar tid från det sociala arbetet och därmed riskerar rättssäkerheten hos enskilda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec13",
+      "sentiment": -0.2,
+      "quote": "Detta utifrån att LVU-lagstiftning betraktas som en skyddslagstiftning och att en sådan befogenhet hos åklagare riskerar att lagstiftningen anses utgöra mer av en strafflagstiftning.",
+      "quote_type": "grund"
+    }
+  ]
+}

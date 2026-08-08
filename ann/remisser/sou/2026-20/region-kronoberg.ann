@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:20/region-kronoberg": "ae2bb45f96adbace98d0218df0f33a23f1b92db3eacc669d47753d390bdf977e",
+      "artifact:forarbete/sou/2026-20": "4bbbaf1255ebc0c511f2d6d339133f0df3731fa34b68ae49c40ee83603563261"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Samtidigt bedömer regionen att flera av de föreslagna åtgärderna, särskilt systemet med skattebroms och skattesänkningsbidrag, riskerar att få oönskade effekter för regionsektorn samt inskränker det kommunala självstyret.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1.1",
+      "sentiment": -0.5,
+      "quote": "Förslagen tar i otillräcklig grad hänsyn till regionernas strukturella kostnadsutveckling, främst inom hälso- och sjukvården, samt behovet av stabil finansiering över konjunkturcykeln.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec264",
+      "sentiment": 0.5,
+      "quote": "Förslaget ökar transparensen och tydliggör konsekvenserna av lokala skattebeslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.1",
+      "sentiment": 0.2,
+      "quote": "ökade krav på uppföljning och redovisning bör utformas så att de inte medför en oproportionerlig administrativ belastning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.2",
+      "sentiment": 0.5,
+      "quote": "Regionen är positiv till att det bör finnas krav på långsiktig planering av skattesatsen, krav på motivering vid skattehöjningar samt förstärkt fokus på effektivitet i verksamheten.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

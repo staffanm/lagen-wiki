@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/studentbostadsforetagen": "dfd3e395ef37298a7b0a278388ec46abbaba6e970c9e9d9786d3b43a3370b104",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Därför är det också viktigt för Studentbostadsföretagen att de regelverk och modeller som nu föreslås bidrar till långsiktigt hållbara och attraktiva villkor för såväl bostadsbolag, lärosäten och studenter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.7.1",
+      "sentiment": 0.2,
+      "quote": "Vi riskerar annars att stänga ute redan verksamma seriösa aktörer och kraftigt försvåra studenters och forskares bostadssituation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec225",
+      "sentiment": 0.5,
+      "quote": "Annars blir införandet av anpassad hyra i en majoritet av fall verkningslös.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": -0.5,
+      "quote": "Det kommer verka avskräckande om avtalade villkor riskerar att inte gälla under hela hyresförhållandet.",
+      "quote_type": "grund"
+    }
+  ]
+}

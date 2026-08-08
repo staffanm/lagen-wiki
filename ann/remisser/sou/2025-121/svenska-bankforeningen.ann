@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:121/svenska-bankforeningen": "20323fca89b7c19c7ced2e24889bf56f575578d43e264ee109e47a4e26e06d8d",
+      "artifact:forarbete/sou/2025-121": "ea5ef53bafffc374cd9c6ed48c2efc9bb84857af58aacd3e714712108c789c6b"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "banksekretessen är en grundpelare i bankens verksamhet för att upprätthålla förtroendet mellan banken och kunderna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec280",
+      "sentiment": -1.0,
+      "quote": "Bankföreningen anser att om det nuvarande systemet upplevs som långsamt eller administrativt tungrott framstår det som mer träffsäkert, proportionerligt och rättssäker att överväga en effektivisering av editionsinstitutet än att urholka banksekretessen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:121/lantmateriet": "dfff9510c82ab9a1cf2a5db4b1abaaf81032dded9bb3c9c0f84f6b61255eae1c",
+      "artifact:forarbete/sou/2025-121": "ea5ef53bafffc374cd9c6ed48c2efc9bb84857af58aacd3e714712108c789c6b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Lantmäteriet tillstyrker förslagen men vill i sammanhanget framföra ett antal synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 0.0,
+      "quote": "Lantmäteriet vill påpeka att det finns möjlighet att vända sig till myndigheten för att begära ut uppgifter gällande ägande för en viss person.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.7.1",
+      "sentiment": -0.2,
+      "quote": "Lantmäteriet efterfrågar ett förtydligande om avsikten är att makar i likhet med sambor, ska ha frihet att genomföra bodelning även efter den lagstadgade tidsfristens utgång, förutsatt att makarna är överens om det.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.7.4",
+      "sentiment": 1.0,
+      "quote": "Myndigheten vill betona att förslagets utformning skapar förutsättningar för en förutsebar, effektiv och ändamålsenlig hantering av inskrivningsärenden.",
+      "quote_type": "grund"
+    }
+  ]
+}

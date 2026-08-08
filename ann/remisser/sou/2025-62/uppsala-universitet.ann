@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/uppsala-universitet": "972f49397ddf2f59d39cf681af28d4c76f12d3b9ec62d51ede72e39c30bdb229",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Uppsala universitet tillstyrker på ett övergripande plan utredningens slutsats att inte förstatliga huvudmannaskapet för hälso- och sjukvården, varken helt eller delvis.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 0.5,
+      "quote": "Uppsala universitet hade gärna sett att utredningen redan i detta skede presenterat mer konkreta förslag på hur detta ska genomföras, men välkomnar att frågan utreds ytterligare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec119",
+      "sentiment": 0.8,
+      "quote": "Dessa medel har ofta varit kortsiktiga och ibland svåra att utnyttja.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec123",
+      "sentiment": -0.5,
+      "quote": "Uppsala universitet befarar dock att utredningens förslag om ökad normering kan leda till en olycklig utveckling, inte minst eftersom Sverige har ett flernivåsystem där det redan idag finns svårigheter att efterleva lagar och principer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec317",
+      "sentiment": 0.2,
+      "quote": "Uppsala universitet delar utredningens hållning att uppföljning och utvärdering utgör viktiga komponenter i den statliga styrningen, men anser att formerna för detta YTTRANDE måste tas fram med stor noggrannhet för att undvika detaljreglering och ökad administrativ börda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec125",
+      "sentiment": 0.2,
+      "quote": "Uppsala universitet anser också att det statliga tillsynsansvaret över hälso- och sjukvården, som idag utförs av Inspektionen för vård och omsorg (IVO), måste renodlas och vässas genom att tydligare koppla till de problem och utmaningar för svensk hälso- och sjukvård som utredningen identifierar.",
+      "quote_type": "grund"
+    }
+  ]
+}

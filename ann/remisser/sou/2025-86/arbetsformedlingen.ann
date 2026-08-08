@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:86/arbetsformedlingen": "c92c3e0a6d02acb28b8ea2c445bf056ba86ea225c7a074c158da81b2277e76f5",
+      "artifact:forarbete/sou/2025-86": "b0dcdd24a25a2d12cb2cbd40a2be00ca8cbb7c0ad6b35674c7550080e553e1d9"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Arbetsförmedlingen tillstyrker utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a16.6.2",
+      "sentiment": 0.8,
+      "quote": "Arbetsförmedlingen bedömer att utredningens förslag om att utöka civilplikten sannolikt skulle minska behovet av att anvisa personer med allmän tjänsteplikt då vissa resursbehov skulle täckas av civilpliktad personal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.9.2",
+      "sentiment": 0.8,
+      "quote": "Ökad civilplikt med höjd ersättning, som utredningen föreslår, anser Arbetsförmedlingen är positivt då det sannolikt minskar risken för negativa ekonomiska konsekvenser för enskilda individer att utföra sin plikt.",
+      "quote_type": "grund"
+    }
+  ]
+}

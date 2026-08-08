@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/ostersunds-kommun": "db89cd4df4be83302446d02d720ca5f0614586a16fbd80617054f5226b6052dc",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Östersunds kommun anser att utredningens förslag får stora negativa konsekvenser på samhällsbyggandet, eftersom de försämrar möjligheterna för KLM att bedriva sin verksamhet effektivt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -1.0,
+      "quote": "Det är viktigt att upprätthålla den kompetens och erfarenhet som finns inom KLM Östersund i alla ärendetyper varför det skulle skada kommunen om dessa ärenden ska handläggas av SLM i stället för KLM.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": -1.0,
+      "quote": "Varje enskild myndighet bör själv avgöra vilka uppdrag som myndigheten kan utföra och inte utifrån en lagstadgad lista vilket kan göra arbetet begränsat och förhindra utveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": 0.2,
+      "quote": "Det är positivt att sakägare bättre ska kunna förutse kostnaderna för lantmäteriförrättningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": 0.5,
+      "quote": "Detta är positivt för att förrättningsverksamheten över landet ska har samma förutsättningar att handlägga förrättningar utifrån vägledning och handläggningssystem.",
+      "quote_type": "grund"
+    }
+  ]
+}

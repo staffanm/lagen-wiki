@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/post--och-telestyrelsen": "fe15aa70f3242338eee2a7c5a568fc935c3b745eeba62436bf08d27799593c16",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utifrån myndighetens ansvarsområden välkomnar PTS utredningens förslag och lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a15.10.1",
+      "sentiment": 0.2,
+      "quote": "Givet de kända och höga kostnaderna för cybersäkerhetsexpertis och teknisk laboratorieprovning anser PTS att det föreslagna maxi-alternativet är den enda realistiska utgångspunkten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9",
+      "sentiment": -0.2,
+      "quote": "Det finns behov av att närmare klargöra vad uppdraget innebär i praktiken, särskilt innebörden av att ”säkerställa tillgång” till organ för bedömning av överensstämmelse samt vilka verktyg och befogenheter PTS förväntas ha.",
+      "quote_type": "grund"
+    }
+  ]
+}

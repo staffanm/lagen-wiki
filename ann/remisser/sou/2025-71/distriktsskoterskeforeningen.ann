@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:71/distriktsskoterskeforeningen": "fde7e8ebc1eb9cd0d4494a6e8ffac593b6a5a5866e8cc6b35879e83a5077cad8",
+      "artifact:forarbete/sou/2025-71": "957a0b0208845de41ee3eb7c78a854f8c82bf13e7ec07e3ebdf350fdecdb0325"
+    }
+  },
+  "overall": {
+    "sentiment": 0.3,
+    "quote": "Distriktssköterskeföreningen ser dock stora fördelar för de patienter som rör sig mellan olika huvudmän och vårdinstanser eftersom alla får tillgång till aktuella läkemedelsbehandlingar samt medicintekniska produkter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.8,
+      "quote": "Vi ser att detta kan stärka patientsäkerheten och förbättra kontinuiteten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": 0.8,
+      "quote": "Vi ser även en fördel med att vaccinationerna ska finnas med och att uppgifterna blir tillgängliga nationellt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.16",
+      "sentiment": 0.5,
+      "quote": "viktigt att anpassa den till GDPR Vi anser dock att det måste säkerställas att informationen är aktuell och komplett.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.6",
+      "sentiment": -0.5,
+      "quote": "Vi saknar en tydlig plan för införandet och anser att det är av största vikt för att implementering av ett nytt nationellt system ska fungera i praktiska arbetet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.2.2",
+      "sentiment": -0.5,
+      "quote": "Vi ser även en risk för dubbelarbete om inte systemet för den nationella läkemedelslistan pratar med andra dokumentationssystem.",
+      "quote_type": "grund"
+    }
+  ]
+}

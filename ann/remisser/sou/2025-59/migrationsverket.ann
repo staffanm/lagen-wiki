@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:59/migrationsverket": "60d5fd73a9e4ac5ed7782cdfdf2f4fc923007568cc3f62dfbb6dd8c7683c64e4",
+      "artifact:forarbete/sou/2025-59": "1aea05637fee193cae7b8a08b1b7bb725d914149befd857abda48416d4384cc8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "De av utredningen förordade förslagen är att föredra, eftersom de till sin utformning är enklare och tydligare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.9.3",
+      "sentiment": 1.0,
+      "quote": "Migrationsverket välkomnar att rekvisitet synnerliga skäl fortsatt ska ha samma innebörd och att stöd för denna bedömning alltjämt kan fås från tidigare förarbetsuttalanden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec330",
+      "sentiment": 1.0,
+      "quote": "Myndigheten instämmer med utredningen i att reglerna om erkännande av utländska fullmaktsäktenskap inte bör skärpas genom att anknytningskravet tas bort.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.3.5",
+      "sentiment": -0.2,
+      "quote": "Det är Migrationsverkets uppfattning att ändringarna inte kommer att få någon större påverkan på myndighetens handläggning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.2",
+      "sentiment": -1.0,
+      "quote": "Enligt Migrationsverket innebär utredningens alternativa förslag en risk att regleringen blir svårare att tillämpa och att ärenden om uppehållstillstånd på grund av anknytning blir mer utredningskrävande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.2.2",
+      "sentiment": 1.0,
+      "quote": "Migrationsverket instämmer även med utredningen i att den föreslagna övergångsregeln, att äldre bestämmelser gäller för äktenskap som har registrerats av Skatteverket i folkbokföringsdatabasen före ikraftträdandet, är väl avvägd.",
+      "quote_type": "grund"
+    }
+  ]
+}

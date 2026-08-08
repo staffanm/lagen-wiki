@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:7/statskontoret": "885557c88b77ba0e65220b67ca379e6e1b3835964ee1e9ad71446490ef73b995",
+      "artifact:forarbete/sou/2026-7": "7a846bbd7b56ef1c76f8c2a569d6204c1cff17ef01ba342d52cb501a13be5642"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Statskontoret påpekar att avsaknaden av tydliga finansieringsförslag försvårar möjligheten att bedöma om förslagen är proportionerliga och genomförbara",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.2.3",
+      "sentiment": -1.0,
+      "quote": "Utredningen beskriver inte tillräckligt tydligt vilka problem förslaget ska lösa, vilket gör det svårt att bedöma om förslaget är proportionerligt och ändamålsenligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3",
+      "sentiment": -0.5,
+      "quote": "Statskontoret skulle behöva bygga upp kompetens inom både hälsooch sjukvård och hälsoekonomisk metodik för att kunna leda arbetet effektivt och med legitimitet, vilket skulle vara relativt kostsamt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5",
+      "sentiment": 1.0,
+      "quote": "En förstärkt datainfrastruktur är en förutsättning för att de hälsoekonomiska analyser och utvärderingar som utredningen föreslår ska kunna genomföras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.5,
+      "quote": "Det ser vi som en brist i utredningen, eftersom det gör det svårt att bedöma förslagens genomförbarhet och jämföra med andra alternativ.",
+      "quote_type": "grund"
+    }
+  ]
+}

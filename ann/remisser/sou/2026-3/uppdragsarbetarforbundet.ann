@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:3/uppdragsarbetarforbundet": "ff5b429ac5654f0c144a8ceac6155d37cbd3a4ab2087287527d9d56d93dac4d8",
+      "artifact:forarbete/sou/2026-3": "a57602efa93a3a568c65f2616a90564109efac9844cf6fcbd52ded0f202140f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det ges nu ökade möjligheter för plattformsarbetare att kategoriseras som arbetstagare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec40",
+      "sentiment": -0.5,
+      "quote": "det ges alltför lite utrymme för arbetsmarknadens parter att enligt den svenska modellen kunna anpassa efter aktuell verksamhets behov inom ramen för ett kollektivavtal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec43",
+      "sentiment": -0.5,
+      "quote": "Vi ser att det finns en stor risk att många inte vågar eller saknar resurser för att ta detta steg eftersom det finns en risk att personen då förlorar möjlighet till arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec45",
+      "sentiment": -0.5,
+      "quote": "Det behövs i lagen en konkret ordning för hur detta ska gå till så att ansvaret för hur fastställelsetalan ska ske inte hamnar på individen.",
+      "quote_type": "grund"
+    }
+  ]
+}

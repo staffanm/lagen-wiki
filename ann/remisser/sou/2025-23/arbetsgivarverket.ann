@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:23/arbetsgivarverket": "4d8d0ad97918a7c1e7f5a55a09b45782a3ffb37c7466add4ef0ac35b00c94db7",
+      "artifact:forarbete/sou/2025-23": "b2d48664048a020b85b19246d070df9c345abde883c4cd3cafb969951f44570e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Arbetsgivarverket menar att det är problematiskt när regleringen tar sikte på en alltför begränsad grupp.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "Arbetsgivarverket menar att det är problematiskt när regleringen tar sikte på en alltför begränsad grupp.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec239",
+      "sentiment": -0.5,
+      "quote": "Det är en förhandlingsfråga som, i vanlig ordning, hör hemma hos just parterna och inte hos lagstiftaren.",
+      "quote_type": "grund"
+    }
+  ]
+}

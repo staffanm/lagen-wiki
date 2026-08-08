@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/sala-kommun": "92e66c59e6c3f645eceb51b1c7387e6e37c63c9176615d61004b51866aaf8c41",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sala kommun tillstyrker betänkandets förslag i dess helhet och bedömer att de föreslagna nationella anpassningarna i huvudsak är ändamålsenliga.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec458",
+      "sentiment": -0.2,
+      "quote": "För kommunerna finns en påtaglig risk för otydlighet kring när en händelse ska bedömas och rapporteras som en personuppgiftsincident enligt dataskyddsregleringen, en cybersäkerhetsincident enligt NIS2-direktivet eller som en allvarlig incident enligt AI-förordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec539",
+      "sentiment": 0.5,
+      "quote": "Sala kommun anser därför att användningen av anmärkning som ingripandeform är ändamålsenlig och proportionerlig i förhållande till kommuner och regioner, särskilt i situationer där brister redan hanteras eller kan hanteras inom ramen för annan tillämplig lagstiftning.",
+      "quote_type": "grund"
+    }
+  ]
+}

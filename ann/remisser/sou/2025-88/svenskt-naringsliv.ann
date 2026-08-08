@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/svenskt-naringsliv": "3cd861a4ba4b99804d405db71f8ade58db1af0598219e2d7dd6ec184ea2fc6cc",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenskt Näringsliv tillstyrker till övervägande del förslaget till ny lag om hushållning med mark- och vattenområden.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 1.0,
+      "quote": "delar utredningens bedömning att detta på ett tydligare sätt än den nuvarande ordningen visar att reglernas syfte är att främja en användning av mark- och vattenområden som är lämplig för samhället vid en allsidig och samlad bedömning – både i ett långsiktigt och kortsiktigt perspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec17",
+      "sentiment": 1.0,
+      "quote": "Det är lämpligt att regeringen tidigt kan ta ställning till om ett visst mark- eller vattenområde får användas för en viss verksamhet enligt hushållningsbestämmelserna i den nya lagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.8",
+      "sentiment": 1.0,
+      "quote": "Det är nödvändigt att områdesanvändningsbeskedet, såsom föreslås, blir bindande i efterföljande prövningar i de frågor som beskedet avser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec39",
+      "sentiment": -0.5,
+      "quote": "I stora projekt är det inte endast de utredningar som behövs för efterföljande tillståndsprövning som kan ta tid, utan även säkring av projektfinansiering och översiktlig projektering av den typ som behövs för tillståndsansökan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.6",
+      "sentiment": -0.2,
+      "quote": "Svenskt Näringsliv anser att regeringsprövningen bör inledas tidigare än vid den sista tidpunkt för synpunkter som anges i kungörelsen av ansökan om tillstånd enligt utredningens förslag, helst i samband med den inledande samrådsprocessen (eller motsvarande).",
+      "quote_type": "grund"
+    }
+  ]
+}

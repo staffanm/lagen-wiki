@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/helsingborgs-kommun": "5218eea908f00ec0625b45a3c11abe370e89994f301feb7f8de684a200a7d81d",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Helsingborgs stad ställer sig sammantaget positiv till utredningens förslag för att stärka det svenska säkerhetsskyddet i ett alltmer komplext och hotfullt omvärldsläge.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec74",
+      "sentiment": 0.8,
+      "quote": "Det stärker vårt långsiktiga säkerhetsskydd, då det ger bättre förutsättningar att identifiera och skydda verksamheter som tidigare inte omfattats av säkerhetsskydd – men som, i dagens förändrade omvärldsläge, kan bedömas vara säkerhetskänsliga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 0.8,
+      "quote": "En mer heltäckande registerkontroll kan bidra till en mer rättvisande och nyanserad bild av en individs lämplighet för säkerhetskänsliga uppgifter, vilket i sin tur minskar risken för att allvarliga säkerhetshot förbises.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.7",
+      "sentiment": -0.2,
+      "quote": "De psykosociala effekterna för närstående, såsom makar eller sambor, bör beaktas då dessa kan komma att omfattas av kontrollen utan att själva vara direkt involverade i den säkerhetskänsliga verksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": 0.8,
+      "quote": "I och med att individer ofta säkerhetsprövas av flera olika aktörer för olika befattningar inom säkerhetskänslig verksamhet, är sådan information av direkt relevans för att säkerställa en samlad och korrekt bedömning vid framtida prövningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

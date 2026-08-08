@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/svenska-bankforeningen": "cdbbf08ae159fd001fe084aa385a39febc85854c0a6c5e8c636397868ed826e5",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenska Bankföreningen ställer sig över lag positiv till utredningens ambition att stärka säkerhetsskyddet i Sverige givet den försämrade hotbilden som även drabbar finansiell sektor.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec93",
+      "sentiment": -1.0,
+      "quote": "tillsynsmyndighetens bedömning om ett pågående förfarande är olämpligt från säkerhetsskyddssynpunkt kan uppfattas som att det blir tillsynsmyndigheten som i praktiken styr över vilken del av verksamheten som är säkerhetskänslig och inte verksamhetsutövaren.",
+      "quote_type": "grund"
+    }
+  ]
+}

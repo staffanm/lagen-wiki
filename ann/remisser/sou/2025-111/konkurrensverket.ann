@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/konkurrensverket": "defbca0c265b4ce4781aa61272dc103b16f3cf906dcad199e932b6f0155c1d4b",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Konkurrensverket föreslår att en ny bestämmelse införs i LOH med den huvudsakliga innebörden att rätten i dessa mål kan besluta att ersättning från det allmänna till enskild ska utgå av allmänna medel, men att ersättningen i övrigt ska bestämmas med tillämpning av den av utredningen föreslagna kostnadsregleringen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.7.3",
+      "sentiment": -0.2,
+      "quote": "Förslaget skulle försvåra en effektiv budgetering och planering av verksamheten på såväl kort som lång sikt samt medföra en risk för att Konkurrensverket med kort varsel kan behöva minska verksamhetens kostnader (såsom lönekostnader) för att hantera utbetalningar av rättegångskostnader som överstiger den budgeterade marginalen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.7.4",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket har inte några invändningar mot utredningens förslag avseende kostnadsregleringen i övrigt, bland annat i fråga om fördelningen av rättegångskostnad i mål med enskilda som motparter och tidpunkten för framställande av kostnadsyrkande.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.7.5",
+      "sentiment": 0.5,
+      "quote": "Det bör enligt Konkurrensverket inte vara möjligt för en enskild part att med stöd av den föreslagna kostnadsregleringen få ersättning för sådana kostnader som uppkommit under förvaltningsmyndighetens handläggning av ärendet, eftersom parten i vilket fall hade haft dessa kostnader oaktat ärendets utgång.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.7.6",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket har inte några invändningar mot förslaget att behålla regleringen i 43 kap. skatteförfarandelagen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.7.7",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket delar utredningens bedömning att det är en fördel om det allmännas kostnadsansvar regleras på ett enhetligt sätt i förvaltningsprocesslagen och lagen om domstolsärenden.",
+      "quote_type": "grund"
+    }
+  ]
+}

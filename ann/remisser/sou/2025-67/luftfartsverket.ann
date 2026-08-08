@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/luftfartsverket": "af4389867599423672662d93da0f5a468605e459cd728e3ad7753a7e8d458e57",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Luftfartsverket instämmer i de förslag som utredaren lämnar i rapporten.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.3.1",
+      "sentiment": -0.5,
+      "quote": "solceller har elektromagnetisk påverkan vilket kan inverka negativt på Luftfartsverkets utrustning för flygtrafiktjänster.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.1",
+      "sentiment": 0.5,
+      "quote": "Luftfartsverket har personal som arbetspendlar till Arlanda och ser positivt på åtgärder som innebär mer redundans och kapacitet för resor till och från Arlanda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.6",
+      "sentiment": 0.5,
+      "quote": "Luftfartsverket har personal som arbetspendlar till Arlanda och ser positivt på åtgärder som innebär mer redundans och kapacitet för resor till och från Arlanda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 0.5,
+      "quote": "Luftfartsverket har personal som arbetspendlar till Arlanda och ser positivt på åtgärder som innebär mer redundans och kapacitet för resor till och från Arlanda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7",
+      "sentiment": -0.5,
+      "quote": "Utredningen behandlar inte omfattningen av flygplatsens trafik under kris och höjd beredskap.",
+      "quote_type": "grund"
+    }
+  ]
+}

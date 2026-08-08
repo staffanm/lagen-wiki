@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:90/arjeplogs-kommun": "54d1a37d79182d206ace1e16725e01ed9955953c9b941b1e3640b0e342318a6b",
+      "artifact:forarbete/sou/2025-90": "c2e4c30d4c5dcb7aed515c66494488233ac250895bf23594526ec562841615d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Ställer sig i huvudsak bakom remissen Förmedling av post till personer med skydd i folkbokföringen (SOU 2025:90) med följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.16",
+      "sentiment": -0.2,
+      "quote": "Behov av stöd till små kommuner bör säkerställas, särskilt vad gäller utbildning och samordning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.16",
+      "sentiment": -0.2,
+      "quote": "Behov av informationsinsatser från Skatteverket för att kommuner ska kunna följa regelverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.14",
+      "sentiment": 0.2,
+      "quote": "Digitala alternativ bör främjas för att minska behovet av fysisk postförmedling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.20",
+      "sentiment": -0.2,
+      "quote": "Uppföljning och utvärdering av effekterna för mindre kommuner bör ske efter införandet.",
+      "quote_type": "grund"
+    }
+  ]
+}

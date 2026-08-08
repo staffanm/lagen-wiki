@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:21/forvaltningsratten-i-stockholm-migrationsdomstolen": "54cadd204596c80833fd33832b474736d8bb3c9f6e64c01101b436521057a7d5",
+      "artifact:forarbete/sou/2026-21": "b4fe47551a2f6371e860be92a47a77882040d95cf28d07cac21ec3172d27ca53"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förvaltningsrätten i Stockholm får, i egenskap av migrationsdomstol och utifrån de aspekter som domstolen i övrigt har att beakta, härmed lämna följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.5,
+      "quote": "Domstolen har ingen erinran mot denna del av förslaget, utom att vi föreslår ett förtydligande av barnperspektivet, se nedan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 1.0,
+      "quote": "förordar domstolen det alternativ som innebär att det svenska medborgarskapet får återkallas för den som har dömts för brott som allvarligt hotar Sveriges säkerhet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": -1.0,
+      "quote": "Det alternativet skulle såvitt domstolen kan bedöma innebära en allt för ingripande ordning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.1",
+      "sentiment": -0.5,
+      "quote": "Domstolen anser att sannolikt är ett för lågt beviskrav sett till de konsekvenser en återkallelse av medborgarskapet kan förväntas få för den enskilde (se t.ex. prop. 2009/10:31 s. 114 f).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec220",
+      "sentiment": -0.2,
+      "quote": "Domstolen anser således att en (1) bestämmelse om att barnets bästa ska beaktas vid samtliga fall av återkallelse av svenskt medborgarskap tas in i en separat bestämmelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec318",
+      "sentiment": -0.5,
+      "quote": "Med beaktande av de ökade kostnader som de föreslagna förändringarna förväntas medföra anser domstolen att anslaget till migrationsdomstolarna behöver höjas.",
+      "quote_type": "grund"
+    }
+  ]
+}

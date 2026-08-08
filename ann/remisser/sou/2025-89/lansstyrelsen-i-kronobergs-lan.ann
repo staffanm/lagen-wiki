@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:89/lansstyrelsen-i-kronobergs-lan": "2e58e19031fcb9eaad1de0e01c0cc6abe4616195a2f23e226be1775bb64b5d7f",
+      "artifact:forarbete/sou/2025-89": "afe1fb1af513037b8ebe2623eb4a101b40c95abf5ec06765e928348800d59876"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I huvudsak har länsstyrelsen synpunkter på förslaget om att införa fiskevakter, om effekter av den föränderliga gränsen för vad som räknas som statligt förvaltade sötvatten och på registrering av fritidsfiskare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec101",
+      "sentiment": 0.5,
+      "quote": "Den befintliga konsekvensanalysen brister dock då den inte tar upp de omfattande insatser och kostnader för information kring införande av register och rapporteringsskyldighet som kommer att krävas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec119",
+      "sentiment": 0.5,
+      "quote": "Vid ett eventuellt ökat ansvar för tillsyn från länsstyrelserna måste samtidigt tilldelningen av resurser öka i motsvarande grad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec31",
+      "sentiment": -1.0,
+      "quote": "Om länsstyrelsen utifrån kommande lagstiftning samtidigt ska ansvara för tillsyn av yrkesfiske är det inte osannolikt att jävsituationer kan uppstå när länsstyrelsen både ska ta ställning till regleringar som kan inskränka yrkesfiske samtidigt som tillsyn ska bedrivas av samma verksamhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:56/hovratten-for-nedre-norrland": "4a9f202270895ecb472cc9bccb21ab6a4dfb20c6a9e93047cd25c7dab28ac724",
+      "artifact:forarbete/sou/2025-56": "aa474607a823f641b3c41a3a7a0ae03a90bc89660beb4c770fe2fdd7ff299a48"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Hovrätten anser generellt att de förslag som ges i betänkandet är väl övervägda.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec70",
+      "sentiment": -0.5,
+      "quote": "Betänkandet ger dock inga svar när eller i vilka situationer anställningsdomstolen är skyldiga att göra en anmälan till Justitieombudsmannen och för inga närmre resonemang om anställningsdomstolens skyldigheter i dessa fall.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.5,
+      "quote": "Vidare problematiserar inte betänkandet vilka åtgärder anställningsdomstolen är skyldig att vidta om en ordinarie domare t.ex. lider av ett missbruk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.5,
+      "quote": "Det vore även önskvärt att det förs något resonemang kring domstolschefens kvarvarande skyldigheter att t.ex. omfördela mål när en domare inte levererar i tid.",
+      "quote_type": "grund"
+    }
+  ]
+}

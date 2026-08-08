@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:23/sundsvalls-tingsratt": "7e243132af9562cb0d9628b88dc1cb3df8422fc5d00dc506d054de21f4fc3e8f",
+      "artifact:forarbete/sou/2025-23": "b2d48664048a020b85b19246d070df9c345abde883c4cd3cafb969951f44570e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I övrigt har tingsrätten inte några synpunkter mot förslagen som lämnats i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5.2",
+      "sentiment": 1.0,
+      "quote": "Tingsrätten har inga synpunkter beträffande förslaget att skärpa vårdnadshavares skadeståndsansvar och därmed höja beloppsgränsen till en tredjedels prisbasbelopp.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec300",
+      "sentiment": -0.2,
+      "quote": "Tillgänglighetsdelgivning förutsätter att det finns en i förväg bestämd tidpunkt när handlingarna i ett brottmål ska hållas tillgängliga vid en viss tingsrätt, vilket innebär förhållandevis få fall.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec11",
+      "sentiment": 1.0,
+      "quote": "Tingsrätten tillstyrker att ersättningsnivåerna för poliser och andra yrkesgrupper med särskild beredskap inte bör ändras.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

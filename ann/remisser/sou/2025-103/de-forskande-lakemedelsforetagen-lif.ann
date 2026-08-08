@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:103/de-forskande-lakemedelsforetagen-lif": "939e20c9e47c1e94af97add31faa5749d889444dcd475ee2b25415814708f886",
+      "artifact:forarbete/sou/2025-103": "3494f54a32c4c4ce08c80df5c6f1304db463ec2825930548fa2363c4c69ec03f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Lif ser positivt på ambitionen att skapa en modern och harmoniserad produktansvarslagstiftning inom EU och delar regeringens ambition att stärka det allmänna skyddet för skadelidande och att underlätta möjligheten att erhålla ersättning vid skador som orsakas av produkter med säkerhetsbrister.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.10.2",
+      "sentiment": -0.5,
+      "quote": "Risken är dock att företag hamnar i ett rättsosäkert läge då ansvaret faller på dem att bevisa att produkten inte orsakat skada.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec85",
+      "sentiment": -0.5,
+      "quote": "Denna risk accentueras ytterligare då skadebegreppet i den nya lagen omfattar mer svårbevisade skador som medicinskt erkänd skada på psykisk hälsa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.13",
+      "sentiment": -0.5,
+      "quote": "Att talan får väckas upp till 25 år från att preskriptionstiden börjat löpa om personskadan är latent bidrar även det till osäkerhet, särskilt för de företag som sätter komplexa och/eller innovativa produkter på EU:s inre marknad.",
+      "quote_type": "grund"
+    }
+  ]
+}

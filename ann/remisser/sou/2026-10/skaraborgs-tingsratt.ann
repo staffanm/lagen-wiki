@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/skaraborgs-tingsratt": "a2531d5ebee2dbe41f9332020cdb7549be878810308a1046228ff2a5f414599d",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Tingsrätten anser att merparten av de förslag som förs fram i betänkandet framstår som väl motiverade och avvägda.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -1.0,
+      "quote": "Det framstår som en otillfredsställande ordning att en frikänd person som är i stort behov av medel eller egendom för sin eller sin familjs försörjning ska behöva invänta en lagakraftvunnen dom, i synnerhet i de fall där domen överklagas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec302",
+      "sentiment": 1.0,
+      "quote": "När en part inte påkallar förhandling ser tingsrätten fördelar både ur effektivitetsskäl och förenklingsskäl att i stället kunna avgöra frågan på handlingarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4",
+      "sentiment": 1.0,
+      "quote": "Tingsrätten instämmer i förslaget om att fristen för att pröva frågor om beslag ska förlängas till en vecka.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.4",
+      "sentiment": 1.0,
+      "quote": "I likhet med utredningen ser tingsrätten att beslagsmål, som enligt nuvarande ordning utgör fristmål, riskerar att påverka och tränga undan andra brådskande mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec845",
+      "sentiment": 1.0,
+      "quote": "En sådan ordning skulle innebära ett orimligt stort avsteg från de grundläggande principer som finns i brottmålsprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec1014",
+      "sentiment": 0.5,
+      "quote": "För domstolarna är det viktigt att den nya regleringen blir så tydlig och lättillämpad som möjligt.",
+      "quote_type": "grund"
+    }
+  ]
+}

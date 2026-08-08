@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/goteborgs-kommun": "eda09c7d395a6a3c9e324ff4a9c1a2709844b0566bb6370829c407898117cda4",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Göteborgs Stad kan se risker med att en ökad statlig styrning skulle kunna leda till att samverkan mellan kommun och region blir alltmer komplex, eller att kommunernas behov inte synliggörs i tillräcklig omfattning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 0.2,
+      "quote": "Göteborgs Stad konstaterar att de problem Vårdansvarskommittén formulerar kopplat till kompetensförsörjningen är lika relevanta för den del av primärvården som kommunerna ansvarar för.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.4",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad är positiv till betänkandet förslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec119",
+      "sentiment": 1.0,
+      "quote": "Beslut om kommunal verksamhets utformning sker bäst på lokal nivå bland annat med stöd av generella statsbidrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

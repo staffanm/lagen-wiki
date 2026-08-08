@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:36/vetenskapsradet": "b5f014ad33b6523e7d3c8f7b71c99df3260950688cd5c11e0d0aaefe4392b919",
+      "artifact:forarbete/sou/2025-36": "e3d16c169ecd8ac4860467a3382c5fe813d345fe61f4e153e0c56341b0ba609e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vetenskapsrådet anser att utredningens förslag i stort utgör en god grund för Sveriges tillträde till och genomförande av avtalet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.3.1",
+      "sentiment": 0.5,
+      "quote": "Det skulle riskera tillgången till öppna sekvensdata, vilket skulle ha en negativ påverkan på all forskning som bedrivs på genetiska resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.3",
+      "sentiment": -0.2,
+      "quote": "Den föreslagna nationella definitionen riskerar att bli begränsande och kan komma att behöva anpassas till kommande EUreglering och riktlinjer från det vetenskapliga och tekniska expertorganet under partskonferensen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.4",
+      "sentiment": -0.2,
+      "quote": "Därför är det att viktigt att de system som används för anmälan blir internationella och inte enbart nationella.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.5",
+      "sentiment": 0.2,
+      "quote": "Vetenskapsrådet anser att det är viktigt att de befintliga forskningsinfrastrukturerna och databaserna så långt det är möjligt kan användas för tillgängliggörande och rapportering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.7",
+      "sentiment": -0.2,
+      "quote": "Det är därför olyckligt att det idag är oklart var dessa prover ska deponeras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": 0.5,
+      "quote": "För att fullfölja avtalets intentioner är det därför av yttersta vikt med ett brett stöd för grundforskning och forskningsinfrastruktur i de länder som berörs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.5.3",
+      "sentiment": 0.0,
+      "quote": "Vetenskapsrådet bedömer det som troligt att fler lärosäten kan komma att beröras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.6.2",
+      "sentiment": 0.2,
+      "quote": "Vetenskapsrådet vill betona att om forskningen genererar data bör datahantering ske i enlighet med FAIR-principerna för att möjliggöra öppen tillgång till forskningsdata.",
+      "quote_type": "grund"
+    }
+  ]
+}

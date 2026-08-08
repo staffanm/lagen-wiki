@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/statskontoret": "14ff825f0f25c75213294592a29c402efda6edfab06d79ea002e6315cdebc5f6",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Statskontorets samlade bedömning är att utredningens förslag i sin helhet är välgrundade och stämmer väl överens med vad Statskontoret tidigare kunnat konstatera om myndighetsstyrning, organisering och utformning av strategier.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 1.0,
+      "quote": "Statskontoret har i flera rapporter konstaterat att permanenta uppgifter bör regleras i instruktion snarare än genom tillfälliga uppdrag eller regleringsbrev eftersom det bidrar till en mer långsiktig och stabil styrning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": 1.0,
+      "quote": "Statskontoret stödjer även förslagen kring strategins utformning; med en utpekad samordnande funktion, framtagande av handlingsplan, identifierade strategiska områden samt uppföljning med indikatorer – samtliga viktiga framgångsfaktorer för nationella strategier utifrån vad Statskontoret tidigare kunnat konstatera.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.5,
+      "quote": "det finns vissa risker med ett alltför omfattande indikatorsystem eftersom det kan leda till ökad administrativ börda för myndigheterna, särskilt om datainsamlingen kräver nya resurser eller omfattande rapportering.",
+      "quote_type": "grund"
+    }
+  ]
+}

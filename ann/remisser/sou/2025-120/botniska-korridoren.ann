@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/botniska-korridoren": "284508e660018919c293c79543c080284e9d9cb5c2a4c2309ea5f0dfd2dc376b",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "vi är odelat positiva till regeringens initiativ att utreda nya metoder för att säkerställa och skynda på utbyggnaden av prioriterad och kritisk infrastruktur.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec58",
+      "sentiment": 0.5,
+      "quote": "Kommuner och regioner bör vara delägare i bolaget för att stärka samverkan, lokal förankring och framdrift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec140",
+      "sentiment": -0.5,
+      "quote": "Bör även fortsättningsvis hanteras av Trafikverket av rättssäkerhets- och kompetensskäl.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec140",
+      "sentiment": -0.2,
+      "quote": "Ska övergå till Trafikverket vid en tydligt definierad tidpunkt för att integrera banan i det nationella systemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec61",
+      "sentiment": -0.5,
+      "quote": "Enbart fleråriga anslag riskerar att skapa samma flaskhalsar som idag och försvårar långsiktig planering.",
+      "quote_type": "grund"
+    }
+  ]
+}

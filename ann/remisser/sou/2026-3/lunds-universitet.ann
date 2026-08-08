@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:3/lunds-universitet": "d03a8e68a749314d198f6d21dfde65ad156c9a828e6da2698ce76ecf93abcd6e",
+      "artifact:forarbete/sou/2026-3": "a57602efa93a3a568c65f2616a90564109efac9844cf6fcbd52ded0f202140f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Fakultetsstyrelsen har inget att invända mot det övergripande innehållet i förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.2.2",
+      "sentiment": 1.0,
+      "quote": "Att, som utredningen föreslår, genomföra direktivet i en särskild lag anser fakultetsstyrelsen är den lämpligaste lösningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": -0.2,
+      "quote": "Eftersom frågor om algoritmisk verksamhetsledning och dataskydd i praktiken är nära sammanflätade riskerar den föreslagna uppdelningen att skapa gränsdragningsproblem, vilket kan leda till minskad tydlighet i såväl rättigheternas som skyldigheternas omfattning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec301",
+      "sentiment": -0.2,
+      "quote": "Denna oklarhet i fråga om hur arbetsplattformarna ska kunna fastställa vilken arbetstagarorganisation som är att betrakta som berörd riskerar att undergräva bestämmelsernas effektivitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec362",
+      "sentiment": -0.5,
+      "quote": "Preskriptionsreglerna i svensk arbetsrätt är inte enhetliga och är i generellt sett korta.",
+      "quote_type": "grund"
+    }
+  ]
+}

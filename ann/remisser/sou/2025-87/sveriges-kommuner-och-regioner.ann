@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:87/sveriges-kommuner-och-regioner": "2d5d03ebc83344e3fcb68384f19f247cf247aa18936054ba1ec698c3e6f7a427",
+      "artifact:forarbete/sou/2025-87": "9df8cd50f8f07d5fe6625a7096a7d32e74f5028048c96cf2db13ef02650c1ac9"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Det finns dock frågetecken kring förslagets utformning som bör utredas vidare i det kommande lagstiftningsarbetet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3.2",
+      "sentiment": 1.0,
+      "quote": "SKR instämmer i utredningens bedömning att bestämmelserna mot korruption på detta sätt skulle bli lättare att hitta och att sambandet mellan bestämmelserna skulle förtydligas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.4",
+      "sentiment": 1.0,
+      "quote": "SKR tillstyrker utredningens förslag om en höjning av straffskalorna.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.7.3",
+      "sentiment": -0.5,
+      "quote": "Det föreslagna nya brottet ”missbruk av offentlig ställning” är dock alltför generellt utformat för att uppnå grundläggande krav på legalitet och förutsebarhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.7",
+      "sentiment": 1.0,
+      "quote": "Det är nödvändigt med ett effektivt system för ansvarsutkrävande vid korruption och tjänstefel.",
+      "quote_type": "grund"
+    }
+  ]
+}

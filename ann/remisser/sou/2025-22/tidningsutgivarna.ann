@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/tidningsutgivarna": "277f479da7d9b3c00627b25dfc3cb845f61ea46de01faa2924c135b97f9dd034",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Enligt TU:s mening är det inte tillräckligt för att kunna läggas till grund för lagstiftning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.4.5",
+      "sentiment": 0.2,
+      "quote": "Enligt TU:s mening kan det dock, i bägge fallen, ifrågasättas om sekretessen ska vara absolut och om det inte kan vara tillräckligt att förse bestämmelsen med ett skaderekvisit.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.1",
+      "sentiment": -1.0,
+      "quote": "TU instämmer i att underlaget är ”tunt” och synes mera bygga på antaganden än dokumenterade problem.",
+      "quote_type": "grund"
+    }
+  ]
+}

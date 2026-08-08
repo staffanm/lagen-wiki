@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:69/lansstyrelsen-vastra-gotalands-lan": "f19b276f5eab414b830495d04107f3af0280183f08c5e60ad39819cfd62d26a1",
+      "artifact:forarbete/sou/2025-69": "e9fe403717ef019299c4fc8689d9fb71197ea9f2a8ad889130b543582d2661a1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen förordar samtliga förslag i utredningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.5.3",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen anser tvärt emot utredningen att det kan komma att medföra viss grad av ökad arbetsbelastning för länsstyrelserna vid uppföljning och hantering av objektburen smitta på sällskapsdjur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": -0.2,
+      "quote": "En ny djurhälsolag där det förtydligas och bemyndigas vem som är ansvarig kontrollmyndighet tillser Länsstyrelsen som en nödvändighet för att kunna justera och utöka kontrollen.",
+      "quote_type": "grund"
+    }
+  ]
+}

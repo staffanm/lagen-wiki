@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:100/post--och-telestyrelsen": "6a8fcafbdf81b5b63eab4ab08f69a047df08760e5351cc0c2915dd377a412d6f",
+      "artifact:forarbete/sou/2025-100": "b519ed844627b2d5676019b5b0a8bf5290f7e3fd99e92af851cf8f38837e790d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "PTS tillstyrker förslaget om att mål enligt lagen (2001:171) om förbud beträffande viss utrustning för obehörig tillgång till skyddade medietjänster ska handläggas vid Patent- och marknadsdomstolen. PTS avstyrker förslaget om att regeringen ska ge PTS i uppdrag att redovisa hur systemet med betrodda anmälare tillämpats i Sverige och hur det kan utvecklas för att stävja immaterialrättsbrott.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 1.0,
+      "quote": "Utöver de fördelar som utredningen redovisat finns fördelen att en sådan organisation kan underlätta för PTS i uppdraget som samordnare för digitala tjänster och bidra till bättre kvalitet i uppföljningen på unionsnivå kring åtgärder som vidtas – eller inte vidtas – mot illegal ip-tv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.3",
+      "sentiment": -1.0,
+      "quote": "Mot bakgrund härav och då riktlinjer från EU-kommissionen är att vänta, anser PTS att det inte finns skäl att ge ett särskilt uppdrag till myndigheten rörande tillämpningen av systemet med betrodda anmälare på det sätt som föreslås i utredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.4",
+      "sentiment": 0.2,
+      "quote": "Om regeringen går vidare med utredningens förslag om samverkansdialoger bör även dessa två myndigheter bjudas in till dialog.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": 0.2,
+      "quote": "Om ett syfte med utredningen ska vara att få en väl genomarbetad analys av de rättsliga och praktiska förutsättningarna för liveblockering i Sverige inför kommande förhandlingar på EU-nivå behöver särskilda överväganden göras kring tidsaspekten.",
+      "quote_type": "grund"
+    }
+  ]
+}

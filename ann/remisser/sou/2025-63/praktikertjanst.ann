@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:63/praktikertjanst": "47495bed36e6b0dc8970ef73364aab408382e839babbb13970f1ee017530b58a",
+      "artifact:forarbete/sou/2025-63": "461094f462cdf3d5e300f64df1c13bc71f9e5017089a2d108dbaf9978b04511e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Praktikertjänst ställer sig i huvudsak positivt till utredningens inriktning och ser fram emot fortsatt dialog om hur kompetensförsörjningen inom vården och tandvården kan stärkas på ett långsiktigt och hållbart sätt.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.18",
+      "sentiment": 1.0,
+      "quote": "Precis som utredningen konstaterar så har tandsköterskan inte ett eget vårdansvar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 0.5,
+      "quote": "Idag hindras detta ofta av organisatoriska och ekonomiska skäl där det många gånger är de regiondrivna verksamheterna som är ovilliga att låta ”sina” ST-läkare randa sig i privata verksamheter, vilket leder till snedfördelning av utbildningsmöjligheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": 0.5,
+      "quote": "erfarenheterna från Svensk förening i allmänmedicins ”mitt i ST”-test visar att frivilliga och standardiserade kunskapstester kan bidra till kvalitetssäkring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec25",
+      "sentiment": -0.5,
+      "quote": "Ett sådant år skulle bidra till: • en tryggare övergång från utbildning till självständigt yrkesutövande. • bättre kvalitet och patientsäkerhet tidigt i yrket. • stärkt handledningskultur inom tandvården. • en möjlig väg att ge en mer jämlik fördelning av tandvårdsresurser över hela landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec588",
+      "sentiment": 1.0,
+      "quote": "Praktikertjänst tillstyrker utredningens förslag om att det införs ett krav i PSL om att vårdgivaren ska dokumentera vilka möjligheter som getts för fortbildning och dess resultat, i den patientsäkerhetsberättelse som vårdgivaren ska upprätta senast den 1 mars varje år.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:121/brottsoffermyndigheten": "a9796b51571c4e3b2a3dcd1732ba516383664c35ab7ab86bf1f18cd977ca4c82",
+      "artifact:forarbete/sou/2025-121": "ea5ef53bafffc374cd9c6ed48c2efc9bb84857af58aacd3e714712108c789c6b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Brottsoffermyndigheten ser positivt på åtgärder som ger ett stärkt skydd för den som vill separera och som motverkar risken för ekonomiskt våld i samband med skilsmässa.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": 1.0,
+      "quote": "Myndigheten tillstyrker även förslaget att kravet på betänketid när en av makarna motsätter sig skilsmässa tas bort.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": 0.2,
+      "quote": "Förslaget om bevarad betänketid när det finns hemmavarande barn under 16 år lämnar Brottsoffermyndigheten utan erinran.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

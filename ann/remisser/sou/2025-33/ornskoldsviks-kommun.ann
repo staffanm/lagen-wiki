@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/ornskoldsviks-kommun": "0bfd9ad84e1ad3f0fe276d354ae6cfa89000c950f266649e77d592068b00d4c7",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Örnsköldsviks kommun vill inledningsvis framföra att kommunen inte har något att invända över betänkandet och den lagstiftning som föreslås.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.9",
+      "sentiment": -0.2,
+      "quote": "Det torde således vara mer korrekt, utifrån såväl integritet som rättssäkerhetsperspektiv, att intresseavvägningar ska ske utifrån omständigheterna i varje enskilt fall och inte utifrån kategorier.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.9.1",
+      "sentiment": 0.2,
+      "quote": "Kommunen anser dock att det kan bli svårt att bedöma när det står klart att det intresse som sekretessen ska skydda har företräde framför intresset av att uppgiften lämnas ut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.13.2",
+      "sentiment": -0.5,
+      "quote": "Det finns en risk för att människor i utsatta situationer undviker att söka hjälp och stöd i rädsla för att Migrationsverket ska få del av uppgifter som medför att en då riskerar att förlora sin rätt att vistas i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.10.5",
+      "sentiment": -0.2,
+      "quote": "Det torde härmed uppstå en viss osäkerhet kring vad som gäller och frågan om huruvida en intresseavvägning ska eller inte ska göras kommer uppstå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5",
+      "sentiment": 1.0,
+      "quote": "Det är ett väl genomarbetat avsnitt där barnperspektivet lyfts fram i olika aspekter och någon ytterligare prövning av barnets bästa är inte påkallad.",
+      "quote_type": "grund"
+    }
+  ]
+}

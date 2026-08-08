@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/energimyndigheten": "5b055b58b40a05330c718c6fa96bd9050a16750fd8ac2d2f3b1ba17895ea4aaf",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Energimyndigheten delar utredningens bedömning och tillstyrker förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec168",
+      "sentiment": 0.5,
+      "quote": "Det är centralt att samordningen mellan MSB och FRA fungerar väl både under övergången och långsiktigt. Bland annat för att bibehålla det pågående arbetet med NIS- och NIS2-tillsynssamordningen och för att framåt kunna hålla ihop NIS2- och CER-arbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3.5",
+      "sentiment": 0.2,
+      "quote": "En sådan lösning skulle underlätta både för rapportörerna och tillsynsmyndigheterna som därmed har en och samma ingång att förhålla sig till.",
+      "quote_type": "grund"
+    }
+  ]
+}

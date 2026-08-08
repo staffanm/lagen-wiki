@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:89/lansstyrelsen-i-vastmanlands-lan": "c6f27fb1d95137f8fb86af2d8888a30ac8e2ca09a2513f45ba78150cf7e195a4",
+      "artifact:forarbete/sou/2025-89": "afe1fb1af513037b8ebe2623eb4a101b40c95abf5ec06765e928348800d59876"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen i Västmanlands län, välkomnar utredarens förslag om en sammanhållen fiskelagstiftning som bedöms bli mer överskådlig.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec52",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av de ekonomiska konsekvenserna för både yrkesutövare och fiskerättsägare ställer sig Länsstyrelsen tveksam till förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec55",
+      "sentiment": -0.2,
+      "quote": "Med formuleringen enligt 1 § kommer denna frifiskerätt försvinna helt i Mälaren, och i Mellanfjärden i Hjälmaren, till skillnad från övriga sjöar där det finns allmänt vatten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec31",
+      "sentiment": -0.5,
+      "quote": "Förslagen bedöms minska effektiviteten och öka kostnaderna för tillsynen.",
+      "quote_type": "grund"
+    }
+  ]
+}

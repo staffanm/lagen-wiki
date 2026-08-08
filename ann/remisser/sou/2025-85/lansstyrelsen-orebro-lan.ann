@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/lansstyrelsen-orebro-lan": "2b23ec23ce8a3e62aa080cb1016b16234058be3323b5ba06f6ac42409ab19aac",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vidare instämmer Länsstyrelsen i allt väsentligt i utredningens analys och bedömer att den utgör en god grund för utformning och inriktning av framtida politik för regional utveckling och landsbygdsutveckling samt för framtagandet av förslag på insatser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": 0.5,
+      "quote": "Föreslagna insatser behöver vara flexibla och anpassningsbara till framtida omvärldsförändringar så att de fungerar och är relevanta under lång tid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.2,
+      "quote": "Staten behöver enligt Länsstyrelsens bedömning ta en tydligare och aktivare roll i politikens genomförande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "Det är därför nödvändigt att bibehålla ett regionalt handlingsutrymme så att samverkan och lösningar kan anpassas utifrån platsens förutsättningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen delar bedömningen att en sammanslagning av politikområdena kan innebära risk för att landsbygdernas frågor hamnar i skymundan av städer och större tätorter i det regionala utvecklingsarbetet.",
+      "quote_type": "grund"
+    }
+  ]
+}

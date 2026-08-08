@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/transportforetagen": "74f78e1139f30f3f167fe1bdd0991b080edb7f04f1e9eb933e596a71dd3c26a4",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Utredningen är ett steg framåt, men förslagen behöver kompletteras för att transporterna ska kunna bidra fullt ut i en framtida pandemi och återhämtningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.5,
+      "quote": "Vi stödjer principen om samhällsinriktade smittskyddsåtgärder, men betonar att: - Beslut om åtgärder för flyget måste föregås av samråd med branschen och i så stor utsträckning som möjligt harmonisera med andra länder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec410",
+      "sentiment": -0.2,
+      "quote": "Utredningen nämner karantänsflygplatser, men anger inte: • Vilka flygplatser som avses. • Vilka kriterier som ska styra urvalet. • Hur kostnader, skyddsutrustning och personalansvar hanteras.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/lansstyrelsen-i-kalmar-lan": "8a95c10a75f3b0d9d49ef95818cbe82d06f8378826db364a486f28a740ad518a",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen Kalmar län (länsstyrelsen) har inga invändningar mot förslaget men vill lämna följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.8,
+      "quote": "Länsstyrelsen anser att det är positivt att hushållningsbestämmelserna lyfts ur miljöbalken och flyttas till en egen lag för att renodla och tydliggöra vad en prövning enligt hushållningsbestämmelserna omfattar och de olika allmänna intressena som ska beaktas i prövningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": 0.8,
+      "quote": "Det är positivt att områdesanvändningsbeskedet begränsas till användning av markoch vatten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.9",
+      "sentiment": -0.2,
+      "quote": "Utredningen analyserar inte hur förändringarna kommer att påverka skyddet av kulturmiljövärden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.6",
+      "sentiment": -0.2,
+      "quote": "Behovet av utredningar kan ju göra att detta som var tänkt att snabba på processen kanske inte blir så snabbt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec332",
+      "sentiment": -0.5,
+      "quote": "Om regeringen kommer fram till att man kan ge ett positivt besked anser länsstyrelsen att detta kan leda till att det uppfattas som en typ av förprövning av påverkan på Natura 2000-området.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.3",
+      "sentiment": 0.8,
+      "quote": "Detta utifrån ett beredskapsperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.2",
+      "sentiment": -0.2,
+      "quote": "det är av vikt att förslagets påverkan på länsstyrelsernas verksamhet och eventuella resursbehov analyseras.",
+      "quote_type": "grund"
+    }
+  ]
+}

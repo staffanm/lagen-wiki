@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:92/naturhistoriska-riksmuseet": "bd44f814739645445ea1df58148cbf337ecff41cccc3011ac6ad45f59a803131",
+      "artifact:forarbete/sou/2025-92": "c1db6346e92cb1aaf69fe092a6e40e7ceba88b5192c9caee2959771165f82273"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "NRM avstår från att yttra sig över utredningens förslag annat än i den del som gäller förslag om en permanent utställning med placering på Nordiska museet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec537",
+      "sentiment": -0.5,
+      "quote": "Förfarandet att istället genom ett riktat avtal reglera utställningarnas innehåll skulle kunna uppfattas som ett avsteg från principen om armlängds avstånd, vilket närmast kommer till uttryck i Museilagens (2017:563) paragraf 5, ”Museihuvudmännen ska säkerställa att ett museum har ett bestämmande inflytande över verksamhetens innehåll”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec550",
+      "sentiment": -0.5,
+      "quote": "Därför behöver man ta i beaktande att ett sådant förfarande riskerar att drabba de svagare grupperna i samhället, dvs. barn, ungdomar, äldre och personer med funktionsnedsättning, vilka är de primära målgrupperna för Arvsfondens bidragsgivning.",
+      "quote_type": "grund"
+    }
+  ]
+}

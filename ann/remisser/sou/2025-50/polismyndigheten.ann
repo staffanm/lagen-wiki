@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/polismyndigheten": "70cd00ba28f8d291e739d1c721653d572bfbf3b3db2d75eb001fb492133c71fa",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Polismyndigheten ser i huvudsak positivt på betänkandets huvudförslag (alternativ I) om en ny myndighet för viltförvaltning, Viltförvaltningsmyndigheten, och den ansvarsfördelning som föreslås däri.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.11.2",
+      "sentiment": -1.0,
+      "quote": "prövning av vapentillstånd är en polisiär uppgift som även fortsättningsvis bör utföras av Polismyndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9",
+      "sentiment": 0.5,
+      "quote": "Det rör sig om ett sakområde som är möjligt och lämpligt att renodla från Polismyndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten delar utredningens bedömning att hanteringen av trafikskadat vilt inte är en polisiär uppgift",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.3",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten delar utredningens uppfattning att även uppgiften att ta om hand påträffat dött vilt av arter som tillfaller staten inte är en polisiär uppgift, utan att den lämpligtvis kan överföras till länsstyrelserna som redan hanterar angränsande frågor.",
+      "quote_type": "grund"
+    }
+  ]
+}

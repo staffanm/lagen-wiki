@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:75/utbetalningsmyndigheten": "5c69da59b23afb0f08332e9def43dbf3706a628da77dcc55f6e2883905bdce8d",
+      "artifact:forarbete/sou/2025-75": "6c1747356aef8861690e0e55231a670ab88642b59dc2975b505edeeb781a1461"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utbetalningsmyndigheten instämmer i förslaget förutsatt vissa ändringar av det.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.5,
+      "quote": "Den omständigheten att brotten inte beivras i större utsträckning kan även inverka menligt på myndigheternas benägenhet att underrätta om misstänkt felaktig folkbokföring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a26",
+      "sentiment": 1.0,
+      "quote": "Grunden för att förebygga och förhindra felaktiga utbetalningar är att de identiteter som förmåns- och biståndssökande uppträder under är korrekta.",
+      "quote_type": "grund"
+    }
+  ]
+}

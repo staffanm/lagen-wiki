@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/gavle-kommun": "8f035fa716cf455d879db4a48e8c4eced96c85e932c13441f9c6e093091bd2e5",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Välfärd Gävle ställer sig positiv till utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 1.0,
+      "quote": "Utredningen föreslår stärkt skydd för sambor, att arvingar till en sambo ges möjlighet att avstå sin omedelbara arvsrätt till förmån för den efterlevande sambo, vilket idag inte är möjligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec9",
+      "sentiment": 1.0,
+      "quote": "Om ett sådant brott har begåtts av en bröstarvinge, har han eller hon alltså alltid rätt att få ut sin laglott.",
+      "quote_type": "grund"
+    }
+  ]
+}

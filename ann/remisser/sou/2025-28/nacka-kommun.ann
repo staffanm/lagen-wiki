@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/nacka-kommun": "d2f79f09f9bc177e4020014b23b001b70c188c4a4efadf2fa00865d745949a58",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Nacka kommun ställer sig positiv till förslagen i slutbetänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8",
+      "sentiment": 1.0,
+      "quote": "Nacka kommun anser att det kan vara en vinst att ha kompetens, kunskap och beslutsfattande under samma paraply.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 1.0,
+      "quote": "En sammanhållen strategi kan underlätta samordning, minimera stuprörstänkande och gynna berörda målgrupper i än högre utsträckning.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/myndigheten-for-delaktighet": "6d75f0f15b519c32793ef29a5507845e9dde00a1b971b9a66d9995d4a4bfbda5",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "MFD anser dock att utredningen inte i tillräcklig utsträckning har analyserat sina bedömningar och förslag utifrån Sveriges åtaganden enligt FN:s konvention om rättigheter för personer med funktionsnedsättning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": -0.5,
+      "quote": "MFD saknar dock funktionshinderperspektivet i analyser och förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1.1",
+      "sentiment": -0.2,
+      "quote": "För att undvika oförutsedda och negativa konsekvenser för personer med funktionsnedsättning anser MFD att det är av yttersta vikt att funktionshinderperspektivet inkluderas i den processen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6.4",
+      "sentiment": -0.5,
+      "quote": "MFD anser även att det finns anledning för utredningen att särskilt understryka vikten av att hälsokontroller som genomförs vid inresa (7.6.4) ska vara tillgängliga och möjliga för personer med funktionsnedsättning att delta i.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6.5",
+      "sentiment": 0.5,
+      "quote": "Det innebär att informationen som ges ska vara tillgänglig, anpassad och även ta hänsyn till personer som har svårt att ta till sig och tillämpa information och instruktioner.",
+      "quote_type": "grund"
+    }
+  ]
+}

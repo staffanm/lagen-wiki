@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:57/malmo-universitet": "314f4be68b2588cc35a1b13d723395266b99e864556f8702afedeabff0a2dcba",
+      "artifact:forarbete/sou/2025-57": "8cf9bb514d6bbb185bf9bc093699cb8e4192e8a8f7352a55e97006d808786230"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Malmö universitet yttrar sig endast gällande förslaget om införande av en reservpolis och instämmer med förslaget att införa en reservpolis, men gör ett antal påpekanden och överväganden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.10",
+      "sentiment": -0.2,
+      "quote": "Vi saknar ett resonemang kring om och i så fall hur dessa utbildningsformer ska omfattas av reservpoliskonceptet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec66",
+      "sentiment": -0.5,
+      "quote": "Det innebär utmaningar för lärosätet med minskad flexibilitet i planering och genomförande av utbildningen vad gäller innehåll, pedagogisk progression och resursfördelning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec491",
+      "sentiment": 1.0,
+      "quote": "Malmö universitet är positiva till att genomföra den repetitionsutbildning om tio dagar som föreslås i betänkandet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.8",
+      "sentiment": -0.5,
+      "quote": "Det bedöms vara mycket kort tid i förhållande till den omställning som förslaget väntas innebära såsom de förväntade ändringarna i utbildningsinnehåll och fördelning över terminer, samt därpå följande ändringar av lärosätenas kursplaner.",
+      "quote_type": "grund"
+    }
+  ]
+}

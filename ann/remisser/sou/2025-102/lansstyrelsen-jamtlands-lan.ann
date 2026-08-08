@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/lansstyrelsen-jamtlands-lan": "c8d63f17c2088fca03b155433e3c261905775469e7427d5477d2f35c4fa223a7",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen i Jämtlands län instämmer i utredningens förslag att länsstyrelsen ska överta Polismyndighetens skyldigheter angående utredning och bedömning av behovet av inhägnad av övergivna gruvhål samt kostnaderna för sådan inhägnad.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "Detta förutsatt att länsstyrelserna får föreslagen finansiering för de tillkommande uppgifterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.2,
+      "quote": "Det finns en överhängande risk att bedömningen blir felaktig i brist på tillgång till Polismyndighetens uppgifter och kunskaper.",
+      "quote_type": "grund"
+    }
+  ]
+}

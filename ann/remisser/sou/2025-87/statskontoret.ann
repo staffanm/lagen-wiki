@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:87/statskontoret": "4e9f2baddb6a14ff7322827cd7d58e6bcbdc64b13a2da11331249f92aee15b5e",
+      "artifact:forarbete/sou/2025-87": "9df8cd50f8f07d5fe6625a7096a7d32e74f5028048c96cf2db13ef02650c1ac9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Statskontoret tillstyrker utredningens förslag att samla de så kallade korruptionsbrotten i en egen lag. − Statskontoret av avstyrker förslaget om införandet av ett nytt brott som tar sikte på missbruk av offentlig ställning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec173",
+      "sentiment": 0.5,
+      "quote": "Statskontoret ser att det finns fördelar med en sådan lösning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec21",
+      "sentiment": -1.0,
+      "quote": "Utredningens beskrivningar av det nya brottet är enligt våra bedömningar inte tillräckligt tydliga och på basis av utredningen är det svårt att överblicka exakt vad som kommer vara en brottslig handling eller inte och hur dessa handlingar förhåller sig till andra regler.",
+      "quote_type": "grund"
+    }
+  ]
+}

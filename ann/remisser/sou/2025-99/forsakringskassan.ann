@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:99/forsakringskassan": "477a483fb84c3a84b9faf9b40a3338cc24bf1eaf117dde82448748d3cb7eb419",
+      "artifact:forarbete/sou/2025-99": "6c1cd093ee04097aeceeff8169f890fa879410d8b56abaf496322e4ed42c73f0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Försäkringskassan anser därför att om permanenta uppehållstillstånd ska kunna upphävas i separata beslut, så behöver det tydliggöras om den enskilde ska ha fortsatt rätt till socialförsäkringsförmåner i väntan på ett eventuellt beslut om tidsbegränsat uppehållstillstånd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1",
+      "sentiment": 0.0,
+      "quote": "Det framstår därför som att ”utlänningslagen” fallit bort i 5 § andra stycket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.2",
+      "sentiment": -0.2,
+      "quote": "Om Migrationsverkets prövning av rätten till tidsbegränsat uppehållstillstånd dröjer mer än tre månader från det att beslutet om att upphäva det permanenta uppehållstillståndet vunnit laga kraft kommer den enskilde inte heller kunna beviljas bosättningsbaserade förmåner retroaktivt för hela perioden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4.5",
+      "sentiment": 0.5,
+      "quote": "Ett sådant IT-system finns inte i dag och behöver därför utvecklas före de föreslagna ändringarna träder i kraft.",
+      "quote_type": "grund"
+    }
+  ]
+}

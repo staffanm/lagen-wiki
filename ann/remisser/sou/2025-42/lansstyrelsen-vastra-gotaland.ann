@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/lansstyrelsen-vastra-gotaland": "b4b4d4f7485141067a13fa7003764f56de1bfc60d18228be7b175272e9459e3c",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi tillstyrker utredningen i stort och lämnar där utöver några synpunkter på utredningens förslag och bedömningar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen ser dock en risk för ökad administration för att bland annat kartlägga pågående förfaranden samt att utreda, klarlägga och kontrollera att parterna genomför ålagda åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.2",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen anser att utredningens förslag om anmälningsförfarande förmodligen skulle vara mer resurskrävande både för verksamhetsutövaren och tillsynsmyndigheterna jämfört med om det fanns ett krav på att ingå säkerhetsskyddsavtal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i att det inte bör införas särskild rätt till ersättning vid ingripanden i pågående förfaranden.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.2,
+      "quote": "Bestämmelsen kan dock bli svårtillämpad och Länsstyrelsen anser därför att det behövs tydliggöras hur bedömningen ska göras av om det föreligger förutsättningar för att meddela interimistiska förelägganden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 0.2,
+      "quote": "det kan komma bli svåra bedömningar med ingripande åtgärder som kan behöva göras i ett skede när ett ärende inte är fullständigt utrett.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec190",
+      "sentiment": 1.0,
+      "quote": "Precis som utredningen anser Länsstyrelsen att det är problematiskt att ingen av de inblandade aktörerna i säkerhetsprövningsprocessen har tillgång till all information som inkommit om den prövade.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.3",
+      "sentiment": -0.5,
+      "quote": "Det är ett stort intrång i den enskildes privatliv i synnerhet för den prövades närstående samt totalförsvarspliktiga som är placerade i säkerhetsklass 3 då samtycke till kontrollen inte kommer att inhämtas från dessa personer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": -0.2,
+      "quote": "Om det inte tillsätts tillräckliga resurser kommer syftet med lagändringen inte uppnås och de effekter som efterfrågas kommer utebli.",
+      "quote_type": "grund"
+    }
+  ]
+}

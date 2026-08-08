@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:90/pts-post-och-telestyrelsen": "d12cbee56c7be55570ba33b040a42be469846f3f7fa3beecadec242174dd0125",
+      "artifact:forarbete/sou/2025-90": "c2e4c30d4c5dcb7aed515c66494488233ac250895bf23594526ec562841615d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "PTS instämmer i utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.11",
+      "sentiment": -0.2,
+      "quote": "Skulle de obeställbara breven skickas direkt från Skatteverket till verksamheten för obeställbara brev, enligt utredningens förslag, behöver den som bedriver verksamheten få ersättning för hanteringen av dessa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5",
+      "sentiment": -0.2,
+      "quote": "För det fall Skatteverkets hantering utvidgas till att även omfatta andra postförsändelser, vilket ges möjlighet till enligt förslaget, behöver verksamheten anpassas t.ex. i fråga om lokaler, utrustning och arbetsmiljörelaterade aspekter.",
+      "quote_type": "grund"
+    }
+  ]
+}

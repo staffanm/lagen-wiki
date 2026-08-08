@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/aklagarmyndigheten": "eee61ab54ba2ad53730c0dc090c6cced0999d6ff679e8146b35def00388d5612",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Äklagarmyndigheten välkomnar fiirslagen om nya och förändrade bestämmelser om sanktionsavgift er.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3.3",
+      "sentiment": 0.5,
+      "quote": "Åklagarmyndigheten delar utredningens bedömning att det i Regeringskansliet bör inrättas en särskild samordningsfunktion ftir samverkan mot arbetslivskriminalitet då det skulle gagna arbetet mot arbetslivskriminalitet och människohandel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.4",
+      "sentiment": -0.5,
+      "quote": "Vi anser att det finns en ördel med att behålla funktionen hos Polismyndigheten eftersom det säkerställer ett bra informationsfl öde, til I gång till sekretessbel agd information o ch underrättelser samt tillgång till nyckelpersoner på myndigheter och organisationer.",
+      "quote_type": "grund"
+    }
+  ]
+}

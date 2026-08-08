@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/lansstyrelsen-i-jamtlands-lan": "eb018eae9db9b85b33e99ffc66f8a5f58fec810d6b43c9289d78b1b2f10d704d",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten gör bedömningen att det i lagstiftningen behöver tydliggöras hur tolkning av rätten att ta del av data ska göras samt vilken ansvarsfördelning som ska råda mellan parter för att säkerställa möjligheter att genomföra datadelning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.11.3",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen vill belysa att betänkandets formulering om ”allmänt nödläge”, som nyttjas inom området, inte har någon direkt motsvarighet i den svenska krisberedskaps- och beredskapslagstiftningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.4",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker utredningens förslag att regeringen ger Myndigheten för civilt försvar i uppdrag att stödja svenska offentliga organ i deras arbete med att förbereda för att vid behov begära, ta emot och använda data med stöd av kapitel V i dataförordningen för att hantera allmänna nödlägen.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

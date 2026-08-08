@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/elsakerhetsverket": "2cee104b94156242b818d8b5b9676f49d4e749baa0a589440e953a10a5de42e9",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Elsäkerhetsverket tillstyrker de kompletterande bestämmelser som föreslås och att Post- och telestyrelsen utses som huvudansvarig marknadskontrollmyndighet för EU:s cyberresiliensförordning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.6.9",
+      "sentiment": 1.0,
+      "quote": "Elsäkerhetsverket tillstyrker de kompletterande bestämmelser som föreslås och att Post- och telestyrelsen utses som huvudansvarig marknadskontrollmyndighet för EU:s cyberresiliensförordning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec120",
+      "sentiment": 0.0,
+      "quote": "Elsäkerhetsverket konstaterar dock att EU:s cyberresiliensförordning ger myndigheten ett utökat uppdrag avseende den marknadskontroll avseende AI-system med hög risk enligt artikel 6 i förordning (EU) 2024/16893 som föreslås tilldelats myndigheten genom Betänkandet Anpassningar till AIförordningen – (SOU 2025:101).",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:70/arbetsgivarverket": "0e2cfd39f2c2497f9b57ad0006f96c3a4dd0b69e5341646d5a944120a89f5955",
+      "artifact:forarbete/sou/2025-70": "21e44eb2249e2dea5d04cd086cfbcb6c4e9713b1194aa26cb56bec2ae0339e9b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Arbetsgivarverket anser, som en följd av att vi lever allt längre och har behov av framtida pensioner på en acceptabel nivå, att det finns behov av att skapa förutsättningar för ett längre arbetsliv.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2.4",
+      "sentiment": 0.5,
+      "quote": "Den lösning som föreslås av utredningen är inte klar och tydlig och kan därmed leda till att fler tvister uppkommer mellan arbetstagare och arbetsgivare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 0.8,
+      "quote": "Mot bakgrund av att parterna har varit delaktiga i lagstiftningsarbetet samt ges utrymme att ändra redan ingångna kollektivavtal innan lagändringarna träder i kraft, motsätter sig inte Arbetsgivarverket den föreslagna övergångsbestämmelsen.",
+      "quote_type": "grund"
+    }
+  ]
+}

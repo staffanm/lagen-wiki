@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/lansstyrelsen-i-hallands-lan": "b08af4285553b689b402ef482b8eaef341037ce53fe0012b40bb111ace20d81b",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen är i stort positiv till förslagen i utredningen exempelvis att den som driver Byanät ska få samma rättigheter som operatörer har.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen anser att det är positivt att den som driver så kallade Byanät, för att gynna utbyggnaden, föreslås få samma rättigheter som operatörer har i GIA.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen befarar att konsekvenserna av att ta bort kraven i lagtexten och ersätta med enbart hänvisning till annan lag skulle bli att kravet kommer att missas i handläggning och beslut kring bygglov och startbesked.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker den alternativa lösningen i betänkandet (avsnitt 17.1.2, s. 256 - 257), där egenskapskravet på bredbandsanslutning finns kvar i PBL och dess tillhörande förordningar men kompletteras med ett tillägg att bestämmelsen också kan finnas i EU-förordningar.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

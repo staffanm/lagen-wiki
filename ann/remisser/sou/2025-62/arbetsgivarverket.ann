@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/arbetsgivarverket": "f0b9e9571290ae89b934803634cf0061441d555295aed9524f5751e32d25f6ee",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Arbetsgivarverket tar inte ställning kring frågan om vem som bör äga huvudmannaskap över hälso-och sjukvården, ej heller avseende om den statliga styrningen i sig bör bli mer omfattande eller inte.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.1",
+      "sentiment": -0.5,
+      "quote": "Det skulle få stora arbetsrättsliga konsekvenser i fråga om anställningsvillkor men även i förhållande till den statliga särregleringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": 0.5,
+      "quote": "Arbetsgivarverket vill dock, i linje med betänkandets egen slutsats härom, inskärpa nödvändigheten i att uppföljande utredning tillsätts i syfte att fastställa om, och i så fall på vilket sätt, den statliga styrningen kan utökas om förslagen realiseras.",
+      "quote_type": "grund"
+    }
+  ]
+}

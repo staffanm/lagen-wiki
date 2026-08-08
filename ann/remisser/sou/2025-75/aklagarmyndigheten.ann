@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:75/aklagarmyndigheten": "6c6ca8697d7a4f83c8fad5d809c666005ae1226abfe41cf201c4d4e172ea6350",
+      "artifact:forarbete/sou/2025-75": "6c1747356aef8861690e0e55231a670ab88642b59dc2975b505edeeb781a1461"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Åklagarmyndigheten tillstyrker utredningens förslag om utökade befogenheter i Skatteverkets brottsbekämpande verksamhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 1.0,
+      "quote": "Åkagarmyndigheten instämmer till fullo i utredningens bedömningar om att Skatteverket inte bör få inleda eller leda förundersökning",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 1.0,
+      "quote": "att Polismyndigheten inte bör få begära biträde av Skatteverket",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec9",
+      "sentiment": 1.0,
+      "quote": "att Skatteverket inte bör få utfärda strafföreläggande",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 1.0,
+      "quote": "Vi delar också bedömningen att det inte bör införas anmälningsskyldighet för enskilda om annan persons bosättningsuppgifter eller avseende andra uppgifter om egna förhållanden än bosättningsuppgifter.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.6.2",
+      "sentiment": -0.5,
+      "quote": "Åklagarmyndigheten anser vidare, till skillnad mot vad som lyfts i det särskilda yttrandet av experterna Jeanette Thorell och Dan Ekeroth, att det inte finns skäl att låta Skatteverket få verkställa vissa beslut om husrannsakan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec15",
+      "sentiment": 0.5,
+      "quote": "Vi anser däremot, av skäl som framförts i de två särskilda yttrandena, att det är angeläget med närmare utredning och ställningstagande till om en sådan lagring är möjlig utifrån EU-rättsliga överväganden.",
+      "quote_type": "grund"
+    }
+  ]
+}

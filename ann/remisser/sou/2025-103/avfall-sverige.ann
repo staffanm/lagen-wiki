@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:103/avfall-sverige": "6b6f02575a4c43e2f396a500b408a20376c71a5441d346a67fb48f0028ab98fd",
+      "artifact:forarbete/sou/2025-103": "3494f54a32c4c4ce08c80df5c6f1304db463ec2825930548fa2363c4c69ec03f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Avfall Sverige anser att det är av största vikt att avfall som har förberetts för återanvändning undantas från den kommande lagens tillämpningsområde i enlighet med vad som anges att ”reparationer eller annan verksamhet som inte medför väsentliga ändringar” inte bör omfattas av skadeståndsansvar enligt direktivet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2.1",
+      "sentiment": -0.5,
+      "quote": "Detta i syfte att inte hämma förberedelsen för återanvändning av avfall och därmed EUs ambition om en cirkulär ekonomi.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec75",
+      "sentiment": -0.5,
+      "quote": "Det är därför viktigt att det regleras ett tydligt undantag med denna innebörd i den kommande lagen och att hänvisning görs till definitionen av förberedelse för återanvändning i 15 kap. 6 § miljöbalken .",
+      "quote_type": "grund"
+    }
+  ]
+}

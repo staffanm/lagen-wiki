@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/dagligvaruleverantorerna": "05471e7f9a5aa15a6356c573daac5095afe4a428c6965efba79f2407a06c9af8",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslaget är ett välkommet steg mot minskat matsvinn och kommer att underlätta för företag som vill donera överskottslivsmedel och stärka samverkan mellan leverantörer och ideell sektor.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": 1.0,
+      "quote": "Vi anser att detta förslag ökar rättssäkerheten, minskar den administrativa bördan och tar bort ett långvarigt osäkerhetsmoment för företag i livsmedelskedjan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": -0.5,
+      "quote": "Vi anser detta vara olyckligt eftersom ett flertal sådana varor – vid sidan av livsmedel - är avgörande för att kunna leva ett drägligt liv, inte minst sköta sin hygien.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/lansstyrelsen-i-vastra-gotalands-lan": "b95766e211f7c93b275ce5aa471e27509eb7353fdafcd8b3b5ca440dbec1ce4f",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen ser dock att det finns vissa risker med förslaget, såsom ökade tolkningssvårigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen är positiv till att partivalsedlarna tas bort som ett led i att minska antalet valsedlar, se dock kommentar under avsnitt 7.5.4.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.4",
+      "sentiment": 0.2,
+      "quote": "Detta kan komma att leda till att Länsstyrelsen under den slutliga sammanräkningen kommer att få fler oklara valsedlar att bedöma, då det oftare behöver tolkas vilket parti/kandidat väljaren avser att rösta på.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.5",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen är positiv till förslaget, men med samma påpekanden som i avsnitt 7.5.4.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen delar de slutsatser som kommittén anför gällande att olika listor skapar merarbete med Länsstyrelsen sammanräkning och kan göra det svårt att förutse vilka av partiernas kandidater som kommer att tillsättas på ett partis mandat.",
+      "quote_type": "grund"
+    }
+  ]
+}

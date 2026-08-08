@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:69/lansstyrelsen-i-gotlands-lan": "ba43bf3f3f9b0c6dcdf9ae370ebfdcd816679596d46fbde196b1a6b0b95e893e",
+      "artifact:forarbete/sou/2025-69": "e9fe403717ef019299c4fc8689d9fb71197ea9f2a8ad889130b543582d2661a1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen Gotland tillstyrker i huvudsak utredningens förslag för effektivare samverkan i hanteringen av zoonoser.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen Gotland tillstyrker förslaget om att kommunernas ansvar för hantering av smittor hos sällskapsdjur tas bort.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 0.2,
+      "quote": "För att förslaget till lagändring ska få avsedd effekt bör det i lagen definieras, eller hänvisas till skrivningar i annan lagstiftning, vilka sjukdomar som omfattas av begreppet ”allvarlig smittsam sjukdom”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": 1.0,
+      "quote": "Tillstyrks",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen anser att det borde finnas en möjlighet att lämna ut information till stabsläkare eller stabsveterinär inom Försvarsmakten samt till berörd besättningsveterinär.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.9",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen välkomnar förtydligandet av uppdrag kring arbete som myndigheten redan utför men behöver ökat anslag för att ytterligare kunna resurssätta arbetsområdet.",
+      "quote_type": "grund"
+    }
+  ]
+}

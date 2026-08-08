@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/forvaltningsratten-i-malmo": "085fc380f279a0eecaec0fa4c45f9c887d9a01eb7ba4aaec282bcb92b5dae694",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Det saknas enligt förvaltningsrätten en utförlig analys av den nuvarande hanteringen av sådana ärenden, vilket gör att slutsatserna framstår som bristfälligt underbyggda.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec612",
+      "sentiment": 1.0,
+      "quote": "Förvaltningsrätten delar utredarens slutsatser angående tvångsåtgärder i avsnitt 12.16.2.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.9",
+      "sentiment": -0.5,
+      "quote": "Det saknas enligt förvaltningsrätten en utförlig analys av den nuvarande hanteringen av sådana ärenden, vilket gör att slutsatserna framstår som bristfälligt underbyggda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec583",
+      "sentiment": -0.5,
+      "quote": "Förvaltningsrätten anser därför att lämpligheten i att koncentrera ärendena till en domstol, liksom resursbehovet måltillströmningen kommer innebära, inte kan bedömas utifrån underlaget i utredningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

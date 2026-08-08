@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/byggforetagen": "807a4a727a5d81270e6f2a56e03f69b2d9b6730fe0fb46680c4398a07aec93bc",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Byggföretagen anser att utredningens förslag om ett statligt bolag är ett strategiskt viktigt beslut som kan bidra till en modernisering och effektivisering av svensk transportinfrastruktur.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec6",
+      "sentiment": 1.0,
+      "quote": "Långsiktighet: Möjligheten till fleråriga anslagsramar och en samlad portfölj av objekt skapar den förutsägbarhet som marknadens aktörer behöver för att investera i kompetens och innovation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 1.0,
+      "quote": "Byggföretagen ser också positivt på att offentlig-privat samverkan (OPS) lyfts fram som ett centralt verktyg för att stärka kontrollen över tid och budget samt främja innovation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.2",
+      "sentiment": -0.5,
+      "quote": "Utan denna möjlighet går Sverige miste om en av de stora fördelarna med alternativ finansiering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": -0.2,
+      "quote": "Uppföljningen av svenskt infrastrukturbyggande är bristfällig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec138",
+      "sentiment": -1.0,
+      "quote": "Att låta Trafikverket förvalta OPS-modellen inom sina befintliga strukturer riskerar att konservera snarare än att förnya arbetssätten.",
+      "quote_type": "grund"
+    }
+  ]
+}

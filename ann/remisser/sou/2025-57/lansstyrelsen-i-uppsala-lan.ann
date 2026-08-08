@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:57/lansstyrelsen-i-uppsala-lan": "2cbb0808d24a6bdf5efa4991a4d03ab458ea5159cf89e17a92441caa4de3173a",
+      "artifact:forarbete/sou/2025-57": "8cf9bb514d6bbb185bf9bc093699cb8e4192e8a8f7352a55e97006d808786230"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen ser positivt på framförda lagförändringar som bättre harmoniserar med samhällets utveckling och dagens omvärldsläge.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.13",
+      "sentiment": 1.0,
+      "quote": "Polisers status har stor betydelse för civila totalförsvarsmyndigheters förutsättningar att ta emot stöd av och arbeta tillsammans med Polismyndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.11",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen Uppsala län instämmer i utredningens förslag om att upphäva nuvarande lagstiftning och i stället införa ny lag och förordning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.11.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer även i förslaget att Polismyndigheten ska vara samordningsansvarig myndighet med skyldighet att samverka med Tullverket, Kustbevakningen och Försvarsmakten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.11.4",
+      "sentiment": 0.2,
+      "quote": "Det behöver dock förtydligas att samverkan och samordning behöver ske med länsstyrelser utifrån deras geografiska områdesansvar och i rollen som länets högsta civila totalförsvarsmyndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.11.5",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av otydlighet och förvirring kring vilket begrepp som används för att beskriva ansvarsförhållanden och geografiskt ansvarsområde behövs det en genomgående översyn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen Uppsala län delar därmed inte utredarens bedömning eftersom kostnader som kommer av ny lagstiftning, även låga sådana, kommer att innebära en ökning för länsstyrelserna.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:123/kammarratten-i-jonkoping": "407c86fb826968649902c1d391cdaf2d65a954494344237328c56eb02238b86f",
+      "artifact:forarbete/sou/2025-123": "c831d59e895bbc7c3d3bcecad3d6575c5ea79fb529bc06a8743a4e492daded7b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarrätten, som inte har något att erinra mot slutbetänkandets förslag i övrigt utifrån de utgångspunkter domstolen har att beakta, lämnar följande synpunkter på författningsförslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec141",
+      "sentiment": 0.2,
+      "quote": "Detta med hänsyn till utredningens slutsats att sådana brister som förekommer i en verksamhet som den enskilde är huvudman för, men i en annan skolform än den som ansökan avser, ska beaktas vid bedömningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.2,
+      "quote": "Kammarrätten anser att det finns anledning att överväga lämpligheten av att ge bestämmelserna om godkännande retroaktiv verkan på detta sätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

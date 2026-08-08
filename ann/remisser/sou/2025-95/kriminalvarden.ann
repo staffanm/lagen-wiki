@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:95/kriminalvarden": "7b68cd0f51543b38ccef4d141117e1cf67985329ace94b677f8663fabbbc0bca",
+      "artifact:forarbete/sou/2025-95": "613ac92cd1fc517e8bc3ec573b279ef426ca513eb1305ec1af52d26309784bd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kriminalvården har, utifrån de aspekter som myndigheten har att beakta, i sak inga synpunkter på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.8",
+      "sentiment": 0.2,
+      "quote": "Det finns dock enligt Kriminalvårdens uppfattning en osäkerhet kring hur stora de tillkommande transportvolymerna för myndigheten kommer att vara.",
+      "quote_type": "grund"
+    }
+  ]
+}

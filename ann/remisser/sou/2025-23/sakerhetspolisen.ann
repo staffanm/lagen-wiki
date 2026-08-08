@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:23/sakerhetspolisen": "c83e60917d14e693a6420f0e9c9057ff5536003d032326812177df190c3df43f",
+      "artifact:forarbete/sou/2025-23": "b2d48664048a020b85b19246d070df9c345abde883c4cd3cafb969951f44570e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Säkerhetspolisen välkomnar förslaget om att civilanställda vid Polismyndigheten och Säkerhetspolisen ska ha samma rätt till ersättning som polismän för sakskador enligt ersättningsförordningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": 1.0,
+      "quote": "Säkerhetspolisen välkomnar förslaget om att civilanställda vid Polismyndigheten och Säkerhetspolisen ska ha samma rätt till ersättning som polismän för sakskador enligt ersättningsförordningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.6.1",
+      "sentiment": 0.5,
+      "quote": "Säkerhetspolisen är en brottsbekämpande myndighet som arbetar mot våldsbejakande miljöer. Myndighetens anställda har samma behov av en möjlighet till ersättning till följd av säkerhetsåtgärder som faller utanför det särskilda personsäkerhetsarbetet som anställda vid Polismyndigheten.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/vallentuna-kommun": "29c5048480f649dd56046f423f124f29f2ab702fb6fcc8372a310a0300d4bd44",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vallentuna kommuns mest prioriterade fråga för förbättrad tillgänglighet till Arlanda är Roslagsbanan till Arlanda.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec300",
+      "sentiment": 0.2,
+      "quote": "Vallentuna ser en expressbussatsning som en första del av utvecklingen för Arlanda, men inte som enda lösning och en expressbuss kommer inte att ersätta behovet av en förlängd Roslagsbana.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec274",
+      "sentiment": -0.5,
+      "quote": "Vallentuna kommun anser att det orimligt att det inte ska kunna gå att genomföra mer omfattande åtgärder på väg 268.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec345",
+      "sentiment": -0.2,
+      "quote": "Roslagsbanan till Arlanda har redan en högre nettovärdeskvot än många andra uppstartade projekt och satsningen är samhällsekonomisk lönsam.",
+      "quote_type": "grund"
+    }
+  ]
+}

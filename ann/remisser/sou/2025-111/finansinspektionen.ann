@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/finansinspektionen": "808acc748dc909258a0017122cbd2992042a97db97cf70ddf6961d216cb2a999",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "FI tillstyrker utredningens förslag att det ska vara möjligt för den enskilde att i förvaltningsdomstol få ersättning för kostnader för ombud, biträde eller utredning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.7",
+      "sentiment": 0.5,
+      "quote": "Vi bedömer att det på ett mer direkt sätt kommer att tillgodose de krav som ställs enligt artikel 6.1 i Europakonventionen och 2 kap. 11 § regeringsformen än vad som är fallet i dag när den enskilde måste initiera en skadeståndstalan eller vända sig till Justitiekanslern.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.7.3",
+      "sentiment": -0.5,
+      "quote": "För att inte frångå den systematik som redan finns kring kostnadsansvaret, och eftersom kostnaderna till största del kommer att härröra från statliga förvaltningsmyndigheter, förordar FI därför att staten genom allmänna medel ska stå för detta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4.4",
+      "sentiment": 1.0,
+      "quote": "Givet den stora osäkerhet kring kostnadsberäkningen som finns, och såvida det inte i det fortsatta lagstiftningsarbetet görs någon sådan förändring som FI förespråkar kring utformningen av kostnadsansvaret, tillstyrker FI utredningens bedömning att konsekvenserna av regleringen bör följas upp en tid efter att regleringen trätt i kraft.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5",
+      "sentiment": 0.2,
+      "quote": "För att utforma en rättslig reglering som harmonierar med befintlig bör rättegångskostnader i stället ersättas med ersättning för kostnader för ombud, biträde eller utredning eller något motsvarande.",
+      "quote_type": "grund"
+    }
+  ]
+}

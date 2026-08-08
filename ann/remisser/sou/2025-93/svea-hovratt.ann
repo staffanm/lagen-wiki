@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:93/svea-hovratt": "e09c91dbb23815401982584054f90f6e73cd3cc71805bdfad938a536e4e20c60",
+      "artifact:forarbete/sou/2025-93": "201aa2c9468bea44887a18a07b9556294fb64c34f2aea6d2f31ad09b58f302f0"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Mark- och miljööverdomstolen begränsar sitt remissvar till de delar som berör frågor som kan komma under domstolens prövning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "Utan kännedom om skyddsdikning blir det svårare för myndigheten att följa upp påverkan på omgivningen och säkerställa att åtgärden inte har en sådan varaktig effekt att den utgör markavvattning enligt miljöbalken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec592",
+      "sentiment": -1.0,
+      "quote": "Enligt Mark- och miljööverdomstolen bör därmed bestämmelsen redan i sin nuvarande lydelse kunna tillämpas i de situationer som utredningen tar upp.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": -0.5,
+      "quote": "Domstolen är tveksam till utredningens bedömning att ett mer förebyggande och strategiskt arbete kan genomföras inom ramen för myndigheternas befintliga budget och att kostnader kopplade till skydd för specifika livsmiljöer kan finansieras genom befintliga anslag för skydd av naturområden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.7",
+      "sentiment": -0.5,
+      "quote": "Detta innebär troligtvis en underimplementering av fågeldirektivet.",
+      "quote_type": "grund"
+    }
+  ]
+}

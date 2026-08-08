@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:112/boverket": "f404bc26fec6e8506284f4b2a61a37130bea4081223a2dff6ca3f9233bb673d9",
+      "artifact:forarbete/sou/2025-112": "327d2d12c90657abd95e45e3d5371180d3dc968a3250c1269d1486751bc6c593"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Boverket tillstyrker Finansdepartementets remiss ”Verktyg för skydd av EUmedel – Rättsliga förutsättningar för svenska myndigheter att använda Arachne och Edes (SOU 2025:112)”.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": -0.2,
+      "quote": "Ansvarsfördelningen mellan Boverket och länsstyrelsen är i dagsläget otydlig när det gäller hantering av EU-medel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.0,
+      "quote": "Passiv användning av Edes bör kunna administreras på varje myndighet var för sig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": -0.5,
+      "quote": "Att manuellt överföra uppgifter från Bofinc till Arachne ser Boverket i dagsläget inte som ett alternativ, då det skulle medföra en oproportionerligt stor administrativ insats.",
+      "quote_type": "grund"
+    }
+  ]
+}

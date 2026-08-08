@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:35/lansstyrelsen-blekinge": "06b58434b005956ca42c29a43335ec2a844bbb2ae07615364b7290afbc472af7",
+      "artifact:forarbete/sou/2025-35": "714b8500e63e7332a0838b0ab133e0525ceab22d4636b418ba3d2ac111780a44"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen i Blekinge ställer sig generellt positiv till stora delar av utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4.2",
+      "sentiment": -0.5,
+      "quote": "Utredningens förslag innebär att samrådsprocessen kommer att bli mer komplex och kräva mer tid och resurser av de involverade myndigheterna än idag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.4",
+      "sentiment": 0.2,
+      "quote": "Med en mer komplex fördelningsmodell bedömer vi att det är för sent för länsstyrelserna att komma in i informationsprocessen först när anvisningstalen redan är fastställda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen är positiv till utredningens förslag om att myndigheten ges i uppdrag att föra dialog med kommunerna i länet för att främja kommunernas arbete med att planera sitt mottagande.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.3",
+      "sentiment": -0.2,
+      "quote": "Utredningens förslag om ett tidsbegränsat kommunalt ansvar att erbjuda etableringsboende medför risker som kan motverka nyanländas etablering på arbetsmarknaden och långsiktig bostadstrygghet, vilket riskerar att leda till att de integrationspolitiska målen inte nås.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 0.2,
+      "quote": "Risken är annars att kommuner aktivt medverkar till bosättning i annan kommun, så kallad social dumpning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen ser att det finns en risk att den skrivning som föreslås av utredningen kan leda till att länsstyrelsernas arbete fokuseras på boendefrågorna på bekostnad av annan kommunal verksamhet inom integrationsområdet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18.7.3",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelserna har också fortsatt ett brett integrationsuppdrag och har under senare år fått utökade arbetsuppgifter inom bosättningsprocessen, bland annat kopplat till nyanlända från Ukraina, utan att länsstyrelsernas finansiering utökats.",
+      "quote_type": "grund"
+    }
+  ]
+}

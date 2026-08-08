@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:75/svenska-bankforeningen": "6f9889e1ed10eb8d1d5d505f28052bb13b1679b6ade4dee950e6dbfa61b3d1af",
+      "artifact:forarbete/sou/2025-75": "6c1747356aef8861690e0e55231a670ab88642b59dc2975b505edeeb781a1461"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Åtgärder som stärker de två processerna är positivt för hela samhället.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a26.2",
+      "sentiment": 1.0,
+      "quote": "Det handlar om att så långt som möjligt etablera en gemensam nationell utfärdandeprocess för identiteter i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a26.9.1",
+      "sentiment": -0.2,
+      "quote": "För Bankföreningen är det oklart varför Skatteverket inte ska få lagra de biometriska uppgifterna för EU/EES-medborgare.",
+      "quote_type": "grund"
+    }
+  ]
+}

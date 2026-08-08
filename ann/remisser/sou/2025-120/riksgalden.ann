@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/riksgalden": "8e89ddcbd1d350c5901dcb15d58f17235650cfe7e908f1bd5947549142170761",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "I detta sammanhang vill Riksgälden särskilt lyfta några risker kopplat till den privata finansieringen i OPS-lösningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec61",
+      "sentiment": -0.5,
+      "quote": "Statliga bolag har dock inte konto i Riksgälden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec129",
+      "sentiment": -0.5,
+      "quote": "En viktig nackdel med OPS är den högre finansieringskostnaden för projekt till följd av den privata finansieringen.",
+      "quote_type": "grund"
+    }
+  ]
+}

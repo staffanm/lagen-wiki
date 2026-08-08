@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/skelleftea-kommun": "50b0c3c892b77141b3438a2cfe426cecc648262c649d168ce2063ecaa9c8b32c",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.6,
+    "quote": "Skellefteå kommun anser att en stor del av de förslag som lagts fram i utredningen kommer försämra och försvåra för den kommunala lantmäterimyndigheten att utföra sitt uppdrag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": -0.5,
+      "quote": "Fler myndigheter som utför samma uppdrag inom en kommuns skapar en otydlighet mot sakägare och invånare och försvårar kommunens överblick över pågående samhällsutvecklingsprojekt och infrastrukturprojekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": -0.5,
+      "quote": "Minskad möjlighet till myndighetsservice och rådgivning kommer leda till längre och dyrare processer både inom fastighetsbildning och inom detaljplanarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": -0.5,
+      "quote": "Att helt skiljas från övriga kommunala stödfunktioner gör att varje enskild KLM ensamt tvingas bära kostnader för egen personal inom bland annat IT, HR, ekonomi.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.6.1",
+      "sentiment": 0.2,
+      "quote": "Skellefteå kommun välkomnar enhetlighet gällande taxor och avgifter på en nationell nivå men de kommunala lantmäterimyndigheternas förutsättningar måste beaktas vid framtagande av dessa nivåer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.3.1",
+      "sentiment": 0.5,
+      "quote": "Ett gemensamt ärendehanteringssystem är bra både ur ett informationssäkerhetsperspektiv och det bidrar till en mer sömlös hantering av ärenden och handlingar som ska överföras mellan SLM och KLM.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.3.1",
+      "sentiment": -0.5,
+      "quote": "Skellefteå kommun bedömer att det finns en rollkonflikt i att SLM utövar tillsyn på annan myndighet som utför samma uppdrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

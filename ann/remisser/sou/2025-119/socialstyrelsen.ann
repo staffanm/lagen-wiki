@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:119/socialstyrelsen": "5f1d00b4ee9bfb330035711f57c8f2d34793e032165c37d3c935bad32d8c654c",
+      "artifact:forarbete/sou/2025-119": "4ffe1b3a3b8b7263d217456e1fadfaf32122d48eff13747b01cb521abb874202"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Socialstyrelsen tillstyrker utredningens förslag och delar de bedömningar som berör myndighetens verksamhetsområde.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": -0.2,
+      "quote": "Utifrån myndighetens arbete på donations- och transplantationsområdet ser vi att det saknas uppgifter i de delar som rör uttag av organ, som kan vara ett syfte för exploatering av människor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": -0.2,
+      "quote": "Även i avsnitt 3.5 Förslag i andra utredningar saknar vi referens till utredningen SOU 2019:1 Santiagokonventionen mot organhandel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5.2",
+      "sentiment": 0.2,
+      "quote": "Socialstyrelsen anser att detta behöver förtydligas i den fortsatta beredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5.3",
+      "sentiment": 1.0,
+      "quote": "Myndigheten ser att en sådan kartläggning på systemnivå möjliggör en bred analys av behov av och tillgång till boendelösningar som erbjuds offer för människohandel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": -0.2,
+      "quote": "Myndigheten anser att det finns behov av att i den fortsatta beredningen förtydliga det samt analysera om behovet tillgodoses genom den befintliga regleringen i OSL, eller om det finns behov av en separat sekretessbrytande bestämmelse.",
+      "quote_type": "grund"
+    }
+  ]
+}

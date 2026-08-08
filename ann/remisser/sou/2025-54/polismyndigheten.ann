@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:54/polismyndigheten": "3c61e124c1f034973c80a7995eee0645e6f06260d67cda1275c2ed73556e94e0",
+      "artifact:forarbete/sou/2025-54": "7aaeb3a04e899501717f3265fee63505ccf9529ba9e8e7301f283a0cd3c94fac"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Polismyndigheten har inte några invändningar mot förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.2,
+      "quote": "om Migrationsverket ska överta prövningen av utvisningar måste detta föregås av en utredning för att konsekvenserna ska kunna omhändertas av berörda myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 0.2,
+      "quote": "det saknas noggrannare överväganden i utredningen rörande utvisningsfrågan i förhållande till relevanta snabbspår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6.2",
+      "sentiment": 1.0,
+      "quote": "När brottsligheten inte är tillräckligt svår för att Migrationsverket ska kunna återkalla skyddsstatusen medför dock detta betydande svårigheter för Polismyndigheten i verkställighetsarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4.3",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten är positiv till förslaget om att skärpa straffskalan för brott enligt 20 kap. 5 § utlänningslagen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.3.1",
+      "sentiment": -0.5,
+      "quote": "kostnaderna inte ryms inom myndighetens befintliga ekonomiska ramar.",
+      "quote_type": "grund"
+    }
+  ]
+}

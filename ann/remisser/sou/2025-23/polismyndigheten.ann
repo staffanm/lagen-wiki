@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:23/polismyndigheten": "cf9a9638afa2aecdb3bf73fc05e5e06471feaf77e6205b3dc1e3aebd67d8478c",
+      "artifact:forarbete/sou/2025-23": "b2d48664048a020b85b19246d070df9c345abde883c4cd3cafb969951f44570e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det är av stor vikt att brottsoffers rätt till ersättning stärks och Polismyndigheten anser att de i utredningen angivna förslagen kommer bidra till detta.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.17",
+      "sentiment": -0.5,
+      "quote": "Eftersom Polismyndigheten har mandat att bestämma över sin egen organisation i dessa avseenden är det mer ändamålsenligt med en mer generell utformning av bestämmelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec11",
+      "sentiment": -0.2,
+      "quote": "Polismyndigheten anser vidare att frågan om polisers rätt till kränkningsersättning är av stor betydelse för myndigheten samt är av uppfattningen att kraven för att få ersättning fortfarande är för höga och att domstolarna fortfarande är restriktiva i sina bedömningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten delar de bedömningar som görs avseende konsekvenserna av förslagen.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

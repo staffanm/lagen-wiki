@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:47/kungl.-tekniska-hogskolan": "91cc36d634a4a5079d4d868931f803397bd1765374aa03e2c1c3dc307a074c53",
+      "artifact:forarbete/sou/2025-47": "1998cf0776597c0c9e6ddd14550096440acb7a8c6b7dd2c25e14ff07bc80a796"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "KTH instämmer i analysen om riskerna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec10",
+      "sentiment": -0.5,
+      "quote": "Om man då inte får in någon ny konsumtion, så kommer det rycka undan ekonomin för den existerande elproduktionen, eller produktion som inte kan få CFD:er.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec241",
+      "sentiment": -0.5,
+      "quote": "Dessutom blir det enbart den elproduktion som får CFD:er som gynnas, medan annan produktion (t.ex. solceller, landbaserad vindkraft, kraftvärme, vattenkraft, gasturbiner) snarast missgynnas eftersom elpriset hamnar på en lägre nivå än det annars skulle hamnat på.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec212",
+      "sentiment": 0.5,
+      "quote": "KTH instämmer i detta.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.2,
+      "quote": "Men, det är viktigt att de som orsakar behov av mekanisk rotationsenergi, då också är med och betalar för detta behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.8",
+      "sentiment": 0.2,
+      "quote": "Om man får betalt av marginalnyttan så kan vattenkraftverk eller kärnkraftverk anslutna till transmissionsnätet få ersättning för vad det skulle kosta Svenska kraftnät att bygga en reaktiv effektkompensering i punkten, vilket är orimligt.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/krokoms-kommun": "5ad57f5f77ae2f66f6908849c7d2007bed1eaaf3337ab631dc7c57f9d43b8d8c",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Regeringen bör anstränga sig för att förstå de regionala och lokala förutsättningarna och skapa förutsättningar för samordning och samverkan mellan myndigheter, regioner och kommuner på nationell, regional och lokal nivå.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 0.5,
+      "quote": "Överlappning riskerar att leda till dubbelarbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec155",
+      "sentiment": 1.0,
+      "quote": "Olika kompetenser, erfarenheter och perspektiv bör tas tillvara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec72",
+      "sentiment": 0.2,
+      "quote": "Det kan därför finnas skäl till en asymmetrisk ansvarsfördelning där hänsyn tas till både geografi och demografi.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": -0.2,
+      "quote": "Ur ett kommunalt perspektiv är upplevelsen ofta att olika myndigheter ställer krav som är svåra att kombinera eller till och med motverkar varandra.",
+      "quote_type": "grund"
+    }
+  ]
+}

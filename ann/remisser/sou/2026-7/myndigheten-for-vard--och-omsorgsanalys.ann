@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:7/myndigheten-for-vard--och-omsorgsanalys": "7486fa843dd4a2de60549fbcf30692392cb5cf5488b76ab58559deb664c7a296",
+      "artifact:forarbete/sou/2026-7": "7a846bbd7b56ef1c76f8c2a569d6204c1cff17ef01ba342d52cb501a13be5642"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten för delaktighet tillstyrker förslagen, men lämnar synpunkter på att funktionshindersperspektivet behöver integreras som helhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.3",
+      "sentiment": 0.2,
+      "quote": "Samtidigt finns en risk att insatser som har stor betydelse för personer med funktionsnedsättning undervärderas om analyserna främst bygger på effekter som är enkla att mäta eller utgår från en ”normalperson utan funktionshinder”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.4",
+      "sentiment": 0.2,
+      "quote": "metodhubben bör utveckla och sprida metoder för tillgänglig datainsamling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5",
+      "sentiment": 0.2,
+      "quote": "det finns särskilda utmaningar i att ta fram statistik som beskriver hälsa, levnadsvillkor och delaktighet för personer med funktionsnedsättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.2,
+      "quote": "Förslagen kan påverka vilka behov som synliggörs, vilka data som samlas in och vilka folkhälsoinsatser som prioriteras.",
+      "quote_type": "grund"
+    }
+  ]
+}

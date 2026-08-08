@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:57/bevakningsbranschens-yrkes--och-arbetsmiljonamnd": "10edaccb639e23c261af0d08d5de3394b22c7c1ae0a71a6d96b8411866cd80e2",
+      "artifact:forarbete/sou/2025-57": "8cf9bb514d6bbb185bf9bc093699cb8e4192e8a8f7352a55e97006d808786230"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Bevakningsbranschen: 1. Välkomnar utredningens förslag att införa ett system med reservpoliser.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.5,
+      "quote": "Branschen anser att det bör utredas hur en utökad användning av ordningsvakter inom Polismyndighetens verksamhet ytterligare kan tillgodose myndighetens behov av personalförstärkning i höjd beredskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.13",
+      "sentiment": -1.0,
+      "quote": "En sådan förändring skulle riskera att urholka polisens möjligheter att på ett effektivt sätt fullgöra sina uppgifter vid ett väpnat angrepp mot Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9.3",
+      "sentiment": 0.5,
+      "quote": "Ett flexibelt system för att snabbt kunna skydda samhällsviktiga verksamheter är en nödvändig förstärkning av det svenska säkerhetsskyddet.",
+      "quote_type": "grund"
+    }
+  ]
+}

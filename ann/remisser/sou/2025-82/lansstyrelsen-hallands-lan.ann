@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/lansstyrelsen-hallands-lan": "f2f3da6b6810ea56a0fe13af66b22c2f0c4d21c9737e12590d9d43728a087045",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Länsstyrelsen i Hallands län tillstyrker samtliga förslag i slutbetänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.1",
+      "sentiment": 1.0,
+      "quote": "Huvudskälen mot en utökad möjlighet för vissa aktiebolag är bristande konkurrensneutralitet mellan lantbruksföretagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20",
+      "sentiment": 1.0,
+      "quote": "Utredningens förslag gällande glesbygdsbestämmelser tillstyrks.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a20.2.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen anser att det är bra om man tar bort kravet på inlösenskyldighet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a20.3.2",
+      "sentiment": 1.0,
+      "quote": "Dessa ansökningar är onödiga.",
+      "quote_type": "grund"
+    }
+  ]
+}

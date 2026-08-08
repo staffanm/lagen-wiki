@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/socialstyrelsen": "a3fedb5f9f4e5d23cc477f7e2e4280c25d3c0e060a01d0515c98ba7084608a85",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Socialstyrelsen har avgränsat yttrandet till frågor som rör myndighetens verksamhetsområde.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.15.3",
+      "sentiment": -0.5,
+      "quote": "En sådan bestämmelse skulle däremot slå hårt mot föräldrar i ekonomisk utsatthet och även ha en negativ påverkan på föräldra-barn-relationen i en redan utsatt situation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6.4",
+      "sentiment": 0.5,
+      "quote": "Brott som sker i nära relation kan vara förknippat med stora skam- och skuldkänslor för ett brottsoffer vilket kan leda till att många avstår från att anmäla brott.",
+      "quote_type": "grund"
+    }
+  ]
+}

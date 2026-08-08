@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/region-gotland-tekniska-namnden": "5b84508fdfda2fc4993ede39cb40710e7761f5da43688359a4abf8d96cf2316b",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Avsikten med reformen är god, men vissa av förändringarna som SOU 2025:80 föreslår bör justeras innan antagande.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec162",
+      "sentiment": -0.5,
+      "quote": "Region Gotland ser en risk med en sådan övergång, framför allt ur beredskapsperspektiv men också ur en privatpersons perspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.6",
+      "sentiment": -0.2,
+      "quote": "Om lagstiftaren inte ställer krav på vilken mätmetod som används till underlaget för överenskommelsen ser Region Gotland således att det finns en risk att koordinaterna i överenskommelsen inte stämmer med den fysiska punkt som fastighetsägarna avsett, eftersom Lantmäteriet vid prövningen av överenskommelsen inte ska göra någon djupare utredning av gränsens rätta sträckning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2",
+      "sentiment": -0.2,
+      "quote": "Den konstanta ökningen av kostnader och tid för att ta fram en detaljplan riskerar att leda till att färre detaljplaner tas fram, färre bostäder byggs och att utvecklingen hämmas inom kommunerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.4",
+      "sentiment": -0.2,
+      "quote": "För att få en förutsebar process där handläggningstiden hos lantmäteriet inte varierar över tid, saknas en mer definierad tidsram inom vilken ett sådant ärende ska hanteras, där det även säkerställs att en eventuell domstolsprövning kan hanteras utan att den nu föreslagna lagändringen medför en utökning av den tid det tar att ta fram en detaljplan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3",
+      "sentiment": 1.0,
+      "quote": "Registerkartan används av många aktörer i samhället, privatpersoner och professionella, och en förbättring av kvaliteten i kartan gynnar därmed hela samhället.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5.3",
+      "sentiment": 1.0,
+      "quote": "I praktiken kommer det sannolikt enbart att användas under planprocessen, men det innebär också en möjlighet att påbörja processen innan planbesked ens har lämnats.",
+      "quote_type": "grund"
+    }
+  ]
+}

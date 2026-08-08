@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:75/forsakringskassan": "ed0e589e27d3e07a53d36c175df0fc608e3b83c05678301db713a86a2c785f3e",
+      "artifact:forarbete/sou/2025-75": "6c1747356aef8861690e0e55231a670ab88642b59dc2975b505edeeb781a1461"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försäkringskassan anser att det är angeläget att samhällets samlade resurser används på ett effektivt sätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec61",
+      "sentiment": 0.5,
+      "quote": "utökade brottsutredande befogenheter för Skatteverket, i linje med det som framförs i det särskilda yttrandet från experterna Jeanette Thorell och Dan Ekeroth, skulle leda till ökad resurseffektivitet och att totalt sett fler skattebrott kan beivras",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18",
+      "sentiment": 0.5,
+      "quote": "talar intresset av en korrekt folkbokföring för att en anmälningsskyldighet till Skatteverket bör införas i enlighet med förslaget i bilaga 2 till betänkandet (avsnittet Utformningen av en ytterligare anmälningsskyldighet i folkbokföringslagen)",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec354",
+      "sentiment": 0.5,
+      "quote": "Försäkringskassan bedömer att förslagen kan bidra till ökad säkerhet i folkbokföringsverksamheten och identitetsförvaltningen och i förlängningen motverka felaktiga utbetalningar och bidragsbrott",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec540",
+      "sentiment": -0.5,
+      "quote": "Sammantaget bedömer Försäkringskassan att det saknas tillräckliga skäl för de begränsningar som utredningen föreslår i detta avseende",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a26.6.1",
+      "sentiment": -0.2,
+      "quote": "om lagringstiden begränsas på det sätt som utredningen föreslår finns det risk för att falska eller multipla identiteter inte upptäcks",
+      "quote_type": "grund"
+    }
+  ]
+}

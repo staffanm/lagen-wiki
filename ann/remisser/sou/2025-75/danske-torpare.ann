@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:75/danske-torpare": "28dc3511acd284ee94daac864fe1fc38407d99d65edd94466d3555e93095099f",
+      "artifact:forarbete/sou/2025-75": "6c1747356aef8861690e0e55231a670ab88642b59dc2975b505edeeb781a1461"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Danska Torpare har fokus på samordningsnummer och e-legitimation och instämmer i förslaget att Skatteverket skal kunna lagra biometriska uppgifter till förnyelse av samordningsnummer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a26.10",
+      "sentiment": 1.0,
+      "quote": "instämmer i förslaget att Skatteverket skal kunna lagra biometriska uppgifter till förnyelse av samordningsnummer",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a25.3",
+      "sentiment": 1.0,
+      "quote": "Det viktiga är att det blir en legitimation som kan ge danskar med styrkt samordningsnummer möjlighet att få BankID.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a26.10",
+      "sentiment": 0.5,
+      "quote": "så länga det är möjligt att bestämma en tid och det kan ske på en polisstation/kontor inom rimligt avstånd från där personen har sitt fritidshus",
+      "quote_type": "grund"
+    }
+  ]
+}

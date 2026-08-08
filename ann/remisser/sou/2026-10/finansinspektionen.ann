@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/finansinspektionen": "dcd80fb5b49e721a61923af29eca37819d5811728fc33e24c887f711db836ca7",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Finansinspektionen ställer sig bakom syftet att öka möjligheterna till tillgångsinriktad brottsbekämpning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.50",
+      "sentiment": -0.2,
+      "quote": "Skillnaden mellan dessa båda bemyndiganden, och om den skillnaden är avsedd, bör utredas vidare under den fortsatta beredningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

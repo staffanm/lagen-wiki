@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:57/sjofartsverket": "47f6f0239820ccd8d5e92f6b7065c9ed6a150f8c5bb33855fe76bb5404eb0db6",
+      "artifact:forarbete/sou/2025-57": "8cf9bb514d6bbb185bf9bc093699cb8e4192e8a8f7352a55e97006d808786230"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sjöfartsverket anser vidare att statlig samverkan är en styrka för staten och att nyttjandet av resurser inom staten underlättas av tydlig reglering.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.12",
+      "sentiment": -0.2,
+      "quote": "Samtidigt gör Sjöfartsverket bedömningen att utredningens förslag lägger för stor tyngd på kortsiktiga lösningar här och nu.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.9",
+      "sentiment": 0.2,
+      "quote": "Sjöfartsverket förordar att verkets tillhandahållande av transportresurser till Polismyndigheten regleras i Sjöfartsverkets instruktion på motsvarande sätt som befintlig reglering gällande sjuktransporter.",
+      "quote_type": "grund"
+    }
+  ]
+}

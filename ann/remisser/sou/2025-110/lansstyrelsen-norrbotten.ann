@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/lansstyrelsen-norrbotten": "c2704634de8d0160c622b5f091641c505f52f9ac7c426c742dc8c832d7c887f5",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen konstaterar också att det kommer att krävas en hel del resurser från flera olika myndigheter och från kommunerna för att få till stånd ett system som fungerar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.6.1",
+      "sentiment": 1.0,
+      "quote": "Ärenden som berör kulturmiljölagen kan vara särskilt komplicerade och det kan krävas såväl arkeologiska utredning som förundersökning för att länsstyrelsen ska få ett beslutsunderlag för prövning av tillstånd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i att det inte är lämpligt att undanta byggoch anläggningsprojekt från tillståndsplikt baserat på dess värde, storlek, varaktighet eller typ av infrastruktur.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i att en särreglering av tillstånd samt harmonisering med EU-lagstiftning sannolikt skulle underlätta för verksamhetsutövare och göra processen tydligare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.4.2",
+      "sentiment": -0.5,
+      "quote": "Det är också viktigt att tiden inte börjar räknas förrän ansökan inkommit till korrekt myndighet, då vi inte kan utesluta att systemet skickar en ansökan till fel kommun eller fel länsstyrelse inledningsvis.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a24",
+      "sentiment": -0.2,
+      "quote": "Att se till att det finns tillräckliga resurser inte bara för PTS utan för övriga som ska vara delaktiga i utvecklingen av den centrala informationspunkten blir därför avgörande för att säkerställa en smidig och säker introduktion.",
+      "quote_type": "grund"
+    }
+  ]
+}

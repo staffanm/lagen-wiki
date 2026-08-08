@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/lansstyrelsen-uppsala-lan": "2ab51eb3dd98a4449cc8d1a3dbe44b6f7dec54f748754c19e3afbfd732f7a1d0",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen tillstyrker i huvudsak betänkandets förslag och delar bedömningen att utbyggnaden av gigabitinfrastruktur är av stor betydelse för samhällsutvecklingen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.6",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen bedömer att de föreslagna tidsfristerna enligt gigabitinfrastrukturförordningen (GIA), inklusive möjligheten till en enda förlängning, inte i tillräcklig utsträckning tar hänsyn till den komplexitet som kännetecknar handläggningen av tillståndsärenden enligt miljöbalken och kulturmiljölagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.2,
+      "quote": "Införandet av en central informationspunkt riskerar att medföra ytterligare fördröjningar i handläggningen om dess roll och förhållande till samråds- och utredningsfaserna inte förtydligas.",
+      "quote_type": "grund"
+    }
+  ]
+}

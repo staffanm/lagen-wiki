@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/region-uppsala": "212c2c5a22b535ced0ab38287f1cf8cd66e95656688f4c1f428795a33287d122",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Uppsala kommun anser därför att om förslaget går igenom bör kommunerna få statsbidrag för att täcka de ökade kostnaderna för hanteringen av valsedlarna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec200",
+      "sentiment": -0.2,
+      "quote": "Det förväntas medföra kostnader för fler burvagnar, behov av större lageryta för lagerhållning, ökade kostnader för transport samt arbetskraft.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.2",
+      "sentiment": -0.5,
+      "quote": "Uppsala kommun anser därför att om förslaget går igenom bör kommunerna få statsbidrag för att täcka de ökade kostnaderna för hanteringen av valsedlarna.",
+      "quote_type": "grund"
+    }
+  ]
+}

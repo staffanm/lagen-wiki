@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/vetenskapsradet": "0050da6a3714a972e39eb806b0e96f91a9392c5f3a8a82dcecaca47f980952f4",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten uppfattar att utredningen i sig är teknisk och förvaltningsinriktad.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "Vetenskapsrådet bedömer att det finns utrymme för att dessa lagstiftningar som båda ska tillämpas på samma område riskerar skapa osäkerhet och administrativa hinder om det inte mer konkret tydliggörs hur regelverken inbördes påverkar varandra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.4",
+      "sentiment": 1.0,
+      "quote": "Vetenskapsrådet håller vidare med om utredningens slutsatser i 8.5.4 att olika regelverk på EU-nivå använder samma begrepp, som till exempel ”data” på olika sätt och att detta skapar osäkerhet och administrativa hinder för aktörer som har att hantera data, såsom inom ramen för forskning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.2",
+      "sentiment": 0.5,
+      "quote": "Vetenskapsrådet vill understryka vikten av detta och det därför också är mycket viktigt att krav kring interoperabilitet formuleras på EU-nivå genom nationell samverkan för att undvika fragmentering på området.",
+      "quote_type": "grund"
+    }
+  ]
+}

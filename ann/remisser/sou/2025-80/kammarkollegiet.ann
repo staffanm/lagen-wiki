@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/kammarkollegiet": "936be7fcb3757f5647ded83f6499e9889998b509a4f29e64d3ae0e7bf9cd2b27",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarkollegiet har inget att invända mot förslagen i betänkandet, men vill tillägga följande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a21",
+      "sentiment": 1.0,
+      "quote": "Detta stämmer överens med den nyss nämnda fördelningen av skadeståndsanspråk mellan Kammarkollegiet och Lantmäteriet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.11",
+      "sentiment": -0.2,
+      "quote": "Om en sådan följdändring inte görs torde handläggningen av anspråk på skadestånd som grundas på ett beslut om rättelse av en uppenbart felaktig uppgift som beror på ett tekniskt fel i fastighetsregistrets allmänna del komma att handläggas av Lantmäteriet i stället för, som före den 25 maj 2008, av Kammarkollegiet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20",
+      "sentiment": 1.0,
+      "quote": "Utifrån nuvarande reglering förefaller det rimligt.",
+      "quote_type": "grund"
+    }
+  ]
+}

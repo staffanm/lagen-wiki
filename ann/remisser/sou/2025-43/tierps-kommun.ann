@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/tierps-kommun": "3e558c9869f2fa30ff655ddf9f4bb243c0e93ae7aab0531c592348870bcc5ae0",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslaget stärker den nationella beredskapen och kan bidra till att tillgången till läkemedel blir mer rättvis och systematiskt hanterad vid krissituationer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 1.0,
+      "quote": "En klar rättslig grund minskar osäkerhet vid kriser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec68",
+      "sentiment": 1.0,
+      "quote": "Tierps kommun förordar att sådana åtgärder endast ska få införas när det är nödvändigt för att skydda liv och hälsa.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.8,
+      "quote": "Kommuner och regioner är beroende av fungerande journalsystem och förskrivningsmoduler.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec71",
+      "sentiment": 0.5,
+      "quote": "Det krävs rättssäkra men effektiva vägar för undantag när det är medicinskt motiverat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8.7",
+      "sentiment": -0.2,
+      "quote": "På den negativa sidan finns risker kopplade till ökad komplexitet och krav på anpassning i redan pressade kommunala verksamheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

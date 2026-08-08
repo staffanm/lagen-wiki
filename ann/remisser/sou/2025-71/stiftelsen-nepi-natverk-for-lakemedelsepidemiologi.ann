@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:71/stiftelsen-nepi-natverk-for-lakemedelsepidemiologi": "8beb9e5dea63ee1530a8b16a077281d9aa37d61641c1a420c475e2b8481c2220",
+      "artifact:forarbete/sou/2025-71": "957a0b0208845de41ee3eb7c78a854f8c82bf13e7ec07e3ebdf350fdecdb0325"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "NEPI stödjer utredningens huvudsakliga inriktning att vidareutveckla den nationella läkemedelslistan (NLL) från att vara ett avgränsat register över förskrivna läkemedel på recept till att bli del av en nationell infrastruktur för information om patientens läkemedel och viss annan behandling.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a15.1.1",
+      "sentiment": 1.0,
+      "quote": "NEPI delar utredningens avsikt att den nya infrastrukturen i första hand är till för primäranvändning med direktåtkomst till olika delar beroende på ändamål och profession",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.4.2",
+      "sentiment": 1.0,
+      "quote": "NEPI stödjer utredningens förslag på strukturerad och fortgående samverkan mellan berörda professioner inom hälso-och sjukvård, apotek och myndigheter i den fortsatta utvecklingen av NLL.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.5,
+      "quote": "Infrastrukturen riskerar att successivt anpassas till funktioner som inte är kliniskt motiverade för att optimera läkemedelsbehandlingen, såsom tillsyn eller ekonomisk uppföljning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.5",
+      "sentiment": -0.2,
+      "quote": "det förefaller vara ett paradigmskifte med bredare myndighetstillgång till en företrädesvis klinisk datakälla.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.1",
+      "sentiment": 1.0,
+      "quote": "mindre risk för integritetsintrång och att någon ytterligare aktör inte behöver lagra eller hantera känsliga personuppgifter",
+      "quote_type": "grund"
+    }
+  ]
+}

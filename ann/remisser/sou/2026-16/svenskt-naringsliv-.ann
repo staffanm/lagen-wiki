@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:16/svenskt-naringsliv-": "5588b4a6a0dc3c387872a0c1505d8acf0ccbb4a3f4b1da3516fe2aaff0357289",
+      "artifact:forarbete/sou/2026-16": "9cf0d0fb9a6fd569b3a84a4fc3b9f8d2518def4d103c3951a40c8c980a5bf3bf"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenskt näringsliv välkomnar betänkandet och stödjer i allt väsentligt de synpunkter som framförs i SOFF:s och Teknikföretagens remissvar över betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec146",
+      "sentiment": 0.8,
+      "quote": "Utredningen identifierar tydliga brister (fragmentering, reaktivitet, svag styrning).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec260",
+      "sentiment": 0.8,
+      "quote": "Försvarsföretagen är en central del av utrikes-, försvars- och säkerhetspolitiken och följaktligen behöver statens engagemang öka.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 1.0,
+      "quote": "Bygg upp Team Sweden Defence & Security och stärk Regeringskansliet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec317",
+      "sentiment": 0.2,
+      "quote": "Små och medelstora företag måste integreras fullt ut i systemet.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

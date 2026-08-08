@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:124/konkurrensverket": "cf6f8a637918ef73506fc7d2d46feef548e4867f0edbf9a952bbb4367b277f87",
+      "artifact:forarbete/sou/2025-124": "b54e2b2f029309b048608c1f357964bc90dd4cea710603ea2e5c6d8e0fc7c64d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Konkurrensverket har i övrigt inga synpunkter på förslagen och bedömningarna i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec208",
+      "sentiment": 0.2,
+      "quote": "Samtidigt kan ökad transparens, när den främst underlättar för företag att övervaka varandras erbjudanden snarare än att stärka kundernas beslutsunderlag, skapa incitament till ömsesidig anpassning och därigenom dämpa konkurrenstrycket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec212",
+      "sentiment": 1.0,
+      "quote": "Det stärker förutsättningar för att effektiv konkurrens på eftermarknaden skapas genom att tillverkare förhindras att snedvrida konkurrens genom att selektivt erbjuda oskäliga villkor gentemot reparatörer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec214",
+      "sentiment": 1.0,
+      "quote": "Det stärker förutsättningar för att effektiv konkurrens på eftermarknaden skapas genom att tillverkare förhindras att snedvrida konkurrens genom att selektivt erbjuda oskäliga villkor gentemot reparatörer.",
+      "quote_type": "grund"
+    }
+  ]
+}

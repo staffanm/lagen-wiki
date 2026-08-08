@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:39/foreningen-sveriges-socialchefer": "2731eb7c2c76be41ee3ae84392a79a9ab3dcc7f3e4e12cf3ccbd49e3f9c99b1f",
+      "artifact:forarbete/sou/2025-39": "030cdbea8ee7c44b3c9a0f433cdd7f751b76efebf39c03c1cc1625da3d87b584"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "FSS ställer sig bakom och delar bedömningen att användandet av digital teknik ska likställas med andra insatser och det blir ett tydligare rättsläge kring användande av digital teknik för socialtjänsten och verksamhet enligt LSS.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "FSS står bakom slutsatsen att personer med nedsatt beslutsförmåga ska få tillgång till insatser från socialtjänsten på lika villkor som andra.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec127",
+      "sentiment": 0.5,
+      "quote": "Vi förordar att vid en ansökan om insats med digital teknik enligt socialtjänstlagen bör bedömningen om hur verkställighet ska ske genomföras av personal som arbetar nära den enskilde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec330",
+      "sentiment": 0.5,
+      "quote": "Förslaget att Socialstyrelsen ska få i uppdrag att ta fram ett metodstöd för att personal i verksamheten ska kunna stödja personer med nedsatt förmåga att uttrycka sin inställning till personuppgiftsbehandling ställer sig FSS bakom, och lyfter särskilt vikten att det inte dröjer.",
+      "quote_type": "grund"
+    }
+  ]
+}

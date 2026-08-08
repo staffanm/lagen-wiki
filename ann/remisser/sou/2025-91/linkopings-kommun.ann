@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/linkopings-kommun": "e2f61e845fd2b2bd9c93e71d85ab2b72f53a66d8d9de3580697646962d7aec5d",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Kommunen tillstyrker utredningens förslag beträffande stärkt skydd för efterlevande sambo.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": 1.0,
+      "quote": "En utvidgning av arvsrätten skulle leda till utdragna processer i samband med upprättande av bouppteckning och efterföljande arvskifte.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.1",
+      "sentiment": 0.5,
+      "quote": "Sett till samhällsutvecklingen de senaste decennierna, då fler och fler väljer samboförhållande som samlevnadsform framför äktenskap, är det enligt kommunens uppfattning befogat med en lagändring som ger efterlevande sambo ett starkare skydd jämfört med dagens regelverk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Om huvudmannen tappat förmåga och inte kan informera om eventuellt testamentets existens är risken överhängande att det aldrig kommer fram med följden att dennes sista vilja inte beaktas.",
+      "quote_type": "grund"
+    }
+  ]
+}

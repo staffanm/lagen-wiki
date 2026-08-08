@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:94/arbetsgivarverkets": "617e051c9e0fe2b3df55ada0815d176e68f66ad7f194109c64b19748760cbf77",
+      "artifact:forarbete/sou/2025-94": "73b4a3a1ccaec8d56f8514861e9004867d6f9800536c6582d42bc6ebd8a33624"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Arbetsgivarverket har inga synpunkter på hur Regeringskansliet/Utrikesdepartementet bör organisera sin kris- och beredskapsorganisation eller hur utrikesförvaltningens säkerhetsorganisation ska se ut.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.7",
+      "sentiment": 0.5,
+      "quote": "Däremot vill Arbetsgivarverket särskilt lyfta att det behöver säkerställas att de myndigheter som blir berörda får tillräckliga resurser för uppdraget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": -0.5,
+      "quote": "Arbetsgivarverket bedömer att det går emot gängse praxis och sannolikt kräver lagändring.",
+      "quote_type": "grund"
+    }
+  ]
+}

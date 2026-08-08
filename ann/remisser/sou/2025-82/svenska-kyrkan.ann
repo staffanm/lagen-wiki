@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/svenska-kyrkan": "c721353a8cb137da840b886abddd0b8b6cc83a25d0a0e2b3404c06761f658a69",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenska kyrkan har inga invändningar mot de förslag till ändringar i Jordförvärvslagen som utredningen lämnar i sig, men menar att det utöver detta finns ett antal ytterligare ändringar i aktuellt lagrum som Svenska kyrkan menar behöver göras.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.1",
+      "sentiment": -0.5,
+      "quote": "Svenska kyrkan har inga invändningar mot de förslag till ändringar i Jordförvärvslagen som utredningen lämnar i sig, men menar att det utöver detta finns ett antal ytterligare ändringar i aktuellt lagrum som Svenska kyrkan menar behöver göras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2",
+      "sentiment": 1.0,
+      "quote": "I fråga om utredningens förslag gällande en effektiv tillämpning av glesbygdsbestämmelserna har Svenska kyrkan inga synpunkter.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

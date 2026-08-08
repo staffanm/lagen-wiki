@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/fastighetsagarna-sverige": "a774c3481f8f0707a8b03e8c2650fa9c5fb6f5c31b500e0440fa11033bec7020",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Fastighetsägarna konstaterar att utredningen tolkat uppdraget i utredningsdirektiven som begränsat och att de förslag som läggs fram därmed blir begränsade.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13",
+      "sentiment": 0.8,
+      "quote": "Hittills har detta endast framkommit i praxis (Skatteverkets tillämpning).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": 0.2,
+      "quote": "åtgärden är inte oviktig men av begränsad betydelse för fastighetsbranschen.",
+      "quote_type": "grund"
+    }
+  ]
+}

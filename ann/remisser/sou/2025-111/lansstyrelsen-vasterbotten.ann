@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/lansstyrelsen-vasterbotten": "c5372636e47915b0e94777f67fc3e3950953660d9589355eec49b53b29bb803d",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen anser att det behöver tydligare anges i vilka fall det kan vara aktuellt att ersätta rättegångskostnader.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "I sådana fall är det rimligt att en part anlitar ett juridiskt ombud och kan få ersättning för sådana kostnader om parten vinner målet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4.4",
+      "sentiment": -0.5,
+      "quote": "Det kan leda till att myndigheten måste omfördela sina resurser och prioritera ned arbetsuppgifter.",
+      "quote_type": "grund"
+    }
+  ]
+}

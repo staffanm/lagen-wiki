@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:77/forsakringskassan": "dd41c8fb2caa5846092ebb3014e38b69241dfe553f11e72f6fbd43fea1c2411f",
+      "artifact:forarbete/sou/2025-77": "2d5c562dd97d981752cb93f65a08d116c79a1f8908f9e6fb9bb9e7d703e82f34"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Regeringen bör arbeta vidare med frågan om sjuklönegaranti i det fortsatta lagstiftningsarbetet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": -0.5,
+      "quote": "Det kan leda till situationer då Försäkringskassan först betalar ut sjuklönegaranti, för att sedan behöva återkräva ersättningen efter att Skatteverket beviljat lönegaranti.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": 0.2,
+      "quote": "Det är därför viktigt att det av lönegarantibesluten framgår att en del av beloppet inte går för utbetalning till den enskilde utan till Kronofogden för täckning av fordringar, annars riskerar Försäkringskassan att överskatta den enskildes betalningsförmåga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": -0.2,
+      "quote": "Om Försäkringskassan inte får sådan information, kan myndigheten inte avgöra i vilka fall det är aktuellt att få del av t.ex. Skatteverkets beslut om lönegaranti, vilket i sin tur medför en risk för att ersättning betalas ut felaktigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.9",
+      "sentiment": 0.0,
+      "quote": "En första förutsättning för att uppgifts- och underrättelseskyldigheten ska kunna uppfyllas är att det skapas en kontaktyta för informationsöverföring.",
+      "quote_type": "grund"
+    }
+  ]
+}

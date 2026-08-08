@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:94/polismyndigheten": "455ea466e5ba3c51cbdc2740c7b5ab1a02df09a6c4ed106f7df0c0ae49d7c42d",
+      "artifact:forarbete/sou/2025-94": "73b4a3a1ccaec8d56f8514861e9004867d6f9800536c6582d42bc6ebd8a33624"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Polismyndigheten har tagit del av betänkandet och tillstyrker utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.7",
+      "sentiment": 0.2,
+      "quote": "det är av vikt att Polismyndigheten inkluderas tidigt i processen för att på så vis bidra med erfarenheter vid värdering och planering av en kommande insats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec59",
+      "sentiment": -0.2,
+      "quote": "Det framgår inte av 7 § i förslaget på lag om säkerhetskontroll på utlandsmyndigheterna att säkerhetskontrollen bara får utföras eller bevittnas av en person som är av samma kön som den visiterade.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec3",
+      "sentiment": -0.2,
+      "quote": "Med anledning av länsstyrelsernas roll som tillsynsmyndigheter över auktoriserade bevakningsföretag och deras personal hade detta varit önskvärt.",
+      "quote_type": "grund"
+    }
+  ]
+}

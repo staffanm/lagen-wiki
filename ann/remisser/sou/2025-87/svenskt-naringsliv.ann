@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:87/svenskt-naringsliv": "432bff88e62dc2b181a59ade689661186b8b997c9da3f7baa9da3512bbcbb465",
+      "artifact:forarbete/sou/2025-87": "9df8cd50f8f07d5fe6625a7096a7d32e74f5028048c96cf2db13ef02650c1ac9"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Svenskt Näringsliv avstyrker förslaget om ny straffbestämmelse för oaktsam finansiering av korruptionsbrott i sin föreslagna lydelse.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec223",
+      "sentiment": -1.0,
+      "quote": "Graden av oaktsamhet blir med en sådan utformning mycket låg och riskerar att skapa osäkerhet hos företagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8-2",
+      "sentiment": -0.5,
+      "quote": "Svenskt Näringsliv anser att utredningens konsekvensutredning inte kan anses uppfylla kraven i konsekvensutredningsförordningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

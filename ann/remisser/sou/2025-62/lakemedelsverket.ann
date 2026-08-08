@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/lakemedelsverket": "bf60dcb1d17b895b917372a238622c309aa56b36f49b5faabedffb3385d4ee9f",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Generellt framstår kommitténs skäl för ett utökat statligt ansvar för läkemedel som rimliga.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.2",
+      "sentiment": 0.2,
+      "quote": "Det är viktigt att man i ett framtida system säkerställer en funktion med god överblick som snabbt kan interagera på EU-nivå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a2.2.7",
+      "sentiment": 0.8,
+      "quote": "Sverige behöver stärka de nationella förutsättningarna för kliniska prövningar genom ökad samordning, tydligare ansvarsfördelning och en mer forskningsvänlig infrastruktur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.3",
+      "sentiment": 0.4,
+      "quote": "Utifrån de regionala skillnader som idag föreligger ser vi positivt på en fördjupad utredning av statens ansvar inom läkemedelsområdet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.5.2",
+      "sentiment": -0.2,
+      "quote": "Ur läkemedelsperspektiv sker en stor del av läkemedelsanvändningen inom ramen för kommunal hälso- och sjukvård, där multisjuklighet och komplexa läkemedelsbehandlingar ställer höga krav på goda kunskaper inom läkemedelsområdet.",
+      "quote_type": "grund"
+    }
+  ]
+}

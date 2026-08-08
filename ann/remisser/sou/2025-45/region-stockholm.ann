@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/region-stockholm": "2cc304a4f81e6c48436a518a1f1a9746b1060d98c84e8d85e33db7d2bea5603c",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Region Stockholm ser positivt på utökade möjligheter till informationsutbyte mellan myndigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.8.5",
+      "sentiment": 1.0,
+      "quote": "Ett generellt rättsligt stöd för att lämna ut uppgifter som inte är sekretessbelagda till andra myndigheter på eget initiativ är därför enligt Region Stockholms mening motiverat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.6",
+      "sentiment": 1.0,
+      "quote": "Det framstår som motiverat att göra lagstiftningen tydlig så att upplevda regelkonflikter undanröjs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": 1.0,
+      "quote": "Region Stockholm har inte heller några invändningar mot utredningens förslag att upphäva omotiverade rättsliga begränsningar av myndigheters möjligheter att lämna ut uppgifter elektroniskt.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

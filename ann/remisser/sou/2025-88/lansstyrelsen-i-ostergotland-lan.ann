@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/lansstyrelsen-i-ostergotland-lan": "6b08aa9bf0683d8677edaa89d0744cf45406d6fcd0b20e5be957fcddb981dd35",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": -0.3,
+    "quote": "Innan förändringar genomförs anser Länsstyrelsen att en samlad konsekvensanalys behöver genomföras för att bedöma konsekvenserna av de förslag som genomförs, som helhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.5,
+      "quote": "Förslaget bedöms förbättra förutsättningarna för en enhetlig tillämpning inom de andra lagar där bestämmelserna ska tillämpas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.8,
+      "quote": "Länsstyrelsen bedömer att hanteringen skulle bli tungarbetad och inte innebära några väsentliga fördelar jämfört med dagens prövningar enligt 17 kap. miljöbalken.",
+      "quote_type": "grund"
+    }
+  ]
+}

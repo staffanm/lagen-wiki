@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:37/kammarratten-i-jonkoping": "ce43d573f6dad01dee8c54593647789d9c6c0917e1041bf60e2d329bc2e5cfda",
+      "artifact:forarbete/sou/2025-37": "f2caa386251f276824b88c0c043ef741f67175b8f957b93142f12fc4f4448b10"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kammarrätten, som inte har något att erinra mot delbetänkandets förslag i övrigt utifrån de utgångspunkter domstolen har att beakta, lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5.6",
+      "sentiment": -0.2,
+      "quote": "Det kan finnas skäl att ensa terminologin för att tydliggöra den föreslagna ordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec583",
+      "sentiment": -0.5,
+      "quote": "kammarrätten ser en tydlig risk att delbetänkandet har underskattat den kommande måltillströmningen till följd av förslagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec34",
+      "sentiment": -0.2,
+      "quote": "de närmare villkoren för tillståndsgivning har flyttats från bestämmelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.8",
+      "sentiment": -0.2,
+      "quote": "det kan finnas ett värde i att detta även skrivs in i bestämmelsen.",
+      "quote_type": "grund"
+    }
+  ]
+}

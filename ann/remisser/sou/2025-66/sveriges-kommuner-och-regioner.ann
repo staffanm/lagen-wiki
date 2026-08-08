@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:66/sveriges-kommuner-och-regioner": "38832f2385a65b8073e4d5de0c3b5dccb8822b69006add78ae4624454be49f81",
+      "artifact:forarbete/sou/2025-66": "d17cda5a6b525b2e0549fcf8bcc405271e7eef9479b900db16a2c9a1e0fefab0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "SKR ställer sig positiva till att det genomförs en genomlysning och reform av straffskalor och påföljdssystem så att dessa blir mer proportionerliga.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.13",
+      "sentiment": 1.0,
+      "quote": "Förslaget framstår som väl avvägt dels då den aktuella påföljden används i liten utsträckning dels då det är rimligt att Kriminalvården ansvarar för frågor kopplat till vårdbehov inom ramen för verkställighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec60",
+      "sentiment": 1.0,
+      "quote": "Syftet med underrättelseskyldigheten är möjliggöra ett snabbt ingripande från Kriminalvården och undanröja eventuella sekretesshinder som kan föreligga enligt 25 kap. 1 § och 26 kap. 1 § OSL, dvs. uppgifter inom hälso- och sjukvården samt socialtjänsten som omfattas av sekretess.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec48",
+      "sentiment": -0.5,
+      "quote": "SKR ställer sig frågande till vilka anslag som åsyftas. Något anslag i statens budget, motsvarande det som utgår till de statliga myndigheterna, finns inte för kommuner och regioner.",
+      "quote_type": "grund"
+    }
+  ]
+}

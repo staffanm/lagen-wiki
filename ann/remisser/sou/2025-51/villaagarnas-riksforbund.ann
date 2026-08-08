@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:51/villaagarnas-riksforbund": "00bc119eb37b72770094b1e232a9fc5f06fabb7c9be33b8272c31585c00b7900",
+      "artifact:forarbete/sou/2025-51": "258d56514e13c4c5451bf445ef12c74926eae0c3d6b9e933fa95a5d91e5d1ad9"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Villaägarnas riksförbund anser att medfinansiering för fastighetsägare av klimatanpassningsåtgärder måste kunna kopplas till en monetär nytta och avstyrker därför utredningens förslag om medfinansiering.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -1.0,
+      "quote": "Ett villkor för en medfinansiering måste bestå av en monetär nytta för att vara försvarbar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec16",
+      "sentiment": 1.0,
+      "quote": "På det viset kan fastighetsägaren göra informerade beslut kring sina investeringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec9",
+      "sentiment": 0.2,
+      "quote": "Villaägarnas riksförbund söker inte erinra mot utredningens förslag.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

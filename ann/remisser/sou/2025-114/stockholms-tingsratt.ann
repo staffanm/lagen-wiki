@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/stockholms-tingsratt": "29ae887fce77c982bba8a482a50b6b76f40ddf85354ecac960daa73a34975c0b",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": -0.3,
+    "quote": "I likhet med utredningen konstaterar tingsrätten att förslaget om en möjlighet att använda tvångsmedel i polisiära utlänningsärenden skulle utgöra ett principiellt tveksamt avsteg från den övriga regleringen om straffprocessuella tvångsmedel.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.9.1",
+      "sentiment": 1.0,
+      "quote": "Tingsrätten har ingen invändning mot förslaget avseende frysning i kvalificerade säkerhetsärenden eller att Stockholms tingsrätt blir ensam behörig domstol att pröva överklaganden i sådana ärenden.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.9.2",
+      "sentiment": -0.2,
+      "quote": "Tingsrätten ifrågasätter dock om det är lämpligt, eller ens praktiskt möjligt, att som huvudregel avgöra ärendet inom en vecka eftersom det finns anledning att räkna med att den enskilde kommer att begära sammanträde inför ett avgörande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.16",
+      "sentiment": -1.0,
+      "quote": "I likhet med utredningen konstaterar tingsrätten att förslaget om en möjlighet att använda tvångsmedel i polisiära utlänningsärenden skulle utgöra ett principiellt tveksamt avsteg från den övriga regleringen om straffprocessuella tvångsmedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.16.10",
+      "sentiment": -0.5,
+      "quote": "Tingsrätten anser, även i denna del, att det inte bör införas en särreglering och att interimistiska åtgärder bör prövas av åklagare enligt idag gällande regler om hemliga tvångsmedel.",
+      "quote_type": "grund"
+    }
+  ]
+}

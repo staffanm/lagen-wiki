@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/sveriges-akeriforetag": "4171838cee5c8552d2f773b680d30e346aac59ac927a9e5236ca5d1a50fa10e0",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Utan fungerande väginfrastruktur, uppställningsplatser och omkopplingsmöjligheter för tung trafik riskerar godsflödena att bli ineffektiva, vilket påverkar såväl näringslivets konkurrenskraft som försörjningstryggheten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec275",
+      "sentiment": 0.5,
+      "quote": "E4 mellan Häggvik–Arlanda är en flaskhals som redan idag orsakar restidsförluster och försämrad tillgänglighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6.8",
+      "sentiment": 0.5,
+      "quote": "Detta skapar problem för efterlevnad av kör- och vilotider och försvårar en säker och effektiv godslogistik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec240",
+      "sentiment": -0.2,
+      "quote": "Det saknas dedikerade uppställnings- och omlastningsytor för tunga fordon, vilket är nödvändigt för en effektiv logistik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.2,
+      "quote": "Elektrifieringen av tunga vägtransporter kräver att Arlandaområdet planerar för tillgång till högkapacitetsladdning för tunga fordon.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.7",
+      "sentiment": 0.5,
+      "quote": "Kapacitetsförstärkningarna i vägnätet måste samordnas med utbyggnaden av Cargo City och Rosersbergs kombiterminal för att undvika flaskhalsar.",
+      "quote_type": "grund"
+    }
+  ]
+}

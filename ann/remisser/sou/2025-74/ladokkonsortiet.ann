@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:74/ladokkonsortiet": "aded09a9113a6de0f6eb50e9f4840bbd7f7a7f8a8898bc707b277c5c4680a06f",
+      "artifact:forarbete/sou/2025-74": "86931f969c453d367aa6280683810685078a23447696be3482179222d1c28951"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Ladokkonsortiet är generellt sett positivt till att underlätta informationsutbyte mellan myndigheter, i detta fall mellan universitet och högskolor å ena sidan och Arbetsförmedlingen å den andra.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6.5",
+      "sentiment": -0.2,
+      "quote": "Det ﬁnns därför ingen anledning att Arbetsförmedlingen ska aviseras om ett avskiljandebeslut via Ladok, utan det bör inhämtas direkt från Högskolans avskiljandenämnd, om behovet ﬁnns.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6.6",
+      "sentiment": 0.2,
+      "quote": "Konsortiet förutsätter att samma hantering kan ske gentemot Arbetsförmedlingen, och att Arbetsförmedlingen har tillräcklig information om individen för att tillämpa sekretess i de fall det är befogat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec333",
+      "sentiment": 1.0,
+      "quote": "Konsortiet ser inga hinder mot att utifrån Arbetsförmedlingens behov utforma ett API så att lärosätena via det kan lämna ut de uppgifter Arbetsförmedlingen efterfrågar.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:113/sameskolstyrelsen": "8a714acbbc1daf60a3621105d21da6292bb152ae8e9405626caa2a2952de6743",
+      "artifact:forarbete/sou/2025-113": "8c1c0cf1be8ee429662154c8dc64f07f510f8551ac68bae66465171635e8c748"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sameskolstyrelsen konstaterar att utredningen inte berört konsekvenserna av att det rådet stor brist på samiskspråkig personal inom elevhälsan i hela Sverige.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec6",
+      "sentiment": 1.0,
+      "quote": "Utredningen vill att elevhälsan ska arbeta mer förebyggande, mer hälsofrämjande och vara likvärdig i hela landet och att styrningen ska vara tydligare med rektor vid rodret, det har Sameskolstyrelsen inget att erinra emot.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 1.0,
+      "quote": "Att utredningen pekar på nationella riktvärden för tillgång till skolsköterska, skolläkare, psykolog, kurator och specialpedagog/speciallärare för att minska skillnader mellan skolor och kommuner är positivt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.8",
+      "sentiment": 1.0,
+      "quote": "Även att samverkan mellan skola, hälso- och sjukvård och socialtjänst har tydligare strukturer för samverkan kring elever är bra.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec11",
+      "sentiment": 0.5,
+      "quote": "Det är viktigt att om det i enlighet med utredningens förslag blir aktuellt med bemanningsplaner på skolor så måste det framgå av dem hur kommuner, regioner och skolhuvudmän avser att samverka för att tillsammans säkerställa tillgången på samisk kompetens.",
+      "quote_type": "grund"
+    }
+  ]
+}

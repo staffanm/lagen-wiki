@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:72/myndigheten-for-delaktighet": "4cf9980a863ccddc2449bd195347ae84802db3558ab99367a4544f0b8929c9d1",
+      "artifact:forarbete/sou/2025-72": "59e44215ab2cc8c10f2c3c2408927e6a5e205b6be9de35dbe57bb8e7227b8b53"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Skälen är att beräkningsmodellen för skolpengsnormen inte synliggör skillnader i behovet av extra anpassningar och särskilt stöd samt att förslagen om resursskolor riskerar att förstärka en parallell skolstruktur framför att utveckla stöd i den ordinarie skolan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": -1.0,
+      "quote": "Beräkningsmodellen utgår från kommunernas genomsnittskostnader och saknar en komponent som synliggör skillnader i behovet av extra anpassningar och särskilt stöd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5.2",
+      "sentiment": -1.0,
+      "quote": "Villkorade belopp riktade till resursskolor riskerar att förstärka en parallell skolstruktur, där resursskolor gynnas framför utveckling av stöd i ordinarie skola.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2.5",
+      "sentiment": -1.0,
+      "quote": "En nationell definition riskerar att i praktiken skapa en ny skolform, vilket står i konflikt med principen att stöd ska ges så långt som möjligt i elevens ordinarie lärmiljö, i linje med artikel 24 i FN:s konvention om rättigheter för personer med funktionsnedsättning.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:56/kammarratten-i-jonkoping": "b8d7d1e1f21a17d63492a13b1ba3ec1c475308beb87436bd78b7e9e0abc5d3a3",
+      "artifact:forarbete/sou/2025-56": "aa474607a823f641b3c41a3a7a0ae03a90bc89660beb4c770fe2fdd7ff299a48"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarrätten ställer sig i huvudsak bakom de förslag som utredningen har lämnat.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": -0.2,
+      "quote": "Kammarrätten anser att det kan ifrågasättas om domstolsprövningen av Domaransvarsnämndens beslut bör ske i allmän domstol för det fall att prövningen enligt utredningens förslag endast ska vara av konstitutionell karaktär.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.5,
+      "quote": "Arbetsgivaren måste därför ha vissa verktyg som enligt kammarrättens mening inte kan ersättas av eller likställas med kritik från JO.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": 0.2,
+      "quote": "Det är otydligt om avsikten är att samma partsställning ska gälla även vid en domstolsprövning av frågan om förflyttning av domare.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:86/svea-hovratt": "b8cb0a6c861013527e0a522465b49b26353fcb24dd3fff45d697fa1400aba598",
+      "artifact:forarbete/sou/2025-86": "b0dcdd24a25a2d12cb2cbd40a2be00ca8cbb7c0ad6b35674c7550080e553e1d9"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Svea hovrätt har utifrån de intressen som hovrätten har att beakta endast följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec134",
+      "sentiment": -0.5,
+      "quote": "Att Försvarsmakten, enligt eget beslut, skulle förlänga grundutbildningen för värnpliktiga i upp till sex månader för beredskapstjänstgöring synes innebära ett kringgående av den nämnda bestämmelsen som inte kan ha varit avsedd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec150",
+      "sentiment": -0.2,
+      "quote": "Att helt ta bort tidsgränsen innebär att en begränsad grupp av personer vid äventyr av straffansvar kan få bära en mycket betydande börda redan i en situation när det inte råder höjd beredskap.",
+      "quote_type": "grund"
+    }
+  ]
+}

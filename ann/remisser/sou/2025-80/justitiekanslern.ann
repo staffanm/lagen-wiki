@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/justitiekanslern": "39e744e832c129a54c27ab9925a57f477e5defdf9c25f19b4c0badeb5385b3ef",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Genomgången av de förslag som läggs fram i betänkandet och de överväganden som görs där har skett med de utgångspunkter som Justitiekanslern, utifrån sitt uppdrag, främst har att beakta.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a21.2",
+      "sentiment": -0.4,
+      "quote": "Under alla förhållanden framstår det som ändamålsenligt att anspråk som grundar sig på bestämmelserna handläggs av en och samma myndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a21.3",
+      "sentiment": -0.5,
+      "quote": "Utredningen föreslår dock inte någon följdändring i handläggningsförordningen i detta avseende, vilket innebär att Kammarkollegiet inte längre skulle vara utpekad myndighet att handlägga sådana anspråk.",
+      "quote_type": "grund"
+    }
+  ]
+}

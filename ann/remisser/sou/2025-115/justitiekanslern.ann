@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/justitiekanslern": "f41022fa392fc1cc1506cdae5d0240b08d02b1f77bd44088361a0b03ca0891eb",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Justitiekanslern har inte några synpunkter på de förslag som läggs fram i betänkandet i övrigt och de överväganden som görs där.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec43",
+      "sentiment": -0.5,
+      "quote": "Med beaktande av att det rör sig om en straffsanktionerad begränsning av yttrandefriheten torde en sådan avgränsning krävas, inte minst av proportionalitetshänsyn.",
+      "quote_type": "grund"
+    }
+  ]
+}

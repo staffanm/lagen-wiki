@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/trollhattans-kommun": "a8861df788da2e240bc4b207c28bc25aa1f18f6913e7944a3be8cdeae22681da",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.6,
+    "quote": "De förslag som utredningen presenterar strider i stora delar mot sitt syfte och kommer resultera i en helt motsatt effekt med negativa konsekvenser på samhällsbyggnadsprocessen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": 0.5,
+      "quote": "hur finansiering för detta ska fördelas mellan myndigheterna behöver utredas och förtydligas",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.3",
+      "sentiment": 1.0,
+      "quote": "tillstyrker den föreslagna förändringen i 4 kap. 7 a § fastighetsbildningslagen i den del bestämmelsen reglerar ett tydligt kostnadsansvar för sakägare som begär statlig handläggning i uppenbart otillbörligt syfte",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a2",
+      "sentiment": -1.0,
+      "quote": "ändringarna i punkterna 2–5 innebär en betydande skärpning av nuvarande lagstiftning och riskerar att begränsa möjligheterna att inrätta och långsiktigt upprätthålla kommunala lantmäterimyndigheter",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": -1.0,
+      "quote": "detta minskar kommunala lantmäterimyndigheters ärendemängd och därmed försvårar upprätthållandet av kompetens, ekonomisk bärkraft och en sammanhållen koppling mellan planering, exploatering och fastighetsbildning i kommunen",
+      "quote_type": "grund"
+    }
+  ]
+}

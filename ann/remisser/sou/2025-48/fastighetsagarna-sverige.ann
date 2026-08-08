@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/fastighetsagarna-sverige": "80bd9ca6e45965a817a0a1fec12afa63c27f9f732879d359f685d02c14b1e864",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Fastighetsägarna anser dock att det är en brist att utredningen inte har analyserat konsekvenserna för fastighetsbranschen i tillräcklig grad.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 0.5,
+      "quote": "Det är välkommet att regelverket blir mer förutsebart och att ad hoc-lösningar i möjligaste mån kan undvikas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec15",
+      "sentiment": -1.0,
+      "quote": "Fastighetsägarna avstyrker utredningens förslag i denna del eftersom det är rättsosäkert och oförenligt med fastighetsägares grundlagsfästa rätt till lagreglerad kompensation vid rådighetsinskränkning.",
+      "quote_type": "grund"
+    }
+  ]
+}

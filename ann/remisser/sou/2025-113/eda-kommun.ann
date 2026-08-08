@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:113/eda-kommun": "f69b8c875adbda69f12685db0d84c0e32dd9ae7ae64e249ab7d74e035bf84fd2",
+      "artifact:forarbete/sou/2025-113": "8c1c0cf1be8ee429662154c8dc64f07f510f8551ac68bae66465171635e8c748"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kommunen delar utredningens övergripande problembild och är i huvudsak positiv till ambitionen att stärka elevhälsan, tydliggöra uppdraget och förbättra samverkan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec268",
+      "sentiment": -1.0,
+      "quote": "Kommunen avstyrker förslaget om att kuratorer ska vara hälso- och sjukvårdskuratorer med legitimation, då detta riskerar att försvåra kompetensförsörjningen och minska flexibiliteten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.3",
+      "sentiment": -1.0,
+      "quote": "Kommunen avstyrker även införandet av nationella tidsfrister, då dessa bedöms vara svåra att leva upp till och riskerar att styra bort från ett långsiktigt och förebyggande arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7",
+      "sentiment": -1.0,
+      "quote": "En ökad betoning på behandlande insatser i skolan riskerar att tränga undan detta arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec361",
+      "sentiment": 1.0,
+      "quote": "Kommunen delar utredningens bedömning att nuvarande huvudmannaskap ska behållas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.6.3",
+      "sentiment": 1.0,
+      "quote": "Kommunen är också positiv till införandet av en nationell hälsoenkät.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

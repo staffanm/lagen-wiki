@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/svenska-bankforeningen": "9984c84af46c063859012598e38ee7ede5997e0c357aa5fc44e7461ec469269a",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Svenska Bankföreningen har fått tillfälle att lämna synpunkter på förslagen till moderniserade regler om arv och testamente.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec15",
+      "sentiment": 1.0,
+      "quote": "Bankföreningen har inte identifierat någon språklig ändring som uppfattas som problematisk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec11",
+      "sentiment": 0.5,
+      "quote": "Bankföreningen ser risk för att registret, om det enbart är frivilligt att använda, inte kommer att användas i så stor omfattning av det uppstår nytta och effektivitet av registret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 1.0,
+      "quote": "Bankföreningen är också positiv till förslaget om e-testamente med säker elektronisk underskrift",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": -0.5,
+      "quote": "Bankföreningen anser dock att utredningen tagit alldeles för lätt på de risker för bedrägerier och förfalskningar som öppnas upp med förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -0.2,
+      "quote": "Här kan man förutse att det i många fall kommer att uppstå problem med efterarvskvoter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec319",
+      "sentiment": 0.5,
+      "quote": "Bankföreningen konstaterar att detta inte görs i dag och att det leder till problem.",
+      "quote_type": "grund"
+    }
+  ]
+}

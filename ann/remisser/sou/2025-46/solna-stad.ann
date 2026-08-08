@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:46/solna-stad": "cbb8e5c7310a7f57e866d26d20f6ef09d7e9cc439d1d6d6e52c481d7eb8fa105",
+      "artifact:forarbete/sou/2025-46": "6102ae506d1a85debba1447bd4d8d3054895aca438e192d0bc590d493ddee566"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I flera fall saknas dock färdiga analyser av föreslagna åtgärder.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Stadsledningsförvaltningen anser dock att utredningens genomlysning inte ger något tydligt svar och att frågan därför bör ses över.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": -0.5,
+      "quote": "Stadsledningsförvaltningen konstaterar således att en ordentlig ekonomisk konsekvensanalys saknas i utredningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

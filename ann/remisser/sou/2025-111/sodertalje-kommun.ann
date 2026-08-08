@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/sodertalje-kommun": "783cad0f9daa200914e76cd49f88b386380e817521c6181e62c0c8860fcfeecd",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Detta utgör ett betydelsefullt steg för att säkerställa rätten till en rättvis rättegång.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.2,
+      "quote": "En ordning som i ökad utsträckning möjliggör ersättning för rättegångskostnader riskerar att leda till ökade och svårförutsebara kostnader för kommuner, särskilt i mål där det allmänna ofta är part.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4.4",
+      "sentiment": -0.2,
+      "quote": "Ett utvidgat ersättningssystem kan innebära en ökad benägenhet att överklaga beslut, vilket i sin tur kan leda till ett större behov av resurser för processföring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5",
+      "sentiment": 1.0,
+      "quote": "Kommunen bedömer att denna reglering på ett ändamålsenligt sätt stärker rättssäkerheten och bidrar till en mer transparent och proportionerlig ordning för kostnadsansvar inom förvaltningsprocessen.",
+      "quote_type": "grund"
+    }
+  ]
+}

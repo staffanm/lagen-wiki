@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/sakerhetspolisen": "8a6bcf739cd10f9f53ea670a46691701cbba9b527e40f4038e6d88353a039283",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Säkerhetspolisen välkomnar därutöver de föreslagna ändringarna i LSU och har i övrigt inga synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": 1.0,
+      "quote": "Utöver att en sådan skulle innebära en i sak onödig dubbelreglering, så bör även beaktas att det skulle bidra till minskad enhetlighet i det redan svåröverblickbara utlänningsrättsliga regelverket, eftersom någon motsvarande ordning inte förekommer i utlänningslagens (2005:716) reglering av uppsikt och anmälningsskyldighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8.14",
+      "sentiment": 1.0,
+      "quote": "Den tillkommande belastningen på Polismyndigheten, som redan har ett uppbyggt system för verkställande av beslut om elektronisk övervakning, ska ställas mot den avsevärt större belastning det skulle innebära för Säkerhetspolisen att bygga upp ett sådant system.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.14.1",
+      "sentiment": -0.5,
+      "quote": "Det är inte tillfredsställande med en ordning där två myndigheter utpekas som verkställande i samma ärende.",
+      "quote_type": "grund"
+    }
+  ]
+}

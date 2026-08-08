@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:63/sveriges-kommuner-och-regioner-skr": "74aa25d3c819032f8b1fc5168d2b95d2432fef4742f9966277543b092f9ffbc8",
+      "artifact:forarbete/sou/2025-63": "461094f462cdf3d5e300f64df1c13bc71f9e5017089a2d108dbaf9978b04511e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Att utredningen konsekvent tar sin utgångspunkt i förstärkt patientsäkerhet skapar en tydlig logik och sätter patienten i första rummet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4.5",
+      "sentiment": 0.5,
+      "quote": "Om dimensioneringen inte stämmer överens med det faktiska behovet av specialistutbildning behöver statens kompensationsnivå omprövas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7.3",
+      "sentiment": 0.2,
+      "quote": "Kravet på årlig redovisning av fortbildningsinsatser i patientsäkerhetsberättelsen riskerar därför att osynliggöra en stor del av det informella lärandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6.1",
+      "sentiment": -0.5,
+      "quote": "Om en obligatorisk granskning av utbildningsmiljön skulle krävas redan innan en ST påbörjas, och regionen ålades detta ansvar, vore det en ny och betungande arbetsuppgift som förutsätter både ett tydligt regelverk och en adekvat finansiering.",
+      "quote_type": "grund"
+    }
+  ]
+}

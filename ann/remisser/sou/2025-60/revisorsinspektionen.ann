@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:60/revisorsinspektionen": "227a58e893ede8864f47d0e631e571e704da46451e81cc081daccf9f7db68d16",
+      "artifact:forarbete/sou/2025-60": "ba08a5cf25200bcc4b5e48a4ae829bfa92fdb7a8a18e1f7113bf8aa0612a2eee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Revisorsinspektionen har, utifrån de intressen som myndigheten har att beakta, inga synpunkter på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.5",
+      "sentiment": -0.2,
+      "quote": "Det kan därför ifrågasättas om rollen som förvaringsinstitut är förenlig med den långtgående reglering avseende opartiskhet och självständighet som auktoriserade och godkända revisorer är föremål för.",
+      "quote_type": "grund"
+    }
+  ]
+}

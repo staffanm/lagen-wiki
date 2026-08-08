@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/lansstyrelsen-i-uppsala-lan": "1938049a3dd6ea4f060878b34bac54a4a4ed64782140f17cb7f4c4146c94e47d",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Länsstyrelsen anser att utredningens förslag är väl avvägda.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen ser positivt på att förslaget betonar vikten av avvägningar mellan att å ena sidan bromsa smittspridning och å andra sidan skydda enskildas grundläggande fri- och rättigheter samt minska andra negativa konsekvenser för individer och samhället.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i att hanteringen av en pandemi eller annan omfattande smittspridning bör ske utifrån samma principer som andra kriser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen ställer sig positiv till utredningens förslag angående en nationell strategi för hantering av pandemier.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec16",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen delar utredningens bedömning om att författningsförslagen, för att uppnå en god beredskap, bör träda i kraft ett bestämt datum.",
+      "quote_type": "grund"
+    }
+  ]
+}

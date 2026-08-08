@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:9/domstolsverket": "924c3ed7594c9abd5f9b335333f57cbced23b10aee0578c371c40c0ef4c07978",
+      "artifact:forarbete/sou/2026-9": "6e2fe757deba6487afb4900466860dd25cfab83203ab6a46a85c3d959c713359"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Domstolsverket motsätter sig dock att kostnadsökningarna för migrationsdomstolarna kan hanteras inom domstolarnas befintliga ekonomiska ramar när det gäller förslaget som avser registrering av EESmedborgare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.3.6",
+      "sentiment": 1.0,
+      "quote": "När det gäller de ekonomiska konsekvenserna av förslaget gör Domstolsverket inte någon annan bedömning än utredningen vad gäller konsekvenserna av den föreslagna ändringen i 8 kap. 6 a § utlänningslagen (s. 281).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.2.10",
+      "sentiment": -0.5,
+      "quote": "Under alla förhållandena rör det sig om så pass stora tillkommande kostnader för Sveriges Domstolar att dessa inte kan hanteras inom ramen för givna anslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

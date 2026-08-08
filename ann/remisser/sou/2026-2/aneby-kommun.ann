@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/aneby-kommun": "ec06cdc00590a0d0becd873be357b026cc5e1648a8943a12fd9a2fed36367b33",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Reformpaketet adresserar reella problem i dagens system, framför allt den stora mängden valsedelstyper (upp till ca 100 per vallokal) och tydliggör ansvarsfördelningen för distribution av valsedlar till vallokaler.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 1.0,
+      "quote": "valnämndens distributionsansvar ger bättre ordning och minskad osäkerhet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 1.0,
+      "quote": "avskaffandet av partivalsedlar förenklar och minskar administrationen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6.1",
+      "sentiment": 1.0,
+      "quote": "en namnvalsedel per parti och valkrets gör systemet tydligare för väljarna och underlättar rösträkningen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec328",
+      "sentiment": -0.2,
+      "quote": "På kort sikt medför det utökade kommunala ansvaret för lagring och sortering viss ökad resursåtgång.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/forsvarsunderrattelsedomstolen": "3fbc83562ae1f122c410ab5d580c806e0bc6d1d564fe35ba2a26a03aed724fcb",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försvarsunderrättelsedomstolen anser att förslagen i betänkandet, om de genomförs, kommer att innebära ett ökat skydd för säkerhetsskyddsklassificerade uppgifter och säkerhetskänslig verksamhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.4",
+      "sentiment": -0.2,
+      "quote": "Enligt domstolens bedömning är dock gränsen mellan de båda förfarandena inte alltid är så tydlig som utredningen ger intryck av, särskilt inte när det gäller samlokalisering av verksamheter som kräver ett likartat säkerhetsskydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.6",
+      "sentiment": 1.0,
+      "quote": "Domstolen ställer sig positiv till införandet av en möjlighet för regeringen att meddela undantag från kravet på säkerhetsskyddsavtal i förordning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 0.5,
+      "quote": "det kan finnas skäl att i det fortsatta beredningsarbetet klargöra om det ska anses föreligga särskilda skäl att göra en säkerhetsprövning mindre omfattande vid sådana anskaffningar mellan myndigheter där det visar sig att den person som ska bli föremål för säkerhetsprövning av en myndighet redan är säkerhetsprövad samt inplacerad i en högre eller samma säkerhetsklass av den andra myndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.10.3",
+      "sentiment": 0.5,
+      "quote": "Försvarsunderrättelsedomstolen anser trots detta att det av skäl kopplade till bl.a. sekretess, säkerhetsskydd och rättssäkerhet finns anledning att överväga detta förslag ytterligare i den fortsatta beredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.17",
+      "sentiment": 0.2,
+      "quote": "För en så liten organisation som domstolen är emellertid den rådgivning som ges idag mycket uppskattad och värdefull.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4",
+      "sentiment": 0.2,
+      "quote": "En kostnadsökning på ett för en större myndighet obetydligt belopp kan därför få stor inverkan på domstolens ekonomi.",
+      "quote_type": "grund"
+    }
+  ]
+}

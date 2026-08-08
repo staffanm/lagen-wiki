@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:89/lansstyrelsen-i-ostergotlands-lan": "7c1462b9bfd9c5d4fa4e0ab2893948a526c63ce54e6b07b8ac5f433e11a4f5cd",
+      "artifact:forarbete/sou/2025-89": "afe1fb1af513037b8ebe2623eb4a101b40c95abf5ec06765e928348800d59876"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Länsstyrelsen avstyrker förslaget om att kontroll och övervakning av fiske enbart får utövas av Havs- och vattenmyndigheten, Länsstyrelsen, Jordbruksverket, Kustbevakningen och Transportstyrelsen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a16.3",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen saknar i dagsläget tillräckliga resurser i form av personal, båtar och annan nödvändig utrustning för att kunna genomföra tillsyn av både fritidsfiske och yrkesfiske längs kusten",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.3.10",
+      "sentiment": -1.0,
+      "quote": "Anledningen till avstyrkandet är att förslaget försvårar eller omöjliggör anlitandet av externa aktörer vilka utgör en viktig resurs för tillsynsarbetet i länet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": 0.5,
+      "quote": "Detta är nödvändigt för att uppfylla de kommande kraven i den reviderade kontrollförordningen samt för att säkerställa en långsiktigt miljömässigt hållbar förvaltning av fritidsfisket.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/lansstyrelsen-i-kronoberg": "6a48802bff63de50ae9662bc3ad2121a261a9e5263ec01cc5224a48cb6a928dc",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammantaget är Länsstyrelsen positiva till förslag som främjar ett bättre utnyttjande av det befintliga bostadsbeståndet samt att näringslivets utmaningar beaktas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.1.1",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen ser inte att förslagen i detta betänkande har en direkt koppling till att underlätta inträdet på bostadsmarknaden för de hushåll som har behov av det i Kronobergs län.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": 1.0,
+      "quote": "Förslaget innebär att det blir lättare att förstå reglerna för privatuthyrning och på så vis säkrare för båda parter att ingå hyresavtal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": 0.2,
+      "quote": "Förslaget om en fri hyressättning skulle kunna innebära högre hyresnivåer på vissa platser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 1.0,
+      "quote": "Detta bidrar till ett skydd för både hyresvärd och hyresgäst att hyresavtalet faktiskt genomförs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.5",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen är positiva till att ett tak för deposition regleras men ser också att ekonomiskt svaga hushåll riskerar att uteslutas från privatuthyrningsmarknaden när tre månadshyror blir en större summa.",
+      "quote_type": "grund"
+    }
+  ]
+}

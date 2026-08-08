@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/statistiska-centralbyran-scb": "f9944a23b455f06cd283731c439547a46666816fc6f010bacbe56d2aab57181f",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "SCB välkomnar att utredningen analyserat användbarheten hos de indikatorer som SCB tillhandahåller för uppföljning av det sjätte jämställdhetspolitiska delmålet, liksom annan statistik som utredaren bedömer vara relevant att nyttja i uppföljningar av det sjätte delmålet samt av ett av regeringen nyligen aviserat sjunde delmål.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.3.10",
+      "sentiment": -1.0,
+      "quote": "SCB ser här en betydande risk för dubbelarbete och avstyrker därför förslaget om att Jämställdhetsmyndigheten ska tillhandahålla indikatorerna med en regional indelning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.4",
+      "sentiment": 0.5,
+      "quote": "För att avgöra vilka indikatorer som skulle kunna redovisas inom den officiella jämställdhetsstatistiken behöver SCB se över kvaliteten i den av utredaren föreslagna statistiken.",
+      "quote_type": "grund"
+    }
+  ]
+}

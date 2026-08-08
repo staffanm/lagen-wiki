@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:121/skatteverket": "d36b90b4c3dd883cebdd15fd4501d26f8af8c4e5f0095b94bf3f215f4fc730c7",
+      "artifact:forarbete/sou/2025-121": "ea5ef53bafffc374cd9c6ed48c2efc9bb84857af58aacd3e714712108c789c6b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket framför dock synpunkten att det bör övervägas om en lagreglerad möjlighet att ändra en dom på äktenskapsskillnad bör införas, eftersom ett sådant lagstöd saknas i dagsläget.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.8",
+      "sentiment": -0.2,
+      "quote": "Mot denna bakgrund finns det därför skäl att i det fortsatta lagstiftningsarbetet överväga om en lagreglerad möjlighet att ändra en dom på äktenskapsskillnad bör införas, i syfte att säkerställa förutsebarhet och rättssäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6.9",
+      "sentiment": 0.2,
+      "quote": "Med hänsyn till att uppgifterna är historiska är dock uppgifternas användbarhet begränsade i förhållande till syftet.",
+      "quote_type": "grund"
+    }
+  ]
+}

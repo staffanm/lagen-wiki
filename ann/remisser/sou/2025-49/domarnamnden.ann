@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:49/domarnamnden": "631943bdf5323aa03cbb5d1807229431383515e64f2767e15ceea78226334f76",
+      "artifact:forarbete/sou/2025-49": "5ef2d5ef8c6493b78e414bdd605c5e95ce874ee1ce91bafc844c62cff010b775"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Domarnämnden har utifrån de aspekter som nämnden har att beakta inga övriga synpunkter på de förslag som presenteras i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.6",
+      "sentiment": -0.2,
+      "quote": "Domarnämnden föreslår dock att förslaget till ny 1 § 7 lagen om utnämning av ordinarie domare ändras till ’’ordförande tillika chef och övrig ordförande i Försvarsunderrättelsedomstolen.’’, eftersom det endast är fråga om en ordförande utöver den som är ordförande tillika chef.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": -0.2,
+      "quote": "Domarnämnden föreslår därför att en följdändring görs i den bestämmelsen så att det i stället står ’’Ordförandena och vice ordförandena ska vara lagfarna och ha erfarenhet av tjänstgöring som domare.’’. Detta eftersom det enligt det nya förslaget ska kunna vara två ordföranden.",
+      "quote_type": "grund"
+    }
+  ]
+}

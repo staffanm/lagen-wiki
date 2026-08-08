@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/sveriges-riksidrottsforbund": "15db7e1b8630044466d578b236f38d63d5ca0c866ae9a730c4b3ee3fe2155fc5",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Gällande sjunde punkten ”Tillstånd att inneha eller använda pyrotekniska varor på en idrottsanläggning” anser RF att tillståndsprövningen enligt 5 kap. 3 § ordningslagen bör vara kvar hos Polismyndigheten.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.1.1",
+      "sentiment": 0.2,
+      "quote": "En handläggning av olika huvudmän kan bidra till större administrativ börda för arrangörer för mindre ideella föreningar med begränsade resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.1.3",
+      "sentiment": -0.5,
+      "quote": "Båda prövningarna har polisiär relevans och bör för helhetens och enkelhetens skull hanteras av samma instans.",
+      "quote_type": "grund"
+    }
+  ]
+}

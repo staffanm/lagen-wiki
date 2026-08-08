@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:63/malmo-kommun": "7ba847a481c3bc44f0c9cbde06fa1954c05a45752dd4809b6e0e70b258b85249",
+      "artifact:forarbete/sou/2025-63": "461094f462cdf3d5e300f64df1c13bc71f9e5017089a2d108dbaf9978b04511e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Malmö stad ställer sig generellt positiv till utredningens bedömningar och förslag, men framför i detta yttrande synpunkter till sådana förslag och bedömningar i utredningen där staden inte instämmer eller gör en annan bedömning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4.7",
+      "sentiment": -0.5,
+      "quote": "Det finns ett behov av att höja statusen på yrkena för att attrahera fler till att utbilda sig inom området.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.10",
+      "sentiment": 0.2,
+      "quote": "En statligt reglerad utbildning kan skapa en likvärdig kompetens hos AVS vilket kan underlätta rekrytering av professionen inom den kommunala hälso- och sjukvården.",
+      "quote_type": "grund"
+    }
+  ]
+}

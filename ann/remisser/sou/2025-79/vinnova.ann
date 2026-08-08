@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/vinnova": "c379e2337f28067aecb8157010fb8be39cbe54b7ff977c5575a78b9ff8f0f24c",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vinnova tillstyrker förslagen i huvudsak, men betonar vikten av att NCSC bedrivs med öppenhet, tillit och tydlig rollfördelning för att inte hämma innovation inom cybersäkerhetsområdet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3.7",
+      "sentiment": 0.2,
+      "quote": "FRA:s traditionella roll inom försvars- och underrättelseverksamhet kan innebära en tröskel för öppet informationsutbyte, vilket riskerar att dämpa innovationsviljan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3.7",
+      "sentiment": 0.5,
+      "quote": "Annars riskerar Sverige att gå miste om EU-stöd till forskning och innovation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4",
+      "sentiment": 0.5,
+      "quote": "Detta är avgörande för att skapa tillit och bevara ett innovationsfrämjande klimat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": -0.2,
+      "quote": "Kompetensbrist kan försämra genomförandet av NCSC:s uppdrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

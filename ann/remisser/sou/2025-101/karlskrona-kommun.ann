@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/karlskrona-kommun": "ffab9e6c8f4e535a91236c0437d42bb03632cfe8a846f811786b96976db6e2f7",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Karlskrona kommun är i huvudsak positiv till betänkandet och delar den övergripande målsättningen att säkerställa en trygg, rättssäker och ansvarsfull användning av artificiell intelligens samtidigt som utveckling och innovation möjliggörs i offentlig sektor.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4",
+      "sentiment": 1.0,
+      "quote": "En oproportionerlig administrativ börda kan annars hämma digitalisering och utveckling i kommunal verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": -0.2,
+      "quote": "Karlskrona kommun ser ett behov av en tydlig och samordnad nationell struktur för tillsyn och vägledning, så att rätt kontaktpunkt används och att kommuner inte möter olika tolkningar och krav mellan sektorer och myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6",
+      "sentiment": -0.2,
+      "quote": "Sanktioner bör tillämpas proportionerligt och med hänsyn till att kommuner inte verkar i vinstdrivande syfte och att kravuppfyllnad ibland förutsätter omfattande organisatoriska och tekniska förändringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "Det är viktigt att regleringen inte leder till att verksamheter avstår från innovation i väntan på praxis eller nationell tolkning.",
+      "quote_type": "grund"
+    }
+  ]
+}

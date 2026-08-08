@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:100/svea-hovratt": "5a57fca3fd06406a718c8dc9a179480e88ec5edfc28da5fce05ad5e047cef413",
+      "artifact:forarbete/sou/2025-100": "b519ed844627b2d5676019b5b0a8bf5290f7e3fd99e92af851cf8f38837e790d"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Patent- och marknadsöverdomstolen har granskat författningsförslagen i betänkandet utifrån de intressen som domstolen har att bevaka och lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "Patent- och marknadsöverdomstolen vill väcka frågan om lagens namn bör reflektera definitionen i 4 §, förslagsvis genom att ordet \"olaglig\" införs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec60",
+      "sentiment": -0.2,
+      "quote": "Gällande eventuella dubbla sanktioner bör även marknadsstörningsavgift för näringsidkare särskilt omnämnas (29-36 §§ marknadsföringslagen).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec59",
+      "sentiment": -0.5,
+      "quote": "Domstolen ifrågasätter effekten av att kriminalisera också innehav, särskilt med hänsyn till att husrannsakan inte är tillgängligt med endast böter i straffskalan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": -0.2,
+      "quote": "En läsning av exemplifieringen tillsammans med beskrivningen av hur försäljning av ip-tv normalt sker (s. 26 f.) kan emellertid ge intryck av att åtal för grovt brott kan komma att bli normalfallet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 1.0,
+      "quote": "Patent- och marknadsöverdomstolen har avslutningsvis inga invändningar mot den nya forumregeln i 10 a §, dvs. att målen ska handläggas av patentoch marknadsdomstolarna.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Det kan därmed förutses att det kommer innebära en avsevärd arbetsbörda och därmed ökade kostnader för patent- och marknadsdomstolarna, även om det skulle bli så att antalet mål eventuellt blir begränsat.",
+      "quote_type": "grund"
+    }
+  ]
+}

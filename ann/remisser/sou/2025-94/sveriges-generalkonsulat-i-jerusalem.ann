@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:94/sveriges-generalkonsulat-i-jerusalem": "3165a4362e6b352bc8f20ad783246ffaa7d75bf48fbaab6d7c77f1c384384785",
+      "artifact:forarbete/sou/2025-94": "73b4a3a1ccaec8d56f8514861e9004867d6f9800536c6582d42bc6ebd8a33624"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Generalkonsulatet instämmer med utredningens ståndpunkt att utlandsmyndigheternas förebyggande säkerhetsarbete är viktigt.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": 1.0,
+      "quote": "Det snabbt försämrade säkerhetsläget i vårt verksamhetsområde efter Hamas terroristattack den 7 oktober 2023 föranledde ett utökat behov av riskreducerande säkerhetsutrustning och säkerhetshöjande åtgärder, som snabbt behövde tillgodoses.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": 0.5,
+      "quote": "För att samarbetet med privata säkerhetsföretag ska fungera så effektivt som möjligt är det av vikt att den upphandlade tjänsten definieras i samarbete med berörd utlandsmyndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.12",
+      "sentiment": 1.0,
+      "quote": "Generalkonsulatet delar utredningens bedömning om vikten av att säkerhetsskyddsavtal ingås mellan det privata säkerhetsföretaget och UD (kap 13.12, sid 191) samt att företagets säkerhetsförpliktelse även utsträcks till andra delar av utlandsmyndigheternas verksamhet.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

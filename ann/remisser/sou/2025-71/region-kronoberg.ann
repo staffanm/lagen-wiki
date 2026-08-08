@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:71/region-kronoberg": "6fbbe1ea2549385b0336351749db7af08a0fef0e100d61d3468924210189d21c",
+      "artifact:forarbete/sou/2025-71": "957a0b0208845de41ee3eb7c78a854f8c82bf13e7ec07e3ebdf350fdecdb0325"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Mot bakgrund av att implementeringen av att det första steget av den nationella läkemedelslistan (NLL) var förenat med en rad utmaningar finns dock behov av en utvärdering av det första steget innan man går vidare med ett andra steg.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.2",
+      "sentiment": 1.0,
+      "quote": "Region Kronoberg tillstyrker förslaget om att det nationella registret även ska omfatta vaccinationer och läkemedel med långvarig effekt.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "Det medicintekniska produktområdet är omfattande och präglas av en komplexitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 0.5,
+      "quote": "Lösningsmönster och krav för anslutning till registret samt federerad information behöver harmoniseras med lösningsmönster för nationell digital infrastruktur (NDI) och EHDS för att inte skapa flera parallella lösningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5.3",
+      "sentiment": -1.0,
+      "quote": "mot bakgrund av det inte anses praktiskt genomförbart.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6.6",
+      "sentiment": 0.0,
+      "quote": "för att säkerställa en gemensam hantering och ett synkroniserat regelverk för exempelvis åtkomst, spärr, samtycke, loggning och nödåtkomst.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4",
+      "sentiment": 0.2,
+      "quote": "då detta kan kräva anpassningar i IT-stöd samt förändring i arbetssätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.5",
+      "sentiment": -1.0,
+      "quote": "Ett undantag för vissa aktörer riskerar att skapa gränsdragningsproblem, exempelvis i de fall där landets regioner och kommuner har olika ansvarsfördelning eller i de fall då tandvården är ett led i behandling av sjukdom.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18.5.3",
+      "sentiment": -0.5,
+      "quote": "Baserat på erfarenheterna från nuvarande NLL bedöms kostnaderna bli betydligt större.",
+      "quote_type": "grund"
+    }
+  ]
+}

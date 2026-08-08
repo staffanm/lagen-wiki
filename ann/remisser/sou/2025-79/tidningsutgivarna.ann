@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/tidningsutgivarna": "fa58e3cbaf21dc6897905bc61762233260ffb87a48973acced9305fb7f1dd30b",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "TU koncentrerar yttrandet kring de delar som handlar om att inskränka den grundlagsskyddade offentlighetsprincipen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3.6",
+      "sentiment": -1.0,
+      "quote": "TU anser att allmänhetens insynsintresse avseende NCSC:s verksamhet är mycket starkt på grund av dess koppling till nationell säkerhet och TU ifrågasätter dessutom den föreslagna sekretessperioden om 70 år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec108",
+      "sentiment": -1.0,
+      "quote": "TU vill bestämt framhålla betydelsen av meddelarfriheten för möjligheten att rapportera eventuella oegentligheter inom NCSC:s verksamhet som kan påverka Sveriges säkerhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

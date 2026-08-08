@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:90/stockholms-stad": "e404442fa42ae01cd082967df0e7fc41710b0d17e7819e9b4e5c1c1886c2cebd",
+      "artifact:forarbete/sou/2025-90": "c2e4c30d4c5dcb7aed515c66494488233ac250895bf23594526ec562841615d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Ett tydligare förfarande bidrar till att minska risken för att skyddade personuppgifter sprids och ökar förutsättningarna för en säker och mer effektiv och förutsägbar posthantering.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.1",
+      "sentiment": 1.0,
+      "quote": "Genom regleringen skapas förutsättningar för ökad rättssäkerhet, förbättrad säkerhet för att skydda personuppgifter och stärkt tillit till myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7",
+      "sentiment": -0.5,
+      "quote": "Stadsledningskontoret anser att utredningens förslag att inte införa reglering av förmedling av postförsändelser till kommunala myndigheter riskerar att bidra till otydlighet kring hur kontakt med boendekommunen kan upprättas gällande personer med skyddad folkbokföring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.14",
+      "sentiment": -0.2,
+      "quote": "Om postförmedlingen inte fungerar tillfredsställande, kan dessa individer hamna i ett informationsmässigt utanförskap.",
+      "quote_type": "grund"
+    }
+  ]
+}

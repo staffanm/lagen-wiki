@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:74/ifau": "10b1e7a7401b1beb8b0a3446d14b509d7b24f14dd2fa3c4a95a557d3534bd6c6",
+      "artifact:forarbete/sou/2025-74": "86931f969c453d367aa6280683810685078a23447696be3482179222d1c28951"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "IFAU tillstyrker förslagen i avsnitt 4.6 om att ge Arbetsförmedlingen förbättrad tillgång till uppgifter om arbetssökandes utbildning",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 1.0,
+      "quote": "I avsnitt 4.6.1 redovisar utredningen på ett tydligt sätt att en sådan reform kan bidra till ökad effektivitet i verksamheten, förbättrade förutsättningar för utvärdering av insatser samt stärkt rättssäkerhet i olika typer av beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.10",
+      "sentiment": 1.0,
+      "quote": "Mot bakgrund av att båda aktörerna kan besluta om och anordna insatser för samma individ, att arbetslöshet utgör försörjningshindret för en stor andel av mottagarna av ekonomiskt bistånd samt att målsättningen att stärka individers förankring på arbetsmarknaden i stor utsträckning är gemensam, vore det önskvärt att samordnat samla in data om program och insatser för utvärderingsändamål.",
+      "quote_type": "grund"
+    }
+  ]
+}

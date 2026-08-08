@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/upplands-vasby-kommun": "01fdb3e4708a66727f1629f64944128ba56a7cb6d751c74a7c0b2bc8ef8d5f70",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Upplands Väsby kommun ställer sig positiva till förändringen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 1.0,
+      "quote": "Det underlättar för kommunens valnämnd att ha ensamt ansvar för distributionen av valsedlar i stället för det delade ansvar som råder mellan valadministrationen och partierna idag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Upplands Väsby kommun ser en risk för ökad arbetsbörda för kommunens valkansli om en stor mängd små partier samlar ihop dessa namnunderskrifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 1.0,
+      "quote": "Kommunen delar bedömningen att förändringarna kommer underlätta för väljaren att genomföra valhandlingen vilket är positivt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": 1.0,
+      "quote": "Upplands Väsby kommun delar bedömningen att dagens möjlighet att kunna kandidera i val där kandidaten inte är valbar för att efter valdagen göra sig valbar genom retroaktiv folkbokföring riskerar att undergräva förtroendet för valsystemet.",
+      "quote_type": "grund"
+    }
+  ]
+}

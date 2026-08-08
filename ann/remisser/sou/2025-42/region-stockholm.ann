@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/region-stockholm": "355c33a3774a4435bd6d7c2f1c54d003035c84482962ce87a9fa367272f35e91",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Stockholm ser i huvudsak positivt på de förslag som utredningen lämnar men ser vissa risker med de förslag som berör säkerhetsprövningens förfarande.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": 1.0,
+      "quote": "det är därför positivt att utredningen framhåller att möjligheten att ingripa i pågående förfaranden ska användas restriktivt och att de åtgärder som vidtas ska vara proportionerliga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec190",
+      "sentiment": -1.0,
+      "quote": "Införandet av en klareringsmyndighet bedöms även innebära ett avsteg från principen om ett verksamhetsanpassat säkerhetsskydd samt att information om samtliga säkerhetsprövade och uppgifter om samtliga verksamhetsutövares säkerhetskänsliga verksamhet, skyddsvärden och hotbild samlas hos en enda aktör, vilket skulle utgöra en allvarlig sårbarhet för Sveriges säkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 1.0,
+      "quote": "Region Stockholm ser därför att den föreslagna utvidgningen av registerkontrollen tillgodoser ett befintligt behov hos verksamhetsutövare att på ett rättssäkert sätt inhämta relevanta uppgifter för säkerhetsprövningen samtidigt som den enskilda individens integritet värnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": 0.5,
+      "quote": "Med nuvarande regelverk finns en uppenbar risk att individer som inte längre anses vara pålitliga ur säkerhetssynpunkt får en säkerhetsklassad befattning hos en annan verksamhetsutövare just för att dessa uppgifter inte hanteras inom ramen för registerkontrollen.",
+      "quote_type": "grund"
+    }
+  ]
+}

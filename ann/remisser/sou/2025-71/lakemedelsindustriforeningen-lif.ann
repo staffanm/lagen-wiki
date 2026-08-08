@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:71/lakemedelsindustriforeningen-lif": "7d80184dae92f0a6493ed08c98037e7c739b5718e774ff4fe6c34a1323079f23",
+      "artifact:forarbete/sou/2025-71": "957a0b0208845de41ee3eb7c78a854f8c82bf13e7ec07e3ebdf350fdecdb0325"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Lif instämmer i behovet av att förbättra patienters och vårdpersonals överblick över patientens läkemedelsanvändning, och tillstyrker därmed förslagen om en utvidgning av nationell läkemedelslista, till en nationell infrastruktur för läkemedelsbehandling och vissa medicintekniska produkter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec9",
+      "sentiment": 1.0,
+      "quote": "Lif instämmer i behovet av att förbättra patienters och vårdpersonals överblick över patientens läkemedelsanvändning",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec678",
+      "sentiment": 0.5,
+      "quote": "Lif anser dock att det behöver tas fram en närmare definition av vad som avses med läkemedel med långvarig effekt utifrån behoven av att tillgå information om sådana läkemedel i den fortsatta behandlingen av patienten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": 1.0,
+      "quote": "Information om vaccinationer är som utredningen beskriver ofta spridd över olika vårdgivare och system, vilket gör det svårt för patienter att få en samlad bild.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.6",
+      "sentiment": 1.0,
+      "quote": "Att kunna följa upp användning av läkemedel som ordinerats och administrerats eller överlämnats inom hälso- och sjukvården är grundläggande för säker och ändamålsenlig läkemedelsanvändning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.4.3",
+      "sentiment": -0.5,
+      "quote": "Avsaknad av uppgifter från specifika aktörer leder till försämrade möjligheter att följa upp säkerhet och effektivitet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.4",
+      "sentiment": 0.2,
+      "quote": "Exempelvis är uppgifter om ordinationsorsak, som ingår i nationella läkemedelslistan, av stor betydelse för läkemedelsföretagens möjlighet att använda uppgiften i forskning och uppföljning av läkemedelsanvändning.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:117/skatteverket": "0d71bbbf12cddf40495552fb962301806d2b20804db0d993e2fdd489e922a0a3",
+      "artifact:forarbete/sou/2025-117": "e9f7c3ab9cf49724fafdf32b1ac759e11d234a9fee7d593cc7ebb686a52a59d9"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Skatteverket tillstyrker utredningens förslag om en ny reglering av associationsrättsliga fonder med rörligt kapital i form av fondandelsbolag som ska kunna användas för att bilda både UCITS-fonder (investeringsbolag) och associationsrättsliga alternativa investeringsfonder (AIF-bolag) samt möjligheten att i vissa fall bilda s.k. delfonder. Skatteverket avstyrker däremot delförslaget att andelar i Eltif-fonder som marknadsförs öppet till, samt över tid ägs av, ett betydande antal icke-professionella investerare som bildats i form av ett AIF-bolag eller en utländsk juridisk person ska få förvaras på ISK.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.1",
+      "sentiment": 1.0,
+      "quote": "Skatteverket tillstyrker utredningens förslag om en ny reglering av associationsrättsliga fonder med rörligt kapital i form av fondandelsbolag som ska kunna användas för att bilda både UCITS-fonder (investeringsbolag) och associationsrättsliga alternativa investeringsfonder (AIF-bolag) samt möjligheten att i vissa fall bilda s.k. delfonder.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a4.16",
+      "sentiment": 1.0,
+      "quote": "Skatteverket tillstyrker utredningens förslag om en ny reglering av associationsrättsliga fonder med rörligt kapital i form av fondandelsbolag som ska kunna användas för att bilda både UCITS-fonder (investeringsbolag) och associationsrättsliga alternativa investeringsfonder (AIF-bolag) samt möjligheten att i vissa fall bilda s.k. delfonder.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec31",
+      "sentiment": -0.5,
+      "quote": "Skatteverket anser att om onoterade Eltif-fonder tillåts på ISK uppstår betydande värderingssvårigheter och en risk för undervärdering vilket i sin tur kan leda till en för låg schablonskatt under innehavstiden.",
+      "quote_type": "grund"
+    }
+  ]
+}

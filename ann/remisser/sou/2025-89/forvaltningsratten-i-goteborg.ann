@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:89/forvaltningsratten-i-goteborg": "6b24ae68c70d4a8f2b650bdbe295f9627f8d3ac241c3b1388ca0ef7bc18744c3",
+      "artifact:forarbete/sou/2025-89": "afe1fb1af513037b8ebe2623eb4a101b40c95abf5ec06765e928348800d59876"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Förvaltningsrätten i Göteborg anser dock att det inte kan uteslutas att målen ökar mer än vad utredningen räknat med och att det därför finns anledning att bevaka frågan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.10",
+      "sentiment": -0.2,
+      "quote": "Om sanktionsavgift ska kunna meddelas i fler situationer finns en risk för att antalet mål ökar ytterligare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18.3",
+      "sentiment": -0.2,
+      "quote": "Dea innebär en potentiellt ökad måltillströmning för förvaltningsrätterna, eftersom det kan förutsättas att vissa överklagade beslut har ändrats av Havs- och vattenmyndigheten och att dess beslut inte alltid överklagas.",
+      "quote_type": "grund"
+    }
+  ]
+}

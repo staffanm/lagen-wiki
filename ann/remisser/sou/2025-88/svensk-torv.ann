@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/svensk-torv": "f7c4b82713576d0f4acae7459db3d6cd8f8827eac27e0ddb8e31387531408701",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": -0.7,
+    "quote": "Svensk Torv anser emellertid att de förslag som presenterats i utredningen inte uppfyller de angivna syftena, utan riskerar att få motsatt effekt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec12",
+      "sentiment": -1.0,
+      "quote": "Att flytta hushållningsbestämmelserna till en separat lag utan att göra några materiella ändringar riskerar enligt Svensk Torv således enbart att skapa ytterligare otydlighet och oklarhet i tillämpningen, vilket står i direkt strid med det angivna syftet med förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": -1.0,
+      "quote": "Eftersom samma underlag kommer krävas som för ingivande av en tillståndsansökan är det svårt att se behovet av den föreslagna processen med områdesanvändningsbesked.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec39",
+      "sentiment": -0.5,
+      "quote": "Mot den bakgrunden är även den föreslagna giltighetstiden på fem år problematisk, eftersom det finns en risk att förutsättningarna för verksamheten ändras under denna period.",
+      "quote_type": "grund"
+    }
+  ]
+}

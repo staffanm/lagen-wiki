@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/forsvarsmakten": "395a350ccaa598d15be3ae967f27cce50208929ffee1a4eb2cd6272fe4013e05",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Försvarsmakten är positiv till ambitionen att samla och stärka Sveriges cybersäkerhetsförmåga genom tydligare ansvarsfördelning och samordning av det nationella cybersäkerhetscentrets verksamhet under Försvarets radioanstalt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 0.5,
+      "quote": "Försvarsmakten ser en risk i att den föreslagna omorganisationen initialt kan medföra en effektförlust och att det därför är viktigt att övergången hanteras med noggrann planering och tydlig prioritering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.2",
+      "sentiment": -0.5,
+      "quote": "Att samverkansmyndigheterna ska bistå cybersäkerhetscentret med information och vice versa framgår redan av NCSC-förordningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

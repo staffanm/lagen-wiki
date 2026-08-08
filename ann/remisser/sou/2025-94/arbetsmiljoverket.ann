@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:94/arbetsmiljoverket": "728dabb2fc6422f4c68633698f563d28b94fd379143710c92b55832d01059c15",
+      "artifact:forarbete/sou/2025-94": "73b4a3a1ccaec8d56f8514861e9004867d6f9800536c6582d42bc6ebd8a33624"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Förslagen som sådana – ny lag om väpnad styrka, lag om säkerhetskontroll på utlandsmyndigheterna, ändring av Polismyndighetens och Försvarsmaktens instruktioner för att möjliggöra att de lämnar stöd till utlandsmyndigheterna – rör områden som ligger utanför Arbetsmiljöverkets uppdrag och expertis.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 0.5,
+      "quote": "Däremot bedömer Arbetsmiljöverket att förslagen medför behov av att se över och förtydliga regleringen av arbetsmiljöansvaret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.5,
+      "quote": "För att sådan väpnad styrka som avses i den föreslagna lagen inte ska stå utan arbetsmiljörättsligt skydd krävs att frågan regleras.",
+      "quote_type": "grund"
+    }
+  ]
+}

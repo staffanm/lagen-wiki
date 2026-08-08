@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/kammarratten-i-stockholm": "448a51b07ee4cd8305c94d35cf5ddffeee7d5beefdd1dd6eccd08af4dfd80eef",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt har kammarrätten inga synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.4",
+      "sentiment": -0.2,
+      "quote": "I annat fall framstår tillsynsmyndighetens möjlighet att genomföra verkställigheten, t.ex. eftersöka handlingar, som praktiskt taget omöjlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec138",
+      "sentiment": -0.5,
+      "quote": "Kammarrätten anser att kravet på en rättssäker prövning av beslut om tvångsåtgärder tillgodoses även om det skulle krävas prövningstillstånd vid överklagande till kammarrätten.",
+      "quote_type": "grund"
+    }
+  ]
+}

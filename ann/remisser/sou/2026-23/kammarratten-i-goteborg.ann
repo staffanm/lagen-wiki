@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/kammarratten-i-goteborg": "004305b0c0dcbec605cc37f7ea9ae361e623de99a94392eae7db385b1de4f49b",
+      "artifact:forarbete/sou/2026-23": "4b771b1a535563d0761ca26fd4c07fb50080ffd1eb1be6a8fe36aec194c1d6f7"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Kammarrätten har följande synpunkter på utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "I betänkandet finns inte något ställningstagande eller någon analys kring om juridiska personer ska kunna åläggas att betala en tolkavgift och vilka bedömningar som kan behöva göras i de fall då ärendet där tolk har använts rör en juridisk person.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": -0.5,
+      "quote": "Det kan ifrågasättas om tolkavgift alls kan tas ut i ärenden om avgifter av det slaget (jfr s. 211 i betänkandet).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1",
+      "sentiment": -0.2,
+      "quote": "I betänkandet saknas en analys av sådana processuella frågeställningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec575",
+      "sentiment": -0.2,
+      "quote": "Kammarrätten anser att det finns en risk att utredningen underskattar enskildas benägenhet att överklaga beslut om tolkavgift och beslut om att använda tolk, varför kostnaden för domstolarna kan bli högre än vad utredningen förutspår.",
+      "quote_type": "grund"
+    }
+  ]
+}

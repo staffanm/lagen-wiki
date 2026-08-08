@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:61/sverige-nepalforeningen": "24a2d9654c659dec0b69fd06db8557bb956be7a84f48d5e12582c5314e81920b",
+      "artifact:forarbete/sou/2025-61": "c8d09bc4b2ee92f1bde3bdb0285bc5766bdfef45db2fb06aa2b9f212091e91e2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi stödjer utredningens förslag i stort.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec25",
+      "sentiment": -0.5,
+      "quote": "Att nu, trots denna utveckling, besluta om ett generellt stopp för internationella adoptioner framstår därför som både onödigt och oproportionerligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec22",
+      "sentiment": 1.0,
+      "quote": "Ett sådant centrum – som föreslogs redan 2003 men aldrig genomfördes – skulle kunna erbjuda stöd i frågor som rör adoption, vägledning i kontakten med myndigheter samt förmedla kontakt med psykologer och andra experter med specifik kunskap om adoption.",
+      "quote_type": "grund"
+    }
+  ]
+}

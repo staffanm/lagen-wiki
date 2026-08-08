@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:60/svenskt-naringsliv": "e23736109e53cddbfe9b56c3e064ca27bea391c85ba4599cd53db5d4b41e2621",
+      "artifact:forarbete/sou/2025-60": "ba08a5cf25200bcc4b5e48a4ae829bfa92fdb7a8a18e1f7113bf8aa0612a2eee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Det svenska fondsparandet är en viktig finansieringskälla för näringslivet och kapitalmarknaden utgör ett viktigt alternativ till den allt mer stramt reglerade banksektorn.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": 1.0,
+      "quote": "En sådan ändring borde öka möjligheterna för både investerare och förvaltare att investera långsiktigt även i mindre likvida tillgångar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.9",
+      "sentiment": 0.5,
+      "quote": "Att detta fungerar väl är särskilt viktigt mot bakgrund av de allt stramare regelverk som reglerar banksektorn och därmed påverkar företagsutlåningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/kronofogdemyndigheten": "4dad70af8d514ca61f537b21eab23c28d00a2b3e25b6da3e1ec1708ff2726510",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Kronofogdemyndigheten (Kronofogden) har inga synpunkter på majoriteten av förslagen i betänkandet men önskar framföra följande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 0.5,
+      "quote": "Detta då kravet på att medlen ska hållas avskilda kan medföra ökad tydlighet i de fall sådana medel blir föremål för utmätning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": -0.5,
+      "quote": "Kronofogdens bedömning är att ett sådant undantag riskerar att motverka det förebyggande arbete som socialtjänsten har att utföra, särskilt i ärenden där barn berörs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.8",
+      "sentiment": -0.2,
+      "quote": "Detta kan leda till att Kronofogdens delgivningsverksamhet i viss mån försvåras i fråga om delgivning av avhysningsmål inom den summariska processen.",
+      "quote_type": "grund"
+    }
+  ]
+}

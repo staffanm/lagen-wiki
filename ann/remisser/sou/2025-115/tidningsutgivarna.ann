@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/tidningsutgivarna": "813dfc434cb1658720b55d3c59086ae6a31c54bd3841c65524317a432e70f603",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Det är i de flesta fall långtgående förslag som i praktiken kommer att utsträcka – eller befästa en redan befintlig – sekretess samt begränsa meddelarfriheten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec359",
+      "sentiment": -0.5,
+      "quote": "Enligt TU:s mening finns förutom skyddsintresset, här även ett betydande insynsintresse och den föreslagna bestämmelsen är därför inte proportionerlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec377",
+      "sentiment": 1.0,
+      "quote": "TU tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec362",
+      "sentiment": -1.0,
+      "quote": "Tvärtom syftar meddelarfriheten till att vara en säkerhetsventil just de gånger då den offentliga informationen brister, undanhålls eller uteblir.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.9",
+      "sentiment": 0.2,
+      "quote": "Enligt TU:s mening måste det därför, om bestämmelsen alls ska kunna godtas, tydligt klargöras i författningskommentaren att det rakt kvalificerade skaderekvisitet innebär just det som den är avsedd att innebära, d v s en klar presumtion för offentlighet, och inte det motsatta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.6.3",
+      "sentiment": -1.0,
+      "quote": "Att utestänga själva tillgången till information om sårbarhets- och incidentrapporters blotta existens är enligt TU:s mening en oproportionerlig åtgärd.",
+      "quote_type": "grund"
+    }
+  ]
+}

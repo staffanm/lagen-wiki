@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:44/herrljunga-kommun": "824c9441df87ca5c0ab27fd823b319af398410b595e0658b19f5689bb07233b8",
+      "artifact:forarbete/sou/2025-44": "1396d82b23e71a24d75402f2a937c9a2c4f5dfc154910855338e1afa27650216"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Bildningsförvaltningen i Herrljunga ställer sig över lag positiv till flera av förslagen i betänkandet SOU 2025:44 Förbättrat stöd i skolan.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.8,
+      "quote": "Att avskaffa extra anpassningar inom skolan kan vara ett viktigt steg för att minska dokumentationsbördan för lärare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.5,
+      "quote": "Förslaget om att ta bort de nationella proven i årskurs 3 bedöms som positivt, under förutsättning att andra metoder för uppföljning och resultatanalys säkerställs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": 0.5,
+      "quote": "Betänkandets förslag på att stöd ska kunna sättas in snabbare och mer träffsäkert genom stödundervisning och riktade insatser, samt att ledning och stimulans fortsatt ses som en grundläggande del i all undervisning kan vara en möjlighet att tillgodose de behov som eleverna har.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7",
+      "sentiment": -0.5,
+      "quote": "Förslaget att helt ta bort formuleringen om att särskilt stöd ska ges i den elevgrupp eleven tillhör innebär en risk för ökad exkludering och står i konflikt med etablerad specialpedagogisk kunskap om delaktighetens betydelse för elevers lärande och välbefinnande.",
+      "quote_type": "grund"
+    }
+  ]
+}

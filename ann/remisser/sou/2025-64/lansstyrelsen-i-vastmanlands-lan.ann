@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/lansstyrelsen-i-vastmanlands-lan": "f08097e33a30b053ebc22c36f9694e26590ead236ae374567e743605364b7ea7",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Förslaget riskerar därmed att motarbeta syftet att företagen får en enklare kontrollkedja och en mer samordnad kontroll.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.4.3",
+      "sentiment": 0.5,
+      "quote": "En övergång till länsstyrelserna kan också bidra till att uppnå utredningens mål om förenkling och enhetlighet, men till en betydligt lägre kostnad och utan att bygga upp en parallell kontrollstruktur i varje län.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18.3.3",
+      "sentiment": 1.0,
+      "quote": "Då kontrollområdet inte omfattar så många kontrollobjekt som inom primärproduktionsområdet eller inom livsmedelstillsynen i övrigt så ser Länsstyrelsen att det vore till nytta för området om det sköts av en central myndighet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.1.9",
+      "sentiment": 0.5,
+      "quote": "Utredningen föreslår att Livsmedelsverket ska få resurser att utföra revisioner av kommunerna som övergångslösning innan införande av ny organisation, vilket bör underlätta genomförandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.1.4",
+      "sentiment": 1.0,
+      "quote": "Redan idag finns behovet av regleringar som möjliggör informationsdelning mellan myndigheter för en effektiv offentlig kontroll så detta är ett välkommet förslag oavsett om utredningens förslag genomförs i övriga delar.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/lansstyrelsen-skane": "3789cc8e9438d6c30f55e9c49d535868643368d9ac386a6560f4b9c7ab9e5326",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen har inget att erinra mot de författnings-förändringar och övriga förslag som återfinns i slutbetänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.9",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser dock att förslaget om att ändra förordningen (2022:722) om statsbidrag för visst våldsförebyggande arbete inte är tillräckligt utrett.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.4",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i att det finns skäl som talar för att en annan myndighet än Polismyndigheten ska vara rapportör för arbetet mot människohandel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.5",
+      "sentiment": 0.5,
+      "quote": "Det är därför viktigt att varje enskild länsstyrelse ges möjlighet att göra de prioritering och satsningar som är relevant utifrån det egna länets lägesbild.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": 1.0,
+      "quote": "Särskild kompetens om människohandel och exploatering är avgörande för ett framgångsrikt arbete.",
+      "quote_type": "grund"
+    }
+  ]
+}

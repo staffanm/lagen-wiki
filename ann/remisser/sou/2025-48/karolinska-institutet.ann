@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/karolinska-institutet": "c4df50480a7b76b3a4c77db4d3ce9cb27b6451a67f5b90117406b7eb14c76946",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Generellt ställer sig KI positivt till utredningens slutsatser, vilka också lyfter flera punkter från Coronakommissionens rapport.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": 0.8,
+      "quote": "Här ser KI att erfarenheterna från pandemin med hemprovtagning som ett bra alternativ och kan bidra vid dylikt undantagstillstånd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.8.1",
+      "sentiment": 0.8,
+      "quote": "KI stöder därmed förslaget om egenprovtagning som komplement vid storskalig testning, kap. 8.8.1 samt kap. 8.8.7.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.8.7",
+      "sentiment": 0.8,
+      "quote": "Dessa erfarenheter behöver tas tillvara, förvalta och vidareutvecklas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.8,
+      "quote": "KI instämmer i att detta är en mycket viktig komponent, både i beredskapen inför en pandemi och under en framtida pandemi.",
+      "quote_type": "grund"
+    }
+  ]
+}

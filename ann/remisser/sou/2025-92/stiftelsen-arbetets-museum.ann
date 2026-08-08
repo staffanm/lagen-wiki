@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:92/stiftelsen-arbetets-museum": "8b0974eac3b855d13f88c2fbbb85069028035ff3964f20dff2ab4761d3fe070e",
+      "artifact:forarbete/sou/2025-92": "c1db6346e92cb1aaf69fe092a6e40e7ceba88b5192c9caee2959771165f82273"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Arbetets museum anser att ansatsen i En kulturkanon för Sverige är lovvärd och bra med dess betoning på ett demokratiskt och tillgängligt kulturarv och gemensamma referensramar i syfte att stärka inkludering.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec440",
+      "sentiment": 1.0,
+      "quote": "Vi gläder oss naturligtvis över att industrilandskapet i Norrköping lyfts som en av dessa viktiga milstolpar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.2.2",
+      "sentiment": -0.5,
+      "quote": "Det är olyckligt att skapa parallella strukturer när befintliga strukturer redan finns på nationell, regional och lokal nivå; i form av centralmuseer, länsmuseer, kommunala museer, arbetslivsmuseer, hembygdsföreningar med mera.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.3",
+      "sentiment": -0.2,
+      "quote": "Även här finns en fara i att skapa parallella strukturer gentemot befintliga databaser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.8",
+      "sentiment": -0.5,
+      "quote": "Angående skolan bör offentliga insatser snarare riktas in på att underlätta för skolorna att besöka museer nationellt, regionalt och lokalt för att på plats och fysiskt ta del av sitt kulturarv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec550",
+      "sentiment": -1.0,
+      "quote": "Det vore ytterst bekymmersamt att ta medel från 7:2 anslaget som är ett av mycket få verktyg för att finansiera byggnadsvård utanför storstäderna.",
+      "quote_type": "grund"
+    }
+  ]
+}

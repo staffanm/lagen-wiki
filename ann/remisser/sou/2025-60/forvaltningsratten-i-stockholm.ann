@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:60/forvaltningsratten-i-stockholm": "5333cb2fe4279be34584852d24f8cd0b17dd7bbe0378d0d654dacf3c59ada171",
+      "artifact:forarbete/sou/2025-60": "ba08a5cf25200bcc4b5e48a4ae829bfa92fdb7a8a18e1f7113bf8aa0612a2eee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förvaltningsrätten i Stockholm har, utifrån de utgångspunkter som domstolen har att beakta, inte något att invända mot de förslag som lämnas i betänkandet, men vill lämna följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 0.0,
+      "quote": "De nya bestämmelserna om likviditetshanteringsverktyg kommer att kräva ändringar av samtliga fonders fondbestämmelser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec495",
+      "sentiment": -0.5,
+      "quote": "För att sådana mål ska kunna hanteras med den expertis och noggrannhet som krävs samt avgöras inom rimlig tid, krävs att förvaltningsrätten tilldelas erforderliga resurser.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:32/naturhistoriska-riksmuseet": "dd37346b8fc24f95567edf2c44dd0a5c484c7be1ebf8dcfe01a7d77ce695a827",
+      "artifact:forarbete/sou/2025-32": "26d80d3408f8a86054abee979a4040504620837bce388bbf4a4cc1ac89c1b1e7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Museets yttrande fokuserar på utredningens förslag i kapitel 1.4, 4.7, 4.5, och 7.2; i övriga delar av betänkande avstår museet från att yttra sig.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": 0.5,
+      "quote": "I annat fall kan det komma att innebära svårigheter för museet att undvika att lämna ut uppgifter som kan gå att härleda till vapenägare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.7",
+      "sentiment": 0.5,
+      "quote": "Förslaget kommer därför att ha en mycket liten påverkan på museets arbetsbelastning och hanteringskostnad för statens vilt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.5",
+      "sentiment": -0.5,
+      "quote": "För Naturhistoriska riksmuseet skulle det i sin tur leda till en ökad osäkerhet kring vilka djur som får tas emot och införlivas i samlingarna samt ge en ökad kostnad för administration.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.5,
+      "quote": "Detta är av största vikt för att kunna reglera slitage på naturen och beskattning av bestånd på lokal nivå och en absolut förutsättning för att ändringen av 47 § ska kunna gå att genomföra utan att naturvården blir lidande.",
+      "quote_type": "grund"
+    }
+  ]
+}

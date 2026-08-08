@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/lansstyrelsen-i-norrbottens-lan": "a6d34da37485817ae9fccf7503660973de207cdd58f4f882c91890e2cda66edd",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen ser det som fördelaktigt att samla de ansvarsområden som idag hanteras utav MSB och FRA under en gemensam myndighet för att effektivisera arbetet med att stärka samhällets cybersäkerhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen ser det som fördelaktigt att samla de ansvarsområden som idag hanteras utav MSB och FRA under en gemensam myndighet för att effektivisera arbetet med att stärka samhällets cybersäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec63",
+      "sentiment": 1.0,
+      "quote": "De angivna förslagen kan även underlätta för verksamhetsutövare genom att skapa en gemensam kontaktpunkt under FRAs organisation, vilket länsstyrelsen ser som fördelaktigt inför kommande tillsynsuppdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.9",
+      "sentiment": -0.5,
+      "quote": "På grund av länsstyrelsernas gemensamma strukturer skulle en korsvis tillsyn orsaka intressekonflikter och riskera att myndigheternas oberoende ifrågasätts.",
+      "quote_type": "grund"
+    }
+  ]
+}

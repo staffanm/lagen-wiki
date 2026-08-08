@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:71/svenska-lakaresallskapets-sls": "babf5e07ed79142babf25a81721fdf4ba8728313a60e6fdf578132e466597a01",
+      "artifact:forarbete/sou/2025-71": "957a0b0208845de41ee3eb7c78a854f8c82bf13e7ec07e3ebdf350fdecdb0325"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utan detta riskerar hanteringen av ordinationer att bli osammanhängande och mindre patientsäker.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a15.4",
+      "sentiment": 1.0,
+      "quote": "ambitionen måste vara att nationell läkemedelslista ska kunna fungera som ett stöd för patientens fortlöpande egna administrering av receptförskrivna läkemedel i hemmet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.3",
+      "sentiment": -0.2,
+      "quote": "Otydlig begreppsanvändning leder till olika tolkningar i regionerna och osäker implementering av beslutsstöd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.2",
+      "sentiment": -0.5,
+      "quote": "Utan maskinellt stöd för automatisk uppdatering och avstämning genom hela ordinationens och receptets respektive livscykel finns en reell risk för ökad administrativ belastning, informationsinkonsekvenser och därmed försämrad patientsäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": -0.2,
+      "quote": "Detta riskerar framtida fragmentering och olika tillämpningar i landet.",
+      "quote_type": "grund"
+    }
+  ]
+}

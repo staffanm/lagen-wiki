@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:61/sveriges-ambassad-i-hanoi": "f4c1dd219c72cc7824b3461f4d73049e59f05f10862af84bfb20d5612a5ab49b",
+      "artifact:forarbete/sou/2025-61": "c8d09bc4b2ee92f1bde3bdb0285bc5766bdfef45db2fb06aa2b9f212091e91e2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Samtidigt vill ambassaden framföra att de förslag som berör utlandsmyndigheternas roll – särskilt avsnitt 8.10.3 om stöd till resurscentrum i ursprungsundersökningar – riskerar att innebära en betydande arbetsbelastning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec363",
+      "sentiment": 1.0,
+      "quote": "Ambassaden gör bedömningen att den redogörelse som ges för utvecklingen av internationella adoptioner från Vietnam är korrekt och överensstämmer med tillgängliga offentliga källor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.11",
+      "sentiment": 0.0,
+      "quote": "Ambassaden gör bedömningen att det ligger utanför utlandsmyndighetens kompetens- och ansvarsområde att kommentera eventuella förändringar i den förordning som reglerar utrikesrepresentationen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.10.3",
+      "sentiment": -0.2,
+      "quote": "I Vietnam är förekomsten av falska dokument omfattande, vilket innebär att stöd vid ursprungsspårning kan kräva omfattande insatser från ambassadens sida för att kunna säkerställa att arbetet bedrivs på ett rättssäkert vis.",
+      "quote_type": "grund"
+    }
+  ]
+}

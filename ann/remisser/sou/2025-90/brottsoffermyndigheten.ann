@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:90/brottsoffermyndigheten": "068330c42920380e0263e43705f058fcc1f9d1be742718892aabdda0c81f62ca",
+      "artifact:forarbete/sou/2025-90": "c2e4c30d4c5dcb7aed515c66494488233ac250895bf23594526ec562841615d1"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Brottsoffermyndigheten tillstyrker de förslag som lämnas i utredningen, särskilt utredningens förslag i avsnitt 10.16 om att Skatteverket ska ta fram information som riktar sig till myndigheter och utsatta.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.14",
+      "sentiment": 1.0,
+      "quote": "Det framstår enligt Brottsoffermyndigheten som om digital brevlåda är det bästa alternativet för att ersätta brev.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.16",
+      "sentiment": 0.5,
+      "quote": "Brottsoffermyndigheten anser vidare att informationen särskilt bör syfta till att underlätta för äldre samt enskilda med funktionsnedsättningar och språksvårigheter att skaffa digital brevlåda.",
+      "quote_type": "grund"
+    }
+  ]
+}

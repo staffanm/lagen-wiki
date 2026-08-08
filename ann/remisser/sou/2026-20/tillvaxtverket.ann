@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:20/tillvaxtverket": "9c1a39ee861199fe38e124fc3dae18110bc35f5decdae8098973abf16a09fa23",
+      "artifact:forarbete/sou/2026-20": "4bbbaf1255ebc0c511f2d6d339133f0df3731fa34b68ae49c40ee83603563261"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Fokus bör ligga på kapacitetsstärkande insatser snarare än nya krav, då demografiska utmaningar och ökade administrativa bördor riskerar att tränga undan kärnverksamhet i kommuner med låg kapacitet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1.1",
+      "sentiment": -0.5,
+      "quote": "En skattebroms riskerar att få negativa konsekvenser i form av höjda avgifter och taxor samt större ekonomisk belastning på kommuner med svag ekonomi.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec274",
+      "sentiment": -0.5,
+      "quote": "Tillväxtverkets erfarenhet är att effektiviseringspotentialen är begränsad, särskilt i mindre kommuner som i flera led effektiviserat sina verksamheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec300",
+      "sentiment": 1.0,
+      "quote": "Extra uppgifter utan kostnadstäckning anser Tillväxtverket kan påverka kommuner med låg kapacitet negativt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec301",
+      "sentiment": 1.0,
+      "quote": "Tillväxtverket stödjer utredningens förslag om att förordningen om konsekvensutredningar behöver följas och att finansieringsprincipen behöver tillämpas full ut.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

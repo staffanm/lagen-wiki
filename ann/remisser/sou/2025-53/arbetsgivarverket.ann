@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:53/arbetsgivarverket": "99c2d49dd4b28cc4c4f622eb6dc41135b8b0f929c3b89a9d78432de2e96f027a",
+      "artifact:forarbete/sou/2025-53": "1b5d2ced0349cbd7f9e81a7f1c3e41751352e4c3e89c351a85f75a5c2819aa25"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Arbetsgivarverket menar att det är viktigt att på olika sätt underlätta för svenska universitet och lärosäten att rekrytera internationell kompetens.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.6",
+      "sentiment": 0.2,
+      "quote": "inkomstvillkoret för att kunna kvalificera sig på sex månader är för högt ställt i förhållande till doktorander.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.4",
+      "sentiment": -0.2,
+      "quote": "doktorander har så kallade doktorandstegar med fasta lönesteg (tariffer), där ingångslönen varierar mellan olika fakulteter.",
+      "quote_type": "grund"
+    }
+  ]
+}

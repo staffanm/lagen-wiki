@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/forsmarks-kraftgrupp-ab": "143ded7595b1ce9b87fec389c132bf13b8e5222a234605caa30704cf8b71d6bd",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Forsmarks Kraftgrupp AB har tagit del av rubricerad remiss och önskar lämna kommentarer enligt nedan.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec410",
+      "sentiment": 0.5,
+      "quote": "Det torde förbättra och förenkla tillsynsstrukturen för både verksamhetsutövare och myndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.15",
+      "sentiment": -0.2,
+      "quote": "Det finns dock en farhåga om risk för misstro och minskat informationsutbyte mellan verksamhetsutövare som i sin tur skulle kunna ha en motsatt effekt på säkerhetsskyddet.",
+      "quote_type": "grund"
+    }
+  ]
+}

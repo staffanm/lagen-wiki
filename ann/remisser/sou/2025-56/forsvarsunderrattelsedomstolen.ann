@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:56/forsvarsunderrattelsedomstolen": "e2f964f83411081476cbd7adbd4dcc8cdf9c2804e7d730d9af3059174c739cdc",
+      "artifact:forarbete/sou/2025-56": "aa474607a823f641b3c41a3a7a0ae03a90bc89660beb4c770fe2fdd7ff299a48"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt har domstolen, utifrån de intressen domstolen har att bevaka, inte några synpunkter på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.14",
+      "sentiment": 0.2,
+      "quote": "Som utredningen konstaterar är frågan komplex och det är nödvändigt att en intresseavvägning görs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Domstolens vice ordförande och särskilda ledamöter är dock inte anställda vid domstolen, utan förordnas av regeringen för en fyraårsperiod.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": -0.5,
+      "quote": "Domstolens vice ordförande och särskilda ledamöter är dock inte anställda vid domstolen, utan förordnas av regeringen för en fyraårsperiod.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:9/statens-servicecenter": "8a4401eb284f0ae8da87ca4504a60e4191922b055bcc065166689ee1553a0df7",
+      "artifact:forarbete/sou/2026-9": "6e2fe757deba6487afb4900466860dd25cfab83203ab6a46a85c3d959c713359"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Statens servicecenter tillstyrker förslaget att EES-medborgare registreras vid vistelser i landet över tre månader.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": 0.5,
+      "quote": "Statens servicecenter ställer sig i princip även positivt till att på uppdrag av Migrationsverket utföra identitetskontroller i samband med registrering av EES-medborgare.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.8.1",
+      "sentiment": -0.5,
+      "quote": "Statens servicecenter avstyrker dock förslaget till tidsfrist som utredningen föreslår, vilken inte är praktiskt genomförbar och som därutöver medför stora risker.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2.14",
+      "sentiment": 1.0,
+      "quote": "Statens servicecenter delar utredningens bedömning av troliga undanträngningseffekter för samverkande myndigheters övriga tjänster.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

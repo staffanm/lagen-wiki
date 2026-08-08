@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/arbetsformedlingen": "749c4ff1b51377e0623b902f75ce5fdc46caa74b5f257f730cc7fd86a08a42b2",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Arbetsförmedlingen delar utredningens bedömning att den territoriella politiken behöver förtydligas och bedrivas sammanhållet så att mål, ansvarsfördelning, styrning och uppföljning hänger ihop.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Arbetsförmedlingen tillstyrker förslaget om ändring i lagen (2010:630) om regionalt utvecklingsansvar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.8",
+      "sentiment": 0.8,
+      "quote": "Arbetsförmedlingen ser ett förtydligande av ansvarsfördelning och styrning som nödvändigt, mot bakgrund av utredningens konstaterande att det inte finns ”någon självklar arena för att lösa ut de situationer med motstridiga signaler som kan uppstå”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 0.5,
+      "quote": "Myndigheten kan se fördelar med en sammanslagning, förutsatt att det finns en tydligt formulerad målbild som både balanserar nationella och regionala styrsignaler samt beaktar landsbygdens behov och förutsättningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

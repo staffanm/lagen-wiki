@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:32/lansstyrelsen-i-kalmar-lan": "6b0d69bffc3075ff517c520f4cde289921f833a12469683e0052ac40db9243bb",
+      "artifact:forarbete/sou/2025-32": "26d80d3408f8a86054abee979a4040504620837bce388bbf4a4cc1ac89c1b1e7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen tillstyrker remissen i stora delar men avstyrker förslaget i delen med skyddsjakt och att förändra begreppet ”allvarlig skada”.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.2.3",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser att den föreslagna förändringen motverkar ambitionen att främja en fungerande flerartsförvaltning av klövvilt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.5,
+      "quote": "Kalmar län har sedan 2020 en förvaltningsplan för klövvilt men saknar nationell styrning för att det ska bli ett verkningsfullt verktyg i förvaltningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen har svårt att förutse effekterna av ett förändrat finansieringssystem för älg men anser att det är problematiskt när dagens system med ganska oförändrad administration hanteras av intäkter som förändras med älgstammens storlek och avskjutningsnivåer mellan år och över tid.",
+      "quote_type": "grund"
+    }
+  ]
+}

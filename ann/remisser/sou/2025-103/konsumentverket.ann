@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:103/konsumentverket": "83f949e385a19fbee35bed0b9d6fd6af2ca9a10e60246d1a630a4eed0e18ad52",
+      "artifact:forarbete/sou/2025-103": "3494f54a32c4c4ce08c80df5c6f1304db463ec2825930548fa2363c4c69ec03f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "myndigheten ser positivt på utredningens övergripande syfte – att skapa en modern, tekniskt anpassad och konsumentvänlig produktansvarslag som ligger i linje med EU:s nya direktiv och som stärker konsumenternas rättsskydd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec24",
+      "sentiment": -0.2,
+      "quote": "Detta är av betydelse för att säkerställa att tillverkare beaktar vanliga och rimligen förutsägbara användningsmönster, även när dessa avviker från den avsedda användningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec92",
+      "sentiment": -0.2,
+      "quote": "Detta synsätt är viktigt för att upprätthålla ett högt och effektivt konsumentskydd samt för att undvika att standarder, som ibland kan vara ofullständiga eller eftersläpande, i förhållande till den tekniska utvecklingen, får en normerande verkan som inte motsvarar den faktiska säkerhetsnivån.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec112",
+      "sentiment": -0.5,
+      "quote": "Ett undantag för utvecklingsskador innebär i praktiken att tillverkaren saknar incitament att fullt ut tillämpa försiktighetsprincipen, eftersom de civilrättsliga konsekvenserna för tillverkaren uteblir för skador som upptäcks först genom den tekniska utvecklingen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.7",
+      "sentiment": -0.2,
+      "quote": "Konsumentverket vill här framhålla att en sådan ordning innebär en risk då den kan uppmuntra till att kritiska funktioner läggs på externa leverantörer eller att tillverkningskedjan delas upp på ett sätt som försvårar ansvarsutkrävande, vilket i praktiken skulle kunna underminera lagens syfte.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2.2",
+      "sentiment": -0.2,
+      "quote": "En reglering där sådana filer faller utanför produktbegreppet riskerar att skapa incitament för tillverkare att lägga kritiska styrdata i separata filer som programvaran läser in, i syfte att undgå ansvar vid fel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec91",
+      "sentiment": -0.5,
+      "quote": "Om återkallelser inte får utgöra en del av säkerhetsbedömningen finns en risk att denna typ av internationell information inte tas tillvara.",
+      "quote_type": "grund"
+    }
+  ]
+}

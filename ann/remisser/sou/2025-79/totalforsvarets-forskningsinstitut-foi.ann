@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/totalforsvarets-forskningsinstitut-foi": "c42e643a84b3619dd55b3c3d53fe444480512052d47047b2587d6f5cfeffd0c4",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Utredningen föreslår att detta åtgärdas genom att flytta verksamhet från MSB till FRA, vilket är positivt, men utredningen förblir otydlig avseende hur förmågor på nationell nivå avseende exempelvis ledningsmetoder, normering och delad lägesbild ska tillföras och stärkas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3.2",
+      "sentiment": 1.0,
+      "quote": "vilket FOI tillstyrker",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.3",
+      "sentiment": 0.5,
+      "quote": "vilket FOI i stort sett tillstyrker",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.3.7",
+      "sentiment": -0.5,
+      "quote": "FRA saknar tradition och synergi till kärnverksamheten i forskningsfrågor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.1",
+      "sentiment": -0.2,
+      "quote": "Det är inte tydligt på vilket sätt denna verksamhetsform skiljer sig från ett myndighetsgemensamt samverkanscenter.",
+      "quote_type": "grund"
+    }
+  ]
+}

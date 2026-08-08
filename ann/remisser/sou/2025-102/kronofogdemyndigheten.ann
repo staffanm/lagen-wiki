@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/kronofogdemyndigheten": "dd429a2f8f5fd6bdbc45a4461e10e88e8b8e57dc2e43e5a37fdd834ba0de0edb",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Kronofogdemyndigheten (Kronofogden) har inga synpunkter på majoriteten av förslagen i betänkandet då dessa inte bedöms ha någon påverkan på Kronofogdens verksamhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3.1",
+      "sentiment": 1.0,
+      "quote": "Kronofogden delar bedömningen att uppdraget att utföra stämningsmannadelgivning åt andra utifrån säkerhetsaspekter bäst lämpar sig för Polismyndigheten samt att en ansvarsflytt skulle riskera att påverka effektiviteten och leda till ökade kostnader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": 1.0,
+      "quote": "Den föreslagna begränsningen framstår som ändamålsenlig och väl avvägd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.2",
+      "sentiment": 1.0,
+      "quote": "Kronofogden anser att det är av stor vikt att möjligheten att anlita Polismyndigheten kvarstår i de fall det är påkallat utifrån en föreliggande risk eller hotbild.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/lantmateriet": "08504a766c194c537ba1589b7675b4abbfb0223ba12c1b471a52f6f5cf58fc2a",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Lantmäteriet tillstyrker förslagen men vill i sammanhanget lämna följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a20.3.1",
+      "sentiment": 0.5,
+      "quote": "Detta för att myndigheten ska ha möjligheter att anpassa systemstöd som uppmärksammar Lantmäteriets medarbetare om vilka fastigheter som är belägna i glesbygdsområden och därmed kan innebära krav på jordförvärvstillstånd innan vissa typer av inskrivnings- eller fastighetsbildningsärenden beviljas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.3.2",
+      "sentiment": 1.0,
+      "quote": "Förändringen bedöms kunna hanteras med manuella rutiner.",
+      "quote_type": "grund"
+    }
+  ]
+}

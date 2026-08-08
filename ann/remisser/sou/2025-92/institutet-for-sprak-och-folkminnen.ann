@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:92/institutet-for-sprak-och-folkminnen": "8f517def8f7a387e0c43728d11b95cfe37966ec6491d346a85f700038a8b8bf4",
+      "artifact:forarbete/sou/2025-92": "c1db6346e92cb1aaf69fe092a6e40e7ceba88b5192c9caee2959771165f82273"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Institutet för språk och folkminnen (Isof) lämnar härmed synpunkter på bedömningar och förslag i utredningen som ligger inom myndighetens expertområden.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.2",
+      "sentiment": -0.5,
+      "quote": "Allmänna arvsfonden är en viktig bidragsgivare till den ideella sektorn och en finansiering av den nya stiftelsen med medel från Arvsfonden riskerar, som kommittén också konstaterar, leda till att mindre resurser finns tillgängliga för ideella organisationers projekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.3",
+      "sentiment": 0.2,
+      "quote": "Isof menar att beskrivningen av hur AI kan användas inom kanonarbetet är otydlig och bör utredas vidare.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/tidningsutgivarna": "3e945f8a0e81ef54b6c3255d737501b1f9edd59f875470c78e33941e2716ab61",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "TU konstaterar dock att förslagen utgör långtgående begränsningar av de grundlagsskyddade fri- och rättigheterna och vill understryka att dessa inte får gå längre än vad som svensk grundlag och internationella konventioner medger.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.8",
+      "sentiment": 1.0,
+      "quote": "de tekniska hjälpmedel som används vid avlyssningen eller övervakningen inte får placeras på eller riktas mot särskilt fredade platser, såsom advokatkontor och medieredaktioner",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.16",
+      "sentiment": -0.2,
+      "quote": "TU delar den skepsis som kommer till uttryck i betänkandet och vill, om förslaget ändå skulle genomföras, betona vikten av att rättegångsbalkens begränsningar av användningen av tvångsmedel, t ex beslagsförbudet, respekteras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec608",
+      "sentiment": 0.2,
+      "quote": "TU kan dela den bedömningen med ett samtidigt konstaterande av att sekretessen här redan är mycket långtgående och i praktiken oftast innebär en absolut sekretess.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:3/skatteverket": "5dd8cb29e66dae37dd38c16e394f8646af93456ce1f9f9278ac9ad3573913432",
+      "artifact:forarbete/sou/2026-3": "a57602efa93a3a568c65f2616a90564109efac9844cf6fcbd52ded0f202140f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket har inget att invända mot att förslagen genomförs.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.9.3",
+      "sentiment": -0.5,
+      "quote": "Skrivningen innehåller flera felaktigheter som bör beaktas i det fortsatta lagstiftningsarbetet.",
+      "quote_type": "grund"
+    }
+  ]
+}

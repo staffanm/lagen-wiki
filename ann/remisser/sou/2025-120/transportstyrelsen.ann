@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/transportstyrelsen": "fcc3297f7f951fd12248fe01a46202c639523ad8ef56117d3c0b9a943b1abd29",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Transportstyrelsen tillstyrker utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3.2",
+      "sentiment": -0.2,
+      "quote": "Transportstyrelsen anser att det kan komma att uppstå problem när det gäller hur ansvarsfrågor kring hur säkerhet, drift och underhåll ska hanteras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec103",
+      "sentiment": -0.2,
+      "quote": "Transportstyrelsen anser att det är otydligt i vilken mån intäkter från banavgifter förväntas ingå i finansieringen av de föreslagna järnvägsobjekten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec97",
+      "sentiment": -0.5,
+      "quote": "Att tillföra nya infrastrukturförvaltare enligt järnvägsmarknadslagstiftningen för delar av nätet skulle kunna leda till stora utmaningar för samordningen av kapacitetsförvaltningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec97",
+      "sentiment": -0.2,
+      "quote": "Ett fördelat ansvar ställer höga krav på samordning och tydlig ansvarsfördelning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.1",
+      "sentiment": -0.2,
+      "quote": "Förfarandet och ansvaret när det gäller godkännandet av fasta installationer enligt 3 kap. järnvägstekniklagen (2022:366) beskrivs inte så tydligt i utredningen och vi har svårt att uttala oss det.",
+      "quote_type": "grund"
+    }
+  ]
+}

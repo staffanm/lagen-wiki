@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/skogsstyrelsen": "635452a579e33ec5bf61c9058f9ec948f500884663fb43c78f639b1f1fefd13c",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Digitalisering av fastighetsgränser är en angelägen reform för skogsbruket och utredningen har belyst detta på ett bra sätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a16.6",
+      "sentiment": 0.5,
+      "quote": "Det adresserar problemet med det stora antal befintliga gränser med osäkra koordinater i skogsmark.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": -0.2,
+      "quote": "De erfarenheter som utredningen lyfter från Österrike pekar på att övergången kan ta mycket lång tid.",
+      "quote_type": "grund"
+    }
+  ]
+}

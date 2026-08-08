@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/microsoft": "1076743016b8639c0f1368b5ccee30001ad4b472de5ddc2f4c1bdafd818c490b",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Microsoft ser överlag positivt på utredningens ansats och bedömning att AI-förordningen i huvudsak bör genomföras nära förordningens ordalydelse, med nationella tillägg endast där förordningen så kräver eller uttryckligen tillåter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.1",
+      "sentiment": 0.2,
+      "quote": "Utan sådan samordning ﬁnns en risk för fragmentering och osäkerhet för aktörer som verkar tvärsektoriellt eller i ﬂera medlemsstater.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 1.0,
+      "quote": "Bestämmelsen möjliggör utlämnande av uppgifter för utveckling, träning, testning och validering av AI-system i regulatoriska sandlådor, under förutsättning att utlämnandet inte är olämpligt med hänsyn till omständigheterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec493",
+      "sentiment": 1.0,
+      "quote": "Dessa bestämmelser är viktiga för att säkerställa att leverantörer rapporterar incidenter öppet och i tid, utan risk för oproportionerlig exponering av känslig säkerhets- eller affärsinformation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 0.2,
+      "quote": "Samtidigt vill Microsoft betona vikten av att registreringskraven utformas proportionerligt, säkerhetsskyddsklassiﬁcerade uppgifter hanteras med stor försiktighet och att dubbelrapportering gentemot EU-nivån undviks i möjligaste mån.",
+      "quote_type": "grund"
+    }
+  ]
+}

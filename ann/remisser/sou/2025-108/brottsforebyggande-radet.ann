@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:108/brottsforebyggande-radet": "669c9093bfbc01610ffe1bdf17270c9d494638ca1c9b08028cbbab722d7eab84",
+      "artifact:forarbete/sou/2025-108": "a775d95754ce5897c73c1b61b58817b4b1fcc07241129ab779d9551bc2bbbef7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Med undantag för förslaget om ett nationellt frånvaroregister, tillstyrker Brå förslagen i sin helhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.9",
+      "sentiment": 0.5,
+      "quote": "Att hitta metoder för att identifiera felaktiga individuppgifter är av större betydelse ur ett brottsförebyggande perspektiv och det är därför viktigt att det kunskapshöjande arbetet inte åsidosätts till förmån för det kartläggande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": 1.0,
+      "quote": "Den generella erfarenheten som Brå har av crime proofinganalyser och forskning om ekonomisk brottslighet är att de möjligheter som redan finns för att utföra kontroller, uppföljningar och dela information inte nyttjas till fullo i många verksamheter",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 1.0,
+      "quote": "Brå ser positivt på att möjliggöra för Försäkringskassan och Pensionsmyndigheten att utveckla sitt arbete med datadrivna arbetssätt, såsom att genomföra datadrivna analyser.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.4.1",
+      "sentiment": -1.0,
+      "quote": "Att minska resurserna för att i praktiken arbeta för att förebygga och åtgärda frånvaro riskerar därför att bli kontraproduktivt, särskilt för barn i risk för kriminalitet som ofta har en betydande skolfrånvaro.",
+      "quote_type": "grund"
+    }
+  ]
+}

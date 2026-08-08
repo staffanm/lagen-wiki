@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:60/kammarratten-i-stockholm": "b0a16d6d69094840b1e8f5b8e0221961e63f99ec85e99910c7d46609d8d7efd7",
+      "artifact:forarbete/sou/2025-60": "ba08a5cf25200bcc4b5e48a4ae829bfa92fdb7a8a18e1f7113bf8aa0612a2eee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Domstolarna måste garanteras nödvändiga medel för att kunna hantera den ökade regleringen och förväntad ökad måltillströmning på finansmarknadsområdet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12-2",
+      "sentiment": -0.2,
+      "quote": "Även om benägenheten att överklaga dessa beslut skulle vara mycket låg, vilket utredningen bedömer, kommer måltillströmningen till domstolarna sannolikt att öka något.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": -0.2,
+      "quote": "Det framstår emellertid som mycket sannolikt att även dessa förslag kommer att leda till ett ökat inflöde av finansmarknadsmål.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:74/byggforetagen": "b92aac94585e4684dca3d244bf07d6a737720b0442598017e8901071fa57b9a1",
+      "artifact:forarbete/sou/2025-74": "86931f969c453d367aa6280683810685078a23447696be3482179222d1c28951"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Byggföretagen ställer sig i grunden positiva till utredningens övergripande syfte: att skapa ett mer effektivt, träffsäkert och rättssäkert arbetsmarknadspolitiskt system.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": -1.0,
+      "quote": "Det finns en överhängande risk att Arbetsförmedlingens handläggare, med bristande branschkännedom, fattar beslut baserade på en ofullständig och potentiellt missvisande databild.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.9.6",
+      "sentiment": -1.0,
+      "quote": "Förslagen tar inte tillräcklig hänsyn till de unika och säkerhetskritiska förhållanden som råder på byggarbetsplatser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec533",
+      "sentiment": -0.5,
+      "quote": "Ett företag kan inte ge samtycke till tillträde till en fastighet de inte äger eller förfogar över.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.5",
+      "sentiment": 1.0,
+      "quote": "Vi instämmer i bedömningen att incitamenten för fusk vid oavlönad praktik är försumbara och att kontroller där vore oproportionerliga.",
+      "quote_type": "grund"
+    }
+  ]
+}

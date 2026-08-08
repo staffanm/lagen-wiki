@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:24/regelradet": "05bf0f298f8f8da6c12402a531bd610dec7fbe7ba4beced137da344993f2821e",
+      "artifact:forarbete/sou/2025-24": "88406afe1f6a6b8622563c5c72858e0acc520793bcf2ba1fc08caa4758f55814"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Det förekommer emellertid för många brister i redovisningen av vissa kostnader och verksamhetspåverkan för företag som gör det svårt att få en tydlig bild över hur utfallet förväntas bli för olika typer av företag inom filmbranschen, vilket har varit avgörande för Regelrådets bedömning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec258",
+      "sentiment": 0.2,
+      "quote": "Regelrådet bedömer redovisningen godtagbar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.5,
+      "quote": "Regelrådet kan inte hitta någon redovisning kring behovet av speciella informationsinsatser och bedömer därför redovisningen i detta avseende bristfällig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec256",
+      "sentiment": -0.5,
+      "quote": "Det hade också varit behövligt med fler utförliga resonemang och uppskattade kvantifierade effekter av de ändrade målen och stödformerna, både vad avser kostnader, intäkter och påverkan på olika företags verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec256",
+      "sentiment": -0.5,
+      "quote": "Regelrådet kan inte se att det förekommer redovisning kring särskilda hänsyn till små företag vid reglernas utformning.",
+      "quote_type": "grund"
+    }
+  ]
+}

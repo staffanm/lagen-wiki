@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/svensk-handel": "95ce4a224fa0d7c7be14ff1bf270b9e4c4b07e3fc838e1118e1c982684b4e7f4",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.1,
+    "quote": "Svensk Handel delar målsättningen att stärka datadelning och innovation, men betonar att detta förutsätter en proportionerlig och förutsebar nationell tillämpning av EU:s dataförordning som inte går längre än EU-rätten kräver och som minimerar administrativ och rättslig osäkerhet för företagen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.7.6",
+      "sentiment": 0.5,
+      "quote": "Mot denna bakgrund kan regulatorisk testverksamhet utgöra ett verktyg för att underlätta en samordnad och praktisk tillämpning av EU:s dataförordning, genom att marknadens aktörer och den behöriga myndigheten ges möjlighet att tillsammans utforska hur regelverket fungerar i praktiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": -0.2,
+      "quote": "Detta är nödvändigt för att säkerställa att sanktioner riktas mot rätt aktör och inte träffar företag som, trots att de vidtar rimliga åtgärder, saknar faktisk rådighet över de omständigheter som ligger till grund för överträdelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.2,
+      "quote": "Ett otillräckligt skydd riskerar annars att minska incitamenten att investera i datadrivna lösningar och digital utveckling inom handelssektorn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5.2",
+      "sentiment": -0.2,
+      "quote": "Inom handelssektorn förekommer ofta blandade dataset som innehåller både personuppgifter och icke-personuppgifter, vilket innebär att otydliga gränsdragningar mellan regelverken riskerar att skapa rättslig osäkerhet och ökade kostnader för efterlevnad.",
+      "quote_type": "grund"
+    }
+  ]
+}

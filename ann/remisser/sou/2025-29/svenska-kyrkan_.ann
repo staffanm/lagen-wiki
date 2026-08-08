@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:29/svenska-kyrkan_": "22429b7d102c10d85d488b5e72141c7012e33aaae536418d7d5013d3b06dc211",
+      "artifact:forarbete/sou/2025-29": "c404af687884c4e424e9b1eff3268002398d134aeb4bddadc0a1e86ff3efec7d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenska kyrkan välkomnar betänkandets målsättning att öka kvaliteten hos Samhall och bredda utbudet av aktörer som kan möta målgruppens behov till att även inkludera idéburna organisationer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.12.1",
+      "sentiment": 1.0,
+      "quote": "Svenska kyrkan tillstyrker utredningens förslag om att målgruppsbegränsningar för skyddat arbete hos offentlig arbetsgivare (OSA) tas bort",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.12.2",
+      "sentiment": 1.0,
+      "quote": "Svenska kyrkan är en av många idéburna aktörer som dagligen möter individer som står långt ifrån arbetsmarknaden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.12.2",
+      "sentiment": -1.0,
+      "quote": "De krav som ställs för registrering enligt lagen (2022:900) om registrering av idéburna organisationer innebär att en stor andel av de idéburna aktörerna i Sverige riskerar att uteslutas från möjligheten att vara arbetsgivare för individer i skyddad anställning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.13.1",
+      "sentiment": 1.0,
+      "quote": "Svenska kyrkan delar utredningens bild av att Arbetsförmedlingens ärendehandläggning idag innebär att arbetssökande med behov av fördjupat stöd i handläggningsprocessen inte får det stöd och de insatser som de är i behov av.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.11.1",
+      "sentiment": 1.0,
+      "quote": "Svenska kyrkan delar utredningens bild av att det inte är rimligt att anta att personer med funktionsnedsättning som står långt från arbetsmarknaden ska kunna driva sina myndighetsärenden själva i den utsträckning som de i dag behöver göra.",
+      "quote_type": "grund"
+    }
+  ]
+}

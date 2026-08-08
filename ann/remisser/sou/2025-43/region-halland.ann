@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/region-halland": "267ea3bd4da98e5f58a7c5fcc58ad8fed8b2e6779d6198fec6680d961f2dd0ea",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Halland har inbjudits att lämna synpunkter på delbetänkandet Säkerställ tillgången till läkemedel – förordnanden och utlämnande i bristsituationer och välkomnar de förslag som lämnats.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2.6",
+      "sentiment": 0.5,
+      "quote": "Det är positivt att inte enbart luta sig mot Ransoneringslagen (1978:268) som instrument för att prioritera försörjningen av läkemedel vid rest- och bristsituationer, då fullmaktslagarna i grunden är avsedda att tillämpas vid krig, krigsfara och utomordentliga förhållanden – vilket rest- och bristsituationer för läkemedel inte alltid kan antas utgöra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3",
+      "sentiment": -0.2,
+      "quote": "Ett förordnande eller ett utlämningsförbud kan i sådana situationer ge upphov till en inlåsningseffekt, vilket riskerar att begränsa flexibiliteten i försörjningskedjan och därigenom motverka det avsedda syftet med begränsningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec70",
+      "sentiment": 0.2,
+      "quote": "Region Hallands bedömning är att det är viktigt att det finns rutiner och beslutsprocesser på plats till ikraftträdandet som medger snabba beslut i de fall en begränsning kan vara ett av flera verktyg för att mildra konsekvenserna av en bristsituation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.2,
+      "quote": "Region Halland vill även förstärka behovet av att E-hälsomyndigheten samarbetar med regionerna vid utredning om möjligt att införa systemstöd då det potentiellt innebär en utveckling av alla regionens system som hanterar läkemedel.",
+      "quote_type": "grund"
+    }
+  ]
+}

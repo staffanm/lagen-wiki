@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/forsvarsmakten": "2999cec115bab0bcbc84fbcf509555bf41c09771b395325ac646a6b60643024f",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Försvarsmakten har inga synpunkter utredningens förslag, men har följande kommentarer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3-2",
+      "sentiment": -0.5,
+      "quote": "Om inte behov och krav på transportsektorn såsom infrastruktur, transportresurser, trafikledning och transportprioritering prioriteras i den utsträckning som rådande omvärldsläge kräver riskerar åtgärder i hög grad att vidtas för sent.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.7",
+      "sentiment": -0.2,
+      "quote": "När det gäller ägar- och intressentinsyn i projekten så måste det säkerställas att projekten skyddas säkerhetsmässigt från utpekade dissidenter eller potentiella motståndare, vilket kan ske genom ett aktivt deltagande från Försvarsmakten i utvecklingen av finansieringsformen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4-2",
+      "sentiment": -0.5,
+      "quote": "Försvarsmaktens behov inte på något tydligt sätt har beaktats i denna totalförsvarskontext, då Trafikverket i sitt förslag till nationell plan i allt väsentligt endast har tagit hänsyn till de transportpolitiska målen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.3",
+      "sentiment": 0.5,
+      "quote": "Avslutningsvis vill Försvarsmakten särskilt framhålla vikten av att en god samordning med totalförsvarsplaneringen säkerställs vid genomförandet av förslaget om bildande av ett statligt bolag för genomförande av statlig väg- och järnvägsinfrastruktur.",
+      "quote_type": "grund"
+    }
+  ]
+}

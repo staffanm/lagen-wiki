@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:27/polismyndigheten": "017b396375f3b5b1dd5a10b23866528c598e191c5f480ab9a882557b031f2737",
+      "artifact:forarbete/sou/2025-27": "5c74e1c68981d87d80949b8ee7ec726fa77a655e3d3c12c7fa9b9bbd07c4dfb8"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Polismyndigheten har inga invändningar mot de förslag till ändringar i examensordningen för socionomexamen som utredningen föreslår.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec279",
+      "sentiment": 1.0,
+      "quote": "Myndigheten är särskilt positiv till tilläggen om att studenten ska visa kunskap om och förståelse för hur normbrytande beteende och ungdomskriminalitet kan förebyggas och hur återfall i brott kan motverkas",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec280",
+      "sentiment": 1.0,
+      "quote": "att studenten ska visa kunskap om hedersrelaterat våld och förtryck",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.2.1",
+      "sentiment": 1.0,
+      "quote": "att studenten ska visa förmåga till lagarbete och samverkan med andra yrkesgrupper",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec56",
+      "sentiment": -0.2,
+      "quote": "Polismyndigheten noterar att ett ytterligare område där det finns behov av kunskap är hur socialtjänsten kan arbeta förebyggande i den digitala miljön där barn och ungdomar befinner sig.",
+      "quote_type": "grund"
+    }
+  ]
+}

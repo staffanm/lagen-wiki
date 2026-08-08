@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/sveriges-juridiska-byraer": "898c009af63d1473aa1357f637ae3e77e43b359578539270619a278d04f7504f",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sverige bör således respektera att grundprincipen vid arv är att det ska stanna inom släkten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.2",
+      "sentiment": 0.5,
+      "quote": "Sverige bör således respektera att grundprincipen vid arv är att det ska stanna inom släkten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec294",
+      "sentiment": 1.0,
+      "quote": "För att det inte ska bli allt för omständligt och kostsamt att fördela arv, bör rätten att ärva utan testamente i vissa fall stanna vid kusiner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": -0.5,
+      "quote": "Denna princip strider mot principen om att arv ska stanna inom släkten, och arvslagstiftningen bör respektera denna princip, särskilt när det handlar om avlidna personers vilja.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/inspektionen-for-arbetsloshetsforsakringen": "4555fb9c8649d2da9ab91861eab29b6c4883f7791251971db6e49c35252c91bf",
+      "artifact:forarbete/sou/2026-23": "4b771b1a535563d0761ca26fd4c07fb50080ffd1eb1be6a8fe36aec194c1d6f7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "IAF tillstyrker utredningens förslag om förbud mot att använda barn som tolk. IAF tillstyrker även utredningens förslag om införande av tolkavgift men anser att arbetslöshetskassorna bör omfattas av förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 1.0,
+      "quote": "IAF tillstyrker utredningens förslag om förbud mot att använda barn som tolk.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": -0.5,
+      "quote": "Det skulle bidra till att det integrationspolitiska målet återspeglas i användningen av tolk och ligger i linje med utredningens bedömning att tolkavgift även ska tas ut av myndigheter där behovet av tolk är begränsat.",
+      "quote_type": "grund"
+    }
+  ]
+}

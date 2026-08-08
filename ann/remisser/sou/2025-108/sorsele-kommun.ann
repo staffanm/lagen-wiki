@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:108/sorsele-kommun": "d3893c5799900d3ec491feafa1bfc0054be32335c528b340e4c0b9ebba7e5ae9",
+      "artifact:forarbete/sou/2025-108": "a775d95754ce5897c73c1b61b58817b4b1fcc07241129ab779d9551bc2bbbef7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Vi ser fördelar med ett nationellt frånvaroregister, eftersom det kan möjliggöra jämförelser och bildandet av ny kunskap.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.4.1",
+      "sentiment": 0.5,
+      "quote": "Vi ser fördelar med ett nationellt frånvaroregister, eftersom det kan möjliggöra jämförelser och bildandet av ny kunskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec640",
+      "sentiment": -0.5,
+      "quote": "I förslaget saknas en tydlig och tillräcklig finansiering av de merkostnader som drabbar kommunerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.3",
+      "sentiment": -0.5,
+      "quote": "Vår erfarenhet från icke-införandet av digitala nationella prov är att Skolverket hittills inte till fullo lyckats med att på utsatt tid och inom fastslagen budget utveckla fungerande tekniska lösningar med tillfredsställande skydd för personuppgifter.",
+      "quote_type": "grund"
+    }
+  ]
+}

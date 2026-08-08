@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:9/institutet-for-manskliga-rattigheter": "b299bb33f805f2d67a1b9b6b91630ea71f9e54443009c955e2e9c777c19a4881",
+      "artifact:forarbete/sou/2026-9": "6e2fe757deba6487afb4900466860dd25cfab83203ab6a46a85c3d959c713359"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Institutet avstyrker förslaget att barn över sex år får en skyldighet att lämna fingeravtryck.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.6.2",
+      "sentiment": -1.0,
+      "quote": "Att ta fingeravtryck är ett kroppsligt ingrepp som kan strida mot rätten till privatliv enligt artikel 16 i FN:s konvention om barnets rättigheter (barnkonventionen) och rätten till privat- och familjeliv och skyddet av personuppgifter i artiklarna 7 och 8 i EU:s stadga om de grundläggande rättigheterna (rättighetsstadgan).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7",
+      "sentiment": 1.0,
+      "quote": "Utredningen konstaterar att det finns ett intresse av att uppgifterna lagras men kommer efter en proportionalitetsbedömning fram till att intresset av korrekta statistiska uppgifter inte väger tillräckligt starkt för att motivera ett sådant intrång i den personliga integriteten som det skulle innebära att lagra biometriska uppgifter för ett relativt stort antal individer i ett centralt register.",
+      "quote_type": "grund"
+    }
+  ]
+}

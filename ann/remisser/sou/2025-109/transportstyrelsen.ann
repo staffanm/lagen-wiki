@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:109/transportstyrelsen": "e3cd6002c56f28a112400d14ea04f718d15bf8f12fb7f1035a4f269ca041fae3",
+      "artifact:forarbete/sou/2025-109": "98c6ec215c748b185b72329d97ae9b9b49e64e1ef1e2e530c207deb50c4d88d5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Transportstyrelsen tillstyrker utredningen med följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec23",
+      "sentiment": -0.2,
+      "quote": "Bestämmelsens lydelse baseras på utformningen i lagen (2006:939) om kvalificerade skyddsidentiteter men förefaller inte ändamålsenlig då det i detta sammanhang inte primärt handlar om att ge tillgång till sådan uppgift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.7.4",
+      "sentiment": -0.2,
+      "quote": "Transportstyrelsen anser att regleringarna till viss del står mot varandra i fråga om registrering av uppgifter i vägtrafikregistret.",
+      "quote_type": "grund"
+    }
+  ]
+}

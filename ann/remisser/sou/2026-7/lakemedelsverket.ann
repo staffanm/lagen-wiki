@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:7/lakemedelsverket": "e45c7af195467a55f4a344cf06f0fe6fb7cdf83b8d376f58d7cf93fe4e32e173",
+      "artifact:forarbete/sou/2026-7": "7a846bbd7b56ef1c76f8c2a569d6204c1cff17ef01ba342d52cb501a13be5642"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Läkemedelsverket är positiva till att uppföljningssystemet av folkhälsopolitik vidareutvecklas.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.5",
+      "sentiment": 0.5,
+      "quote": "Läkemedelsverket förutsätter att insamling och överföring av data, som är känslig och sekretessbelagd, sker på ett säkerhet sätt samt att registrens integritet upprätthålls enligt gällande lag och förordning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2",
+      "sentiment": -0.2,
+      "quote": "Tolkningar måste göras med försiktighet då så kallade real-world-data respektive kontrollerade klinisk-prövnings-data inte är ömsesidigt utbytbara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3",
+      "sentiment": 0.2,
+      "quote": "För all myndighetssamverkan är det viktigt att tydliggöra ansvar (uppdrags definierat) och gränssnitt för respektive myndighet är definierat dvs. vem som gör vad mellan myndigheterna och det behöver vara resurssatt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": -0.5,
+      "quote": "Läkemedelsverket vill påpeka att den etiska plattformen, från 1997 har ca 30 år på nacken.",
+      "quote_type": "grund"
+    }
+  ]
+}

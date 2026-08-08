@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/statens-institutionsstyrelse": "e9855ab515372dacffc88fb961001382060ec60be4a3275cc9d7501499cd950e",
+      "artifact:forarbete/sou/2026-8": "e65a317898fbd79f6ed54e253d65b00ec08803cea95ba0a4e41cb2ffb6c9ae56"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Statens institutionsstyrelse (SiS) ser överlag positivt på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 1.0,
+      "quote": "Det är därför positivt att den föreslagna ordningen kan bidra till att säkerställa att tillgängligt underlag från en socialnämnd är korrekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9.2",
+      "sentiment": 1.0,
+      "quote": "SiS delar utredningens bedömning att det saknas behov att ge åklagare möjlighet att fatta beslut om omedelbart omhändertagande enligt LVU.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.4.2",
+      "sentiment": 1.0,
+      "quote": "En sådan ordning är motiverad av rättssäkerhetsskäl och skulle ge större förutsebarhet för placerade barn och unga.",
+      "quote_type": "grund"
+    }
+  ]
+}

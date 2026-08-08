@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/stockholms-lans-landsting": "a77153c41b5883dce349929115bb2b5c659a098a8047747dbda464f395abd6c5",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Region Stockholm anser därför att förslagen i betänkandet i huvudsak är befogade och ligger i linje med vad som krävs för att svara upp mot ett förändrat säkerhetsläge i omvärlden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "myndigheten rimligen besitter en fördjupad kunskap om samhällsviktig verksamhet i sitt geografiska område.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec177",
+      "sentiment": -0.5,
+      "quote": "förslaget kommer att medföra en betydande ökning av den administrativa pålagan vilken inte kan anses vara motiverad med hänsyn till att det är offentliga aktörer det gäller.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec227",
+      "sentiment": -0.5,
+      "quote": "De verksamhetsutövare som omfattas av lagstiftningen ser olika ut till form, storlek, ansvar och uppgifter, vilket betyder att det behöver finnas flexibilitet i hur arbetet organiseras och fördelas.",
+      "quote_type": "grund"
+    }
+  ]
+}

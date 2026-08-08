@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/forsakringskassan": "3ae749e254f8b10de6dbd374d3156aadfc496c4a7cf980342847b0b960e49925",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Försäkringskassan har vissa synpunkter på utformningen av det förslag som lämnats.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.8",
+      "sentiment": -0.2,
+      "quote": "Detta gör det svårt för Försäkringskassan att bedöma vilka uppgifter som Migrationsverket kommer att begära ut och med vilken frekvens detta kommer att ske, även om vissa exempel på uppgifter anges i utredningen (avsnitt 10.4.3).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6.1",
+      "sentiment": -0.2,
+      "quote": "Försäkringskassan är tveksam till om 10 kap. 15 a § OSL kommer att omfatta alla de uppgifter som den nu föreslagna uppgiftsskyldigheten träffar och ser därför behov av en mer omfattande analys avseende denna fråga i det fortsatta lagstiftningsarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3.3",
+      "sentiment": -0.2,
+      "quote": "Att utveckla och förvalta IT-stöd kommer att medföra kostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

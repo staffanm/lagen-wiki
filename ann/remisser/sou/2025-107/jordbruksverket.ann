@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:107/jordbruksverket": "16d4e26801f3d1cefe01f3db4ed6fb88d39cc8cf99151bcb81e33de62bff65fe",
+      "artifact:forarbete/sou/2025-107": "47622113b6201e4ecf4f8f07faace798ed84e0806822644f3a8e9a35e1a5fff4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Jordbruksverket tillstyrker förslaget om en uppdaterad målkonstruktion. Jordbruksverket avstyrker förslaget om bokföringsregler för kompletterande åtgärder inom LULUCF-sektorn.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": 1.0,
+      "quote": "Jordbruksverket tillstyrker förslaget om en uppdaterad målkonstruktion.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec74",
+      "sentiment": -1.0,
+      "quote": "Jordbruksverket anser att alternativet Tillgodoräkna de ökade rapporterade nettoupptagen år 2030 i förhållande till perioden 2016–2018 i stället bör användas.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:95/svenskt-naringsliv": "6ce515a212071ac4b08862160f9e6c5c41978d4fb8e4e10d3aa7b1bb52d1619a",
+      "artifact:forarbete/sou/2025-95": "613ac92cd1fc517e8bc3ec573b279ef426ca513eb1305ec1af52d26309784bd1"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Svenskt Näringsliv vill därför framhålla utmaningen med att identifiera eventuella brister samt förutse lagförslagens konsekvenser för svenska företags möjligheter till kompetensförsörjning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.2.3",
+      "sentiment": 0.5,
+      "quote": "Detta förutsätter dock att regeringen väljer att inte gå vidare med förslaget om att begränsa anhörigkretsen till barn under 18 år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.2.5",
+      "sentiment": -0.5,
+      "quote": "De skäl som anges i betänkandet kan inte anses vara tillräckligt starka för att motivera införandet av ett sådant krav.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.12",
+      "sentiment": -0.2,
+      "quote": "Svenskt Näringsliv anser att analysen som ligger till grund för bedömningen av konsekvenser för företag är delvis bristfällig.",
+      "quote_type": "grund"
+    }
+  ]
+}

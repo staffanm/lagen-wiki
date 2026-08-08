@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:51/lansstyrelsen-i-varmlands-lan": "77c79e9c488aa623148191c01535d8d8fdb100d817b190f9ec3b9a0f2659cb52",
+      "artifact:forarbete/sou/2025-51": "258d56514e13c4c5451bf445ef12c74926eae0c3d6b9e933fa95a5d91e5d1ad9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen tillstyrker förslaget • om klimatanpassningsåtgärder som särskilt skäl för dispens från strandskyddet • att kommunen i översiktsplanen ska redovisa vilka klimatanpassningsåtgärder kommunen avser att initiera • om föreskrifter om högsta inomhustemperatur för känsliga grupper.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 0.5,
+      "quote": "Det finns en risk för att naturliga övergångar mellan land och vatten byts ut mot artificiella lösningar vilket kan få negativa konsekvenser för djur- och växtlivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -1.0,
+      "quote": "En differentierad bedömning utifrån hur bebyggelsen ser ut bedömer Länsstyrelsen är lämpligare än en fast återkomsttid som ska gälla överallt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.5,
+      "quote": "Att utelämna värmebölja signalerar en tydlig prioritering där översvämning, ras, skred och erosion bedöms vara viktigare att planera utifrån än värmeböljor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.9",
+      "sentiment": -0.2,
+      "quote": "Om förslaget genomförs utan att stöd tillförs kommunerna kommer det att ta resurser från arbetet med att ta fram nya planer och därmed stå i konflikt med andra nationella och lokala mål om bostadsbyggande, tillväxt och grön omställning m.m.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.11",
+      "sentiment": 0.5,
+      "quote": "Förslaget bidrar till en mer jämlik hälsa i ett förändrat klimat och är därför ett viktigt steg för att stärka skyddet för personer som är särskilt känsliga för höga temperaturer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5",
+      "sentiment": -0.2,
+      "quote": "Här kan bland annat nämnas de skadeståndsrättsliga effekterna förslaget kan medföra.",
+      "quote_type": "grund"
+    }
+  ]
+}

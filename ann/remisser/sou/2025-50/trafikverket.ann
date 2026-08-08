@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/trafikverket": "441f99c8cd4c1c78fe77d04e0c9684cd0308333bf812c9f00ef6ac2836cea127",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Trafikverket konstaterar att uppdraget inte kan anses tillhöra Trafikverkets kärnuppdrag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.6.3",
+      "sentiment": -0.8,
+      "quote": "Trafikverket konstaterar att uppdraget inte kan anses tillhöra Trafikverkets kärnuppdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec485",
+      "sentiment": 0.5,
+      "quote": "Trafikverket delar uppfattningen att flera myndigheter och aktörer har betydelse för att förebygga och minska antalet viltolyckor.",
+      "quote_type": "grund"
+    }
+  ]
+}

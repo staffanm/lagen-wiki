@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/bodens-kommun": "341f93a88b1ce743f79056607d3ad3156ca24f48baa2a43364e12066b62c476a",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "förslagen i betänkandet \"Förbättrad konkurrens i offentlig och privat verksamhet\" går längre än nödvändigt för att uppnå sund konkurrens.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.6.2",
+      "sentiment": -0.5,
+      "quote": "Detta kan medföra att kommuner inte vill ta risken att bedriva verksamhet trots att privata alternativ saknas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6.4",
+      "sentiment": 0.2,
+      "quote": "Samtidigt utgör detta en administrativ pålaga som tar resurser i anspråk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6.5",
+      "sentiment": 0.2,
+      "quote": "Genom kravet på särredovisning och utvärdering uppstår dessutom ökade kostnader för kommunerna som borde kompenseras enligt finansieringsprincipen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6.10",
+      "sentiment": -1.0,
+      "quote": "En marknadsstörningsavgift i kombination med att bevisbördan för verksamhetens tillåtlighet åläggs kommunerna en alltför långtgående avskräckande effekt.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/e-halsomyndigheten": "3cbac1ea10959d1a637a71c2f4833e533ddd209c751a597459bd33d15cfe885b",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "E-hälsomyndigheten tillstyrker utredningens förslag i de delar som rör myndigheten.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.9.4",
+      "sentiment": 0.2,
+      "quote": "Myndigheten vill uppmärksamma att kostnader för utveckling av aktuella it-system inte är angivet, då den beräkningen blir resultatet av utredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.9.5",
+      "sentiment": 0.2,
+      "quote": "I beräkningarna ingår inte Ehälsomyndighetens kostnader för utveckling av ett nationellt it-system för smittspårning.",
+      "quote_type": "grund"
+    }
+  ]
+}

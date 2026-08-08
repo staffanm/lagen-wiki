@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:75/arbetsformedlingen": "201d7e2a9f31bebe226f41fc1c0946654f2f954ed921303c4d4f30ea6e3b7c62",
+      "artifact:forarbete/sou/2025-75": "6c1747356aef8861690e0e55231a670ab88642b59dc2975b505edeeb781a1461"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Arbetsförmedlingen tillstyrker i stort utredningens förslag om förändringar i folkbokföringslagen avseende skärpt straffansvar samt lagring av biometriska uppgifter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec61",
+      "sentiment": 1.0,
+      "quote": "Gällande Skatteverkets utökade befogenheter i sin brottsbekämpande verksamhet har Arbetsförmedlingen inga synpunkter på utredningens förslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": 1.0,
+      "quote": "Arbetsförmedlingen tillstyrker i stort utredningens förslag om förändringar i folkbokföringslagen avseende skärpt straffansvar samt lagring av biometriska uppgifter.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec540",
+      "sentiment": -0.5,
+      "quote": "Mot bakgrund av det här ser Arbetsförmedlingen ett behov av att stärka identitetskontrollen även för EU-medborgare, exempelvis genom biometrisk lagring, i syfte att säkerställa att insatser riktas till rätt individer och att systemet inte utnyttjas på felaktiga grunder.",
+      "quote_type": "grund"
+    }
+  ]
+}

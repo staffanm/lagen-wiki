@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:58/lansstyrelsen-vastmanlands-lan": "f97c0fbde6e6307bebb8fdd5f78a6382c560702f11f950c52c4bfcb7af5348f7",
+      "artifact:forarbete/sou/2025-58": "ba36ed43caad5065a24954f0cd558aaf490376f8b49d2831dc80ba70fc994f7a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Länsstyrelsen i Västmanland tillstyrker utredningens förslag i huvudsak med särskild kommentar avseende förbättrad statistik. Länsstyrelsen avstyrker utredningens förslag avseende den gemensamma jordbrukspolitiken i EU samt veterinära frågor.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.1",
+      "sentiment": 1.0,
+      "quote": "De brister i statistik och analys som råder i dagsläget osynliggör de ojämställda villkoren för att driva företag inom hästnäringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.18.11",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen ser en fara i att lantbrukare som producenter av livsmedel får stå tillbaka om hästföretagare också ska konkurrera om samma stödbudget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.19.7",
+      "sentiment": -1.0,
+      "quote": "Hästar är generellt mer känsliga än andra djurslag för komplikationer till följd av rektalisering och om en sådan komplikation uppstår behövs veterinär kompetens för att snabbt göra en bedömning och sätta in rätt behandlingsåtgärder.",
+      "quote_type": "grund"
+    }
+  ]
+}

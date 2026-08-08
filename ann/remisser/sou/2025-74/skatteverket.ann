@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:74/skatteverket": "cce5cbec5949603322dc324e60251674bb0a04f50e80652ee8f4c128762e259c",
+      "artifact:forarbete/sou/2025-74": "86931f969c453d367aa6280683810685078a23447696be3482179222d1c28951"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Förslagen i betänkandet bedöms inte medföra några konsekvenser för Skatteverkets verksamhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.3",
+      "sentiment": 1.0,
+      "quote": "Ett utlämnande av uppgifter under en pågående revision kan, enligt Skatteverket, riskera att påverka Skatteverkets utredningsåtgärder negativt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.5.2",
+      "sentiment": 1.0,
+      "quote": "Ett utlämnande av uppgifter under en pågående revision kan, enligt Skatteverket, riskera att påverka Skatteverkets utredningsåtgärder negativt.",
+      "quote_type": "grund"
+    }
+  ]
+}

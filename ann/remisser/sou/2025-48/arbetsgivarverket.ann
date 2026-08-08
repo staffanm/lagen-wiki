@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/arbetsgivarverket": "56d04740b47f5ed21d2451465bbcb4596f4968d03d79b12428477895a8167eba",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "I övrigt har Arbetsgivarverket inga synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.5,
+      "quote": "Under pandemin innebar smittskyddsreglering nya arbetsuppgifter för vissa anställda och att särskild personal anställdes för att hantera efterlevnaden av bestämmelserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Arbetsmiljöfrågor bör även fortsatt hanteras inom ramen för befintlig reglering på arbetsmiljöområdet, där ansvarsstruktur, tillämpningsområde och rättssäkerhet är tydligt etablerade.",
+      "quote_type": "grund"
+    }
+  ]
+}

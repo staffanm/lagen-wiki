@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/lansstyrelsen-i-skane-lan": "7438a994388195cd00094c418c642263f5732e35cc6b22af43ebe17f08c80872",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen är i huvudsak positiva till förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.17",
+      "sentiment": -0.2,
+      "quote": "Detta riskerar att skapa otydlighet och avsaknad av förutsägbarhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.4",
+      "sentiment": -0.5,
+      "quote": "Detta riskerar annars att hämma samarbeten och samverkan mellan Länsstyrelser och kommuner, inte minst inom krisberedskap där mycket av samverkan kan innefatta säkerhetskänslig verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.5",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen konstaterar att ökade resurser och ökad kompetens är en grundförutsättning för att förslagen i tilläggsutredningen ska få avsedd effekt.",
+      "quote_type": "grund"
+    }
+  ]
+}

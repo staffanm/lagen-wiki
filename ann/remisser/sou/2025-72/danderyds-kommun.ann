@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:72/danderyds-kommun": "cac47e4e91278170b204943cc492e928c960fee5b907a4bd0d9eef2088a58510",
+      "artifact:forarbete/sou/2025-72": "59e44215ab2cc8c10f2c3c2408927e6a5e205b6be9de35dbe57bb8e7227b8b53"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Danderyds kommun ställer sig positiv till och instämmer i utredningens förslag i stort.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Detta då kommunen har ett större ansvar än de fristående skolorna att ha en beredskap att ta emot elever vilket medför kostnader i form av bland annat lokaler och lärare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec301",
+      "sentiment": 0.5,
+      "quote": "Kommunen vill här poängtera att undantaget endast ska gälla vid just synnerliga skäl.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5.2",
+      "sentiment": 0.2,
+      "quote": "Gäller det alla huvudmän som har en elev från lägeskommunen riskerar det att öka den administrativa bördan på kommunen.",
+      "quote_type": "grund"
+    }
+  ]
+}

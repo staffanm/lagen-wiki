@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/vastra-gotalandsregionen": "7539549bf49f85b7baf5b55ab948d5786a2f2c0b011cbdf572d39bbd835d835f",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslaget bedöms kunna främja samverkan mellan myndigheter och möjliggöra ett mer effektivt informationsutbyte, vilket i sin tur kan bidra till att motverka exempelvis välfärdsbrott.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.8.5",
+      "sentiment": 0.5,
+      "quote": "Förslaget bedöms kunna främja samverkan mellan myndigheter och möjliggöra ett mer effektivt informationsutbyte, vilket i sin tur kan bidra till att motverka exempelvis välfärdsbrott.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.6",
+      "sentiment": 0.8,
+      "quote": "Ur ett dataskyddsperspektiv är det mycket positivt att en tydlig rättslig grund för behandling av personuppgifter införs, vilket undanröjer rådande osäkerheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.2",
+      "sentiment": 0.2,
+      "quote": "Detta är i grunden positivt för en säker och effektiv myndighetssamverkan, men kan på sikt medföra kostnader för nya IT-miljöer.",
+      "quote_type": "grund"
+    }
+  ]
+}

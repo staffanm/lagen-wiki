@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/polismyndigheten": "a29f2f035a0fdcb2f224680c51ba6fbddfb437bd8f982410c53c622b18e1ea68",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "som innebär nödvändiga anpassningar av nationell rätt till AI-förordningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "Polismyndigheten anser dock att de aktuella förslagen är noga övervägda och ser positivt på att utredningen särskilt beaktat behovet av att hålla samman tillsynen över de system som används inom brottsbekämpningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2.3",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten ser positivt på att utredningen förtydligat att myndighetens hjälp endast bör kunna begäras i sådana situationer där det finns ett verkligt behov av polisens särskilda befogenheter att använda våld.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av detta bör den övergripande nationella strukturen klargöras före ikraftträdandet.",
+      "quote_type": "grund"
+    }
+  ]
+}

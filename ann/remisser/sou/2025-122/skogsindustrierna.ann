@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/skogsindustrierna": "93d93fd2c5a1c2ce33fd3de68c5c95d38b6ddc66bf1b0a2cbaebd65d0c0a096b",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skogsindustrierna bifaller även förslagen i detta betänkande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.8",
+      "sentiment": 0.5,
+      "quote": "Det kan vara viktigt för att få balanserade domar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec291",
+      "sentiment": -0.5,
+      "quote": "Europakommissionen har nyligen lyft att införandet av preklusion som en åtgärd för att effektivisera miljötillståndsprocesserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.3",
+      "sentiment": 0.5,
+      "quote": "Det är något som våra jämförbara grannländer också har.",
+      "quote_type": "grund"
+    }
+  ]
+}

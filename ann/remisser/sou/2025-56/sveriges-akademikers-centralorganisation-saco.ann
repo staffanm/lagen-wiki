@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:56/sveriges-akademikers-centralorganisation-saco": "c464ef14b75a8a0a7ef55009e0936eb66799c1e2177bee5005554b0752a86e2b",
+      "artifact:forarbete/sou/2025-56": "aa474607a823f641b3c41a3a7a0ae03a90bc89660beb4c770fe2fdd7ff299a48"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Saco beklagar att utredningen inte ansett sig kunna frångå grundlagskommitténs utkast till lagstiftning och ifrågasätter utredningens slutsats att uppdraget att stärka domarnas ställning måste leda till att ansvarsutkrävande av en domare enbart är en konstitutionell fråga, inte en arbetsrättslig.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec9",
+      "sentiment": 0.2,
+      "quote": "Saco har inga invändningar i och för sig mot att en särskild Domaransvarsnämnd inrättas, och att frågor om skiljande från tjänsten, eller avsättning som utredningen benämner det, läggs där i stället för i Statens ansvarsnämnd.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec244",
+      "sentiment": -0.5,
+      "quote": "Saco menar att det är tveksamt om förslaget är förenligt med den EU-rättsliga regleringen om skydd mot diskriminering, och saknar resonemang om förenligheten med ILO:s konventioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec247",
+      "sentiment": -0.5,
+      "quote": "Genom att ta bort det arbetsrättsliga inslaget, kan inte den enskilde domaren företrädas av arbetstagarorganisationen på det sätt som är möjligt nu.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec323",
+      "sentiment": -0.5,
+      "quote": "Saco anser att dessa förslag för mycket långt, och det är svårt att överblicka konsekvenserna.",
+      "quote_type": "grund"
+    }
+  ]
+}

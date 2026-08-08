@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/lansstyrelsen-ostergotland": "8f44ecf9d432528b5f439f8d367e8b8c46438a0be3a7348ee5e715fc0b6a1c3a",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen Östergötland delar utredningens bedömning i stort och tillstyrker förslagen med tillägg enligt nedan.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3.1",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen vill särskilt uppmärksamma riskerna för kompetensoch kontinuitetsförlust vid verksamhetsöverföringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3.4",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen vill uppmärksamma behovet av att säkerställa kompetens och erfarenhet av såväl tillsyns- som samordningsuppdrag hos FRA.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3.5",
+      "sentiment": 0.5,
+      "quote": "Ett tydligt utpekat ansvar för incidentrapporteringen minimerar risken för dubbla ledningsfunktioner och samordningsproblematik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.1",
+      "sentiment": -0.2,
+      "quote": "En tydlig definition av begreppen är viktig att göra för att öka förståelsen av vad som avses när det handlar om säkerhetsåtgärder, utbildningsbehov eller andra insatser.",
+      "quote_type": "grund"
+    }
+  ]
+}

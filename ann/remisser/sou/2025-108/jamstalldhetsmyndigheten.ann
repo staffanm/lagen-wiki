@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:108/jamstalldhetsmyndigheten": "97c328a6433adf4f80c797e224e2145d469c5aee23351e026056136950f62d61",
+      "artifact:forarbete/sou/2025-108": "a775d95754ce5897c73c1b61b58817b4b1fcc07241129ab779d9551bc2bbbef7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Jämställdhetsmyndigheten tillstyrker utredningens förslag på åtgärder.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.4.1",
+      "sentiment": 0.2,
+      "quote": "För att ett system ska bli verkningsfullt och för att bidra till att kunna kartlägga, följa upp och utveckla arbetet med att skydda barn från att fara illa utomlands understryker Jämställdhetsmyndigheten vikten av att införa en definition av giltig och ogiltig frånvaro i enlighet med förslagen som Skolverket och Utredningen om stärkt trygghet och studiero i skolan har lämnat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.14",
+      "sentiment": 1.0,
+      "quote": "En uppgift om var ett barn eller en elev har sin placering kan vara särskilt känsligt för barn med skyddade personuppgifter, då det är en uppgift som eventuellt kan röja barnets vistelseort.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.6.1",
+      "sentiment": -0.2,
+      "quote": "Flickor och unga kvinnor riskerar i störst utsträckning att föras utomlands för att utsättas för barn- eller tvångsäktenskap och könsstympning.",
+      "quote_type": "grund"
+    }
+  ]
+}

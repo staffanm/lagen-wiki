@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/luftfartsverket": "9c11b38065f4ac53fbc60dd61515c89e42c571c96aca521f0c18282eccc572d7",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Luftfartsverket har tagit del av remissen och är i huvudsak positiv till föreslagna Sekretess kompletteringar, särskilt avseende den klarlagda kopplingen mellan säkerhetsskyddsavtal och säkerhetsprövning samt säkerhetsskyddschefens roll i organisationen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 1.0,
+      "quote": "Luftfartsverket har tagit del av remissen och är i huvudsak positiv till föreslagna Sekretess kompletteringar, särskilt avseende den klarlagda kopplingen mellan säkerhetsskyddsavtal och säkerhetsprövning samt säkerhetsskyddschefens roll i organisationen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec227",
+      "sentiment": 1.0,
+      "quote": "Luftfartsverket har tagit del av remissen och är i huvudsak positiv till föreslagna Sekretess kompletteringar, särskilt avseende den klarlagda kopplingen mellan säkerhetsskyddsavtal och säkerhetsprövning samt säkerhetsskyddschefens roll i organisationen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec413",
+      "sentiment": -0.5,
+      "quote": "Luftfartsverket anser mot denna bakgrund att ett byte av tillsynsmyndighet från Säkerhetspolisen till Transportstyrelsen skulle vara negativt för Luftfartsverket på så sätt att verket hamnar längre ifrån Säkerhetspolisens och Försvarsmakten betydelsefulla kunskap, erfarenhet och information på området.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:108/trollhattans-kommun": "53b0fdc015cbb52da7fbc15ec49c224ca13f4cfe1d41cad2f6862e336a352e27",
+      "artifact:forarbete/sou/2025-108": "a775d95754ce5897c73c1b61b58817b4b1fcc07241129ab779d9551bc2bbbef7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Publicering av statistik över skolfrånvaro kan bidra till att belysa frågan och dess negativa konsekvenser samt bistå huvudmän och forskning med underlag till fortsatt arbete med analys och åtgärder.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec436",
+      "sentiment": -0.5,
+      "quote": "Utifrån detta anser Trollhättans stad att registret bör värna dessa barn och elevers integritet och trygghet genom att ej inkludera dem i registret och på så sätt minska risken för röjande av sekretess.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec642",
+      "sentiment": -0.5,
+      "quote": "Implementering och underhåll av den tekniska lösningen kommer dock medföra nya arbetsuppgifter för huvudmännens IT-personal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec640",
+      "sentiment": -0.2,
+      "quote": "Trollhättans stad anser att Skolverket ska kompensera huvudmännen för denna kostnad genom till exempel ett riktat statsbidrag likt så som gjordes för digitalisering av nationella prov.",
+      "quote_type": "grund"
+    }
+  ]
+}

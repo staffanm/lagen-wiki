@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:66/forvaltningsratten-i-linkoping": "e83e519bf6b64af1a671aeed582cdfc1aa91baf05ab6c54a2796a1dcb3aed11f",
+      "artifact:forarbete/sou/2025-66": "d17cda5a6b525b2e0549fcf8bcc405271e7eef9479b900db16a2c9a1e0fefab0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förvaltningsrätten har, utifrån de utgångspunkter som domstolen har att beakta, inte några invändningar mot förslagen i betänkandet utöver de synpunkter som anges nedan.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec48",
+      "sentiment": -0.5,
+      "quote": "det saknas en analys i utredningen avseende vilka konsekvenser de föreslagna ändringarna kan komma att få för de allmänna förvaltningsdomstolarna i form av bland annat måltillströmning och därigenom kostnadsökningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "införandet av en ny lagstiftning, så som förslag till lagen (2028:00) om villkorligt fängelse, i regel innebär merarbete för domstolarna i form av förberedelse och hantering av de nya måltyperna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec64",
+      "sentiment": -0.5,
+      "quote": "Förvaltningsrätten noterar att bestämmelserna i 3 kap. 6 och 7 §§ i lagförslaget, vilka har nära samband till 3 kap. 4, 5 och 8 §§ i samma lag, enligt förslaget till synes inte ska kunna överklagas till allmän förvaltningsdomstol.",
+      "quote_type": "grund"
+    }
+  ]
+}

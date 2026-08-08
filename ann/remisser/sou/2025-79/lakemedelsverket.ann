@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/lakemedelsverket": "a9cccdb44839011f9b16f42540cbdd2f9b19616a6ad48731c0459b1fa315e4c0",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Läkemedelsverket instämmer i förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 1.0,
+      "quote": "Läkemedelsverket ställer sig positiva till överföringen av uppgifter från Myndigheten för samhällsskydd och beredskap (MSB) till Försvarets radioanstalt (FRA).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec168",
+      "sentiment": 0.2,
+      "quote": "Läkemedelsverket vill dock påpeka att det vore önskvärt att MSB och FRA arbetar för att rapporteringen enligt NIS2- och CER-direktiven kan göras genom en sammanhållen och central tjänst för att underlätta hanteringen.",
+      "quote_type": "grund"
+    }
+  ]
+}

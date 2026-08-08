@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/byggherrarna": "aebd2b62ee405dfc93a9a90e8e55bc2f7b6090307c66f8ce2ea8245da611a048",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Långa och oförutsägbara processer medför betydande kostnader, fördröjer investeringar och försvårar genomförandet av angelägna samhällsbyggnadsprojekt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec5",
+      "sentiment": 0.5,
+      "quote": "Domstolarna får inte bli en flaskhals i systemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": 1.0,
+      "quote": "Byggherrarna delar bedömningen att en proportionerlig överklagandeavgift kan bidra till minskat antal ogrundade överklaganden och effektivare processer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec19",
+      "sentiment": 1.0,
+      "quote": "Byggherrarna ställer sig positiv till förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec20",
+      "sentiment": 0.2,
+      "quote": "Förslagen betonar samtidigt arbetet i tidiga skeden av detaljplaneprocessen, vilket riskerar att öka utredningsbördan för byggherrar och exploatörer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec21",
+      "sentiment": 0.5,
+      "quote": "Om de inte gör det riskerar det fördröja eller förhindra processer i senare skede.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec22",
+      "sentiment": 0.2,
+      "quote": "Dagens ordning innebär att byggherrar ofta bär betydande ekonomisk risk under långa och osäkra planprocesser, utan motsvarande incitament för effektiv handläggning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec23",
+      "sentiment": -0.5,
+      "quote": "Utredningsbördan är ett väldokumenterat problem som gör planprocesserna oförutsägbara och driver såväl tid som kostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

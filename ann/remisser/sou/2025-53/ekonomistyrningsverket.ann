@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:53/ekonomistyrningsverket": "45f750e7a1de29f4561a7d24f2b911719ac829fc1a4e5fcd345c5c12cc1cdac6",
+      "artifact:forarbete/sou/2025-53": "1b5d2ced0349cbd7f9e81a7f1c3e41751352e4c3e89c351a85f75a5c2819aa25"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "ESV ser positivt på att modellen bidrar till ökad kontroll som motverkar felaktiga utbetalningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec228",
+      "sentiment": -0.2,
+      "quote": "Detta kan ge utrymme för olika tolkningar och felaktiga utbetalningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.8.2",
+      "sentiment": -0.2,
+      "quote": "ESV saknar någon form av beräkning av de kostnader som skulle kunna falla ut om dessa risker materialiseras.",
+      "quote_type": "grund"
+    }
+  ]
+}

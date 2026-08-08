@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/lansstyrelsen-i-blekinge-lan": "36acfdf27af0126808687badf32959461f674ab6102382b0f3a8f794a73be837",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen vill dock betona att det i vissa fall kan vara så att den polisiära relevansen för uppgiften är låg men att det finns starka skäl för staten att inte avhända sig uppgiften.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec49",
+      "sentiment": -0.5,
+      "quote": "torde graden av polisiär relevans vara sådan att den motiverar att arbetsuppgiften bör åvila Polismyndigheten eftersom den är starkt kopplad till polisens register om misstanke-och brottsmisstankar samt vapenregistret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec50",
+      "sentiment": -0.2,
+      "quote": "Här finns det skäl att se över förslaget så att en arrangör inte åläggs att söka tillstånd både hos kommun och Polismyndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "Detta förutsatt att länsstyrelserna får föreslagen finansiering för de tillkommande uppgifterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "Om länsstyrelserna i större utsträckning ska hantera stämningsmannadelgivningar utan Polismyndighetens medverkan behöver länsstyrelserna säkerställa tillgång till privata stämningsmän vilket kan vara en utmaning i små län och det finns en risk att delgivningarna blir mer tidskrävande och kostsamma i de fall då länsstyrelsen behöver anlita stämningsman först via ett auktoriserat delgivningsföretag och därefter via Polismyndigheten.",
+      "quote_type": "grund"
+    }
+  ]
+}

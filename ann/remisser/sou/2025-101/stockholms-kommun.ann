@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/stockholms-kommun": "96aeae77861e9480a73276a330d417ef63d46db153ee26451331229dd02651a7",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Att Post- och telestyrelsen föreslås få ett samordnande ansvar kan bidra till ökad tydlighet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.2,
+      "quote": "Stadsledningskontoret bedömer att en sådan ordning riskerar att skapa en komplex tillsynsstruktur med otydlig ansvarsfördelning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.8",
+      "sentiment": 0.5,
+      "quote": "Stadsledningskontoret delar betänkandes uppfattning att möjligheter och begränsningar med tekniken i sektorsspecifika tillämpningar avgörs bäst inom respektive fackområde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "I likhet med små och medelstora företag behöver kommuner vägledning i regulatoriska osäkerheter och tillgång till trygga miljöer för att utveckla och testa innovativa lösningar tillsammans med andra aktörer.",
+      "quote_type": "grund"
+    }
+  ]
+}

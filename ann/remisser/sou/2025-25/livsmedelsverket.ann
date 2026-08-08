@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/livsmedelsverket": "0ec19042ed7b65320763957e018cdc87e4e14c419d17957c8a5421b4d7c72db8",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Möjligheten till informationsutbyte mellan myndigheter är därför enligt myndigheten av stor vikt för förmågan att motverka arbetslivskriminalitet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": 0.2,
+      "quote": "Livsmedelsverket vill i denna del lyfta fram att risk för arbetslivskriminalitet i form av till exempel utnyttjande av arbetstagare finns även inom övriga delar av livsmedelsbranschen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.15.8",
+      "sentiment": 1.0,
+      "quote": "Livsmedelsverket delar delegationens uppfattning att privata aktörer har en roll att spela när det gäller att hindra oseriösa aktörer från att ingå avtal med andra enskilda.",
+      "quote_type": "grund"
+    }
+  ]
+}

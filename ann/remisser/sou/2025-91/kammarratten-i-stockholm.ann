@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/kammarratten-i-stockholm": "baea5821176afa2e706d623e149157e97bb6ee0cedb6037deca6ac036c31a097",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kammarrätten har följande synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec421",
+      "sentiment": 0.5,
+      "quote": "För det fall att avsikten är att samtliga beslut om registrering ska kunna överklagas bör det dock tas in en särskild bestämmelse om överklagande i anslutning till den föreslagna bestämmelsen om testamentsregister i ärvdabalken",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.10",
+      "sentiment": -0.2,
+      "quote": "Om avsikten enligt utredningen är att alla uppgifter i registret ska omfattas av sekretess bör det övervägas att utvidga sekretessen till att uttryckligen omfatta samtliga uppgifter, alternativt uppgifter om alla enskildas personliga eller ekonomiska förhållanden.",
+      "quote_type": "grund"
+    }
+  ]
+}

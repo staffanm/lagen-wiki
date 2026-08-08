@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/skogsstyrelsen": "0d05fc14697dd0cf7a1376a56c21d3d8a0b275e45008d0c09b9776378c65f875",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Skogsstyrelsen instämmer i utredningens slutsatser och förslag",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.1",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen ser en risk för att en ändring av jordförvärvslagen även skulle kunna komma att påverka skyddsreglerna för jord- och skogsbruket i fastighetsbildningslagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2.2",
+      "sentiment": 1.0,
+      "quote": "nuvarande bestämmelser inte har den effekt som eftersträvas",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.3.2",
+      "sentiment": 1.0,
+      "quote": "för att därigenom minska antalet förvärvsprövningar och de administrativa kostnaderna",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/kavlinge-kommun": "75ee42465e0eddd3b4d7e3391921a7ad9c5da6f6aee1a001bafccb821b38665b",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Kävlinge kommun instämmer i utredningens bedömning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 1.0,
+      "quote": "En förstärkt styrning av jämställdhetspolitiken gynnas av tydligt definierade aktörer med bestämda ansvarsområden som kompletterar varandra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": 1.0,
+      "quote": "En samlad strategi skapar helhetsperspektiv och tydlighet kring långsiktiga ambitioner och prioriteringar på området, vilket gynnar det lokala utvecklingsarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": 0.8,
+      "quote": "Kävlinge kommun instämmer i utredningens bedömning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": 0.8,
+      "quote": "I realiteten kommer en ambitionshöjning innebära behov av utbildningsinsatser, förändrade arbetssätt och insatser samt utvecklad samverkan inom kommunen och med andra aktörer.",
+      "quote_type": "grund"
+    }
+  ]
+}

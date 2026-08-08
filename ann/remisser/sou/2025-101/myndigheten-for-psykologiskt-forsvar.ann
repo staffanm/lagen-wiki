@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/myndigheten-for-psykologiskt-forsvar": "332007fdc75702f19f0e8e56837255f8d88ce4e30297033df0f84c9a600dff6e",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "tillstyrker de förslag som presenteras och som berör Sveriges psykologiska försvar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.7",
+      "sentiment": 0.5,
+      "quote": "MPF bedömer därför att den nationella marknadskontrollen och efterlevnaden av förbuden i artikel 5 i praktiken även behöver kunna hantera scenarier där AI-system används för otillbörlig informationspåverkan som faller inom ramen för artikel 5.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.8",
+      "sentiment": 1.0,
+      "quote": "De föreslagna transparenskraven i artikel 50, bland annat vad gäller deepfakes och märkning av viss AI-genererad text, är därför centrala ur det psykologiska försvarets perspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec250",
+      "sentiment": 0.8,
+      "quote": "Mot bakgrund av MPF:s uppdrag att bidra till skyddet av demokratiska processer ser myndigheten positivt på nära samverkan med IMY i dessa frågor, särskilt vad gäller antagonistisk användning av AI från främmande makt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec436",
+      "sentiment": 0.5,
+      "quote": "MPF bör ges förutsättningar att samverka med marknadskontrollmyndigheterna i frågor som rör antagonistisk användning av AI, inklusive från främmande makt.",
+      "quote_type": "grund"
+    }
+  ]
+}

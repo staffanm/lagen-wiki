@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:37/domstolsverket": "6e5aa8d4199fe0e55871b710826c83dc3e523f5f1b649160d97a46988a121268",
+      "artifact:forarbete/sou/2025-37": "f2caa386251f276824b88c0c043ef741f67175b8f957b93142f12fc4f4448b10"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Domstolsverket har inte några synpunkter på förslagen i sak.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec583",
+      "sentiment": 0.5,
+      "quote": "Domstolsverket yrkar därför ett ökat anslag med 2,7 miljoner kronor per år (230*8 484=1 951 320 plus 50*15 348=767 400).",
+      "quote_type": "grund"
+    }
+  ]
+}

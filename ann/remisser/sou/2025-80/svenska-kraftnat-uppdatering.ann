@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/svenska-kraftnat-uppdatering": "5c5b46a38f6cb57b49f826a9052de15751cfc5ebe1be1b9eb69d2d76a68f5cdc",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Svenska kraftnät gör bedömningen att de i betänkandet föreslagna ändringarna kan komma att effektivisera hanteringen av fastighetsgränser och ligger i linje med den digitalisering av samhällsbyggnadsprocessen som pågår.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 1.0,
+      "quote": "Den lägesosäkerhet på 0.025 meter inom detaljplanelagt område och 0.2 meter inom jord- och skogsbruk som betänkandet förordar som krav på koordinatbestämda gränser anser Svenska kraftnät vara acceptabel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec226",
+      "sentiment": 0.7,
+      "quote": "De utredningar av rådande fastighetsförhållanden som krävs vid bildande av ledningsrätt samt vid ansökningar om nätkoncessioner bedöms kunna underlättas av koordinatsatta fastighetsgränser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec294",
+      "sentiment": 0.7,
+      "quote": "Sannolikt kommer även Svenska kraftnäts byggnations- och underhållsarbete förbättras med koordinatbestämda fastighetsgränser, då mycket arbete utgår från registerkartan.",
+      "quote_type": "grund"
+    }
+  ]
+}

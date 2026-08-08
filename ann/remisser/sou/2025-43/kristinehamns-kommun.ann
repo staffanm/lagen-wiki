@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/kristinehamns-kommun": "661b1fb114c84f89b55c5ad67fd22a04ce63c052186e53475c99d8cbf6bc7535",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.6,
+    "quote": "Det är värdefullt att nuvarande och framtida brist på läkemedel tas på allvar och att de negativa konsekvenserna minimeras.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Förslagen till ändring i lagtexten och förordning ser vi som tydlig och bra.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 1.0,
+      "quote": "Förslagen till ändring i lagtexten och förordning ser vi som tydlig och bra.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.1.2",
+      "sentiment": -0.2,
+      "quote": "Det borde vara krav på att anmäla varför ett läkemedel restnoterats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.1",
+      "sentiment": 0.2,
+      "quote": "Det är också viktigt att den som ansvarar för patienters läkemedelshantering, till exempel i kommunal hälso- och sjukvård får information om brister och restriktioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.2",
+      "sentiment": 0.5,
+      "quote": "Vi instämmer med de negativa konsekvenserna som lyfts fram och att allt för att minimera dessa görs.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 1.0,
+      "quote": "Det blir nödvändigt också för att minska risker att läkemedel som är avsedda för en begränsad grupp inte nyttjas av dem som kommer att använda läkemedlet utanför indikation och rekommendation.",
+      "quote_type": "grund"
+    }
+  ]
+}

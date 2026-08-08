@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/malmo-kommun": "77636c18bdd7a23aa14f6e9873d4dc7055f0cb4548b939ac83e973b76825891e",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Malmö stad anser dock att mot bakgrund av att de ekonomiska konsekvenserna av förslagen är svåröverskådliga är det av vikt att kostnaderna närmare utreds och följs upp så att kommunerna kompenseras i enlighet med finansieringsprincipen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec20",
+      "sentiment": 1.0,
+      "quote": "Kommunala tjänstemän utsätts i hög grad för brott riktade mot deras person och i linje med vad utredningen framhåller så är det rimligt att de inte ska behöva betala för motpartens kostnader i samband med en rättegång.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "Malmö stad är i grunden positiv till att enskilda i vissa fall ska kunna få ersättning för kostnader för ombud i förvaltningsprocessen och på så sätt dels göra svensk lag mer förenlig med internationella åtaganden, dels undvika att den enskilde behöver föra en separat process med stöd av reglerna i skadeståndslagen för att få befogade kostnader ersatta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4",
+      "sentiment": -0.2,
+      "quote": "Malmö stad anser dock att det är en brist i utredningen och att det närmare bör tydliggöras i vilken mån kommuner och statliga myndigheter påverkas i fråga om det allmännas kostnadsansvar i förvaltningsdomstol respektive i allmän domstol.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec27",
+      "sentiment": 1.0,
+      "quote": "Malmö stad har inga synpunkter på förslagen rörande inkomstgräns och avgifter",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

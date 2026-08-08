@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/fortifikationsverket": "d6f31e8f39f1c05a0d962175b30cc4bc2f84ade1a5cd6e5cb8824a20410beab4",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Fortifikationsverket har tagit del av förslaget som förefaller vara väl genomarbetat och detaljerat.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.4",
+      "sentiment": -0.2,
+      "quote": "Kravet riskerar dock att bli alltför betungande och utan praktisk effekt vid anskaffningar mellan myndigheter, som är väl införstådda i varandras verksamhet och vilka säkerhetsskyddskrav som gäller.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7",
+      "sentiment": -0.5,
+      "quote": "Av säkerhetsskyddsskäl är en sådan ordning inte lämplig och behöver därför omarbetas med utgångspunkten att försvarsändamål för Fortifikationsverkets del bör vara styrande för det fall att försvarsintressen skulle ställas mot andra intressen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:89/regelradet": "f7afb3a17c301434499575f37ef79a19555b33b7f2b3e5e9aae7dea540bc0c4e",
+      "artifact:forarbete/sou/2025-89": "afe1fb1af513037b8ebe2623eb4a101b40c95abf5ec06765e928348800d59876"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Regelrådet bedömer att konsekvensutredningen inte uppfyller kraven i 6 och 7 §§ förordningen (2007:1244) om konsekvensutredning vid regelgivning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec750",
+      "sentiment": 0.5,
+      "quote": "Regelrådet uppfattar att flera av de förslag som lämnas i betänkandet, däribland förslaget om en sammanslagen lagstiftning på fiskeområdet, kan leda till förenklingar i tillämpningen och uppföljningen av regelverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec937",
+      "sentiment": -0.5,
+      "quote": "Ett ytterligare exempel där kompletterande kvantifieringar hade behövts gäller förslaget om REM-övervakning på fångstfartyg som utgör en hög risk för bristande fullgörande av landningsskyldigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec963",
+      "sentiment": -0.5,
+      "quote": "Ett sådant exempel är förslaget om övervakning av motorstyrka där förslagsställaren hade kunnat komplettera beskrivningen med exempelkostnader och scenarioberäkningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.10",
+      "sentiment": 0.5,
+      "quote": "de föreslagna utökade möjligheterna att använda sanktionsavgifter vid överträdelser av fiskelagstiftningens bestämmelser kan ha positiva effekter för konkurrenssituationen för de företag som berörs.",
+      "quote_type": "grund"
+    }
+  ]
+}

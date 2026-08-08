@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:35/hyresgastforeningen": "45fd80af020f2876fbd976c4ad2fd3da999f2ce43e33ca20c445da9727fd0bf3",
+      "artifact:forarbete/sou/2025-35": "714b8500e63e7332a0838b0ab133e0525ceab22d4636b418ba3d2ac111780a44"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Detta kan stärka integrationen och tydliggöra kommunernas ansvar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec18",
+      "sentiment": -0.5,
+      "quote": "Hyresgästföreningen anser att en treårig tidsgräns är otillräcklig för att säkerställa en långsiktig och trygg övergång till den ordinarie bostadsmarknaden för nyanlända, särskilt i landets storstadskommuner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 0.2,
+      "quote": "Eftersom kommunernas kapacitet och arbetssätt varierar avsevärt idag, anser Hyresgästföreningen att det stöd som kommunerna bör erbjuda konkretiseras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec10",
+      "sentiment": -1.0,
+      "quote": "Detta riskerar i sin tur att skapa en ojämn fördelning av nyanlända, som ökar mellankommunal segregation och försämrar integrationsmöjligheter i enskilda kommuner.",
+      "quote_type": "grund"
+    }
+  ]
+}

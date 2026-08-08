@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:1/lrf-lantbrukarnas-riksforbund": "f3358ac6bf242ee9a8ef413f13ab5f9c458c470ca7b1dbb3273943cfed08f15e",
+      "artifact:forarbete/sou/2026-1": "800122abdf1a75716ad0b7e15b8b8e168d5039afbac180a5b4abf6bbfb8f9388"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "LRF anser att detta är mycket olyckligt och anser att Sverige bör agera för att återigen göra Sverige till ett attraktivt land för forskning och utveckling.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "LRF anser att båda förslagen som utredningen presenterar är bra, men att ett så kallat förhöjt kostnadsavdrag är det bästa alternativet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.5,
+      "quote": "LRF anser att båda förslagen som utredningen presenterar är bra",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

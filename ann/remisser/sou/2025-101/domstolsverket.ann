@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/domstolsverket": "6663221e266e9f4ab132f48fc0795972107f3c2efb6bdace455d6a2096cbfa91",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Domstolsverket har i övrigt inte några synpunkter på förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.8.2",
+      "sentiment": 0.5,
+      "quote": "Domstolsverket instämmer i denna bedömning men saknar resonemang om undantaget även gäller för hyres- och arrendenämnder (jfr. exempelvis bedömning i avsnitt 6 i prop. 2017/18:113 Anpassning av domstolsdatalagen till EU:s dataskyddsförordning).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.10",
+      "sentiment": -0.2,
+      "quote": "Med hänsyn till den osäkerhet som föreligger ställer sig Domstolsverket dock tveksam till utredningens bedömning att de initiala kostnaderna för domstolarna ryms inom befintliga anslagsramar.",
+      "quote_type": "grund"
+    }
+  ]
+}

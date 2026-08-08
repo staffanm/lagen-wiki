@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/svenskt-naringsliv": "93a4888073a73100fe58ca7ddb954ed0ec05bf7b51f4cb01c5cd1f9af7d735d7",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenskt Näringsliv tillstyrker utredningen av SOU 2025:120 men med tillägget att OPS-kompetensen bör förläggas på det nya bolaget och inte Trafikverket.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec6",
+      "sentiment": 1.0,
+      "quote": "Etableringen av Nye Veier i Norge har haft en positiv inverkan på Statens vegvesens produktivitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec129",
+      "sentiment": 1.0,
+      "quote": "Det handlar primärt om ett incitament för entreprenörerna att färdigställa projekt snabbare och öppna för trafik men även att hitta nya tekniska lösningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.6",
+      "sentiment": -0.5,
+      "quote": "Att på förhand utesluta beprövade alternativ begränsar onödigtvis möjligheterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.1",
+      "sentiment": -0.5,
+      "quote": "Att, som utredningen alternativt föreslår, lägga uppdraget att bygga upp denna spetskompetens på Trafikverket skulle riskera en fragmenterad ansvarsfördelning och försvaga det momentum som bildandet av bolaget syftar till att skapa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec147",
+      "sentiment": 0.2,
+      "quote": "I Norge har Nye Veier kunnat undvika kostnadsdrivande krav från kommuner genom att senarelägga mindre samhällsekonomiskt lönsamma projekt.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:59/polismyndigheten": "b64cdd5847d1c08d59561afc335666c05a0ca0b8d1585c2b17feed928f4e812f",
+      "artifact:forarbete/sou/2025-59": "1aea05637fee193cae7b8a08b1b7bb725d914149befd857abda48416d4384cc8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "De nya lagförslagen återspeglar en skärpt syn på hedersrelaterat våld och förtryck och förbättrar möjligheterna att både utreda och att förebygga brott vilket är angeläget enligt Polismyndigheten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.15",
+      "sentiment": 0.5,
+      "quote": "Hemliga tvångsmedel kan därför vara nödvändigt för att identifiera misstänkta, klarlägga brottsupplägg och säkra bevisning som annars inte är möjligt att inhämta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": -0.2,
+      "quote": "Med hänsyn till att vissa av förslagen särskilt är avsedda att förebygga hedersrelaterat våld och förtryck mot barn är det angeläget att förändringarna finns på plats inför sommarlovet när barn löper ökad risk att föras utomlands.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten ställer sig bakom analysen och det faktum att en uppskattning på förhand är förenad med svårigheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:71/tandvards--och-lakemedelsformansverket-tlv": "e749bfeff2132769592ae2b6068c21d2ff184920818b5679f273eea90395d62a",
+      "artifact:forarbete/sou/2025-71": "957a0b0208845de41ee3eb7c78a854f8c82bf13e7ec07e3ebdf350fdecdb0325"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "TLV instämmer med utredningens bedömningar och förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.6",
+      "sentiment": 1.0,
+      "quote": "Båda förslagen skapar möjligheter för TLV att förse NT-rådet med bättre underlag inför beslut, och ger en mer heltäckande bild av läkemedelskostnaderna inom vården.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1.1",
+      "sentiment": 1.0,
+      "quote": "Information om exempelvis lokalanestetika och sederingsläkemedel skulle utgöra ett värdefullt underlag i TLV:s arbete med referenspriser inom ramen för det statliga tandvårdsstödet, och möjliggöra bättre uppföljning och tillsyn av dessa läkemedel på individnivå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.6",
+      "sentiment": 0.5,
+      "quote": "Dessa data är av betydelse för TLV:s möjligheter till uppföljning, tillsyn och analys, och det är därför viktigt att långsiktig tillgänglighet, kvalitet och användbarhet för sekundära ändamål säkerställs.",
+      "quote_type": "grund"
+    }
+  ]
+}

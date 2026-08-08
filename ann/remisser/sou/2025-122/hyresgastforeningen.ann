@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/hyresgastforeningen": "14140e2c26e2f5c7ad7f07b87b7594cd656a59de596a827e4fc3c9e56be657be",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Hyresgästföreningen delar u tredningens ambit ioner , men bedömer att flera av de aktuella förslagen riskerar att motverka syfte t.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec5",
+      "sentiment": -1.0,
+      "quote": "En övergång till enbart domstolsprövning riskerar att minska förståelsen för lokala och regionala förhållanden , försvaga helhetsperspektivet i bedömningarna och öka behovet av omfattande utredningar i domstol .",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": -0.5,
+      "quote": "Även om avgiften motiveras med att minska antalet överklaganden innebär den i praktik en ekonomisk tröskel som kan avskräcka enski lda från att överklaga trots befogade skäl .",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec21",
+      "sentiment": -1.0,
+      "quote": "Att ta bort kravet på samråd med hyresgästorganisationer, hyresgäster och andra boende innebär en tydlig försvagning av deras inflytande .",
+      "quote_type": "grund"
+    }
+  ]
+}

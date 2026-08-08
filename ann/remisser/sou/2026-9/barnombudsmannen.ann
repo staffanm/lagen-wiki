@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:9/barnombudsmannen": "0a87ca41c9834eac87223a54be587d8ce213d94cf2e3c6747233d744cccbd90b",
+      "artifact:forarbete/sou/2026-9": "6e2fe757deba6487afb4900466860dd25cfab83203ab6a46a85c3d959c713359"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Barnombudsmannen varken tillstyrker eller avstyrker förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec192",
+      "sentiment": 0.2,
+      "quote": "En situation där fingeravtryck ska tas måste för de alla flesta barn förutsättas vara en främmande situation. Det är därför av mycket stor vikt att det undantagslöst finns utbildad, kompetent och lämplig personal på plats för att genomföra denna arbetsuppgift.",
+      "quote_type": "grund"
+    }
+  ]
+}

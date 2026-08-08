@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/jordbruksverket": "93fd697714c8b14768c36944bb97ef069f1cca00342107bd01b7f6da5bfc95a1",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Jordbruksverket ställer sig positivt till ambitionen att korta handläggningstiderna i överklagandeprocessen, vilket gynnar företagen inom de areella näringarna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec5",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelserna besitter en betydande lokalkännedom, vilket tillför ett värdefullt lokalt och regionalt perspektiv i prövningen av det enskilda ärendet och bidrar till en mer effektiv handläggning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": 1.0,
+      "quote": "Jordbruksverket anser att de föreslagna avgiftsnivåerna är satta på en nivå som inte riskerar att begränsa den enskildes rätt till domstolsprövning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec23",
+      "sentiment": 1.0,
+      "quote": "Jordbruksverket tillstyrker utredningens bedömning att bestämmelserna om krav på utredning i samband med planläggning inte bör ändras.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

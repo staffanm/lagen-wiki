@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:89/lantmateriet": "2787fc40fcd7dd5cb191cba43dd9b0b8aaca1923d091d69a51cc0f63124321e3",
+      "artifact:forarbete/sou/2025-89": "afe1fb1af513037b8ebe2623eb4a101b40c95abf5ec06765e928348800d59876"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Lantmäteriet tillstyrker förslaget med nedan nämnda synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6-3",
+      "sentiment": 0.2,
+      "quote": "Lantmäteriet vill framhålla att det finns två utestående frågeställningar som behandlades i havgränsutredningens betänkande (SOU 2025:20) som har beröringspunkter med förslagen till en moderniserad fiskerilagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 1.0,
+      "quote": "En övergång till att ange höjder och djup i relation till RH 2000 främjar enhetlighet och ligger i linje med arbete kring geodetisk infrastruktur i Sverige.",
+      "quote_type": "grund"
+    }
+  ]
+}

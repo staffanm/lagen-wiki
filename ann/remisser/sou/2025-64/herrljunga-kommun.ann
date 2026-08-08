@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/herrljunga-kommun": "0d7019596aca7e384c4d193cd7409fdace67dc24c46a14df8f633ed187e75eb6",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Nämnden ser både för- och nackdelar med förslaget, men är i grunden positiva till förslaget i stort, men föreslår att dricksvattenkontrollen undantas så att de kommunala nämnderna fortsatt är kontrollmyndighet för dem.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.8,
+      "quote": "De fördelar som nämnden ser är bättre förutsättningar för en likvärdig kontroll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec617",
+      "sentiment": -0.5,
+      "quote": "Den största nackdel som nämnden ser är försämrade förutsättningar att upptäcka fusk och bedrägerier.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a21.7.1",
+      "sentiment": -0.5,
+      "quote": "En annan nackdel som nämnden ser är att kostnaderna sannolikt blir högre för livsmedelsverksamheterna, då livsmedelsverkets taxor för kontroll är högre än de kommunala kontrollmyndigheternas taxor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec618",
+      "sentiment": -0.2,
+      "quote": "Den kommunala nämnden har redan tillsynsansvaret kring verksamheternas köldmedieanläggningar och/eller verksamheternas avloppssystem, och det finns samordningsvinster mellan dessa områden och livsmedelskontrollen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a21.3.1",
+      "sentiment": -0.5,
+      "quote": "I händelse av kris finns risk att kommunikationsvägar stängs ner.",
+      "quote_type": "grund"
+    }
+  ]
+}

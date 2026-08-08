@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/region-jonkopings-lan": "84e8eaac40794af854afcb5b5c245828750447f27d45dfae5f14a4f7eb5753e9",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "En samlad översyn av den regionala utvecklingspolitiken och landsbygdspolitiken är angelägen för att utveckla och förbättra förutsättningarna för långsiktig utveckling i hela landet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": 1.0,
+      "quote": "Vi ser positivt på att utredningen vill utveckla målen för den territoriella politiken.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec122",
+      "sentiment": 0.5,
+      "quote": "En tydligare ansvarsfördelning mellan stat och region är nödvändig för ett mer ändamålsenligt och effektivt arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec123",
+      "sentiment": -0.5,
+      "quote": "Beslut baseras på kunskap och överblick över lokala och regionala förhållanden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec133",
+      "sentiment": -0.5,
+      "quote": "En enhetlig verksamhetslogik riskerar att osynliggöra regionala skillnader och skapa ineffektivitet i genomförandet.",
+      "quote_type": "grund"
+    }
+  ]
+}

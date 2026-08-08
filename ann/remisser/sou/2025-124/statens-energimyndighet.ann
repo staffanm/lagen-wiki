@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:124/statens-energimyndighet": "dee9a5f3b9455d22cf319297994908eabc1ff6b318334ab25297210f3b5d9861",
+      "artifact:forarbete/sou/2025-124": "b54e2b2f029309b048608c1f357964bc90dd4cea710603ea2e5c6d8e0fc7c64d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Energimyndigheten tillstyrker i huvudsak förslaget men har ett antal synpunkter att redovisa.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": -0.2,
+      "quote": "Samspelet mellan de nya och de redan gällande kraven är i vissa fall otydligt, med överlapp i vissa fall.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.12.3",
+      "sentiment": 1.0,
+      "quote": "Energimyndigheten tillstyrker förslaget att Konsumentverket utses till ansvarig tillsynsmyndighet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": 1.0,
+      "quote": "Energimyndigheten tillstyrker förslaget att Naturvårdsverket utses som deltagande i expertgrupp och nationell kontaktpunkt för onlineplattformen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.2.1",
+      "sentiment": -0.2,
+      "quote": "Utredningen har inte klarlagt om en nationell del i den europeiska onlineplattformen för reparatörer är att likställa med registreringssystemet som det refereras till i ekodesignlagstiftningen, men Energimyndigheten vill betona att det här behöver utredas och förtydligas.",
+      "quote_type": "grund"
+    }
+  ]
+}

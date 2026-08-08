@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:58/lansstyrelsen-vasternorrland": "98f09fbd33afd6e6fb6783b3b05496a7f197f6fefe2ab40c41fe2ebabc69f7ae",
+      "artifact:forarbete/sou/2025-58": "ba36ed43caad5065a24954f0cd558aaf490376f8b49d2831dc80ba70fc994f7a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Länsstyrelsen Västernorrland avstyrker förslaget om att inkludera hästnäringen i investeringsstödet och kompensationsstödet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.11",
+      "sentiment": -1.0,
+      "quote": "I detta prekära läge som vi befinner oss i avråder Länsstyrelsen Västernorrland från att inkludera hästföretagen i föreslagna stöd för att inte riskera att vattna ur den redan ansträngda budgeten samt för att undvika en negativ påverkan på jordbruksföretagens möjligheter att producera livsmedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.19.3",
+      "sentiment": -1.0,
+      "quote": "Att ge samma möjlighet till en näring med bristande lönsamhet som inte producerar livsmedel i någon större grad är ett förslag som Länsstyrelsen Västernorrland inte stödjer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.19.7",
+      "sentiment": -0.5,
+      "quote": "Det är inte möjligt att jämföra med nötkreatur då hästar i större utsträckning riskerar att drabbas av irreversibla skador om något går fel.",
+      "quote_type": "grund"
+    }
+  ]
+}

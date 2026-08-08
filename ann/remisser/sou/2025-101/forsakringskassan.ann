@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/forsakringskassan": "9dbac577413a16f66308a906ff72d8ac6e338d095cd58c4fa24d9469c69ee397",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Försäkringskassan har följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.5.1",
+      "sentiment": -0.5,
+      "quote": "Sådana överlapp riskerar att föranleda mycket komplexa gränsdragningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5.5",
+      "sentiment": -0.5,
+      "quote": "Sådana överlapp riskerar att föranleda mycket komplexa gränsdragningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.9.6",
+      "sentiment": 0.5,
+      "quote": "Försäkringskassan instämmer därför i vad som anges i betänkandet om att det finns anledning att överväga om det behövs en mer samlad reglering kring incidentrapporter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5.2",
+      "sentiment": 0.0,
+      "quote": "Under den etableringen väntas det bli tydligare om AI-verkstaden kan utgöra en sådan infrastruktur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.8.3",
+      "sentiment": -0.2,
+      "quote": "Försäkringskassan anser därför att det i det fortsatta lagstiftningsarbetet behöver förtydligas och utvecklas vilka omständigheter som är relevanta att ta hänsyn till vid olämplighetsbedömningen enligt den nu föreslagna bestämmelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.11",
+      "sentiment": -0.2,
+      "quote": "Försäkringskassan anser att motsvarande konsekvenser aktualiseras även för myndigheter som utgör operatörer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": -0.2,
+      "quote": "Den föreslagna bestämmelsen behöver därför utformas så att det är tydligt att även skada för rapporterande tillhandahållarens framtida verksamhet eller tillhandahållarens syfte med vidtagna åtgärder ska beaktas vid skadebedömningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:40/boverket": "823f366be827b7c9f504d0c82fccdefa84ff2e6a405cf79b632ae49a78a93af9",
+      "artifact:forarbete/sou/2025-40": "c04285caa82b9652fb357cbae989fe2dee864542cf2f237c017dbd2cc406bc0c"
+    }
+  },
+  "overall": {
+    "sentiment": -0.8,
+    "quote": "Boverket avstyrker förslaget då utredningen i flera delar är otydlig, vilket försvårar en samlad bedömning av konsekvenserna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -1.0,
+      "quote": "På flera ställen synes utredningen utgå från en äldre rättslig ordning, vilket leder till felaktiga slutsatser och författningsförslag som inte är förenliga med nuvarande regelverk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4",
+      "sentiment": -0.2,
+      "quote": "Det är i nuläget oklart i vilken utsträckning den föreslagna regleringen överlappar med befintliga föreskrifter, varför detta bör utredas vidare.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:58/svensk-hov": "172b4beeb222b9be49f279f2ad53c37310ddd909c66b09ccdfa2b474fb7f9b61",
+      "artifact:forarbete/sou/2025-58": "ba36ed43caad5065a24954f0cd558aaf490376f8b49d2831dc80ba70fc994f7a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Hovkompetens är en grundförutsättning för god hästvälfärd och för en hållbar hästnäring i framtiden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.18.8",
+      "sentiment": 1.0,
+      "quote": "Fortbildningar, kurser, nätverkande och samarbeten ökar resiliensen i branschen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6",
+      "sentiment": 0.5,
+      "quote": "Djurvälfärd och hur vi tar hänsyn till hästens biologiska och mentala behov behöver vara en självklar och integrerad del av all hovvårdsutbildning och yrkesutövning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.1",
+      "sentiment": 1.0,
+      "quote": "Yrket är fysiskt krävande och sårbart vid sjukdom eller skada.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.1",
+      "sentiment": 0.2,
+      "quote": "I dag finns ett glapp i de formella utbildningarna.",
+      "quote_type": "grund"
+    }
+  ]
+}

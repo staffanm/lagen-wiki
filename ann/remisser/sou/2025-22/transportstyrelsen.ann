@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/transportstyrelsen": "890c7420023fe5c389e90b0a61bb91276686315128a40ff93a5020eb89266418",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Transportstyrelsen tillstyrker förslagen i betänkandet med följande medskick.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 1.0,
+      "quote": "Transportstyrelsen välkomnar ett nytt konkurrensverktyg som har potential att fylla de luckor som uppstår mellan konkurrenslagstiftningen och de sektorregleringar som Transportstyrelsen ansvarar för.",
+      "quote_type": "grund"
+    }
+  ]
+}

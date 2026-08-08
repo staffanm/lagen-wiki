@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/helsingborgs-kommun": "f07b384a8d6047af9313146c2c938f58986b596d290fad02de5830e61063761b",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Helsingborgs stad är mycket positiva till slutbetänkandets förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 1.0,
+      "quote": "Förslaget att dela uppgifter på eget initiativ stärker möjligheten för staden att samverka med andra myndigheter genom att utbyta uppgifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec20",
+      "sentiment": -0.2,
+      "quote": "För att undvika missförstånd och få ut bäst effekt av förslagen hade det varit önskvärt att förslagen från både delbetänkandet och slutbetänkandet träder i kraft samtidigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 1.0,
+      "quote": "Den generella sekretessbrytande bestämmelse kommer att förbättra våra förutsättningar att förebygga, upptäcka och arbeta mot såväl välfärdsbrott som annan organiserad brottslighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": -0.5,
+      "quote": "För socialtjänstens del kan detta innebära en ökad hantering av handlingar med känsliga personuppgifter och att socialtjänsten behandlar fler personuppgifter än som behövs för att utföra uppdraget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 0.5,
+      "quote": "Med detta i åtanke är vår slutsats likväl att det allmänna intresset av en ändamålsenlig informationsdelning väger tyngre än den enskildes integritet i den här typen av samverkan.",
+      "quote_type": "grund"
+    }
+  ]
+}

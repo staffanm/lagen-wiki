@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/inspektionen-for-vard-och-omsorg-ivo": "3b8fb75080a50e22b1ea75b33dcb46a8b332d830b41e040d7debd8b65f72c090",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "IVO instämmer i utredningens bedömning att tillfälliga begränsningar genom föreskrifter kan vara ett effektivt sätt att säkerställa att de som har störst behov av ett visst läkemedel får tillgång till det även vid en läkemedelsbrist.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 1.0,
+      "quote": "IVO kan inte kritisera en förskrivare som inte har hörsammat en ”vädjan”, utan kan endast uttala sig om förskrivningen skett i överensstämmelse med de lagar och föreskrifter som gäller.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec68",
+      "sentiment": 0.2,
+      "quote": "Det är därför angeläget att frågan om störst behov i respektive fall är väl utredd och underbyggd innan föreskrifter kan utfärdas.",
+      "quote_type": "grund"
+    }
+  ]
+}

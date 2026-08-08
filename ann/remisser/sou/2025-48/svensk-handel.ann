@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/svensk-handel": "9e08395634d7310f7ac6dd9116106670e6f195163dd30cacef521093bb4c4d03",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Strategin och den föreslagna lagstiftningen välkomnas då regelverket blir mer förutsebart och ad-hoc-lösningar i möjligaste mån kan undvikas, men måste samtidigt hållas proportionerlig till de effekter föreslagna åtgärder kan ge.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 1.0,
+      "quote": "Strategin och den föreslagna lagstiftningen välkomnas då regelverket blir mer förutsebart och ad-hoc-lösningar i möjligaste mån kan undvikas",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec40",
+      "sentiment": -0.2,
+      "quote": "Det finns en risk att ett krav på företag att ta fram beredskapsplaner lägger alltför stor administrativ börda på företag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec43",
+      "sentiment": -0.5,
+      "quote": "Tillfälliga begränsningar i öppethållande av butiker kan få stora ekonomiska konsekvenser, inte minst för småföretagare.",
+      "quote_type": "grund"
+    }
+  ]
+}

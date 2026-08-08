@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/natverket-sveriges-kommunala-lantmaterimyndigheter": "355bc07782506ebe8ceb772a656ad3c209c8c67089677c308d35b1ab8e17ed51",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "KLMnätverket bedömer att utredningens förslag försvagar förutsättningarna för en effektiv, ändamålsenlig och sammanhållen samhällsbyggnadsprocess.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 0.2,
+      "quote": "summan av förslagen i utredningen leder inte till några förbättringar för samhällsbyggnadsprocessen i stort.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18",
+      "sentiment": -0.5,
+      "quote": "Förslaget saknar en konkret analys av hur förändringarna kommer att påverka olika aktörer, samhällsbyggnadsprocessen och den långsiktiga utvecklingen på lokal och regional nivå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec22",
+      "sentiment": -0.5,
+      "quote": "Att utredningen inte lägger några förslag som möjliggör samverkan utgör enligt KLMnätverket en väsentlig brist i utredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 0.5,
+      "quote": "KLM-nätverket vill särskilt lyfta att de ekonomiska och praktiska förutsättningarna för förslaget i utredningen inte är tillräckligt klarlagda.",
+      "quote_type": "grund"
+    }
+  ]
+}

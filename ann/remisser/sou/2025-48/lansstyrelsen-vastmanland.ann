@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/lansstyrelsen-vastmanland": "cdf9bceb03c1d14e587fac0273643db0f8a55c2f278af21a9e07795f83603946",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen instämmer i förslaget om ny lag om samhällsinriktade smittskyddsåtgärder och tillstyrker föreslagna justeringar i förordningar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.1.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen delar utredningens synsätt om att reglering inte är något självändamål och att en humanistisk människosyn ska prägla tillämpningen av lagen, där principerna om alla människors lika värde samt den enskilda människans värdighet och självbestämmanderätt är viktiga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec39",
+      "sentiment": 1.0,
+      "quote": "Vidare delar Länsstyrelsen utredningens förslag om tillägget av perspektivet barnets bästa i den föreslagna lagen gällande föreskrifter och beslut om samhällsinriktade smittskyddsåtgärder som avser verksamheter, sammankomster och tillställningar som riktar sig till barn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec36",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen delar även delbetänkandets beskrivning om att reglering av samhällsinriktade smittskyddsåtgärder ska utformas så enhetligt och förutsägbart som möjligt i verksamheter och att de bör uppnå proportionalitetskrav - åtgärdens nytta måste stå i rimlig proportion till det intrång eller den belastning den innebär på exempelvis näringsfrihet, personlig integritet och rörelsefrihet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelserna utsågs till tillsynsmyndighet över den tillfälliga covid-19-lagen och Länsstyrelsen i Dalarnas län fick i uppdrag att samordna arbetet - utifrån det finns en prövad arbetsmodell och värdefulla erfarenheter som kan bidra till ett fortsatt utvecklingsarbete gällande tillsyn.",
+      "quote_type": "grund"
+    }
+  ]
+}

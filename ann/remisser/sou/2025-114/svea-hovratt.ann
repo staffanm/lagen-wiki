@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/svea-hovratt": "4bbaac32c103271f18fbf2229e5c57abb81069fad2db2d685dbf4c2efa13671e",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Utifrån de intressen som hovrätten främst har att beakta lämnar domstolen följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": -0.5,
+      "quote": "Förutom att lagstiftningen blir mer tydlig och förutsebar kan ordningen leda till att arbetet med att verkställa utvisningsbeslut bedrivs så skyndsamt som möjligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.7",
+      "sentiment": 0.2,
+      "quote": "Enligt domstolen talar dock rättssäkerhetsskäl för att detta i någon mån ska klargöras i författningskommentaren.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.16",
+      "sentiment": -1.0,
+      "quote": "instämmer hovrätten också i utredningens bedömning att det inte bör införas några regler om tvångsmedel i sådana ärenden",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": -0.2,
+      "quote": "Som en följd kommer ringa brott ofta att ha ett straffvärde som ligger på fängelsenivå.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/statens-energimyndighet": "b6369b0efaa330ac06aa0e2d42efaf76d064dab1c96e7580e5a8628ae1acfe45",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Bedömningen är att utredningen i huvudsak innehåller avvägda och ändamålsenliga förslag som stärker skyddet för Sveriges säkerhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 0.2,
+      "quote": "Myndigheten ser positivt på utredningens förslag om att utvidga möjligheterna till registerkontroll, men understryker vikten av att integritetsskyddet säkerställs, inte minst för medkontrollerade individer som inte lämnar samtycke.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.2",
+      "sentiment": 0.2,
+      "quote": "Myndigheten bedömer dock att skyldigheten , att anmäla redan ingångna avtal före december 2021 kan medföra en betydande administrativ belastning för tillsynsmyndigheterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec248",
+      "sentiment": -0.2,
+      "quote": "Vidare ifrågasätter myndigheten om anmälningsplikten är av sådan betydelse att sanktioner vid underlåtelse är motiverade.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.2,
+      "quote": "Avseende 6 kap. 7 §, är det oklart vilken faktisk tidsvinst intermistiska förelägganden innebär, då tillsynsmyndigheter redan idag kan agera med kort svarstid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": -0.5,
+      "quote": "Gällande 6 kap. 8 §, ser myndigheten en risk att tillsynens karaktär förändras till en mer polisiär roll, vilket kan påverka relationen till tillsynsobjekten negativt.",
+      "quote_type": "grund"
+    }
+  ]
+}

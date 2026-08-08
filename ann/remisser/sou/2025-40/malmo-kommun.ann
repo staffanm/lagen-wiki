@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:40/malmo-kommun": "6715502293308a54dcc9833b9b51d24e87b7d259dde2b5698880c525bc86ad51",
+      "artifact:forarbete/sou/2025-40": "c04285caa82b9652fb357cbae989fe2dee864542cf2f237c017dbd2cc406bc0c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Staden instämmer med utredningen att lagstiftningen bör ändras för att tivolin ska bli säkrare och att en samlad reglering av grundläggande säkerhetskrav och bestämmelser om tillsyn i en ny lag i enlighet med förslaget ger förutsättningar för att uppnå detta syfte.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.10",
+      "sentiment": 0.2,
+      "quote": "Att avsikten med det givna uppdraget är att renodla Polismyndighetens uppgifter är ett behov som Malmö stad har förståelse för.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": -0.5,
+      "quote": "Malmö stad menar att utredningens avsikt att överföra polisiära uppgifter till Konsumentverket inte är till fördel för kommunerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec26",
+      "sentiment": -0.2,
+      "quote": "En fråga som uppfattas inte vara besvarad i delbetänkandet är huruvida Konsumentverket har mandat att stoppa tivolin om verksamheten, trots att besiktningskravet inte är uppfyllt, söker upplåtelse och vem som de facto ska kontrollera att besiktningen skett.",
+      "quote_type": "grund"
+    }
+  ]
+}

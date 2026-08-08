@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/sveriges-advokatsamfund": "601143c1909a0dee5cd185b41ff54b859bde14855d89ec7f3050ac63481325f0",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Advokatsamfundet har, med undantag för nedanstående synpunkter och kommentarer, ingen erinran mot förslagen i delbetänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec11",
+      "sentiment": -1.0,
+      "quote": "Det finns flera exempel på hur överklaganden har avvisats av skäl som inte kan lastas den part som överklagar och som rentutav har ansetts vara av prejudikatintresse (se NJA 2024 s. 3).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec337",
+      "sentiment": -0.5,
+      "quote": "I mål enlig miljöbalken, med en officialprövning, är det inte sällan otydligt i vilken utsträckning den som överklagat har fått framgång, exempelvis om ytterligare villkor föreskrivs, eller ett belopp delvis jämkas, och det framstår med hänsyn till avgiftens storlek som en onödig administrativ börda för domstolen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.7.2",
+      "sentiment": -0.5,
+      "quote": "Förslaget har ingen förankring i någon praktisk problematik, utan riskerar snarare att göra handläggningen mer komplicerad och mindre rättssäker.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5.5",
+      "sentiment": -0.5,
+      "quote": "Dessa mål torde knappast utgöra någon stor belastning för Högsta domstolen, och bör vägas upp av värdet av en enhetlig praxis i frågor som knyter an till sådant som prövas av Högsta domstolen inom andra rättsområden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec291",
+      "sentiment": -0.2,
+      "quote": "Så länge en överklagandefrist kan godtas, måste det kunna godtas preklusionsfrister med mindre långtgående konsekvenser än avvisning av hela överklagandet.",
+      "quote_type": "grund"
+    }
+  ]
+}

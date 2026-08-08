@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/konkurrensverket": "7e1a456241ba323d0806084c7fa873089f95873a9ee8c60da7e463c33aaedc43",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Att upptäcka och motverka arbetslivskriminalitet är viktigt utifrån många aspekter, varav att skapa förutsättningar för rättvis konkurrens är en.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.14.1",
+      "sentiment": 1.0,
+      "quote": "Kriminalitet, korruption och otillbörlig påverkan utgör ett hot mot fungerande konkurrens och upphandling i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.14.2",
+      "sentiment": -0.2,
+      "quote": "Däremot bör regelverket så långt som möjligt inte föreskriva detta genom generella krav och villkor eller otydliga regleringar.",
+      "quote_type": "grund"
+    }
+  ]
+}

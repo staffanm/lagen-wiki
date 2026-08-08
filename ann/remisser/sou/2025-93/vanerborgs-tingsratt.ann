@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:93/vanerborgs-tingsratt": "9bd2042f09865ed026294a9a097ffb4f020ba4d75f70579db14405cf2cd2154f",
+      "artifact:forarbete/sou/2025-93": "201aa2c9468bea44887a18a07b9556294fb64c34f2aea6d2f31ad09b58f302f0"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Vänersborgs tingsrätt, mark- och miljödomstolen har granskat förslaget utifrån de intressen som domstolen har anledning att bevaka och har med den utgångspunkten följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -1.0,
+      "quote": "det innebär att skyddsdikning i praktiken lämnas helt utan föregående bedömning från myndigheternas sida",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": -1.0,
+      "quote": "Enligt tingsrättens mening bör bestämmelsen i sin nuvarande lydelse kunna täcka de situationer som utredningen berör.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.7",
+      "sentiment": -1.0,
+      "quote": "ifrågasätter om de föreslagna formuleringarna är förenliga med EU:s fågeldirektiv (Europaparlamentets och rådets direktiv 2009/147/EG av den 30 november 2009 om bevarande av vilda fåglar)",
+      "quote_type": "grund"
+    }
+  ]
+}

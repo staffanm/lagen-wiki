@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/lansstyrelsen-jamtlands-lan": "e48936805c55f4a0fe7b2b3c9edbada08edf103535f7209e922599087d17e4f2",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen instämmer i utredningens beskrivning av ett välutvecklat och tillförlitligt transportsystem till och från samt runt Arlanda som avgörande för fungerande transporter i hela landet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen bedömer annars att dessa infrastruktursatsningar kan tränga undan andra nationella satsningar såsom utbyggnad och kapacitetsförstärkning av järnvägen mellan Östersund – Stockholm.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec329",
+      "sentiment": 1.0,
+      "quote": "För utvecklingen av Jämtlands läns är det viktigt att en flygförbindelse upprätthålls över tid, detta även sett ur ett totalförsvarsperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.2,
+      "quote": "föreslagna åtgärder för att driva på omställningen för klimatneutralt flyg är bra men behöver kompletteras med ytterligare åtgärder för att uppsatta mål ska nås.",
+      "quote_type": "grund"
+    }
+  ]
+}

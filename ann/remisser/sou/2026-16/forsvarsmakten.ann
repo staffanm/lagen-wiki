@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:16/forsvarsmakten": "bd2a5e1a37f37528259fa1aaa9b4eb4747022dfe508ab9d2bff516022de63d64",
+      "artifact:forarbete/sou/2026-16": "9cf0d0fb9a6fd569b3a84a4fc3b9f8d2518def4d103c3951a40c8c980a5bf3bf"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Myndigheten avstyrker däremot de delar i förslaget som riskerar medföra försämrad operativ förmåga och som ger Försvarsmakten en utökad skyldighet att inta en renodlat stödjande roll.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.5,
+      "quote": "Myndigheten ser inte något behov av en särskild förordning, då myndighetens instruktion redan innehåller en sådan uppgift som dessutom på ett adekvat sätt ES sätter den i relation till huvuduppgiften.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec281",
+      "sentiment": -1.0,
+      "quote": "Myndigheten anser att en skyldighet att bedriva exportstödjande verksamhet även när den operativa förmågan försämras riskerar att stå i strid med Försvarsmaktens huvuduppgift och med uppdraget att i rådande omvärldsläge rusta upp Sveriges försvar samt fortsatt utveckla och höja förmågan.",
+      "quote_type": "grund"
+    }
+  ]
+}

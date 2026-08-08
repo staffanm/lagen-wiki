@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/statens-fastighetsverks-sfv": "bf9dbd5e7128b0a64b34ed3a0733f1941b5de9d92ea5bd75f4579de8f28ec557",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Statens fastighetsverk (SFV) har tagit del av ovanstående betänkande och tillstyrker dess förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.4",
+      "sentiment": -0.2,
+      "quote": "För A - och B - mål samt ärenden om vattenverksamhet finns dock risk för att de flaskhalsar som finns idag vad gäller hanteringen av prövningar och överprövningar endast flyttas till nya eller andra myndighetsaktörer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.2",
+      "sentiment": 0.5,
+      "quote": "SFV anser att förslaget är ett steg i rätt riktning, samtidigt som frågan bör utredas ytterligare i syfte att säkerställa att den vinnande parten i miljömål får ersättning även för sina rättegångskostnader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": 0.8,
+      "quote": "SFV delar dock utredningens slutsats att det finns skäl att före nkla processen vid begäran om planeringsbesked och att slopa samråds - och kungörelseförfarandet vid planeringsbesked, då detta ger en tydligare och enklare process.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.4",
+      "sentiment": 0.2,
+      "quote": "Detta för att innehållet i MKB:n ska kunna utgöra en grund för hur detaljplanen utformas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.7",
+      "sentiment": -0.5,
+      "quote": "Detta leder till att det blir svårt för remissinstanserna att bedöma planens påverkan i samrådsskedet och att lämna relevanta synpunkt er.",
+      "quote_type": "grund"
+    }
+  ]
+}

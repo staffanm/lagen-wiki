@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:56/forvaltningsratten-i-lulea": "1cf1adc2d6d4bdaafc8a8dcbb7ec22c6cb0d45761707e57cf12d4137930b6961",
+      "artifact:forarbete/sou/2025-56": "aa474607a823f641b3c41a3a7a0ae03a90bc89660beb4c770fe2fdd7ff299a48"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Händelser i vår omvärld visar hur snabbt förutsättningarna kan förändras för ett lands rättsväsende.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3.3",
+      "sentiment": -0.2,
+      "quote": "Förvaltningsrätten ifrågasätter om det inte finns skäl att överväga om inte denna jävsbegränsning bör träffa en vidare krets.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec18",
+      "sentiment": -0.2,
+      "quote": "Det vore rimligt att även i den nu föreslagna lagstiftningen använda samma metod för att ange pensionsålder för ordinarie domare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec22",
+      "sentiment": -0.5,
+      "quote": "De föreslagna reglerna, likväl som de nu gällande, öppnar emellertid för möjligheten att göra helt olika bedömningar av likadana situationer.",
+      "quote_type": "grund"
+    }
+  ]
+}

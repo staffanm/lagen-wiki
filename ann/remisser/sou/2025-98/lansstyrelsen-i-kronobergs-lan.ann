@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/lansstyrelsen-i-kronobergs-lan": "d191e52ea2f9ca250a0cb51520097905052c39047d84fb1e9c892239d7f5ae47",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen anser dock att det i utredningen fokuseras för mycket på fastighetsbildning och att det inte tas tillräcklig hänsyn till de kommunala lantmäteriernas roll under hela samhällsbyggnadsprocessen, från planläggning till bygglov.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec206",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen anser dock att det i utredningen fokuseras för mycket på fastighetsbildning och att det inte tas tillräcklig hänsyn till de kommunala lantmäteriernas roll under hela samhällsbyggnadsprocessen, från planläggning till bygglov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.5,
+      "quote": "En konsekvens av detta skulle kunna bli att kommunala lantmäterier kan tvingas avveckla sina verksamheter, vilket påpekas av bland annat de experter som lämnat särskilda yttranden till utredningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/pensionsmyndigheten": "7025f9971d9432fc6df08fefe42ff010b711e51e5c702f5f1efba6c147f8039e",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I övrigt tillstyrker myndigheten förslagen i betänkandet och har inga ytterligare synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec11",
+      "sentiment": 0.2,
+      "quote": "Om tillsynsmyndigheterna inte har tillräckliga resurser för att genomföra dessa uppgifter inom rimlig tid vid t.ex. upphandlingar, riskerar verksamhetsutövarna att påverkas negativt med förlängda ledtider.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec21",
+      "sentiment": -0.2,
+      "quote": "Pensionsmyndigheten är tveksam till om betänkandets förslag åtgärdar detta problem, eftersom förslagen bygger på att verksamhetsutövaren från början anmäler sin verksamhet till tillsynsmyndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": 0.5,
+      "quote": "Pensionsmyndigheten är positiv till förslaget men anser att ändringen bör kunna genomföras tidigare eftersom verksamhetsutövare som omfattas av lagstiftningen, redan idag enligt både gamla och nya säkerhetsskyddslagstiftningen har en skyldighet att ha en säkerhetsskyddschef.",
+      "quote_type": "grund"
+    }
+  ]
+}

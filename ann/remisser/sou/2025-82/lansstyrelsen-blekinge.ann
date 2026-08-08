@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/lansstyrelsen-blekinge": "99eae376e1f313390599212141405db453696b1c458059150b47c92ddf7ad43c",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi föreslår att släktskapsundantaget utvidgas utöver utredningens förslag. I övrigt tillstyrker vi utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.1",
+      "sentiment": 1.0,
+      "quote": "Vi stödjer utredningens ställningstagande att aktiebolags möjlighet att förvärva lantbruksegendom ska behållas enligt nuvarande regler.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a20.1.4",
+      "sentiment": -0.2,
+      "quote": "Sammantaget bedömer vi att en striktare tillämpning vid förvärvsprövning i glesbygd inte har någon avgörande betydelse för utvecklingen av sysselsättning och bosättning i Blekinges glesbygd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2.2",
+      "sentiment": 1.0,
+      "quote": "Vi anser att det är helt nödvändigt att inlösenskyldigheten tas bort för att lagen ska kunna tillämpas mot bakgrund av de skäl som framkommer i utredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.3.2",
+      "sentiment": -0.5,
+      "quote": "Skälen för detta är att vi anser att det är oskäligt att inte medge tillstånd till närstående, att det förbättrar förutsägbarheten i lagstiftningen och att det minskar den administrativa bördan för både myndigheter och förvärvare.",
+      "quote_type": "grund"
+    }
+  ]
+}

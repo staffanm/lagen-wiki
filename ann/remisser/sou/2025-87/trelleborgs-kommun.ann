@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:87/trelleborgs-kommun": "786d6f9237dcf184153eca07ae3400365eacfee00225baa4891c281c05bf682d",
+      "artifact:forarbete/sou/2025-87": "9df8cd50f8f07d5fe6625a7096a7d32e74f5028048c96cf2db13ef02650c1ac9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kommunen framför bland annat att de föreslagna förändringarna i korruptionslagstiftningen kan ha ett pedagogiskt värde och bidra till att lyfta fram korruptionslagstiftningens särskilda karaktär och skyddsintresse.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 0.8,
+      "quote": "Föreslagna förändringar kan ha ett pedagogiskt värde och bidra till att lyfta fram korruptionslagstiftningens särskilda karaktär och skyddsintresse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec21",
+      "sentiment": -0.2,
+      "quote": "Även om syftet med föreslagen bestämmelse om missbruk av offentlig ställning inte är att kriminalisera rena felbedömningar, så går det inte att utesluta att en sådan bestämmelse kan väcka oro vid utövandet av offentlig tjänst eller offentligt uppdrag och skapa en rädsla för att göra fel.",
+      "quote_type": "grund"
+    }
+  ]
+}

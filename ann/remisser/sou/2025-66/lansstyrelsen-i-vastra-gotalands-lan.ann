@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:66/lansstyrelsen-i-vastra-gotalands-lan": "bbc54dc393819836f4d54920f5d8ca6d73f546424c9059cdcb3d48ad0e9ba460",
+      "artifact:forarbete/sou/2025-66": "d17cda5a6b525b2e0549fcf8bcc405271e7eef9479b900db16a2c9a1e0fefab0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen tillstyrker de förslag som utredningen ställer sig bakom.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec81",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen välkomnar förslaget om att maximistraffet för involverande av en underårig i brottslighet ska höjas från fängelse i fyra år till fängelse i sex år.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec48",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen menar att flertalet av förslagen i tidigare utredningar (SOU 2023:44; SOU 2024:39; SOU 2024:54; 2025:11) i kombination med förslagen i straffreformen kan komma att medföra ytterligare kostnadsökningar för kommunerna.",
+      "quote_type": "grund"
+    }
+  ]
+}

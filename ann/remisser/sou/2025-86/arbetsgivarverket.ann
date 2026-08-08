@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:86/arbetsgivarverket": "a9fc506dcf8afa6decad96e566d02fae45746cfe7e4f47b1571118472eef6556",
+      "artifact:forarbete/sou/2025-86": "b0dcdd24a25a2d12cb2cbd40a2be00ca8cbb7c0ad6b35674c7550080e553e1d9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I stort anser Arbetsgivarverket att utredningens fokus har fyllt sitt syfte.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.7",
+      "sentiment": 0.0,
+      "quote": "Arbetsgivarverket vill informera om att parterna på det statliga avtalsområdet har kommit överens om en förändring av ovanstående bestämmelser som gäller från och med 1 januari 2026.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.10.2",
+      "sentiment": -0.5,
+      "quote": "Arbetsgivarverket menar dock att ett genomförande av den i utredningen förslagna konstruktionen kan innebära en betydande inskränkning i statliga arbetsgivares rådighet över sin personal, till fördel för Försvarsmaktens behov av civil kompetens, även med beaktande av Försvarsmaktens uppgifter i fredstid och vid höjd beredskap.",
+      "quote_type": "grund"
+    }
+  ]
+}

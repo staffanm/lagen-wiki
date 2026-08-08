@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:83/solvesborgs-kommun": "3cf4f0aafe2152b898a81e1da393601d2630457de68b27902f0b40304eaf9094",
+      "artifact:forarbete/sou/2025-83": "fe22b84e7351f785a71dbd8034fd7c683f3f2c341350b360482faa5784f9ef16"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Sölvesborgs kommun har i sitt remissyttrande inget att erinra mot utredarens förslag och ställer sig därmed bakom slutsatser och förslag i utredningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": -0.2,
+      "quote": "Det kommunala perspektivet innebär just den flexibilitet som bidrar till anpassningar utifrån varje kommuns behov vilket inte på samma sätt kan uppnås med ett nationellt förbud.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.5,
+      "quote": "Det ligger i sakens natur att en sådan bot svårligen kan drivas in varför individen riskerar hamna ännu längre ifrån samhället, något som påverkar socialtjänstens arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6.4",
+      "sentiment": -0.2,
+      "quote": "Vi noterar att barnperspektivet utgör en bärande del i utredningen men saknar en mer uttalad barnkonsekvensanalys av effekter och följdverkningar av utredningens förslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

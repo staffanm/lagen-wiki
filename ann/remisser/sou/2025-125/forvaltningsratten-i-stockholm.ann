@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:125/forvaltningsratten-i-stockholm": "5baa5856351fdecbdc4facef4b219c52020978e57d2be9d0d6e51a4be8c3cae5",
+      "artifact:forarbete/sou/2025-125": "8fbe18bc2acd39c5bc37f0d668576018901c84abb912d974543ac98521ecb8c8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förvaltningsrätten i Stockholm har, utifrån de aspekter som domstolen har att beakta, inget att erinra mot förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.3.3",
+      "sentiment": 0.8,
+      "quote": "Förvaltningsrätten instämmer i utredningens bedömning att förslagen med utökad möjlighet att överklaga beslut till förvaltningsdomstolarna sannolikt kommer att medföra en ökad måltillströmning och i förlängningen ökade kostnader för de allmänna förvaltningsdomstolarna.",
+      "quote_type": "grund"
+    }
+  ]
+}

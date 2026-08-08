@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:60/fondtorgsnamnden": "5338e2e37c4a7605f5cfae594204318e6224f94eb60717d238710a0736c1a8b8",
+      "artifact:forarbete/sou/2025-60": "ba08a5cf25200bcc4b5e48a4ae829bfa92fdb7a8a18e1f7113bf8aa0612a2eee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten instämmer i de förslag som berör ansvarsområdet med nedan kommentarer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4-8",
+      "sentiment": 0.5,
+      "quote": "En sådan struktur bedöms kunna förbättra avkastningsmöjligheterna genom att möjliggöra reducering av utländsk källskatt vilket, om den erbjuds på premiepensionens fondtorg, i förlängningen kan komma att påverka storleken på premiepensionen positivt för de pensionssparare som väljer en sådan fond.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.2,
+      "quote": "vissa av de åtgärder som föreslås genomföras i svensk rätt möjligen inte kommer kunna hanteras inom ramen för premiepensionens fondtorg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "en sådan möjlighet stärker tillsynen av fondmarknaden och är ett viktigt verktyg i statens brottsförebyggande arbete.",
+      "quote_type": "grund"
+    }
+  ]
+}

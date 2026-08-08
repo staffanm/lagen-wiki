@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:108/skelleftea-kommun": "89988fabe835ecb6a03c60ea602d094ba1cc3d1eb20ff925e6dc5c2d93b63346",
+      "artifact:forarbete/sou/2025-108": "a775d95754ce5897c73c1b61b58817b4b1fcc07241129ab779d9551bc2bbbef7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "En nationell registrering av närvaro och frånvaro kan vara ett viktigt verktyg för att stärka likvärdighet, synliggöra elever i riskzon och möjliggöra tidiga insatser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.1",
+      "sentiment": 0.2,
+      "quote": "Det finns risk att den data som insamlas inte kommer att ge en rättvisande bild av närvaro och frånvaro.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.2",
+      "sentiment": -0.2,
+      "quote": "Vidare finns det en faktisk risk för att den personuppgiftsansvariga myndigheten gällande registret, dvs. Skolverket, förlorar den övergripande kontrollen över uppgifterna vid en personuppgiftsincident.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3.4",
+      "sentiment": -0.5,
+      "quote": "Gymnasienämnden anser att det finns risk för att kostnaden för den nya uppgiften att rapportera in uppgifter, som även kan innebära en fördyring av systemkostnad, kan medföra en beaktansvärd merkostnad för kommunen.",
+      "quote_type": "grund"
+    }
+  ]
+}

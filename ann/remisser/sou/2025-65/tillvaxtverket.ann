@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/tillvaxtverket": "158fe4c63b55d91d3387c271b3afad82a042ffa4baf2c906ca710f925102cd8f",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Tillväxtverket är positiva till ambitionen att förenkla regelverken gällande privatuthyrning. Vi ser samtidigt att utredningen ytterligare skulle analyserat vissa av riskerna med förslagen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.2,
+      "quote": "På platser med hög efterfrågan och stark turistnärvaro anser vi att det finns risker med att lägenheter i högre grad hyrs ut kortsiktigt till besökare, vilket kan minska tillgången till bostäder för permanentboende och snedvrida konkurrensen gentemot hotellbranschen så väl som mindre fastighetsägare som agerar på marknaden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.5,
+      "quote": "Tillväxtverket menar att förslaget på vissa bostadsmarknader riskerar att förstärka så kallade fly-in fly-out mönster.",
+      "quote_type": "grund"
+    }
+  ]
+}

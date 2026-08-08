@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/kronofogden": "24848dac23a43cacea6d52df794de8157ad86e46774e648be8934d68db9fb295",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kronofogdemyndigheten (Kronofogden) har granskat betänkandet utifrån myndighetens uppdrag och hur förslagen kan påverka myndighetens verksamhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec429",
+      "sentiment": 0.5,
+      "quote": "Kronofogden föreslår att följande bestämmelse införs i förordningen av tydlighetsskäl: ”Ett beslut om återkrav som har fått laga kraft och inte har betalats i rätt tid, ska lämnas till Kronofogdemyndigheten för indrivning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.15.8",
+      "sentiment": -0.2,
+      "quote": "Den e-tjänst som delegationen åsyftar i avsnitt 9.7.5 täcker enligt Kronofogdens analys inte förslagets behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6.6",
+      "sentiment": 1.0,
+      "quote": "Den sammanlagda kostnaden för detta uppskattas uppgå till cirka 150 000 kronor per år och bedöms rymmas inom ram.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5.5",
+      "sentiment": 1.0,
+      "quote": "Den sammanlagda kostnaden för detta uppskattas uppgå till cirka 150 000 kronor per år och bedöms rymmas inom ram.",
+      "quote_type": "grund"
+    }
+  ]
+}

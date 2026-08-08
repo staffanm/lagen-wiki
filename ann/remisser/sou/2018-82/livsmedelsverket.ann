@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/livsmedelsverket": "6a171858a3d434e015ec5f467721137e4639e1cb107e70a7c73c91881b21ed29",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Livsmedelsverket är i huvudsak positiv till utredningens förslag att utöka skyldigheten för när säkerhetsskyddsavtal ska ingås men vad gäller skyldigheten att teckna avtal så snart en verksamhetsutövare ska förmedla säkerhetsskyddsklassificerade uppgifter till en utomstående part avstyrker Livsmedelsverket från utredningen förslag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec171",
+      "sentiment": -0.5,
+      "quote": "Verket anser att utredningen inte i tillräcklig omfattning beaktat de omfattande konsekvenser det kan få för vissa verksamhetsutövare och att det därför bör finnas fler möjligheter till undantag från sådan skyldighet, utöver det undantag som föreslås för samverkan mellan statliga myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec28",
+      "sentiment": 1.0,
+      "quote": "Verket tillstyrker utredningens förslag att tillsynens innehåll och syfte ska förtydligas och att ett system med sanktionsavgifter införs i lagstiftningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec33",
+      "sentiment": 1.0,
+      "quote": "Verket tillstyrker utredningens förslag att tillsynens innehåll och syfte ska förtydligas och att ett system med sanktionsavgifter införs i lagstiftningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec26",
+      "sentiment": -1.0,
+      "quote": "Rimligtvis borde alla myndigheter som har ett särskilt ansvar enligt krisberedskapsförordningen, s.k. bevakningsansvariga myndigheter, anses tillhöra de mest skyddsvärda verksamheterna och bör således även fortsättningsvis falla under Säkerhetspolisens eller Försvarsmaktens tillsynsansvar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec418",
+      "sentiment": 0.5,
+      "quote": "Livsmedelsverket anser att SKL:s analys att en samlad funktion för säkerhetsskyddet skulle kunna skapas och upprätthållas på myndigheten med ett begränsat resurstillskott är felaktig.",
+      "quote_type": "grund"
+    }
+  ]
+}

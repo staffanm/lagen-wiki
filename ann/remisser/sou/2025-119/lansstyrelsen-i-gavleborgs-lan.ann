@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:119/lansstyrelsen-i-gavleborgs-lan": "368b8cf7443bfc339c7d015f007630f6f1feb235653bb3f9506498650c614886",
+      "artifact:forarbete/sou/2025-119": "4ffe1b3a3b8b7263d217456e1fadfaf32122d48eff13747b01cb521abb874202"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen ser positivt på att arbetet mot människohandel stärks och tillstyrker förslagen men har några synpunkter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": -0.2,
+      "quote": "Om regionkoordinatorns uppgift enbart ska vara kapacitetsbyggande, behöver det klargöras vilken aktör som ska ha de operativa samordningsansvaret i ärendena så att personer utsatta för prostitution och människohandel får rätt stöd, hjälp och skydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen vill dock betona vikten av att insatser vidtas för att utöka tillgången på boendeinsatser om det i kartläggningen framkommer att tillgången inte motsvarar behoven.",
+      "quote_type": "grund"
+    }
+  ]
+}

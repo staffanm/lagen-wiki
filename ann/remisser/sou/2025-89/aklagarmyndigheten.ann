@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:89/aklagarmyndigheten": "7cd3ad034abc9a7cb2952a85b6281b655eecbfa96af623d6b8cfc79946fdb4d6",
+      "artifact:forarbete/sou/2025-89": "afe1fb1af513037b8ebe2623eb4a101b40c95abf5ec06765e928348800d59876"
+    }
+  },
+  "overall": {
+    "sentiment": 0.7,
+    "quote": "Förslagen är välmotiverade och framstår som väl genomtänkta.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": -0.2,
+      "quote": "Åklagarmyndigheten noterar dock att en generell underrättelseskyldighet redan framgår av 12 § strafföreläggandekungörelsen (1970:60).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec1392",
+      "sentiment": -0.5,
+      "quote": "den föreslagna åtalsprövningsregeln i 11 kap. 18 § fiskelagen, vilken träffar gärningar som inte kan antas föranleda annan påföljd än böter, synes hänvisa till bestämmelsen om grovt brott i 11 kap. 5 § som inte har böter i straffskalan.",
+      "quote_type": "grund"
+    }
+  ]
+}

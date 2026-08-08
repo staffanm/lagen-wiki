@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:56/hassleholms-tingsratt": "d87387c28e430e71cffc6af293b363c19d566b6af2c0e039a7bb0a2cf6e31d22",
+      "artifact:forarbete/sou/2025-56": "aa474607a823f641b3c41a3a7a0ae03a90bc89660beb4c770fe2fdd7ff299a48"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Tingsrätten instämmer i stort i de överväganden som görs i betänkandet och de förslag som lämnas.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.5",
+      "sentiment": 0.2,
+      "quote": "Beslutanderätten bör i aktuella frågor tillkomma Domstolsstyrelsens styrelse som är det organ som har den särskilda legitimitet i förhållande till domstolarna som krävs, och inte enskilda tjänstemän inom Domstolsstyrelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec59",
+      "sentiment": 0.5,
+      "quote": "Tingsrätten anser däremot att man bör överväga om domare ska få möjlighet att i förväg få tillåtligheten av bisysslor prövad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.11",
+      "sentiment": 0.2,
+      "quote": "Tingsrätten anser att det finns skäl att överväga om även hyresråd bör omfattas av den nya prövningsordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec74",
+      "sentiment": -0.2,
+      "quote": "Det bör övervägas om så bör vara fallet vid samtliga överprövningar av Domaransvarsnämndens beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec69",
+      "sentiment": -0.2,
+      "quote": "Tingsrätten anser att föreslagen lydelse av 7 kap. 1 § tredje stycket lagen (2026:00) om domstolar och domare beträffande justitieråd är otydligt formulerad och bör förtydligas.",
+      "quote_type": "grund"
+    }
+  ]
+}

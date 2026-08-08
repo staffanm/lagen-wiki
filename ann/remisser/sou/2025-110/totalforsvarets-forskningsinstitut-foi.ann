@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/totalforsvarets-forskningsinstitut-foi": "a291dff61f89ff12491a0b142793475c700aba9630a5b04373a8712faa2ef5f1",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "FOI bedömer att utredningens förslag i huvudsak är väl avvägda i ambitionen att möjliggöra en snabbare och mer kostnadseffektiv utbyggnad av nät med mycket hög kapacitet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.10.1",
+      "sentiment": 0.2,
+      "quote": "FOI bedömer att det är angeläget att definitionen harmoniseras med kommande implementering av CER-direktivet, för att minska osäkerheten i tolkningen av vad som utgör forsknings- och testinfrastruktur av strategisk betydelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec79",
+      "sentiment": 1.0,
+      "quote": "En sådan uttrycklig uppräkning minskar risken för osäkerhet i tolkningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:61/skatteverket": "0658fc2a3fe19553d90cbe3e830ed6d9bd2e784dc50b26d91c722d01251eef95",
+      "artifact:forarbete/sou/2025-61": "c8d09bc4b2ee92f1bde3bdb0285bc5766bdfef45db2fb06aa2b9f212091e91e2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förslagen rör inte Skatteverkets verksamhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "Skatteverket konstaterar att placeringen av de föreslagna paragraferna bör ses över i det fortsatta lagstiftningsarbetet för att undvika oklarheter om vad som gäller för adoptioner med internationell anknytning jämfört med nationella adoptioner.",
+      "quote_type": "grund"
+    }
+  ]
+}

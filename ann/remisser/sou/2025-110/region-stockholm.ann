@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/region-stockholm": "d09fe9a3bc0b698eb2f7308fcd303f826771c0725b6b58686fb4e53831529377",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Region Stockholm bedömer att förordningen kan bidra till en mer effektiv utbyggnad av digital infrastruktur genom ökad transparens, bättre samordning och tydligare processer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec59",
+      "sentiment": -0.5,
+      "quote": "Region Stockholm ser dock risker med förslaget att avstå från tyst godkännande, då detta kan minska incitamenten för effektiv handläggning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.2,
+      "quote": "Region Stockholm ser dock risker med att känsliga data samlas på en och samma plats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": 0.5,
+      "quote": "Region Stockholm anser att det är positivt att utredningen poängterar att prissättningen ska vara rättvis och omfattas av rimliga villkor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18.2",
+      "sentiment": 0.2,
+      "quote": "Fastighetsägaren behöver dessutom ha flexibilitet i avtal för underhåll och investeringar samt, vid samhällskritisk verksamhet, kunna avstå placering av säkerhetsskäl och i stället gemensamt söka alternativa lösningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

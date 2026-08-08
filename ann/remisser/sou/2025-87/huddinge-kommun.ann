@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:87/huddinge-kommun": "f9c8621cd46ed616c216b2b438bc2fc346c9b4c6c92f59e564f897bf7239a787",
+      "artifact:forarbete/sou/2025-87": "9df8cd50f8f07d5fe6625a7096a7d32e74f5028048c96cf2db13ef02650c1ac9"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Kommunen anser dock att det inte är rätt vägval i arbetet mot korruption att utöka det straffrättsliga individuella ansvaret för offentligt anställda och förtroendevalda.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec21",
+      "sentiment": -1.0,
+      "quote": "Den nya straffbestämmelsen är brett formulerad, vilket skapar en osäkerhet om vilka fall som kommer att omfattas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec22",
+      "sentiment": 1.0,
+      "quote": "Huddinge kommun instämmer även i förslaget om att ringa tjänstefel även i framtiden ska vara undantaget straffrättsliga påföljder.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

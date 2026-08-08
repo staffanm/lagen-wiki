@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/atvidabergs-kommun": "6c5057025490fa74817ef7d091c62588efe238afba2ae653651d4b9597afb1f2",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Åtvidabergs kommuns valnämnd tillstyrker i huvudsak förslagen i delbetänkandet med undantag för möjligheten för partierna att beställa egna valsedlar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 0.2,
+      "quote": "Valnämnden är dock tveksam till att förslaget innebär att antalet transporter minskar för att kommunen tar över ansvaret för utläggning av valsedlar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.3",
+      "sentiment": -0.5,
+      "quote": "Förslaget innebär att det fortsatt finns möjlighet att otillbörligt påverka väljare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 0.2,
+      "quote": "Valnämnden är medveten om att det är svårt att i förtidsröstningen lösa personröstning på annat sätt, men vill påtala att risken för att antalet underkända röster kan öka då partinamnet ska skrivas för hand.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6.2",
+      "sentiment": 1.0,
+      "quote": "Nuvarande ordning, då partier kan delta utan anmälda kandidater med konsekvensen att det blir tomma platser i fullmäktige riskerar att förstöra trovärdigheten för valens genomförande och demokratin.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": 1.0,
+      "quote": "Den ordning som gäller nu att en kandidat kan ställa upp som valbar i flera olika kommun- och regionfullmäktige, är även den ett hot mot trovärdigheten för valen.",
+      "quote_type": "grund"
+    }
+  ]
+}

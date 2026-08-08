@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:100/patent--och-marknadsoverdomstolen": "e8eb8a1fd37612f50d956fce0024f1a151e68330e50f93476ded4caf40ab59e2",
+      "artifact:forarbete/sou/2025-100": "b519ed844627b2d5676019b5b0a8bf5290f7e3fd99e92af851cf8f38837e790d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Domstolen lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 0.5,
+      "quote": "Patent- och marknadsdomstolen kan därmed inte utesluta att förslagen kommer att innebära ett behov av utökade resurser för domstolen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.1",
+      "sentiment": -0.5,
+      "quote": "Enligt domstolen ger begreppet utrustning intrycket av att det skulle vara fråga om fysisk utrustning trots att den breddade definitionen är tänkt att träffa alla former av tekniska lösningar, t.ex. en fil som innehåller lösenord eller koder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec60",
+      "sentiment": -0.2,
+      "quote": "Om båda typer av talan förs kan frågor avseende förbudet mot dubbelbestraffning aktualiseras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec59",
+      "sentiment": -0.5,
+      "quote": "Det är inte tydligt för domstolen vad som ska prövas i detta led, givet att definitionen av olaglig utrustning är att den utformats eller anpassats för att göra en skyddad tjänst tillgänglig utan tjänsteleverantörens godkännande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.2,
+      "quote": "Det kan emellertid poängteras att det, likt inom annan organiserad brottslighet, ofta kan vara fråga om en hierarki där personer är mer eller mindre delaktiga i och har olika vinning av brotten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": -0.2,
+      "quote": "Enligt domstolen bör denna fråga belysas ytterligare och vägledning ges beträffande frågor om brottskonkurrens.",
+      "quote_type": "grund"
+    }
+  ]
+}

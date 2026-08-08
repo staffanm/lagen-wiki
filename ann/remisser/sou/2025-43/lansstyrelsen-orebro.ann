@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/lansstyrelsen-orebro": "1d664d6613bb21d67094aedbf814c3c2a9ff2183f764869af9728bfcc8da9490",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi ser positivt på att Läkemedelsverket får bemyndiganden som tydligt ger möjlighet att meddela föreskrifter om tillfälliga begränsningar vid förordnande och utlämnande av läkemedel i bristsituationer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec70",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen bedömer att det är absolut nödvändigt att Läkemedelsverket samråder med Jordbruksverket men det krävs troligen också ytterligare expertkunskap inom det veterinärmedicinska området om Läkemedelsverket ska besluta om begränsningar gällande veterinärmedicinska läkemedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen vill betona att det är viktigt även för veterinärer som använder andra system än humanvården att få del av detta systemstöd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.6",
+      "sentiment": -0.2,
+      "quote": "Det behöver klargöras om det är länsstyrelserna eller Läkemedelsverket som har beslutsrätt när det gäller sådana åtgärder.",
+      "quote_type": "grund"
+    }
+  ]
+}

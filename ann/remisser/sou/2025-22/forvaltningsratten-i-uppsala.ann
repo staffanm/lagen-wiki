@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/forvaltningsratten-i-uppsala": "90a190316c607ab9615f0d8edeac3fd37e8b87cad86d2a7b77a7e184076d3e07",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Det finns dock vissa processuella frågor som bör övervägas närmare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec510",
+      "sentiment": -0.5,
+      "quote": "Mot bakgrund av att det rör sig om en för domstolsslaget helt ny måltyp där dessutom komplicerade konkurrensrättsliga frågor kan aktualiseras och att Förvaltningsrätten i Stockholm är exklusivt forum efterfrågar förvaltningsrätten en närmare analys av konsekvenserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec410",
+      "sentiment": -0.2,
+      "quote": "Eftersom den föreslagna ordningen inte innebär att Konkurrensverket fattar ett överklagbart beslut om att handlingen ska lämnas ut, utan att handlingen ska förseglas och överlämnas till allmän förvaltningsrätt för prövning, behöver den föreslagna lagen innehålla en uttrycklig forumregel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec439",
+      "sentiment": -0.5,
+      "quote": "Sammantaget är det förvaltningsrättens uppfattning att det inte finns tillräckligt starkt vägande skäl för att flytta prövningen enligt den nya lagen till de allmänna förvaltningsdomstolarna.",
+      "quote_type": "grund"
+    }
+  ]
+}

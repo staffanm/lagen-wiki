@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/svea-hovratt": "0de2ae5efb2c0a46193442ca53609e1059e0f452048e23b358403d9b010d41f9",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Mark- och miljööverdomstolen kan i allt väsentligt tillstyrka utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.2,
+      "quote": "Enligt Mark- och miljööverdomstolens mening framgår det inte tillräckligt tydligt av den föreslagna lagtextens ordalydelse att det ska vara möjligt att koordinatbestämma en fristående gränspunkt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5.3",
+      "sentiment": 1.0,
+      "quote": "Mark- och miljööverdomstolen har inte några invändningar mot utredningens förslag att ledningsrättshavare ska ges initiativrätt till det nya institutet särskild koordinatbestämning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.8",
+      "sentiment": -0.2,
+      "quote": "Mark- och miljööverdomstolen vill uppmärksamma på att hänvisningen förefaller ha blivit felaktig och i stället rätteligen bör avse den nya bestämmelse som föreslås, dvs. 5 kap. 8 a §.",
+      "quote_type": "grund"
+    }
+  ]
+}

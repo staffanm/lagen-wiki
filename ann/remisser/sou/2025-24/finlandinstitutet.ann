@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:24/finlandinstitutet": "15047b9523b3a45a189f24c3eede7896f198689f028a8d666eeb83a20b6dac88",
+      "artifact:forarbete/sou/2025-24": "88406afe1f6a6b8622563c5c72858e0acc520793bcf2ba1fc08caa4758f55814"
+    }
+  },
+  "overall": {
+    "sentiment": 0.6,
+    "quote": "Finlandsinstitutet välkomnar att de nationella minoritetsspråken jämställs med det svenska språket, och att filmer på minoritetsspråken inbegrips i samma stödformer som svensk film i övrigt.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec48",
+      "sentiment": 0.5,
+      "quote": "Kultur på ett minoritetsspråk stöttar språkutvecklingen på många sätt, och film är ett effektivt redskap: bildspråket och kontexten stöder det talade språket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": 0.8,
+      "quote": "En filmfond tror vi kommer att säkra och förstärka filmfinansieringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4",
+      "sentiment": 1.0,
+      "quote": "Det demokratiserar filmtittandet på bio och stärker biograferna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.6",
+      "sentiment": 0.2,
+      "quote": "Vi hoppas att ett reformerat produktionsincitament sporrar till gestaltning av de nationella minoriteterna på film – på deras egna språk.",
+      "quote_type": "grund"
+    }
+  ]
+}

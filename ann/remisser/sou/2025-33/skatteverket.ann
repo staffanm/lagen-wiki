@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/skatteverket": "8097e7fed30a1b7eaffe5b1c83d564fef643381a353c7956c5413705248f4513",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket tillstyrker förslaget om en bestämmelse om generell uppgiftsskyldighet i utlänningslagen (2005:716). Detta görs under förutsättning att förslaget i SOU 2024:63 om en generell sekretessbrytande bestämmelse i offentlighets- och sekretesslagen (2009:400) antingen inte leder till lagstiftningsåtgärder eller inte kommer att motsvara Migrationsverkets behov av uppgifter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.8",
+      "sentiment": 0.5,
+      "quote": "Skatteverket delar utredningens uppfattning att det mest effektiva och minst resurskrävande sättet att säkerställa ett utlämnande av uppgifter med stöd av den föreslagna uppgiftsskyldigheten i utlänningslagen är att myndigheterna gemensamt inom ramen för ett samarbete identifierar vilka uppgifter som typiskt sett är av intresse för Migrationsverket inom ramen för handläggning av vissa typer av ärenden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3.3",
+      "sentiment": -0.5,
+      "quote": "Genomförandet av den föreslagna generella uppgiftsskyldigheten innebär betydande tekniska utmaningar för Skatteverket, särskilt avseende möjligheten att tillhandahålla efterfrågade uppgifter som idag inte är strukturerade eller digitalt sökbara för externt utlämnande.",
+      "quote_type": "grund"
+    }
+  ]
+}

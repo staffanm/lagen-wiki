@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/stockholms-kommun": "9f3ce61b9d331fc4dca49426c4625a5700ce36a5e50364020ccac1b1eeed71a7",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det väcker oro för att kommunal vård inte kommer att prioriteras vid en eventuell läkemedelsbrist eller kraftigt ökad efterfrågan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6.2",
+      "sentiment": 1.0,
+      "quote": "Stadsledningskontoret tillstyrker förslaget om att Läkemedelsverket ska beakta de praktiska förutsättningarna för personal inom apotek samt hälso- och sjukvården att kontrollera och hantera föreslagna begränsningar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.8.7",
+      "sentiment": -0.5,
+      "quote": "Vid en eventuell begränsning i läkemedelsleveranser finns en oro att den kommunala hälso- och sjukvården inte prioriteras, vilket kan innebära allvarliga risker för den enskildes liv och hälsa.",
+      "quote_type": "grund"
+    }
+  ]
+}

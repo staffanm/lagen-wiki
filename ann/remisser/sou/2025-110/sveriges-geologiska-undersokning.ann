@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/sveriges-geologiska-undersokning": "99491bd3fa579d27ee0bf7253cd99d66f40a764f153f4f5d03fd82bf66c58c1d",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "SGU anser att Statens offentliga utredningar SOU 2025:110 fokuserar på hastighet och kostnadseffektivitet framför säkerhet och riskerar därmed att främja skapandet av komplexa och sköra system kring gigabitnät, med avancerad centraliserad styrning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a24.3.6",
+      "sentiment": 1.0,
+      "quote": "SGU välkomnar att avvikandet från förordningens tysta godkännande behålls och kompletteras med tillämplig skadeståndsreglering i lag, och har inga synpunkter på dess föreslagna lagtekniska utformning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.6",
+      "sentiment": -0.5,
+      "quote": "Myndigheten bedömer dock att gigabitinfrastrukturförordningens tidsfrister innebär ökade krav på handläggningen av ärenden hos myndigheten, vilket kan komma att kräva ökade resurser för den berörda verksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.6",
+      "sentiment": -0.5,
+      "quote": "Tidsfristen att avgöra ett ärende på fyra månader är, med hänsyn till SGU:s nuvarande handläggningstider, kort.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.6",
+      "sentiment": -0.5,
+      "quote": "20 dagar att granska materialet i en ansökan kan medföra att omfattande resurser behöver omfördelas i det enskilda ärendet för att granska underlag i form av till exempel resultat från geofysiska undersökningar och miljöprovtagningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

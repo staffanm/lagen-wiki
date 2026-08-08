@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/ornskoldsviks-kommun": "4108c47174270f7b353157f5c4d7be05ed3ea8808a82f20bc826680890e0b5c0",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utredningen visar på en god förståelse för Arlandas roll som nationell och internationell knutpunkt och betydelsen för en stärkt konkurrenskraft i hela Sverige.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec33",
+      "sentiment": 1.0,
+      "quote": "Örnsköldsviks kommun delar utredarens slutsatser kring omställning till fossilfrihet för luftfarten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec322",
+      "sentiment": 0.2,
+      "quote": "Samhällsviktiga flyglinjer utgör en grundläggande del av Sveriges infrastruktur och är avgörande för att upprätthålla regional tillgänglighet, samhällsservice och beredskap.",
+      "quote_type": "grund"
+    }
+  ]
+}

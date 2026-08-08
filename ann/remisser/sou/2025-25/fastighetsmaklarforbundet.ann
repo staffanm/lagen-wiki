@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/fastighetsmaklarforbundet": "7a1608df9d2762716de77c8f232c20c1ec417536e9db508eee0e621aeaca2b9d",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vi delar utredningens bedömning att det krävs skärpta åtgärder för att motverka arbetslivskriminalitet och värna förtroendet för reglerade yrken.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.16.1",
+      "sentiment": 1.0,
+      "quote": "För att värna konsumenterna och branschens legitimitet behöver FMI ges bättre verktyg för att säkerställa att registrerade fastighetsmäklare uppfyller högt ställda krav på redbarhet och lämplighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec580",
+      "sentiment": -0.5,
+      "quote": "Vi anser att ett generellt fortbildningskrav för samtliga delar av mäklartjänsten inte är ändamålsenligt i förhållande till remissens huvudsakliga syfte.",
+      "quote_type": "grund"
+    }
+  ]
+}

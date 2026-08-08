@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/svenska-kyrkan": "7c483649ef6ab2b152da45ac03ff0fc1ae488e95b27d04c5caf373bd4171a18f",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "den föreslagna utformningen riskerar leda till godtyckliga bedömningar och rättsosäkerhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": -1.0,
+      "quote": "Varken den föreslagna lagtexten eller de aspekter som redovisas i betänkandet är emellertid enligt Svenska kyrkans mening tillräckligt tydliga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": -0.2,
+      "quote": "Sammantaget leder detta till en oroande otydlighet i relation till yttrandefrihet och förutsebarhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

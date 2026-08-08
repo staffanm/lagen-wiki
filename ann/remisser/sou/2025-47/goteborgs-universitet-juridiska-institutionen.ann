@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:47/goteborgs-universitet-juridiska-institutionen": "d45d808812928d93a8ba1385c60e00a6d701eface5f8af7584a4238d1c5ac1ac",
+      "artifact:forarbete/sou/2025-47": "1998cf0776597c0c9e6ddd14550096440acb7a8c6b7dd2c25e14ff07bc80a796"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vi ställer oss i huvudsak positiva eller neutrala (utan åsikt) till förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.3",
+      "sentiment": -0.2,
+      "quote": "Borde inte rekvisitet kunna preciseras i linje med Utredningens resonemang och därmed förhoppningsvis undanröja de tolkningssvårighet som nu anses föreligga?",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5.1",
+      "sentiment": -0.5,
+      "quote": "Sammantaget är hela upplägget vacklande mellan att vilja ha avtalets fördelar men inte dess nackdelar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 0.5,
+      "quote": "Förslaget att avskaffa modellen med anvisade avtal till förmån för principen ”inget avtal – ingen el” är bra.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

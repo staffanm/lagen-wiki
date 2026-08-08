@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/forvaltningsratten-i-linkoping": "585642417559b135740ef4550cfcffcc336b5e10c23deaaed1c6f11d85d91242",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Förvaltningsrätten i Linköping har, utifrån de utgångspunkter som domstolen har att beakta, följande synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec22",
+      "sentiment": -0.2,
+      "quote": "det i 7 § förslaget till lag om offentlig säljverksamhet förekommer ett syftningsfel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec612",
+      "sentiment": -0.5,
+      "quote": "Högsta förvaltningsdomstolen har uttalat att utdömande av vite inte kan ske förrän ett vitesföreläggande vunnit laga kraft, även om vitesföreläggandet gäller omedelbart (se HFD 2024 ref. 4).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec439",
+      "sentiment": -0.5,
+      "quote": "anser förvaltningsrätten att det finns tydliga risker för parallell praxisbildning på området.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6.14",
+      "sentiment": -0.5,
+      "quote": "Det kan ifrågasättas om en sådan ordning är proportionerlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec439",
+      "sentiment": -0.2,
+      "quote": "Det saknas dock såväl överväganden som konsekvensbeskrivning av effekterna kring det.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.1",
+      "sentiment": -0.5,
+      "quote": "Utredningen har inte närmare specificerat hur en prövning av en sådan skyddad handling som avses i 9 § förslaget till lag om offentlig säljverksamhet ska gå till eller till vilken förvaltningsdomstol handlingen ska överlämnas.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:65/hyres-och-arrendenamnden-i-stockholm": "55370a93fdce5f73beed78303d9fb1cd2043bd90aea555a9012c79e752837b6f",
+      "artifact:forarbete/sou/2025-65": "da144dd21ded4f8237736a65d6a258152908f7e418e8a70857f8d0ed39910869"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Nämnden tillstyrker förslagen om preklusionsregel och krav på prövningstillstånd i hovrätten i ärenden om återbetalning av hyra och lämnar förslagen i övrigt utan erinran.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec297",
+      "sentiment": -0.2,
+      "quote": "Det saknas i utredningen överväganden kring om det bör införas någon begränsning i hur långt tillbaka i tiden hyresnämnden bör kunna ändra hyresvillkoret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.1",
+      "sentiment": -0.2,
+      "quote": "Det framgår inte av förslaget hur hyresnämnden ska förhålla sig till en situation där det av avtalet framgår att avtalet går längre än vad som är tillåtet enligt blockhyresbestämmelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec223",
+      "sentiment": -0.2,
+      "quote": "Denna förutsättning avspeglas dock inte i den föreslagna lagtexten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": 0.5,
+      "quote": "Införandet av förslagen torde dock leda till mer omfattande processer i hyresnämnden genom att fokus och tyngdpunkten tydligare än idag hamnar vid prövningen i första instans.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec277",
+      "sentiment": -0.5,
+      "quote": "förslagen inte kan förväntas leda till någon minskad resursåtgång för nämnderna.",
+      "quote_type": "grund"
+    }
+  ]
+}

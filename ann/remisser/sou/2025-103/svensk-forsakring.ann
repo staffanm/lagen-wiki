@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:103/svensk-forsakring": "b8bc9913aa9d4d7c54db353dbf5c6dc402728e00759836bc9a27f8c1340e859e",
+      "artifact:forarbete/sou/2025-103": "3494f54a32c4c4ce08c80df5c6f1304db463ec2825930548fa2363c4c69ec03f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Svensk Försäkring anser att det i den fortsatta beredningen bör övervägas närmare i vilken utsträckning det är möjligt att kombinera presumtionsreglerna om säkerhetsbrist och orsakssamband med varandra.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec25",
+      "sentiment": -0.5,
+      "quote": "Svensk Försäkring menar att detta inte är i enlighet med direktivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec26",
+      "sentiment": -0.5,
+      "quote": "För att den presumtionen ska föreligga förutsätts enligt direktivet, men inte i lagförslaget, att säkerhetsbristen har fastställts, något som rimligen innebär att säkerhetsbristen måste styrkas i vanlig ordning.",
+      "quote_type": "grund"
+    }
+  ]
+}

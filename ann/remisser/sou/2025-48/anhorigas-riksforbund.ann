@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/anhorigas-riksforbund": "9d28c3df8e2d403bcb80191b173e38e4871c5549746e707c7268b23230a61722",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Anhörigas Riksförbund (AHR) är positiv till utredningen och dess förslag till stärkt pandemiberedskap.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec43",
+      "sentiment": -0.5,
+      "quote": "Erfarenheter från Covid- 19 pandemin visade att nedstängning av sådana verksamheter ökade både vård-och omsorgsbördan och isoleringen för de anhöriga som i flera fall gett en upplevd försämring av den egna psykiska och fysiska hälsan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec36",
+      "sentiment": -0.2,
+      "quote": "Anhörigas Riksförbund vill understryka att man vid proportionalitetsbedömning beaktar ovanstående synpunkter.",
+      "quote_type": "grund"
+    }
+  ]
+}

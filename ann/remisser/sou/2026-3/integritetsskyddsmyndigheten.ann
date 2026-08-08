@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:3/integritetsskyddsmyndigheten": "688c67a41ca49f95f660f69adc8477c956dc8ebfd918d29d9b7cf33ccb6a3122",
+      "artifact:forarbete/sou/2026-3": "a57602efa93a3a568c65f2616a90564109efac9844cf6fcbd52ded0f202140f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Integritetsskyddsmyndigheten (IMY) lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.6.4",
+      "sentiment": -0.2,
+      "quote": "IMY anser att bestämmelsen bör justeras för att tydligt återspegla detta krav.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.7.3",
+      "sentiment": -0.5,
+      "quote": "IMY vill framhålla att det inte är förenligt med dataskyddsförordningen att spara personuppgifter enbart för att kunna uppfylla en framtida begäran om dataportabilitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.9.3",
+      "sentiment": 0.2,
+      "quote": "bör tilläggas i bestämmelsen att den skriftliga redogörelsen ska lämnas utan oskäligt dröjsmål och senast den dag då besluten får verkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3",
+      "sentiment": 1.0,
+      "quote": "IMY tillstyrker att myndigheten ska ha ansvar för tillsyn över tredje kapitlet i den föreslagna lagen.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

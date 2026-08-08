@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/kammarkollegiet": "f60fed347394590e03760da727abff451a491f4e9e403dff4fed945de051f959",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarkollegiet är positiv till utredningens förslag att upphandlingslagarna kompletteras med ett nytt ska-krav som innebär att offentliga aktörer ska beakta försörjningsberedskapsaspekter när upphandlingens art motiverar det (avsnitt 3.6).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6",
+      "sentiment": 0.5,
+      "quote": "Samtidigt är det viktigt att det finns utrymme för myndigheter att avstå från att ställa sådana krav när upphandlingens art i n t e motiverar detta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6",
+      "sentiment": 1.0,
+      "quote": "Kammarkollegiet är positiv till utredningens förslag att Upphandlingsmyndigheten får uppdrag och resurser att utveckla stödet till upphandlande myndigheter inom området (avsnitt 3.6).",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

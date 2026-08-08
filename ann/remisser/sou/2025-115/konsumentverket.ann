@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/konsumentverket": "9f7c3081d969cfb79f42bb9084fac336f8e167665f58bbca197b426096786761",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Konsumentverket konstaterar att myndigheten kommer att behöva resurser för att utföra det nya uppdraget som innebär marknadskontroll inom ett för myndigheten helt nytt område.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.6.5",
+      "sentiment": 0.2,
+      "quote": "Konsumentverket konstaterar att myndigheten kommer att behöva resurser för att utföra det nya uppdraget som innebär marknadskontroll inom ett för myndigheten helt nytt område.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.3",
+      "sentiment": -0.5,
+      "quote": "Det kan bli svårt att tillse att de sanktionsavgifter som påförs motparten blir proportionerliga om två olika instanser ska fatta beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3",
+      "sentiment": -0.2,
+      "quote": "Konsumentverket skulle föredra om det lämnas öppet för myndigheterna att själva välja om mottagande av betalning och indrivning av sanktionsavgifter ska kunna lämnas till annan myndighet, så som t.ex. Kammarkollegiet.",
+      "quote_type": "grund"
+    }
+  ]
+}

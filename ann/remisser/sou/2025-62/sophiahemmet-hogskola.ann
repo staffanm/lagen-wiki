@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/sophiahemmet-hogskola": "26dedce484a7053bff840af16df49304282c04c91bc12f25d65e5690f9178a7b",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi uppskattar det gedigna arbete som gjorts och instämmer i utredningens slutsats att det finns starka argument för att stärka statens ansvar för kompetensförsörjning, forskning och jämlik vård men att en huvudmannaskapsreform inte löser de utmaningar som Sveriges hälso- och sjukvård har.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 0.5,
+      "quote": "Bristen på samordning avseende VFU-platser begränsar idag utbildningsdimensioneringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec69",
+      "sentiment": 0.2,
+      "quote": "Vårdvetenskaplig forskning ger evidens som kan stärka hälso- och sjukvårdens förmåga att möta patienters och närståendes behov.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/revisorsinspektionen": "e2430219142a00a5a85cedffb30638fc7461cd9d20f0c9a2b260ba9c3a470581",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Revisorsinspektionen delar denna bedömning och vad som anförs om att exempelvis uppgifter om brott enligt aktiebolagslagen (2005:551) och skattebrottslagen (1971:69) är tillgängliga för samtliga berörda tillsynsorgan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.16.3",
+      "sentiment": 0.5,
+      "quote": "Det kan också finnas skäl att få tillgång till dessa uppgifter inte bara i auktorisationsverksamheten utan även i tillsynsverksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.2",
+      "sentiment": 0.5,
+      "quote": "En sådan skyldighet framstår inte som orimlig att ställa upp för domstolarna och den skulle underlätta Revisorsinspektionens verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.15",
+      "sentiment": 0.0,
+      "quote": "Revisorsinspektionen anser att regeringen fortsatt bör överväga vilka möjligheter som är lämpliga och proportionerliga vad gäller både privata och andra aktörers tillgång till uppgifter ur allmänna handlingar och register.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec602",
+      "sentiment": 0.0,
+      "quote": "När det gäller frågan om ett eventuellt återinförande av revisionsplikten får Revisorsinspektionen hänvisa till remissvaret över betänkandet Bolag och brott – några åtgärder mot oseriösa företag (SOU 2023:34) (se bilaga 2).",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/lantmateriet": "e760cbc7ff6c0af4554f059d835149fbf6609712caf091ff775803c357ca538c",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Lantmäteriet har utifrån de intressen som myndigheten har att bevaka inga invändningar i sak mot förslaget i sin helhet men vill i sammanhanget framföra ett antal synpunkter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2",
+      "sentiment": -0.2,
+      "quote": "Lantmäteriet vill med anledning av detta påtala att det finns vissa möjligheter för de vars egendom beslagtagits att kringgå de i betänkandet önskade effekterna av en utvidgad beslagsregel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec403",
+      "sentiment": 1.0,
+      "quote": "Lantmäteriet instämmer i bedömningen att svensk rätt överensstämmer med artikel 6.2 i förverkandedirektivet såvitt avser tillgången till fastighetsregisterinformation.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": 0.5,
+      "quote": "Det ska dock noteras att den nya anteckningsanmärkningen om beslag som ska kunna skrivas in i fastighetsregistret kan komma att kräva viss systemutveckling för Lantmäteriet.",
+      "quote_type": "grund"
+    }
+  ]
+}

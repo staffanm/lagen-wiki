@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:36/smhi": "7453e5ecc264fd312c86a23970b218ee5ea361ffa263b26af5e4b54cbc64d45d",
+      "artifact:forarbete/sou/2025-36": "e3d16c169ecd8ac4860467a3382c5fe813d345fe61f4e153e0c56341b0ba609e"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Myndigheten ställer sig positiv till de förslag som presenteras i betänkandet eftersom de bidrar till ett stärkt skydd av den marina miljön.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.2.3",
+      "sentiment": 1.0,
+      "quote": "att SMHI besitter expertkompetens som kan bidra till arbetet med områdesbaserade förvaltningsverktyg",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1.2",
+      "sentiment": 0.5,
+      "quote": "Då havsförsurning och klimatförändringar till följd av utsläpp av växthusgaser är två av de största hoten mot den marina miljön, så uppmuntrar myndigheten att verksamheter som genererar utsläpp av växthusgaser i marina områden utanför svensk jurisdiktion ska miljöbedömas med avseende på kumulativa effekter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.5.3",
+      "sentiment": 0.0,
+      "quote": "Myndigheten vill uppmärksamma att även SMHI kan komma att bedriva denna typ av forskning i framtiden.",
+      "quote_type": "grund"
+    }
+  ]
+}

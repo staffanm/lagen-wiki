@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/svenska-kyrkan": "80a2e66f389f68c6b47b325d10f434c9cb0fca5855def21995d149c22e5cdf62",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenska kyrkan välkomnar att utredningen lyfter behovet av ökad samverkan mellan myndigheter och intressentdialog samt föreslår tydligare roller för berörda myndigheter när det gäller att förebygga och begränsa viltskador.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.11.1",
+      "sentiment": 1.0,
+      "quote": "Svenska kyrkan delar betänkandets synpunkt att Polismyndigheten fortsatt ska vara ansvarig för alla vapenärenden.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.5.2",
+      "sentiment": 0.5,
+      "quote": "För att uppnå bättre balans mellan viltstammen och viltfoder behövs bättre anpassning och förebyggande insatser från olika aktörer, inte minst jägare och skogsägare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec534",
+      "sentiment": 0.8,
+      "quote": "Svenska kyrkan vill här särskilt lyfta fram vikten av förslagen att Skogsstyrelsen får ett tydligare och utvidgat uppdrag inom detta område och att Länsstyrelsernas uppgift inom viltförvaltningen förtydligas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec17",
+      "sentiment": 0.8,
+      "quote": "Svenska kyrkan vill här särskilt lyfta fram vikten av förslagen att Skogsstyrelsen får ett tydligare och utvidgat uppdrag inom detta område och att Länsstyrelsernas uppgift inom viltförvaltningen förtydligas.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:47/skatteverket": "b51a0a74629730ab37367ef1e240b3812121267477bdc9b9c6943fe981455c64",
+      "artifact:forarbete/sou/2025-47": "1998cf0776597c0c9e6ddd14550096440acb7a8c6b7dd2c25e14ff07bc80a796"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Skatteverket anser att kopplingen mellan de ändringar av terminologin som föreslås och vissa begrepp i lagen (1994:1776) om skatt på energi bör beaktas i det fortsatta lagstiftningsarbetet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2.4",
+      "sentiment": -0.2,
+      "quote": "Skatteverket ser en risk att de föreslagna ändringarna av terminologin kan leda till osäkerhet avseende innebörden av de aktuella begreppen i lagen om skatt på energi.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.7",
+      "sentiment": -0.2,
+      "quote": "Enligt Skatteverkets uppfattning bör detta vara utgångspunkten för om vissa aktörer även fortsättningsvis ska undantas från skattskyldighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

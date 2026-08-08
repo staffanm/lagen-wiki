@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/hogskolan-i-skovde": "343b1ae92cf9eb1d231f6b5150a8ce016b8cf58a6dfcbdf54690e1c53392aedb",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Högskolan tillstyrker i stort utredningens förslag, men för fram följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11",
+      "sentiment": -0.2,
+      "quote": "Högskolan i Skövde bedömer samtidigt att de föreslagna bestämmelserna om sekretess och tystnadsplikt medför en påtaglig risk för att hämma samverkan samt informationsutbyte inom cybersäkerhetsområdet, vilket i förlängningen kan leda till försämrad cyberresiliens.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.3",
+      "sentiment": -0.5,
+      "quote": "Det är en brist att betänkandet saknar redovisning av analys av hur olika intressenter i Sverige kan komma påverkas av hur CRA gällande förutsättningar för utveckling, tillhandahållande och användning av programvara inom Sverige, EU och globalt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": -0.5,
+      "quote": "Det är en brist att betänkandet i så hög utsträckning baseras på EU:s bristfälliga konsekvensbedömning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.2,
+      "quote": "Det är positivt att betänkandet föreslår stöd och utveckling av vägledning för mikroföretag samt små och medelstora företag, men det hade varit lämpligt att även utvidga detta till andra typer av organisationer exempelvis lärosäten.",
+      "quote_type": "grund"
+    }
+  ]
+}

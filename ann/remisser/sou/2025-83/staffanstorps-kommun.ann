@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:83/staffanstorps-kommun": "1cab3348b78552cb23a9a1d3863ec5c885c9232b17e6f0962c63b339abd2b36c",
+      "artifact:forarbete/sou/2025-83": "fe22b84e7351f785a71dbd8034fd7c683f3f2c341350b360482faa5784f9ef16"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Staffanstorps kommun delar inte utredarens bedömning - att ett nationellt förbud mot tiggeri inte behövs då tiggeriet minskat i omfattning och inte längre kan sägas utgöra ett allmänt samhällsproblem.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.1",
+      "sentiment": -0.5,
+      "quote": "Införande av en nationell lagstiftning skulle skapa bättre förutsättningar för att garantera enhetlighet, rättssäkerhet och likabehandling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.1",
+      "sentiment": -0.5,
+      "quote": "Lagar är inte bara reaktioner på brott – de är också verktyg för att skapa, förstärka och skydda samhällsnormer och värderingar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.2",
+      "sentiment": 1.0,
+      "quote": "Staffanstorps kommun tillstyrker utredningens förslag om författningsändringar vid ett införande av ett nationellt förbud.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

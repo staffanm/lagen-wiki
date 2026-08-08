@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:89/hovratten-over-skane-och-blekinge": "d4b01743b6cab88dcf8660f1235c1d17579561957aa4d4d8c7debff5ce5f695e",
+      "artifact:forarbete/sou/2025-89": "afe1fb1af513037b8ebe2623eb4a101b40c95abf5ec06765e928348800d59876"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I övrigt har hovrätten inga synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.13.6",
+      "sentiment": 0.2,
+      "quote": "Betänkandet ger dock ingen närmare vägledning för när vissa av grunderna är tillämpliga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec1419",
+      "sentiment": -0.2,
+      "quote": "Detta kan medföra svårigheter vid tillämpningen av bestämmelserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.13.14",
+      "sentiment": -0.2,
+      "quote": "Det kan vidare finnas anledning att tydliggöra hur straffbestämmelserna förhåller sig till konkurrerande straffbestämmelser i miljöbalken.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:92/kammarkollegiet": "6460b1c7de1d28b2affeb79aaca107f51555b6a4d61a7556833a4afb8ea52065",
+      "artifact:forarbete/sou/2025-92": "c1db6346e92cb1aaf69fe092a6e40e7ceba88b5192c9caee2959771165f82273"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Kammarkollegiet har inga synpunkter på förslagen i utredningen förutom i de delar som rör finansieringen av främjandet av Sveriges kulturkanon och det förslag som gäller Allmänna arvsfonden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.2",
+      "sentiment": 1.0,
+      "quote": "Vi har i sig inga invändningar mot att det bildas en stiftelse som ska förvalta, tillgängliggöra och främja Sveriges kulturkanon.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec550",
+      "sentiment": 0.0,
+      "quote": "Ett sådant förslag är inte genomförbart med dagens regelverk för Allmänna arvsfonden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec550",
+      "sentiment": -1.0,
+      "quote": "Vår uppfattning är att riksdagen vid behandlingen av Riksrevisionens rapport bemött frågan och inte funnit några skäl för att avveckla Allmänna arvsfonden.",
+      "quote_type": "grund"
+    }
+  ]
+}

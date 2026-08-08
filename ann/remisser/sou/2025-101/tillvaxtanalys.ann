@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/tillvaxtanalys": "4a217a158f6eec3afa1d434443113d7374b119a2708972158eaf4eeb88d84bb1",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Samtidigt identifierar Tillväxtanalys två potentiella tillväxthinder som regeringen bör adressera i det fortsatta arbetet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec636",
+      "sentiment": 0.2,
+      "quote": "Tidigare analyser från Tillväxtanalys visar att regulatoriska sandlådor är ett resurskrävande styrmedel och att de kan innebära risk för snedvridning av konkurrensen, där större och mer etablerade aktörer har lättare att delta än små och nya företag",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.7",
+      "sentiment": 0.8,
+      "quote": "Detta är ett viktigt och välkommet komplement, inte minst i ljuset av de begränsningar som sandlådemodellen innebär.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec698",
+      "sentiment": -0.2,
+      "quote": "I tidigare analyser har Tillväxtanalys visat att kostnader kopplade till tillstånds- och godkännandeprocesser för testverksamhet tenderar att slå oproportionerligt hårt mot små företag, vilket riskerar att verka innovationshämmande",
+      "quote_type": "grund"
+    }
+  ]
+}

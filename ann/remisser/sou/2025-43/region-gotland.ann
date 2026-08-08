@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/region-gotland": "950f55cfa569d239b5988ac3757bf620cf0c2e90bc06006e7d1d16007b2ece30",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Gotland välkomnar begränsningen i förordning eller utlämning av läkemedel som ett verktyg i att kunna utföra en mer jämlik vård i samband med läkemedelsbrister.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 0.5,
+      "quote": "Att nationellt styra vilka patientgrupper, indikationer eller mängder som prioriteras ses som ytterligare ett verktyg för en jämlik vård.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec71",
+      "sentiment": 1.0,
+      "quote": "Möjligheten för läkemedelsverket att bevilja dispens för enskilda fall anses viktig för att säkerställa patientsäkerheten för enskilda individer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.2,
+      "quote": "Ett systemstöd skulle underlätta i det dagliga arbetet för förskrivare och samtidigt minska risken för glidning från begräsningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.6",
+      "sentiment": -0.2,
+      "quote": "Hur tillsynen planeras genomföras är otydligt och behöver konkretiseras.",
+      "quote_type": "grund"
+    }
+  ]
+}

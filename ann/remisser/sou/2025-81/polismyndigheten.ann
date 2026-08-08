@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:81/polismyndigheten": "b405c374a6677ee5225676555d8b47c68381ad77f531cb8077a95c0ad04beb3d",
+      "artifact:forarbete/sou/2025-81": "18dbd0bb1ff96f8c252ba4781ad24b1dde501603dec2d1055b6aac74edf95632"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Polismyndigheten har inga invändningar mot utredningens förslag om att Kronofogdemyndigheten ska få rätt att begära biträde av Ekobrottsmyndigheten, Tullverket och Kustbevakningen med att ta utmätt egendom i förvar om egendomen påträffas i myndigheternas verksamhet, men framför vissa synpunkter angående förhållandet till självständigt förverkande.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 0.8,
+      "quote": "En direktåtkomst till penningtvättsregistret, eller i vart fall till delar av registret, skulle skapa förutsättningar för Polismyndigheten att genom egna sökningar i registret göra en bredare kartläggning av misstänkta transaktioner och därmed öka myndighetens förutsättningar att identifiera misstänkta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 0.5,
+      "quote": "För att underlätta Polismyndighetens arbete förordas en enhetlig reglering vad gäller sättet för åtkomst till beskattningsdatabasen såväl som vilka uppgifter myndigheten har rätt att ta del av.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.2,
+      "quote": "Polismyndigheten vill dock betona vikten av att möjligheten till utmätning på distans i förlängningen inte får medföra att myndigheterna medverkar till att brottsvinster ”tvättas” i utsökningsprocessen, och att egendom som borde ha förverkats i stället används till att betala av kriminella aktörers skulder.",
+      "quote_type": "grund"
+    }
+  ]
+}

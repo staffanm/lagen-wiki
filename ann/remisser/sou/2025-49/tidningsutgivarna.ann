@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:49/tidningsutgivarna": "8415d269ff43bb850886da05b1e276a3cd82b9e6cc77cd69b1e0e51e124b6416",
+      "artifact:forarbete/sou/2025-49": "5ef2d5ef8c6493b78e414bdd605c5e95ce874ee1ce91bafc844c62cff010b775"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Enligt TU:s mening bör därför en restriktiv och ifrågasättande hållning intas i det fortsatta lagstiftningsarbetet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec715",
+      "sentiment": -1.0,
+      "quote": "Att då generellt införa en absolut sekretess för hela uppgiftssamlingar, alldeles oavsett om de innehåller känsliga eller harmlösa uppgifter kan, enligt TU:s mening, inte anses förenligt med TF 2 kap 2 §.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec530",
+      "sentiment": 1.0,
+      "quote": "TU delar utredningens uppfattning om att källskyddet här väger mycket tungt",
+      "quote_type": "grund"
+    }
+  ]
+}

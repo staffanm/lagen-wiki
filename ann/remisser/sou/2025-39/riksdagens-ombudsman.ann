@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:39/riksdagens-ombudsman": "dcc91c2c2e0769f9adfc02254cac591ae719fc07a251c7388c1a25a3d89e1ce9",
+      "artifact:forarbete/sou/2025-39": "030cdbea8ee7c44b3c9a0f433cdd7f751b76efebf39c03c1cc1625da3d87b584"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Dessa utmaningar, när det gäller bl.a. personalförsörjning, kan enligt min mening medföra risker för att digitala lösningar används slentrianmässigt eller som en standardlösning, utan att andra alternativ har övervägts.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 1.0,
+      "quote": "Jag har inget att invända mot de författningsförslag som rör LSS och SoL.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": -0.2,
+      "quote": "ser jag en risk för att det i tillämpningen kan uppfattas som oprecisa begrepp och att gränsdragningsproblem kan uppstå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.5,
+      "quote": "Utifrån vad jag nu redovisat anser jag att utredningens resonemang i fråga om vem som ska få bedöma enskildas beslutsförmåga i det här sammanhanget inte är alldeles övertygande.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/lansstyrelsen-i-stockholms-lan": "90157c40b766c493eff2c7fc59c618738bde59b29d74499e214d90b86490f7fe",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen anser att delbetänkandet är väl underbyggt och att det har fångat många av de erfarenheter som covid-19 gav.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec59",
+      "sentiment": 1.0,
+      "quote": "Covid-19 hade olikheter i rytmen, Stockholm låg exempelvis under en period cirka två veckor före andra delar av landet när det gällde smittspridning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec15",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen i Stockholms län anser att ett utökat förvaltningsanslag motsvarande 0,5 tjänster per länsstyrelse riktat mot generell beredskap är en bättre lösning då det ger större synergieffekter än riktade medel för just pandemiberedskap.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/danderyds-kommun": "1b6a3e09b7ec7efabe7d0c497939eb572a510bd842643732a5c84733b6c50a6a",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Danderyds kommun ställer sig positiv till utredningens övergripande inriktning och förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3",
+      "sentiment": 0.2,
+      "quote": "vikten av en tydlig roll- och ansvarsfördelning mellan stat, regioner och kommuner",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4",
+      "sentiment": 0.2,
+      "quote": "att kommunerna ges tillräckliga resurser för att fullgöra sina uppgifter inom byggnads- och reparationsberedskapen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.1",
+      "sentiment": 0.2,
+      "quote": "att samverkan med näringslivet utvecklas på ett långsiktigt och förutsägbart sätt",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.2.2",
+      "sentiment": 0.5,
+      "quote": "att ansvars-, och kompetensprinciperna fortsatt ligger till grund för beredskapsarbetet",
+      "quote_type": "grund"
+    }
+  ]
+}

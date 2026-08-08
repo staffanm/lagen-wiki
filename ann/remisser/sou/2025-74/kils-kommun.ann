@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:74/kils-kommun": "e21b8bb445b856d04b19e05e1ebfa5320b212e564d04609137006413ae438ba7",
+      "artifact:forarbete/sou/2025-74": "86931f969c453d367aa6280683810685078a23447696be3482179222d1c28951"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kils kommun är positiv till förslaget om ny reglering för den arbetsmarknadspolitiska verksamheten.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.9",
+      "sentiment": -0.2,
+      "quote": "Under avsnitt 10.9 konsekvenser för kommuner beskrivs inte de eventuella administrativa kostnader eller behov att uppgradera system som möjliggör informationsöverföring.",
+      "quote_type": "grund"
+    }
+  ]
+}

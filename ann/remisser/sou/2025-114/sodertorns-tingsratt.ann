@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/sodertorns-tingsratt": "3d375dadbff3cbaf30b184291ccee45d7866bf43abf186038a25378e074b4b16",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Södertörns tingsrätt har granskat förslagen utifrån de intressen tingsrätten har att beakta och har inte, utöver vad som framgår nedan, några synpunkter på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.9",
+      "sentiment": 0.5,
+      "quote": "Vad gäller förslaget om att införa en ny ärendekategori för polisiära utlänningsärenden har tingsrätten inget att invända mot förslaget i stort.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec48",
+      "sentiment": -1.0,
+      "quote": "Tingsrätten ifrågasätter dessutom behovet av ett nytt regelverk då liknande möjligheter till tvångsmedelsanvändning redan finns i lag (2007:979) om åtgärder för att förhindra vissa särskilt allvarliga brott (preventivlagen).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.3",
+      "sentiment": -0.5,
+      "quote": "Tillsammans med andra förslag där samma resonemang förs kommer det knappast att rymmas inom befintliga anslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

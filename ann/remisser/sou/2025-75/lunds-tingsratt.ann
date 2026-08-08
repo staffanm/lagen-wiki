@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:75/lunds-tingsratt": "a63636fb8de3daa2dacd1da432e689ac255f5a705940f8efc07711b581ca26ea",
+      "artifact:forarbete/sou/2025-75": "6c1747356aef8861690e0e55231a670ab88642b59dc2975b505edeeb781a1461"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "De överväganden som ligger bakom utredningens förslag jämte utredningens skäl för att inte förorda alla de reformer och författningsändringar som innefattats i uppdraget framstår som både välmotiverade och välgrundade.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.6",
+      "sentiment": 1.0,
+      "quote": "Som utgångspunkt krävs således mycket starka skäl för en ordning som skulle ge Skatteverket befogenhet att utfärda strafförelägganden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": -1.0,
+      "quote": "Den föreslagna straffbestämmelsen framstår sammantaget som så otydlig till syfte och innehåll att tingsrätten avstyrker förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.5",
+      "sentiment": 1.0,
+      "quote": "Förslaget skapar en tydligare förutsebarhet jämfört med idag.",
+      "quote_type": "grund"
+    }
+  ]
+}

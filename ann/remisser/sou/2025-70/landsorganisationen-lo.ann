@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:70/landsorganisationen-lo": "67f64a50f3688e25e1477a912c9dffe88d3ed2366e2d6f3cf016ddce936b711e",
+      "artifact:forarbete/sou/2025-70": "21e44eb2249e2dea5d04cd086cfbcb6c4e9713b1194aa26cb56bec2ae0339e9b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "LO anser att de förändringar som utlovades när riktåldern infördes inte har genomförts.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4",
+      "sentiment": -1.0,
+      "quote": "LO anser därmed att införandet av riktåldern gjorts under falska förutsättningar och inte är legitim.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.1",
+      "sentiment": -0.5,
+      "quote": "Med anledning av att det, vid varje given ändring av riktåldern, kommer finnas åtta årskullar med kvarlevande anställningsskydd som löper ut tidigare än den nya las-ålder som följer av den ändrade riktåldern, finns det en uppenbar risk för missförstånd, för en inte oansenlig mängd arbetstagare.",
+      "quote_type": "grund"
+    }
+  ]
+}

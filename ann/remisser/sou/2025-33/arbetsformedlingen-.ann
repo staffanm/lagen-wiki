@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/arbetsformedlingen-": "69ce0c66ae3823419f2d0b0b9f1ff1e62bdc849dc1767aef4a7fc61200a9c1ee",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Arbetsförmedlingen har i övrigt inget att erinra mot det remitterade underlaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.5.6",
+      "sentiment": -0.2,
+      "quote": "Osäkerhet kring vilka faktorer som kan påverka vandelsprövning kan riskera att hindra arbetssökande från att berätta för Arbetsförmedlingen om sin sociala situation, ohälsa eller funktionsnedsättning som medför nedsatt arbetsförmåga och som har betydelse för personens arbetsmarknadsetablering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.10.4",
+      "sentiment": 0.2,
+      "quote": "Här bör det tydliggöras vilka uppgifter som omfattas, på vilket sätt och till vilken omfattning.",
+      "quote_type": "grund"
+    }
+  ]
+}

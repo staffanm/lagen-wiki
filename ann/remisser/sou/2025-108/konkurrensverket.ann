@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:108/konkurrensverket": "581f840b9dc9ed1bc7e1a01fbbb0332d0507e5ea01cacad6a96a49270acfdbed",
+      "artifact:forarbete/sou/2025-108": "a775d95754ce5897c73c1b61b58817b4b1fcc07241129ab779d9551bc2bbbef7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Konkurrensverket ser positivt på utredningens fokus på att motverka bidragsbrott och felaktiga utbetalningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.4.17",
+      "sentiment": 0.5,
+      "quote": "Konkurrensverket är i motsats till utredningen inte övertygat om att tillhandahållandet inte kan utgöra en ekonomisk säljverksamhet, men har ingen invändning mot förslaget under förutsättning att det i uppdraget till Skolverket tydliggörs att webbgränssnittet begränsas till den lagstadgade inrapporteringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.9",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket tillstyrker därför förslaget att ge Skatteverket i uppdrag att kartlägga och sprida kunskap om fel i individuppgifter (avsnitt 10.9), då detta är ett led i att stävja arbetslivskriminalitet och osund konkurrens.",
+      "quote_type": "grund"
+    }
+  ]
+}

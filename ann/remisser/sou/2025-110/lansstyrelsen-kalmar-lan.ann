@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/lansstyrelsen-kalmar-lan": "d3c5878261f39a2cd4d0d0b31d66aa550826beba066c2282326790a39c2c8a54",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Ska tidsfrister ändras rörande KML kan det krävas författningsändringar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.6",
+      "sentiment": -0.5,
+      "quote": "I sammanhanget är det viktigt att påpeka att det enligt ovan sällan är fallet när det gäller hela arkeologiprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.2",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen bedömer att det bör vara datumet när tillståndsprövande myndighet (Länsstyrelsen) mottagit ansökan som ska vara ankomstdatum.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec59",
+      "sentiment": 1.0,
+      "quote": "Det är positivt att utredningen föreslår att avsaknad av beslut inte ska räknas som tyst medgivande då ett sådant förfarande skulle leda till risk för otillåten skada på fornlämningar, vilket är kriminaliserat och kan leda till böter eller fängelse.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:23/hovratten-over-skane-och-blekinge": "2df2f31fedca836183b6cfd5112a7d13133f2f7c854bf84fa964c9ef86d221ff",
+      "artifact:forarbete/sou/2025-23": "b2d48664048a020b85b19246d070df9c345abde883c4cd3cafb969951f44570e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Hovrätten har i övrigt inga synpunkter på de förslag som lämnats i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec301",
+      "sentiment": 1.0,
+      "quote": "Hovrätten tillstyrker utredningens förslag om att prövningstillstånd inte ska krävas i hovrätten för vårdnadshavares skadeståndsanspråk, om ett sådant krav inte gäller för det enskilda anspråket mot den unge.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.5.1",
+      "sentiment": -0.2,
+      "quote": "Detta medför sannolikt, även med beaktande av utredningens förslag om möjligheten att använda tillgänglighetsdelgivning, en ökad arbetsbelastning för domstolarna och ett ökat tolkbehov, vilket bör beaktas i den fortsatta beredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.6.3",
+      "sentiment": -0.5,
+      "quote": "Mot denna bakgrund kan det dock ifrågasättas om inte de exempel som anges i författningskommentaren på när skäl för jämkning kan föreligga (se s. 441 i betänkandet) riskerar att föra för långt och leda till att jämkning sker i fall där full ersättning bör beviljas.",
+      "quote_type": "grund"
+    }
+  ]
+}

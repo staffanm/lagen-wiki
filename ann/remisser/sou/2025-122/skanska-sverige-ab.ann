@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/skanska-sverige-ab": "fef943837e85ab41db4732b554d86884fa28cc2296e084e88107e79e1130cc49",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skanska tillstyrker Utredningens förslag, dock med frågetecken avseende begränsningen av dispensgrunderna i Mark- och miljööverdomstolen för miljöbalksmål, där Skanska föreslår att möjligheten till ändrings- och granskningsdispens inte tas bort i detta skede, vilket utvecklas nedan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.4",
+      "sentiment": 1.0,
+      "quote": "Sammantaget anser Skanska att den föreslagna kortare instansordningen är i linje med Utredningens uppdrag att göra prövningen mer flexibel, effektiv och förutsebar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.8",
+      "sentiment": 1.0,
+      "quote": "I övrigt tillstyrker Skanska förslaget om att Mark- och miljööverdomstolens roll som prejudikatinstans förstärks.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a4.6.3",
+      "sentiment": -0.5,
+      "quote": "Med hänvisning till att ändrings- och granskningsdispens idag är de klart vanligaste dispensgrunderna i Mark- och miljööverdomstolen och med beaktande av Högsta domstolens syn på ändrings- och granskningsdispensens betydelse i miljöbalksmål samt den ovisshet som den pågående reformeringen av prövningssystemet är förknippad med (inte minst vad gäller säkerställande av ekonomiska och personella resurser för att åstadkomma ett i praktiken effektivt fungerande nytt system) ställer sig Skanska frågande till om det i nuläget är lämpligt att ta bort ändrings- och granskningsdispens som grund för prövningstillstånd i Mark- och miljööverdomstolen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.3",
+      "sentiment": 0.5,
+      "quote": "det är viktigt att avgiftssystemet utformas proportionerligt och rättssäkert, så att möjligheten till domstolsprövning inte begränsas för enskilda eller mindre aktörer med legitima invändningar samtidigt som avgiftssystemet utformas och förvaltas på ett sätt som inte i sig leder till förseningar i handläggningen av mål och ärenden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": -0.2,
+      "quote": "Skanska konstaterar att tidplanen är en utmaning med beaktande av samtliga ändringar som föreslås avseende prövningssystemet för ärenden och mål enligt bl.a. miljöbalken.",
+      "quote_type": "grund"
+    }
+  ]
+}

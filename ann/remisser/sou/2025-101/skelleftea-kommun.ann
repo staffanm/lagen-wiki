@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/skelleftea-kommun": "0079d49deb29af4677c4cdeeedc29e291fe9331c736a38c3d9b622664125c5c0",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kommunen tillstyrker därför utredningens huvuddrag, men anser att ytterligare förtydliganden, proportionalitet och statligt stöd krävs för att regelverket ska bli praktiskt genomförbart och inte hämma innovation eller effektiv verksamhetsutveckling i kommunerna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec214",
+      "sentiment": -0.2,
+      "quote": "Skellefteå kommun ser att den föreslagna modellen med flera tillsynsmyndigheter innebär en risk för fragmentering och otydlighet, särskilt för kommunala verksamheter som ofta använder AI-baserade system över flera sektorer samtidigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec560",
+      "sentiment": -0.2,
+      "quote": "Sanktionsavgifter mot kommuner i praktiken riskerar att drabba samma skattekollektiv som ska skyddas av regleringen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:124/kammarratten-i-sundsvall": "75b7bc61327c84cbd53e46852f71f10230ff6036b3fde00ef431488a0bcf1ab5",
+      "artifact:forarbete/sou/2025-124": "b54e2b2f029309b048608c1f357964bc90dd4cea710603ea2e5c6d8e0fc7c64d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt har kammarrätten inte några synpunkter på bedömningarna och förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.9",
+      "sentiment": -0.2,
+      "quote": "Frågan om en privatperson under motsvarande förhållanden skulle kunna omfattas av informationsskyldigheten i 6 § berörs dock inte över huvud taget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.12.3",
+      "sentiment": -0.2,
+      "quote": "Kammarrätten saknar därvid överväganden om i vilken mån sådana uppgifter ska omfattas av 9 § offentlighets- och sekretessförordningen (2009:641), som bl.a. reglerar sekretess i Konsumentverkets tillsynsverksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.2,
+      "quote": "Det är enligt kammarrättens mening av vikt att det inte råder några tveksamheter kring vad förbudet omfattar, med hänsyn till att bestämmelsen är kopplad till marknadsrättsliga sanktioner.",
+      "quote_type": "grund"
+    }
+  ]
+}

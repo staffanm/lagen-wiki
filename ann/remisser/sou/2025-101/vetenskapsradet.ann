@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/vetenskapsradet": "38b800fe5365dd70611307a5c3fdfb07cba94389531e27f17e26ba6f58c1cbe4",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det är dock av stor vikt att implementeringen inte skapar hinder för forskning genom ökad administrativ börda eller otydliga regler.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.5,
+      "quote": "Dessa krav är inte anpassade till forskningsprocessens tidsramar eller juridiska förutsättningar, särskilt inom klinisk och samhällsvetenskaplig forskning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": 0.5,
+      "quote": "Ett starkt svenskt bidrag i dessa organ är av strategisk betydelse för att påverka den fortsatta utvecklingen av EU:s AI-politik samt för att stärka Sveriges position inom europeisk AI-forskning och -utveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": -0.2,
+      "quote": "Det är viktigt att säkerställa att implementeringen inte leder till oproportionerliga kostnader eller administrativa hinder för forskningsprojekt, särskilt för infrastrukturer som hanterar stora datamängder eller erbjuder testmiljöer nära faktisk tillämpning.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:63/region-vasternorrland": "f612f6b7c22530e2992bf234517464df51fdbb1f756ae680aa9cf3453aaa4738",
+      "artifact:forarbete/sou/2025-63": "461094f462cdf3d5e300f64df1c13bc71f9e5017089a2d108dbaf9978b04511e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Överlag delar region Västernorrland utredningens slutsatser och förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.7",
+      "sentiment": 0.2,
+      "quote": "Att dessa lämnas odefinierade medför en risk om osäker kvalité och spridd kompetensportfölj hos arbetstagarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.2",
+      "sentiment": 0.5,
+      "quote": "Vårdprofessionslyftet har potential att lösa flera av de strukturella hinder som idag försvårar kompetensförsörjningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7.2",
+      "sentiment": 0.8,
+      "quote": "Förtydligande av både vårdgivarens samt medarbetarnas rättigheter och skyldigheter i fortbildningsfrågan kommer kunna vara förutsättningsskapande för ett fortbildningsklimat som stärker patientsäkerheten.",
+      "quote_type": "grund"
+    }
+  ]
+}

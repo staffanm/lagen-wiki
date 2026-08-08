@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:66/jamstalldhetsmyndigheten": "fcf04bd23f13d00d99079e85b819fa96585d736953662f46c1eb0222aaeabd78",
+      "artifact:forarbete/sou/2025-66": "d17cda5a6b525b2e0549fcf8bcc405271e7eef9479b900db16a2c9a1e0fefab0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten tillstyrker i huvudsak utredningens förslag och lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": 0.5,
+      "quote": "Utredningens förslag beträffande den konkreta straffmätningen kan komma att leda till en höjd straffnivå för den som döms för brott som innefattar en allvarlig kränkning av brottsoffret, däribland allvarliga sexualbrott.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec22",
+      "sentiment": -0.5,
+      "quote": "Att lämna miniminivåer för dessa brott oförändrade kan inte anses var förenligt med utredningens övriga resonemang att allvarliga kränkningar av brottsoffret ska leda till en höjd straffnivå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec100",
+      "sentiment": 0.5,
+      "quote": "Vad gäller straffvärdesbedömningen vid flerfaldig brottslighet är det av stor vikt att asperationsprincipen åsidosättas för brott som inneburit ett angrepp mot någons liv, hälsa eller trygghet till person.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec45",
+      "sentiment": 1.0,
+      "quote": "Det är största vikt att rättsväsendet agerar och vid denna allvarliga form av brottslighet och tillmäter den påvisade recidivfaran inom detta område betydelse.",
+      "quote_type": "grund"
+    }
+  ]
+}

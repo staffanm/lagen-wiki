@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:94/forvaltningsratten-i-goteborg": "744fab5f00637b421c8499e1cd6e2af5530c02fdd7e8d27a9b1cf316ae440578",
+      "artifact:forarbete/sou/2025-94": "73b4a3a1ccaec8d56f8514861e9004867d6f9800536c6582d42bc6ebd8a33624"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förvaltningsrätten har, utifrån de aspekter som domstolen har att beakta, inget att invända i sak mot de förslag som lämnas i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec62",
+      "sentiment": -0.5,
+      "quote": "Hänvisningen i 9 § första meningen ska rätteligen avse bestämmelsen i 6 § första stycket, enligt vilken en säkerhetskontroll ska inriktas på att upptäcka vapen och andra föremål som är ägnade att användas vid sådana gärningar som anges i 1 §.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.7",
+      "sentiment": -0.2,
+      "quote": "Det framgår inte varför en motsvarande reglering inte anses nödvändig i den föreslagna lagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2",
+      "sentiment": -0.2,
+      "quote": "Någon bestämmelse om samråd finns inte i den föreslagna lagen om säkerhetskontroll och det saknas även en motivering till detta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.4",
+      "sentiment": -0.2,
+      "quote": "Detta är särskilt relevant eftersom kroppsvisitation innebär ett ingrepp i skyddet enligt 2 kap. 6 § regeringsformen mot påtvingade kroppsliga ingrepp, och därför endast bör utföras när det är nödvändigt.",
+      "quote_type": "grund"
+    }
+  ]
+}

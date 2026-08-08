@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:99/socialstyrelsen": "144825affbf053aebd8494feafe52c99127f9e96ce56c7f6835c5d2c21467269",
+      "artifact:forarbete/sou/2025-99": "6c1cd093ee04097aeceeff8169f890fa879410d8b56abaf496322e4ed42c73f0"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Socialstyrelsen anser att förslaget om en särskild lag om återkallelse av permanenta uppehållstillstånd kan ge negativa konsekvenser för etablering och integration samt ökad fysisk och psykisk ohälsa, och försämrade livsvillkor för de personer som berörs.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": -0.5,
+      "quote": "Återkallelse av sådant tillstånd innebär som utredningen påpekar en mycket ingripande åtgärd för den enskilde, då den stabilitet och säkerhet som följer med ett permanent uppehållstillstånd upphör.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.2",
+      "sentiment": -0.5,
+      "quote": "Enligt Socialstyrelsen innehåller utredningens slutbetänkande inte en tillräcklig analys av berörda barns rättigheter enligt barnkonventionen.",
+      "quote_type": "grund"
+    }
+  ]
+}

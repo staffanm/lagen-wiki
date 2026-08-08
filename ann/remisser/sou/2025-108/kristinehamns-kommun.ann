@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:108/kristinehamns-kommun": "6a3643bb7f464d7a63aff0b365ad76c34dee021a20533ddbc82328bf5728cce5",
+      "artifact:forarbete/sou/2025-108": "a775d95754ce5897c73c1b61b58817b4b1fcc07241129ab779d9551bc2bbbef7"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Vi är positiva till syftet att minska felaktiga utbetalningar och bidragsbrott samt att tidigt upptäcka elever i behov av stöd. Samtidigt ser vi risker kopplade till teknisk genomförbarhet och ökad administrativ belastning för huvudmännen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.4.4",
+      "sentiment": -0.5,
+      "quote": "Erfarenheter från införandet av Digitala nationella prov visar att synkronisering mellan lokala elevregister och nationella system är svår och sårbar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.10",
+      "sentiment": -0.5,
+      "quote": "Synkroniseringsfel kan leda till att felaktiga uppgifter rapporteras, vilket riskerar att få konsekvenser för enskilda medborgare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec642",
+      "sentiment": -0.5,
+      "quote": "Trots utredningens ambition om automatisering kommer den manuella hanteringen av rättelser (när föräldrar eller lärare efterregistrerat frånvaro/närvaro) att kräva betydande personella resurser hos skolans administratörer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec640",
+      "sentiment": -0.5,
+      "quote": "Kostnaden för att anpassa lokala system, systemintegration och säkerställa säkra autentiseringslösningar riskerar att hamna på kommunerna, då det statliga stödet sällan täcker de faktiska implementationskostnaderna över tid.",
+      "quote_type": "grund"
+    }
+  ]
+}

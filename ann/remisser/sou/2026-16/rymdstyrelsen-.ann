@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:16/rymdstyrelsen-": "ff1f3d9a1560877d0091f768d594348c5d0043062e9152faeb0db9eec8a3f748",
+      "artifact:forarbete/sou/2026-16": "9cf0d0fb9a6fd569b3a84a4fc3b9f8d2518def4d103c3951a40c8c980a5bf3bf"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Rymdstyrelsen tillstyrker utredningens förslag med följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec26",
+      "sentiment": -0.2,
+      "quote": "Begreppet ”samordning” kan ha olika innebörd i civil respektive militär verksamhet och det kan övervägas om förordningstexten behöver förtydligas i denna del.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec289",
+      "sentiment": 0.2,
+      "quote": "Mot bakgrund av att minst en svensk myndighet eller ett statligt ägt bolag med ett tydligt främjandeuppdrag måste delta för att det ska kunna kallas en Team Sweden‑konstellation bör det mot bakgrund av bestämmelserna i 10 § språklagen (2009:600) övervägas att Team Sweden också använder sig av begrepp på svenska samt publicerar information om dess verksamhet även på svenska.",
+      "quote_type": "grund"
+    }
+  ]
+}

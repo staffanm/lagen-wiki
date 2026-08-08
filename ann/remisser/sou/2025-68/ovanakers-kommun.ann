@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/ovanakers-kommun": "203f7ffb1049a4ff6f12fc6d93361b6996fa54cc12bf4c4943ac585a34091ac0",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Ovanåkers kommun tillstyrker betänkandets förslag men lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.10",
+      "sentiment": 0.2,
+      "quote": "Det är av stor vikt att en försörjningsberedskapslag harmoniserar med övrig lagstiftning kopplat till fredstida kriser, höjd beredskap och krig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": 0.5,
+      "quote": "Dessa resurser bör samordnas i en sammanhållen ersättning till kommunerna för arbetet kopplat till kris, höjd beredskap och krig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.2,
+      "quote": "även möjligheten till lokal produktion av fossilfri energi bör utredas ur ett beredskapsperspektiv.",
+      "quote_type": "grund"
+    }
+  ]
+}

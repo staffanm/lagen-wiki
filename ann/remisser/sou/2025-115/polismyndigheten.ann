@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/polismyndigheten": "859e59f5f3ba8ef951e3b21c60badd01a5635116541d921b2737cb098234a407",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Polismyndigheten har inte några invändningar mot förslagen men lämnar vissa synpunkter, bl.a. när det gäller om huruvida it-produkter framtagna av Polismyndigheten kan omfattas av förordningen och den kompletterande svenska lagens tillämpningsområde.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec6",
+      "sentiment": -0.2,
+      "quote": "Detta för att undvika komplicerade gränsdragningsfrågor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec41",
+      "sentiment": -0.5,
+      "quote": "konsekvensen kan bli undanträngningseffekt för andra typer av ärenden, som därmed behöver nedprioriteras.",
+      "quote_type": "grund"
+    }
+  ]
+}

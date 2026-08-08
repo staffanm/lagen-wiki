@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/domstolsverket": "bedda10066280b46bc947beff0ba71cd09a9d225617bc59633a3a09c1b568b51",
+      "artifact:forarbete/sou/2026-8": "e65a317898fbd79f6ed54e253d65b00ec08803cea95ba0a4e41cb2ffb6c9ae56"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Domstolsverket har granskat slutbetänkandet Rättssäker samhällsvård för barn och unga (SOU 2026:8) både som upphandlande myndighet och mot bakgrund av den verksamhet som bedrivs av myndigheterna inom Sveriges Domstolar, dvs. utifrån hur förslaget kan tänkas påverka verksamheten ekonomiskt, organisatoriskt och utbildningsmässigt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec165",
+      "sentiment": 0.5,
+      "quote": "I utredningen berörs dock inte i vilken mån parterna ska eller bör ges tillfälle att yttra sig över behovet av en sakkunnig innan domstolen tar ställning i frågan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec331",
+      "sentiment": -0.2,
+      "quote": "den obligatoriska domstolsprövningen av en socialnämnds omprövningsbeslut medför fler och längre domstolsförhandlingar samt längre handläggningstider.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.1",
+      "sentiment": -0.2,
+      "quote": "Domstolsverket har därför svårt att på befintligt underlag skapa sig en närmare bild av de ekonomiska konsekvenserna för domstolarna och ser en risk för att kostnadsökningen i själva verket kan ha blivit underskattad i utredningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

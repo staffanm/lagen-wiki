@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:35/bodens-kommun": "cb5aa3420bc07d31119e40b1a29bf6c0c46b5ed751b4cbefbf01e2f61d2602cf",
+      "artifact:forarbete/sou/2025-35": "714b8500e63e7332a0838b0ab133e0525ceab22d4636b418ba3d2ac111780a44"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Bodens kommun ställer sig övergripande positiv till förslagen i SOU 2025:35.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4.3",
+      "sentiment": -0.5,
+      "quote": "Kommunen själva kan bedöma sina förutsättningar för integration och anser inte att det finns behov av ett tak för hur många fler nyanlända kommunen maximalt får tilldelas än vad som följer av fördelningsmodellen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": -0.2,
+      "quote": "Då det finns risk för behov av ökat försörjningsstöd så behöver kommunerna ersättning för detta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18.5.3",
+      "sentiment": -0.5,
+      "quote": "Här anser Bodens kommun att barns rätt till trygga uppväxtvillkor ska hanteras med stöd av befintligt regelverk enligt socialtjänstlagen, kommunen har en skyldighet att säkerställa barns rätt till stöd och skydd.",
+      "quote_type": "grund"
+    }
+  ]
+}

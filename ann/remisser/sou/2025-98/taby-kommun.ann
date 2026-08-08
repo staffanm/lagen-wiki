@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/taby-kommun": "559cafb6888805f1ea7c935ed89b04ade28fed9f29efd7db2142820903daf9fd",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.7,
+    "quote": "Betänkandets föreslagna begränsningar riskerar att medföra längre handläggningstider, försvagad kompetensförsörjning, generellt ökade kostnader för samhällsbyggnadsprocessen, samt ett ökat kommunalt beroende av en statlig myndighet som främst har nationella prioriteringar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3",
+      "sentiment": -1.0,
+      "quote": "Utredningens förslag riskerar att fragmentera samhällsbyggnadsprocessen och leda till ett betydligt mindre effektivt fastighetsbildande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.5,
+      "quote": "Det finns även en risk att befintliga kommunala lantmäterimyndigheter inte längre kan uppfylla kraven på verksamhetens omfattning och därmed tvingas avveckla sin verksamhet, trots att den i dag är välfungerande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.1",
+      "sentiment": -0.2,
+      "quote": "Mot denna bakgrund framstår ytterligare begränsningar av KLMs roll som omotiverade, då de riskerar att försämra effektiviteten i en process som redan förutsätter hög grad av samverkan och genomförandekapacitet.",
+      "quote_type": "grund"
+    }
+  ]
+}

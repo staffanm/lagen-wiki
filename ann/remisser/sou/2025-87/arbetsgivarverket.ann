@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:87/arbetsgivarverket": "5648231a98f88816982215a2c855ffcde9ff8e9fe0af228cefd85587b6f81c25",
+      "artifact:forarbete/sou/2025-87": "9df8cd50f8f07d5fe6625a7096a7d32e74f5028048c96cf2db13ef02650c1ac9"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Arbetsgivarverket anser dock att utredningens förslag att utvidga det straffrättsliga ansvaret för offentligt anställda kan skapa situationer där svåra gränsdragningsfrågor aktualiseras och arbetsgivarens arbetsledningsrätt inskränks på ett sätt som inte är ändamålsenligt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "Arbetsgivarverket instämmer i utredningens slutsats att det är av största vikt att allmänheten har stort förtroende för att den offentliga sektorns hantering av allmänna medel samt att man följer rättsväsendets laga kraftvunna domar och beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec302",
+      "sentiment": 1.0,
+      "quote": "Arbetsgivarverket delar utredningens bedömning att det inte finns tillräckliga skäl att ändra den nuvarande avgränsningen till ”vid myndighetsutövning” i bestämmelsen om tjänstefel.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.7.3",
+      "sentiment": -0.5,
+      "quote": "Detta medför att utrymmet för det arbetsrättsliga ansvaret begränsas, vilket i sin tur inskränker arbetsgivarens arbetsledningsrätt och därmed arbetsgivarens möjlighet att själv avgöra vilken åtgärd som är mest ändamålsenlig i det enskilda fallet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.5",
+      "sentiment": -0.5,
+      "quote": "Om en ny reglering införs för att hantera snarlika situationer kan det leda till regelkollisioner och innebära svåra juridiska bedömningar för arbetsgivare.",
+      "quote_type": "grund"
+    }
+  ]
+}

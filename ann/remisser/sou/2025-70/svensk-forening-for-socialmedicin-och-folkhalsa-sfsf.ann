@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:70/svensk-forening-for-socialmedicin-och-folkhalsa-sfsf": "235177e730ff7fe9d7857685f50a7aedec1631fffb6eb2d37c92587115037b8b",
+      "artifact:forarbete/sou/2025-70": "21e44eb2249e2dea5d04cd086cfbcb6c4e9713b1194aa26cb56bec2ae0339e9b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "SFSF vill dock understryka att en höjning av las-åldern, trots att den avser en rätt och inte en skyldighet att arbeta längre, utan kompletterande åtgärder inom arbetsmiljö och rehabilitering riskerar att öka ojämlikheten i hälsa.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.5",
+      "sentiment": -0.5,
+      "quote": "Risken är stor att reformen primärt gynnar höginkomsttagare med fysiskt lätta arbeten, medan arbetstagare med utslitna kroppar tvingas lämna arbetslivet vid riktåldern (eller tidigare via sjukersättning) med låga pensioner som följd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.8",
+      "sentiment": -0.5,
+      "quote": "Att höja las-åldern utan att adressera arbetsvillkoren i kvinnodominerade yrken riskerar att leda till att fler kvinnor \"slås ut\" snarare än \"kvarstår\" i arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": -0.5,
+      "quote": "Det är inte acceptabelt ur ett folkhälsoperspektiv att genomföra en sådan reform utan en plan för att hantera de ökade kraven på äldre arbetstagare.",
+      "quote_type": "grund"
+    }
+  ]
+}

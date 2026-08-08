@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/bodens-kommun": "21c536481a42fafc6f28a5f48ae1728c727dbc5b036128ecad1236d01ec9074b",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "För kommuner som vår, där samhällsomvandlingen sker i snabb takt, är det särskilt viktigt att en ny territoriell politik skapar tydliga strukturer, långsiktiga förutsättningar och kompensatoriska inslag som möjliggör likvärdig utvecklingskraft i hela landet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec121",
+      "sentiment": 1.0,
+      "quote": "Vi delar utredningens bedömning att det i dagens system förekommer otydlig ansvarsfördelning och bristande helhetssyn.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec123",
+      "sentiment": -0.5,
+      "quote": "Riskerna med ökad statlig centralisering och styrning måste belysas noggrant, då de kan hota både flernivåstyret och demokratiska värden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec126",
+      "sentiment": 0.5,
+      "quote": "Vi ser positivt på att länsstyrelserna föreslås få en tydligare samordnande funktion, men betonar att detta inte får ske på bekostnad av kommunernas självstyre.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec145",
+      "sentiment": -0.5,
+      "quote": "Det är inte hållbart att kommunerna förväntas bära ett allt större ansvar utan att tillräckliga resurser tillförs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec178",
+      "sentiment": 0.2,
+      "quote": "Det bör också beaktas att det i glest befolkade regioner som Norrbotten uppstår långa avstånd mellan människor. Det innebär i sin tur höga kostnader per capita eftersom infrastruktur och service drar extra resurser.",
+      "quote_type": "grund"
+    }
+  ]
+}

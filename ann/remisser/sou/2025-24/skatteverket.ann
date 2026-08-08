@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:24/skatteverket": "64b30f1c3f0fa04405905bf3a920e4117860b13ca239de600c413a745381f205",
+      "artifact:forarbete/sou/2025-24": "88406afe1f6a6b8622563c5c72858e0acc520793bcf2ba1fc08caa4758f55814"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Skatteverket har inga invändningar mot att förslaget införs.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.4",
+      "sentiment": 0.8,
+      "quote": "Troligtvis kan en sådan sänkning av skattesatsen komma att leda till minskade administrativa kostnader för de biografer som förutom filmer även erbjuder tillträde till visning av kulturell föreställning.",
+      "quote_type": "grund"
+    }
+  ]
+}

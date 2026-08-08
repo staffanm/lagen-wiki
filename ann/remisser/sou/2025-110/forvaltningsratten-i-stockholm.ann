@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/forvaltningsratten-i-stockholm": "40120bc9030d36e1f2c8642c668f58bbad3ec56b8ea2d27f0e7ea8db845a1b8b",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Förvaltningsrätten i Stockholm har, utifrån de aspekter som domstolen har att beakta, följande synpunkter på förslagen som lämnas i utredningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a20.1.2",
+      "sentiment": -0.5,
+      "quote": "Enligt förvaltningsrättens mening innebär förslaget i denna del ett så pass främmande inslag i förvaltningsrättens verksamhet att det bör ses över om det går att hitta en annan mer passande lösning",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a21.3",
+      "sentiment": -0.5,
+      "quote": "Även med beaktande av vad som redovisats om motiven till det föreslagna överklagandeförbudet för beslut om avvisning av begäran om minimiinformation, anser förvaltningsrätten att det är tveksamt om förslaget i denna del är förenligt med artikel 14.10 i GIA.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a24.3.4",
+      "sentiment": -0.2,
+      "quote": "Med hänsyn till att målen kan förväntas vara betydligt mer komplicerade och arbetskrävande än många andra måltyper som handläggs hos förvaltningsdomstolar bedömer förvaltningsrätten att även en liten ökning av antalet mål kan få stor inverkan på arbetsbördan.",
+      "quote_type": "grund"
+    }
+  ]
+}

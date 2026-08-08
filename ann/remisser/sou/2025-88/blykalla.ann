@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/blykalla": "5660f8b95027a44160e1504ea505a6cd3f97c807ecc933ca89f972272a730a3f",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Blykalla anser att det finns ett behov av tidiga besked om lämplig användning av mark- och vattenområden och ser positivt på flera aspekter av det föreslagna områdesanvändningsbeskedet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5.5",
+      "sentiment": 1.0,
+      "quote": "Detta tillåter en mer översiktlig nivå än vid tillståndsprövning, vilket är ändamålsenligt för en tidig prövning som detta innebär.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec332",
+      "sentiment": 1.0,
+      "quote": "vilket ytterligare avgränsar underlaget till det som är relevant för beskedet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.8",
+      "sentiment": 1.0,
+      "quote": "Detta är avgörande för att beskedet ska ge den förutsebarhet som krävs för investeringsbeslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec39",
+      "sentiment": -0.5,
+      "quote": "En alltför kort giltighetstid riskerar att kraftigt minska nyttan av och intresset för att söka ett tidigt besked.",
+      "quote_type": "grund"
+    }
+  ]
+}

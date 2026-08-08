@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/norrkopings-kommun": "9f3943b144b5762471583ab29a7803551aa005879985088e191f9e4dfa40cde4",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Norrköpings kommun ser positivt på delbetänkandet och är angelägen om att bidra till fortsatt regional- och landsbygdsutveckling.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec138",
+      "sentiment": 1.0,
+      "quote": "Norrköpings kommun ser positivt på förtydligande av roller och ansvar inom den territoriella politiken och håller med om bedömningen att en tydligare ansvarsfördelning skapar bättre förutsättning för samverkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec72",
+      "sentiment": 1.0,
+      "quote": "Olika platser, däribland landsbygder och särskilda geografier som exempelvis öar och skärgårdar, har behov och utmaningar som sällan kan lösas med samma insatser i hela landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec40",
+      "sentiment": 1.0,
+      "quote": "Skillnader i förutsättningar kan även vara stora mellan tätorter och den omkringliggande landsbygden i en och samma kommun eller län.",
+      "quote_type": "grund"
+    }
+  ]
+}

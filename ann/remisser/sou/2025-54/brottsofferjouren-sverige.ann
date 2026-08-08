@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:54/brottsofferjouren-sverige": "dc3767a67200da56ef36d339e302bd9be8f9f967f5a9d8d11f4f654d3b59a568",
+      "artifact:forarbete/sou/2025-54": "7aaeb3a04e899501717f3265fee63505ccf9529ba9e8e7301f283a0cd3c94fac"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Frågan kräver enligt BOJs uppfattning ytterligare överväganden efter en mer grundläggande analys än den som redovisats i utredningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -1.0,
+      "quote": "utredningens förslag om att åklagaren obligatoriskt ska vara skyldig framställa ett utvisningsyrkande när brott som föranleder åtal är utvisningsgrundade torde medföra ett avsteg från åklagarrollens viktiga objektiva och självständiga roll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec6",
+      "sentiment": -0.2,
+      "quote": "Riskerar utredning och lagföring av vardagsbrotten att påverkas ytterligare negativt om utredningens förslag om en utvidgning av utvisning på grund av brott genomförs helt eller i omfattande delar?",
+      "quote_type": "grund"
+    }
+  ]
+}

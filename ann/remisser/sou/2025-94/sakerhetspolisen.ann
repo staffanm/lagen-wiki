@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:94/sakerhetspolisen": "d6ccee11ead522179368d3d89a1a702841736853c08264a476f110f0c4424b74",
+      "artifact:forarbete/sou/2025-94": "73b4a3a1ccaec8d56f8514861e9004867d6f9800536c6582d42bc6ebd8a33624"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Säkerhetspolisen välkomnar och instämmer i förslagen i betänkandet, med de synpunkter som lämnas nedan.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.5",
+      "sentiment": -0.5,
+      "quote": "Erfarenheter från arbetsplatser och FN-insatser ger vid handen att både egen eller inhyrd personal kan utgöra ett hot.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.4",
+      "sentiment": 0.0,
+      "quote": "det är Säkerhetspolisen som står för personskyddet vid högnivåbesök från den centrala statsledningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.8",
+      "sentiment": -0.5,
+      "quote": "Säkerhetspolisen vill understryka att Polismyndigheten inte ansvarar för det särskilda personskyddsarbetet som rör Säkerhetspolisen.",
+      "quote_type": "grund"
+    }
+  ]
+}

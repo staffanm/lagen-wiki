@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/karlstads-universitet": "bbb6eb54733b78e8c2de81fe3642bb522e5d27b868fcc43068ecf959e3a5338d",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Vi instämmer i den här problembeskrivningen men vi tycker inte att utredningen riktigt (än?) närmat sig det här problemet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec121",
+      "sentiment": 0.8,
+      "quote": "Området präglas av många aktörer och otydliga roller och det är en situation som tycks bestå trots åtgärder och förändringar över en längre tid (se Tunström & Andersson 2025).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.5,
+      "quote": "Både samverkan och samordning är förrädiska ord som kan dölja maktrelationer, rättviseperspektiv etc.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Men vi ser risken att regionalpolitiken helt sväljer landsbygdspolitiken som stor om de blir ett gemensamt politikområde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec108",
+      "sentiment": -0.2,
+      "quote": "Vi ser inte riktigt vad detta betyder, och hur de tre värdena förhåller sig till varandra, eller överlappar?",
+      "quote_type": "grund"
+    }
+  ]
+}

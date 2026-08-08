@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:3/kammarratten-i-stockholm": "f8bdc80d0285da52eb44619ad7e9f76074c5dc5ccf81c7f877b2a27bd46bebc0",
+      "artifact:forarbete/sou/2026-3": "a57602efa93a3a568c65f2616a90564109efac9844cf6fcbd52ded0f202140f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kammarrätten har, utifrån de aspekter domstolen har att beakta, inga synpunkter på förslagen i stort.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec18",
+      "sentiment": -0.2,
+      "quote": "Kammarrätten vill påpeka att en inte helt ovanlig måltyp hos domstolarna är då en enskild, det vill säga den som anser sig ha utsatts för en rättighetsöverträdelse enligt EU:s dataskyddsförordning, väcker frågan hos IMY och myndigheten avslutar klagomålsärendet utan åtgärd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": -0.5,
+      "quote": "Kammarrätten konstaterar att det är oklart vad som avses med ”och domstol”.",
+      "quote_type": "grund"
+    }
+  ]
+}

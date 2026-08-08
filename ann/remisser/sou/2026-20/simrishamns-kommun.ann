@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:20/simrishamns-kommun": "0ee2240dda324380fa09e5591311a19b9b8314e77359c270ae6398c6f5d7823d",
+      "artifact:forarbete/sou/2026-20": "4bbbaf1255ebc0c511f2d6d339133f0df3731fa34b68ae49c40ee83603563261"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Bedömningen är dock att en skattebroms inte är ett ändamålsenligt verktyg för att uppnå detta mål.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1.1",
+      "sentiment": -1.0,
+      "quote": "Införandet av en skattebromsavgift riskerar att inskränka det kommunala självstyret, skapa ojämlika förutsättningar mellan kommuner samt leda till kortsiktiga beslut som kan motverka en långsiktigt hållbar välfärdsplanering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 1.0,
+      "quote": "Dessa bedöms på ett mer konstruktivt sätt stärka kommunernas arbete med effektiv resursanvändning, öka transparensen i skattebesluten och förbättra beslutsunderlagen, vilket sammantaget skapar bättre förutsättningar för lägre skattesatser över tid.",
+      "quote_type": "grund"
+    }
+  ]
+}

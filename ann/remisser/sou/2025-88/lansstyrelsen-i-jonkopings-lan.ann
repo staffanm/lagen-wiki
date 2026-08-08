@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/lansstyrelsen-i-jonkopings-lan": "6a94ee163e019ef8cac2f5f7094e6b08b2d263e5daf9904c0febe1b856565337",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Jönköpings län anser emellertid att det är viktigt att det även fortsättningsvis finns en långsiktighet i tillämpningen av hushållningsbestämmelserna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec16",
+      "sentiment": 0.2,
+      "quote": "Ofullständig beredning av områdesanvändningsbesked ökar risken för att en eventuell efterföljande tillståndsprövning resulterar i en annan bedömning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.2",
+      "sentiment": 0.2,
+      "quote": "För att områdesanvändningsbesked ska få önskad effekt avseende effektivitet och förutsägbarhet behöver de myndigheter som skall bereda frågan, liksom de myndigheter som ska delta i beredningen, ha tillräckliga resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec28",
+      "sentiment": 0.2,
+      "quote": "Samtidigt finns en risk att allt för snabba förändringar i fråga om vad som i detta sammanhang ska betraktas som allmänna intressen riskerar att motverka hushållningsbestämmelsernas syfte och funktion.",
+      "quote_type": "grund"
+    }
+  ]
+}

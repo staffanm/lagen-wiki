@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:47/forvaltningsratten-i-linkoping": "42d08955a2444ca7d9185c5a79b0917d025be8215bbf4b53401eb73bcba63c75",
+      "artifact:forarbete/sou/2025-47": "1998cf0776597c0c9e6ddd14550096440acb7a8c6b7dd2c25e14ff07bc80a796"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förvaltningsrätten i Linköping har, utifrån de utgångspunkter som domstolen har att beakta, inte någon erinran mot förslaget utöver de synpunkter som anges nedan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec304",
+      "sentiment": -0.5,
+      "quote": "Förvaltningsrätten anser att förslaget avviker från vad som är gängse i svensk lagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec629",
+      "sentiment": 0.2,
+      "quote": "Vid ett införande av de förslag som utredningen presenterat bör lagstiftaren således även överväga resurstillskott till de domstolar som prövar överklaganden av Ei:s beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec549",
+      "sentiment": -0.5,
+      "quote": "Förvaltningsrätten anser därför att det bör läggas till en punkt i övergångsbestämmelserna där detta uttryckligen anges.",
+      "quote_type": "grund"
+    }
+  ]
+}

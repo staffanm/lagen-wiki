@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:77/kronofogdemyndigheten": "51a92baef721fddefe105ca72610aae09b2f9d0355ae270fbba3979ccf710ab9",
+      "artifact:forarbete/sou/2025-77": "2d5c562dd97d981752cb93f65a08d116c79a1f8908f9e6fb9bb9e7d703e82f34"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kronofogdemyndigheten (Kronofogden) tillstyrker förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": 1.0,
+      "quote": "Den i betänkandet föreslagna hanteringen skapar bättre förutsättningar för likabehandling och bättre överblick över ärendet samt bättre kontroll för att motverka felaktiga utbetalningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "Konkursförvaltarna och företagsrekonstruktörerna har god kännedom om och insyn i vilka arbetstagare som har rätt till lönegaranti och omfattningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.2,
+      "quote": "Som en konsekvens av förslagen kommer Kronofogden emellertid inte att ha direkt tillgång till konkursförvaltarnas och företagsrekonstruktörernas ställningstaganden i lönegarantiärendena.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 0.5,
+      "quote": "Överflyttningen av arbetsuppgifterna till Skatteverket leder på sikt till ett marginellt minskat resursbehov för Kronofogden.",
+      "quote_type": "grund"
+    }
+  ]
+}

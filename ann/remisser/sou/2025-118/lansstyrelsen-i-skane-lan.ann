@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/lansstyrelsen-i-skane-lan": "768efc4de63d2ae6b9ccf2802dd6726ff6e1596115ace65410693611b275e08b",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen bedömer därför att det kan finnas behov av att tydliggöra hur begreppet allmänt nödläge ska förstås i förhållande till dessa begrepp och till det svenska systemet för krisberedskap och civilt försvar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.11.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen Skåne delar utredningens bedömning att offentliga organ som kan begära data med stöd av kapitel V i dataförordningen behöver tillgång till stöd för att vara förberedda på att kunna begära samt använda data för att hantera ett allmänt nödläge.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.4",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker utredningens förslag att regeringen ska ge Myndigheten för samhällsskydd och beredskap i uppdrag att ge stöd till svenska offentliga organ i deras arbete med att förbereda för att vid behov begära, ta emot och använda data med stöd av kapitel V i dataförordningen för att hantera allmänna nödlägen.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

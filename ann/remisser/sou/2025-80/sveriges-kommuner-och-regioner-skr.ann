@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/sveriges-kommuner-och-regioner-skr": "db31086fbc5437969f65919256a0143132ba3083ddef9540193344c3895d6584",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Sveriges Kommuner och Regioner (SKR) anser att koordinatbestämda fastighetsgränser är en viktigt verktyg för den digitala samhällsbyggnadsprocessen och är i huvudsak positiva till förslagen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11",
+      "sentiment": -0.2,
+      "quote": "SKR anser att det inte tydligt framgår av utredningens förslag vilka krav som ska gälla angående standardosäkerhet och att förslaget behöver förtydligas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": -0.2,
+      "quote": "De kommunala lantmäterimyndigheterna kan i dagsläget inte använda kommunens kart-och mätkontor för arbeten om inte personalen är anställd vid lantmäterimyndigheten, på grund av den lagtolkning som görs av Lantmäteriets tillsynsfunktion.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5",
+      "sentiment": 1.0,
+      "quote": "SKR ser positivt på att kommunen kan ansöka om särskild koordinatbestämning för fastighetsgränser i kommunen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.6",
+      "sentiment": 0.5,
+      "quote": "Det finns därför en överhängande risk att den överenskomna gränsen, vid en senare professionell utvisning, visar sig ligga flera meter bredvid läget på marken som fastighetsägarna varit överens om.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": -1.0,
+      "quote": "Ett obligatoriskt krav riskerar dock att skapa onödig administration, ökade kostnader och ledtider.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/statens-kulturrad": "136b2345cb0f50938e1d99a51f59875c3b26e9a2628d589adef91d4de3cdcb74",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Statens kulturråd (Kulturrådet) har granskat utredningens delbetänkande och stödjer till stor del dess analyser och förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.5,
+      "quote": "Det är angeläget att man ska samråda med civilsamhället och näringslivet men att det bör finnas ett klart syfte med det och en frivillighet från berörda parter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": -0.2,
+      "quote": "Kulturrådet har flera gånger, utifrån myndighetens uppdrag inom den regionala utvecklingspolitiken och landsbygdspolitiken, påpekat att den starka styrning som sker inom dessa områden i praktiken försvårar sektorsamverkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "vikten av samråd och samspel utifrån olika roller, ansvar, kompetenser och perspektiv som ett grundläggande förhållningssätt så att olika aktörers förmågor tas tillvara.",
+      "quote_type": "grund"
+    }
+  ]
+}

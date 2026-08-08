@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/stiftelsen-allmanna-barnhuset": "9eb4ad98fc96d143356812952ffd57e7cb9e9d4ded4c1c2ae4be7930ec455569",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Stiftelsen Allmänna Barnhuset har tagit del av utredningens förslag tillstyrker samtliga förslag och välkomnar särskilt att barn tydligt inkluderas den jämställdhetspolitiska strategin.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.2,
+      "quote": "Det är viktigt att barn inkluderas i de jämställdhetspolitiska målen, men det innebär samtidigt en risk eftersom barn riskerar att hamna i skuggan av vuxna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.1",
+      "sentiment": -0.2,
+      "quote": "Två olika strategier på samma område innebär samordningsproblem, speciellt som Folkhälsomyndigheten skulle ha det övergripande ansvaret för en strategi för att förebygga och bekämpa våld mot barn.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:52/kammarkollegiet": "ac590cc048598e0c1e0ef087215d580e24a8f68bdf7f04f1870b6a1989dd61e8",
+      "artifact:forarbete/sou/2025-52": "4d5e74c56afadf49e44bd84297c2d7e7df96670250cfa6da96f9bac96e81a2ba"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarkollegiet har, utifrån de aspekter som rör myndighetens uppdrag och verksamhet, följande synpunkter på vad som framkommer i aktuellt betänkande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": 0.2,
+      "quote": "Kammarkollegiet anser att det närmare bör framgå hur ett sådant mindre bidrag ska definieras, exempelvis genom att ange ett tröskelvärde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": 1.0,
+      "quote": "Detta för att ge Kammarkollegiet tillräcklig tid till förberedelser och nödvändigt utvecklingsarbete.",
+      "quote_type": "grund"
+    }
+  ]
+}

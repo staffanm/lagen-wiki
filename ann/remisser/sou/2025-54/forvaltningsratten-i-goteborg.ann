@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:54/forvaltningsratten-i-goteborg": "6262b64ce545272471768b4db745385aa1d99c9fce3ba6c7969389675d1d6d8f",
+      "artifact:forarbete/sou/2025-54": "7aaeb3a04e899501717f3265fee63505ccf9529ba9e8e7301f283a0cd3c94fac"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "bedömer förvaltningsrätten att förslaget totalt sett sannolikt medför en påtagligt ökad belastning på migrationsdomstolarna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec25",
+      "sentiment": 0.8,
+      "quote": "Mot bakgrund av att det tidigare inte har gått att direkt utläsa ur bestämmelserna i utlänningslagen att beslut om utvisning på grund av brott leder till att utlänningens tidigare beviljade uppehållstillstånd och arbetstillstånd upphör att gälla ser förvaltningsrätten positivt på förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.5,
+      "quote": "Förvaltningsrätten ifrågasätter även denna utrednings slutsats att befintliga anslagsramar bedöms täcka den tillkommande ökningen av mål och betonar återigen behovet av långsiktighet i anslagstilldelningen till de förvaltningsdomstolar som även är migrationsdomstolar.",
+      "quote_type": "grund"
+    }
+  ]
+}

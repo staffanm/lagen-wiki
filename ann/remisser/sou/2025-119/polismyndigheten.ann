@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:119/polismyndigheten": "04dfbbbd70edf0cbf02aad7879b53597b564c8b1456bb5e25f92b35932946aa7",
+      "artifact:forarbete/sou/2025-119": "4ffe1b3a3b8b7263d217456e1fadfaf32122d48eff13747b01cb521abb874202"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Polismyndigheten är generellt positiv till de förslag som presenteras i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": 1.0,
+      "quote": "omformuleringen kan underlätta både utredning och lagföring av det aktuella brottet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.9",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten tillstyrker förslaget att ett nytt brott, olaga tjänsteutnyttjande, införs.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten har inga invändningar mot att Jämställdhetsmyndigheten föreslås bli nationell samordnare för arbetet mot människohandel.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": 0.2,
+      "quote": "det bör förtydligas hur institutets informationsinhämtning från exempelvis brottsbekämpande myndigheter ska hanteras",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten delar utredningens uppfattning i avsnitt 7.4.3 att regeringen bör överväga att utveckla rapporteringsskyldigheten i 14 § förordning (2022:1718) med instruktion för Polismyndigheten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec391",
+      "sentiment": -0.5,
+      "quote": "Då det finns många redan genomförda eller pågående utredningar som bedömer att Polismyndighetens ökade arbetsbelastning ska rymmas inom befintligt anslag menar myndigheten att de beräknade 7,9 miljoner ska tilldelas Polismyndigheten genom utökat anslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:93/havs--och-vattenmyndigheten": "6aa798c730c9a04a2548b49aa76cdca98faa42c6db6e388a9e0f136718ff6857",
+      "artifact:forarbete/sou/2025-93": "201aa2c9468bea44887a18a07b9556294fb64c34f2aea6d2f31ad09b58f302f0"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Havs- och vattenmyndigheten anser att förslagen i avsnitten 1.3 och 8.6.3 i för hög grad tagits fram utifrån ett skogligt produktionsperspektiv och inte redovisar eller tar hänsyn till konsekvenserna för akvatiska miljöer och deras värden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": -1.0,
+      "quote": "Myndigheten bedömer att förslaget riskerar att försvaga områdesskyddet i framtida och befintliga naturreservat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6.3",
+      "sentiment": -1.0,
+      "quote": "Det innebär också en ökad risk för läckage av nitrat till bäck-, sjö- och grundvatten.",
+      "quote_type": "grund"
+    }
+  ]
+}

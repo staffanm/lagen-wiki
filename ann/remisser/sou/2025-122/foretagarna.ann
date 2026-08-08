@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/foretagarna": "7978b20a210f02da972bc3e030113d553c632ece33cb7e5c8f11d3bd426206f8",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Långa, oförutsägbara och kostsamma processer är ett av de största hindren för företagens investeringsvilja och tillväxt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.8",
+      "sentiment": -0.2,
+      "quote": "Vi ser med oro att rättssäkerheten för det enskilda företaget kan försvagas och konsekvenserna kan bli att felaktiga domar från mark- och miljödomstolen cementeras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec16",
+      "sentiment": 1.0,
+      "quote": "En tydligare reglering av processen för miljöbedömning, en mer avgränsad samrådskrets och införandet av regler för plankostnadsavtal är alla välkomna åtgärder som kan öka förutsägbarheten och minska kostnaderna för företag som är beroende av ändrade detaljplaner för sin verksamhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

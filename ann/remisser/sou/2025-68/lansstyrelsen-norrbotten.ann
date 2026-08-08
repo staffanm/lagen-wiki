@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/lansstyrelsen-norrbotten": "e84e3839a2cfaaec948c7a28e4100370aa49a49011ed7b4809f11a2c02d48404",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen instämmer i huvudsak till utredningens förslag men vill samtidigt framföra ett antal synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.4",
+      "sentiment": 0.2,
+      "quote": "Arbetet med försörjningsanalyser bör integreras i befintliga strukturer för redovisning och rapportering, exempelvis risk- och sårbarhetsbedömningar (RSB) eller årliga förmågebedömningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.4",
+      "sentiment": 0.5,
+      "quote": "Ytterligare behöver det tydliggöras vilken aktör som ansvarar för att upprätta avtal, vad som ska lagerhållas och vilka resurser som behöver tillföras de myndigheter som ges ansvar för lagerhållning.",
+      "quote_type": "grund"
+    }
+  ]
+}

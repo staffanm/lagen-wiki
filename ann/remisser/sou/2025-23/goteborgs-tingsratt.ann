@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:23/goteborgs-tingsratt": "af2afd8f5595a342762a64270a8c5c395c28d94c1580415f72a3d3cc1e6d4417",
+      "artifact:forarbete/sou/2025-23": "b2d48664048a020b85b19246d070df9c345abde883c4cd3cafb969951f44570e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Tingsrätten välkomnar förslagen som sannolikt kommer att leda till en förenklad och förkortad process för många brottsoffer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": 0.5,
+      "quote": "Tingsrätten välkomnar förslagen som sannolikt kommer att leda till en förenklad och förkortad process för många brottsoffer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "den nuvarande regleringen får anses vara väl avvägd och på det stora hela även i det dagliga dömandet leda till rimliga resultat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8-2",
+      "sentiment": -0.5,
+      "quote": "Tingsrätten ställer sig tveksam till att ett skärpt skadeståndsrättsligt ansvar för vårdnadshavare skulle få brottspreventiv verkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.2,
+      "quote": "anser tingsrätten att det kan finnas en risk för tillämpningssvårigheter när det gäller att avgöra i vilka situationer jämkning bör ske på grund av den enskildes egna handlande eller beteende",
+      "quote_type": "grund"
+    }
+  ]
+}

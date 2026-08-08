@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:32/svenska-rovdjursforeningen": "bde6cbad3050d1ab63de1b347886b854d77a18f290ff56847f78b4890a05bbe0",
+      "artifact:forarbete/sou/2025-32": "26d80d3408f8a86054abee979a4040504620837bce388bbf4a4cc1ac89c1b1e7"
+    }
+  },
+  "overall": {
+    "sentiment": -0.8,
+    "quote": "Förslaget avstyrks i sin nuvarande utformning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4",
+      "sentiment": -0.5,
+      "quote": "Blir detta inte möjligt kommer bestämmelsen att bli verkningslös.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.5.2",
+      "sentiment": -0.5,
+      "quote": "För att undvika misstag eller missbruk behöver kravet ställas högre om avlivning av vilt på grund av djurskydd ska ske.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.6",
+      "sentiment": -1.0,
+      "quote": "Det finns därför starka skäl att inte inskränka det allmännas möjlighet till granskning i dessa ärenden.",
+      "quote_type": "grund"
+    }
+  ]
+}

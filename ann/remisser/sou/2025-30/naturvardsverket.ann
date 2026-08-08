@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/naturvardsverket": "4e95d13267e02c4e7b1c1086ef35a5f0ad59aade873466389a6bbb903a216591",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Naturvårdsverket ser positivt på förenklingar för företag som kan främja omställningen till en cirkulär ekonomi och bidra till att minska resursanvändningen och begränsa klimat- och miljöpåverkan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": 0.5,
+      "quote": "Sverige behöver göra en samhällsekonomiskt effektiv omställning till en cirkulär ekonomi, vilket har potential att minska resursanvändningen och begränsa klimat- och miljöpåverkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": 0.5,
+      "quote": "Detta kan underlätta donation av livsmedel, eftersom det förtydligar när det kan ske utan skatteplikt.",
+      "quote_type": "grund"
+    }
+  ]
+}

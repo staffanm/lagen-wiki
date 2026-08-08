@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:36/naturvardsverket": "604f4d48f8a01568278a9bbdd37677d7f4cb57fd36e3d6cf6251dee0452f557d",
+      "artifact:forarbete/sou/2025-36": "e3d16c169ecd8ac4860467a3382c5fe813d345fe61f4e153e0c56341b0ba609e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Naturvårdsverket instämmer i utredningens förslag att bestämmelser om miljöbedömningar inom ramen för avtalet föreskrivs i en ny lag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec108",
+      "sentiment": 1.0,
+      "quote": "Vi delar utredningens bedömning att det är lämpligt med en egen lag mot bakgrund av att miljöbalken inte är tillämplig i det fria havet eller underliggande område, att rekvisiten i MKB-direktivet inte helt överensstämmer med rekvisiten i avtalet samt att samråds- och informationskraven enlig avtalet är andra än i 6 kap. miljöbalken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec220",
+      "sentiment": -1.0,
+      "quote": "Den föreslagna skrivelsen skulle därmed medföra att Sverige inte uppfyller kraven i Århuskonventionen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec199",
+      "sentiment": 0.0,
+      "quote": "avsnitt 4.1.4 i utredningen framgår emellertid att eftersom Östersjön, Kattegatt och Skagerrak inte rymmer något fritt hav får det anses mycket osannolikt att en åtgärd som vidtas inom Sveriges sjöterritorium eller maritima zoner kan orsaka avsevärda föroreningar eller märkbara och skadliga förändringar i den marina miljön i ett havsområde utanför nationell jurisdiktion",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec298",
+      "sentiment": 1.0,
+      "quote": "Vi bedömer att en anmälningsplikt, tillsammans med att anmälningar om användning läggs in på en digital plattform, ökar transparensen och underlättar kontroll av efterlevnaden av de föreslagna bestämmelserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec378",
+      "sentiment": -0.5,
+      "quote": "Eftersom Havs- och vattenmyndigheten föreslås ha ansvaret för de frågor som gäller marina genetiska resurser finns det sammantaget en risk för ineffektivitet i och med att de respektive och sinsemellan likartade ansvarsområdena då skulle fördelas på två olika myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec263",
+      "sentiment": -0.2,
+      "quote": "En sådan funktion underlättar och möjliggör att otillåten användning av genetiska resurser i havsmiljö utanför nationell jurisdiktion uppmärksammas och kan åtgärdas vid behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.3",
+      "sentiment": 0.2,
+      "quote": "Annars ser vi en risk att de tilltänkta lagstiftningsåtgärderna skapar förvirring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec301",
+      "sentiment": -0.2,
+      "quote": "Ur ett forskningsperspektiv är det viktigt att digital information som omfattas av detta avtal inte hamnar i en avskild databas som blir otillgänglig för majoriteten av forskarkåren, eller att den omfattas av svåröverskådliga restriktioner.",
+      "quote_type": "grund"
+    }
+  ]
+}

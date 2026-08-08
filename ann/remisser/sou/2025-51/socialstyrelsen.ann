@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:51/socialstyrelsen": "e641b9620f3f8cc2309c44545d8df962468ede22f215773b7b3e3b4a21def69e",
+      "artifact:forarbete/sou/2025-51": "258d56514e13c4c5451bf445ef12c74926eae0c3d6b9e933fa95a5d91e5d1ad9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Socialstyrelsen instämmer i förslaget att Folkhälsomyndigheten ska få bemyndigande att meddela föreskrifter om högsta temperatur inomhus i boenden för känsliga grupper.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.11",
+      "sentiment": 0.5,
+      "quote": "Socialstyrelsen instämmer i utredningens resonemang om att det finns fler faktorer som är viktiga för att hantera hälsoeffekter av värmeböljor än enbart en gräns för högsta inomhustemperatur för känsliga grupper.",
+      "quote_type": "grund"
+    }
+  ]
+}

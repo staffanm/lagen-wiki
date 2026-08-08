@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:87/skatteverket": "f6fc1ee7d6cd66a68369b1630afe541c6133ace721d4679480bc977d6cdd1c7e",
+      "artifact:forarbete/sou/2025-87": "9df8cd50f8f07d5fe6625a7096a7d32e74f5028048c96cf2db13ef02650c1ac9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket bedömer att förslaget kommer att stärka myndigheternas förmåga att identifiera, utreda och lagföra bland annat misstänkta mutbrott och därmed öka förtroendet för myndigheterna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec55",
+      "sentiment": -0.2,
+      "quote": "Detta kan leda till svårigheter för myndigheter som, utifrån skyldigheten att anmäla vissa brott till åtal enligt 22 § lagen (1994:260) om offentlig anställning, kan behöva bedöma om en medarbetares agerande är att betrakta som missbruk av offentlig ställning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec309",
+      "sentiment": -0.2,
+      "quote": "Skatteverket ser en risk att gränsdragningen gentemot det straffbara området inte är tillräckligt förutsebar.",
+      "quote_type": "grund"
+    }
+  ]
+}

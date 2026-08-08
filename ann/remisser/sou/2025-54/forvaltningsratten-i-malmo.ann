@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:54/forvaltningsratten-i-malmo": "3ce6843c9dd18ce1c4391e9e7475a867a275e8c73c99ff1d44043addcae64968",
+      "artifact:forarbete/sou/2025-54": "7aaeb3a04e899501717f3265fee63505ccf9529ba9e8e7301f283a0cd3c94fac"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förvaltningsrätten i Malmö, migrationsdomstolen har, utöver de synpunkter som redovisas nedan och utifrån de aspekter domstolen har att beakta, inget att erinra mot förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": -0.2,
+      "quote": "Med hänsyn till den internationella rättspraxis som utredningen har redogjort för framstår det som tveksamt om en sådan prövningsordning är förenlig med EU-rätten och Sveriges övriga internationella åtaganden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": -0.2,
+      "quote": "Förvaltningsrätten anser att det finns anledning att i det fortsatta arbetet noga överväga om ökningen av mål hos migrationsdomstolarna täcks av befintliga anslagsramar.",
+      "quote_type": "grund"
+    }
+  ]
+}

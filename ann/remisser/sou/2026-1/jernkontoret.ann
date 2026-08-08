@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:1/jernkontoret": "166efad6087447f84f5b3c02482b4332896c5cd4d448c6c78c558a16eb48d645",
+      "artifact:forarbete/sou/2026-1": "800122abdf1a75716ad0b7e15b8b8e168d5039afbac180a5b4abf6bbfb8f9388"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Ett brett, generellt och förutsebart FoU-avdrag är ett viktigt komplement till direkta långsiktigt forskningsanslag för grundforskning, tillämpad forskning och samverkan mellan akademi och industri och kan bidra till att stärka Sveriges attraktivitet för industrielta FoU-investeringar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.8.4",
+      "sentiment": 0.5,
+      "quote": "Detta då modellen är väl integrerad i kapital- företagens löpande kostnadsstruktur, ger långsiktig förutsebarhet och innebär låg administrativ komplexitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Den återbetalningsbara skattereduktionen innebär i större och etablerade industriföretag en ökad systemkomplexitet, bland annat till följd av att skattereduktioner kräver särskild hantering i återbetalningsbara redovisning och i beräkningen av effektiv skattesats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.13",
+      "sentiment": -1.0,
+      "quote": "En sådan omfördelning riskerar att skapa större negativa effekter för det svenska forsknings- och innovationssystemet än de positiva effekter som ett utökat FoU-skatteavdrag kan förväntas ge.",
+      "quote_type": "grund"
+    }
+  ]
+}

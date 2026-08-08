@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:86/forsakringskassan": "bb599f24af1899defae383ec4bda84a3bf6548797d9534eebd103e846699b50a",
+      "artifact:forarbete/sou/2025-86": "b0dcdd24a25a2d12cb2cbd40a2be00ca8cbb7c0ad6b35674c7550080e553e1d9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Försäkringskassan tillstyrker förslagen om höjd dagersättning, indexering av dagersättningen, höjd dagpenning genom höjd lägsta nivå och att dagpenningen ska beräknas utifrån 100 procent av den sjukpenninggrundande inkomsten (SGI).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.2.4",
+      "sentiment": -0.5,
+      "quote": "Försäkringskassan anser att regelverket är svåröverskådligt och i många avseenden svårtillämpat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.9.3",
+      "sentiment": 1.0,
+      "quote": "Försäkringskassan tillstyrker förslaget om höjd dagersättning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.9.4",
+      "sentiment": 1.0,
+      "quote": "Försäkringskassan tillstyrker förslaget om indexering av dagersättningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.9.5",
+      "sentiment": 1.0,
+      "quote": "Försäkringskassan tillstyrker förslaget om höjd dagpenning genom höjd lägsta nivå och att dagpenningen ska beräknas utifrån 100 procent av SGI.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a18.2.2",
+      "sentiment": -0.2,
+      "quote": "Med anledning av att det i betänkandet saknas uppgifter om förväntad ökning i denna del är det inte möjligt för myndigheten att i nuläget beräkna hur stora de ökade kostnaderna för detta kan komma att bli.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": 0.2,
+      "quote": "Försäkringskassan anser att det bör övervägas att i 2 kap. 1 § uttryckligen ange att det är prisbasbeloppet enligt 2 kap. 6 och 7 §§ SFB som avses.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:63/sundsvalls-kommun": "6a680b64ac0e80244f83d7ef07ee067790502ff886034fc701f66be2cb867386",
+      "artifact:forarbete/sou/2025-63": "461094f462cdf3d5e300f64df1c13bc71f9e5017089a2d108dbaf9978b04511e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sundsvalls kommun ser positivt på betänkandet om stärkt patientsäkerhet genom rätt kompetens.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 0.5,
+      "quote": "Utifrån att de behandlar patientgrupper som har sjukdomar där felbehandling kan orsaka allvarlig skada och stort lidande för den enskilde patienten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.3",
+      "sentiment": 0.2,
+      "quote": "Kommunerna riskerar att få olika förutsättningar i förhållande till närheten till lärosäten om utbildningarna blir för olika och för campusspecifika.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7",
+      "sentiment": 0.0,
+      "quote": "I fallet att mer detaljerade beskrivning utifrån händelser behöver redovisas så kommer det att krävas mer resurser av kommunsektorn för genomförandet.",
+      "quote_type": "grund"
+    }
+  ]
+}

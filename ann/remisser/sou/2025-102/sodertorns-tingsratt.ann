@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/sodertorns-tingsratt": "bd578136eec5a0f49cc449c5852e6b705edff203aa64861087ef9eb80e0735e1",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Södertörns tingsrätt har granskat förslagen utifrån de intressen tingsrätten har att beakta och har ingen erinran mot förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3.2",
+      "sentiment": 0.2,
+      "quote": "tingsrätten redan har interna rutiner i dessa frågor som i stor utsträckning liknar den föreslagna lagstiftningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.5,
+      "quote": "utredningens antagande (i avsnittet Konsekvenser) att antalet stämningsmannauppdrag som överlämnas från andra till Polismyndigheten kommer att minska med en tredjedel framstår som väl optimistiskt.",
+      "quote_type": "grund"
+    }
+  ]
+}

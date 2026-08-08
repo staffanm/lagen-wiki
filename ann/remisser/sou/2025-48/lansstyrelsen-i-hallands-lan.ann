@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/lansstyrelsen-i-hallands-lan": "120d2e8bc0bff3682f32d53c97941d9ec4103e381d98d0fc2791313c17bf75ab",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen är positiv till Socialdepartementets utredning, men vill framföra förbehåll om hur pandemitillsynen bör bedrivas för bästa utfall.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.5,
+      "quote": "Kommunerna har dessutom bättre förutsättningar än Länsstyrelserna för att bedriva pandemitillsyn av serveringsställen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.2,
+      "quote": "Tillsyn kommer att behöva utföras även på olika färdmedel såsom båtar, tåg, bussar och flyg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec15",
+      "sentiment": -1.0,
+      "quote": "Att Länsstyrelsen ska genomföra utredningens förslag inom befintlig ekonomisk ram är orimligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec15",
+      "sentiment": 0.5,
+      "quote": "Utifrån ett socialt hållbart perspektiv är det även positivt att personer som isoleras får det stöd och den hjälp som behövs för att risken för smittspridning ska förebyggas eller minskas så långt som möjligt, samt att personen ska ges möjlighet till sysselsättning och sådan fysisk träning som är lämplig med hänsyn till hans eller hennes ålder och hälsotillstånd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec15",
+      "sentiment": -0.2,
+      "quote": "Detta då erfarenheter efter covid-19-pandemin har aktualiserat den negativa inverkan på kvinnors rättigheter och jämställdhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

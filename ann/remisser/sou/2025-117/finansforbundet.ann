@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:117/finansforbundet": "270cb5ed48e186283c06f713ca61a1e0760f288958d6b23ad5f35aa04e2b8c55",
+      "artifact:forarbete/sou/2025-117": "e9f7c3ab9cf49724fafdf32b1ac759e11d234a9fee7d593cc7ebb686a52a59d9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förbundet ställer sig därmed fortsatt positivt till de förslag som syftar till att öppna upp även den svenska fondmarknaden för nya, innovativa produkter för sparande och investeringar förvaltade av svenska fondbolag, samt förslag som syftar till att stärka motståndskraften på den svenska fondmarknaden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.1",
+      "sentiment": 1.0,
+      "quote": "Ett huvudsyfte med reformen är att \"flytta hem\" fonder och därmed skapa arbetstillfällen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.2",
+      "sentiment": -0.2,
+      "quote": "Detta ställer helt nya och mer komplexa krav på de anställdas kompetens.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4",
+      "sentiment": -0.2,
+      "quote": "Detta skapar en potentiellt oklar ansvarsfördelning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.5",
+      "sentiment": -0.2,
+      "quote": "Vidare uttrycker utredningen att intressekonflikter mellan fondandelsägarna och förvaltningsbolagets ägare inte kan elimineras med denna konstruktion.",
+      "quote_type": "grund"
+    }
+  ]
+}

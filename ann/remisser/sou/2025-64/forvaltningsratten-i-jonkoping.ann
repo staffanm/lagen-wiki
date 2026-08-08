@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/forvaltningsratten-i-jonkoping": "ed81089050c49c10bc1dad38403d87742a3d764943e104bb19fbcdc9b59a3d44",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt har förvaltningsrätten inga särskilda synpunkter på förslagen som presenteras i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a26.9",
+      "sentiment": -0.5,
+      "quote": "Analysen är således motsägelsefull och dessutom saknar förvaltningsrätten en belysning av målens karaktär.",
+      "quote_type": "grund"
+    }
+  ]
+}

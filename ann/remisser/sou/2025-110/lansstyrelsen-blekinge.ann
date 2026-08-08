@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/lansstyrelsen-blekinge": "ca67d4a5b914e10ec7ce4bb79f12eb29b6e65955f00b6c94e09fa15571179bd3",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen Blekinge välkomnar de ändringar som föreslås då de är ändamålsenliga för ett robust, tillgängligt digitalt nät för alla i Sverige.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 1.0,
+      "quote": "Det är särskilt välkommet att Sverige inför en kompletteringslag som ger byanät samma rättigheter som nätoperatörer i GIA och samtidigt inte ska ges samma skyldigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.5.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen delar utredarens bedömning i detta.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.1.2",
+      "sentiment": -1.0,
+      "quote": "Det skulle bli en mycket otydlig otillgänglig lagstiftning om de sakliga kraven ska ersättas med en hänvisning till EU-direktiv.",
+      "quote_type": "grund"
+    }
+  ]
+}

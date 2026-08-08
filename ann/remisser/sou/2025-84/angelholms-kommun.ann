@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:84/angelholms-kommun": "b0ce67c6bdb831af6f0cb33c7045d2701637edb0c5cc6cc695c6a1a4b55750e3",
+      "artifact:forarbete/sou/2025-84": "316cc38993c62773077c8f90dc994921ac81d26564be89872d71e339c7a69a0e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Familje- och utbildningsnämnden i Ängelholms kommun ställer sig i huvudsak positiv till reformens ambitioner att förbättra vården för barn och unga med behov av särskilt stöd och omsorg.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.2",
+      "sentiment": -0.5,
+      "quote": "Den föreslagna reformen innebär en betydande ekonomisk belastning för kommunerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.2.7",
+      "sentiment": -0.2,
+      "quote": "Familje- och utbildningsnämnden efterlyser en tydlighet i hur reformens finansiering är tänkt att ske, med särskild hänsyn till kommunernas ekonomiska ansvar för att säkerställa långsiktig och tillräcklig finansiering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.2",
+      "sentiment": -0.2,
+      "quote": "Övergången från nuvarande HVB-verksamhet till en modell med särskilda “hem för barn och unga” kräver omfattande organisatoriska anpassningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": -0.2,
+      "quote": "Familje- och utbildningsnämnden har en oro för att de utökade befogenheter som personal tilldelas, exempelvis visitationer, beslag och provtagningar, kan upplevas som integritetskränkande och påverka ungdomars förtroende för vården negativt.",
+      "quote_type": "grund"
+    }
+  ]
+}

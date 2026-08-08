@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/inspektionen-for-vard-och-omsorg": "2a2f3999032fccb317aaa0675ce61c6be8d6ae2408ef4e8395468493307bb50a",
+      "artifact:forarbete/sou/2026-8": "e65a317898fbd79f6ed54e253d65b00ec08803cea95ba0a4e41cb2ffb6c9ae56"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Inspektionen för vård och omsorg (IVO) lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": -0.2,
+      "quote": "IVO anser att den nuvarande formuleringen på ett tydligare sätt ger besked om i vilka situationer ett placeringsbeslut kan överklagas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9.2",
+      "sentiment": 1.0,
+      "quote": "IVO ser att det finns risk för att en åklagare kommer att väga in behovet av samhällsskydd i ett beslut om att omhänderta ett barn omedelbart på bekostnad av vad som är barnets bästa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.6",
+      "sentiment": -0.2,
+      "quote": "anser IVO att begreppet inte är tydligt och att det kan leda till gränsdragningssvårigheter, inte minst inom tillsynen.",
+      "quote_type": "grund"
+    }
+  ]
+}

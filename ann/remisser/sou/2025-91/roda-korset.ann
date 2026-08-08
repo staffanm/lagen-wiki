@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/roda-korset": "75f0b17f2d06b477ff40643840e5d979b8d584eeff2410de24e206a61619c855",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "I de delar som berör Svenska Röda Korsets verksamhet välkomnar vi att det civila samhällets organisationers betydelse lyfts fram, att ett testamentsregister i offentlig regi upprättas samt att möjligheten till upprättande av e-testamente möjliggörs och instämmer i utredningens förslag avseende dessa delar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.3",
+      "sentiment": 1.0,
+      "quote": "Det är väsentligt för det civila samhällets organisationer, vilket inkluderar Svenska Röda Korset att ur Allmänna arvsfondens medel ansöka om finansiellt stöd till verksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": 1.0,
+      "quote": "Detta då ett offentligt register genom sekretess ger en garanti för att det under testators livstid inte framkommer att testamente har upprättats samt en trygghet för testator att dennes sista vilja kommer fram vid hens död.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "De flesta av dagens medborgare är väl förtrogna med att använda digitala tjänster och för den yngre generationen kan möjligheten att upprätta ett e-testamente te sig enklare än ett traditionellt dito.",
+      "quote_type": "grund"
+    }
+  ]
+}

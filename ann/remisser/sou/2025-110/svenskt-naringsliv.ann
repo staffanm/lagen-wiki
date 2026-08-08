@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/svenskt-naringsliv": "335e471d57fb34bba83babb62bd313d23eef140da301e6576958b407266d5063",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Svenskt Näringsliv välkomnar utredningens förslag som ett steg mot en mer sammanhållen, effektiv och investeringsfrämjande ram för utbyggnad av gigabitinfrastruktur i Sverige, i linje med EU:s gigabitinfrastrukturförordning (GIA).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19",
+      "sentiment": 0.2,
+      "quote": "Svenskt Näringsliv vill betona att de lösningar som utredningen behandlar i relevanta delar bör utformas så att de minskar – inte flyttar eller duplicerar – administrationen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13-2",
+      "sentiment": 0.5,
+      "quote": "förändringarna måste följas upp så att de faktiskt leder till mer effektiva, digitaliserade och mer enhetliga processer i enlighet med regelverkets syfte.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1",
+      "sentiment": -0.2,
+      "quote": "den alternativa ordningen måste följas upp och utvärderas, annars finns risk att den minskar incitamenten för effektiv handläggning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.3",
+      "sentiment": -0.5,
+      "quote": "De utökade myndighetsuppdrag som följer av genomförandet bör finansieras genom anslag istället för avgift, i syfte att säkerställa transparens, legitimitet och ett långsiktigt hållbart investeringsklimat.",
+      "quote_type": "grund"
+    }
+  ]
+}

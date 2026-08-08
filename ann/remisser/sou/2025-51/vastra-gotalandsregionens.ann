@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:51/vastra-gotalandsregionens": "18b3c26cd6b6b3d223fd61c122c786a9bce7f1049f48f6124e0297d5d89ebe09",
+      "artifact:forarbete/sou/2025-51": "258d56514e13c4c5451bf445ef12c74926eae0c3d6b9e933fa95a5d91e5d1ad9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Västra Götalandsregionen är i grunden positiv till utredningen och välkomnar att frågan om klimatanpassning får ökad tyngd genom anpassad lagstiftning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Västra Götalandsregionen tillstyrker betänkandets förslag om statligt ansvar och utredning av utbyggnaden av kustskydd.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 1.0,
+      "quote": "Västra Götalandsregionen tillstyrker betänkandets förslag om tillfälligt marktillträde för att skydda eller återställa väg och järnväg.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

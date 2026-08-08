@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/statens-jordbruksverk": "f28386cabb419ef3c568752253e0a46a138334e6bca0ce0ebfe20455bfc660f3",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Jordbruksverket saknar en analys över hur förslaget om införande av ett tidigt områdesanvändningsbesked för dessa verksamheter faktiskt påverkar hur hänsyn bör tas till brukningsvärd jordbruksmark.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 1.0,
+      "quote": "Jordbruksverket tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": -0.5,
+      "quote": "Jordbruksverket saknar en analys över hur förslaget om införande av ett tidigt områdesanvändningsbesked för dessa verksamheter faktiskt påverkar hur hänsyn bör tas till brukningsvärd jordbruksmark.",
+      "quote_type": "grund"
+    }
+  ]
+}

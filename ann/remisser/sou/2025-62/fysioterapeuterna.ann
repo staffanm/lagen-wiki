@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/fysioterapeuterna": "1ab9e82d882eeb0b8bc66680b49bdef95909d70c0c7e2b0f894f6c5cc0e0d8a1",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Fysioterapeuterna fokuserar på de delar som skulle kunna beredas vidare av regeringen; kommitténs bedömningar om ett utökat statligt ansvar för hälsooch sjukvården, främst kompetensförsörjningen (3.4) och bedömningar och förslag om stärkt och förbättrad statlig styrning (3.5).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.1",
+      "sentiment": 0.0,
+      "quote": "Fysioterapeuterna har inte tagit ställning i fråga om helt statligt huvudmannaskap.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.2",
+      "sentiment": 0.0,
+      "quote": "Fysioterapeuterna har inte tagit ställning till delvist statligt huvudmannaskap, det skulle vara svårt då kommunerna inte varit med.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 0.5,
+      "quote": "Bristen påverkar både patientsäkerheten, patienters tillgång till vård och arbetsmiljön för våra medlemmar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": 0.5,
+      "quote": "Fysioterapeuterna delar kommitténs bedömning om att statens styrning är splittrad och att mängden styrsignaler är omfattande.",
+      "quote_type": "grund"
+    }
+  ]
+}

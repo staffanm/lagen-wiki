@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/transportstyrelsen": "5d1db66099024b13718fec0046ef2d88cc2dee2d146d543285a36c1bd0bafd2b",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Transportstyrelsen tillstyrker respektive avstyrker vissa delar av utredningen enligt nedanstående redovisning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.10.5",
+      "sentiment": -0.2,
+      "quote": "Transportstyrelsens utvärdering av mobilitetspaketets genomförande visar att deklarationer snarare lämnas in i större utsträckning än vad som är nödvändigt, snarare än att det finns ett underskott av inlämningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.17.2",
+      "sentiment": 0.0,
+      "quote": "Mot denna bakgrund anser Transportstyrelsen att ytterligare utvärderingar på nationell nivå inte är motiverade i nuläget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.5",
+      "sentiment": 1.0,
+      "quote": "Transportstyrelsen tillstyrker att myndigheten får en större roll i arbetet mot arbetslivskriminalitet.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

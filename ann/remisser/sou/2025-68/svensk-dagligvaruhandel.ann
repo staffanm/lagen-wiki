@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/svensk-dagligvaruhandel": "b65378b99a669a0cb86d98f2c33641e8184ab7178533d65a6bb5142fe1065ec8",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Denna arbetsgång anses logisk och ändamålsenlig för att öka landets resiliens.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6",
+      "sentiment": -0.2,
+      "quote": "Den aktuella formuleringen utgör en central och avgörande del av lagförslaget, men kännetecknas av vaghet och ger betydande tolkningsutrymme för den upphandlande myndigheten eller enheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": -0.5,
+      "quote": "det saknas en vedertagen definition av dessa avtal samt tydlighet kring vem som innehar mandat att avgöra när en sådan situation föreligger.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.2",
+      "sentiment": 1.0,
+      "quote": "Tidigare erfarenheter visar att trots goda intentioner har samverkan mellan kommuner inte varit tillräckligt effektivt, eftersom försörjningskedjorna inom dagligvaruhandeln verkar på nationell nivå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.8",
+      "sentiment": -0.2,
+      "quote": "Vi menar att om man vill få effekt av avtalen eller kunna säkerställa leveransen så måste man vara vaksam med vad som beläggs med sekretess då det kan negativt påverka möjligheten att kunna säkerställa leveransen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.10",
+      "sentiment": -0.5,
+      "quote": "Det är emellertid avgörande att en sådan översyn inte leder till ytterligare lagstiftning eller en ökad administrativ börda för näringslivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.10.4",
+      "sentiment": 1.0,
+      "quote": "Det är av vikt av företag som ingår F-avtal inte påverkas ekonomisk negativt, riskerar företagets lönsamhet eller på annat sätt är marknadsstörande.",
+      "quote_type": "grund"
+    }
+  ]
+}

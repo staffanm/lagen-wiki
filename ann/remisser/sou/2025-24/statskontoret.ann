@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:24/statskontoret": "9d435d1e0d0f80f53bfe5be81da6d621dd258593a39d5338eef1cbd3e3d8d2ab",
+      "artifact:forarbete/sou/2025-24": "88406afe1f6a6b8622563c5c72858e0acc520793bcf2ba1fc08caa4758f55814"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Statskontoret kommenterar i detta remissvar de förslag som har betydelse utifrån ett förvaltnings- och styrningsperspektiv.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": -0.5,
+      "quote": "Snarare bedömer vi att styrningen riskerar att bli mer otydlig om målen renodlas eftersom Filminstitutet i så fall behöver förhålla sig till de kulturpolitiska målen i större utsträckning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2",
+      "sentiment": 1.0,
+      "quote": "Vi delar utredningens bedömning att det är mer effektivt att Filminstitutet får huvudansvaret för filmstatistiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": -1.0,
+      "quote": "Men utredningen har i förslaget inte beaktat de problem som fanns med den gamla finansieringsmodellen och hur en återgång till denna modell skulle påverka Filminstitutets verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.8",
+      "sentiment": -1.0,
+      "quote": "Enligt Statskontoret skulle en sådan lösning vara mer kostnadseffektiv, givet att kostnaderna för att flytta de olika samlingarna är höga samtidigt som nyttan av ett nationellt filmcentrum är oklar.",
+      "quote_type": "grund"
+    }
+  ]
+}

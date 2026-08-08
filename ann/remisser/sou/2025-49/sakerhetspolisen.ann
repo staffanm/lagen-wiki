@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:49/sakerhetspolisen": "2c7b3de53cac02fb63964d37928c12b43b46bba012ef01956191b8a807255810",
+      "artifact:forarbete/sou/2025-49": "5ef2d5ef8c6493b78e414bdd605c5e95ce874ee1ce91bafc844c62cff010b775"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Säkerhetspolisen är i mycket stort behov av en mer ändamålsenlig reglering på personuppgiftsområdet för att möta de utmaningar dagens informationssamhälle medför och tillvarata de möjligheter ny teknik ger.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 0.2,
+      "quote": "det är viktigt att det krav på proportionalitetsbedömning som föreslås inte motverkar syftet med den nya regleringen, så att denna bedömning i praktiken förutsätter samma typ av detaljgranskning som krävs enligt nuvarande personuppgiftsregelverk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.12",
+      "sentiment": 0.2,
+      "quote": "För att den nya regleringen ska nå sitt syfte måste det i den fortsatta lagstiftningsprocessen tydliggöras att kravet på inledande granskning inte kräver en mänsklig kontroll av varje enskild personuppgift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6.3",
+      "sentiment": -0.5,
+      "quote": "Förändringar med anledning av den nya personuppgiftsregleringen kommer att medföra större kostnader än vad som anges i betänkandet, både vad gäller personal och teknik.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:26/gotene-kommun": "58286e0d214ec0951a880272dcd1844355d450964e4702040d42e5171743e504",
+      "artifact:forarbete/sou/2025-26": "a1b81219fa2da047a1458b8868f5adbe136dee2710181976c6ee6cf5ed142bf6"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I grunden är det bra att lärare i alla skolformer kan ägna sig åt undervisning och där till hörande uppgifter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": -0.2,
+      "quote": "Frågan kvarstår dock hur personalen ska kunna se samband och dra slutsatser om vilka åtgärder som ska göras om kränkningen inte dokumenteras?",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -0.2,
+      "quote": "Hur ska dessa finansieras?",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": -0.5,
+      "quote": "Hur ska personalen säkerställa att det är första kränkningen eller om barnet/eleven berättat om tidigare kränkningar för annan personal?",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:35/gislaveds-kommun": "aaa8110e97b3959fd00ceeb90406c09f7f2d1fc8d40707e77d3f18c75ba72806",
+      "artifact:forarbete/sou/2025-35": "714b8500e63e7332a0838b0ab133e0525ceab22d4636b418ba3d2ac111780a44"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi ser detta som ett steg mot en mer hållbar och integrerad bosättningspolitik.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 0.5,
+      "quote": "Detta skulle möjliggöra en bättre anpassning till lokala förhållanden och resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec18",
+      "sentiment": 0.2,
+      "quote": "Detta kan bidra till snabbare integration och minskat utanförskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec117",
+      "sentiment": -0.5,
+      "quote": "Vi föreslår en översyn av etableringsersättningen och en höjning av den ersättningen för att individerna skall vara självförsörjande som en del i en lyckad integration.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec215",
+      "sentiment": -0.5,
+      "quote": "Annars riskerar vi att hamna i än mer segregerade områden där kommuner som har goda förutsättningar för boende kommer att få ta ett större ansvar.",
+      "quote_type": "grund"
+    }
+  ]
+}

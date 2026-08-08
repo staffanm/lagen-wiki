@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/kungliga-tekniska-hogskolan": "1bc2a9a95bd70c331541a88cdb26550856c962fc30fb6d0854dc44d919a8195f",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "KTH avstyrker och ställer sig inte bakom utredningens förslag avseende att ett vandelsbegrepp ska återinföras i utlänningslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": -1.0,
+      "quote": "KTH anser att betänkandets definition av vandel är mycket otydlig och rättsosäker samt att det kommer råda oklara bedömningsgrunder i varje enskilt fall.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": -1.0,
+      "quote": "Förslaget är en inskränkning av den grundlagsstadgade yttrandefriheten för personer med uppehållstillstånd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec460",
+      "sentiment": -1.0,
+      "quote": "KTH anser att den mängd och typ av information som förslaget avser att lärosätet, i egenskap av arbetsgivare, ska överföra till Migrationsverket inte är proportionerlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.17",
+      "sentiment": -1.0,
+      "quote": "Att det ska finnas en utökad informationsöverföring till Migrationsverket enbart rörande utländska studenter, forskare och anställda kan uppfattas som ett oproportionerligt intrång i den personliga integriteten.",
+      "quote_type": "grund"
+    }
+  ]
+}

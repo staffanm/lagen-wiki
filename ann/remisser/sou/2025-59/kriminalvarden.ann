@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:59/kriminalvarden": "e620a558e9b135a61fd19e4ccb6bc6af2c0f16f70a85b1aba058c5b67e7fe9d8",
+      "artifact:forarbete/sou/2025-59": "1aea05637fee193cae7b8a08b1b7bb725d914149befd857abda48416d4384cc8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kriminalvården har, utifrån de aspekter som myndigheten har att beakta, inte några synpunkter på utredningens överväganden och förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.3",
+      "sentiment": 0.2,
+      "quote": "Kriminalvården noterar dock att utredningen inte har räknat med kostnader för övervakning under villkorlig frigivning, vilket gör att kostnaden kan vara något underskattad.",
+      "quote_type": "grund"
+    }
+  ]
+}

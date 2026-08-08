@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:107/statskontoret": "bdc8b82121ab76733c5d20eb7f4c814155d508d567995a0344536fc5481675d7",
+      "artifact:forarbete/sou/2025-107": "47622113b6201e4ecf4f8f07faace798ed84e0806822644f3a8e9a35e1a5fff4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Avsaknaden av en sammanhållen systemsyn försvårar regeringens möjligheter att bedöma om de föreslagna förändringarna är ändamålsenliga och effektiva.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Statskontoret har inga synpunkter på förslaget om ändrad klimatlag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 0.5,
+      "quote": "Statskontoret tillstyrker förslaget, men bedömer att beslutsunderlaget hade stärkts av en mer systematisk redovisning av alternativa lösningar och deras konsekvenser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.1.1",
+      "sentiment": 1.0,
+      "quote": "Statskontoret bedömer att en sådan harmonisering kan minska risken för otydligheter i uppföljning och kommunikation i ett styrsystem som präglas av hög komplexitet och flera parallella regelverk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.3",
+      "sentiment": 0.5,
+      "quote": "Statskontoret konstaterar samtidigt att betänkandet inte redovisar alternativa sätt att utforma processen eller deras konsekvenser, vilket begränsar möjligheten att fullt ut bedöma förslagets långsiktiga effekter.",
+      "quote_type": "grund"
+    }
+  ]
+}

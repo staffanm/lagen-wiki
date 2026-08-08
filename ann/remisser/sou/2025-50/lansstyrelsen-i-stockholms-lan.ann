@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/lansstyrelsen-i-stockholms-lan": "b75d9e288c9a7a415a26eb51d19ece0e93787c9e60b7c6487e3a895600d41ae9",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Länsstyrelsen ser positivt på att utredaren föreslår flera förändringar som har en mer samordnad och behovsanpassad viltförvaltning som mål. Länsstyrelsen delar däremot inte uppfattningen om att det behöver bildas en ny myndighet för att nå detta mål och avstyrker därför det förslaget.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.1",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen anser att det i stället för att bilda en ny myndighet bör vara effektivare och mer ändamålsenligt att uppdatera uppdraget till den redan befintliga myndigheten för nationell viltförvaltning, Naturvårdsverket, och avstyrker därför förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.18.2",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen ser positivt på att frågan utreds men har idag inga resurser att utöva tillsyn över jaktlagens efterlevnad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9.2",
+      "sentiment": 0.5,
+      "quote": "För att klara dessa nya uppgifter måste Länsstyrelserna få resurser att förstärka personalstyrkan och utbilda såväl nya handläggare som besiktningspersoner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen tillstyrker förslaget att länsstyrelserna ska ta över hanteringen av statens vilt om länsstyrelserna får resurser att klara uppgiften.",
+      "quote_type": "grund"
+    }
+  ]
+}

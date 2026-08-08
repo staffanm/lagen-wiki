@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/ekonomistyrningsverket": "209fa07fba891ac4a1c48c7c3bc3102d2d1d76603e765caaf7516d3a016c166f",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "ESV bedömer samtidigt att den mycket breda definitionen av arbetslivskriminalitet, som innefattar väldigt många områden, är problematisk.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec472",
+      "sentiment": 1.0,
+      "quote": "De senast genomförda omfattningsstudierna som avsåg 2021 visade hur nystartsjobb var en av fyra ersättningar med störst andel felaktiga utbetalningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.1.3",
+      "sentiment": 1.0,
+      "quote": "ESV anser att möjliggörare kan orsaka allvarliga konsekvenser för allmänhetens tilltro till välfärdssystemen, och att det därmed är viktigt att identifiera åtgärder för att motverka denna företeelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec335",
+      "sentiment": 0.2,
+      "quote": "För att det förbättrade informationsutbytet ska få förväntad effekt i form av minskade felaktiga utbetalningar från välfärdssystemen föreslår ESV att regeringen tillsätter en utredning som undersöker möjligheterna till en ny lag där huvudregeln är offentlighet när uppgifter om enskildas personliga och ekonomiska förhållanden delas mellan myndigheter eller mellan olika verksamheter inom en myndighet (ESV 2025:25).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.2",
+      "sentiment": 1.0,
+      "quote": "ESV har inga synpunkter på förslaget om ökade resurser till forskning och kunskapshöjande insatser inom området.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.3.1",
+      "sentiment": 1.0,
+      "quote": "I rapporten ESV 2025:15 framhåller vi vikten av att berörda myndigheter blir bättre på att bedöma genomförda åtgärders effekter på ett sätt som går att koppla till de resultatindikatorer som mäter målet om korrekta utbetalningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

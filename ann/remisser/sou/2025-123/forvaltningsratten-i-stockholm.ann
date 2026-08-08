@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:123/forvaltningsratten-i-stockholm": "f2c2f15e491b3711c52b78dd063303ae91d29ad8da47b20bd027a3b4039e955a",
+      "artifact:forarbete/sou/2025-123": "c831d59e895bbc7c3d3bcecad3d6575c5ea79fb529bc06a8743a4e492daded7b"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Förvaltningsrätten i Stockholm har inga synpunkter på förslaget i övrigt.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.4.3",
+      "sentiment": 1.0,
+      "quote": "Förvaltningsrätten i Stockholm anser, i likhet med utredningens förslag i avsnitt 13.4.3, att Sveriges Domstolar bör tillföras medel för att kompensera för de ökade kostnader som förslaget kommer att innebära för de allmänna förvaltningsdomstolarna.",
+      "quote_type": "grund"
+    }
+  ]
+}

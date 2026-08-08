@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:87/malmo-kommun": "84aac86e1572e612a4b1c0b79a8df0c7f79f58cb0c2fd9fcc02a7c5856e9f213",
+      "artifact:forarbete/sou/2025-87": "9df8cd50f8f07d5fe6625a7096a7d32e74f5028048c96cf2db13ef02650c1ac9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Malmö stad ställer sig i huvudsak positiv till de föreslagna lagändringarna eftersom de kan tydliggöra skyldigheten att iaktta saklighet och opartiskhet i utövning av offentliga uppgifter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec194",
+      "sentiment": 0.2,
+      "quote": "förslaget att även ringa mutbrott ska vara straffbart kan medföra en osäkerhet i vardagliga situationer, exempelvis gällande gåvor, representation eller samverkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec21",
+      "sentiment": -0.2,
+      "quote": "Bestämmelsens utformning lämnar tolkningsutrymme, vilket medför att tillämpningsområdet riskerar att bli oproportionerligt brett.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/uppsala-universitet": "46c33c2fdce9e992e59a885bb23b3a2f9624b30f337d3b5494c1118aa5927265",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Det första förslaget tillstyrkes och det andra avstyrkes.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.8.5",
+      "sentiment": 1.0,
+      "quote": "Eftersom det enbart handlar om utbyte av icke sekretessbelagda uppgifter bedömer Uppsala universitet att förslaget är genomtänkt och förenligt med rättsstatliga principer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.5",
+      "sentiment": -1.0,
+      "quote": "Den nu föreslagna lösningen för utbyte av personuppgifter mellan myndigheter är helt oförenligt med grunderna i GDPR och därmed YTTRANDE oförenligt med Sveriges åtagande som medlemsstat i EU.",
+      "quote_type": "grund"
+    }
+  ]
+}

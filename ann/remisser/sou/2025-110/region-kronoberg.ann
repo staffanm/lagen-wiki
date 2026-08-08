@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/region-kronoberg": "15542a95debb180aafb3f247a01d6641a996b9d033c79b5cfebfc6cd594a8f9d",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Kronoberg anser att det är en väl genomarbetad utredning med förslag på åtgärder som kommer kunna bidra till effektivare utbyggnad av fiber och 5G i hela landet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.1",
+      "sentiment": 1.0,
+      "quote": "Den grundläggande kravställningen av fiberinfrastruktur i nybyggnationer som utredningen föreslår ger en flexibilitet i regionen för att på ett mer kostnadseffektivt sätt etablera nya fysiska välfärdstjänster på nya platser, efterhand som behoven förändras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a24.4.1",
+      "sentiment": 1.0,
+      "quote": "Region Kronoberg delar bedömningen att utbyggnad av nät med hög kapacitet kan bidra till ökad sysselsättning i hela landet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.5,
+      "quote": "Region Kronoberg önskar ett förtydligande som säkerställer att välfärdstjänster som hälso- och sjukvården samt kollektivtrafiken är en del av totalförsvaret, vilket innebär ett undantag från öppenhetsskyldigheten.",
+      "quote_type": "grund"
+    }
+  ]
+}

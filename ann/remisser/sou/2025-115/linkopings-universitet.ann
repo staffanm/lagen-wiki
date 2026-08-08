@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/linkopings-universitet": "2cb6cc7f8036b4d25af5db9567974481bb0df89ac90dd3089b90b08ae3fcfdf6",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Linköpings universitet anser förslaget är för långtgående, riskerar leda till försämrad cyberresiliens, att en 40-årig sekretess är för lång, och att de bestämmelser om konfidentialitet som finns i cyberresiliensförordningen är tillräckliga.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.6",
+      "sentiment": -0.5,
+      "quote": "Linköpings universitet ser en påtaglig risk att bestämmelserna om sekretess och tystnadsplikt som föreslås skull hämma samverkan och informationsspridning inom cybersäkerhetsområdet och därmed leda till försämrad cyberresiliens, i strid med cyberresiliensförordningens mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec360",
+      "sentiment": -1.0,
+      "quote": "Förslaget till bestämmelser anger att sekretessen ska gälla i 40 år, närmast en evighet på internet och i cybersäkerhetsområdet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": 0.5,
+      "quote": "Cyberresiliensförordningen innehåller redan ett riskbaserat system för konfidentialitet",
+      "quote_type": "grund"
+    }
+  ]
+}

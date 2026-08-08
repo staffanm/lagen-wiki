@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/svenska-vapensamlarforeningen": "300a2940bbe153d199438cc1950851e44b10ffff4fd0ddd2803b23e35b8e4257",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi ser flera fördelar med att viltförvaltning och vapenärenden sammanförs under den nya myndighetens ansvarsområde.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec5",
+      "sentiment": 1.0,
+      "quote": "SVEVAP tillstyrker förslaget att en ny myndighet för viltförvaltning bildas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.11.1",
+      "sentiment": -1.0,
+      "quote": "Kopplat till att myndigheten saknar ett främjandeuppdrag vad gäller jakt, målskytte och samling uppstår ett incitament för myndigheten som helhet att det är bättre att försöka neka ett vapentillstånd än att godkänna det.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11.2",
+      "sentiment": 1.0,
+      "quote": "Handläggning av vapentillstånd blir en av den nya myndighetens huvuduppgifter istället för ett sidouppdrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

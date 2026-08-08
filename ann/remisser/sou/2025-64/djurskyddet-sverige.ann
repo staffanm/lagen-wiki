@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/djurskyddet-sverige": "536d7363871fbc9684a2a1b9ee32075e4c7419551e94f8b33f5e55c6bdc22409",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Djurskyddet Sverige tillstyrker förslaget om att Livsmedelsverket ska kontrollera djurskydd vid slakt och överta Länsstyrelsens ansvar inom området.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19.3.4",
+      "sentiment": 0.8,
+      "quote": "Av egna erfarenheter vet vi att nuvarande system där Livsmedelsverkets officiella veterinär (OV) skickar information till Länsstyrelsen inte fungerar tillfredställande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.3.1",
+      "sentiment": 0.5,
+      "quote": "Att kontroll kan utföras på slakterierna är viktigt, då det är olämpligt att stanna transporterna på väg, både ur djurskydds- och arbetsmiljöperspektiv.",
+      "quote_type": "grund"
+    }
+  ]
+}

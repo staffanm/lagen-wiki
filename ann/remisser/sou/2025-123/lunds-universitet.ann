@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:123/lunds-universitet": "58f01f533a72bd5c6fc8813c7e233a163adf453ed8c3fae16facae59d85d5e69",
+      "artifact:forarbete/sou/2025-123": "c831d59e895bbc7c3d3bcecad3d6575c5ea79fb529bc06a8743a4e492daded7b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Fakultetsstyrelsen har inga synpunkter på det sakliga innehållet i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.4.5",
+      "sentiment": -0.2,
+      "quote": "Användningen av ordet skyndsamt i författningskommentaren (s. 326) med avseende på att beslut ska meddelas inom tre månader verkar i detta sammanhang avvika från hur ordet används i annan lagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4.4",
+      "sentiment": -0.2,
+      "quote": "Det blir därför något förvirrande när författningskommentaren talar om ”omständigheter som förändrar myndighetens bedömning”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": -0.5,
+      "quote": "Formuleringen ”ska besluta” ger inget utrymme för en bedömning av proportionaliteten i ingreppet i enlighet med 5 § tredje stycket FL.",
+      "quote_type": "grund"
+    }
+  ]
+}

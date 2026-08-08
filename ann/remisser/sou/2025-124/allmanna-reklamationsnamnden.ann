@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:124/allmanna-reklamationsnamnden": "98354aa55097fce789eaa5f8d9a12793ea205a192d47999e2bacc84a58244b7a",
+      "artifact:forarbete/sou/2025-124": "b54e2b2f029309b048608c1f357964bc90dd4cea710603ea2e5c6d8e0fc7c64d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "ARN har i övrigt inga synpunkter på de remitterade förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": -0.2,
+      "quote": "ARN vill uppmärksamma att det i juridisk litteratur och i viss praxis anses att ett avhjälpande kan medföra att en ny treårig reklamationsfrist börjar löpa för fel som har samband med det ursprungliga felet, liksom efter en omleverans",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.4",
+      "sentiment": -0.2,
+      "quote": "Det kan emellertid ifrågasättas om det harmoniserade meddelandet om en reklamationsrätt på minst två år är tydligt med hänsyn till att reklamationstiden i Sverige är tre år.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/region-varmland": "412bc2a7ffe64aa0dc35be5fd11c19ebb87647a88e55559e996642c5225fe236",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Med detta tillstyrker Region Värmland förslaget i remissen som innebär att bland annat Läkemedelsverket får ett utökat uppdrag för att säkerställa tillgången till läkemedel.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 0.5,
+      "quote": "Regionen tycker att förslaget att ge ett utökat uppdrag till Läkemedelsverket är bra, men vill lyfta att det är viktigt att samarbetet med regionerna kvarstår och utvecklas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec68",
+      "sentiment": 0.5,
+      "quote": "Generellt ställer sig regionen bakom att begränsningen ska vara nödvändig, men regionen vill även trycka på att det kan finnas gånger när en begränsning är det bästa sättet att säkerställa tillgången, utan att vara det enda sättet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec71",
+      "sentiment": 1.0,
+      "quote": "Regionen ställer sig bakom förslaget att det bör vara möjligt att söka dispens för de eventuella patienter som har mycket stort behov av ett läkemedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8",
+      "sentiment": 0.2,
+      "quote": "Regionen anser även att det bör göras en konsekvensanalys av det nya arbetssättet för att se hur begränsningarna i förordnande och utlämnande påverkar bland annat regioner, apotek och läkemedelsföretagen.",
+      "quote_type": "grund"
+    }
+  ]
+}

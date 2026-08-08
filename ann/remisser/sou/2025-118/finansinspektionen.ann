@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/finansinspektionen": "60b52d015e81b20e0482be3f5144da77a612084e0195601043d0e9fa31d25fca",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi vill dock framhålla ett antal aspekter på dataförordningens tillämpning, samt att utredningen underskattat förslagens konsekvenser för svenska myndigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.0,
+      "quote": "FI vill betona att följderna av dataförordningen i hög grad är beroende av utvecklingen på EU-nivå, särskilt avseende standarder och interoperabilitet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 1.0,
+      "quote": "FI delar denna bedömning och understryker vikten av att Post- och telestyrelsen (PTS) i sin tillämpning beaktar de sektorspecifika standarderna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.10",
+      "sentiment": -0.2,
+      "quote": "FI anser därför att genomförandet bör ske stegvis, samt att ytterligare vägledning och stöd till myndigheter är nödvändigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.2,
+      "quote": "Avsaknaden av harmoniserade standarder och otydligheter kring centrala begrepp, såsom ”exceptionellt behov”, riskerar att försvåra en effektiv och rättssäker tillämpning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": -0.5,
+      "quote": "FI bedömer att utredningen underskattar de resursbehov som följer av förordningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

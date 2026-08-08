@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/lansstyrelsen-i-sodermanlands-lan": "537ff84adb8e09236f8b3cf3e089de831aece7459ca84fe8886225ed4307a832",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Länsstyrelsen instämmer i utredningens förslag att länsstyrelsen ska överta Polismyndighetens skyldigheter angående utredning och bedömning av behovet av inhägnad av övergivna gruvhål.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.5,
+      "quote": "Överföringen av uppgiften från Polismyndigheten kräver således att Länsstyrelsen tillförs tillräckliga resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": -0.5,
+      "quote": "Det finns en överhängande risk att bedömningen blir felaktig i brist på tillgång till Polismyndighetens uppgifter och kunskaper.",
+      "quote_type": "grund"
+    }
+  ]
+}

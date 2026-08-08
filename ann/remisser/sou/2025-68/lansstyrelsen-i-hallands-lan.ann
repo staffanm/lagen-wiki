@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/lansstyrelsen-i-hallands-lan": "08e2134d2f45eb4e5d165de14dfb6e960febeeae5148ed5a1841b2c7e20ea63c",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Hallands län (nedan Länsstyrelsen) ställer sig i huvudsak bakom de förslag som lämnas av utredningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6",
+      "sentiment": 0.2,
+      "quote": "Bristen på tydlighet ger oönskat utrymme för tolkning och myndigheternas tillämpning av kraven kan därför skilja sig åt eller utebli.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen anser även att det föreligger risk att det lokala perspektivet och behovet inte tillgodoses eftersom kommuner och regioner inte omfattas av förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 0.5,
+      "quote": "Detta eftersom det ligger i linje med de civilområdesansvariga länsstyrelsernas uppgifter vid höjd beredskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.10",
+      "sentiment": -0.5,
+      "quote": "Resultatet av dessa pågående utredningar bör inväntas för att förhindra överlappningar, antaganden och fördröjning i det praktiska genomförandet av nödvändiga åtgärder.",
+      "quote_type": "grund"
+    }
+  ]
+}

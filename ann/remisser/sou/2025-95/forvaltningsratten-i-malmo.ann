@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:95/forvaltningsratten-i-malmo": "0b97ee86148dd46d5ccc96e00db244ca4bbb91a203d274998ce5dd1fafa83b9b",
+      "artifact:forarbete/sou/2025-95": "613ac92cd1fc517e8bc3ec573b279ef426ca513eb1305ec1af52d26309784bd1"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Detta medför enligt förvaltningsrätten en viss otydlighet som kan leda till tillämpningsproblem.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.2",
+      "sentiment": -0.5,
+      "quote": "Förvaltningsrätten anser att förändringen att göra möjligheten att bevilja uppehållstillstånd när anknytningspersonen är svensk medborgare eller därmed jämställd fakultativ medför oklarheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3-5",
+      "sentiment": -0.2,
+      "quote": "Förvaltningsrätten noterar även att användandet av begreppet ”omöjligt” medför att det kan komma att ställas mycket höga krav på den bevisning som åberopas, vilket i praktiken kan innebära att bestämmelsen blir svår att tillämpa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": -0.2,
+      "quote": "Förvaltningsrätten anser att det blir något otydligt att begreppet särskilda skäl ska tillämpas olika beroende på om ansökan är en förstagångsansökan eller förlängningsansökan, när det är samma bestämmelse som tillämpas i båda fallen och något annat inte framgår av lagtexten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.7",
+      "sentiment": -0.5,
+      "quote": "Förvaltningsrätten anser att det finns skäl att ifrågasätta utredningens bedömning att förslaget inte kommer innebära några större merkostnader för domstolarna eller att kostnaderna kommer rymmas inom befintliga anslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

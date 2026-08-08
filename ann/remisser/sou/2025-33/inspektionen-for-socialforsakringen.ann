@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/inspektionen-for-socialforsakringen": "43032b38f75d039bf6fc746b7a36352de42eb1d4b19f2b55397367974c2dcca9",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Inspektionen för socialförsäkringen (ISF) har granskat utredningens förslag med utgångspunkt i hur de bedöms påverka rättssäkerheten och effektiviteten inom socialförsäkringsområdet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": -0.2,
+      "quote": "Ur ett rättssäkerhetsperspektiv ser vi detta som något bekymmersamt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": -0.2,
+      "quote": "En upplevd risk för ett vägrat eller återkallat uppehållstillstånd kan medföra att enskilda avstår från att ansöka om förmåner eller ersättningar som de är berättigade till, för att undvika att hamna i en situation där de riskerar att få ett beslut om återkrav.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.8",
+      "sentiment": 0.5,
+      "quote": "För att i möjligaste mån motverka enskildas brist på tillit till samhället och myndigheter anser vi att det är oerhört viktigt att regeringen i förarbetena tydliggör vikten av att myndigheterna säkerställer att de gör noggranna intresseavvägningar, att myndigheterna följer upp dem och vid behov också omvärderar sina bedömningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

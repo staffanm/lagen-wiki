@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/lansstyrelsen-i-norrbottens-lan": "4d81ac667626797257f9b6bd2105e9023996e37d6f2991672baa561fdcb7db55",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen i Norrbottens län (länsstyrelsen) instämmer med förslagen i betänkandet, med nedanstående kommentarer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.7.1",
+      "sentiment": -0.2,
+      "quote": "Att fler väljare är hänvisade till att skriva för hand på blanka valsedlar kan leda till att fler väljare blir beroende av en röstmottagares vilket innebär att väljaren måste avslöja för röstmottagaren vad den röstar på.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.7.3",
+      "sentiment": -0.2,
+      "quote": "Fler handskrivna röster riskerar också att leda till att många fler röster kommer att underkännas under valkvällen vilket påverkar det preliminära valresultatet.",
+      "quote_type": "grund"
+    }
+  ]
+}

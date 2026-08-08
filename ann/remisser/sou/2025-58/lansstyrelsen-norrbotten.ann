@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:58/lansstyrelsen-norrbotten": "2c1b452cdf3c569cb03e1c88d81613bfb2f2a8317152366982b2445acf29e033",
+      "artifact:forarbete/sou/2025-58": "ba36ed43caad5065a24954f0cd558aaf490376f8b49d2831dc80ba70fc994f7a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Länsstyrelsen anser inte att hästnäringen är att likställa med livsmedelsproduktionen även om man verkar på landsbygden och kräver arealer för produktion av foder.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec176",
+      "sentiment": -1.0,
+      "quote": "Stöden handlar till största delen om att trygga vår produktion av mat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.19.7",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser inte att dessa utmaningar bör lösas genom att släppa på de regelverk som finns idag, utan många av de förslag som finns kan mycket väl i stället komma att bidra till utmaningarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.19.8",
+      "sentiment": 1.0,
+      "quote": "Dessa skulle, om de kan kopplas och uppdateras mot centrala hästdatabasen, sannolikt medföra att de vanligt förekommande avvikelserna vid hästpasskontroll (till exempel ej registrerad på rätt anläggning, ej uppdaterad avseende status i livsmedelskedjan eller ej uppdaterat kastrering) kunde elimineras, eller i alla fall reduceras markant.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8.8",
+      "sentiment": -0.2,
+      "quote": "Det föreslagna stödet till fritids- och idrottsanläggningar kan inte användas till enbart hästverksamheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/orebro-kommun": "79570ce537f76cbd684a17c89d1550b9edda9274df3e4e9a731e5de6d0ed3f9c",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Örebro kommun anser att slutbetänkandet är ett bra förtydligande och ser fördelar i att dela den typen av information som föreslås eftersom det kan underlätta samverkan för att stärka arbetet mot brott.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.8.5",
+      "sentiment": 1.0,
+      "quote": "Detta är särskilt viktigt i situationer där kommunen har information som kan vara avgörande för att andra myndigheter ska kunna upptäcka eller förebygga felaktiga utbetalningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.5.7",
+      "sentiment": 1.0,
+      "quote": "Detta skapar ett tydligare ansvar och stärker samverkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec358",
+      "sentiment": -0.2,
+      "quote": "Det finns således en risk att barn stigmatiseras eller felaktigt bedöms utifrån delad information.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 0.5,
+      "quote": "Örebro kommuns bedömning är att även om den enskildes förtroende riskerar att påverkas av att dennes uppgifter delas mellan myndigheter så väger fördelarna med informationsutbyte tyngre.",
+      "quote_type": "grund"
+    }
+  ]
+}

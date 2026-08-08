@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:47/lulea-tekniska-universitet": "edb6e22ce69ee22d7ef5bf2bcba37fb250d64a0521aec1c5ee3662c61228922e",
+      "artifact:forarbete/sou/2025-47": "1998cf0776597c0c9e6ddd14550096440acb7a8c6b7dd2c25e14ff07bc80a796"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "LTU instämmer i huvudsak i utredningens förslag samt de frågor som hänvisas till fortsatt utredning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.6.5",
+      "sentiment": 1.0,
+      "quote": "dagens effektreserv är en bättre modell än vad en marknadsomfattande kapacitetsmekanism skulle vara och att det därför är bättre att fortsätta med dagens system",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 1.0,
+      "quote": "förslaget om att anvisningsavtal föreslås försvinna och att ansvarsfördelningen mellan olika systemansvariga nätoperatörer ska tydliggöras, är bra",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": 1.0,
+      "quote": "förslaget om att anvisningsavtal föreslås försvinna och att ansvarsfördelningen mellan olika systemansvariga nätoperatörer ska tydliggöras, är bra",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a4.6.2",
+      "sentiment": -1.0,
+      "quote": "den här typen av differenskontrakt riskerar att leda till ännu större prissvängningar på elmarknaden för elkonsumenterna och för de anläggningar som inte omfattas av dessa garantier",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:74/svenska-bankforeningen": "d12d5636818bb10da613defa57ef1f2ecc7a61d4830f89511fe27438533a52af",
+      "artifact:forarbete/sou/2025-74": "86931f969c453d367aa6280683810685078a23447696be3482179222d1c28951"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Även om syftet framstår som vällovligt måste detta vägas mot de konsekvenser som en ökad uppgiftslämning kan medföra för bland annat förtroendet för marknaden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.7.2",
+      "sentiment": 0.2,
+      "quote": "Samtidigt är det av vikt att det inte sker en urholkning av banksekretessen (1 kap. 10 § lagen (2004:297) om bank- och finansieringsrörelse) som kan skada allmänhetens förtroende för bankerna och kundens vilja att använda bankens tjänster.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": -0.5,
+      "quote": "Bankföreningen anser att det finns skäl att i förarbetena till den nya lagen åter ange vilken typ av uppgifter som kravet i den nya bestämmelsen ska omfatta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": 0.5,
+      "quote": "Bankföreningen instämmer i utredningens bedömning av konsekvenserna för bankerna, förutsatt att antalet förfrågningar från Arbetsförmedlingen inte ökar i någon nämnvärd omfattning.",
+      "quote_type": "grund"
+    }
+  ]
+}

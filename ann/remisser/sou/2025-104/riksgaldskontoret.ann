@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:104/riksgaldskontoret": "4ed763d2a7dd96f7894398823ef0e2237f4f5406e6e58b49b209a1b0a8318fc9",
+      "artifact:forarbete/sou/2025-104": "5c4d7098f16f24e4775cddf63c88574e9473027cd440f6142738b512ebf0655b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Riksgälden ställer sig positiv till utredningens förslag till ett sammanhängande system för omhändertagande av kärnavfall och använt kärnbränsle som är öppet och aktörsdrivet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec65",
+      "sentiment": -0.2,
+      "quote": "Det är för Riksgälden otydligt på vilket sätt myndigheten, utifrån hur strategin beskrivs, ska yttra sig över hur de finansiella förutsättningarna påverkas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.2,
+      "quote": "Riksgälden har inga synpunkter på dessa ändringar, men anser i detta sammanhang att andra stycket i bestämmelsen som gör gällande att ”I frågor som rör sökandens ekonomiska resurser ska Strålsäkerhetsmyndigheten inhämta yttrande från Riksgäldskontoret, som särskilt ska yttra sig över sökandens förutsättningar att svara för kostnader enligt 13 § första stycket 1 lagen (1984:3) om kärnteknisk verksamhet samt enligt 30 § och 31 § lagen (2010:950) om ansvar och ersättning vid radiologiska olyckor”, inte på ett ändamålsenligt vis beskriver vad Riksgälden ska yttra sig över.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 0.5,
+      "quote": "Vi delar även utredningens bedömning att det inte bör föreligga hinder för att så ska kunna ske, givet att den part som övertar ansvaret får samma skyldigheter i förhållande till finansieringslagen som den överlämnande parten hade.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2",
+      "sentiment": 0.5,
+      "quote": "Riksgälden är positiv till att staten ska kunna ta över en reaktorinnehavares skyldigheter förutsatt att de förutsättningar som redovisas i betänkandet är uppfyllda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec66",
+      "sentiment": 0.8,
+      "quote": "Samordningen säkerställer en enhetlig användning av beräkningsmetoder och redovisning av underlag, samt att Riksgälden har en samlad kontaktpunkt för frågor som rör redovisning och komplettering av underlag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 0.5,
+      "quote": "Riksgälden ställer sig positiv till utredningens förslag att den som planerar att ansöka om tillstånd för uppförande, innehav eller drift av en kärnteknisk anläggning enligt KTL ska ges möjlighet att begära en förberedande dialog med Riksgälden i frågor om avgifter och säkerheter enligt finansieringslagen och lagen (20XX:YY) om finansiering av kärntekniska restprodukter som tagits i drift från den 1 juli 2026.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/lansstyrelsen-i-orebro-lan": "909d26cd5f56c7bd5cdeb0ad64b21f771cc8592d2bddca8d185cc0f88d745fe9",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen instämmer i utredningens förslag att länsstyrelsen ska överta Polismyndighetens skyldigheter angående utredning och bedömning av behovet av inhägnad av övergivna gruvhål samt kostnaderna för sådan inhägnad.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": 0.5,
+      "quote": "Om länsstyrelsen tar över uppgiften är det viktigt att länsstyrelsen får tillräckliga resurser för att genomföra ett sådant arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.2",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen befarar att effektiviteten kan komma att minska om det i stället är privata aktörer som ska utföra arbetsuppgiften.",
+      "quote_type": "grund"
+    }
+  ]
+}

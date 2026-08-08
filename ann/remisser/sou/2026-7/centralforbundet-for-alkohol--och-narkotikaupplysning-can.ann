@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:7/centralforbundet-for-alkohol--och-narkotikaupplysning-can": "94386256595373cef220b0ce89ec4fc30c7b3d530e435c3600ffed7be96c92af",
+      "artifact:forarbete/sou/2026-7": "7a846bbd7b56ef1c76f8c2a569d6204c1cff17ef01ba342d52cb501a13be5642"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "CAN är generellt positivt till utredningens förslag",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.2.5",
+      "sentiment": 1.0,
+      "quote": "I vårt arbete tillsammans med kommuner för att stärka deras förebyggande insatser inom ANDTS-området har vi konstaterat att kunskapen och kompetensen att samla in, hantera och analysera kommunspecifika data om invånarnas levnadsvanor och hälsa varierar avsevärt mellan kommunerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.4",
+      "sentiment": 0.5,
+      "quote": "Det finns dock ett behov av att den kunskap som genereras sprids mer systematiskt och att ett brett kunskapsutbyte främjas.",
+      "quote_type": "grund"
+    }
+  ]
+}

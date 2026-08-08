@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/region-vasterbotten": "34a714343083c24c175c91de8423ed41d5e4b641878aeec22359c2156796504b",
+      "artifact:forarbete/sou/2026-25": "2504e64dad4336cd56a918f246169a7b0a1527e1b4e61e6b7a04ded635129f20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Regionen ställer sig i huvudsak bakom förslagen i remissen med ett par avsteg.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec186",
+      "sentiment": -0.5,
+      "quote": "Nuvarande smittskyddslag ger genom informationsplikten den osmittade en möjlighet att själv ta ställning till om hen kan tänka sig att ta en viss, om än liten, risk i dessa situationer men den bestämmanderätten försvinner med borttagande av informationsplikt vid sex för högsmittsamma personer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": -0.2,
+      "quote": "det med det nya förslaget blir tydligt att läkaren bedömer att det inte räcker med råd och stöd, utan att just i det enskilda fallet bedöms det behövas förhållningsregler. Detta kan då äventyra relationen mellan behandlande läkare-patient.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.10",
+      "sentiment": -0.2,
+      "quote": "Det är inte helt ovanligt att patienter gör sig onåbara och därför inte kommer att kunna ges förhållningsregler fullt ut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3",
+      "sentiment": 0.5,
+      "quote": "Vi vill dock betona vikten av att inga otydligheter eller möjligheter till regionala skillnader i bedömning ska vara möjlig för sjukdomars koppling till kostnadsfrihet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": -0.2,
+      "quote": "Region Västerbotten bedömer därför att utredningens förslag i nuvarande form är otillräckliga när det gäller nödvändiga författningsförslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

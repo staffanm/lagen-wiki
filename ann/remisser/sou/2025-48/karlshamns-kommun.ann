@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/karlshamns-kommun": "93d155af0dbd4f8dd5d6b3c05fd8c891f9cfad2aa2ac3fc6754fe238eea75b93",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Det är angeläget att förstärka beredskapen inför framtida pandemier och att erfarenheter och lärdomen av konsekvenser av tidigare pandemier tas till vara.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.1.1",
+      "sentiment": 1.0,
+      "quote": "säkerställ en god beredskapsplanering",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.8.7",
+      "sentiment": 1.0,
+      "quote": "stärkt laboratorieberedskap",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.9.5",
+      "sentiment": 1.0,
+      "quote": "stärkt nationell dataförsörjning för övervakning och forskning vid pandemier",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

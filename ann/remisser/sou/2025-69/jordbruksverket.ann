@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:69/jordbruksverket": "5c2e56dabdd08c41c59bc1eae1f9dd57337e8238d88d9f3f29f292ea79b1e479",
+      "artifact:forarbete/sou/2025-69": "e9fe403717ef019299c4fc8689d9fb71197ea9f2a8ad889130b543582d2661a1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Jordbruksverket tillstyrker utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2.2",
+      "sentiment": -0.2,
+      "quote": "Beskrivningen av den tekniska utformningen av direktåtkomst till plattformen Regina är missvisande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1.4",
+      "sentiment": 0.2,
+      "quote": "Det är viktigt att alla uppgifter som behövs vid bekämpning av smittsamma djursjukdomar kan lämnas till Jordbruksverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": -0.2,
+      "quote": "Dessa anläggningar har på motsvarande sätt som slakterier behov av tillgång till data ur den Centrala djurdatabasen (CDB) för sin provtagning.",
+      "quote_type": "grund"
+    }
+  ]
+}

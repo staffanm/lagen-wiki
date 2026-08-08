@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/kammarratten-i-jonkoping": "f6427fbe91b1330bfc2dfb6e63a6afb7756a4e773d613ea042ca0416fb3b85c2",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kammarrätten har i övrigt, mot bakgrund av de aspekter som domstolen har att beakta, inga synpunkter på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec227",
+      "sentiment": -0.2,
+      "quote": "noterar kammarrätten att lagstiftaren i närtid har gjort särskilda överväganden om att det inte är lämpligt att överlåta till rättstillämpningen att avgöra tidsgränsen för hur länge en person kan hållas i förvar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.9",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av att det saknas en prognos för hur många mål det kan bli fråga om och att måltypen generellt ökar är det viktigt att domstolen tillförs tillräckliga resurser för att säkerställa en rättssäker och effektiv handläggning.",
+      "quote_type": "grund"
+    }
+  ]
+}

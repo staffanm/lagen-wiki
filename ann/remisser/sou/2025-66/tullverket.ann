@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:66/tullverket": "1dd80b285f4337f062173a2b8a1a2374b555b37b71b3bca850cb7077e8918896",
+      "artifact:forarbete/sou/2025-66": "d17cda5a6b525b2e0549fcf8bcc405271e7eef9479b900db16a2c9a1e0fefab0"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "För att kunna göra de bedömningarna krävs en bredare analys av behov och av förslagens samlade effekter och Tullverket kan därför inte ställa sig bakom de förslag som utredningen föreslår.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec29",
+      "sentiment": 0.5,
+      "quote": "För Tullverkets del är ett förtydligande nödvändigt eftersom förslagen kan komma att påverka möjligheterna för tullåklagare att föra talan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec46",
+      "sentiment": 1.0,
+      "quote": "Med tanke på hur allvarliga de brott som omfattas kan vara framstår det som motiverat att utvidga presumtionen på föreslaget sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec30",
+      "sentiment": -0.2,
+      "quote": "Tullverket kommer på samma sätt som Polismyndigheten, Åklagarmyndigheten och Ekobrottsmyndigheten att påverkas av förslaget om skärpta straff för flerfaldig brottslighet på så sätt att användningen av förundersökningsbegränsning kan komma att minskas med anledning av förslaget.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/uppsala-kommun": "14202a75794a5d15daa4633ed4b7b389bf023140aa2a6fe68415aa383b70e680",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslaget att kommunerna tar över tillståndsprövning enligt ordningslagen ligger i linje med kommunens lokalkännedom och erfarenhet av liknande ärenden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4",
+      "sentiment": 1.0,
+      "quote": "Överföring av tillståndsansvaret till kommunen möjliggör bättre samordning med tillsyn enligt lagen om brandfarliga och explosiva varor (LBE).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.2,
+      "quote": "Det föreslagna ikraftträdandet den 1 januari 2027 bedöms som kort tid i förhållande till det förberedelsearbete som krävs för övergången.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.5,
+      "quote": "Uppsala kommun lyfter därmed behov av tillkommande generella statsbidrag som kompensation för kommunernas implementerings- och införandekostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

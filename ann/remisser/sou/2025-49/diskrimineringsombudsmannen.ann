@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:49/diskrimineringsombudsmannen": "eb1db0ee73c7c7c672436bbabd626efb562b066d2bf59577e277f994a6a4feb1",
+      "artifact:forarbete/sou/2025-49": "5ef2d5ef8c6493b78e414bdd605c5e95ce874ee1ce91bafc844c62cff010b775"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammantaget har DO mot bakgrund av DO:s uppdrag, de överväganden som utredningen har gjort och de förslag som läggs fram för att säkerställa rättssäkerheten inget att erinra mot förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec518",
+      "sentiment": 0.0,
+      "quote": "Utredningen lyfter att det finns risk för diskriminering vid behandling av känsliga personuppgifter till exempel vid sammanställning och sökning utifrån sådana uppgifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec455",
+      "sentiment": 0.0,
+      "quote": "DO noterar även att utredningen föreslår att bestämmelsen om hur en persons utseende ska beskrivas inte ska föras över till den nya lagen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec398",
+      "sentiment": -0.2,
+      "quote": "DO vill med anledning av detta lyfta vikten av att ny teknik tas fram på ett sätt som minimerar risken för diskriminering när tekniken sedan används i verksamheten.",
+      "quote_type": "grund"
+    }
+  ]
+}

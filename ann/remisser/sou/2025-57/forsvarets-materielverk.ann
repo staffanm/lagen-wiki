@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:57/forsvarets-materielverk": "33e27c008712e07f3b1b8c104fd6cf88f3c6fbfefff8c6625ba273d83b72a079",
+      "artifact:forarbete/sou/2025-57": "8cf9bb514d6bbb185bf9bc093699cb8e4192e8a8f7352a55e97006d808786230"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "FMV ser överlag positivt på de slutsatser som utredningen drar och de förslag som presenteras i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec22",
+      "sentiment": 0.5,
+      "quote": "FMV vill dock betona att uppdraget måste vara tydligt avgränsat så att kravbilden gäller annan luftfart för statsändamål och är i enlighet med EASA regelverk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec29",
+      "sentiment": -0.5,
+      "quote": "En årsarbetskraft för detta arbete bedöms vara lågt räknat.",
+      "quote_type": "grund"
+    }
+  ]
+}

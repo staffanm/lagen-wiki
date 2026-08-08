@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:37/revisorsinspektionen": "4cebabba7f103f0f436eac5aad611fd7cb51b01b2b303257815e166c85b9834b",
+      "artifact:forarbete/sou/2025-37": "f2caa386251f276824b88c0c043ef741f67175b8f957b93142f12fc4f4448b10"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Revisorsinspektionen instämmer i det som framförs i delbetänkandet om att revisorsgranskning kan förenkla och underlätta tillsynsmyndigheternas granskning och kontroll.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.2,
+      "quote": "Det skulle enligt Revisorsinspektionens mening vara en bättre författningsteknisk lösning om det klart framgick redan av lagtexten vilken typ av granskning som förutsätts.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18.1",
+      "sentiment": -0.2,
+      "quote": "Utan tydliga kriterier för när en värdeöverföring anses ha skett kan inte revisorn fastställa om en värdeöverföring verkligen har ägt rum.",
+      "quote_type": "grund"
+    }
+  ]
+}

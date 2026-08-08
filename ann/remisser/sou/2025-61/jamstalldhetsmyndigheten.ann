@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:61/jamstalldhetsmyndigheten": "c65a119c9e9efd2429c56c1dccce83134580a80e12a9aab8af8dcb1cf7eca7a6",
+      "artifact:forarbete/sou/2025-61": "c8d09bc4b2ee92f1bde3bdb0285bc5766bdfef45db2fb06aa2b9f212091e91e2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Jämställdhetsmyndigheten tillstyrker i huvudsak utredningens förslag och har följande synpunkter",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.6.2",
+      "sentiment": 0.0,
+      "quote": "I sammanhanget är det viktigt att påpeka att preskriptionstiderna för olika brottstyper kan påverka möjligheterna att väcka åtal för brott som begåtts i adoptioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.10.2",
+      "sentiment": 1.0,
+      "quote": "Detta av samma skäl som utredningen anger, att verksamheten utgår från en efterfrågan på barn och skapar incitament för oegentligheter såsom människohandel och människorov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.10.3",
+      "sentiment": 0.2,
+      "quote": "Eftersom det fortfarande kommer att finnas en möjlighet att adoptera, om släktband eller nära relation finns, måste Sverige försäkra sig om att handel med barn, människohandel eller människorov inte ska kunna förekomma.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9-2",
+      "sentiment": 0.5,
+      "quote": "Ökad kvalitet och likvärdighet över landet kan bidra till ökad jämställdhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10-2",
+      "sentiment": -0.5,
+      "quote": "Jämställdhetsanalysen behöver utvecklas, genomsyra utredningen samt få genomslag i de förslag som lämnas.",
+      "quote_type": "grund"
+    }
+  ]
+}

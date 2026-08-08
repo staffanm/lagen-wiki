@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/svenska-bankforeningen": "2c33630d1c3df228959b3e5825581ec6986f983354b23f708f5711b8c8d241ea",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Däremot vill Bankföreningen särskilt uppmärksamma om risken för överlappande och dubbelreglerande krav i förhållande till befintlig EU-reglering av finanssektorn, i synnerhet förordningen om digital operativ motståndskraft (DORA).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec6",
+      "sentiment": -0.5,
+      "quote": "Att därutöver tillämpa CRA skulle inte stärka säkerheten i bankerna utan snarare medföra ökad komplexitet och kostnader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec422",
+      "sentiment": 0.5,
+      "quote": "Ett motsvarande erkännande inom ramen för CRA skulle säkerställa tydlighet och förhindra överlapp i regelverken för bankerna.",
+      "quote_type": "grund"
+    }
+  ]
+}

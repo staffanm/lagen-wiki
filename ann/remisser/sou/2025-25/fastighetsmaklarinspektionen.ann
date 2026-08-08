@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/fastighetsmaklarinspektionen": "4269fe6f908cc29593d401b8b871c40a7357dfd0dc62bd9a4db038e59edb96da",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Fastighetsmäklarinspektionen, FMI, välkomnar delegationens arbete och ställer sig generellt positiv till de förslag som läggs fram för att motverka arbetslivskriminalitet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec580",
+      "sentiment": 1.0,
+      "quote": "Detta är en viktig åtgärd för att säkerställa att mäklare bibehåller nödvändiga kunskaper och förmåga att tillämpa dessa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.16.3",
+      "sentiment": 1.0,
+      "quote": "För att kunna upprätthålla kraven på redbarhet och lämplighet vid registrering och tillsyn av fastighetsmäklare bör bestämmelserna i 12 och 12 a §§ belastningsförordningen utvidgas.",
+      "quote_type": "grund"
+    }
+  ]
+}

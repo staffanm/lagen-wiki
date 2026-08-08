@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:75/sveriges-ambassad-i-washington": "9e39bc62061121f9f320528b3ef722f8af236e109da6fff2afec9c1a568d805a",
+      "artifact:forarbete/sou/2025-75": "6c1747356aef8861690e0e55231a670ab88642b59dc2975b505edeeb781a1461"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Möjligheten att samköra biometriska uppgifter mellan relevanta myndigheter skulle kunna medföra en avsevärd effektivisering av handläggningsprocesser samt stärka rättssäkerheten",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 1.0,
+      "quote": "detta riskerar att bli mer resurskrävande än vad det ger i resultat",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a28",
+      "sentiment": 0.5,
+      "quote": "Möjligheten att samköra biometriska uppgifter mellan relevanta myndigheter skulle kunna medföra en avsevärd effektivisering av handläggningsprocesser samt stärka rättssäkerheten",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec17",
+      "sentiment": -0.5,
+      "quote": "Ett gemensamt register skulle kunna bidra till ökad samordning, rättssäkerhet och effektivitet i myndighetsutövningen, särskilt i ärenden där korrekt personinformation är avgörande.",
+      "quote_type": "grund"
+    }
+  ]
+}

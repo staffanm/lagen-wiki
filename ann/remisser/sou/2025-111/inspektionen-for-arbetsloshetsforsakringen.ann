@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/inspektionen-for-arbetsloshetsforsakringen": "876f3423dc12648bcbfef23ade3dd0354af35dd8bd1c800ed1c2d1b8332992c5",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "IAF delar i grunden målet att stärka principen om en rättvis rättegång för alla och konstaterar att betänkandets förslag kan bidra till att förstärka denna princip.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "Det är därför rimligt att den enskilde, under de förutsättningar som föreslås i betänkandet, i vissa fall ska kunna få ersättning för sina rättegångskostnader för att säkerställa en rättvis rättegång.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4.4",
+      "sentiment": -0.2,
+      "quote": "Däremot ställer sig IAF tveksam till att det är den allmänna parten i ärendet som ska betala, vilket i processer om arbetslöshetsförsäkringen skulle bli antingen IAF eller en arbetslöshetskassa, såvida det inte i myndighetens budgetanslag anvisas särskilda medel för detta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5",
+      "sentiment": -0.2,
+      "quote": "IAF noterar sammantaget att utredningen inte tillräckligt tydligt förklarar hur ersättning för rättegångskostnader ska fungera i praktiken.",
+      "quote_type": "grund"
+    }
+  ]
+}

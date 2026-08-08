@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/skogsindustrierna": "2bbfb1d7a5d591ae0718c9e5aa4315322f74f7173fb663035fc08cdfb120408a",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skogsindustrierna anser att utredningens bedömningar och förslag till ny myndighet och dess namn, uppdrag och ansvar är bra och vill särskilt poängtera förslag till förändringar i myndighetsinstruktioner som tydliggör helhetsansvaret för viltförvaltningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.1",
+      "sentiment": -0.2,
+      "quote": "En nackdel med en ny myndighet är att det alltid tar lite tid för en myndighet att komma i gång med arbetet, och det finns risk att viktiga frågor inte hanteras tillräckligt snabbt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.1",
+      "sentiment": 1.0,
+      "quote": "det är positivt att instruktionen föreslås kompletteras med ett tydligare helhetsansvar för myndigheten att utöver bevarande- och brukandeperspektivet även tydligt inkludera ansvar för att förebygga och begränsa skador och olägenheter orsakade av vilt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11.1",
+      "sentiment": 1.0,
+      "quote": "Ett annat skäl att inte flytta ansvar för vapentillstånd till den nya myndigheten är att det riskerar att skapa en obalans inom myndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec370",
+      "sentiment": -0.5,
+      "quote": "Utredningen beräknar att verksamheten som rör viltförvaltning kommer att behöva 45 årsarbetskrafter och verksamheten för vapen och vapentillstånd behöver 184 årsarbetskrafter, vilket riskerar att förvaltningsfrågorna inte ges det utrymme, prioriteringar och resurser som behövs.",
+      "quote_type": "grund"
+    }
+  ]
+}

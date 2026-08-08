@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/sveriges-advokatsamfund": "9d18bb54bb4173cebfc17f5b3a5589bd591ee93b5cf8bbf657e2922c864ca1ea",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Advokatsamfundet har i huvudsak ingen erinran mot betänkandets förslag, men har invändningar och synpunkter särskilt i följande avseenden.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.16.2",
+      "sentiment": -0.5,
+      "quote": "Advokatsamfundet ser med stor oro på att delegationen föreslår statlig inblandning i en disciplinär åtgärd som är en central del av advokatkårens självreglering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.16.2",
+      "sentiment": -0.2,
+      "quote": "Frågan om hur tillsynen bäst kan effektiviseras, exempelvis vad gäller resurssättning och val av tillsynsverktyg, är något som Advokatsamfundet är bäst lämpat att självständigt avgöra.",
+      "quote_type": "grund"
+    }
+  ]
+}

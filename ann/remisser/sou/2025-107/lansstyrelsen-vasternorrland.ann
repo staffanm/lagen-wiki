@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:107/lansstyrelsen-vasternorrland": "d505942fe0ab59af390d25573221c18f478dd3dffea6e3bba531305b9b5c1c68",
+      "artifact:forarbete/sou/2025-107": "47622113b6201e4ecf4f8f07faace798ed84e0806822644f3a8e9a35e1a5fff4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen vill understryka att klimatpolitiken bör utformas i enlighet med försiktighetsprincipen och med ett tydligt fokus på faktiska utsläppsminskningar inom Sveriges gränser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen anser att det är positivt med en harmonisering till de målsättningar som är antagna av EU, och välkomnar förslaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2.2",
+      "sentiment": -0.2,
+      "quote": "I enlighet med försiktighetsprincipen bör därför kompletterande åtgärder utgöra ett strikt begränsat komplement till, och inte ersättning för, faktiska utsläppsminskningar inom Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 1.0,
+      "quote": "Styrning från nationell nivå genom sektorsmål för transporter är däremot en förutsättning för att länets aktörer ska få incitament att ställa om och att länets utsläpp från transportsektorn därigenom ska kunna minska på ett kostnadseffektivt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec19",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget att en valberedning tillsätts för att utse ledamöter i det klimatpolitiska rådet och att förordnandetiden för ledamöterna i rådet förlängs.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

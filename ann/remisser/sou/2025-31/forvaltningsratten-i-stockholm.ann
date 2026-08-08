@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:31/forvaltningsratten-i-stockholm": "c0d199efa16616f4c46861f88cea6c62fa41b6a6b40020048aa12498554f8c79",
+      "artifact:forarbete/sou/2025-31": "e7c4dbe9b042c6e1d10f651782855418bac084c351c484930a03ffa7ab2a06bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förvaltningsrätten i Stockholm (migrationsdomstolen) har, inom ramen för vad domstolen har att beakta, inget att erinra mot förslagen som lämnas i delbetänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Migrationsdomstolen ser bland annat en risk för att utredningens förslag kan komma att påverka domstolarnas handläggningstider eftersom förfarandet kommer att innebära regelbundet utlämnande av handlingar och ett ökat behov av skriftväxling.",
+      "quote_type": "grund"
+    }
+  ]
+}

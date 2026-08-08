@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:56/statskontoret": "f3706642392a443e39fa745e99f11f9611a43d27c56bc66500e04bc21c44053f",
+      "artifact:forarbete/sou/2025-56": "aa474607a823f641b3c41a3a7a0ae03a90bc89660beb4c770fe2fdd7ff299a48"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Enligt Statskontoret är det ett rimligt skäl till att trots allt genomföra utredningens förslag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3.7",
+      "sentiment": 0.2,
+      "quote": "Statskontoret delar utredningens uppfattning att den föreslagna nya myndigheten skulle bli en udda fågel bland förvaltningsmyndigheterna.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.3.6",
+      "sentiment": -0.5,
+      "quote": "Det finns varken principiella eller praktiska skäl till att avvika från principen att förvaltningsmyndigheternas uppgifter ska framgå av instruktionen.",
+      "quote_type": "grund"
+    }
+  ]
+}

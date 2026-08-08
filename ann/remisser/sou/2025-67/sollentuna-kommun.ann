@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/sollentuna-kommun": "f644d42c44a6d787d7ef80cb2706568f54db2a74cd637e25402114d8f795fa3d",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Åtgärder för att förstärka konkurrenskraften för Arlanda flygplats är välkomna.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.3",
+      "sentiment": -0.2,
+      "quote": "Det hindrar inte att en analys av vilka andra förhållanden som påverkar flygplatsens utveckling hade varit värdefulla för att bedöma de föreslagna åtgärdernas effektivitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.1",
+      "sentiment": -0.5,
+      "quote": "Den övervägande delen av de föreslagna åtgärderna motiveras inte enbart av Arlanda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec275",
+      "sentiment": 1.0,
+      "quote": "Sollentuna delar utredningens analys av att detta behöver ske innan Förbifart Stockholm öppnar för trafik.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec313",
+      "sentiment": 1.0,
+      "quote": "Det har stor strategisk betydelse för möjligheten att trafikera Arlanda med spårbunden trafik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.2,
+      "quote": "Satsningar på väginfrastruktur och kollektivtrafik behöver följas av åtgärder för att begränsa miljö- och hälsopåverkan från trafiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec353",
+      "sentiment": -0.5,
+      "quote": "Sollentuna kommun framhåller att det är ett statligt ansvar att finansiera Arlandas utveckling och tillhörande infrastruktursatsningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec356",
+      "sentiment": -1.0,
+      "quote": "Sollentuna kommun är starkt kritisk till trängselskatt på E4, som med stor sannolikhet skulle leda till förflyttningar av vägtrafik från statligt vägnät till kommunalt.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:51/forsvarsmakten": "137f7046c5a3a1c7bdff6bb6f509c4411f04a13d21463adb54c7143568438e3f",
+      "artifact:forarbete/sou/2025-51": "258d56514e13c4c5451bf445ef12c74926eae0c3d6b9e933fa95a5d91e5d1ad9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försvarsmakten har inget att erinra mot förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec22",
+      "sentiment": 0.5,
+      "quote": "I denna del påtalar Försvarsmakten vikten av att utpekade riksintressen för totalförsvarets militära del enligt 3 kap. 9 § miljöbalken vid en avvägning mellan olika riksintressen fortsatt ska ges företräde framför andra riksintressen enligt 3 kap. 10 § miljöbalken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec9",
+      "sentiment": 0.2,
+      "quote": "Förhållandet att marken lämplighet trots detta anses prövad i planen och därmed medför en byggrätt innebär betydande risker för människors hälsa och miljön och risk för skada på riksintressen.",
+      "quote_type": "grund"
+    }
+  ]
+}

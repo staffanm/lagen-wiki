@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/esv": "a64d151053e8862ea8f2ff30af29e4915c75c9e33589a938d0041e57c7895648",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "ESV ställer sig positiv till förslaget om att reglera offentlig säljverksamhet i en särskild lag men avstyrker förslaget om särskild redovisning av offentlig säljverksamhet enligt 5 § författningsförslaget till lag om offentlig säljverksamhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "ESV ställer sig positiv till förslaget om att reglera offentlig säljverksamhet i en särskild lag",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec21",
+      "sentiment": -1.0,
+      "quote": "Det huvudsakliga skälet till ESV:s ståndpunkt i frågan är att inte belasta de offentliga verksamheterna med onödiga administrativa kostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

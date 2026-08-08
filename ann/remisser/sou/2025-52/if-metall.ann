@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:52/if-metall": "29e91ab7556c65b7551f9065633488203c8c4c2dc9c6779b69a9695c06003a94",
+      "artifact:forarbete/sou/2025-52": "4d5e74c56afadf49e44bd84297c2d7e7df96670250cfa6da96f9bac96e81a2ba"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "IF Metall stödjer förslaget om insyn i politiska påverkansprocesser i enlighet med vad som uttryckts i LOs yttrande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13",
+      "sentiment": 1.0,
+      "quote": "IF Metall har som medlem i LO varit med och fattat ett beslut på LOs kongress 2024 som slår fast att LO anser att ett lobbyregister bör införas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -1.0,
+      "quote": "IF Metall anser, liksom LO, att det vore förödande för tilliten till den öppna demokratiska staten som vi värnar i Sverige att inskränka den grundlagsskyddade föreningsfriheten där varje demokratisk organisation ges rätten att i god ordning besluta om hur man vill använda sina medel.",
+      "quote_type": "grund"
+    }
+  ]
+}

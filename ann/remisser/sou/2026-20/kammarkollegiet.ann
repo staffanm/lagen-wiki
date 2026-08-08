@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:20/kammarkollegiet": "95e13d04f66175febba3e174cded60c5ead97ccbff7c0f85a088752d96bd5eda",
+      "artifact:forarbete/sou/2026-20": "4bbbaf1255ebc0c511f2d6d339133f0df3731fa34b68ae49c40ee83603563261"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarkollegiet har, utifrån de utgångspunkter som myndigheten har att beakta, inte några synpunkter på de remitterade förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Vi har inte heller några synpunkter på utredningens scenarioanalys i avsnitt 9",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": -0.2,
+      "quote": "Om förslaget genomförs på det sätt som utredningen föreslår kan det medföra ökade arbetsuppgifter för den del inom Kammarkollegiet som administrerar utbetalningar av statsbidrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

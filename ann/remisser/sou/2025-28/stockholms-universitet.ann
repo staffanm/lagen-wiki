@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/stockholms-universitet": "f2a6b240de2b7005619ceff9208407513c95c16d7c50bb08fc92dbf278c88123",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Stockholms universitet ser positivt på förslag som innebär att frågor som rör våld och utsatthet samordnas och på utgångspunkten att det sker ett långsiktigt arbete med dessa frågor.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 0.5,
+      "quote": "Universitetet ser positivt på förslag som innebär att det finns ett tydligt samordningsansvar för kunskapshöjande åtgärder inom ramen för de områden som strategin omfattar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 0.2,
+      "quote": "Stockholms universitet menar att ett nationellt samordningscentrum med ett tydligt uppdrag kan bidra till en sammanhållen, effektiv och långsiktigt hållbar politik inom både intersektoriella och tvärprofessionella områden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.4",
+      "sentiment": -0.2,
+      "quote": "En nedlagd förundersökning kan exempelvis innebära att en förälder, i det fall våld förekommit men inte bevisats, uppfattar att våldet var acceptabelt, vilket i sin tur kan leda till att vårdnadshavaren stänger dörren för frivilliga behandlingsinsatser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec340",
+      "sentiment": 0.2,
+      "quote": "Universitetet ser det som angeläget att frågor om vad som utgör riskmiljöer och utsatthet beforskas och att strategier och lagstiftningsåtgärder följer forskningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

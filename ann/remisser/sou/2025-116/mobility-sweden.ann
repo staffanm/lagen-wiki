@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:116/mobility-sweden": "3ff647d31c0df60d60c6ff7d08d4ab889b3e83bc4e7fab0ef46099bd14b37e62",
+      "artifact:forarbete/sou/2025-116": "6e845a53d09b875b450c51c7a68361f369fb3e38e747d872c524feeedc2736c8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Mobility Sweden motsätter sig utredningens förslag kring framhävande av innehåll av allmänintresse vad gäller fordon, medan vi ställer oss bakom utredningens förslag kring ett nationellt krav på FM-mottagare i fordon, med vissa kommentarer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11",
+      "sentiment": -0.5,
+      "quote": "Alla nationella särkrav innebär en ytterligare börda och konkurrensnackdel, inte bara för fordonstillverkarna, utan även för de företag som importerar fordon till Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "Ur ett beredskaps- och säkerhetsperspektiv är det av stor betydelse att även lätta och tunga lastbilar har radiomottagare som kan ta emot information via FM-nätet över hela landet.",
+      "quote_type": "grund"
+    }
+  ]
+}

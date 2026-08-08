@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:81/tullverket": "80353a315e093a14c831b919dc66a0e4ce6fb9ea21ec9a9efc2b952289619e17",
+      "artifact:forarbete/sou/2025-81": "18dbd0bb1ff96f8c252ba4781ad24b1dde501603dec2d1055b6aac74edf95632"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Tullverket ställer sig i grunden positivt till utökade möjligheter att utbyta information med andra brottsbekämpande myndigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Om förslaget genomförs kommer Tullverket få ytterligare ett verktyg i arbetet med att bekämpa den kriminella ekonomin, vilket myndigheten ser som positivt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 1.0,
+      "quote": "direktåtkomst till fler uppgifter i beskattningsdatabasen för myndighetens brottsbekämpande verksamhet skulle göra såväl analys- och underrättelsesom utredningsarbetet mer effektivt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": -0.5,
+      "quote": "En bestämmelse om uppgiftsskyldighet från tullverksamheten till den brottsbekämpande delen av verksamheten är därför olämplig utifrån Tullverkets förutsättningar och behov.",
+      "quote_type": "grund"
+    }
+  ]
+}

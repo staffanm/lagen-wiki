@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:70/domstolsverket": "6e887083cff675bbf616c51f5376da00c6397b39ee2c14d04f4c6728592d4c0f",
+      "artifact:forarbete/sou/2025-70": "21e44eb2249e2dea5d04cd086cfbcb6c4e9713b1194aa26cb56bec2ae0339e9b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I övrigt har Domstolsverket inga synpunkter på förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.1.8",
+      "sentiment": -0.2,
+      "quote": "Eftersom den så kallade riktåldern för pension teoretiskt sett både kan höjas och sänkas och även ändras under pågående anställning är det mot bakgrund av regeringens förslag inte möjligt att låta ordinarie domare omfattas av den nya ”las-åldern”.",
+      "quote_type": "grund"
+    }
+  ]
+}

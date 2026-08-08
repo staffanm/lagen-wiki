@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/teknikforetagen": "4c124b1c48963e78d3495e7f18d70a8a10b9d40af590e7b32dc681f9a3ab0294",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Teknikföretagen välkomnar i huvudsak betänkandet och bedömer att det utgör ett gediget underlag för Sveriges kompletterande bestämmelser till EU:s dataförordning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.1.1",
+      "sentiment": 1.0,
+      "quote": "För att företag ska kunna förbereda sig inför att dataförordningen börjar tillämpas fullt ut krävs att ansvarig myndighet kommer på plats skyndsamt, med ett tydligt mandat och en tydlig ansvarsfördelning gentemot andra berörda myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6.7",
+      "sentiment": 1.0,
+      "quote": "Utredningen konstaterar – och Teknikföretagen instämmer – att företagen kommer att behöva praktiskt stöd för att förstå vilka krav som gäller och hur de ska omsättas i praktiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.2,
+      "quote": "Det finns en risk att de administrativa kostnaderna underskattas om analysen främst utgår från de formella kraven och inte fullt ut beaktar behovet av nya processer, avtal och rutiner i företagen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/lansstyrelsen-i-gavleborg-lan": "0d2450fefaaab0ddb3660019ee1dd9dcc872240735c2d4cd7627f1578d48c283",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Länsstyrelsen motsätter sig att det allmännas kostnadsansvar bör utformas så att kostnadsansvaret ska gälla den förvaltningsmyndighet som är motpart till den enskilde.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.7.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i bedömningen att en allmän förvaltningsdomstol bör ges möjlighet att besluta om ersättning för rättegångskostnader till en enskild part inom ramen för ett förvaltningsmål.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.7.3",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser även att risken för att myndigheterna väger in ekonomiska risker i sitt beslutsfattande inte är obetydlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4.4",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen anser att det inte tydligt framgår vilken grund som finns för de antaganden som lagts till grund för beräkningarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5",
+      "sentiment": -1.0,
+      "quote": "Till skillnad från andra parter, agerar myndigheten inte i eget intresse utan i det allmännas intresse, varför det även är rimligt att det allmänna bär kostnaden för detta.",
+      "quote_type": "grund"
+    }
+  ]
+}

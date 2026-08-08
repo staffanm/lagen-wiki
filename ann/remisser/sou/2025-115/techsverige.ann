@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/techsverige": "13cede1bfcc5c64141fd931f93cad30b7e497ce20f4d360e328d8d2d07cf19e1",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förslagen i betänkandet om stöd till företag i samband med genomförandet av CRA är i grunden positiv.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11",
+      "sentiment": 1.0,
+      "quote": "för att inte röja eller utnyttja information om affärseller driftförhållanden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec53",
+      "sentiment": 0.5,
+      "quote": "som ett verktyg för att främja innovation och samtidigt säkerställa regelefterlevnad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.2,
+      "quote": "för att undvika parallella granskningar av samma förhållanden eller incidenter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.2,
+      "quote": "TechSverige ser en risk att stödåtgärdernas betydelse överskattas i förhållande till de faktiska utmaningar som små och medelstora företag står inför.",
+      "quote_type": "grund"
+    }
+  ]
+}

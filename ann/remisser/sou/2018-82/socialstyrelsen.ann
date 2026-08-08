@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/socialstyrelsen": "50a9c4309c6a0350b03effc7bee496c638bc9442541ccbd5efd579e3b06fcee5",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Socialstyrelsen instämmer med intentionen i de föreslagna kompletteringarna i betänkandet SOU 2018:82, men anser att vissa uppstramningar behöver göras i skrivningarna i 2 kap. 6§, 2a kap. 2§ samt 4b kap. 2§.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec177",
+      "sentiment": -0.5,
+      "quote": "Förslaget skulle medföra att en statlig myndighet vid samverkan eller samarbete, som faller utanför kravet på säkerhetsskyddsavtal, inte har ett direkt incitament att identifiera om det finns säkerhetsklassificerade uppgifter eller säkerhetskänslig information i övrigt som kommer att överföras till den andra myndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.4",
+      "sentiment": -0.2,
+      "quote": "Begreppet indikerar att det finns ett avsevärt mått av utrymme för fri egen bedömning av vad som är möjligt att överlämna, det vill säga ett utrymme utöver lagregleringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.10",
+      "sentiment": -0.5,
+      "quote": "Mot bakgrund av att det kan bli fråga om avsevärda belopp i avgift och att det utifrån de i förslaget angivna rekvisiten blir fråga om komplicerade bedömningar, anser Socialstyrelsen att det vore ett rättssäkrare alternativ att tillsynsmyndigheten får möjlighet att väcka talan i förvaltningsrätten om uttagande av sanktionsavgift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": -0.5,
+      "quote": "Säkerhetspolisen har dessutom god kännedom om myndighetens säkerhetsskyddsarbete, vilket kan effektivisera tillsynen.",
+      "quote_type": "grund"
+    }
+  ]
+}

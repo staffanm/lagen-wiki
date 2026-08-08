@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/internetstiftelsen": "38fdeb89d88db5245128a0c5082bdb0385f992972df8bf861d86c19b13c2fcf4",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Internetstiftelsen instämmer i bedömningen att domännamn ska kunna tas i beslag, att en utvidgad beslagsregel kan avse alla typer av egendom samt att beslaget inte bör innebära en nedstängning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2",
+      "sentiment": 1.0,
+      "quote": "Internetstiftelsen instämmer i detta förslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec253",
+      "sentiment": 0.2,
+      "quote": "Det är vår bedömning att ett krav på att domännamnet ska deaktiveras eller pekas om kan komma i konflikt med tryck- och yttrandefriheten och följaktligen inte är en lämplig följd av ett beslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

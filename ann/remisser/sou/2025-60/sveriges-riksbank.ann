@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:60/sveriges-riksbank": "3f45ac159881a7a86f55c4ed3c224d8535b28613ef1101797fdd1340505ca772",
+      "artifact:forarbete/sou/2025-60": "ba08a5cf25200bcc4b5e48a4ae829bfa92fdb7a8a18e1f7113bf8aa0612a2eee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I detta remissvar redovisar Riksbanken sina synpunkter och förslag på tre områden som banken bedömer vara av särskild betydelse för den finansiella stabiliteten",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": -0.5,
+      "quote": "Riksbanken finner det olämpligt att bolånefonder kan vara öppna, då öppna fonder kan medföra betydande likviditetsrisker genom att uttag beviljas under fondens livstid, trots att bolån som fonden investerat i generellt är mycket illikvida.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.9",
+      "sentiment": -0.5,
+      "quote": "Riksbanken är kritisk till att bolånefonder ska få använda finansiell hävstång, eftersom detta förstärker likviditetsriskerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": 1.0,
+      "quote": "Riksbanken stöder därför att utredningen ger förslag i syfte att förbättra matchningen mellan inlösenprofil och likviditetsprofil i fonder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec303",
+      "sentiment": -1.0,
+      "quote": "Givet att detta verktyg bedöms vara mycket effektivt för att minska finansiella stabilitetsrisker, anser Riksbanken att den längsta tillåtna uppsägningstiden bör vara längre, åtminstone för företagsobligationsfonder, vars marknad bedöms vara väsentligt mindre likvid än många andra värdepappersmarknader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Det kommer att minska fondernas likviditetsrisker och därmed förstärka det finansiella systemets stabilitet.",
+      "quote_type": "grund"
+    }
+  ]
+}

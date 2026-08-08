@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/svenskt-naringsliv": "d9779e22535250eaada82cc3280d41b40e87541d00fb13caba873069d9527b1f",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenskt Näringsliv tillstyrker den helt övervägande delen av utredningens förslag utifrån förutsättningen att förslagen i det första delbetänkande huvudsakligen genomförs enligt de förslag som redovisades i det betänkandet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.7.3",
+      "sentiment": 0.2,
+      "quote": "I mål enligt miljöbalken, med en officialprövning, är det inte sällan otydligt i vilken utsträckning den som överklagat har fått framgång, t.ex. om ytterligare villkor föreskrivs eller ett belopp delvis jämkas, och det framstår med hänsyn till avgiftens storlek som en onödig administrativ börda för domstolen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec291",
+      "sentiment": -0.5,
+      "quote": "Preklusion är viktigt för sökandens förutsebarhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:121/svensk-forsakring": "bf9f50c8d7f6492fe88a26c89405ed8acb063aba9a67dc25bbac2dc689510f55",
+      "artifact:forarbete/sou/2025-121": "ea5ef53bafffc374cd9c6ed48c2efc9bb84857af58aacd3e714712108c789c6b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Fbrsakringsbranschen ser risker for att fbrslaget i praktiken kan komma att anvandas i stbrre utstrackning an som avsetts och att kostnaderna i sa fall kan komma att bli stbrre an som fbrutsetts.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.6.9",
+      "sentiment": 0.2,
+      "quote": "En sadan ratt bdr emellertid utformas pa ett lampligt satt for att uppratthalla den grundlaggande principen om att det ar makarna sjalva som ska lamna dessa uppgifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec220",
+      "sentiment": -0.5,
+      "quote": "Svensk Fbrsakring anser att endast livfbrsakring eller tjanstepensionsfdrsakring med fdrmdgenhetsvarde bbr omfattas av uppgiftsskyldigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6.13",
+      "sentiment": 0.5,
+      "quote": "Ett sadant kostnadsansvar kan bidra till att uppgifterna lamnas frivilligt.",
+      "quote_type": "grund"
+    }
+  ]
+}

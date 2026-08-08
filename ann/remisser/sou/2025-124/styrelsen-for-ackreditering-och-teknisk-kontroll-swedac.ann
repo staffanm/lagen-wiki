@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:124/styrelsen-for-ackreditering-och-teknisk-kontroll-swedac": "630b9723d7809e8393231828517a164207ba172d0268798a203d068e474f9078",
+      "artifact:forarbete/sou/2025-124": "b54e2b2f029309b048608c1f357964bc90dd4cea710603ea2e5c6d8e0fc7c64d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Swedac konstaterar att betänkandet i begränsad utsträckning behandlar hur sådan granskning och kontroll bör utformas eller hur tillförlitlighet, kompetens och oberoende hos de aktörer som utför den kan säkerställas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": -0.5,
+      "quote": "Avsaknaden av sådan tydlighet innebär en risk för näringsidkare, som antingen kan komma att anlita en aktör som i efterhand inte anses uppfylla kraven eller att överuppfylla kraven genom att anlita mer omfattande och kostsamma tjänster än vad som är nödvändigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec97",
+      "sentiment": -0.2,
+      "quote": "Swedac konstaterar att betänkandet inte närmare analyserar hur dessa kriterier relaterar till den europeiska kvalitetsinfrastrukturen, där harmoniserade standarder och ackreditering enligt förordning (EG) nr 765/2008 används för att säkerställa kompetens och oberoende hos organ som utför certifiering och annan tredjepartsbedömning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 0.2,
+      "quote": "Om metodiken för reparerbarhetsindex fastställs på unionsnivå kan oberoende tredjepartsverifiering bidra till att säkerställa en mer enhetlig och tillförlitlig tillämpning samt öka jämförbarheten i den information som lämnas till konsumenter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": -0.5,
+      "quote": "Mot bakgrund av att sådana åtgärder kan få betydelse för näringsidkares synlighet och konkurrensförutsättningar kan det finnas skäl att tydligare klargöra ansvar, befogenheter och rättsliga förutsättningar för den myndighet som får i uppdrag att vara kontaktpunkt.",
+      "quote_type": "grund"
+    }
+  ]
+}

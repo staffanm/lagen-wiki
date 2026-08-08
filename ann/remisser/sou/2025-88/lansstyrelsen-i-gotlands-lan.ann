@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/lansstyrelsen-i-gotlands-lan": "c4c96abd8d30c99a8b937c7c351ae08dfa3821ea3899621f7a576ba1549185cf",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen tillstyrker därför i huvudsak förslaget om tidigt besked och håller med utredningen i att det skulle minska osäkerheten i planerings- och tillståndsprocesser när det gäller vissa verksamheter (som vindelproduktion, särskilt till havs).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec14",
+      "sentiment": 0.8,
+      "quote": "Länsstyrelsen delar uppfattningen att det i vissa fall finns ett tydligt behov av tidigt besked om avvägningen mellan olika riksintressen vid tillståndsprövning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec12",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen finner att en samlad prövning enligt miljöbalkens nuvarande regelverk i normalfallet tjänar sitt syfte väl.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.3",
+      "sentiment": 0.8,
+      "quote": "Länsstyrelsen finner dock enligt erfarenheter att detta i huvudsak avser avvägningar mellan riksintresse för totalförsvaret enligt 3 kap. 9 § miljöbalken och olika andra riksintressen, där besked om avvägningen i sent skede i tillståndsprövningen kan innebära onödigt nyttjande av resurser för såväl verksamhetsutövare som myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.5",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen finner det otydligt vilken avgränsning miljökonsekvensbeskrivningen i detta fall ska ha, och vilka frågor som regeringen då gör en slutlig och samlad bedömning för.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6.3",
+      "sentiment": -0.5,
+      "quote": "Ändringen kan få stora konsekvenser för riksintressenas genomslag vid tillämpningen av PBL.",
+      "quote_type": "grund"
+    }
+  ]
+}

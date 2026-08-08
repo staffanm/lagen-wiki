@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/lansstyrelsen-i-vasternorrland": "cbc1e6d9a3f86e89741a2d1f162b0e39703b0897ee3990916828d90ae15ea381",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Länsstyrelsen ifrågasätter utredningens förslag att begränsa möjligheten för andra att anlita Polismyndigheten för stämningsmannadelgivning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": 0.5,
+      "quote": "Om länsstyrelsen tar över uppgiften är det viktigt att länsstyrelsen får tillräckliga resurser för att genomföra ett sådant arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen Västernorrland ser inte länsstyrelsen som den mest lämpliga myndigheten att hantera felparkeringsavgifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.2",
+      "sentiment": -0.5,
+      "quote": "Det finns en överhängande risk att bedömningen blir felaktig i brist på tillgång till Polismyndighetens uppgifter och kunskaper.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:89/lansstyrelsen-i-gavleborgs-lan": "c656d6898f26becc2d1cdbc5d3da5fca6580a0b8dc36acdef7c026cd310015cb",
+      "artifact:forarbete/sou/2025-89": "afe1fb1af513037b8ebe2623eb4a101b40c95abf5ec06765e928348800d59876"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen Gävleborg välkomnar förslaget om moderniserad fiskelagstiftning och ställer oss bakom förslaget med några synpunkter på vissa delar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.3.2",
+      "sentiment": 1.0,
+      "quote": "De föreslagna bemyndigandena att meddela föreskrifter för fiskevården är av kritisk vikt för att skydda akvatiska bestånd mot sjukdomar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.3.10",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen delar utredningens bedömning att det finns ett behov av att tydliggöra länens tillsynsuppdrag, då ett sådant förtydligande saknas i den nuvarande fiskelagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.3.10",
+      "sentiment": -0.2,
+      "quote": "Att bygga upp den typen av tillsynsverksamhet skulle kräva stora investeringar i utrustning och utbildning, samt extra personal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.3.10",
+      "sentiment": -0.5,
+      "quote": "Bland annat så tappar vi den tillsyn som idag bedrivs på ett kostnadseffektivt sätt längs våra kuster av fisketillsynspersoner på uppdrag av länsstyrelsen.",
+      "quote_type": "grund"
+    }
+  ]
+}

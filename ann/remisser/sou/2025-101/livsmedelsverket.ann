@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/livsmedelsverket": "a9328a205fe7393b898c666e19265a2ad9d87ff7d8d0a72ef21ee32ca7c459bc",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Livsmedelsverket ställer sig bakom SOU:ns bedömning att myndigheten inte ska vara marknadskontrollmyndighet enligt AI-förordningen vilket innebär att Livsmedelsverket istället kommer ha en rådgivande och sakkunnig roll, främst inom högriskområdet dricksvatten.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec254",
+      "sentiment": 1.0,
+      "quote": "utredningen bedömer uttryckligen att det är mindre lämpligt att involvera myndigheten i marknadskontrollsystemet för AI.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec154",
+      "sentiment": -0.2,
+      "quote": "AI-förordningen klassificerar dricksvattenförsörjning som högrisk, men omfattar inte avloppsvattenrening.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec436",
+      "sentiment": -0.2,
+      "quote": "är det avgörande att gränssnitten mellan dessa nationella funktioner blir tydliga för att undvika parallella tillsynsstrukturer i den nationella hanteringen av kritisk infrastruktur.",
+      "quote_type": "grund"
+    }
+  ]
+}

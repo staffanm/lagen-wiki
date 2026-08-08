@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:39/integritetsskyddsmyndigheten": "4c2b5cb7d6d29d04187c80c9a55b83814f18390ac02d1314867b8098aa29c591",
+      "artifact:forarbete/sou/2025-39": "030cdbea8ee7c44b3c9a0f433cdd7f751b76efebf39c03c1cc1625da3d87b584"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Integritetsskyddsmyndigheten (IMY) tillstyrker förslagen med följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec215",
+      "sentiment": -0.2,
+      "quote": "I betänkandet förs inget resonemang kring hur föreslagna bestämmelser som tillåter användning av digital teknik, däribland kamerabevakning, förhåller sig till bestämmelserna i KBL.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec230",
+      "sentiment": 1.0,
+      "quote": "Även uppföljning och dokumentation är, precis som utredningen lyfter fram, av central betydelse för att tillse att insatser som ges med digital teknik är av god kvalitet.",
+      "quote_type": "grund"
+    }
+  ]
+}

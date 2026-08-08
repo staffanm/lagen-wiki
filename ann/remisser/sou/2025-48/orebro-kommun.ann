@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/orebro-kommun": "194c912cfd47474d757cb49c0378e412a5cf615cadddc673990615f6398629e0",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Örebro kommun anser att det är en gedigen och väl genomarbetad utredning som drar viktiga lärdomar utifrån erfarenheterna från den senaste pandemin, men samtidigt undviker att styras alltför mycket av just den typen av virus och dess utveckling.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Att ha en handlingsprincip på plats, som utredningen föreslår, bidrar till att samhället kan reagera snabbare och mer effektivt vid kriser vilket minskar de negativa konsekvenserna och skyddar befolkningen bättre.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.8.4",
+      "sentiment": -0.2,
+      "quote": "Det är därmed avgörande att tydligt klargöra regionens respektive kommunens ansvar vid hantering av en pandemi – särskilt när det gäller lagerhållning av skyddsmaterial, läkemedel och vaccinationer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec314",
+      "sentiment": 0.2,
+      "quote": "Det är också avgörande att kommunikationen är tydlig och tillgänglig för alla.",
+      "quote_type": "grund"
+    }
+  ]
+}

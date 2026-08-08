@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/riksgalden": "98c23d50c2e32662391e9010a97ed0f519151b9f36b73066417a0011263d5fa5",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Riksgälden värnar om Sveriges säkerhet och välkomnar åtgärder som bidrar till ett stärkt säkerhetsskydd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec11",
+      "sentiment": 1.0,
+      "quote": "Riksgälden ställer sig positiv till utredningens förslag om vissa förebyggande åtgärder i samband med utkontraktering och överlåtelse.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec5",
+      "sentiment": 0.5,
+      "quote": "Riksgälden noterar dock att utredningens förslag överlag inte är tillämpliga på Riksbanken och andra myndigheter under riksdagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec407",
+      "sentiment": 1.0,
+      "quote": "Riksgälden tillstyrker detta förslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec409",
+      "sentiment": 1.0,
+      "quote": "Det innebär att ansvaret för tillsyn över verksamhetsutövare inom området finansiella tjänster därmed skulle flyttas från länsstyrelserna till Finansinspektionen, vilket är välkommet och ger en mer koncentrerad tillsyn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.7",
+      "sentiment": -0.2,
+      "quote": "De föreslagna tillsynsmyndigheterna har i nuläget inte specialistkompetens på säkerhetsskyddsområdet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": 1.0,
+      "quote": "Riksgälden tillstyrker förslaget om att införa sanktioner.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec37",
+      "sentiment": -0.2,
+      "quote": "Riksgälden ser att det bör prövas om beloppen är ändamålsenliga sett till den omsättning som finns i finansiell sektor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.5",
+      "sentiment": 0.0,
+      "quote": "Den nya lagstiftningen innebär dock ett flertal förändringar vilket medför att verksamhetsutövare lång tid framöver kommer att ha ett stort behov av stöd, såväl av utbildning och vägledning som rådgivning, för att kunna bedöma behovet av säkerhetsskydd.",
+      "quote_type": "grund"
+    }
+  ]
+}

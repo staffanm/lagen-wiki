@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:61/sveriges-ambassad-i-bogota": "6c329128a4788781ac39700f724284b127287bc027fc865b0226fc1602401981",
+      "artifact:forarbete/sou/2025-61": "c8d09bc4b2ee92f1bde3bdb0285bc5766bdfef45db2fb06aa2b9f212091e91e2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sveriges ambassad i Bogotá (hädanefter refererat till som ambassaden) välkomnar utredningen SOU 2025:61 och lämnar härmed följande synpunkter, med särskilt fokus på adoptionsförmedling från Colombia.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.12",
+      "sentiment": 0.5,
+      "quote": "Ett ekonomiskt bidrag för resor till ursprungslandet bör kombineras med praktisk hjälp och kontaktstöd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": 0.5,
+      "quote": "Sveriges nationella resurscentrum för adopterade kan samverka med dessa aktörer för att främja trygg och etisk ursprungssökning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.10.2",
+      "sentiment": -0.2,
+      "quote": "Detta för att säkerställa en rättssäker hantering av pågående ärenden och tydliga övergångsregler.",
+      "quote_type": "grund"
+    }
+  ]
+}

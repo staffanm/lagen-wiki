@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/lansstyrelsen-stockholms-lan": "33921f46cf36df9ac2127958f64174d313cc6b5f5a326d2b5e92e483835d09ae",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen tillstyrker förslagen i utredningen och lämnar vissa synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 0.8,
+      "quote": "Länsstyrelsen instämmer i utredningens bedömning att det inte bör införas särskild rätt till ersättning vid ingripanden i pågående förfaranden.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.2,
+      "quote": "bestämmelsen kan bli svårtillämpad, eftersom det lämnas stort utrymme till rättstillämpningen att avgöra när det finns förutsättningar för att meddela sådana förelägganden samt vad de ska bestå i.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen ser en risk med att verksamhetsutövarna sätter en alltför hög tillförlitlighet på registerkontrollen och att det i förlängningen kan leda till försämringar i andra delar av säkerhetsprövningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": -0.2,
+      "quote": "Det är inte tydligt vad en sådan anmälan ska innehålla samtidigt som den verksamhetsutövare som underlåter att göra en sådan anmälan riskerar att få en sanktionsavgift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser att förslaget om en särskild anmälningsplikt kommer att leda till en ökad arbetsbelastning för tillsynsmyndigheterna.",
+      "quote_type": "grund"
+    }
+  ]
+}

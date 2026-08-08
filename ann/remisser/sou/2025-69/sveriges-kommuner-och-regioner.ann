@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:69/sveriges-kommuner-och-regioner": "c14d46a5f9f5271b38920876dded994587e0db1bc5cb6a43bda302a549269146",
+      "artifact:forarbete/sou/2025-69": "e9fe403717ef019299c4fc8689d9fb71197ea9f2a8ad889130b543582d2661a1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sveriges Kommuner och Regioner (SKR) tillstyrker betänkandet samt förslaget om att kommunernas ansvar enligt 9 kap. 15 § miljöbalken vid misstanke om smittsam sjukdom hos sällskapsdjur som innehas av privatpersoner ska flyttas över till länsstyrelserna.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.5.3",
+      "sentiment": 1.0,
+      "quote": "SKR delar utredningens bedömning att förslaget om minskat kommunalt ansvar innebär en inskränkning som är proportionell i förhållande till ändamålen som föranleder inskränkningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.5",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av att det sker ett flertal andra utredningar där fördelningen av tillsyn mellan stat och kommun diskuteras är det centralt att förtydliga vilket som är kommunens ansvar rörande smittskydd kopplat till tillsyn enligt miljöbalken.",
+      "quote_type": "grund"
+    }
+  ]
+}

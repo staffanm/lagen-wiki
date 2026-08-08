@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/lansstyrelsen-i-vastmanlands-lan": "c96b724078ee75f075dd683ae2b0d7228695fa21c8065c151c4cee9991cc7a39",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försörjningsberedskapen är en förutsättning för att nå målet om ett starkt och motståndskraftigt samhälle.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Det är positivt att det tydligt framgår att det kommer att krävs stora insatser med utökning av resurser till bland annat flera myndigheter och till uppbyggnaden av ett kansli för byggnads- och reparationsberedskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen anser dock att det finns behov av en djupare analys av både former, samordning, roller och ansvar.",
+      "quote_type": "grund"
+    }
+  ]
+}

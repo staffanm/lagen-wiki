@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:86/svenska-kyrkan": "f93e0109068a14b5382e152eb0601140ae05a0698965e1c1e97b0b73bedd432e",
+      "artifact:forarbete/sou/2025-86": "b0dcdd24a25a2d12cb2cbd40a2be00ca8cbb7c0ad6b35674c7550080e553e1d9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Svenska kyrkan menar dock att ett för ensidigt fokus på Försvarsmaktens behov av personalförsörjning riskerar att negativt påverka det civila samhället i relation till den kompetens som behövs för att hela totalförsvaret ska kunna fungera, även i höjd beredskap.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec9",
+      "sentiment": -0.2,
+      "quote": "Svenska kyrkan vill ändå uppmärksamma att ianspråktagandet av vissa nyckelkompetenser kan ha stor påverkan på det omgivande samhällets förmåga inom totalförsvaret vid höjd beredskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec12",
+      "sentiment": -0.5,
+      "quote": "Om dessa personer vid höjd beredskap återkallas till Försvarsmakten för tjänstgöring förlorar den civila verksamheten en nyckelperson, som är samövad och välkänd i sin civila position.",
+      "quote_type": "grund"
+    }
+  ]
+}

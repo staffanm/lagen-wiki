@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/byggforetagen": "bf29c71acd8dd717b54cd00e5d4d273d765a5cb36037e2c793b982711ee0c0a3",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Arlanda flygplats är ett nationellt nav och har en avgörande betydelse för Sveriges ekonomi och konkurrenskraft.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec331",
+      "sentiment": 0.5,
+      "quote": "Hela utbildningssystemet kring järnvägsyrken behöver stärkas och det behöver tillföras mer resurser så att fler yrkeshögskolor med inriktning bl.a. signaltekniker kan startas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec330",
+      "sentiment": 0.2,
+      "quote": "Genom en integrerad planering mellan Trafikverket och Tillväxtverket kan resurser och kompetens inom bygg- och entreprenadbranschen mobiliseras effektivt vid kris, samtidigt som försörjningskedjor för material och utrustning säkras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec356",
+      "sentiment": -0.5,
+      "quote": "Anledningen är att detta kan bli ett farligt prejudikat att varje större infrastruktursatsning som har den minsta koppling till Stockholm ska innebära att alla som behöver transportera sig förbi Stockholm ska betala en avgift.",
+      "quote_type": "grund"
+    }
+  ]
+}

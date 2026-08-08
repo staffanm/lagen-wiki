@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:94/riksdagens-ombudsman": "e2e83bac26258c2b1b99009621b5c54a0aa283fd3f0ab10eeaa00c7298c06223",
+      "artifact:forarbete/sou/2025-94": "73b4a3a1ccaec8d56f8514861e9004867d6f9800536c6582d42bc6ebd8a33624"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Jag har inte något att invända i sak mot förslaget att införa en lag om säkerhetskontroll på utlandsmyndigheterna.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.7",
+      "sentiment": -0.5,
+      "quote": "Det saknas överväganden om varför en lagreglering inte bedöms nödvändig.",
+      "quote_type": "grund"
+    }
+  ]
+}

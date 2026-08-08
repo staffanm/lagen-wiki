@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:24/folkets-hus-och-parker": "d39aa97677c2880d10254663d530eb3c2bfea39a6c5817e9a786c632540efac2",
+      "artifact:forarbete/sou/2025-24": "88406afe1f6a6b8622563c5c72858e0acc520793bcf2ba1fc08caa4758f55814"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Folkets Hus och Parker tillstyrker utredningen i huvudsak med synpunkter på ett antal specifika reformförslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.2.5",
+      "sentiment": 0.5,
+      "quote": "Vi ser därför ett behov av stärkt finansiering för både biograf- och visningsstöd inom ramen för Filminstitutets stödgivning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 0.2,
+      "quote": "Folkets Hus och Parker noterar utöver detta att de horisontella målen kring jämställdhet och mångfald som var bärande i den tidigare filmutredningen inte längre finns representerade som uttalade målformuleringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": 1.0,
+      "quote": "Folkets Hus och Parker tillstyrker modellen för en ny filmfond då svensk filmproduktion över lag behöver en stärkt finansiering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4",
+      "sentiment": 0.2,
+      "quote": "Vi föreslår att samtliga momsbefriade biografer skall vara avgiftsbefriade i och med att de inte heller får någon lättnad av momssänkningen och skulle därför drabbas hårdast av en biografavgift.",
+      "quote_type": "grund"
+    }
+  ]
+}

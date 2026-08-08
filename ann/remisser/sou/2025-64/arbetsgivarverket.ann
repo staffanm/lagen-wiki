@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/arbetsgivarverket": "d91115cc26188457f1941e08d7b6f2bf3e5e5cde521064848b7b2332f74285d5",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Samtidigt identifierar vi flera risker kopplade till bland annat genomförande, tidsplanering, kompetensförsörjning och arbetsgivarpolitiska konsekvenser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec50",
+      "sentiment": 1.0,
+      "quote": "som kan bidra till ökad enhetlighet och samarbete mellan myndigheter",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.1.6",
+      "sentiment": -0.2,
+      "quote": "brister i hanteringen av en sådan övergång eller i rekrytering riskerar att leda till kompetensbrist vilket kan resultera i bristande kontroller.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a25.1.1",
+      "sentiment": -0.5,
+      "quote": "Detta riskerar att skapa otydlighet både för de medarbetare som berörs och för de företag/verksamheter som är föremål för kontroll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.6",
+      "sentiment": -0.2,
+      "quote": "För att säkerställa en rättssäker och effektiv övergång kan det därför behövas en särskild omställningsorganisation som stödjer berörda myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.1.7",
+      "sentiment": -0.5,
+      "quote": "Utan en tydligare analys riskerar förslaget om närvaro i varje län att bli svårt att genomföra i praktiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a25",
+      "sentiment": -0.5,
+      "quote": "Risken är påtaglig att planering, kompetensöverföring och arbetsmiljöfrågor inte hinner hanteras på ett hållbart sätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

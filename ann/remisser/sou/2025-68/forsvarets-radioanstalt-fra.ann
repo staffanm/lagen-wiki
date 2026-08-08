@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/forsvarets-radioanstalt-fra": "232e047e672af1a61416994fc64295ae3a1d66be1287ba5f4bba5d9f1fa35dc2",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Försvarets radioanstalt (FRA) har – från de utgångspunkter myndigheten har att beakta – följande synpunkter på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 0.5,
+      "quote": "För att kunna bidra med myndighetens perspektiv på hur den allmänna prioriteringsordningen ska utformas bör FRA anges i den föreslagna lydelsen av 9 d § i förordningen (2008:1002) med instruktion för Myndigheten för samhällsskydd och beredskap som en av de myndigheter som ska stödja MSB i detta arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.4",
+      "sentiment": -0.5,
+      "quote": "Vilka arbetsmaskiner FRA förfogar över är en skyddsvärd uppgift eftersom den kan avslöja myndighetens förmågor i olika avseenden.",
+      "quote_type": "grund"
+    }
+  ]
+}

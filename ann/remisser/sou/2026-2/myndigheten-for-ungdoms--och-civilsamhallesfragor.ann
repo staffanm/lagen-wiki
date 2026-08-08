@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/myndigheten-for-ungdoms--och-civilsamhallesfragor": "d6f72d3112a66c9d1380ad8c1ea36662c005c6d90e5b1cdd747833ee95691011",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "MUCF välkomnar utredningens ambition att stärka valsystemets robusthet, likvärdighet och långsiktiga legitimitet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 0.8,
+      "quote": "Myndigheten bedömer att ett samlat offentligt ansvar kan bidra till ökad likvärdighet mellan olika delar av landet samt stärka väljarnas förtroende för att valsedlar finns tillgängliga på ett rättssäkert och förutsägbart sätt i samtliga vallokaler.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": -0.2,
+      "quote": "Förändringar i hur valsedlar utformas och distribueras kan initialt skapa osäkerhet hos väljare, särskilt bland unga förstagångsväljare och personer med begränsade kunskaper i svenska.",
+      "quote_type": "grund"
+    }
+  ]
+}

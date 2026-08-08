@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:57/lansstyrelsen-i-dalarnas-lan": "96c84a74e466c62ed06bb81d2fdd72c304933c1a992fec118a66575bbaefaf4a",
+      "artifact:forarbete/sou/2025-57": "8cf9bb514d6bbb185bf9bc093699cb8e4192e8a8f7352a55e97006d808786230"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Dalarnas län (Länsstyrelsen) tillstyrker i allt väsentligt utredningens förslag till lagändringar inom polisiär beredskap i fred, kris och krig. men ger vissa medskick till utredningen",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.13",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i utredningens bedömning att fördelarna med civil status och fortsatt uppdrag utifrån fredstida befogenheter väger tyngre än fördelar med kombattantstatus helt eller delvis för poliser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser att starka skäl talar för att inte heller dessa bör ha status som kombattanter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.10",
+      "sentiment": -0.5,
+      "quote": "Som anges i utredningen behöver den principiella skiljelinjen mellan militär och polisiär verksamhet upprätthållas även framgent, vilket krävs för att regleringen ska följa folkrätten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.10",
+      "sentiment": 0.2,
+      "quote": "Vidare bör en formulering övervägas för att i bedömningen om när stöd kan lämnas beakta att en sammanblandning mellan kombattanter och icke- kombattanter inte sker under en gråzon där en väpnad konflikt kan vara nära förestående, även om inte regeringen beslutat om att höja beredskapen.",
+      "quote_type": "grund"
+    }
+  ]
+}

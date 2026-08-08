@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:75/sveriges-ambassad-i-bangkok": "e0b35dae46e51ae3e77cf42a7b2ac4f4d8985246b644d0d121e0a48114c364b8",
+      "artifact:forarbete/sou/2025-75": "6c1747356aef8861690e0e55231a670ab88642b59dc2975b505edeeb781a1461"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Ambassaden stödjer förslaget i särskilda yttranden att lagra ansiktsbild, fingeravtryck och biometriska uppgifter för alla som genomgår en identitetskontroll inom folkbokföringsverksamheten oavsett medborgarskap.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec538",
+      "sentiment": 1.0,
+      "quote": "För att motverka identitetsmissbruk vid ansökan om svensk resehandling bör möjlighet finnas att jämföra biometri i tidigare resehandling med personen som ansöker om resehandling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec610",
+      "sentiment": 0.5,
+      "quote": "En inkorrekt anmälan skulle potentiellt kunna påverka exempelvis den andra parten i ett äktenskap eller faderskapspresumtionen för barn födda utomlands.",
+      "quote_type": "grund"
+    }
+  ]
+}

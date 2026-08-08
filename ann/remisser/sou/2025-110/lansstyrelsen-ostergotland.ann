@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/lansstyrelsen-ostergotland": "3763a143a5e0430ae62c54790c4626282b78a7aedfb1af5e1f2ba45d6407b3e6",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I övrigt stödjer Länsstyrelsen utredningens slutsatser gällande direktivets implementering.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec308",
+      "sentiment": -1.0,
+      "quote": "Det skulle bli en mycket otydlig otillgänglig lagstiftning om de sakliga kraven ska ersättas med en hänvisning till EU-direktiv.",
+      "quote_type": "grund"
+    }
+  ]
+}

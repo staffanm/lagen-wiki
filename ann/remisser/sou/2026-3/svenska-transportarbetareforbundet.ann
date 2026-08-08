@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:3/svenska-transportarbetareforbundet": "9a93c83bda697d4af767803e8ed0a03ae94a9c308fd50f129663fa4b6b2281ef",
+      "artifact:forarbete/sou/2026-3": "a57602efa93a3a568c65f2616a90564109efac9844cf6fcbd52ded0f202140f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Den föreslagna lagen följer direktivet nära, och skapar särskilt genom regleringen av den algoritmiska arbetsledningen goda förutsättningar för insyn i och skydd mot automatiserat beslutsfattande.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 1.0,
+      "quote": "Den föreslagna lagen följer direktivet nära, och skapar särskilt genom regleringen av den algoritmiska arbetsledningen goda förutsättningar för insyn i och skydd mot automatiserat beslutsfattande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec43",
+      "sentiment": -0.5,
+      "quote": "På grund av att plattformsarbetarna i regel är just arbetstagare är den föreslagna plattformslagens presumtionsregel verkningslös i den svenska kontexten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec189",
+      "sentiment": -0.5,
+      "quote": "Inte heller plattformslagens 2 kap. 2§, som reglerar den rättsliga presumtionen vid förekomsten av en intermediär, kommer påverka relationen mellan inblandade parter då den syftar till att etablera anställningsrelationer mellan plattformsarbetare och mellanhänder som redan idag föreligger.",
+      "quote_type": "grund"
+    }
+  ]
+}

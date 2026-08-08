@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:72/haninge-kommun": "e2f1669fd46a5f1e722642593dd7aba832b801e49688f5540241c9c1edac615a",
+      "artifact:forarbete/sou/2025-72": "59e44215ab2cc8c10f2c3c2408927e6a5e205b6be9de35dbe57bb8e7227b8b53"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förvaltningarna instämmer i huvudsak med utredningens förslag och bedömningar samt delar bedömningen att skäl finns att utreda resursskolans målgrupp och uppdrag i särskild ordning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2.5",
+      "sentiment": 1.0,
+      "quote": "delar bedömningen att skäl finns att utreda resursskolans målgrupp och uppdrag i särskild ordning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.2,
+      "quote": "Detta riskerar att påverka normens legitimitet och skapar en otydlighet som, framför allt initialt, kan medföra merkostnader för rättsliga prövningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.3",
+      "sentiment": -0.5,
+      "quote": "Förvaltningarna anser att detta är för lågt, då nya skolor som regel byggs med initial överkapacitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3.2",
+      "sentiment": -0.2,
+      "quote": "Förvaltningarna bedömer att förslagen medför att fler administrativa uppgifter läggs på kommunen exempelvis genom krav på utökad uppgiftsinlämning.",
+      "quote_type": "grund"
+    }
+  ]
+}

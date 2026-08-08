@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:44/asele-kommun": "65b9dfce806f7d6db46805c8db2434a527e168434054f1bba5745390ceddd95c",
+      "artifact:forarbete/sou/2025-44": "1396d82b23e71a24d75402f2a937c9a2c4f5dfc154910855338e1afa27650216"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Åsele kommun ställer sig över lag positiv till utredningens förslag att skolsystemet ska bli mera flexibelt, mindre administrativ tungt samt bättre på tidiga och effektiva insatser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 1.0,
+      "quote": "Extra anpassningar avskaffas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Nationella prov tas bort i årskurs 3 och ersätts med standardiserade tester.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.4.6",
+      "sentiment": -0.5,
+      "quote": "Risk finns för en ökad arbetsbörda för lärare/elevhälsa om inte resurser och stödstrukturer ökas/stärks parallellt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5.1",
+      "sentiment": -0.5,
+      "quote": "Stor risk för ökade kostnader för kommunerna som inte kommer att täckas av det ökade statsbidraget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.2",
+      "sentiment": -0.2,
+      "quote": "Svårigheter för små inlandskommuner att rekrytera behöriga lärare, specialpedagoger och speciallärare.",
+      "quote_type": "grund"
+    }
+  ]
+}

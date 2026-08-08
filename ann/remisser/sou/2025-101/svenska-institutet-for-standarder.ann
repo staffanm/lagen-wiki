@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/svenska-institutet-for-standarder": "935d22b6a6cd30e9138033fda29f586e990c8a6b3fdb04653c6d0a1ecef338c7",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "SIS anser att det finns tydliga fördelar med att använda den formella standardiseringen för att underlätta för svenska aktörer att förhålla sig till EU:s AI-förordning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.1",
+      "sentiment": 1.0,
+      "quote": "Deltagandet i SIS/TK 421 kan stärka marknadskontrollmyndighetens kunskap om befintliga standarder i enlighet med avsnitt 6.2.1 i betänkandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.4.4",
+      "sentiment": -0.5,
+      "quote": "För att svenska intressenter effektivt ska kunna påverka utvecklingen av standarder är det deltagande inom CEN-CENELEC JTC 21 Artificial Intelligence (den europeiska kommittén för AI-standardisering) som måste prioriteras.",
+      "quote_type": "grund"
+    }
+  ]
+}

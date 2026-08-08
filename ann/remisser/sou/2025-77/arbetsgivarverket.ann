@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:77/arbetsgivarverket": "8904b04c82c10feb9b597694ba4243b12bb3dfce4f1923c361eaa4f557aae850",
+      "artifact:forarbete/sou/2025-77": "2d5c562dd97d981752cb93f65a08d116c79a1f8908f9e6fb9bb9e7d703e82f34"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "ett mer sammanhållet och kontrollerbart system för den statliga lönegarantin kan bidra till att förebygga missbruk och arbetslivskriminalitet kopplad till systemet för lönegaranti.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec20",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av att Skatteverket föreslås få ett nytt samlat ansvar för beslut, kontroll, utbetalning och återkrav samt att nya processer och arbetssätt ska införas, finns skäl att ge berörda myndigheter ytterligare tid för planering och genomförande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.12",
+      "sentiment": -0.2,
+      "quote": "Arbetsgivarverket vill också påtala vikten av att det säkerställs att berörda myndigheter tillförs den finansiering som krävs om de föreslagna förändringarna genomförs.",
+      "quote_type": "grund"
+    }
+  ]
+}

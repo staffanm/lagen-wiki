@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:119/aklagarmyndigheten": "9a8269ca67c0a6f87523596133efc6f794161008639408a222828168c5d052e5",
+      "artifact:forarbete/sou/2025-119": "4ffe1b3a3b8b7263d217456e1fadfaf32122d48eff13747b01cb521abb874202"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Åklagarmyndigheten välkomnar förslagen om förändringen av människohandelsbestämmelsen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": 1.0,
+      "quote": "Åklagarmyndigheten välkomnar förslagen om förändringen av människohandelsbestämmelsen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.9",
+      "sentiment": 0.2,
+      "quote": "mot bakgrund av de nuvarande bevissvårigheterna som människohandelsbrottet är förknippad med – bl.a. eftersom straffansvaret för detta brott inte omfattar alla uppsåtsformer – delar Åklagarmyndigheten bedömningen att utrymmet för lagföring för det nya brottet är begränsat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8.6",
+      "sentiment": 1.0,
+      "quote": "Åklagarmyndigheten välkomnar därför medskicket om att utan vidare utredning gå vidare i frågan om att låta det straffrättsliga ansvaret för människohandel omfatta alla uppsåtsformer.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

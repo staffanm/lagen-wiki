@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:53/socialstyrelsen": "eccab246970a686beaf2eaec9939435ba24230b76eccd01f9216d7c9fa5d2889",
+      "artifact:forarbete/sou/2025-53": "1b5d2ced0349cbd7f9e81a7f1c3e41751352e4c3e89c351a85f75a5c2819aa25"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Socialstyrelsen avstyrker kommitténs förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": -1.0,
+      "quote": "Förslaget innebär således att det kan komma att bo personer i Sverige som är i behov av någon form av ekonomiskt stöd för sin försörjning under en längre eller kortare tid och som inte kommer att ha rätt till ekonomiskt bistånd, inte ens i akuta nödsituationer, under flera år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.3",
+      "sentiment": -0.5,
+      "quote": "Socialstyrelsen anser att förslaget innebär en stor förändring i synen på socialtjänstens arbete inom området ekonomiskt bistånd när det gäller att vara samhällets yttersta skyddsnät.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": -1.0,
+      "quote": "Myndigheten anser att förslaget inte är i linje med dessa rättigheter då förslaget innebär att vissa barn inte kommer ha rätt till ekonomiskt bistånd, inte ens i akuta nödsituationer, för att få sina grundläggande behov tillgodosedda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5.4",
+      "sentiment": -0.2,
+      "quote": "Som nämns ovan kan personer med funktionsnedsättning träffas av kvalificeringsvillkoret, vilket gör att de då kan komma att stå helt utan möjligheter till försörjning trots att de kanske inte kan arbeta.",
+      "quote_type": "grund"
+    }
+  ]
+}

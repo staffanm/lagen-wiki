@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:3/sveriges-kommuner-och-regioner-skr": "4db340fdfc5de26f91659c6d2df5c104d78830949180f8a4677a366a8ffbdf5b",
+      "artifact:forarbete/sou/2026-3": "a57602efa93a3a568c65f2616a90564109efac9844cf6fcbd52ded0f202140f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "SKR anser att utredningens förslag i stort följer bestämmelserna i plattformsdirektivet och de utgångspunkter som anges i kommittédirektiven.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 1.0,
+      "quote": "SKR ser det som positivt att regeln ligger nära det nationella svenska arbetstagarbegreppet som annars gäller.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.3",
+      "sentiment": -1.0,
+      "quote": "Fem år är en alltför för lång preskriptionstid som avviker mycket från vad som annars gäller inom arbetsrätten, även vad gäller många regler som genomför andra EU-direktiv i svensk rätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

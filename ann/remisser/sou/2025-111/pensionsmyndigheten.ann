@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/pensionsmyndigheten": "aa5897c8b3fd3fbbafc8fed00ad12a80bc4af043225e9ee1d7bc39e85ab11ea8",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Myndigheten bedömer att förslaget lämnar ett för stort utrymme för olika bedömningar och utfall som riskerar att bli skönsmässiga och oförutsebara.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.7.1",
+      "sentiment": 1.0,
+      "quote": "Pensionsmyndigheten instämmer i bedömningen att en allmän förvaltningsdomstol bör få besluta om ersättning för rättegångskostnader till en enskild part inom ramen för ett förvaltningsmål, för att säkerställa rätten till en rättvis rättegång.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.7.3",
+      "sentiment": -0.5,
+      "quote": "Myndigheten bedömer att förslaget lämnar ett för stort utrymme för olika bedömningar och utfall som riskerar att bli skönsmässiga och oförutsebara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5",
+      "sentiment": -0.5,
+      "quote": "Myndigheten bedömer att förslaget lämnar ett för stort utrymme för olika bedömningar och utfall som riskerar att bli skönsmässiga och oförutsebara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4.4",
+      "sentiment": 0.0,
+      "quote": "Konsekvenserna av förslaget är svåröverskådliga varför Pensionsmyndigheten varken kan instämma i eller motsätta sig utredningens bedömning.",
+      "quote_type": "grund"
+    }
+  ]
+}

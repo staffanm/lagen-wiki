@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/ostersunds-kommun": "96f1e8552ec398596e230c7ba221b8bbbbc9253518f594c636d19d79a034fceb",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Östersunds kommun ställer sig i huvudsak bakom utredningens förslag och anser att reformerna som föreslås gynnar valnämndernas samt röstmottagarnas administration.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.5.3",
+      "sentiment": 0.5,
+      "quote": "Sammantaget anser Östersunds kommun att fördelar med en gemensam valsedel överväger nackdelarna som lyfts i utredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.2",
+      "sentiment": 0.5,
+      "quote": "en gemensam valsedel i kombination med föreslagna reformer såsom central distribution av valsedlar skulle ha större effekt på antal valsedlar, ytterligare minska köbildning och öka tillgängligheten och leda till ett robustare system.",
+      "quote_type": "grund"
+    }
+  ]
+}

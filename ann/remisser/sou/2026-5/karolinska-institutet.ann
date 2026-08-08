@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:5/karolinska-institutet": "1ebc16413cbaef54f00bf792645c1b7cf5cd0a70c762b703f05209fb44181feb",
+      "artifact:forarbete/sou/2026-5": "9e1ea5aa3fe50cff71008ec52dae7d2b08d3209b607e39592fba96ecf231d298"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Karolinska Institutet välkomnar i grunden utredningens ambition att modernisera regelverket för avdragsrätt vid sponsring för att skapa en bättre anpassning till dagens samhälls- och näringslivsstruktur.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec72",
+      "sentiment": -0.5,
+      "quote": "det är olyckligt att förslaget enbart riktar sig till sponsorns avdragsrätt och inte beaktar mottagarens associationsform, detta blir extra tydligt när det gäller sponsring till universiteten från företag inom exempelvis Life Science.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.2,
+      "quote": "Trots den nya regeln så ser vi fortsatt en stor risk att avdrag inte medges för utgifter som skulle kunna ersättas av statlig grundfinansiering och som bedömare i kommande ärenden anser vara universitetens kärnverksamhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

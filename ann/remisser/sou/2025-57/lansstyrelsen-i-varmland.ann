@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:57/lansstyrelsen-i-varmland": "7237b3a3f70efa77f8d75ec26277f9d388145d9836c0c45a3ff1fe9dc555da2c",
+      "artifact:forarbete/sou/2025-57": "8cf9bb514d6bbb185bf9bc093699cb8e4192e8a8f7352a55e97006d808786230"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I övrigt instämmer Länsstyrelsen i att det är rimligt att ändra på ansvarsförhållandena för gränsövervakning vid höjd beredskap.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.13",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen ser fördelar med att polismän betraktas som civila vid samverkan i höjd beredskap, framför allt om det blir aktuellt med samgruppering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.10.4",
+      "sentiment": -0.2,
+      "quote": "För att undvika feltolkning om vilken på nivå som samverkan sker bör det vara tydligt vilken nivå som avses.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2",
+      "sentiment": -0.2,
+      "quote": "Enligt lagtexten går det att tolka som att samverkan på regional nivå sker två gånger.",
+      "quote_type": "grund"
+    }
+  ]
+}

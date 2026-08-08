@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:71/region-halland": "bcc997dea74f0f9503478164b35a2dce12c540a6e3b6455420b246ef6420c428",
+      "artifact:forarbete/sou/2025-71": "957a0b0208845de41ee3eb7c78a854f8c82bf13e7ec07e3ebdf350fdecdb0325"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Dagens nationella läkemedelslista som endast är baserad på förskrivna produkter uppfyller i dagsläget inte behovet av en samlad helhetsbild över en patients läkemedelsbehandling.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.11.3",
+      "sentiment": -0.2,
+      "quote": "Sannolikt finns dock anledning att överväga åtkomst till viss ytterligare information även för denna personalkategori då det kan underlätta dialogen med kunden på apoteket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.2,
+      "quote": "Eftersom olika medicintekniska produkter har olika behov av dokumentation och hanteras på olika sätt i verksamheterna bör en federerad lösning ses som ett bättre alternativ än att skapa något nytt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -0.5,
+      "quote": "Detta riskerar att innebära att samma läkemedelsbehandling finns dokumenterad i flera olika system och vid en federerad delning riskerar dessa att visas upp flera gånger, i värsta fall med olika styrkor eller doseringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.7",
+      "sentiment": 1.0,
+      "quote": "Läkemedelskommittéerna har idag behov av att kunna få en heltäckande översiktsbild över hela regionens läkemedelsanvändning i sitt upptagningsområde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.5,
+      "quote": "för att listan ska bli användbar krävs att samtliga vaccinationer som ges ingår i registret, det är alltså viktigt att det blir tvingande även för privata vaccinatörer, kommun, arbetsgivare med flera.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.8",
+      "sentiment": -0.5,
+      "quote": "I nuläget är det väldigt svårförstått, både för vårdpersonal och patienter, när regelverken inte är likadana för olika informationsmängder.",
+      "quote_type": "grund"
+    }
+  ]
+}

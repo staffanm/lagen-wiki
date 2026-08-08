@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/lansstyrelsen-i-norrbottens-lan": "aa3ff654ffbfc81e68685e32a03c0befa8a7d90b183e7f99afd989243f3f35f4",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Norrbottens län, fortsättningsvis länsstyrelsen, instämmer i huvudsak till förslaget om kompletteringar till den nya säkerhetsskyddslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.4",
+      "sentiment": -0.5,
+      "quote": "Om säkerhetsskyddsavtal måste ingås vid denna form av samverkan inom offentlig sektor kommer det tillviss del att vara försvårande i det dagliga, regelbundna samarbetet samt leda till ökad en administration.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen tillstyrker detta förslag men anser att samordningsmyndigheterna även ska vara tillsynsvägledande myndigheter gentemot andra myndigheter med tillsynsansvar för att skapa en enhetlighet tillämpning vid utförande av tillsynen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": -0.5,
+      "quote": "Försörjningen av dricksvatten är av stor betydelse för Sveriges säkerhet och bör rimligen omfattas av säkerhetsskydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4",
+      "sentiment": -0.2,
+      "quote": "En tillräcklig finansiering är avgörande för att kunna bedriva en ändamålsenlig tillsyn.",
+      "quote_type": "grund"
+    }
+  ]
+}

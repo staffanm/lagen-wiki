@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:92/statens-fastighetsverk": "ba652f051cae7c3ecce860323c1f8c1b891951c036ebb077f06249ce09554cfa",
+      "artifact:forarbete/sou/2025-92": "c1db6346e92cb1aaf69fe092a6e40e7ceba88b5192c9caee2959771165f82273"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "SFV ser positivt på att kulturkanon inkluderar statliga byggnadsminnen och kulturmiljöer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.3",
+      "sentiment": 0.5,
+      "quote": "Att på detta sätt möta allmänhetens intresse och förmedla kunskap om de fastigheter SFV förvaltar ligger inom myndighetens uppdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec535",
+      "sentiment": -0.5,
+      "quote": "Ett nätverkssamarbete mellan statliga, regionala och ideella kulturarvsinstitutioner i syfte att främja kulturkanon framstår som en administrativt komplicerad konstruktion.",
+      "quote_type": "grund"
+    }
+  ]
+}

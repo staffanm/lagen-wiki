@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/forsvarsmakten": "1ada4cba27f68d2d36abb928325262a26493a9df4490c2ee3d4ad88fb8aeda52",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Försvarsmakten anser att övervägande skäl talar för att hanteringen av ärenden gällande prövning av vapentillstånd även fortsättningsvis bör handläggas av Polismyndigheten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec308",
+      "sentiment": -1.0,
+      "quote": "Anledningen är bland annat att det ur ett säkerhetsperspektiv skulle vara negativt att sprida eller dela uppgifter med sekretess om vapenhantering samt vapenregister med höga skyddsvärden, till fler myndigheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:24/stockholms-stad": "6d7a2dede5d4162545288de8cf35ba0a78bea9917953b56292d4165ed528fdd0",
+      "artifact:forarbete/sou/2025-24": "88406afe1f6a6b8622563c5c72858e0acc520793bcf2ba1fc08caa4758f55814"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Jag ställer mig positiv till de förslag som presenteras i betänkandet eftersom de på ett tydligt och konkret sätt redogör åtgärder för att stärka och utveckla den svenska filmpolitiken.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 0.2,
+      "quote": "Borttagandet av det tidigare filmpolitiska målet att utveckling och produktion av svensk film ska ske i olika delar av landet innebär dock en risk för en svagare koppling mellan de nationella stöden och stöd på den kommunala och den regionala nivån.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2",
+      "sentiment": 0.5,
+      "quote": "Detta ligger i linje med det senaste decenniets utveckling inom såväl bransch som publikbeteende.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": 0.5,
+      "quote": "Dessa åtgärder skapar rättvisare konkurrens och förutsättningar för en mer hållbar finansiering av svensk film.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.6",
+      "sentiment": -0.2,
+      "quote": "Flera av de svenska filmer som varit mest framgångsrika de senaste åren är dock skrivna på annat språk än svenska, det nya förslaget kan därmed innebära att denna typ av filmer missgynnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec169",
+      "sentiment": 1.0,
+      "quote": "Stadsledningskontoret håller med utredningen om att kulturskolan kan fylla en viktig funktion i att skapa ett livslångt intresse för film, samt en grundläggande förståelse för filmarbetets praktik, och därmed bidra till den framtida kompetensförsörjningen inom filmområdet.",
+      "quote_type": "grund"
+    }
+  ]
+}

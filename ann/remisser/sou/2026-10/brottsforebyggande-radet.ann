@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/brottsforebyggande-radet": "f066f9af926ba4f881d1bebaf0a29c3b133c2a74cd4d2b0cbd901d80cf94e473",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Brå tillstyrker utredningens förslag med undantag för det förslag som lämnas om omvänd bevisbörda vid utvidgat förverkande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8-2",
+      "sentiment": -0.5,
+      "quote": "Brå ställer sig i det fallet bakom utredningens bedömning och ser inte att det skulle öka effektiviteten för utvidgat förverkande i den utsträckning att det motiverar ett avsteg från den principiella hållning som finns om hur man ser på bevisbördor inom straffrätten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7-2",
+      "sentiment": 0.8,
+      "quote": "En tillfällig förordning framstår som en lämplig lösning fram till dess att förutsättningarna är på plats för att Brå ska kunna sammanställa och rapportera statistik om förverkande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.2,
+      "quote": "Att Kronofogdemyndigheten inte är med i Rättsväsendets digitalisering gör det också svårare för myndigheterna att få en helhetsbild av arbetet med förverkande och av tillgångsinriktad brottsbekämpning i allmänhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

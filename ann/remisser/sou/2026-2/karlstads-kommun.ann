@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/karlstads-kommun": "67d6993371465f89b30dcda98c57a36700ca91b0758f7fefe52a2fc25e54b24c",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Det föreslagna reformpaketet innebär vissa förbättringar, men också kvarstående utmaningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3.1",
+      "sentiment": 0.8,
+      "quote": "detta ger valadministrationen samlad kontroll över samtliga valsedlar",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec328",
+      "sentiment": -0.5,
+      "quote": "För kommunen innebär förändringen samtidigt en ökad arbetsbelastning och kostnad avseende hantering, sortering och transport.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.5,
+      "quote": "bedöms innebära en förenkling av valsedelsystemet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": -0.2,
+      "quote": "det inte framstår som intuitivt att väljare som förtidsröstar i en annan kommun än den egna, ska använda en blank valsedel och där ange både partinamn och kandidatnamn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.5",
+      "sentiment": -0.5,
+      "quote": "Vi kan inte se att reformpaketet innehåller åtgärder som i någon större utsträckning skulle minska dessa problem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.4",
+      "sentiment": -0.5,
+      "quote": "kvarstår problematiken med att väljaren måste förflytta sig mellan valsedelstället och valbåset efter att ha tagit sina valsedlar.",
+      "quote_type": "grund"
+    }
+  ]
+}

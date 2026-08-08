@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/lansstyrelsen-i-kronobergs-lan": "8e5f92f41fcc2cc742b749716082b9ba7c4cbf59db952b4a66dcd6ce91094c6d",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Länsstyrelsen gör bedömningen att delar av förslaget kan medföra ett generellt ökat misstroende för myndigheter",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec292",
+      "sentiment": 0.5,
+      "quote": "Det bedöms inte som rimligt att konsekvenser ska drabba den som har utsatts för våld eller annan allvarlig kränkning av sin frihet eller frid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.8",
+      "sentiment": -0.5,
+      "quote": "utlämnande av uppgifter kan påverka förtroendet för domstolarnas opartiskhet samt att det kan leda till att enskilda personer inte vågar vända sig till domstolarna för att få sin sak prövad, vilket kan riskera rättssäkerheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec250",
+      "sentiment": -0.5,
+      "quote": "Att andra omständigheter kan påverka som exempelvis att eventuellt brott kan komma att begås, att personen inte har kunnat betala skulder under en tid eller att personen uttryckt sig olämpligt skapar osäkerhet och rädsla.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec289",
+      "sentiment": 0.2,
+      "quote": "Upplevd otydlighet riskerar att leda till sämre förutsättningar för integration samt innebära risk för ryktesspridning, likt det som skett kring socialtjänstens arbete.",
+      "quote_type": "grund"
+    }
+  ]
+}

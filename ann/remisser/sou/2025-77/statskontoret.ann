@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:77/statskontoret": "16f8fda4a0bd28d98ea95d6d9e4028c726fe4354c712f1e95c5b277498448d77",
+      "artifact:forarbete/sou/2025-77": "2d5c562dd97d981752cb93f65a08d116c79a1f8908f9e6fb9bb9e7d703e82f34"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Statskontoret tillstyrker att Skatteverket får huvudansvaret för lönegarantiärendena",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": 0.8,
+      "quote": "Statskontoret instämmer i utredningens bedömningar och resonemang om att när en myndighet får huvudansvaret ökar förutsättningarna för bland annat en enhetlig handläggning och förbättrad kontroll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.8,
+      "quote": "Att de ska hjälpa arbetstagaren med att ta fram underlag till sin ansökan bör minska risken för felaktiga utbetalningar och underlätta Skatteverkets handläggning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": 0.8,
+      "quote": "Statskontoret ställer sig positivt till att lönegarantin ska omfattas av underrättelseoch uppgiftsskyldighet för vissa aktörer och myndigheter eftersom det kan behövas för att minska risken för felaktiga utbetalningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.16",
+      "sentiment": 0.5,
+      "quote": "Detta eftersom det brukar behöva krävas åtminstone några år innan det är möjligt att mäta effekterna av en reform.",
+      "quote_type": "grund"
+    }
+  ]
+}

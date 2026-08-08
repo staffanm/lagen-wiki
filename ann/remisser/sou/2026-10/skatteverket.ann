@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/skatteverket": "9f013719ba1bd2080ec766c4a4b242332f8809e75ccd485dd922efe1c44ef70f",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket tillstyrker förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 0.2,
+      "quote": "En sådan ordning minskar behovet av särskilda överenskommelser och främjar en enhetlig hantering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6.6",
+      "sentiment": -0.5,
+      "quote": "Genom att ge Asset Management Office (AMO) en strikt rådgivande funktion blir nyttan för den praktiska beslagshanteringen begränsad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": 0.2,
+      "quote": "Med anledning av den föreslagna ändringen i 23 kap 2 § rättegångsbalken som innebär en utvidgning av vad som ska utredas under en förundersökning finns det behov av att språkligt förtydliga 1 § lagen (1997:1024) om Skatteverkets brottsbekämpande verksamhet så att det klart framgår om Skatteverket ska efterforska egendom som kan förverkas inom ramen för brottsutredningar",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec1050",
+      "sentiment": 0.0,
+      "quote": "Skatteverkets kostnader i samband med införandet beräknas till cirka 1,5–2 mnkr vad gäller anpassningar av IT-system.",
+      "quote_type": "grund"
+    }
+  ]
+}

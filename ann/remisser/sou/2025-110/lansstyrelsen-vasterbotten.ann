@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/lansstyrelsen-vasterbotten": "affe6a2e185c7d48dd219baee580ebfc26d5e0f9eca4604c99eaf4fa78496cea",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Länsstyrelsen välkomnar utredningens förslag och initiativ för att göra det snabbare och enklare att bygga ut mycket snabbt bredband (gigabitnät) och möjliggöra en likvärdig digital tillgång i hela landet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13-2",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen anser snarare att väl fungerande tillståndsprocesser med tillgång till det lokala perspektivet är vad som leder till snabbare utbyggnad av gigabitnätet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": 0.8,
+      "quote": "Förslaget om PTS som en central informationspunkt är välbalanserat och det är välkommet att denna även ska samla information om nödvändiga tillstånd samt status för respektive ansökan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 0.5,
+      "quote": "Ur ett säkerhets och beredskapsperspektiv kan vi inte skapa system som bygger på stora hubbar utan i stället är det viktigt att vi kan gå samman i lokala starka digitala kluster som finns där även om de stora slås ut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": -0.5,
+      "quote": "Mot den bakgrunden är det problematiskt att frågan om gränsöverskridande tillståndsprocesser lämnas utanför utredningens uppdrag, med hänvisning till dess nationella avgränsning.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:125/kammarratten-i-goteborg": "2b7c3130390ef7fc66084d0479f3bf583247700847f25d74c279f6d48b71ec25",
+      "artifact:forarbete/sou/2025-125": "8fbe18bc2acd39c5bc37f0d668576018901c84abb912d974543ac98521ecb8c8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kammarrätten har utöver nedanstående kommentarer inga synpunkter på utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.3.3",
+      "sentiment": -0.2,
+      "quote": "Kammarrätten anser att det finns skäl att överväga om den nya bestämmelsen ska innehålla rekvisit som anger under vilka omständigheter ett beslut får ändras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec505",
+      "sentiment": -0.2,
+      "quote": "Utredningen har inte lämnat någon förklaring till denna skillnad, som innebär att ett uttryckligt skyndsamhetskrav inte ställs på de myndigheter som hanterar ärendena.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.3.3",
+      "sentiment": -0.2,
+      "quote": "Kammarrätten anser att denna bedömning till viss del kan ifrågasättas med hänsyn till de utökade möjligheterna till överklagande av beslut enligt författningarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": -0.5,
+      "quote": "Kammarrätten anser att detta gör regleringen svårare att överblicka och riskerar att motverka syftet med att göra lagstiftningen på området mer överskådlig och tydlig.",
+      "quote_type": "grund"
+    }
+  ]
+}

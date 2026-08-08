@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:69/lansstyrelsen-i-vastmanland": "dbe1c91c1503646cc44614c69a4235824fc25f0c8be8a483098b8007cc283686",
+      "artifact:forarbete/sou/2025-69": "e9fe403717ef019299c4fc8689d9fb71197ea9f2a8ad889130b543582d2661a1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen tillstyrker i stort utredningens förslag och vill lämna följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen saknar en analys av den kostnad som kan tillkomma för länsstyrelserna genom förslaget enligt 1.1 att flytta ansvaret för hantering av smitta hos sällskapsdjur från kommunerna till länsstyrelserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 0.2,
+      "quote": "För att klargöra om djur som till viss del används i tjänsten kan omfattas av lagstiftningen finns ett behov av att förtydliga definitionen av sällskapsdjur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.7",
+      "sentiment": 1.0,
+      "quote": "Det är mycket bra och underlättar om länsstyrelsen kan få direktåtkomst till de register som behövs för att planera och utföra kontrollverksamhet samt för att hantera smittsamma djursjukdomar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.9",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen ser däremot att denna bestämmelse kommer att vara av mer specifik karaktär än övriga punkter i 2 § och förordar därför att den i stället placeras i 3 § länsstyrelseinstruktionen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:108/myndigheten-for-delaktighet": "f2bb412616c44e7ff08a5e91b673558bb49c24e9e4299554d04ea61f9506376a",
+      "artifact:forarbete/sou/2025-108": "a775d95754ce5897c73c1b61b58817b4b1fcc07241129ab779d9551bc2bbbef7"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "MFD konstaterar att betänkandet saknar en samlad konsekvensanalys ur ett funktionshindersperspektiv, trots att flera av förslagen direkt eller indirekt berör personer med funktionsnedsättning som ofta har omfattande och återkommande kontakter med välfärdssystemen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3.3",
+      "sentiment": -0.5,
+      "quote": "För vissa personer med funktionsnedsättning kan dessa krav i vissa situationer innebära särskilda svårigheter, bland annat när det gäller att ta till sig information, överblicka komplexa regelverk och fullgöra uppgifts- och anmälningsskyldigheter inom givna tidsramar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.1",
+      "sentiment": -0.5,
+      "quote": "Det finns därmed en påtaglig risk att registret i huvudsak får en uppföljande och kontrollerande funktion, utan att i tillräcklig grad bidra till att barn i behov av stöd får adekvata insatser i rätt tid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.2,
+      "quote": "MFD bedömer att automatiserade system inte får ersätta möjligheten till mänsklig prövning och att det måste finnas reella möjligheter till omprövning utifrån den enskildes förutsättningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

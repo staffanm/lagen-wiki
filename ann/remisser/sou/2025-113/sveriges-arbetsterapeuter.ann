@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:113/sveriges-arbetsterapeuter": "34fdc7998bcfc562e0a79aafc004a88eaea6c2ddd7f2ec2a3275c98e39e3a329",
+      "artifact:forarbete/sou/2025-113": "8c1c0cf1be8ee429662154c8dc64f07f510f8551ac68bae66465171635e8c748"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi ser det som ett viktigt steg framåt att elevhälsans uppdrag stärks i lag, samt att det tydliggörs att fler legitimerade professioner kan ingå i elevhälsan när behov finns.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec6",
+      "sentiment": 1.0,
+      "quote": "Detta är en nödvändig modernisering för att möjliggöra en mer förebyggande och hälsofrämjande elevhälsa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec275",
+      "sentiment": -0.2,
+      "quote": "Om det är rektors bedömning av behov i det egna upptagningsområdet som avgör om ytterligare professioner knyts till elevhälsan, finns en risk för fortsatt och ökad ojämlik tillgång till elevhälsokompetens.",
+      "quote_type": "grund"
+    }
+  ]
+}

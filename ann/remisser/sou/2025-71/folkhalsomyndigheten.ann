@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:71/folkhalsomyndigheten": "45b8447ee7f139f4f9e9f4485326b6509e07f5f92ad0cdecc14f4a548cb3f6f2",
+      "artifact:forarbete/sou/2025-71": "957a0b0208845de41ee3eb7c78a854f8c82bf13e7ec07e3ebdf350fdecdb0325"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Folkhälsomyndigheten instämmer i utredningens förslag avseende att utveckla registret nationell läkemedelslista och önskar därutöver lämna följande kommentarer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.1.5",
+      "sentiment": 0.5,
+      "quote": "Tillgång till aggregerade data från den nationella läkemedelslistan för sekundäranvändning är därmed en förutsättning för att säkerställa effektiv övervakning inom området.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.3",
+      "sentiment": 0.5,
+      "quote": "Därför behöver vaccinationsuppgifter fortsättningsvis samlas in till det nationella vaccinationsregistret, även om vacciner också registreras i ett register över administrerade läkemedel.",
+      "quote_type": "grund"
+    }
+  ]
+}

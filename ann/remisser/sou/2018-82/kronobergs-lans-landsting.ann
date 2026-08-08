@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/kronobergs-lans-landsting": "0ddf526730e8627434867925529fec59ff4e8816e49f5436744be74d09b44691",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Kronoberg ställer sig positiv till merparten av betänkandets förslag och åtgärder, och anser att de är välmotiverade, ändamålsenliga samt utgör en förutsättning för upprätthållandet av Sveriges säkerhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.4.4",
+      "sentiment": -0.5,
+      "quote": "Skälen till detta är att underlätta samverkan, planering och samordning av arbetet med skyddet av säkerhetskänslig verksamhet och säkerhetsskyddsklassificerade uppgifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 0.2,
+      "quote": "Avseende föreslagen tillsynsstruktur vill Region Kronoberg också betona vikten av metodstöd för tillsynsmyndigheterna, så att bedömningar och tolkningar görs likvärdigt i riket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.8",
+      "sentiment": 0.2,
+      "quote": "Förslaget innebär att vi som organisation, i förvaltningen av våra resurser, samt i planering och utformningen av organisationen, i vissa fall kan bli beroende av tillsynsmyndighetens samsyn och godkännande.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/lansstyrelsen-i-sodermanlands-lan": "f3f37c24e34aef7bea8627c60ed4bdd739fd2a1dc278777b6c556e7865be7527",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Södermanlands län välkomnar de förslag som lämnas i utredningen och tillstyrker i stort författningsförslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 0.5,
+      "quote": "För att förslaget ska få avsedd effekt bör därför länsstyrelserna ges en tydlig uttalad roll för arbetet med att samordna regionalt prioriteringsunderlag, som sedan sammanställs nationellt av MSB och med civilområdesansvariga länsstyrelser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.8",
+      "sentiment": 0.2,
+      "quote": "För att förslagen i slutbetänkandet – däribland informationsutbytet mellan Myndigheten för samhällsskydd och beredskap och bland annat civilområdesansvariga länsstyrelser – finns det skäl att i den fortsatta beredningen av ärendet överväga sekretessbrytande bestämmelser",
+      "quote_type": "grund"
+    }
+  ]
+}

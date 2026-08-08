@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:112/lansstyrelsen-i-skane-lan": "1ca5b93453e7a254af6bc8c08567a356a16f4aa5090fb91b5ead7ffb39016f12",
+      "artifact:forarbete/sou/2025-112": "327d2d12c90657abd95e45e3d5371180d3dc968a3250c1269d1486751bc6c593"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen ser positivt på användandet av verktygen Arachne och Edes och ser att det kan ge positiv effekt i skydd av EU-medel.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Skåne län tillstyrker förslaget att införa en ny bestämmelse i offentlighets- och sekretesslagen (2009:400).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec394",
+      "sentiment": -0.2,
+      "quote": "Det kommer att innebära att ytterligare resurser behöver tillföras för både för användandet av verktygen och för kompetenshöjande insatser för samtliga användare.",
+      "quote_type": "grund"
+    }
+  ]
+}

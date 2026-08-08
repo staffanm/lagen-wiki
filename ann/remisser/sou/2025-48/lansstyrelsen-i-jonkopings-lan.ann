@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/lansstyrelsen-i-jonkopings-lan": "8884bb80a9e334b0fb1e2070fa5fe3cdb0953f09ca8dbde5797319f106784fad",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.7,
+    "quote": "Länsstyrelsen anser att författningsförslagen i utredningen är väl underbyggda och tydligt formulerade.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.1.1",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen önskar att det förtydligas hur en övergripande översyn av framtagna epidemi- och pandemiplaner ska ske.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen vill framföra att det kan vara svårt att upprätthålla lägesbilder gällande smittspridning under en pågående pandemi om det beslutas om undantag från att söka läkare och behandlande läkares skyldighet att smittspåra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.3",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen vill framföra att det kan vara svårt att upprätthålla lägesbilder gällande smittspridning under en pågående pandemi om det beslutas om undantag från att söka läkare och behandlande läkares skyldighet att smittspåra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 1.0,
+      "quote": "Erfarenheter från covid-19-pandemin visar att Länsstyrelsens tillsyn fungerade väl.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec15",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser inte att det finns utrymme att avsätta en halv årsarbetskraft till detta inom befintlig ram utan anser det viktigt att medel tillförs om beredskapen ska kunna upprätthållas.",
+      "quote_type": "grund"
+    }
+  ]
+}

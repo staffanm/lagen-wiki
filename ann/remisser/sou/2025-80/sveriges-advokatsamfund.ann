@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/sveriges-advokatsamfund": "4b8cad07831cc72b23dbbe11ee82e9dde0e2d1176169e27a19340e30046e2830",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Advokatsamfundet har i huvudsak ingenting att erinra mot utredningens förslag och välkomnar en ökad digitalisering av fastighetsregistret.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.3",
+      "sentiment": -0.2,
+      "quote": "Fastighetsbestämning kan dock ta lång tid och Advokatsamfundet bedömer att detta i vissa fall kan medföra betydande förseningar i planprocesser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.4",
+      "sentiment": -0.2,
+      "quote": "Utredningen synes inte särskilt adressera risken för försening av planprocessen till följd av behov av fastighetsbestämning.",
+      "quote_type": "grund"
+    }
+  ]
+}

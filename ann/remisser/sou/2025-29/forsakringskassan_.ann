@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:29/forsakringskassan_": "d267725435bbfc63c7a6b921080dd50db8fbe1239fa07c504983d60bb47cbff1",
+      "artifact:forarbete/sou/2025-29": "c404af687884c4e424e9b1eff3268002398d134aeb4bddadc0a1e86ff3efec7d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Försäkringskassan har inte några synpunkter på förslagen i övrigt.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.5.3",
+      "sentiment": -0.5,
+      "quote": "På vissa orter erbjuder Samhall bara arbeten inom lokalvård. Detta begränsar Försäkringskassans möjligheter att rehabilitera sjukskrivna och bidrar till att skapa det problem med att kvarvarande arbetsförmåga inte tas tillvara",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Vid anvisningsmötet får Samhall inte se eller ha tillgång till några medicinska underlag utan får muntlig information från Arbetsförmedlingen och/eller den berörda personen om hens funktionsnedsättning. Detta gör det svårt att ordna rätt anpassningar och det medför också stora utmaningar i rehabiliteringsarbetet om/när personen blir sjukskriven.",
+      "quote_type": "grund"
+    }
+  ]
+}

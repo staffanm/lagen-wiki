@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/skanska-sverige-ab": "6bcc06f528e6141efdbbd27dceb9219a4c542ea86ab88745a7acc43d2cbebdad",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sverige har ett stort behov av infrastruktur, både avseende att rusta upp befintlig infrastruktur och att bygga ny.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec152",
+      "sentiment": 1.0,
+      "quote": "Skanska Sverige ser sammantaget positivt på helheten i utredningen och tillstyrker huvudförslaget om att en portfölj med utvalda väg- och järnvägsobjekt överlämnas från Trafikverket till ett statligt ägt bolag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.2.2",
+      "sentiment": 0.2,
+      "quote": "Skanska vill understryka vikten av att gå från ord till handling och så snabbt som möjligt gå vidare med att omsätta utredningens förslag i handling, och börja testa ett OPS-upplägg i några utvalda projekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec132",
+      "sentiment": 1.0,
+      "quote": "En stor fördel med långsiktigheten och att drift och underhåll ingår, är att det skapar incitament för innovation och att hitta lösningar som håller långsiktigt och minskar underhållskostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

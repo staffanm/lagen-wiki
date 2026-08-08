@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/dhr--delaktighet-handlingskraft-rorelsefrihet": "3f4e6a6cf04aa59bca602d1d140646fcc4e06a04f8add945b03c5dadc8a20b4a",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "DHR välkomnar ambitionen att reformera valsedelsystemet men konstaterar att de föreslagna åtgärderna inte fullt ut säkerställer tillgänglighet och likvärdiga villkor.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec190",
+      "sentiment": 0.8,
+      "quote": "Förslaget att minska antalet valsedlar i vallokalerna kan bidra till att göra röstningen mer överskådlig och minska köbildning, vilket kan förbättra tillgängligheten för personer med nedsatt rörelseförmåga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 0.8,
+      "quote": "Även förslaget att låta valadministrationen ta ett samlat ansvar för distributionen av valsedlar är i grunden positivt, då det kan bidra till ökad likvärdighet mellan väljare och minska beroendet av partiernas eget arbete med att tillhandahålla valsedlar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "De föreslagna reformerna innehåller inte tillräckligt konkreta krav på hur valsedelställ, valsedlarnas placering eller vallokalernas utformning ska anpassas för att vara tillgängliga för personer med nedsatt rörelseförmåga.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:9/sveriges-advokatsamfund": "4ccee610d69201f291c85b45395ecedc5d058cc25aa629e211d34e6f4d739864",
+      "artifact:forarbete/sou/2026-9": "6e2fe757deba6487afb4900466860dd25cfab83203ab6a46a85c3d959c713359"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Enligt Advokatsamfundet finns det risk för att förslagen i betänkandet medför bristande rättssäkerhet för den enskilde.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": -1.0,
+      "quote": "Ett system med dubbla registreringsförfaranden medför en uppenbar risk för att olika myndigheter gör olika bedömningar av en persons uppehållsrätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": -0.5,
+      "quote": "Även detta förslags förenlighet med EU-rätten kan ifrågasättas, då denna arbetsmetod kan anses vara omständlig och onödig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.2",
+      "sentiment": 1.0,
+      "quote": "Förändringen syftar till att svensk rätt ska vara förenligt med EU-rätten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.2",
+      "sentiment": -0.5,
+      "quote": "Den enskilde får anses ha ett behov av att kunna planera sitt återvändande utifrån nödvändiga praktiska åtgärder.",
+      "quote_type": "grund"
+    }
+  ]
+}

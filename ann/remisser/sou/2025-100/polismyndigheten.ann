@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:100/polismyndigheten": "f7405110836f54ddcbe173028db657699495ab245de11c0acb267ccb46154c39",
+      "artifact:forarbete/sou/2025-100": "b519ed844627b2d5676019b5b0a8bf5290f7e3fd99e92af851cf8f38837e790d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Polismyndigheten är positiv till förslagen och lämnar följande medskick.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Brott mot lag (2000:171) om förbud beträffande viss avkodningsutrustning har inte kunnat utredas sedan en tid tillbaka eftersom lagstiftningen är anpassad efter en teknik och ett modus som inte längre används.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.5,
+      "quote": "Om straffgränsen höjs i enlighet med utredningens förslag, skulle det också öka förmågan att utreda brott genom möjligheten att använda hemliga tvångsmedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": 1.0,
+      "quote": "Det skulle vara ett effektivt sätt att förhindra brott.",
+      "quote_type": "grund"
+    }
+  ]
+}

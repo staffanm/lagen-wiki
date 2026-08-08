@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:103/swedish-medtech": "59c7b7d5d3d15201a258b006e266287336fae678229255ec36fce99c4f89f4ca",
+      "artifact:forarbete/sou/2025-103": "3494f54a32c4c4ce08c80df5c6f1304db463ec2825930548fa2363c4c69ec03f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.7,
+    "quote": "Swedish Medtech anser att förslaget riskerar att försvaga ett system som i dag fungerar väl och skapa obalans mellan olika aktörer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.10.2",
+      "sentiment": -1.0,
+      "quote": "Presumtionsreglernas tillämpning på tekniskt komplexa medicintekniska produkter riskerar därmed att leda till ansvar även i situationer där tillverkaren saknar faktisk möjlighet att påverka eller kontrollera skadeutfallet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11",
+      "sentiment": -0.8,
+      "quote": "För medicintekniska företag innebär detta en betydande risk, eftersom det i tvister kan begäras utlämnande av just den typ av information som företagen konkurrerar med, så som algoritmer, mjukvarukod, riskanalyser, cybersäkerhetsmodeller och tekniska konstruktioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": -0.8,
+      "quote": "En övergång från objektiva till subjektiva kriterier vid säkerhetsbedömningen skapar betydande rättslig osäkerhet och ökade risker för tillverkare.",
+      "quote_type": "grund"
+    }
+  ]
+}

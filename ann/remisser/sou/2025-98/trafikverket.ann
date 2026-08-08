@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/trafikverket": "a0bbefac7451120cc6cb5f219905c97eef0f7ad9079fa4e5a8bb418d95de2c02",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I övrigt tillstyrker Trafikverket utredningens förslag att förtydliga lagstiftningen i syfte att ge goda förutsättningar för en effektiv, enhetlig och rättssäker fastighetsbildningsverksamhet i hela landet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": -0.5,
+      "quote": "Att inte ha denna möjlighet utgör en begränsning i Trafikverkets möjlighet att agera utifrån förutsättningarna i det specifika fallet och innebär en risk för försämrad effektivitet vid genomförande av väg- och järnvägsåtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5.2",
+      "sentiment": 0.5,
+      "quote": "Denna lydelse riskerar möjligen att bli alltför hämmande på möjligheten för en kommunal lantmäterimyndighet att utföra uppdrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

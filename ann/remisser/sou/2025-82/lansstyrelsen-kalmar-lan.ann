@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/lansstyrelsen-kalmar-lan": "3963f3c67c2e55b6e7fddc628e1f929899de78c7c65aaadb444ed0043030029d",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Kalmar län tillstyrker utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.1",
+      "sentiment": 1.0,
+      "quote": "Det är viktigt att markägarbalansen och konkurrensneutraliteten bevaras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2.2",
+      "sentiment": 1.0,
+      "quote": "Vi anser att det är helt nödvändigt att inlösenskyldigheten tas bort för att lagen ska kunna tillämpas mot bakgrund av de skäl som framkommer i utredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.3.2",
+      "sentiment": 0.5,
+      "quote": "Skälen för detta är att vi anser att det är oskäligt att inte medge tillstånd till närstående, att det förbättrar förutsägbarheten i lagstiftningen och att det minskar den administrativa bördan för både myndigheter och förvärvare.",
+      "quote_type": "grund"
+    }
+  ]
+}

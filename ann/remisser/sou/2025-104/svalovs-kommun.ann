@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:104/svalovs-kommun": "9535d5dc668b5f246440eb302b0b4cf24d4150d3725b33c1bc0cfaea10228371",
+      "artifact:forarbete/sou/2025-104": "5c4d7098f16f24e4775cddf63c88574e9473027cd440f6142738b512ebf0655b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Svalövs kommun anser att delbetänkandet från Kärnkraftsprövningsutredningen (SOU 2025:104) på ett förtjänstfullt sätt stärker förutsättningarna för ny kärnkraft i Sverige.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.2,
+      "quote": "Svalövs kommun vill betona vikten av att forsknings- och utvecklingsarbetet utgår från synsättet att kärnavfall är en potentiell resurs som kan återanvändas, snarare än enbart ett avfall som ska deponeras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": 0.5,
+      "quote": "Den nationella avfallsorganisationen har en central roll i att tydliggöra vilka anläggningar som ska byggas, var de ska placeras och när i tiden detta ska ske, med målet att säkerställa kostnadseffektiva och säkra lösningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.7",
+      "sentiment": 0.2,
+      "quote": "möjligheten att slutförvara kärnavfall utomlands i praktiken är starkt begränsad av nationell lagstiftning och internationella åtaganden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.0,
+      "quote": "Svalövs kommun noterar att mellanlagring föreslås ske i anslutning till reaktoranläggningen.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

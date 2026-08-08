@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/sgu": "fe3f286babebee1c1fdf50c608c30b247e5c38d4fb261c5e4628bdfb2855221a",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "SGU anser att det är svårt att få en samlad överblick över samtliga av Miljötillståndsutredningens förslag om miljöprövningssystemet och hur förslag i olika delbetänkande samverkar, vilket gör det svårt att bedöma de samlade effekterna och om de, vat för sig eller tillsammans, leder till en effektivare miljöprövning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": -0.2,
+      "quote": "Den ökade målinströmningen till mark- och miljödomstolarna riskerar dock medföra att den positiva effekten av föreslagen ändring minskar och konsekvenserna av detta är inte tillräckligt belysta i betänkandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6.3",
+      "sentiment": -0.5,
+      "quote": "SGU bedömer att konsekvenserna av ändrade dispensgrunder i Mark- och miljööverdomstolen inte redogörs för i tillräcklig utsträckning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.3",
+      "sentiment": 0.5,
+      "quote": "En minskning av antalet överklaganden kan i sin tur leda till att tillstånd snabbare vinner laga kraft och därigenom leda till snabbare miljö- och byggprocesser.",
+      "quote_type": "grund"
+    }
+  ]
+}

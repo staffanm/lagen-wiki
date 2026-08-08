@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:61/hovratten-for-vastra-sverige": "a0a8cf22c73e956086fa2701a19ef887ec6510e4c43233c27e9b3399e3091ffc",
+      "artifact:forarbete/sou/2025-61": "c8d09bc4b2ee92f1bde3bdb0285bc5766bdfef45db2fb06aa2b9f212091e91e2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Hovrätten har, med utgångspunkt i de aspekter som de allmänna domstolarna har att beakta, inget att invända mot utredningens förslag i sak.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "Detta eftersom den föreslagna lydelsen träffar alla beslut som fattats av Myndigheten för familjerätt och föräldraskapsstöd, inkluderat beslut som fattats med stöd av andra författningar och som får överklagas enligt de reglerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a29",
+      "sentiment": 0.2,
+      "quote": "Vad gäller utformningen av bestämmelsen i 4 kap. 29 § föräldrabalken anser hovrätten att det i lagtexten bör förtydligas att det är ursprungslandet som avses.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.7",
+      "sentiment": -0.2,
+      "quote": "Om det inte anges tydligare vilka omständigheter som ska utgöra hinder mot att lämna statsbidrag ser hovrätten en risk för att tillämpningsproblem kommer att uppstå.",
+      "quote_type": "grund"
+    }
+  ]
+}

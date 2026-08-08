@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/lansstyrelsen-kronobergs-lan": "8252002a25e46f0176c01cdf5891d2503962d41ee609024502d450053bcdaa28",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen tillstyrker förslagen till stora delar men framför också några allmänna synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a20.2.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a20.2.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a20.3.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a20.3.2",
+      "sentiment": 0.5,
+      "quote": "vi tycker att släktskapsundantaget också ska omfatta syskonbarn.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:54/stockholms-kommun": "650162d093696c53ccef073c93858e9403f4b161af611fae0c6953796cd59c47",
+      "artifact:forarbete/sou/2025-54": "7aaeb3a04e899501717f3265fee63505ccf9529ba9e8e7301f283a0cd3c94fac"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Sammantaget gör stadsledningskontoret bedömningen att utredningens förslag förväntas få begränsade konsekvenser för Stockholms stad, men att det är svårt att med säkerhet bedöma omfattningen av konsekvenserna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.3.1",
+      "sentiment": -0.2,
+      "quote": "Det finns en risk att förslagen innebär en kostnadsökning för staden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.5,
+      "quote": "Däremot efterfrågar stadsledningskontoret mer utförliga resonemang gällande hur utredningens förslag förhåller sig till barns bästa och en tydligare motivering av bedömningen att utredningens förslag får begränsade konsekvenser för barn.",
+      "quote_type": "grund"
+    }
+  ]
+}

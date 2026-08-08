@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/polismyndigheten": "57307fe9a9a5ba267f5d146a35a8861b14bd8730b4ce697260e0c0e786c3ac94",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Polismyndigheten har inga invändningar mot de förslag som framförs i de delar av utredningen som berör myndighetens uppdrag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec265",
+      "sentiment": 0.5,
+      "quote": "Polismyndigheten vill dock även understryka vikten av att myndigheten får möjlighet att påverka både tillgången till och utformningen av lokaler samt andra nödvändiga utrymmen på flygplatsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec266",
+      "sentiment": 0.2,
+      "quote": "Att Polismyndigheten får vara delaktig i de fortsatta diskussionerna rörande automatisering och digitalisering av gränskontrollen är en förutsättning för att investeringarna ska kunna optimeras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec291",
+      "sentiment": -0.2,
+      "quote": "eftersom både antalet säkerhetsåtgärder och resenärer förväntas öka kommer detta medföra ytterligare behov av resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec266",
+      "sentiment": -0.5,
+      "quote": "Beräkningen som presenteras i utredningen är alltså lägre än den senaste kostnadsuppskattning som Polismyndigheten gjort i sitt budgetunderlag 2026–2028.",
+      "quote_type": "grund"
+    }
+  ]
+}

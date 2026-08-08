@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:31/sveriges-kommuner-och-regioner": "98e4d54da27147f35e10cb7009de2067a0124b1aee9e997e885f79ad41ce31a8",
+      "artifact:forarbete/sou/2025-31": "e7c4dbe9b042c6e1d10f651782855418bac084c351c484930a03ffa7ab2a06bd"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "SKR:s yttrande begränsas i huvudsak till frågor som berör konsekvenser för kommuner och regioner, vilka övergripande bedöms som negativa för våra medlemmar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11",
+      "sentiment": -0.5,
+      "quote": "SKR anser att konsekvensanalysen har brister och behöver fördjupas och kompletteras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Risken är enligt SKR uppenbar att ett större ansvar kommer att åvila den gode mannen, vilket i sig ställer högre krav på de gode männens kunskap och kompetens.",
+      "quote_type": "grund"
+    }
+  ]
+}

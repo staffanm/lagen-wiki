@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/polismyndigheten": "dbd2e57068c19d6a6639cbabaadb3d951cadcb39ac1e4fbb08aa9803f1f5f2ea",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Polismyndigheten tillstyrker förslaget om att det ska införas en ny ärendekategori i utlänningslagen, polisiära utlänningsärenden. Myndigheten är också positiv till möjligheten att använda hemliga tvångsmedel under de förutsättningar som föreslås.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.9",
+      "sentiment": 0.8,
+      "quote": "att myndigheten därmed ges möjlighet att förorda en viss utgång i ett utlänningsärende.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.11.1",
+      "sentiment": 1.0,
+      "quote": "Sådana ärenden bör hanteras skyndsamt, så som utredningen föreslår.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.16.3",
+      "sentiment": 0.8,
+      "quote": "förslaget avseende myndighetens möjligheter att använda hemliga tvångsmedel i polisiära utlänningsärenden kommer att medföra positiva effekter för myndighetens brottsbekämpande och brottsförebyggande förmåga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.11.3",
+      "sentiment": 0.0,
+      "quote": "För att förslaget med polisiära utlänningsärenden ska få verklig effekt är det avgörande att Polismyndigheten får tillgång till relevant och korrekt information avseende denna ärendekategori.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8.14",
+      "sentiment": -1.0,
+      "quote": "en sådan lösning kommer få negativa effekter på myndighetens brottsbekämpande förmåga.",
+      "quote_type": "grund"
+    }
+  ]
+}

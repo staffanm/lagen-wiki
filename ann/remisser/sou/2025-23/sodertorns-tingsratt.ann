@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:23/sodertorns-tingsratt": "f11eab31e2d45cf0419e597683bc11205917d7e3ac6e2f45002950d03734be91",
+      "artifact:forarbete/sou/2025-23": "b2d48664048a020b85b19246d070df9c345abde883c4cd3cafb969951f44570e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Tingsrätten har i huvudsak ingen erinran mot förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5.1",
+      "sentiment": -0.2,
+      "quote": "Tingsrätten ställer sig tveksam till att en skärpning av vårdnadshavarnas skadeståndsansvar kommer att få en brottspreventiv verkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.4",
+      "sentiment": -0.5,
+      "quote": "Tingsrätten bedömer att förslaget inte kommer att underlätta domstolens handläggning i någon egentlig mån.",
+      "quote_type": "grund"
+    }
+  ]
+}

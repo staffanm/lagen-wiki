@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/statens-veterinarmedicinska-anstalt": "c8818b259eb7ac6b80eef3ceefa3fd278ddfc469af9fb8f10c5d5419ced75257",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "SVA är positivt till att centralisera kontrollen av livsmedelskedjan och står bakom förslaget att fördela ansvaret mellan Jordbruksverket och Livsmedelsverket med ansvarsområden enligt utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2-2",
+      "sentiment": -0.2,
+      "quote": "Förenkling och effektivisering av kontroll genom en bredare samordning av kontroll och tillsyn tas inte upp.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "Denna funktion är otydligt beskriven i kapitlet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": 0.0,
+      "quote": "Det är av vikt att myndighetens roll och ansvar inom dessa områden stärks för en ökad helhetssyn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": -0.2,
+      "quote": "SVA noterar att Förordning EU 999/2001 och bovin spongiform encefalopati (BSE, även kallad galna-kosjukan) inte nämns i stycket om ABP vilket är förvånande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18",
+      "sentiment": 1.0,
+      "quote": "SVA stödjer resonemangen om fördelarna med centralisering av kontrollen och tror inte att flytt av sakområden behöver innebära risk för att värdefull och upparbetad kompetens går förlorad, en farhåga som lyfts i rapporten (s 503)",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.1",
+      "sentiment": 1.0,
+      "quote": "SVA stödjer förslagen till förenklat informationsutbyte mellan kontrollmyndigheterna och vill uppmärksamma utredningen på den utredning som nyligen genomförts gällande samarbete och informationsutbyte mellan myndigheter inom djurhälsoområdet, vilka till stor del är desamma som berörs av förslagen i den här utredningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

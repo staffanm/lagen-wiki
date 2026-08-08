@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/boras-kommun": "9f8d1bcec7a39d3c95f8295083e6207b2a99e480a1714e45c7cf02269a5d4110",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Borås Stad tillstyrker remissen, men gör medskick om konsekvenser för den kommunala överförmyndarverksamheten vid arvsrätt för kusiner samt behovet av förtydliganden kring minderårigas samtycke till att avstå omedelbar arvsrätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.2",
+      "sentiment": -1.0,
+      "quote": "Om arvsrätt för kusiner återinförs skulle det innebära att kretsen av dödsbodelägare utökas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.2",
+      "sentiment": 0.5,
+      "quote": "I betänkandet saknas dock författningskommentar till samtyckesregleringen i 15 kap. 6 § föräldrabalken som närmare förklarar under vilka förutsättningar samtycke bör eller kan ges.",
+      "quote_type": "grund"
+    }
+  ]
+}

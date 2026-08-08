@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:35/migrationsverket": "968e9fb158432b953336dccda5832aa661a11624be2abf8a494d800489d9808e",
+      "artifact:forarbete/sou/2025-35": "714b8500e63e7332a0838b0ab133e0525ceab22d4636b418ba3d2ac111780a44"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Migrationsverket ställer sig i huvudsak positivt till betänkandets förslag men vill framföra följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.9",
+      "sentiment": 0.2,
+      "quote": "Det bedöms att detta skulle stärka samordningen mellan myndigheterna, påskynda etableringsprocessen för nyanlända och förbättra mottagandet för kvotflyktingar i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3",
+      "sentiment": -0.2,
+      "quote": "Migrationsverket anser att det är oklart om en anvisning endast kan avbrytas genom ett beslut av Migrationsverket efter att den nyanlände angett att den inte önskar omfattas av en beslutad anvisning, eller om avbrott även kan ses som en automatisk följd av den nyanländes eget agerande, t.ex. att ordna sitt eget boende.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": -0.2,
+      "quote": "Om den nyanlände behåller rätten till etableringsboende även om anvisningen formellt avbrutits och ersatts av en annan anvisning kan kommuntalet komma att överskridas om denne i ett senare skede utnyttjar sin rätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.4",
+      "sentiment": -0.2,
+      "quote": "Det är alltså oklart hur den anvisade kommunen ska få kännedom om att den nyanlände inte gett in förlängningsansökan i tid eller åberopat en grund för uppehållstånd som inte omfattas av etableringsboendelagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": 0.2,
+      "quote": "När det gäller statlig ersättning skulle Migrationsverket hellre se att befintliga ersättningar kompletteras än att nya införs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": 0.5,
+      "quote": "För att utveckling av den nya fördelningsmodellen och den nya takmodellen ska kunna genomföras krävs att myndigheterna ges uppdrag i god tid för att den årscykel som är väl etablerad i nuvarande regelverk även ska vara ledande för samrådet inför ikraftträdandet av etableringsboendelagen.",
+      "quote_type": "grund"
+    }
+  ]
+}

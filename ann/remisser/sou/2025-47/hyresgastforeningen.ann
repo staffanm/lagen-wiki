@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:47/hyresgastforeningen": "704098f3e7d875465b63d0ad7c64f86405af58ce6a365f89af384d9225c09281",
+      "artifact:forarbete/sou/2025-47": "1998cf0776597c0c9e6ddd14550096440acb7a8c6b7dd2c25e14ff07bc80a796"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Vi kan inte tillstyrka utredningen och dess förslag då vi ser behov av att utredningen kompletteras på flera punkter för att säkerställa att omställningen av elsystemet sker på ett socialt rättvist och inkluderande sätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.2,
+      "quote": "Utan tydlig information och skyddsmekanismer finns en risk att vissa hushåll hamnar utan el eller i ogynnsamma avtal, särskilt de med låg inkomst, bristande språkkunskaper eller låg digital vana.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec466",
+      "sentiment": -0.5,
+      "quote": "Ett system med varierande nätavgifter riskerar därför att slå orättvist och skapa stora lokala skillnader i hushållens elkostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

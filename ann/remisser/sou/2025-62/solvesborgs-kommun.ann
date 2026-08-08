@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/solvesborgs-kommun": "829f11ae9fb7dc34c49342a6ebe1dc629901f6ace5332679f5ae09c14b315d13",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sölvesborgs kommun delar kommitténs inställning om att behov av ett utökat statligt ansvar för vissa delar av hälso- och sjukvården föreligger.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.4",
+      "sentiment": 1.0,
+      "quote": "Det alternativ kommittén förespråkar (ett utökat statligt ansvar för hälso- och sjukvården 3.4) ser också vi som den mest framkomliga vägen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2",
+      "sentiment": -0.5,
+      "quote": "Vi ser inga fördelar utan betydande risker vid ett delvis/ delat övertagande av ansvaret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec44",
+      "sentiment": -0.2,
+      "quote": "det kan inte vara rimligt att hänvisas till ett sjukhus tre fyra gånger längre bort endast för att samhället man är skriven i ligger i utkanten av en regiongräns, fel sida en gräns.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/kronofogdemyndigheten": "801677bda7008f5bb44fe482074f82df357c1296e21240c4875505443308a362",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Kronofogden kan inte se några bärande skäl för att lagstifta om en generell uppgiftsskyldighet till Migrationsverket när ett sådant behov saknas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.10.4",
+      "sentiment": -1.0,
+      "quote": "En generell uppgiftsskyldighet ökar snarare riskerna för omotiverade integritetsintrång för de enskilda genom överföring av uppgifter som saknar betydelse för Migrationsverkets vandelsprövningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3.3",
+      "sentiment": -0.5,
+      "quote": "Om Kronofogden ska lämna ytterligare uppgifter till Migrationsverket än vad som sker i dag krävs utveckling av en ny informationstjänst.",
+      "quote_type": "grund"
+    }
+  ]
+}

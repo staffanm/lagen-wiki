@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/sveriges-forenade-studentkarer": "e4fdb0b838272a4e1adfc471a2cdfbc7ef4c12acaf018566902fc4c86ad65f5c",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "SFS är positiva till att det införs en strategi och tydligare reglering, vilket ger en grund att utgå från vid en eventuell framtida smittspridning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec42",
+      "sentiment": 0.5,
+      "quote": "Begränsning av tillgång till eller stängning av lärosätesbibliotek får sannolikt stora konsekvenser för studenters inlärning, och därför bör en proportionalitetsbedömning göras innan åtgärder vidtas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec46",
+      "sentiment": 0.2,
+      "quote": "Begränsningar och förbud mot upplåtelser för privata sammankomster påverkar studentkårer genom att de inte har möjlighet att anordna aktiviteter för medlemmar eller att hyra ut lokaler.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec54",
+      "sentiment": -0.5,
+      "quote": "SFS föreslår istället att man döms till dagsböter istället för penningböter, vilket bland annat baseras på personens ekonomi.",
+      "quote_type": "grund"
+    }
+  ]
+}

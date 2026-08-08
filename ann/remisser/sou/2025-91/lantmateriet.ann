@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/lantmateriet": "3060159efd9209e2ff38dea6a99af0b88997c177b1ccea906d53b5f29ce728c1",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Lantmäteriet tillstyrker förslaget i sin helhet men vill i sammanhanget framföra ett antal synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec377",
+      "sentiment": 0.5,
+      "quote": "En sådan reglering torde öka möjligheterna till en korrekt angiven dödsbodelägarkrets.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Lantmäteriet välkomnar förslaget om ett testamentsregister i offentlig regi och den ökade rättssäkerhet som det innebär.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7.1",
+      "sentiment": -0.5,
+      "quote": "Det förefaller orimligt att registrera ett testamente med en sådan uppenbar brist.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec443",
+      "sentiment": -0.5,
+      "quote": "Lantmäteriet bedömer att innehåll i testamentsregistret mycket väl skulle kunna vara av stor betydelse för de brottsbekämpande myndigheterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.2,
+      "quote": "Risken finns att det kommer finnas testamentariska förordnanden om fastigheter, som testamentstagare inte kan beviljas lagfart för.",
+      "quote_type": "grund"
+    }
+  ]
+}

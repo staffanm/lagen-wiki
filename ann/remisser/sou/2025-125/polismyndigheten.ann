@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:125/polismyndigheten": "400c57df17cbecfbbd3e2abb4fb6716efbcc6084c763a0c2a5f0e26c527653ae",
+      "artifact:forarbete/sou/2025-125": "8fbe18bc2acd39c5bc37f0d668576018901c84abb912d974543ac98521ecb8c8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Polismyndigheten är i huvudsak positiv till förslagen, men lämnar synpunkter på följande förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec46",
+      "sentiment": -0.5,
+      "quote": "Enligt Polismyndighetens uppfattning kan den föreslagna lydelsen av bestämmelsen i stycke två få till följd att myndighetens eftersöksjägare och en jakträttshavare samtidigt söker efter samma trafikskadade vilt utan kännedom om varandra, vilket utgör en säkerhetsrisk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec490",
+      "sentiment": 0.2,
+      "quote": "Skälen för detta är att Polismyndigheten tar emot många samtal angående incidenter avseende kungsörn gentemot tamdjur och att det är otydligt vad som gäller i fråga om nöd vid dessa incidenter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec499",
+      "sentiment": -0.2,
+      "quote": "Tidsangivelsen för anmälan bör förkortas då eventuell kontroll från ansvarig myndighet omöjliggörs med den tidsangivelse på två veckor som nu anges.",
+      "quote_type": "grund"
+    }
+  ]
+}

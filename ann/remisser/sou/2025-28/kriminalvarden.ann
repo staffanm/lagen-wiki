@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/kriminalvarden": "71cc406660526d0142244d7e1f5f010d0052b5ec63beecbb8e9765ccc45f5993",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kriminalvården är i huvudsak positiv till utredningens förslag, men har följande synpunkt när det gäller förslaget om ändring i förordningen (2023:797) med instruktion för Kriminalvården.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.12",
+      "sentiment": -0.5,
+      "quote": "Att Kriminalvården ska arbeta mot de aktuella våldsformerna och delta i myndighetsgemensamt arbetet mot mäns våld mot kvinnor, våld i nära relationer, hedersrelaterat våld och förtryck samt utnyttjande i prostitution och människohandel framgår redan av myndighetens instruktion och andra allmänna bestämmelser i lag och förordning",
+      "quote_type": "grund"
+    }
+  ]
+}

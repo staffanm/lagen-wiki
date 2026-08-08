@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/regelradet": "33cae31a4a48bdef8a7b4addf64d4ceb8cab74d9eac0b7f78321647c4f134ddd",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Regelrådet bedömer att samtliga delaspekter är godtagbart redovisade utom särskilda hänsyn till små företag vid reglernas utformning, där redovisning saknas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.3",
+      "sentiment": 0.5,
+      "quote": "Utifrån den internationella utblick som utredningen gjort framgår att man övervägt andra möjligheter, även om utredningen inte ansett att dessa varit möjliga att genomföra med de begränsningar som finns.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.4",
+      "sentiment": 1.0,
+      "quote": "Det finns även en tydlig redovisning av förslagets kopplingar till EU-rätten samt en jämförelse med hur andra länder hanterat motsvarande problem, vilket Regelrådet ser positivt på.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.6",
+      "sentiment": 0.5,
+      "quote": "Det framgår tydligt varför förslagsställaren valt de aktuella tidpunkterna för ikraftträdande och även att det finns ett behov av speciella informationsinsatser för respektive förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.7",
+      "sentiment": 0.5,
+      "quote": "Förslagsställaren presenterar en uppskattning av antal berörda företag, hur dessa företag fördelar sig storleksmässigt och inom vilka branscher vinstmarginalbeskattning förekommer, vilket ger en tydlig bild av vilka företag som berörs eller kan komma att beröras av förslagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.7",
+      "sentiment": -0.5,
+      "quote": "Det framgår att små företag berörs av förslagen och det borde därför också funnits en redovisning av om förslagsställaren övervägt några särskilda hänsyn till små företag vid utformningen av reglerna.",
+      "quote_type": "grund"
+    }
+  ]
+}

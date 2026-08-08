@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:51/statskontoret": "64b07839b533fc11a3f397e7ec3663fad081e61839366ce307cd33613ab8187a",
+      "artifact:forarbete/sou/2025-51": "258d56514e13c4c5451bf445ef12c74926eae0c3d6b9e933fa95a5d91e5d1ad9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Statskontoret har endast tagit ställning till de förslag som vi bedömer kan hänföras till den offentliga förvaltningens funktionssätt.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec19",
+      "sentiment": 1.0,
+      "quote": "Eftersom frågan om hur risken för översvämningar ska mötas inte enbart är en kommunal angelägenhet är det viktigt att staten tydliggör var det finns ett nationellt intresse av permanent kustskydd samt gör det till ett statligt ansvar att uppföra sådana.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec23",
+      "sentiment": -1.0,
+      "quote": "Vi noterar att förslaget enligt utredaren i strikt mening är förenligt med egendomsskyddet i grundlagen men bedömer, mot bakgrund av risken för vittgående konsekvenser för enskilda och förtroendeskada för stat och kommun, att det inte är en lämplig åtgärd att vidta.",
+      "quote_type": "grund"
+    }
+  ]
+}

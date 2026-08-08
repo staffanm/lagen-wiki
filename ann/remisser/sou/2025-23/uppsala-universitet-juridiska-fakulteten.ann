@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:23/uppsala-universitet-juridiska-fakulteten": "b01ba050436d05214da08756be0a9896714df3f9cbf5234b6c1f43e6d73de3c4",
+      "artifact:forarbete/sou/2025-23": "b2d48664048a020b85b19246d070df9c345abde883c4cd3cafb969951f44570e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Juridiska fakulteten tillstyrker de flesta av utredningens förslag men avstyrker utredningens förslag till ett utökat principalansvar för föräldrar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.7.3",
+      "sentiment": 0.2,
+      "quote": "Juridiska fakulteten anser dock att det bör finnas en säkerhetsventil på så sätt att utmätningsförbudet ska gälla när det föreligger särskilt ömmande omständigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": 0.5,
+      "quote": "När angreppet istället har motiverats av en fientlig inställning till poliser i allmänhet eller till polisväsendet i stort riskerar den enskilde polisen att ändå stå utan möjlighet att erhålla ersättning enligt ersättningsförordningen för skadegörelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.1",
+      "sentiment": -1.0,
+      "quote": "Ett utökat principalansvar riskerar att leda till ekonomiska och sociala negativa konsekvenser för individer, familjer och samhället.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.4",
+      "sentiment": 1.0,
+      "quote": "Fakulteten tillstyrker därför förslagen avseende vissa processuella frågor som rör principalansvaret (avsnitt 8.5.4.).",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/trafikverket": "9dafa24d37b067bda312a7838dc41db4d34ea08e42aadc6ea1075427e216ebdf",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Trafikverket tillstyrker betänkandets samtliga förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.5,
+      "quote": "vi även framgent behöver ha möjlighet att neka öppenhet eller tillträde där skäl för detta föreligger",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.2",
+      "sentiment": 0.2,
+      "quote": "eftersom betänkandet inte tar upp vilken information som Trafikverket ska tillhandahålla, eller hur informationen ska överföras, så kan Trafikverket inte bedöma vilka konsekvenser eller eventuella kostnadsökningar som införandet L medför",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec59",
+      "sentiment": 1.0,
+      "quote": "Att det är positivt att avvikandet från bestämmelsen om Tyst godkännande införs i kompletteringslagen.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

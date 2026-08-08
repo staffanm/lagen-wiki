@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:73/myndigheten-for-arbetsmiljokunskap": "484376f29ec70ea3095f9316c5b0ca11aa4ba24929ea3d4e6988fff8d0fef543",
+      "artifact:forarbete/sou/2025-73": "c2a1fe43b6173aab9be2669ea936f7d18e791674169ec819e2d91737bd152554"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten anser att det betänkande som lagts fram är väl förankrat i forskning, ger en gedigen bakgrund och välgrundade motiveringar till de vägval som görs och som resulterar i de förslag som läggs fram i betänkandet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3.4",
+      "sentiment": -0.2,
+      "quote": "Vissa av målbilderna under respektive delmål är formulerade så att de är lätta att mäta och följa upp medan för vissa är det otydligt hur en uppföljning förväntas göras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.1",
+      "sentiment": 0.5,
+      "quote": "Myndigheten för arbetsmiljökunskap anser att ambitionen att arbeta med arbetsmiljöfrågorna genom flera departement och politikområden är god och bidrar till en större genomslagskraft och bättre resultat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.3",
+      "sentiment": 0.2,
+      "quote": "Myndigheten anser att detta bör lyftas fram tydligare i den kommande strategin genom att påtala ansvaret för att synliggöra, stödja och facilitera forskning och evidensbaserad kunskap om arbetsmiljö genom ett samordnande organ, till exempel Arbetsmiljöverket eller det föreslagna sekretariatet.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/forsvarsmakten": "2e392178cce1b78b40a883ba5add4a92698e272fafbc587b86095aaf50528c32",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försvarsmakten har inget att erinra mot förslagen i utredningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 0.8,
+      "quote": "Vidare delar Försvarsmakten bedömningen att bestämmelsernas placering i miljöbalken inte är optimal med hänsyn till att ett av hushållningsbestämmelsernas huvudsyften, vid sidan av miljöhänsyn, är att värna totalförsvarsintresset och behovet av skydd, bland annat för anläggningar för totalförsvarets militära del.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": 0.2,
+      "quote": "En utökad möjlighet till tidiga besked i enskilda ärenden kan emellertid medföra svårigheter för myndigheter inom totalförsvarets militära del då det ställer höga krav på sektorsmyndigheterna att göra omfattande bedömningar på ett i många fall knapphändigt underlag och där bedömningen kan få konsekvenser som är svåra att överblicka.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec17",
+      "sentiment": 1.0,
+      "quote": "att regeringen, innan tillståndsärendet slutligt har avgjorts, ska kunna upphäva eller ändra ett tidigare meddelat beslut om områdesbesked med hänsyn till Sveriges säkerhet – av särskilt stor betydelse för Försvarsmakten.",
+      "quote_type": "grund"
+    }
+  ]
+}

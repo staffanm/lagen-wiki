@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/region-norrbotten": "f6a5359eb7563ff1a2e1f7f42880e051e2a764cb64e82aaeff193d98bc335a02",
+      "artifact:forarbete/sou/2026-8": "e65a317898fbd79f6ed54e253d65b00ec08803cea95ba0a4e41cb2ffb6c9ae56"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Region Norrbotten ställer sig dock tveksam till delar av förslagen, eftersom dessa innebär ett utökat uppdrag för hälso- och sjukvården, särskilt barn- och ungdomspsykiatrin (BUP).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": -0.2,
+      "quote": "Detta riskerar att konkurrera med kärnuppdraget – specialiserad psykiatrisk vård – om inte tydliga gränsdragningar, prioriteringsprinciper och resursförstärkning genomförs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": -0.5,
+      "quote": "Region Norrbotten bedömer dock att utredningens uppskattning av ökade kostnader för regionen, särskilt för barn och ungdomspsykiatrin, sannolikt är underskattad.",
+      "quote_type": "grund"
+    }
+  ]
+}

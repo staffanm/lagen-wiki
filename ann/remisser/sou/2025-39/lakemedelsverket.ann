@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:39/lakemedelsverket": "2b6bf385b3925a9e050bf9e965711f2dfe2a9955699937f21ce985029d5d3865",
+      "artifact:forarbete/sou/2025-39": "030cdbea8ee7c44b3c9a0f433cdd7f751b76efebf39c03c1cc1625da3d87b584"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Betänkandet innehåller inte några lagförslag eller bedömningar som direkt berör Läkemedelsverket eller påverkar myndighetens verksamhet i någon större utsträckning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3.1",
+      "sentiment": 0.2,
+      "quote": "Det är viktigt att dessa aspekter beaktas i det fortsatta arbetet med att reglera användningen av digital välfärdsteknik på lika villkor, för att säkerställa att tillämpliga regelverk följs och att patientsäkerheten upprätthålls.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Läkemedelsverket ser positivt på att utredningen lyfter fram värdet av att integritetsförstärka användningen av välfärdsteknik inom socialtjänsten, samt att den lämnar förslag om reglering av sådan teknik vid insatser som ges till personer med nedsatt beslutsförmåga, inklusive barn.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

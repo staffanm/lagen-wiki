@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/myndigheten-for-civilt-forsvar": "60d24cae20cd40e870b3b4f7071e3dec68a6a70cc6bb0cb22d46d376792c3b0f",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Myndigheten för civilt försvar instämmer med utredningen om att fokus ska ligga på när exceptionella behov grundar sig på att ett offentligt organ ska hantera ”allmänt nödläge” samt att det civila beredskapssystemet bör utgöra grund för tillämpningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": 1.0,
+      "quote": "En sådan hantering tillför ett verktyg för redan befintlig och etablerad beredskapsstruktur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.3",
+      "sentiment": 1.0,
+      "quote": "Det finns effektiviseringspotential i samarbete och samordning mellan de offentliga organen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.4",
+      "sentiment": 0.5,
+      "quote": "Det kommer dock inte finns utrymme att utvärdera och anpassa strukturerna utifrån hur de fungerar i praktiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.5",
+      "sentiment": -1.0,
+      "quote": "Myndigheten anser att denna bestämmelse i dataförordningen ger beredskapsmyndigheterna ett ytterligare verktyg snarare än ett nytt eller förändrat uppdrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:52/tidningsutgivarna": "7dc911f10faed599eb4034afd1f68a894e820b3406f999b63fb798269afb1db8",
+      "artifact:forarbete/sou/2025-52": "4d5e74c56afadf49e44bd84297c2d7e7df96670250cfa6da96f9bac96e81a2ba"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Av ovanstående skäl avstyrker TU utredningens förslag till lag om insyn i kommunikation med syfte att påverka politiska beslut.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.12.1",
+      "sentiment": -0.5,
+      "quote": "Enligt TU:s mening går det inte att komma ifrån att det här finns konfliktytor i förhållande till framför allt yttrande- och informationsfriheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.7.5",
+      "sentiment": 0.2,
+      "quote": "TU anser dock, för tydlighets skull, att en uttrycklig reglering som klargör detta bör övervägas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.8",
+      "sentiment": -0.5,
+      "quote": "Det borde därför finnas förutsättningar att på ett helt annat sätt än för den enskilde lägga dokumentationsansvaret på beslutsfattaren.",
+      "quote_type": "grund"
+    }
+  ]
+}

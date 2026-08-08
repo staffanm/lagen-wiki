@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/foretagarna": "c4bef9a32925b888d08efc0b6c3867a2d0b0d50827d23cf48f9010ee5492d097",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Företagarna välkomnar utredningens fokus på regelförenklingar och minskade kostnader för företag inom livsmedelskedjan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a24",
+      "sentiment": 1.0,
+      "quote": "I synnerhet för de minsta företagen är kostnadsminskningar av stor vikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a22.3",
+      "sentiment": 1.0,
+      "quote": "Ökad dialog med berörda branschorganisationer och åtgärder som stärker djurägarens rättsliga ställning är likaså välkomna förslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec460",
+      "sentiment": 1.0,
+      "quote": "Ökad dialog med berörda branschorganisationer och åtgärder som stärker djurägarens rättsliga ställning är likaså välkomna förslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a21",
+      "sentiment": -0.5,
+      "quote": "Myndighetsutövning, exempelvis tillsyn eller kontroll, bör bekostas genom det offentligas budget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18",
+      "sentiment": 0.0,
+      "quote": "Centralisering till Livsmedelsverket och Jordbruksverket kan medföra ökad likformighet och förutsebarhet, samtidigt som kontrollarbetet med nödvändighet behöver ske lokalt, vilket kan tala för att de upparbetade kompetenser och organisationer som finns i kommunerna fyller ett värde.",
+      "quote_type": "grund"
+    }
+  ]
+}

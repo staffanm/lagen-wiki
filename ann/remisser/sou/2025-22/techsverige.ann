@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/techsverige": "c48822043208161c76e9fec9620d8a1cf6b67be7ed52e33c7931cf754945f026",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "TechSverige ställer sig bakom det remissvar som Svenskt Näringsliv har lämnat i sin helhet, men vill därutöver framföra kompletterande synpunkter utifrån ett branschspecifikt perspektiv.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": -1.0,
+      "quote": "I direkt motsats till såväl regeringens som EU:s inriktning skulle förslaget innebära en ökad begränsning av den marknadsdrivna utvecklingen och leda till en ökad osäkerhet för företag inom techsektorn som riskerar att hämma investeringar, innovation och den digitala utvecklingen i Sverige och EU.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec10",
+      "sentiment": 1.0,
+      "quote": "Förslaget är ett viktigt steg i rätt riktning för att skapa mer väl fungerande marknader inom techsektorn med mindre osund konkurrens från offentliga aktörer som tränger undan privata aktörer och bromsar Sveriges digitala utveckling.",
+      "quote_type": "grund"
+    }
+  ]
+}

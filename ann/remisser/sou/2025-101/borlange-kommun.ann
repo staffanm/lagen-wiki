@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/borlange-kommun": "b6aa5d331f65b63fa4c11f950ee0b80c2c50b8db540e153cc4e5c259354c2f94",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Borlänge kommun har tagit del av betänkandet och har inga synpunkter vad avser utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a16.9.1",
+      "sentiment": -0.2,
+      "quote": "Överväganden kring hur dessa ökade kostnader och administrativa bördor berör kommuner och regioner i egenskap av operatörer saknas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.4.4",
+      "sentiment": 1.0,
+      "quote": "Ett aktivt arbete på EU-nivå, likt det EDPB gör, skulle vara ett mycket uppskattat stöd vid tolkning och tillämpning av den nya AI-förordningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

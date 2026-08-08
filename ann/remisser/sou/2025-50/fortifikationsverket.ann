@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/fortifikationsverket": "4a38c066745206ae9900b1dd7e0cf5901559b86e74d4f157c481933723863393",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "välkomnar Fortifikationsverket en mer sammanhållen viltförvaltning som kan skapa förutsättningar för effektiv samordning, samverkan och rådgivning i viltfrågor.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec5",
+      "sentiment": 1.0,
+      "quote": "välkomnar Fortifikationsverket en mer sammanhållen viltförvaltning som kan skapa förutsättningar för effektiv samordning, samverkan och rådgivning i viltfrågor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.10.2",
+      "sentiment": 1.0,
+      "quote": "Fortifikationsverket tillstyrker vidare utredningens slutsats att myndigheten inte är lämplig att överta tillstånds- och tillsynsfrågor rörande civila skjutbanor från Polismyndigheten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec6",
+      "sentiment": -0.2,
+      "quote": "Fortifikationsverket saknar ett förtydligande i betänkandet om den föreslagna nya myndigheten ges i uppgift att utöva tillsyn även på försvarsfastigheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

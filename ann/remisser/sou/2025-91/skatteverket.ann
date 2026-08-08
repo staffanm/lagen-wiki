@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/skatteverket": "2c17d6006cba772fddf049ff18e42bbe369dcb4c49ae6a0a2e5147ef91d83c00",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket tillstyrker att förslagen om testamentsregister och möjlighet att upprätta e-testamenten genomförs.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": 1.0,
+      "quote": "I de fall en sådan utvidgning aktualiseras kan det antas medföra betydande olägenheter och fördröjning av boutredning och bouppteckning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.2,
+      "quote": "Då denna reglering inte längre finns att tillgå så menar Skatteverket att det i varje fall av övervägandena bör ges ledning i hur förrättningsmännen ska värdera de periodiskt utfallande försäkringsbeloppen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec377",
+      "sentiment": 0.2,
+      "quote": "Någon skyldighet att upprätta tilläggsbouppteckning bör då inte uppkomma och inte heller skyldighet för Skatteverket att se till att tilläggsbouppteckning förrättas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.10.1",
+      "sentiment": 0.5,
+      "quote": "För den praktiska tillämpningen av bestämmelsen bör det i det fortsatta lagstiftningsarbetet klargöras att redan den uppgiften huruvida någon ansökt om registrering av ett testamente eller inte gjort det, i sig är en sekretessreglerad och sekretessbelagd uppgift",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.5,
+      "quote": "Skatteverkets bedömning har sin grund i att det är frågan om en helt ny verksamhet som kräver omfattande digital utveckling, både vad gäller ett verksamhetssystem med ett register samt en digital tjänst.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.6",
+      "sentiment": -0.5,
+      "quote": "Om det visar sig att det är färre personer som ansöker om att få sitt testamente registrerat än vad Skatteverket har uppskattat så är risken att en verksamhet som delvis finansieras av en avgift kommer att gå med underskott.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:47/region-varmland": "d72322de7b9b38e127e9ec898a8019cddf9f9e9d85cf2958020c90c59f93bf60",
+      "artifact:forarbete/sou/2025-47": "1998cf0776597c0c9e6ddd14550096440acb7a8c6b7dd2c25e14ff07bc80a796"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Region Värmland ställer sig bakom behovet av ökad elproduktion, men understryker vikten av att utbyggnaden sker på ett teknikneutralt och konkurrensmässigt sätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 1.0,
+      "quote": "Region Värmland välkomnar att Sverige anpassar sin lagstiftning till EUs tillämpning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.3.2",
+      "sentiment": 0.5,
+      "quote": "Region Värmland ställer sig bakom behovet av ökad elproduktion, men understryker vikten av att utbyggnaden sker på ett teknikneutralt och konkurrensmässigt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6.2",
+      "sentiment": -0.5,
+      "quote": "Om dessa samtidigt måste konkurrera med nya aktörer som får statligt stöd i form av garanterade elpriser och förmånliga lånevillkor, ökar risken för ytterligare reaktorstängningar, liknande de som skedde mellan 2015 och 2020.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec466",
+      "sentiment": 0.5,
+      "quote": "En sådan modell är avgörande för att avgiften ska upplevas som skälig och begriplig, och för att främja ett effektivt utnyttjande av elnätet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Ökad datatillgång skulle förbättra möjligheterna för regioner och myndigheter att sammanställa statistik och genomföra analyser som stödjer planering och beslutsfattande.",
+      "quote_type": "grund"
+    }
+  ]
+}

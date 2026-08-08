@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/lansstyrelsen-vasterbotten": "37681ff532c77be693c963d7ed2c1259508ea882fce94a21d46d242f3eb5eb9d",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Länsstyrelsen föreslår i stället att om kontrollverksamhet ska överföras från kommunerna så är det länsstyrelserna som borde vara det rimliga alternativet, eftersom kompetens, organisation och kunskap om länets förutsättningar redan finns på plats.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19.1",
+      "sentiment": -1.0,
+      "quote": "Resursåtgången för att bygga upp och förvalta en regional kontrollorganisation är väldigt dyrt, och den totala kostnaden för staten torde öka, eftersom länsstyrelsens kontrollorganisation kvarstår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.2",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen avstyrker utredningens förslag att centralisera livsmedelskontrollen till Livsmedelsverket och kontroll av foder och animaliska biprodukter till Jordbruksverket.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a19.2.2",
+      "sentiment": 0.2,
+      "quote": "Kontroll av insamling och transport av animaliska biprodukter skulle genom ett nationellt uttag av transportaktörer kunna ge ett mer likriktat kontrollsystem, eftersom flera av aktörerna bedriver verksamhet i flera län.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.3.1",
+      "sentiment": 0.5,
+      "quote": "detta är ett krav enligt EU-regelverken som länge inte efterlevts i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.3.4",
+      "sentiment": 0.5,
+      "quote": "Livsmedelsverket har personal på plats i verksamheten och därmed har en helt annan möjlighet att agera vid akuta situationer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.4",
+      "sentiment": -0.5,
+      "quote": "Konstruktionen att överlåta kontroll mellan myndigheter, som utredningen föreslår för att täta övergångarna mellan de olika myndigheternas ansvarsområden, framstår som administrativt betungande och riskerar enligt Länsstyrelsens mening att negativt påverka effektiviteten i kontrollverksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec607",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsens roll som krisberedskapsmyndighet riskerar att försvagas om avlövning av ansvarsområden och kompetens sker, så som kommer att vara fallet om förslaget genomförs.",
+      "quote_type": "grund"
+    }
+  ]
+}

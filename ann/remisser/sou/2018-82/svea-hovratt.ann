@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/svea-hovratt": "973484d40bdb7bfcc4086a2281bb10a7e2d629f4c0230f144830221a217b3a17",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I remissyttrandet gällande detta lagstiftningsärende ansåg Svea hovrätt att det var ändamålsenligt att införa bestämmelser om sanktionsavgift istället för bestämmelser om straffansvar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": 1.0,
+      "quote": "ansåg Svea hovrätt att det var ändamålsenligt att införa bestämmelser om sanktionsavgift istället för bestämmelser om straffansvar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.8",
+      "sentiment": 0.5,
+      "quote": "Från verksamhetsutövarens perspektiv måste det vidare vara förutsebart och tydligt i vilka fall en sanktionsavgift får tas ut, eftersom den har en straffliknande karaktär och kan uppgå till betydande belopp.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec468",
+      "sentiment": -0.5,
+      "quote": "Däremot förefaller det inte lika nödvändigt ta ut sanktionsavgift för underlåtenhet att anmäla att denna typ av verksamhet har upphört.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec470",
+      "sentiment": -0.2,
+      "quote": "Det är därför angeläget att en verksamhetsutövare inte påförs sanktionsavgifter innan tillräckliga preciseringar av utövarens åligganden finns på plats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec472",
+      "sentiment": -0.2,
+      "quote": "Samma synpunkter som ovan gör sig gällande i denna del, dvs. att det inte är lämpligt med sanktionsavgifter innan tillräckliga preciseringar har skett av verksamhetsutövarens åligganden.",
+      "quote_type": "grund"
+    }
+  ]
+}

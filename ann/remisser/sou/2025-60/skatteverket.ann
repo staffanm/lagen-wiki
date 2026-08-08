@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:60/skatteverket": "9b24148c4eb0c43578f354540eba84e4920e1fcd1529d78da9d8c0f2e561a694",
+      "artifact:forarbete/sou/2025-60": "ba08a5cf25200bcc4b5e48a4ae829bfa92fdb7a8a18e1f7113bf8aa0612a2eee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket tillstyrker utredningens förslag och lämnar vissa synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.5.2",
+      "sentiment": -0.2,
+      "quote": "Det behöver förtydligas om det är ett krav för bildandet av en transparent fond att innehavet för de aktörer som omfattas av 4 kap. 14 a § 1 stycket punkterna tre till fem lag om värdepappersfonder (2004:46), LVF, i sin helhet ska kunna hänföras till den verksamhet som inte är föremål för inkomstbeskattning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.5.4",
+      "sentiment": -0.2,
+      "quote": "Det behövs ett förtydligande av beräkningen av en andelsägares ideella andel efter genomförandet av fusion av två transparenta fonder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6.1",
+      "sentiment": -0.5,
+      "quote": "Det finns därmed en risk för att tid från fondens ändrade skattemässiga status till utgången av det kalenderåret som förändringen sker inte kan beskattas varken genom direkt beskattning av andelsägarna eller genom schablonbeskattning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6.3",
+      "sentiment": -0.2,
+      "quote": "Den skattemässiga hanteringen vid beskattningsinträdet som en följd av att andelsinnehavet går från att helt eller delvis omfattas av avkastningsskatt till inkomstbeskattning behöver förtydligas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.4",
+      "sentiment": -0.5,
+      "quote": "Skatteverket anser att en värdepappersfond med inlösen en eller två gånger per månad inte uppfyller förutsättningarna för att vara marknadsnoterad enligt 48 kap. 5 § IL (se Skatteverket ställningstagande Begreppet marknadsnoterad med dnr 10145- 98/900).",
+      "quote_type": "grund"
+    }
+  ]
+}

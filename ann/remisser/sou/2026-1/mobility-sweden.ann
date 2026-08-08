@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:1/mobility-sweden": "580e8b7ab0dfe96dd362c2806eb6df2825763dea5f3879447624aadc7a7bb270",
+      "artifact:forarbete/sou/2026-1": "800122abdf1a75716ad0b7e15b8b8e168d5039afbac180a5b4abf6bbfb8f9388"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Mot bakgrund av förslagens utformning, i synnerhet vad gäller dess finansiering, anser Mobility Sweden därför att reformen inte bör genomföras.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec4",
+      "sentiment": 0.0,
+      "quote": "Av de två föreslagna modellerna är Mobility Swedens medlemmar inte enade så vi väljer att inte ta ställning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.13",
+      "sentiment": -1.0,
+      "quote": "Mobility Sweden bedömer att en halvering av Vinnovas FoI-anslag skulle orsaka förluster som överstiger den potentiella nyttan av skatteincitamentet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.13",
+      "sentiment": -1.0,
+      "quote": "Att finansiera ett skatteincitament för FoU genom att försämra andra grundläggande villkor för företagen är kontraproduktivt och motverkar reformens syfte.",
+      "quote_type": "grund"
+    }
+  ]
+}

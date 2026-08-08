@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:78/arbetsgivarverket": "070aab70d4b188288ec87cb5a08e6abf8dbb80dc8551ab9b7f34d3d934e2e5a3",
+      "artifact:forarbete/sou/2025-78": "5e962ecad284bd4ad32df402fefc51220b5adbb1f6196029e4d8b81eb1e4f5b2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utifrån vårt uppdrag vill vi betona vikten av att genomförandeprocessen hanteras på ett ändamålsenligt sätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.3",
+      "sentiment": 0.2,
+      "quote": "Arbetsgivaren behöver också kunna förlita sig på ett lagakraftvunnet beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1.1",
+      "sentiment": -0.2,
+      "quote": "Annars finns en risk att systemets jämförbarhet försämras, vilket strider mot syftet med BESTA.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.3",
+      "sentiment": 0.5,
+      "quote": "det är den mottagande myndigheten som ansvarar för att bedöma om en verksamhetsövergång föreligger.",
+      "quote_type": "grund"
+    }
+  ]
+}

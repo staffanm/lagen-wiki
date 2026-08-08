@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/migrationsverket": "4def9fafc5c6f618113709693e738c8191eb6ad2419ca575fab70ff2dc2fa322",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Migrationsverket anser att det är positivt att skyddet för Sveriges säkerhet stärks i flera avseenden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 1.0,
+      "quote": "Migrationsverket har inga synpunkter på förändringarna för att kunna ingripa i avtalsförhållanden som kan vara skadliga för Sveriges säkerhet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 1.0,
+      "quote": "Myndigheten är positiv till utökningen av informationsinhämtning för registerkontroll eftersom det ger ett bättre underlag för varje säkerhetsprövning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.6",
+      "sentiment": 0.5,
+      "quote": "Migrationsverket anser dock att det är nödvändigt att lägga till en hänvisning i utlänningsdatalagen för att Säkerhetspolisen ska kunna få ta del av uppgifterna, som kommer att regleras i 13 § andra stycket punkten 3 i säkerhetsskyddslagen, genom direktåtkomst.",
+      "quote_type": "grund"
+    }
+  ]
+}

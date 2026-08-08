@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:58/lansstyrelsen-orebro-lan": "e5860aae09410da4343271da3eecd871ccafacd9eb35dc458476483f8fafd99d",
+      "artifact:forarbete/sou/2025-58": "ba36ed43caad5065a24954f0cd558aaf490376f8b49d2831dc80ba70fc994f7a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Länsstyrelsen i Örebro län tillstyrker vissa av förslagen som utredaren har föreslagit men avstyrker bland annat förslagen inom det veterinära området.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.1",
+      "sentiment": 0.8,
+      "quote": "Länsstyrelsen instämmer i att bristen på tillförlitliga statistiska beslutsunderlag för hästnäringen påverkar branschens utveckling negativt",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.2",
+      "sentiment": 0.5,
+      "quote": "Häst bidrar precis som övriga lantbruksdjur till biologisk mångfald, ett fortsatt brukande av jordbruksmark och därmed även till öppna landskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.3",
+      "sentiment": -1.0,
+      "quote": "Att utvidga dessa möjligheter till att även omfatta privatpersoner ser vi som en betydande risk ur ett fastighetsbildningsperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.5",
+      "sentiment": 0.8,
+      "quote": "Länsstyrelsen anser att det är positivt att man lyfter företagens regelbörda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.6",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen anser att en seminassistent eller husdjurstekniker inte är lämpad att efter en kortare utbildning genomföra dräktighetsundersökningar eller ultraljud av reproduktionsorganen på häst.",
+      "quote_type": "grund"
+    }
+  ]
+}

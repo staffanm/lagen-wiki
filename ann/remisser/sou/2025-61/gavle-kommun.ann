@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:61/gavle-kommun": "83e7cb978f9cb1d50d017b46d3371b6cc5e60d17900999a973dd9ca4335a1af0",
+      "artifact:forarbete/sou/2025-61": "c8d09bc4b2ee92f1bde3bdb0285bc5766bdfef45db2fb06aa2b9f212091e91e2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Välfärd Gävle avstyrker utredningens förslag att internationell adoptionsförmedling ska avvecklas. Välfärd Gävle ställer sig positiv till utredningens förslag om ett nationellt resurscentrum för adopterade personer och adoptionsfrågor.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.10.2",
+      "sentiment": -1.0,
+      "quote": "Att stänga möjligheten för internationella adoptioner är riskfyllt och öppnar upp för andra oreglerade vägar för ofrivilligt barnlösa att få barn, exempelvis genom surrogat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.4",
+      "sentiment": 1.0,
+      "quote": "Välfärd Gävle ställer sig positiv till utredningens förslag om ett nationellt resurscentrum för adopterade personer och adoptionsfrågor.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

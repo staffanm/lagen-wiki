@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:51/region-stockholm": "8c9fa0b4fb9d69e5916bd0ae53ffcad1e18d3f73b34c29b878f5cd7e04e79553",
+      "artifact:forarbete/sou/2025-51": "258d56514e13c4c5451bf445ef12c74926eae0c3d6b9e933fa95a5d91e5d1ad9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Region Stockholm anser att det är positivt att utredningen har genomförts och att många konstruktiva förslag lagts fram trots kort utredningstid.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1.1",
+      "sentiment": 0.5,
+      "quote": "Dessa ska kunna hjälpa beslutsfattare att prioritera mellan klimatanpassningsåtgärder, där beslutsläget är oklart eller där olika alternativ ska jämföras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": -0.5,
+      "quote": "Region Stockholm anser dock att ett reglerat kommunalt samordningsansvar behövs för att säkerställa att klimatanpassningsåtgärder verkligen genomförs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": -0.2,
+      "quote": "Region Stockholm ser ett stort behov av samverkan både inom och mellan regioner, vilket också kräver samordning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5",
+      "sentiment": 0.5,
+      "quote": "En rättvis kostnadsfördelning stärker legitimiteten för åtgärderna och främjar samarbete mellan aktörer.",
+      "quote_type": "grund"
+    }
+  ]
+}

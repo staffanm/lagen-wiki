@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:71/lakemedelsverket": "7b0bf62844c255ef8dd7db3df88313683c174660fbd42c8458aeb3fd674210ab",
+      "artifact:forarbete/sou/2025-71": "957a0b0208845de41ee3eb7c78a854f8c82bf13e7ec07e3ebdf350fdecdb0325"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Läkemedelsverket anser att det finns goda skäl att överväga tillgängliggörande av data i infrastrukturen även för sekundär användning, vilket vore värdefullt såväl inom ramen för myndighetens grunduppdrag som för vissa tilldelade regeringsuppdrag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3.3",
+      "sentiment": 0.2,
+      "quote": "Läkemedelsverket ser positivt på att en korrekt och enhetlig namngivning för infrastrukturen tillämpas för att säkerställa tydlighet omkring dess funktionalitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 0.5,
+      "quote": "Samtidigt bör dock beaktas att det erfarenhetsmässigt kan finnas svårigheter att extrahera vissa uppgifter från vårdinformationssystemen med den exakthet och de säkerhetskrav som finns vid primäranvändning på individuell nivå i en hälso- och sjukvårdskontext.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": 0.2,
+      "quote": "En central och samordnad ansats krävs för att hitta de bästa lösningarna på nationell nivå med tillförsäkrande av god patientsäkerhet och användbarhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.10.2",
+      "sentiment": 0.5,
+      "quote": "För att systemets potential ska kunna utnyttjas på ett effektivt sätt vill Läkemedelsverket framhålla vikten av att användargränssnitt och funktionalitet bör kunna anpassas utifrån den enskilde användarens behov, vilket till exempel kan gälla möjligheter till sökning, sortering och filtrering av information i systemet utifrån aktuell situation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4.4",
+      "sentiment": -0.2,
+      "quote": "Läkemedelsverket anser att det är angeläget att myndigheten får tillgång och direktåtkomst till specifika delar av registeruppgifter, såsom batch-nummer för vacciner, för de personer där misstänkta biverkningar rapporteras till Läkemedelsverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.1.5",
+      "sentiment": 0.2,
+      "quote": "Under förutsättning att detta förslag beslutas och att Läkemedelsverket, som sekundäranvändare av data, får tillgång till förskrivningsdata från hälsodataregistret för att använda uppgifterna för att bland annat förebygga och hantera bristsituationer instämmer Läkemedelsverket i utredningens bedömning i avsnitt 10.1.5.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.9.2",
+      "sentiment": 1.0,
+      "quote": "Därigenom skulle apoteken avlastas från ett lagkrav som de omöjligen har kunnat uppfylla utan omfattande administration.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.4",
+      "sentiment": 0.5,
+      "quote": "För att uppfylla syftet att skapa ett ändamålsenligt register och förbättra patientsäkerheten kan även tillägg av historiska data övervägas, exempelvis uppgifter om tidigare vaccinationer och vissa medicintekniska produkter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.6.2",
+      "sentiment": -0.2,
+      "quote": "Läkemedelsverket vill framhålla att arbetet kan bli resurskrävande inte minst eftersom registret kommer att behöva uppdateras kontinuerligt tills vidare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.6.2",
+      "sentiment": 1.0,
+      "quote": "Läkemedelsverket stödjer utredningens förslag om att Socialstyrelsen i samråd med Läkemedelsverket ska utreda vilka medicintekniska produkter som bör inkluderas i registret.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": 1.0,
+      "quote": "Inrättandet av ett nytt samverkansforum skapar en tydligare struktur för samarbete med möjlighet att kombinera flera aktörers olika perspektiv och kunskaper.",
+      "quote_type": "grund"
+    }
+  ]
+}

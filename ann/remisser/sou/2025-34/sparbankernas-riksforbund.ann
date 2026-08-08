@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:34/sparbankernas-riksforbund": "ac1b72b988d53758bae4dc8c647e2ac4b4a94327a99cf98e067d56851506f1db",
+      "artifact:forarbete/sou/2025-34": "9ee1bd0a602bd9cd0e75ac89a99c8041d61f181ca21a2fa200f6a8440ed23f10"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I övrigt har Förbundet inget att anmärka på betänkandet eller dess förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec144",
+      "sentiment": -0.2,
+      "quote": "I de fall konsumenten har loggat in på onlinegränssnittet, vilket ofta är det normala, vore det lämpligare att möjliggöra för näringsidkaren att låta konsumenten bekräfta sina uppgifter snarare än att vara tvungen att låta konsumenten ange dem själv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec144",
+      "sentiment": -0.5,
+      "quote": "Om konsumenten själv ska bestämma formen för meddelandet bör det beaktas att konsumenten kan komma att välja ett sätt som näringsidkaren av t.ex. säkerhetskrav är förhindrad att använda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec144",
+      "sentiment": -0.2,
+      "quote": "Givet att situationer kan uppstå där näringsidkaren behöver lägga tid på att identifiera vem konsumenten är och/eller vilket avtal denne ångrar – särskilt i de fall ångerfunktionen är utformad så att konsumenten själv ska författa ångermeddelandet och meddelandet på grund av felskrivning eller liknande har blivit otydligt – kan dröjsmål vara oundvikligt för näringsidkaren.",
+      "quote_type": "grund"
+    }
+  ]
+}

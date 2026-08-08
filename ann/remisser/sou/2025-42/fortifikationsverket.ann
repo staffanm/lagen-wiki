@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/fortifikationsverket": "e1b06003ab7399014e89cd48dd9e74c0f5a1b85f7b881921d8f5774d32c511fc",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Fortifikationsverket tillstyrker utredningens förslag, men lämnar följande kommentarer och synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": -0.2,
+      "quote": "Fortifikationsverket menar att i de fall en person redan deltar i säkerhetskänslig verksamhet och personen söker sig vidare för deltagande i annan säkerhetskänslig verksamhet där omständigheter framkommer som leder till att personen inte bedöms lämplig för den senare verksamheten, skulle det vara negativt från säkerhetsskyddssynpunkt om omständigheten inte kommer den ursprungliga uppdragsgivaren till kännedom.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:20/kalmar-kommun": "3b538eba82497c151082a54bed463fb359e45bf41cf62b6413515067f8184cb0",
+      "artifact:forarbete/sou/2026-20": "4bbbaf1255ebc0c511f2d6d339133f0df3731fa34b68ae49c40ee83603563261"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Kalmar kommun avstyrker förslaget med motiveringen att det skulle innebära en orimlig inskränkning av beskattningsrätten som utgör en fundamental del av den kommunala självstyrelsen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1.1",
+      "sentiment": -1.0,
+      "quote": "det skulle innebära en orimlig inskränkning av beskattningsrätten som utgör en fundamental del av den kommunala självstyrelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.1",
+      "sentiment": -0.5,
+      "quote": "Innebörden av god ekonomisk hushållning riskerar att urvattnas och bli mer otydligt om ”hög effektivitet” lyfts ur och blir ett sidoordnat begrepp med egna riktlinjer och mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.2",
+      "sentiment": -0.2,
+      "quote": "För kommuninvånaren kan en samlad och tydlig redovisning av skälen till en skattehöjning bidra till en ökad förståelse, vilket dock kan och bör ske utan ändrad lagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 1.0,
+      "quote": "Kalmar kommun tillstyrker att detta är betydelsefulla och önskvärda åtgärder.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.4.1",
+      "sentiment": 1.0,
+      "quote": "Kalmar kommun välkomnar ett initiativ i den riktningen.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:92/svenska-arkivforbundet": "b9228a3d504dffb80cbc6fc8ea5d27b0ecc5453ff039be4da033eba711a7500e",
+      "artifact:forarbete/sou/2025-92": "c1db6346e92cb1aaf69fe092a6e40e7ceba88b5192c9caee2959771165f82273"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Generellt anser Svenska Arkivförbundet att den kunskap om arkivväsendet som kommittén och betänkandet speglar är mycket positiv.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.4",
+      "sentiment": 0.2,
+      "quote": "Det är länsarkivens kulturhistoriska arkivbestånd som ofta utgör grunden för den historia som förmedlas genom museernas utställningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec550",
+      "sentiment": 0.5,
+      "quote": "Därför är det av största vikt att källmaterial bevaras på nationell, regional och lokal nivå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec552",
+      "sentiment": -0.5,
+      "quote": "ytterligare nedskärningar riskerar att försvaga den regionala kulturinfrastrukturen.",
+      "quote_type": "grund"
+    }
+  ]
+}

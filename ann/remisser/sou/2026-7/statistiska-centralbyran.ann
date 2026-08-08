@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:7/statistiska-centralbyran": "45d62d57a573d1fee41824ad4a0e3efab3ab74618fef7390fa0dbce1450dee3e",
+      "artifact:forarbete/sou/2026-7": "7a846bbd7b56ef1c76f8c2a569d6204c1cff17ef01ba342d52cb501a13be5642"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Statistiska centralbyrån (SCB) svarar på remissen med utgångspunkt i hur förslagen i betänkandet bedöms påverka styrning av myndigheten, myndighetens huvuduppdrag att producera statistik och samordna systemet för den officiella statistiken samt de kunskaper myndigheten har inom de områden den ansvarar för att producera officiell statistik.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.2.3",
+      "sentiment": 1.0,
+      "quote": "SCB tillstyrker förslaget om att Folkhälsomyndigheten ska samverka med Statistiska centralbyrån (SCB) och andra aktörer för att förbättra datatillgången och uppföljningsmöjligheterna.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.2.7",
+      "sentiment": -1.0,
+      "quote": "SCB bedömer att ett sådant uppdrag riskerar att leda till otydlig ansvarsfördelning samt dubbelarbete i förhållande till redan pågående och planerade initiativ.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.4",
+      "sentiment": -1.0,
+      "quote": "SCB ser, liksom utredningen, ett behov av att stärka samverkan och kunskapsutbytet mellan relevanta aktörer som genomför urvalsundersökningar, men anser att det bäst sker inom redan existerande strukturer och då inte enbart gällande folkhälsoområdet utan urvalsundersökningar generellt.",
+      "quote_type": "grund"
+    }
+  ]
+}

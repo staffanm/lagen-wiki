@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:77/integritetsskyddsmyndigheten": "61a328150d44570077e70f7ca33ba387574856c021d42ba3a05df885040f1f22",
+      "artifact:forarbete/sou/2025-77": "2d5c562dd97d981752cb93f65a08d116c79a1f8908f9e6fb9bb9e7d703e82f34"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "IMY ser positivt på att förslaget till ny lönegarantilag innebär att ansökningsprocessen initieras om den enskilde uttrycker vilja till det och därefter ansöker om lönegaranti.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 1.0,
+      "quote": "IMY ser positivt på att förslaget till ny lönegarantilag innebär att ansökningsprocessen initieras om den enskilde uttrycker vilja till det och därefter ansöker om lönegaranti.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.2",
+      "sentiment": -0.5,
+      "quote": "IMY bedömer att kontrollen fortsatt kan vara integritetskänslig och förordar ett tillägg i den nu föreslagna ändamålsbestämmelsen där det framgår att Skatteverket får behandla personuppgifter i syfte att utföra kontroller för att förebygga, förhindra och upptäcka felaktiga utbetalningar av lönegarantibelopp.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.2",
+      "sentiment": 1.0,
+      "quote": "Det framkommer att det kan finnas behov av gallringsbestämmelser om konkursförvaltaren lämnar underlag till Skatteverket utan att det följs av en ansökan om lönegaranti från arbetstagaren.",
+      "quote_type": "grund"
+    }
+  ]
+}

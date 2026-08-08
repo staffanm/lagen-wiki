@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:103/attunda-tingsratt": "092e1d98317d0dfda63cc653391f06b99edbfd63b86ceae31de0476e64207001",
+      "artifact:forarbete/sou/2025-103": "3494f54a32c4c4ce08c80df5c6f1304db463ec2825930548fa2363c4c69ec03f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Tingsrätten instämmer i allt väsentligt i utredningens bedömningar och slutsatser.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec23",
+      "sentiment": -0.2,
+      "quote": "Av bestämmelsen framgår inte vilken skada i data som är ersättningsgill.",
+      "quote_type": "grund"
+    }
+  ]
+}

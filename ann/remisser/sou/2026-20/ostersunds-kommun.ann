@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:20/ostersunds-kommun": "3889d598c26efc9f8578b870eaf607705711f15aa616fa5a9ff3ed5ba9cf3b91",
+      "artifact:forarbete/sou/2026-20": "4bbbaf1255ebc0c511f2d6d339133f0df3731fa34b68ae49c40ee83603563261"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Östersunds kommun ställer sig både negativ och positiv inför utredarnas Betänkande av utredningen om incitament för lägre skattesatser i kommunsektorn.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1.1",
+      "sentiment": -0.7,
+      "quote": "För små kommuner med ansträngd ekonomi kommer konsekvenserna av förslaget bli betydligt mer kännbara än för större och rikare kommuner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.1",
+      "sentiment": 0.7,
+      "quote": "Förslaget innebär en ökad kostnadskontroll vilket innebär att kommunen måste arbeta mer systematiskt med effektivisering, analysera kostnader på verksamhetsnivå och undvika långsiktiga kostnadsökningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.2",
+      "sentiment": 0.7,
+      "quote": "Östersunds kommun ställer sig positiv till utredarens förslag inom området att öka transparensen och öka långsiktigheten i den kommunala ekonomin.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2.3",
+      "sentiment": 0.8,
+      "quote": "Att nationellt utveckla och administrera nyckeltal för att kunna jämföra kommuner emellan är positivt och blir ett bra stöd för att påvisa onödiga skattesatsers skillnader mellan kommuner.",
+      "quote_type": "grund"
+    }
+  ]
+}

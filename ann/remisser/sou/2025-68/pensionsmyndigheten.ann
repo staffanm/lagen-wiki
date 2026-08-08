@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/pensionsmyndigheten": "a096e23299004f8016b9d7d9d53c34781bad4f97c84ff8570cee11cd76f045d1",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Pensionsmyndigheten instämmer i förslaget och lämnar följande kommentarer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": 0.5,
+      "quote": "det är av vikt att MSB i den allmänna prioriteringsordningen uttryckligen inkluderar den nationella betalningsinfrastrukturen och statliga utbetalningar (t.ex. pensioner) som samhällskritiska.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": 0.5,
+      "quote": "föreslår Pensionsmyndigheten att länsstyrelserna eller BRB-kansliet ges i uppdrag att inhämta och väga in även nationella objektlistor från statliga behovsägare i respektive läns planering.",
+      "quote_type": "grund"
+    }
+  ]
+}

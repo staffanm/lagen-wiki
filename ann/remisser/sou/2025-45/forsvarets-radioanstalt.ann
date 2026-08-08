@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/forsvarets-radioanstalt": "7257d1724821d0d40580d6535355daa29dd3f1a7205f7ecf7fb8d766707f8e4c",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Mot bakgrund av att FRA:s verksamhet i stora delar omfattas av sekretess bedömer FRA att den nu föreslagna nya bestämmelsen i OSL sällan kommer att tillämpas av FRA.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.12",
+      "sentiment": -0.5,
+      "quote": "FRA anser att skälen för sekretess enligt 38 kap. 4 $ OSL väger tyngre än andra myndigheters behov av information.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.31",
+      "sentiment": -0.2,
+      "quote": "Placeras paragrafen innan denna rubrik kommer upplysningsbestämmelsen felaktigt att placeras under de bestämmelser som = gäller för FRA:s informationssäkerhetsverksamhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

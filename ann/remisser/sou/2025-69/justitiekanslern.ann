@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:69/justitiekanslern": "a6817e5d60ec5b897fba49f6e9e80b65bce1e4ff1d1d12a3a72dd442c503d4d2",
+      "artifact:forarbete/sou/2025-69": "e9fe403717ef019299c4fc8689d9fb71197ea9f2a8ad889130b543582d2661a1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt har Justitiekanslern inga synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.10",
+      "sentiment": -0.2,
+      "quote": "Som lyfts i betänkandet kan en sådan reglering innebära risker kopplat till integritetsskydd och personuppgiftsbehandling.",
+      "quote_type": "grund"
+    }
+  ]
+}

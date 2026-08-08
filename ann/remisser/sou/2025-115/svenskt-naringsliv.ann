@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/svenskt-naringsliv": "80813c45436aab09bc88f05140d6c6647f0d9a364ba4ceae55bff572e5fd122a",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Tillstyrker utredningens förslag om stödåtgärder till företag men ser en risk att stödåtgärdernas betydelse överskattas i förhållande till de faktiska utmaningar som små och medelstora företag står inför.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11",
+      "sentiment": 1.0,
+      "quote": "Svenskt Näringsliv tillstyrker införande av sekretess i enlighet med CRA artikel 14 och 15 samt förslaget om tystnadsplikt för att inte röja eller utnyttja information om affärs- eller driftförhållanden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec53",
+      "sentiment": 0.5,
+      "quote": "Sandlådorna bör kompletteras med testmöjligheter under verkliga förhållanden, särskilt vid utveckling och införande av mer komplexa produkter och system.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.2,
+      "quote": "Det är av stor vikt för näringslivet att tillsynsprocesser och rapporteringskrav samordnas för att undvika parallella granskningar av samma förhållanden eller incidenter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.2,
+      "quote": "Vi ser en risk att stödåtgärdernas betydelse överskattas i förhållande till de faktiska utmaningar som små och medelstora företag står inför.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": -0.2,
+      "quote": "Samtidigt som resiliens och säkerhet är viktigt är det centralt att företagen kan vara konkurrenskraftiga och att oproportionerlig lagstiftning inte tillåts bli ett hinder för företagande.",
+      "quote_type": "grund"
+    }
+  ]
+}

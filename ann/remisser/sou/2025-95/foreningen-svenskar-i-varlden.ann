@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:95/foreningen-svenskar-i-varlden": "73eca8b1b41810ddf6a06669d44011aa7d160faebc3045f9655ec3b7f68fd6b5",
+      "artifact:forarbete/sou/2025-95": "613ac92cd1fc517e8bc3ec573b279ef426ca513eb1305ec1af52d26309784bd1"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "För utlandssvenska familjer är det den samlade effekten som avgör om Sverige upplevs som ett land man vill och kan återvända till på ett enkelt sätt – eller inte.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.1",
+      "sentiment": -0.5,
+      "quote": "När reglerna om anhöriginvandring i situationer utanför EU-rätten görs helt fakultativa även för anhöriga till svenska medborgare ökar Migrationsverkets bedömningsutrymme, vilket kan minska förutsebarheten för utlandssvenskar som planerar att återvända hem med sin partner och sina barn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": 0.5,
+      "quote": "Det är centralt för många etablerade utlandssvenska familjer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": -0.5,
+      "quote": "Utlandssvenskar med nyare, och därmed kortare, relationer riskerar i högre grad att omfattas av försörjningskravet och därmed möta högre trösklar för att kunna återvända hem tillsammans med en partner som inte är svensk medborgare.",
+      "quote_type": "grund"
+    }
+  ]
+}

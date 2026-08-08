@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/justitiekanslern": "ef98b84bb9eb9b07a23734b449834b1a079d95ac423d3cde76bb409f51ca9ee5",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Justitiekanslern delar utredningens bedömning att det bör vara möjligt att ta alla former av egendom i beslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec256",
+      "sentiment": 1.0,
+      "quote": "Justitiekanslern delar utredningens bedömning att det bör vara möjligt att ta alla former av egendom i beslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec285",
+      "sentiment": 1.0,
+      "quote": "Om en sådan förändring behövs, bör detta även enligt Justitiekanslerns mening utredas särskilt och i samband med en bredare översyn av statens skadeståndsansvar vid straffprocessuella tvångsmedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec845",
+      "sentiment": 1.0,
+      "quote": "En omvänd bevisbörda skulle, även om en sådan kan vara godtagbar ur ett internationellt perspektiv, i svensk rätt innebära en avvikelse från vad som typiskt sett gäller för straffprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec1011",
+      "sentiment": 1.0,
+      "quote": "Förutom att det skulle innebära en stor ökning i antalet ärenden går den effektivitetsvinst som det innebär att rätten redan är insatt i målet förlorad.",
+      "quote_type": "grund"
+    }
+  ]
+}

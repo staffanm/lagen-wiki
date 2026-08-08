@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/jordbruksverket": "0e58463ae48a42c2d6771533c4711dc4c35cfa39e1898598a8a9457257211812",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Jordbruksverket har ingen erinran mot utredningens förslag men vi lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6",
+      "sentiment": 0.2,
+      "quote": "Detta kommer bidra till att kravet tillämpas på ett rättssäkert, effektivt och ändamålsenligt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.5",
+      "sentiment": 0.5,
+      "quote": "Där är byggnads- och reparationsarbeten en oumbärlig del och är, i fråga om viss utrustning, av kvalificerad art.",
+      "quote_type": "grund"
+    }
+  ]
+}

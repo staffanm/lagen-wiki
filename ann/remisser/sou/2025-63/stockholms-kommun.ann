@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:63/stockholms-kommun": "98b316377ec1db187f8bf0f01f88edfc7401f83075cd008dc689ed4252b57f78",
+      "artifact:forarbete/sou/2025-63": "461094f462cdf3d5e300f64df1c13bc71f9e5017089a2d108dbaf9978b04511e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslagen som presenteras i betänkandet är bra och kommer om de genomförs att leda till ökad patientsäkerhet genom att man bättre tillser rätt kompetens för fler yrkesgrupper inom vården.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 1.0,
+      "quote": "Att en skyddad yrkestitel för medicinska fotterapeuter införs ser stadsledningskontoret som positivt ur patientsäkerhetssynpunkt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.8",
+      "sentiment": 0.8,
+      "quote": "Förvaltningen håller med utredaren om att yrkesrollen avancerad specialistsjuksköterska (AVS) kan stärka det kliniska arbetet i kommunal hälso- och sjukvård.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.4",
+      "sentiment": 0.8,
+      "quote": "ser det som en möjlighet till att vidareutbildning för vårdprofessioner i kommunal hälso- och sjukvård kan bidra till professionernas vilja att utvecklas, lära nytt och säkerställa kompetens.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.8,
+      "quote": "Den snabba medicinska och tekniska utvecklingen ställer ökade krav på att hälso- och sjukvårdspersonalen ska kunna tillgodogöra sig ny kunskap och nya arbetsmetoder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6",
+      "sentiment": -0.5,
+      "quote": "Tvärtom är det sannolikt att en förbättrad fort- och vidareutbildning innebär kostnader för ökad frånvaro från ordinarie arbete och för nya systemstöd där alla utbildningar registreras.",
+      "quote_type": "grund"
+    }
+  ]
+}

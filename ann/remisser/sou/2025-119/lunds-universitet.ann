@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:119/lunds-universitet": "f0b26de523627a993c7e0b9b609e7ca297c1cf3d0355be3149a38b909766c1f9",
+      "artifact:forarbete/sou/2025-119": "4ffe1b3a3b8b7263d217456e1fadfaf32122d48eff13747b01cb521abb874202"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Fakultetsstyrelsen tillstyrker att människohandelsbrottet ändras enligt förslaget (avsnitt 5.8), men avstyrker kriminaliseringen av olaga tjänsteutnyttjande i den utformning som utredningen föreslår (avsnitt 5.9).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": 0.5,
+      "quote": "Fakultetsstyrelsen vill dock anföra att en lång och detaljerad lista kan få som konsekvens att listan uppfattas som uttömmande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.9",
+      "sentiment": -1.0,
+      "quote": "Fakultetsstyrelsen noterar att det kriminaliserade området riskerar att bli mycket vidsträckt och att det är svårt att avgöra dess gränser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.10.4",
+      "sentiment": -0.2,
+      "quote": "Fakultetsstyrelsen anför att nuvarande ordning är otillfredsställande mot bakgrund av intresset av rättssäkerhet samt i ljuset av den kriminalpolitiska ambitionen att värna om brottsoffers intressen.",
+      "quote_type": "grund"
+    }
+  ]
+}

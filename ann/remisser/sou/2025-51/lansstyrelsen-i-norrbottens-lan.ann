@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:51/lansstyrelsen-i-norrbottens-lan": "1a4adbdd78c13a17d2770478bf3e4bff419ee57d67397924bb9fab776af40bb5",
+      "artifact:forarbete/sou/2025-51": "258d56514e13c4c5451bf445ef12c74926eae0c3d6b9e933fa95a5d91e5d1ad9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen i Norrbotten välkomnar utredningen och instämmer i majoriteten av förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -1.0,
+      "quote": "Genomförandet av klimatanpassningsåtgärder som särskilt skäl för dispens från strandskyddet anser vi redan är möjligt idag enligt 7 kap. 18 e § 3 Miljöbalken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen vill dock betona att implementeringen kommer kräva ytterligare vägledning från nationell nivå för att kommunerna ska ha tillräckliga förutsättningar för att uppnå förslagets effekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.9",
+      "sentiment": -1.0,
+      "quote": "förslaget kräver omfattande resurser som inte finns i dagsläget, genomförandetiden är inte rimlig, och förslaget saknar en tydlig uppföljningsprocess.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.11",
+      "sentiment": 0.5,
+      "quote": "Precis som utredningen förtydligar är värmeböljor den mest konsekventa klimatrelaterade risken för människors liv och hälsa i Sverige och det är viktigt att vi har en lagstiftning som förebygger detta på ett rättvist sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": -0.2,
+      "quote": "Finansieringen av förslaget bör inte riskera att skada förutsättningarna för att anta klimatanpassningsåtgärder i andra delar av Sverige.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/sveriges-kommuner-och-regioner": "1a4082a964623cb887140d642a3abd03487de7c8093355d8df0dc4b4c6d27663",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "SKR ställer sig i huvudsak bakom utredningens förslag i dessa delar men förordar vissa förändringar i förslagen och även i förslag från en angränsande utredning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3.2",
+      "sentiment": 1.0,
+      "quote": "En flytt av ansvaret för tillstånd och tillsyn avseende upplåtelse av offentlig plats till kommunerna framstår som både ändamålsenlig och lämplig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1-2",
+      "sentiment": -0.5,
+      "quote": "En uppdelning av ansvaret skulle sannolikt leda till minskad effektivitet i tillståndshanteringen och lär inte heller minska polisens arbetsbörda i någon större utsträckning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.2",
+      "sentiment": -0.5,
+      "quote": "Polisens arbetsbesparing torde därmed inte bli särskilt stor medan kommunerna tvingas bygga upp en ny struktur för att hantera dessa tillstånd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec50",
+      "sentiment": -0.5,
+      "quote": "En sådan ordning framstår som såväl ologisk som olämplig och riskerar att medföra otydligheter för såväl sökande som beslutsmyndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec60",
+      "sentiment": 1.0,
+      "quote": "Genom en sådan reglering värnas det kommunala vetot, något som enligt SKRs uppfattning är en förutsättning för att den föreslagna reformen ska kunna genomföras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec61",
+      "sentiment": 0.5,
+      "quote": "Rätten att ta ut avgifter kommer däremot inte att fullt ut kunna kompensera kommunerna för de kostnader som initialt kommer att uppkomma när ansvaret tas över.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.2,
+      "quote": "Kommunerna kommer, som framhållits ovan, bl.a. behöva rekrytera och utbilda personal och upphandla verksamhetssystem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.2",
+      "sentiment": 1.0,
+      "quote": "Framförallt i kommuner med kommunal parkeringsövervakning har kommunerna egna intressen i frågan vilket riskerar att påverka förtroendet för prövningen negativt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.3",
+      "sentiment": -0.5,
+      "quote": "Det framstår enligt vår uppfattning som lämpligare att lagstiftaren i denna situation klargör att kommunen (eller Polismyndigheten i de fall parkeringsanmärkningen utfärdats av en polisman) har möjlighet att rätta en felaktigt utfärdad parkeringsavgift.",
+      "quote_type": "grund"
+    }
+  ]
+}

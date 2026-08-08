@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/vallentuna-kommun": "feda9ed7e6428fe28748c44682294724b116699765197ad3f182d1a9c9f7cffe",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Kommunstyrelsen delar valsedelskommitténs slutsats att valsedelsystemet behöver ses över och tillstyrker valsedelskommitténs förslag i delbetänkandet 710 miljoner skäl för reformer (SOU 2026:2) i enlighet med valnämndens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec328",
+      "sentiment": 1.0,
+      "quote": "En minskning av mängden valsedlar skulle således medföra ett marginellt lägre behov av personella resurser och torde inte medföra några märkbara ekonomiska konsekvenser för kommunen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.4",
+      "sentiment": 1.0,
+      "quote": "Med anledning av att det till valet 2022 trycktes upp 710 miljoner valsedlar varav endast 3% användes så är en minskning av antalet tryckta valsedlar helt i linje med agenda 2030 och Vallentuna kommuns strävan mot hållbara konsumtions och produktionsmönster.",
+      "quote_type": "grund"
+    }
+  ]
+}

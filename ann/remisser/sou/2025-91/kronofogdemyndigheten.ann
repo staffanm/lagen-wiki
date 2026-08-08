@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/kronofogdemyndigheten": "16d77ca970fb8112f85b657c517caf9a45e60ddbb15109a44a75894ef1325243",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kronofogdemyndigheten (Kronofogden) har inga synpunkter i sak på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.2.2",
+      "sentiment": -0.5,
+      "quote": "Enligt Kronofogdens mening kan ett arvsavstående få sakrättslig verkan om dödsboet underrättas om avståendet.",
+      "quote_type": "grund"
+    }
+  ]
+}

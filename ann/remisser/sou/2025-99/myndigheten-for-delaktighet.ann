@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:99/myndigheten-for-delaktighet": "4f4a00325d3aa7e55f0a0d4fdd0deca1c3ad8e22cd9598b0c273b6e6cd674a23",
+      "artifact:forarbete/sou/2025-99": "6c1cd093ee04097aeceeff8169f890fa879410d8b56abaf496322e4ed42c73f0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Myndigheten kan samtidigt inte ta ställning till förslaget eftersom det saknas grundläggande analyser utifrån ett funktionshinderperspektiv.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10",
+      "sentiment": -0.5,
+      "quote": "MFD bedömer därför att förslaget riskerar att förstärka ojämlikhet, öka risken för isolering och försämra förutsättningarna för etablering i samhället.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.4",
+      "sentiment": 0.5,
+      "quote": "En sådan bestämmelse är viktig för att skydda personer med funktionsnedsättning från beslut som kan få allvarliga konsekvenser för deras självständighet och möjligheter till delaktighet i samhällslivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec99",
+      "sentiment": -0.5,
+      "quote": "Om tillämpningen av undantaget kräver dokumenterad diagnos finns en risk att endast synliga funktionsnedsättningar beaktas, vilket skapar ojämlik behandling och kan utesluta personer med osynliga, odiagnostiserade eller odokumenterade funktionsnedsättningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

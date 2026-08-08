@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:104/ekonomistyrningsverket": "1b8aa6c4799a40e3eb7b32ceb6a5b8a0bfee2a6255c896b4195661438bd1f290",
+      "artifact:forarbete/sou/2025-104": "5c4d7098f16f24e4775cddf63c88574e9473027cd440f6142738b512ebf0655b"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "ESV avstyrker förslaget mot bakgrund av att utredningen inte tillräckligt motiverat varför bolagsformen föreslås istället för myndighetsformen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -1.0,
+      "quote": "ESV avstyrker förslaget mot bakgrund av att utredningen inte tillräckligt motiverat varför bolagsformen föreslås istället för myndighetsformen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec13",
+      "sentiment": 1.0,
+      "quote": "ESV instämmer i bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.9",
+      "sentiment": -0.2,
+      "quote": "ESV noterar att utredningen saknar bedömning av statens utgifter för att etablera den nationella avfallsorganisationen och det statliga avfallsbolaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.10",
+      "sentiment": -0.2,
+      "quote": "ESV noterar att utredningen saknar bedömning av statens utgifter för att etablera den nationella avfallsorganisationen och det statliga avfallsbolaget.",
+      "quote_type": "grund"
+    }
+  ]
+}

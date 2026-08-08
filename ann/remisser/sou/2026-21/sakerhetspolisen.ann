@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:21/sakerhetspolisen": "969743ea91d80af133cdd605e08428aee7bd95c6d35231b32ccc36d156e7c008",
+      "artifact:forarbete/sou/2026-21": "b4fe47551a2f6371e860be92a47a77882040d95cf28d07cac21ec3172d27ca53"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Säkerhetspolisen har tagit del av förslagen i betänkandet av utredningen om återkallelse av svenskt medborgarskap (SOU 2026:21) och har följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.5,
+      "quote": "Det finns enligt Säkerhetspolisens uppfattning inte någon anledning till en sådan särreglering, som närmast får antas bero på ett förbiseende från utredningens sida.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 1.0,
+      "quote": "Säkerhetspolisen instämmer i att den av utredningen förslagna instansordningen, vilket är den instansordning som gäller för säkerhetsärenden enligt utlänningslagen, även ska gälla för ärenden om återkallelse av svenskt medborgarskap.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a14-2",
+      "sentiment": 1.0,
+      "quote": "Detta med anledning av den utveckling Säkerhetspolisen ser relaterat till brottslighet begången av individer med koppling till kriminella nätverk på uppdrag av främmande makt.",
+      "quote_type": "grund"
+    }
+  ]
+}

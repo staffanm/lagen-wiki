@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/pensionarernas-riksorganisation": "0c6cc59ed5e0eddebf35ed6ee57ab0cd135358a4255e76f74ae48123e7fee081",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det är mycket angeläget att Sverige lär sig av erfarenheterna från pandemin och lägger erfarenheterna till grund för planering och ny lagstiftning som gör oss som samhälle bättre rustade nästa gång vi hotas av bred spridning av smitta och allvarlig sjukdom.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.1.1",
+      "sentiment": 0.5,
+      "quote": "PRO menar att även kommunerna i lag ska vara skyldiga att planera för att hantera en omfattande smittspridning av en allmänfarlig eller samhällsfarlig sjukdom.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.8.1",
+      "sentiment": 1.0,
+      "quote": "Det är tydligt att bristen på kapacitet att testa och smittspåra i stor skala var en svaghet i Sveriges pandemihantering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.8.2",
+      "sentiment": 1.0,
+      "quote": "PRO tillstyrker förslaget att regionerna ska säkerställa att de har den kapacitet för provtagning, laboratorieanalys och smittspårning som beredskapen kräver.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

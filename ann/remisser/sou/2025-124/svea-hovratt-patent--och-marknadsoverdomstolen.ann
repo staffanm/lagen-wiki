@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:124/svea-hovratt-patent--och-marknadsoverdomstolen": "b87e32576b7d4f58e32ab8b18b3ee3f07b8cd5dd851006a5c7b56a7e05090d52",
+      "artifact:forarbete/sou/2025-124": "b54e2b2f029309b048608c1f357964bc90dd4cea710603ea2e5c6d8e0fc7c64d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utredningens förslag och överväganden avseende genomförandet av de aktuella direktiven är enligt Patent- och marknadsöverdomstolens mening i allt väsentligt väl underbyggda.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": 0.2,
+      "quote": "Det finns därmed en risk för att det som man vinner i tydlighet går förlorat i bristande överskådlighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": -0.5,
+      "quote": "Ett förändrat tillämpningsområde kan även sägas avvika från en grundtanke i svensk rätt om att marknadsföringsreglerna, utöver konsumentskyddet, också syftar till att motarbeta otillbörliga affärsmetoder på marknaden i stort och att konsument- och näringsidkarintresset av en sund konkurrens många gånger sammanfaller",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec24",
+      "sentiment": -0.5,
+      "quote": "Detta tycks inte vara avsikten med direktivet och framstår som främmande för konsumentskyddande lagstiftning av det här slaget.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/post--och-telestyrelsen": "186227c936754fc98e6697beafd115165e2d6a2a3965879eb4b33a86176ae0fc",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Med utgångspunkt i det ovan sagda välkomnar PTS förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec60",
+      "sentiment": -0.2,
+      "quote": "Risken finns också att orsaken till överträdelsen som lägger till grund för ett beslut om sanktionsavgift inte upptäcks inom två år, särskilt med tanke på de unika utmaningar som testning av högrisk AI-system medför.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.0,
+      "quote": "I den fortsatta beredningen bör det förtydligas hur dessa delvis överlappande bestämmelser förhåller sig till varandra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec694",
+      "sentiment": -0.5,
+      "quote": "För att de myndigheter som utses som marknadskontrollmyndigheter för AIförordningen ska kunna meddela föreskrifter om avgifter för marknadskontroll krävs enligt PTS bedömning ett specifikt bemyndigande för dessa myndigheter i kompletteringsförordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": -0.2,
+      "quote": "Det är oklart om tillämpningen av vissa krav i AI-förordningen är förenliga med mediegrundlagarna, det vill säga tryckfrihetsförordningen (1949:105) och yttrandefrihetsgrundlagen (1991:1469).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5",
+      "sentiment": -0.5,
+      "quote": "Detta gäller särskilt eftersom utredningen inte föreslår någon bestämmelse om överföring av sekretess och/eller någon sekretessbrytande bestämmelse i 10 kap. OSL kopplat till samordning och samverkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.6.4",
+      "sentiment": -0.2,
+      "quote": "I samband med detta vill PTS förtydliga att PTS marknadskontroll enligt radioutrustningslagen är avgiftsfinansierad.",
+      "quote_type": "grund"
+    }
+  ]
+}

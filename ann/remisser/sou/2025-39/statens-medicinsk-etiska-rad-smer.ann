@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:39/statens-medicinsk-etiska-rad-smer": "02159867296f9d709d6e15773bc03b086cd6be73225c6a5b421cd9d024d55665",
+      "artifact:forarbete/sou/2025-39": "030cdbea8ee7c44b3c9a0f433cdd7f751b76efebf39c03c1cc1625da3d87b584"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utredningens diskussion är djupgående och allsidig och förslagen därför väl underbyggda.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4.3",
+      "sentiment": 0.2,
+      "quote": "Smer föreslår regeringen att i den fortsatta beredningen hantera frågan om hur valfrihet och rätten att tacka nej påverkas vid en utveckling från digital teknik som komplement, till en framtid där det mer och mer blir standardalternativ.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.7",
+      "sentiment": -0.5,
+      "quote": "Rådet anser att tillgången till digital teknik inte ska påverkas av befintlig ekonomisk ojämlikhet eller i sig själv bidra till ökad ekonomisk ojämlikhet (genom t.ex. kostnader för installation, abonnemang, underhåll, träning/instruktion etc.).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.7",
+      "sentiment": 0.5,
+      "quote": "Rådet delar utredningens syn att beslutsförmåga inte är en rent medicinsk bedömning, men ser behov av tydlig vägledning för hur sådana bedömningar ska göras, bland annat för att motverka godtycke.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 0.5,
+      "quote": "Smer instämmer i vikten av en framtidssäkrad reglering, men vill framhålla att avancerad artificiell intelligens (AI), t.ex. system för beslutsstöd eller automatiserad bedömning av risk eller behov, kan kräva specifika etiska och rättsliga ramar.",
+      "quote_type": "grund"
+    }
+  ]
+}

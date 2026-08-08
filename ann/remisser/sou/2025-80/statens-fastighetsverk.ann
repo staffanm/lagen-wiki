@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/statens-fastighetsverk": "eab0b6e96d9849ebb6b49112886f7393e7eb5659eec9f66b775cf3241432d89e",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "SFV ställer sig positiv till förslaget att införa koordinatbestämda fastighetsgränser.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a16.6",
+      "sentiment": -0.2,
+      "quote": "SFV befarar att det på sikt uppstår problem med överenskommelser som har blivit godkända men som inte uppfyller det uppställda kravet på att gränsens sträckning inte avviker väsentligt från rätta läget då det inte krävs en mer omfattande utredning av lantmäterimyndigheten för att registrera en överenskommelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.5",
+      "sentiment": -0.5,
+      "quote": "Även om åtgärderna är ett incitament för att effektivisera övergången till kodinatbestämda gränser bör handläggningen, hos lantmäterimyndigheten, inte göras så förenklad att avkall görs på de fastighetsrättsliga bedömningarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.2",
+      "sentiment": -0.5,
+      "quote": "SFV anser att om alla gränspunkter i framtiden lämnas omarkerade riskerar detta att ytterligare bidra till problemet och att kunskap om gränsens rätta läge går förlorad.",
+      "quote_type": "grund"
+    }
+  ]
+}

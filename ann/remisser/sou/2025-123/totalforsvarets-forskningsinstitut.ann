@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:123/totalforsvarets-forskningsinstitut": "1c4d4d6301dd96a6f398f3808dcbede8300f615e39e133d873ea3f15c03de562",
+      "artifact:forarbete/sou/2025-123": "c831d59e895bbc7c3d3bcecad3d6575c5ea79fb529bc06a8743a4e492daded7b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammantaget bidrar detta till att minska risken för oseriösa aktörer och ekonomiskt missbruk inom friskolesektorn.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.1.1",
+      "sentiment": -0.2,
+      "quote": "Förslagen innehåller inget uttryckligt krav på säkerhetsprövning av ägare eller ledning med avseende på antagonistiska kopplingar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": -0.2,
+      "quote": "Det saknas förslag om tillsynsmyndigheten Skolinspektionens skyldighet att samverka med andra relevanta myndigheter, exempelvis SÄPO eller Polisen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec115",
+      "sentiment": -0.2,
+      "quote": "FOI bedömer att trots den genomförda respektive föreslagna reformen kvarstår flera strukturella sårbarheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

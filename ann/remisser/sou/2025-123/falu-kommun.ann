@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:123/falu-kommun": "924e2d8ebfe7b609f66e4ed8334d62ea3a39f80a29308e00e2680f108bb9cda9",
+      "artifact:forarbete/sou/2025-123": "c831d59e895bbc7c3d3bcecad3d6575c5ea79fb529bc06a8743a4e492daded7b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Betänkandet tillstyrks i sin helhet, med undantag för förslaget om att göra kommuners yttranden obligatoriska.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec14",
+      "sentiment": 0.5,
+      "quote": "Förslaget om obligatoriska yttranden tillstyrks under förutsättning att tillståndsgivaren ges i uppdrag att tillmäta dessa yttranden större vikt i prövningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

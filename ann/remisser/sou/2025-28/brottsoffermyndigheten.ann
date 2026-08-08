@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/brottsoffermyndigheten": "b781f8b18fb381e60ba5fc90b423891f99aa73304844e9773abbba182a916004",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förslag som kan medföra att brottslighet förväntas minska och att det brottsförebyggande arbetet stärks är något som är mycket positivt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.1",
+      "sentiment": -0.5,
+      "quote": "Risken finns att en gemensam strategi för alla fyra områden blir för trubbigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "finner inte myndigheten har den placering som följer den bästa ordningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

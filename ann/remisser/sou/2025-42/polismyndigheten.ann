@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/polismyndigheten": "528f2a212d1b77bbd90111b1f81b0faa5913505749ae607805bcaf42ec01d6bb",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten delar utredningens uppfattning att säkerhetsprövningsförfarandet som helhet behöver ses över och anser att det är bekymmersamt att detta sker fragmentariskt, i parallella utredningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.7",
+      "sentiment": -0.5,
+      "quote": "Sårbarheter hos en närstående kan därför antas vara av betydelse för säkerhetsprövningen oavsett säkerhetsklass.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": -0.5,
+      "quote": "Detta eftersom ett negativt utfall, även vid en inledande säkerhetsprövning, kan vara relevant information för verksamhetsutövare vid en framtida rekrytering.",
+      "quote_type": "grund"
+    }
+  ]
+}

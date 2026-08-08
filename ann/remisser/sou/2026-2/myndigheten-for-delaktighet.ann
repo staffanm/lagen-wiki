@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/myndigheten-for-delaktighet": "96113ee2ff93840429c3486bc4175d02967f82adcb4dcbb7ad0c97ea6ca6c52b",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "MFD bedömer samtidigt att centrala frågor om tillgänglighet och förutsättningar för personer med funktionsnedsättning att rösta inte har behandlats i tillräcklig utsträckning i detta delbetänkande.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.3",
+      "sentiment": 1.0,
+      "quote": "MFD konstaterar att kommittén identifierar brister i användarvänlighet och tillgänglighet i dagens valsedelsystem, exempelvis liten text, svårigheter att orientera sig bland valsedlar och begränsade möjligheter att rösta självständigt för personer med synnedsättning (kap. 4.4.3).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": -0.2,
+      "quote": "För vissa väljare kan kravet att använda blanka valsedlar innebära ökade krav på kognitiv förmåga, läs- och skrivförmåga samt minne.",
+      "quote_type": "grund"
+    }
+  ]
+}

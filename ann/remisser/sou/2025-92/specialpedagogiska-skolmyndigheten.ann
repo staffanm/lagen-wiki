@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:92/specialpedagogiska-skolmyndigheten": "8034f6b00e30c35746f682c655f96307e074d20e36ebc28f16d44c8aaa909638",
+      "artifact:forarbete/sou/2025-92": "c1db6346e92cb1aaf69fe092a6e40e7ceba88b5192c9caee2959771165f82273"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Specialpedagogiska skolmyndigheten, SPSM, har med utgångspunkt i myndighetens uppdrag valt att inte ta ställning till utredningens förslag och bedömningar utan lämnar följande kommentarer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.3",
+      "sentiment": 0.5,
+      "quote": "Myndigheten ser positivt på en digital portal eftersom den kan göras tillgänglig genom att erbjuda olika funktioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.5",
+      "sentiment": 0.5,
+      "quote": "SPSM anser att ett tryckt material kan bidra till ökad tillgänglighet och breddar möjligheten för fler att ta del av innehållet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.8",
+      "sentiment": -0.2,
+      "quote": "SPSM noterar att utredningen utelämnat vissa skolformer utan att det tydligt framgår vad motiven till detta är.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.2,
+      "quote": "SPSM vill understryka vikten av att även tillfälliga åtgärder utvecklas med tydliga tillgänglighetskrav och att en eventuell folkutgåva av kulturkanon görs tillgänglig för personer med funktionsnedsättning.",
+      "quote_type": "grund"
+    }
+  ]
+}

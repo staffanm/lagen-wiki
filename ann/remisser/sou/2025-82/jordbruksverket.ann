@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/jordbruksverket": "1fb25271b191b1a6f2e9ad660e5592367decfe85428b202196c0334f264d31ff",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utifrån de förändringar som skett i svenskt jordbruk sedan lång tid tillbaka borde utredningen givits breddat direktiv för att finna lösningar som möter framtida behov än att bevara en situation som redan har varit.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.1",
+      "sentiment": 1.0,
+      "quote": "I utredningen konstateras att de negativa effekterna av förändringar överväger.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": -0.2,
+      "quote": "Utredningen har visat att vissa grundläggande regler kring fastighetsbildning har stor betydelse för möjligheterna till ägarskifte och för att kunna finansiera investeringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": 1.0,
+      "quote": "Den del av utredningen som berör bestämmelserna för överlåtelse i glesbygd kan Jordbruksverket tillstyrka i sin helhet.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

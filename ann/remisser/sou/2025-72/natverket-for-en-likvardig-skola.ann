@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:72/natverket-for-en-likvardig-skola": "e5d40c68a8b3c14a7acee075e995e8752a8d6ed6f9a8397e3433732907558e18",
+      "artifact:forarbete/sou/2025-72": "59e44215ab2cc8c10f2c3c2408927e6a5e205b6be9de35dbe57bb8e7227b8b53"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Nätverket för en Likvärdig skola delar utredningens uppfattning och uppdrag att genom ökad statlig styrning av finansieringen öka likvärdigheten i den svenska skolan i hela landet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "Nätverket för en likvärdig skola anser dock att avdraget bör vara betydligt högre än sex procent.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec301",
+      "sentiment": 0.5,
+      "quote": "Nätverket för en Likvärdig skola anser dock att ”synnerliga skäl” ersätts med ”särskilda skäl”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2.5",
+      "sentiment": 1.0,
+      "quote": "Nätverket för en likvärdig skola instämmer i utredningens förslag om att en nationellt bestämd ersättning till resursskolor bör föregås av en närmare definition av målgrupp och uppdrag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.4.3",
+      "sentiment": -1.0,
+      "quote": "Detta då vi anser att den nationella kostnadsstatistiken inte håller den kvalitet som erfordras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": -1.0,
+      "quote": "Vi anser att dagens system med skolpeng knuten till varje enskild elev som tillämpas i nästan alla kommuner motverkar en likvärdig skola och därför måste avvecklas.",
+      "quote_type": "grund"
+    }
+  ]
+}

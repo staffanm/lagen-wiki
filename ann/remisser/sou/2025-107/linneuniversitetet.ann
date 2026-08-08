@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:107/linneuniversitetet": "07d8647ffd031dc58a15244cf9e4a2a1a391d7774f2dfe1cf9724c7baf99a424",
+      "artifact:forarbete/sou/2025-107": "47622113b6201e4ecf4f8f07faace798ed84e0806822644f3a8e9a35e1a5fff4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Universitetet tillstyrker förslaget och vill anföra följande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec70",
+      "sentiment": -0.2,
+      "quote": "Historiskt har dock storskaliga tekniska lösningar som Bio-CCS tagit längre tid att implementera än beräknat, varför detta bör beaktas med viss försiktighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec74",
+      "sentiment": -0.2,
+      "quote": "Även beräkningar av inbindning enligt LULUCF bör hanteras med försiktighet, då det finns indikationer på att inbindningen avtar på grund av klimateffekter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 0.2,
+      "quote": "Detta medför ett omfattande uppdrag med en bred ansats för hela samhället – alla sektorer måste ställa om.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.5,
+      "quote": "Elbilsförsäljningen i Sverige halkar efter våra nordiska grannländer, och ökningstakten är lägre än i övriga Europa. Detta riskerar att leda till en prognostiserad överproduktion av CO₂ i sektorn, vilket i så fall behöver kompenseras av andra sektorer eller åtgärder.",
+      "quote_type": "grund"
+    }
+  ]
+}

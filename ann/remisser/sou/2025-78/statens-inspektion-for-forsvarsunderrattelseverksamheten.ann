@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:78/statens-inspektion-for-forsvarsunderrattelseverksamheten": "9b0c0939452ae76ef7b4699dbf22d849b8e8ded6b255fda67f2b5ea8d36b584b",
+      "artifact:forarbete/sou/2025-78": "5e962ecad284bd4ad32df402fefc51220b5adbb1f6196029e4d8b81eb1e4f5b2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sammanfattningsvis bör inriktningen på det fortsatta arbetet vara att säkerställa att kontrollverksamheten även i framtiden kan bedrivas på ett ändamålsenligt sätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec18",
+      "sentiment": -0.2,
+      "quote": "En organisatorisk förändring av underrättelsetjänsten kan innebära en relativt omfattande förändring av granskningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3",
+      "sentiment": 0.2,
+      "quote": "den förväntade teknikutvecklingen innebär att myndigheten behöver utveckla sin förmåga ytterligare att granska avancerade tekniska system.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": 0.2,
+      "quote": "Siun måste också tilldelas erforderliga resurser för att kunna fullgöra sitt uppdrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

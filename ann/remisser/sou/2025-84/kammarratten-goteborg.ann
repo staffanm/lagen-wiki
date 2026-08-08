@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:84/kammarratten-goteborg": "cc6c43fdd7ec3ec4aecc440f5d660cabec5b9bf15b9902c0c575e1102a6979cb",
+      "artifact:forarbete/sou/2025-84": "316cc38993c62773077c8f90dc994921ac81d26564be89872d71e339c7a69a0e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarrätten ställer sig positiv till förslaget i sin helhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "Eftersom vissa bestämmelser om befogenheter enbart rör de som vårdas enligt LVU finns risk för att det blir svåröverskådligt, såväl för tillämparen som för de barn och unga som vårdas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.2.2",
+      "sentiment": -0.5,
+      "quote": "Mot den bakgrunden kan kostnaderna för förvaltningsdomstolarna inte anses som försumbara utan i högsta grad reella.",
+      "quote_type": "grund"
+    }
+  ]
+}

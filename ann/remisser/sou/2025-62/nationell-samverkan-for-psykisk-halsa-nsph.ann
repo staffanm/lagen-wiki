@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/nationell-samverkan-for-psykisk-halsa-nsph": "98e3d239b10f014931e9b375b0a0f8531294680c071dbf104c13bfd3c33358a7",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "NSPH anser dock inte att svaret och lösningarna på utmaningarna i sig är ett helt eller delvis förstatligande av hälso- och sjukvården.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.1",
+      "sentiment": 0.5,
+      "quote": "NSPH anser vidare att ett grundläggande problem med ett statligt huvudmannaskap är att många av de gränssnitt som finns idag mellan region och kommun hade funnits kvar, även vid byte av huvudman då det blivit ett nytt gränssnitt mellan stat och kommun.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2",
+      "sentiment": 0.8,
+      "quote": "Att då skapa ett system med ytterligare en huvudman skulle riskera att förvärra dessa samverkansutmaningar ytterligare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 1.0,
+      "quote": "Utmaningarna kring kompetensförsörjning leder också till ojämlikheter i vårdutbud då regioner och orter som enklare kan rekrytera personal ofta också kan erbjuda en större mångfald i vårdutbudet vilket också riskerar att drabba patienter som bor på orter som har större utmaningar i kompetensförsörjningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.6",
+      "sentiment": 1.0,
+      "quote": "Regionerna behöver därför anpassa sin verksamhet utifrån detta vilket i sin tur kan spilla över på regionernas möjlighet att bedriva annan nödvändig vård vilket kan ge undanträngningseffekter, samtidigt som det riskerar att försämra den vård som bedrivs inom rättspsykiatrin.",
+      "quote_type": "grund"
+    }
+  ]
+}

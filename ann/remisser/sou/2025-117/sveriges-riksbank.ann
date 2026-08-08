@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:117/sveriges-riksbank": "9397c6004ac70ec932d22d9b3076185afa7c7fd0c4de8bdc1b9b923536be78b6",
+      "artifact:forarbete/sou/2025-117": "e9f7c3ab9cf49724fafdf32b1ac759e11d234a9fee7d593cc7ebb686a52a59d9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Riksbanken tillstyrker i huvudsak förslagen i Fondmarknadsutredningens slutbetänkande Fondandelsbolag – för en mer konkurrenskraftig fondmarknad, SOU 2025:117.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.2",
+      "sentiment": 0.2,
+      "quote": "Detta förslag, liksom ändrad fondlagstiftning på EU-nivå, kan dock potentiellt leda till ökade risker för den finansiella stabiliteten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec31",
+      "sentiment": 0.5,
+      "quote": "För att undvika att denna skatteförmån utnyttjas på ett icke avsett sätt, föreslår Riksbanken att ytterligare ett villkor för skatteundantaget ska vara att fonden marknadsförs till icke-professionella investerare löpande under fondens livstid och inte endast vid enskilda tillfällen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.22",
+      "sentiment": -1.0,
+      "quote": "Riksbanken bedömer att öppna Eltif-fonder, till följd av värderingssvårigheter och likviditetsobalanser, kan medföra risker från såväl ett konsumentskyddsperspektiv som ett finansiellt stabilitetsperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec33",
+      "sentiment": -0.2,
+      "quote": "Skälet är att fondandelsbolag utgör finansiella företag i den mening som avses i riksbankslagen (2022:1568) och att dessa företag därmed omfattas av flera bestämmelser i riksbankslagen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:24/riksforeningen-vara-gardar": "b921aa2094f010c286abd96bf509c9ca63f5fa60c3d1f813b2215a8af7291049",
+      "artifact:forarbete/sou/2025-24": "88406afe1f6a6b8622563c5c72858e0acc520793bcf2ba1fc08caa4758f55814"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det är en gedigen utredning som har gjorts under en relativt kort period, underbyggd av dialog med film- och biografbranschen, vilka uppfattas som rätt eniga i vilka utmaningar och möjligheter som finns.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.2.5",
+      "sentiment": 1.0,
+      "quote": "Biografen är en kulturell mötesplats, viktig för både den sociala sammanhållningen och för tillgången till film som konstform.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": -0.5,
+      "quote": "I kommunala- och regionala kulturplaner tar man ofta fasta på de nationella målen för filmpolitik och det är olyckligt om avsaknaden av den målgruppen kan medföra en mindre prioriterad verksamhet för barn och unga lokalt.",
+      "quote_type": "grund"
+    }
+  ]
+}

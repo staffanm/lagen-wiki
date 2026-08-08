@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/sveriges-apoteksforening": "e5e17baaeefcc916919133e2a9606759537eb58e6acd8eabc9dce84469c5ce24",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Föreningen ser samtidigt stora utmaningar med att besluten fattas i tillräckligt god tid och med tillräcklig precision för att få en bra effekt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec67",
+      "sentiment": 0.5,
+      "quote": "Det tydliggör förskrivarens ansvar att följa beslut om begränsning och det gör det möjligt att ha kontroller vid förskrivning av nya e-recept för att säkerställa att det inte skickas recept som sen inte får expedieras av apotek (en situation som idag förekommer för de läkemedel som har utlämnandebegränsning).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec66",
+      "sentiment": 0.5,
+      "quote": "för rekvisitionsläkemedel kan begränsningar få stora effekter då det handlar om färre enheter där det kan vara enklare att avgöra vilka som har ett behov och vilka som kan använda annan behandling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec63",
+      "sentiment": 0.5,
+      "quote": "hanteringen av en ny föreskrift för varje enskild begränsning riskerar att ta för lång tid för begränsningen ska hinna få genomslag innan en kritisk bristsituation är ett faktum.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.1",
+      "sentiment": -0.2,
+      "quote": "En bristsituation kan många gånger vara så pass omfattande att även om det finns flera grupper med olika behov så räcker inte den tillgängliga mängden till hela gruppen med störst behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 1.0,
+      "quote": "Sveriges Apoteksförening anser att det är en förutsättning att det införs tekniska stödsystem för att begränsningarna ska kunna hanteras effektivt på apotek.",
+      "quote_type": "grund"
+    }
+  ]
+}

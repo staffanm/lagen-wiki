@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/norrbottens-lans-landsting": "1e2a82e580ae160ecc38824aa88d030cafc9fe575839dd1c18568f048bfe73ab",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Region Norrbotten tillstyrker huvuddragen i förslaget till kompletteringar i den nya säkerhetsskyddslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": -1.0,
+      "quote": "Regionen avstyrker förslaget att införa sanktionsavgifter, då regionen anser att sanktioner inte är ett effektivt verktyg för att förbättra säkerhetsskyddet i regionens verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4",
+      "sentiment": -1.0,
+      "quote": "Det skulle medföra en ökad administrativ börda utan att säkerhetsskyddet förbättras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec418",
+      "sentiment": 0.5,
+      "quote": "Regionen tillstyrker förslaget att Länsstyrelsen får ansvar för stöd och tillsyn, med tillägget att det regionala kollektivtrafikbolaget inkluderas.",
+      "quote_type": "grund"
+    }
+  ]
+}

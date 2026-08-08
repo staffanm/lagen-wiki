@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:56/aklagarmyndigheten": "08b811f29bece989889470c09876e4430ffea36dc2f40604323c88150d4f6b7e",
+      "artifact:forarbete/sou/2025-56": "aa474607a823f641b3c41a3a7a0ae03a90bc89660beb4c770fe2fdd7ff299a48"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Oberoende och självständiga domstolar åir en ftirutsättning ftir rätten till en rättvis rättegång ft)r att värna de grundläggande fri- och rättigheterna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec271",
+      "sentiment": 0.5,
+      "quote": "Statens ansvarsnämnd, som arbetsgivarorgan, bedömer i dag om en åtalsanmälan ska ske, och nåimnden gör också en anmälan om åtal om så är fallet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec26",
+      "sentiment": -0.2,
+      "quote": "Myndigheten anser fortsatt att det under den fortsatta beredningen av lagstiftningsärendet bör övervägas om en person anställd inom Åklagarmyndigheten bör kunna ingå i Domstolsstyrelsen respektive Domarnämnden.",
+      "quote_type": "grund"
+    }
+  ]
+}

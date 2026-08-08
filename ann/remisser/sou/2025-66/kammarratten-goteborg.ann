@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:66/kammarratten-goteborg": "ad66151ca7cb54fbba9a5deb9e427a87e48a9c4f1c14ea6205559e7342e47050",
+      "artifact:forarbete/sou/2025-66": "d17cda5a6b525b2e0549fcf8bcc405271e7eef9479b900db16a2c9a1e0fefab0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarrätten, som har granskat betänkandet utifrån kammarrättens perspektiv, tillstyrker utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec32",
+      "sentiment": 0.5,
+      "quote": "De alternativa förslag som utredningen lämnat förefaller på ett bättre sätt skapa möjlighet för domstolarna att göra en helhetsbedömning i de enskilda fallen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec35",
+      "sentiment": 0.5,
+      "quote": "De alternativa förslag som utredningen lämnat förefaller på ett bättre sätt skapa möjlighet för domstolarna att göra en helhetsbedömning i de enskilda fallen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec64",
+      "sentiment": -0.2,
+      "quote": "Utredningen redovisar inte i betänkandet vad förslagen kommer att innebära för de allmänna förvaltningsdomstolarna i jämförelse med den ordning som gäller i dag.",
+      "quote_type": "grund"
+    }
+  ]
+}

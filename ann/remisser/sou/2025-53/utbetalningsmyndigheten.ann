@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:53/utbetalningsmyndigheten": "daae8682845917407c57799635ae3fe48b3469ae448e67e394b6e5cdc2eed5b4",
+      "artifact:forarbete/sou/2025-53": "1b5d2ced0349cbd7f9e81a7f1c3e41751352e4c3e89c351a85f75a5c2819aa25"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten instämmer i förslaget förutsatt vissa ändringar av det.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.5",
+      "sentiment": -0.5,
+      "quote": "bedömer att möjligheten att utföra effektiva kontroller i efterhand försvåras avsevärt om förslaget genomförs i sin nuvarande utformning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec191",
+      "sentiment": -0.2,
+      "quote": "förslagen, utan förändringar i själva rätten till personlig assistans leda till att kommunerna i större utsträckning kommer att behöva täcka det behov som finns",
+      "quote_type": "grund"
+    }
+  ]
+}

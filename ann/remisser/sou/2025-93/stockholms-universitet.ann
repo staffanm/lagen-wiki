@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:93/stockholms-universitet": "d3b0b62eb8325a0f3414db763eaacdfa329ab4d0a7371e984de2fd286dc30418",
+      "artifact:forarbete/sou/2025-93": "201aa2c9468bea44887a18a07b9556294fb64c34f2aea6d2f31ad09b58f302f0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Stockholms universitet varken tillstyrker eller avstyrker förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec22",
+      "sentiment": -0.5,
+      "quote": "Många av förslagen om intensifiering av odling har direkt negativa konsekvenser för andra samhällsmål, t.ex. om biologisk mångfald och friluftsliv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": -0.2,
+      "quote": "Det finns en risk att orealistiska bedömningar av substitutionseffekter gör att den förväntade klimatnyttan av utredningens förslag är överskattad och att samhället därför riskerar att missa målen om minskade klimatutsläpp och om minskad förlust av biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec34",
+      "sentiment": 0.5,
+      "quote": "Dock är det viktigt att forskningen om skogsskötsel parallellt studerar effekter på produktion och andra värden i skogen såsom biologisk mångfald och friluftsliv.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/neuroforbundet": "170c6bb1add98e1a7678fc581df1c95850eec1631b5221029fe3e9e7782fbc01",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Neuroförbundet ser Vårdansvarskommitténs betänkande som ett viktigt steg mot en mer jämlik, tillgänglig och patientcentrerad hälso- och sjukvård.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": -0.2,
+      "quote": "men menar att utredningen underskattar behovet av ett tydligare nationellt ledarskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4",
+      "sentiment": 1.0,
+      "quote": "Neuroförbundet delar utredningens bedömning om att ett ökat statligt ansvar för dessa områden är önskvärt.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 1.0,
+      "quote": "Neuroförbundet delar kommitténs bedömning att nuvarande ansvar för kompetensförsörjningen, som idag vilar på regionerna, är otillräckligt och bristfälligt samordnat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.3",
+      "sentiment": 0.5,
+      "quote": "Inte minst när det gäller att säkerställa en jämlik och snabbare tillgång till nya effektiva läkemedelsbehandlingar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec119",
+      "sentiment": 0.5,
+      "quote": "men vill betona att vissa grupper (sällsynta sjukdomar) kan behöva särskilda satsningar för att säkerställa jämlik vård.",
+      "quote_type": "grund"
+    }
+  ]
+}

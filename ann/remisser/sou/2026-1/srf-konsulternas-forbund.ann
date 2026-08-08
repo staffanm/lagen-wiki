@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:1/srf-konsulternas-forbund": "b8276bfc30754685d240a3f1de9f8279d8159fab46a09c9b8d5a1e02e09ddf14",
+      "artifact:forarbete/sou/2026-1": "800122abdf1a75716ad0b7e15b8b8e168d5039afbac180a5b4abf6bbfb8f9388"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Omfattningen av komplexa skatteregler leder till onödiga ofrivilliga fel.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.8,
+      "quote": "Även redovisningen blir enklare med ett kostnadsavdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Förslaget med skattereduktion är emellertid väsentligt mer komplicerat än förslaget om kostnadsavdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": -0.5,
+      "quote": "För en effektiv och rättssäker skattekontroll krävs det en separat myndighet med specialkunskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.10.2",
+      "sentiment": -0.2,
+      "quote": "Det är även ett problem att specifik kompetens saknas i förvaltningsdomstolarna.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:82/lansstyrelsen-jamtlands-lan": "35cad96b7cf26b7b9c1f246d72f78647d0aa624ad510448feb8a3418b499e158",
+      "artifact:forarbete/sou/2025-82": "f8eedcbbd07e08b888cc2fe648d4ace46aaed17d10a75971740bd730983efd2c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslagen ligger väl i linje med Länsstyrelsens uppdrag att främja aktivt brukande av jordbruksmark och stärka bosättning och sysselsättning i glesbygd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.1",
+      "sentiment": 1.0,
+      "quote": "markägarbalansen bör bevaras och att möjligheten för aktiebolag att förvärva jordbruksmark inte bör utvidgas",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2.2",
+      "sentiment": 1.0,
+      "quote": "borttagen inlösenskyldighet skapar en mer ändamålsenlig tillämpning av jordförvärvslagen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2.1",
+      "sentiment": 1.0,
+      "quote": "De föreslagna utbildnings- och rutinsatsningarna är avgörande för en enhetlig tillämpning mellan länen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a21.3.1",
+      "sentiment": -0.5,
+      "quote": "Förslagen innebär dock ökad administrativ belastning och ett större behov av juridiskt stöd inom Länsstyrelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.3.1",
+      "sentiment": 0.2,
+      "quote": "Kommunerna har viktig lokal kännedom om markanvändning och bosättningsmönster, och den samverkan har även historiskt varit grunden för avgränsningen av glesbygdsområden.",
+      "quote_type": "grund"
+    }
+  ]
+}

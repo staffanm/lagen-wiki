@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:57/lansstyrelsen-i-orebro": "5ac64ca02fd470a36948d5108e8c2e4e653bb830e7f114084de6e3e7359ff054",
+      "artifact:forarbete/sou/2025-57": "8cf9bb514d6bbb185bf9bc093699cb8e4192e8a8f7352a55e97006d808786230"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Örebro (Länsstyrelsen) välkomnar utredningens väl genomförda arbete och tillstyrker förslagen i stort.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.11",
+      "sentiment": 1.0,
+      "quote": "Civil status ger sannolikt bättre skydd för befolkningen, minskar risken för att polisen och dess lokaler blir legitima mål och underlättar därmed efterlevnaden av folkrätten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen stöder förslaget att Säkerhetspolisen ska kunna besluta om tillfälliga skyddsobjekt, vid behov av omedelbara åtgärder med hänsyn taget till rådande hotbild.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.9.5",
+      "sentiment": -0.5,
+      "quote": "Att skyddsvakter, som är förordnade enligt skyddslagen, innehar kombattantstatus med hänsyn till folkrättsliga principer, är således problematisk och behöver därmed utredas vidare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.11",
+      "sentiment": 0.5,
+      "quote": "Här behövs tydliggöras vad som avses med begreppet ”regional”, då även den högre regionala nivån involverar civilområdesansvariga länsstyrelser.",
+      "quote_type": "grund"
+    }
+  ]
+}

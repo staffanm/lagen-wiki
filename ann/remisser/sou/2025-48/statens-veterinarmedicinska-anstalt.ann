@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/statens-veterinarmedicinska-anstalt": "aae6fda1216482d51f111f80f6af03d64c11bd65292e4c152bc40aed031f17be",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "SVA har inga invändningar gentemot delbetänkandet Stärkt pandemiberedskap men önskar framföra ett fåtal specifika synpunkter som rör de delar av utredningen som närmast berör SVA:s verksamhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.8.2",
+      "sentiment": 1.0,
+      "quote": "Vidare instämmer SVA i bedömningen att staten och regionerna bör ta tillvara på erfarenheterna som kan dras från covid-19-pandemin då externa aktörer (såväl privata som statliga laboratorier) spelade en viktig roll för att säkerställa den storskaliga testningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.8.4",
+      "sentiment": 0.2,
+      "quote": "I vilken grad en sådan lagerhållning är tänkt att också säkerställa tillgången av nödvändigt laboratoriematerial för eventuella externa laboratorier som stödjer regionerna i samband med en framtida krissituation framgår dock inte.",
+      "quote_type": "grund"
+    }
+  ]
+}

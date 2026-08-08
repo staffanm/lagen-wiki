@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:123/ekobrottsmyndigheten": "0ed21158325b3144cd796bd9bb6b4ce018e30efbeb3934e0b373a00cb3060c33",
+      "artifact:forarbete/sou/2025-123": "c831d59e895bbc7c3d3bcecad3d6575c5ea79fb529bc06a8743a4e492daded7b"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Ekobrottsmyndigheten bedömer att utredningens förslag kommer öka möjligheten att stänga ute oseriösa aktörer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.3",
+      "sentiment": 1.0,
+      "quote": "En aktör som redan i befintlig verksamhet inte lever upp till gällande krav kan heller inte förväntas göra det i en utökad verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4.1",
+      "sentiment": 1.0,
+      "quote": "Ekobrottsmyndigheten delar utredningens uppfattning att förslaget kan bidra till att oseriösa aktörer som fått avslag på ansökan till följd av förvärvsförbud inte ska kunna komma runt avslaget genom att köpa ett bolag som redan har ett godkännande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4.2",
+      "sentiment": 1.0,
+      "quote": "Ekobrottsmyndigheten ser positivt på införandet av en sådan upplysningsplikt då det förväntas innebära en förbättrad möjlighet för tillståndsmyndigheten att bedöma den enskilde huvudmannens lämplighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

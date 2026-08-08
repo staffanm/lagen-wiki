@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:73/sveriges-foretagshalsor": "9c798566c18e4612ea9de0530e9358df64a751ce388c05785af246b510021bc0",
+      "artifact:forarbete/sou/2025-73": "c2a1fe43b6173aab9be2669ea936f7d18e791674169ec819e2d91737bd152554"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi välkomnar den föreslagna arbetsmiljöstrategin och instämmer i att den markerar en viktig ambitionshöjning för ett hållbart arbetsliv.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec75",
+      "sentiment": -0.5,
+      "quote": "Tyvärr berör inte utredningen detta faktum eller vad som händer med arbetslivets kunskapsinfrastruktur om av att denna specialitet försvinner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.3",
+      "sentiment": 0.8,
+      "quote": "Givet att strategin påverkar flera olika politikområden vill vi betona vikten av att en nationell samordningsfunktion inrättas och att Statskontoret får i uppdrag att följa upp den nya arbetsmiljöstrategin i sin helhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.4",
+      "sentiment": 1.0,
+      "quote": "Företagshälsovården kan bidra med värdefulla data och erfarenheter i detta arbete, särskilt vad gäller effekter av förebyggande och arbetsanpassande insatser.",
+      "quote_type": "grund"
+    }
+  ]
+}

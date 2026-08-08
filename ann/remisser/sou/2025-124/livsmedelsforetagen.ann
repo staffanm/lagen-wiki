@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:124/livsmedelsforetagen": "9575e02aef7c7e9ec42b7729fc1cf5e0553431047a390b01e5f0de6a407e3650",
+      "artifact:forarbete/sou/2025-124": "b54e2b2f029309b048608c1f357964bc90dd4cea710603ea2e5c6d8e0fc7c64d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sammanfattningsvis anser Livsmedelsföretagen att förslagen i betänkandet i huvudsak är väl avvägda, men att de inte kan genomföras på ett ändamålsenligt sätt utan kompletterande åtgärder, särskilt vad gäller övergångstider och rättslig tydlighet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.5,
+      "quote": "Direktivet saknar normala och rimliga övergångsbestämmelser, trots att de i praktiken förutsätter omfattande anpassningar i företagens verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": 0.2,
+      "quote": "Livsmedelssektorn är redan i dag föremål för omfattande reglering och tillsyn, och det är därför särskilt viktigt att nya regler inte innebär nationell överimplementering eller avvikande tolkningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec226",
+      "sentiment": 1.0,
+      "quote": "Det är också av stor vikt att Konsumentverket snarast ges i uppdrag att driva frågan om en rimlig tillämpning på EU-nivå och att de även snarast utses till behörig myndighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

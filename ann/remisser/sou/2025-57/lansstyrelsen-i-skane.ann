@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:57/lansstyrelsen-i-skane": "ca6bc00916ef39cfa5b709c971f969c66012e281bd6f04ec34269325b1b6345b",
+      "artifact:forarbete/sou/2025-57": "8cf9bb514d6bbb185bf9bc093699cb8e4192e8a8f7352a55e97006d808786230"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen i Skåne län (Länsstyrelsen) välkomnar utredningen och ser liksom utredaren behov av att modernisera lagstiftningen på området.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.13",
+      "sentiment": -0.2,
+      "quote": "En olycklig effekt av utredningens förslag är således att en polisman och en skyddsvakt kan komma att genomföra samma uppgift på samma plats men ha olika folkrättslig status.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4.4",
+      "sentiment": -0.5,
+      "quote": "Trots det minskade formella ansvaret får Länsstyrelsen inte några minskade kostnader i realiteten till följd av utredarens förslag och anser heller inte att ”kostnadsansvaret” minskar.",
+      "quote_type": "grund"
+    }
+  ]
+}

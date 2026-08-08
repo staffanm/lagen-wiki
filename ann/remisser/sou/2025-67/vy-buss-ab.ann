@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/vy-buss-ab": "176f477b122b0123d8569d1db4a43a02adf6afd05632653559b12a26cf215809",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vi stödjer Sveriges Bussföretags rekommendation om att regeringen bör värna ett helhetsperspektiv där alla trafikslag ges rätt förutsättningar att bidra till Arlandas tillgänglighet – med fokus på effektivitet, valfrihet och hållbarhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec313",
+      "sentiment": -0.5,
+      "quote": "Ett borttagande av stationsavgiften utan en sådan bedömning riskerar att slå ut fungerande kommersiell trafik och därigenom öka det långsiktiga kostnadstrycket för skattebetalarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec300",
+      "sentiment": 0.5,
+      "quote": "Vi delar i synnerhet deras bedömning av den kommersiella busstrafikens betydelse för Arlandas tillgänglighet och robusthet, samt deras uppmaning till regeringen att värna konkurrensneutralitet mellan offentligt upphandlad och kommersiell trafik.",
+      "quote_type": "grund"
+    }
+  ]
+}

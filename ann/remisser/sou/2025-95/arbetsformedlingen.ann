@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:95/arbetsformedlingen": "0013fc4ac134961e6504099fb263c214acfc114777732f81d08454c6fd181747",
+      "artifact:forarbete/sou/2025-95": "613ac92cd1fc517e8bc3ec573b279ef426ca513eb1305ec1af52d26309784bd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Detta riskerar i sin tur att minska tillgången på arbetskraft och därmed försvåra kompetensförsörjningen för såväl privata som offentliga arbetsgivare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec9",
+      "sentiment": -1.0,
+      "quote": "Forskning visar att uppskjuten familjeåterförening leder till sämre etablering på arbetsmarknaden och lägre inkomster.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 1.0,
+      "quote": "En sådan ordning bedöms kunna stärka Sveriges attraktionskraft för högkvalificerad arbetskraft med barn i övre tonåren.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": 0.5,
+      "quote": "Myndigheten delar utredningens bedömning att ett tydligt försörjningskrav kan främja etablering på arbetsmarknaden och skapa starkare incitament till egen försörjning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.2",
+      "sentiment": -1.0,
+      "quote": "Möjligheten att leva med sin familj i Sverige, även med barn över 18 år, kan påverka arbetskraftsinvandrares beslut att acceptera ett arbete här.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.2.3",
+      "sentiment": 0.5,
+      "quote": "Arbetsförmedlingen delar utredningens ambition att stärka möjligheterna till egen försörjning och skapa ett tydligare regelverk för anhöriginvandring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.2.5",
+      "sentiment": 1.0,
+      "quote": "åtgärden bedöms stärka regelverkets tydlighet och likabehandling mellan olika grupper av arbetstagare.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/lansstyrelsen-varmland": "f225c3bb1acf710d61eb0bef06d8f212e0bd51fb96154e40094b9004d2c8224b",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Med begränsade resurser hos Länsstyrelsen medför bestämda handläggningstider en risk att handläggningen av dessa ärenden prioriteras på bekostnad av ärenden och insatser som egentligen borde få företräde.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.6.1",
+      "sentiment": -0.5,
+      "quote": "I andra aktuella remisser som förnybart direktivet (KN2025/00895) och kontaktpunkter (KN2025/04239) görs en annan bedömning i motsvarande fråga och ändringar föreslås i kulturmiljöförordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker utredningens förslag om att tyst godkännande inte ska tillämpas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.1.2",
+      "sentiment": 1.0,
+      "quote": "Detta för att undvika otillåten dubbelreglering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.4.2",
+      "sentiment": -0.2,
+      "quote": "Eftersom det går att bosätta sig permanent i ett fritidshus utan något tillstånd eller beslut enligt plan- och bygglagen kan undantaget för just fritidshus ifrågasättas.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:66/skatteverket": "b70a2683cd372f4244d6dcadc6e6ffbd2c718b02b48a19d4fbf8fd9a1b360116",
+      "artifact:forarbete/sou/2025-66": "d17cda5a6b525b2e0549fcf8bcc405271e7eef9479b900db16a2c9a1e0fefab0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket tillstyrker betänkandets förslag och även om förslagen inte primärt berör Skatteverkets huvudsakliga verksamhet så har verket en brottsbekämpande funktion och därför lämnas följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec47",
+      "sentiment": -0.2,
+      "quote": "Dessa regler behöver justeras med anledning av de nya reglerna för att brottsutredande myndigheter ska kunna bibehålla vissa möjligheter att rikta sina utredningsresurser mot prioriterade ärenden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec35",
+      "sentiment": 0.2,
+      "quote": "Det finns ett tydligt signalvärde i en sådan regel som kommer ge en förutsebarhet och inte vara främmande för rättsordningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

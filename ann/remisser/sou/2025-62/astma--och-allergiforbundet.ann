@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/astma--och-allergiforbundet": "e269223aebb221a34c4cdc387f707de42d6addc85ef202b91e0048fcc3dd377b",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi ser Vårdansvarskommitténs betänkande som ett viktigt steg mot en mer jämlik, tillgänglig och patientcentrerad hälso- och sjukvård.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.1",
+      "sentiment": 0.5,
+      "quote": "Astma- och Allergiförbundet delar utredningens uppfattning att huvudmannaskapet inte ensamt är avgörande för att göra vården mer jämlik, tillgänglig och sammanhållen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4",
+      "sentiment": 1.0,
+      "quote": "Vi delar utredningens bedömning om att ett ökat statligt ansvar för dessa områden är önskvärt.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 1.0,
+      "quote": "Astma- och Allergiförbundet delar kommitténs bedömning att den nuvarande ordningen där ansvaret vilar på regionerna, är otillräckligt och bristfälligt samordnat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.3",
+      "sentiment": -0.5,
+      "quote": "Särskilt för astma har det begränsade urvalet på ett flertal regioners så kallade Kloka listor, blivit ett problem givet de bestående problemen med restnoteringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec119",
+      "sentiment": 0.5,
+      "quote": "Riktade statsbidrag bör användas restriktivt, men i vissa fall kan särskilda satsningar krävas för att säkerställa en god och jämlik vård.",
+      "quote_type": "grund"
+    }
+  ]
+}

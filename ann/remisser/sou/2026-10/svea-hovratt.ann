@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/svea-hovratt": "01bbc3667d5efad449cbf7b4c435bc997dbfe0af439afa4401b0a54a79073df8",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Hovrätten, som konstaterar att utredningens förslag genomgående håller en hög nivå, lämnar förslagen i huvudsak utan erinran.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.5,
+      "quote": "En sådan avgränsning förtydligar att det som avses är näringspenningtvätt av normalgraden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8-2",
+      "sentiment": -1.0,
+      "quote": "Av de skäl som utredningen redogjort för instämmer hovrätten i utredningens bedömning",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "Hovrätten bedömer att för att nå det önskade resultatet framstår alternativ fem som mest ändamålsenligt.",
+      "quote_type": "grund"
+    }
+  ]
+}

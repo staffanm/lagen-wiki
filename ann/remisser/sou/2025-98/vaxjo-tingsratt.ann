@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/vaxjo-tingsratt": "9e47db464b7e8f129daade05d0f03420de0018c08c4704c83c31bc50084cea78",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Utöver det ovan angivna har mark- och miljödomstolen inga synpunkter på förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 0.2,
+      "quote": "En annan fråga som kan behöva klargöras är exempelvis vilket kostnadsansvar som gäller på respektive myndighet när ett ärende överlämnas samt hur fakturering ska ske för redan nedlagt arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec30",
+      "sentiment": 0.2,
+      "quote": "Om syftet är att skapa förutsebarhet avseende vilka kostnader en sakägare ska betala samt att minska risken för framtida tvister, bör en alternativ ordning övervägas som omfattar fler förrättningsmoment och därmed fler ärenden.",
+      "quote_type": "grund"
+    }
+  ]
+}

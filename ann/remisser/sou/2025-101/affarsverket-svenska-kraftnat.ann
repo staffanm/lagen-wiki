@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/affarsverket-svenska-kraftnat": "56ce6b0076ffa09f1a98b5e27603d8407db48bd0b0c0be78696cb841a2ef8c49",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "I övrigt har Svenska kraftnät inga ytterligare synpunkter på promemorian.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec594",
+      "sentiment": 1.0,
+      "quote": "Svenska kraftnät tillstyrker att endast en sektorsmyndighet ska ansvara för att AI-system med hög risk som förtecknas i punkten 2 i bilaga III till AIförordningen registreras i enlighet med artikel 49.5 i AI-förordningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec595",
+      "sentiment": 1.0,
+      "quote": "för att inte ålägga Energimyndigheten att bygga upp kompetens inom ett område som ligger längre utanför deras huvudsakliga verksamhetsområde.",
+      "quote_type": "grund"
+    }
+  ]
+}

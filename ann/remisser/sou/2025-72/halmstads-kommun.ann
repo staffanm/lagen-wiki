@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:72/halmstads-kommun": "2eccfbf800432e929371531efcc4f8f4adb69671a758328f8ef265e36be7013b",
+      "artifact:forarbete/sou/2025-72": "59e44215ab2cc8c10f2c3c2408927e6a5e205b6be9de35dbe57bb8e7227b8b53"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Halmstads kommun ser att syftet med förslaget är att öka likvärdigheten i den svenska skolan och huvudförslagen har en god intention men kommunen är tveksam till om en vägledande skolpengsnorm som innefattar alla kostnadsslag kommer att öka likvärdigheten mellan skolor i landet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Halmstads kommun är positiv till att normen blir vägledande istället för bindande.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": -0.5,
+      "quote": "Stora skillnader i kostnader för lokaler och måltider mellan kommuner kommer att påverka vad kommunen kan lägga på undervisning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Halmstads kommun ställer sig positiv till övriga förslag om att införa avdrag för kommunens utbudsansvar",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.5.2",
+      "sentiment": 0.5,
+      "quote": "även om det kräver mer av kommunen i form av tolkningar och ställningstaganden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.3",
+      "sentiment": 0.2,
+      "quote": "ser svårigheter med att få en helt rättvisande bild när kostnadsfördelningar görs av många olika roller och på flera nivåer 1 kommuner som dessutom organiseras olika.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec129",
+      "sentiment": -0.2,
+      "quote": "Halmstads kommun vill också lyfta en möjlig risk med modellens årliga uppräkning, som görs med hjälp av KPIF.",
+      "quote_type": "grund"
+    }
+  ]
+}

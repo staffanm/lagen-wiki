@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:99/ostersunds-kommun": "7cb71e2b6d06c907ba6c5c9cc96b8504b20544472fd0ecb0bef78d5aa69f5687",
+      "artifact:forarbete/sou/2025-99": "6c1cd093ee04097aeceeff8169f890fa879410d8b56abaf496322e4ed42c73f0"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Östersunds kommun avstyrker förslaget då kommunen anser att förslaget inte är i linje med barnkonventionen och mänskliga rättigheter, såsom skydd mot diskriminering och rätten till privat- och familjeliv.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.3.2",
+      "sentiment": -0.5,
+      "quote": "Östersunds kommun bedömer att en mer kortsiktig tillvaro vid återkallelse av permanent uppehållstillstånd kan leda till ohälsa vilket i sin tur kan leda till ett tryck på skola, socialtjänst och andra kommunala resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.7",
+      "sentiment": -0.5,
+      "quote": "Kommunen ser en risk att kunna förlora anställda som idag har permanent uppehållstillstånd om dessa inte kan beviljas tidsbestämt uppehållstillstånd eller medborgarskap.",
+      "quote_type": "grund"
+    }
+  ]
+}

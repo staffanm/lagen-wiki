@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:87/lidingo-kommun": "b880b7e6b21aee0df4a8daed701766fa83e40ba49a113f18df9c174d3fb01c83",
+      "artifact:forarbete/sou/2025-87": "9df8cd50f8f07d5fe6625a7096a7d32e74f5028048c96cf2db13ef02650c1ac9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Lidingö stad stöder utredningens övergripande ambitioner, men vill understryka att de föreslagna åtgärderna måste utformas så att de är rättssäkra, proportionerliga och praktiskt hanterbara för kommunal verksamhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 0.8,
+      "quote": "Ett tydligare och mer ändamålsenligt regelverk är viktigt för att förebygga oegentligheter och stärka allmänhetens förtroende för den offentliga förvaltningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec21",
+      "sentiment": -0.2,
+      "quote": "Det finns en risk att detta i praktiken motverkar det viktiga arbetet mot korruption och välfärdsbrottslighet som just nu går på högvarv i hela det offentliga Sverige, inte minst i kommunerna, eftersom professionella, engagerade och initiativrika tjänstemän är en förutsättning för att upptäcka och agera mot oegentligheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

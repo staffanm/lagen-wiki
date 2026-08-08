@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:24/riksarkivet": "644972af14f5e362a69409b386da38c8917508e9f21146f4a93e6bf004735132",
+      "artifact:forarbete/sou/2025-24": "88406afe1f6a6b8622563c5c72858e0acc520793bcf2ba1fc08caa4758f55814"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Riksarkivet tillstyrker i huvudsak utredningens förslag, som bland annat lyfter flera viktiga punkter kopplat till bevarandet och tillgängliggörande av nutida och framtida filmarv.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": 0.2,
+      "quote": "Riksarkivet vill i detta sammanhang understryka vikten av att det avsätts resurser för det långsiktiga digitala bevarandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": -0.5,
+      "quote": "Risken finns annars att filmarvet förbises och inte får det ekonomiska stöd det behöver.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.8",
+      "sentiment": 0.5,
+      "quote": "Riksarkivet anser dock att Filminstitutet och Kungliga biblioteket vid uppdragets genomförande ska samråda med Riksarkivet.",
+      "quote_type": "grund"
+    }
+  ]
+}

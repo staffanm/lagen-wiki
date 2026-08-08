@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/goteborgs-tingsratt": "a1a429e972b57fe8af2bc92cfaa717f9cbf46b5db183bf97ff767fb165fe347f",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Tingsrätten delar utredningens bedömning om att kartläggande tvångsmedel inte bör införas.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec48",
+      "sentiment": 1.0,
+      "quote": "De skäl mot en sådan reglering som presenteras i betänkandet är mycket övertygande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec54",
+      "sentiment": -0.5,
+      "quote": "Det är för tingsrätten uppenbart att förslagen kommer lägga ytterligare börda på de allmänna domstolarna som sammantaget med tidigare reformer inte ryms inom befintliga anslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

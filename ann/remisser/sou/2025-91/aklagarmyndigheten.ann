@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/aklagarmyndigheten": "c8a04d55b41e2f2e0d7753b4c71f22f448ac34a1b286c9e3fcb7738f1c6f2a8f",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Sammantaget är det av stor vikt för den brottsbekämpande verksamheten att kunna få uppgifter från testamentsregistret.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec9",
+      "sentiment": 1.0,
+      "quote": "den nuvarande ordningen kan uppfattas som stötande mot det allmäna rättsuppfattningen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec439",
+      "sentiment": -1.0,
+      "quote": "Det är inte sällsynt att testamenten har en central roll i brottsutredningar som rör allvarlig brottslighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

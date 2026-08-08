@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/brottsoffermyndigheten": "9e46cc2079d82ef434887a668005f9ecb1a988a1899a6c410dd43fbb5197217e",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten kan konstatera att de flesta av förslagen gagnar såväl enskilda brottsoffer som brottsofferkollektivet och är således positiv till de flesta förslagen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.11",
+      "sentiment": -0.5,
+      "quote": "Det finns också ett betydande mått av upprättelse för brottsoffer i att ersättningen kommer från gärningspersonen och inte från staten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6.1",
+      "sentiment": 0.5,
+      "quote": "Särskilt eftersom Brottsoffermyndigheten i princip saknar möjlighet att lämna brottsskadeersättning för sak- och rena förmögenhetsskador.",
+      "quote_type": "grund"
+    }
+  ]
+}

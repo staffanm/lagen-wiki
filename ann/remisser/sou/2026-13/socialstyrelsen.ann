@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:13/socialstyrelsen": "c33e63b3915b27544e5f76b1010fe716f6f93f6ebde7dc7c469ad4dbef86b34c",
+      "artifact:forarbete/sou/2026-13": "aa7c4aa821e82ffd40ba6d95445a5ac6a4b6de75f8e6b57acfe2ae5301506548"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Förslagen riskerar att bestraffa barn för handlingar som de ännu inte är fullt kapabla att förstå.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec286",
+      "sentiment": -0.5,
+      "quote": "Utredningen har inte analyserat förslagen ur ett barnrättsligt perspektiv och vilka konsekvenser som förslagen kan medföra för barn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.3",
+      "sentiment": -0.5,
+      "quote": "Socialstyrelsen anser emellertid att det inte finns vetenskapligt stöd som visar att kriminalisering av vissa handlingar skulle minska incitamenten för att rekrytera och utnyttja barn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.4",
+      "sentiment": 0.5,
+      "quote": "Socialstyrelsen instämmer i detta och vill understryka vikten av att bedriva ett brett förebyggande arbete och att aktivt verka för att stärka skyddsfaktorer för barn och unga, ett arbete där socialtjänsten har en fortsatt viktig roll.",
+      "quote_type": "grund"
+    }
+  ]
+}

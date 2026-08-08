@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/huddinge-kommun": "087766848e779c6b2f68f640a9f0f32b838d20baf4ff29ab38f7eeb89ca3ea8a",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Det finns dock förslag i remissen som är otydliga och som med fördel behöver preciseras och utvecklas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.3.3",
+      "sentiment": -0.5,
+      "quote": "Här saknas det en uppskattning av hur mycket merarbete detta innebär samt hur stor kostnad det medför för kommunerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5.3",
+      "sentiment": -0.2,
+      "quote": "Det finns en risk att återinförandet av vandel i svensk lagstiftning motverkar intentionerna i den nya socialtjänstlagen på så sätt att klienter inte vågar lämna uppgifter till kommunen av rädsla för att de kan lämnas ut till Migrationsverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.9",
+      "sentiment": -0.2,
+      "quote": "Den utökade uppgiftsskyldigheten till Migrationsverket som föreslås införas kommer innebära svåra bedömningar och intresseavvägningar för socialtjänsten i relation till 26 kap §1 OSL där det beskrivs att sekretess gäller inom socialtjänsten för uppgift om en enskilds personliga förhållanden, om det inte står klart att uppgiften kan röjas utan att den enskilde eller någon närstående till denne lider men.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5.5",
+      "sentiment": -0.2,
+      "quote": "Vidare finns det en risk att definitionen av vandel kan uppfattas som godtycklig vilket kan göra den nya lagstiftningen svår att tillämpa.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:63/svensk-forening-for-rontgensjukskoterskor": "c7bad3628c3f7d6405c19b9c0b9ec3636729147367600ccbc6ef9cb3900c8195",
+      "artifact:forarbete/sou/2025-63": "461094f462cdf3d5e300f64df1c13bc71f9e5017089a2d108dbaf9978b04511e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "anser att en formell, reglerad specialistutbildning är avgörande för att säkerställa god och säker vård, attrahera och behålla kompetenta röntgensjuksköterskor, rekrytering av studenter, samt främja forskning och utveckling inom området",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4.7",
+      "sentiment": -0.5,
+      "quote": "det i betänkandet saknas bärande argument att inte införa en reglerad specialistexamen för röntgensjuksköterskor i högskolan",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec43",
+      "sentiment": -0.5,
+      "quote": "Uppdragsutbildningar genomgår inte samma kvalitetssäkring som reguljära universitets- och högskoleprogram, vilket riskerar att leda till bristande vetenskaplig kvalitet, ojämlik utbildningsnivå och minskad nationell likvärdighet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7",
+      "sentiment": 1.0,
+      "quote": "Detta ger förutsättningar för livslångt lärande och för att hålla sig à jour med utvecklingen inom yrket och kontinuerligt uppdatera sin kompetens",
+      "quote_type": "grund"
+    }
+  ]
+}

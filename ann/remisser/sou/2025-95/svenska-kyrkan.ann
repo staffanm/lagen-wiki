@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:95/svenska-kyrkan": "69c90536b75b28449866ccbfc017276f92d83f68abb4dfa4ef2121e39daea44f",
+      "artifact:forarbete/sou/2025-95": "613ac92cd1fc517e8bc3ec573b279ef426ca513eb1305ec1af52d26309784bd1"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Svenska kyrkan anser att förslagen riskerar att leda till otillåtna inskränkningar av rätten till respekt för familjeliv, strida mot barns rättigheter enligt barnkonventionen och att de riskerar att påverka integrationen negativt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec9",
+      "sentiment": -1.0,
+      "quote": "Barn riskerar därmed att leva separerade från sin förälder under en avsevärd tid, med negativa konsekvenser för hälsa, utveckling och skolgång.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.4",
+      "sentiment": -1.0,
+      "quote": "I motsats till utredningens förslag anser Svenska kyrkan att alternativt skyddsbehövande ska ha rätt till rätt till familjeåterförening på samma villkor som flyktingar. Detta är även i linje med EU-kommissionens riktlinjer för tillämpning av familjeåterföreningsdirektivet (COM(2014)210).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": -1.0,
+      "quote": "Svenska kyrkan anser att det är orimligt att familjer åter riskerar att splittras efter att ha återförenats och byggt upp ett liv i Sverige.",
+      "quote_type": "grund"
+    }
+  ]
+}

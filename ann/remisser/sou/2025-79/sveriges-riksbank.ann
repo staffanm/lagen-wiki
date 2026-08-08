@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/sveriges-riksbank": "44c1ae24c8c6d084bfd66aba7eb07a278d2a240bd9557046a88a600e04a3f860",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Riksbanken tillstyrker förslaget att överföra vissa arbetsuppgifter från Myndigheten för samhällsskydd och beredskap (MSB) till Försvarets radioanstalt (FRA) såsom det framförs i utredningen Samlade förmågor för ökad cybersäkerhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3",
+      "sentiment": 1.0,
+      "quote": "Enligt Riksbanken är det rimligt att FRA får både rätt att utfärda föreskrifter och mandat att samordna tillsynen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3.4",
+      "sentiment": -0.5,
+      "quote": "Samtidigt bör inte FRA själva bedriva tillsyn genom att kontrollera efterlevnaden av föreskrifterna eller utfärda sanktioner.",
+      "quote_type": "grund"
+    }
+  ]
+}

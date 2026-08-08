@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/forvaltningsratten-i-falun": "9aaf5541a6980f65c488c09fd4470f4949707dffaee8bd916f7469b69afb19f3",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Införandet av ett centralt register för testamenten är ytterst välbetänkt och kommer att minska antalet testamentstvister avsevärt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.7.6",
+      "sentiment": 1.0,
+      "quote": "Införandet av ett centralt register för testamenten är ytterst välbetänkt och kommer att minska antalet testamentstvister avsevärt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7-2",
+      "sentiment": 0.5,
+      "quote": "Vidare tillstyrker förvaltningsrätten förslaget om begränsning av laglottsrätten i vissa fall (avsnitt 7), med undantag för att det inte bör finnas någon istadarätt i de fall då arvlåtaren kan begränsa en bröstarvinges laglott (avsnitt 7.3.3).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.3",
+      "sentiment": -1.0,
+      "quote": "Det saknas både logiskt samband och bärande motiv att införa ytterligare ett undantag till nackdel för exempelvis ett barnbarn, som saknar samröre med den brottsliga gärningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

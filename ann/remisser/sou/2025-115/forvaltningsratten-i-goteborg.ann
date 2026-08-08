@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/forvaltningsratten-i-goteborg": "637616fdedea4fcfff622450ac2e4f8837208376329e5d55883d8fc8eced281c",
+      "artifact:forarbete/sou/2025-115": "bec7c3543fea2581969913d65818e88382eb837a2225069385fe8e45627f1d20"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Förvaltningsrätten i Göteborg lämnar, utifrån de aspekter som domstolen har att beakta, följande synpunkter på betänkandets förslag i de delar som avser överklagande och konsekvenser för domstolarna.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.14",
+      "sentiment": -0.2,
+      "quote": "Som anges på s. 462-463 i utredningen kan mål som gäller överklagande av sådana beslut innehålla komplexa tekniska förhållanden som kräver sakkunnig expertis.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.13",
+      "sentiment": -0.5,
+      "quote": "Utredningens förslag innebär att domstolarna tillförs ytterligare måltyper, vilket ofrånkomligen leder till en ökning av antalet mål.",
+      "quote_type": "grund"
+    }
+  ]
+}

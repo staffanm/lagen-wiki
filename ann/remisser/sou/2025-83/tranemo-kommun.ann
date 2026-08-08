@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:83/tranemo-kommun": "a177f7af575327bee327f03c5ad3ac9ae4343100a45ab26e534542de0927626a",
+      "artifact:forarbete/sou/2025-83": "fe22b84e7351f785a71dbd8034fd7c683f3f2c341350b360482faa5784f9ef16"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Ett nationellt förbud är inte motiverat utifrån våra lokala förhållanden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": 0.5,
+      "quote": "Vi instämmer i att ordningslagen redan ger kommuner och Polismyndigheten tillräckliga verktyg för att hantera penninginsamling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec157",
+      "sentiment": -0.5,
+      "quote": "Begreppet 'allmän plats' är alltför vidsträckt och kan leda till att människor i utsatthet kriminaliseras utan att det föreligger ett faktiskt ordningsproblem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.2",
+      "sentiment": -1.0,
+      "quote": "Ett nationellt förbud enligt brottsbalken riskerar att bli oproportionerligt och rättsosäkert.",
+      "quote_type": "grund"
+    }
+  ]
+}

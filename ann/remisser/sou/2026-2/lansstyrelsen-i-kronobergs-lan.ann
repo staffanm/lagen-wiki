@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/lansstyrelsen-i-kronobergs-lan": "8390c7b39d1bcbf2bd7e5a81890828c6e596c42f93a7a4fbd3fe3882f138a39b",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen välkomnar förslagen och tillstyrker i huvudsak dessa.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3.3",
+      "sentiment": -1.0,
+      "quote": "Det blir en säkrare hantering av valsedlar när det endast är valadministrationen som hanterar dessa.",
+      "quote_type": "grund"
+    }
+  ]
+}

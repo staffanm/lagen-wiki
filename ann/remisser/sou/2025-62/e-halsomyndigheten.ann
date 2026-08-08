@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/e-halsomyndigheten": "654c1f9af67da8681a9657a53e73bd980d9015e53b79570b8034fdb1c0dde02f",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "E-hälsomyndigheten har inga synpunkter på utredningens förslag",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.4.4",
+      "sentiment": 1.0,
+      "quote": "E-hälsomyndigheten ställer sig positiv till utökat ansvar för att samla in information om vaccinationer och att göra den tillgänglig i en centraliserad källa för att möta både individens, hälso- och sjukvårdens och smittskyddets behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.7",
+      "sentiment": 1.0,
+      "quote": "Myndigheten delar utredningens bedömning att det är angeläget att bereda vidare förslagen som E-hälsomyndigheten och Socialstyrelsen lämnat i rapporten Sjuktransporter i Sverige vid kris och krig (2025).",
+      "quote_type": "grund"
+    }
+  ]
+}

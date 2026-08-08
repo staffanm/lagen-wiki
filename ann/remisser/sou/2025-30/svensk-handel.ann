@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/svensk-handel": "6295b084f0fd937bf87d0eda6f5604acea0e1f0503119ce4a3191c6967909259",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Svensk Handel välkomnar självfallet utredningens ambition att förbättra regelverket, men anser att ytterligare och mer offensiva åtgärder krävs för att underlätta begagnathandeln och donationer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": -0.5,
+      "quote": "Svensk Handel välkomnar en utvidgning av den förenklade förfarandet av vinstmarginalbeskattningen, men menar att förslaget är alltför begränsat, komplicerat och inte beaktar de olika behoven hos olika branscher, vilket leder till en minskad flexibilitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": -0.2,
+      "quote": "Detta är visserligen välkommet men medför begränsad förbättring då Skatteverkets tillämpning och uttalande i Rättslig vägledning redan åtgärdar behovet och en väl fungerande donationsverksamhet fungerar redan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec222",
+      "sentiment": -0.5,
+      "quote": "Utredningen anser dock att undantaget för gåvor av mindre värde har ett begränsat tillämpningsområde vid donationer till hjälporganisationer och liknande. Det tycker Svensk Handel är olyckligt och missvisande.",
+      "quote_type": "grund"
+    }
+  ]
+}

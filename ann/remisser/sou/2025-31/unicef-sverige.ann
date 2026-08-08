@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:31/unicef-sverige": "7acbc15e0858ec7eff7fa2e17522cdb18a9c81e274eb1350f7f0fb4c5cf978f9",
+      "artifact:forarbete/sou/2025-31": "e7c4dbe9b042c6e1d10f651782855418bac084c351c484930a03ffa7ab2a06bd"
+    }
+  },
+  "overall": {
+    "sentiment": -0.8,
+    "quote": "Sammantaget ställer sig UNICEF Sverige mycket kritisk till förslaget då det för med sig negativa konsekvenser för barn och innebär en inskränkning av barns rättigheter som varken är godtagbar eller proportionerlig.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.6.2",
+      "sentiment": -1.0,
+      "quote": "det inte får anses förenligt med barnets bästa enligt artikel 3 eller artikel 22 i barnkonventionen att begränsa barns rätt till offentligt biträde på det sätt som utredningen föreslår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": -1.0,
+      "quote": "En utmönstring av möjligheten till permanenta uppehållstillstånd för med sig en otrygghet och en oförutsebarhet som riskerar att negativt påverka de berörda barnen och deras hälsa, vilket inte är förenligt med barnkonventionen och dess grundprinciper.",
+      "quote_type": "grund"
+    }
+  ]
+}

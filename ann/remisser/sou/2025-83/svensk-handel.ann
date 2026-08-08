@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:83/svensk-handel": "109a1dba924af1e6af845036409af5858171e6dd302604dcc9f66cfa2abbf27a",
+      "artifact:forarbete/sou/2025-83": "fe22b84e7351f785a71dbd8034fd7c683f3f2c341350b360482faa5784f9ef16"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Den nuvarande ordningen – att kommuner kan reglera genom lokala ordningsföreskrifter – är ändamålsenlig.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.1",
+      "sentiment": 1.0,
+      "quote": "Vi delar bedömningen att det saknas behov av ett nationellt tiggeriförbud och att kommunal reglering enligt ordningslagen ger nödvändig flexibilitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.4",
+      "sentiment": 1.0,
+      "quote": "Detta ligger i linje med HFD-praxis om lokala ordningsföreskrifter och utredningens samlade genomgång av för- och nackdelar.",
+      "quote_type": "grund"
+    }
+  ]
+}

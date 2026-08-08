@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/svensk-handel": "8913c1d9dddf1dfb9819c1e8ce8277f0658ca91fe0129d0528a07e9c6864a593",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.7,
+    "quote": "Svensk Handels grundhållning i aktuell fråga om livsmedelskontroll är att det utgör en trygghet för såväl handelns företag som för konsumenten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a21.4",
+      "sentiment": 0.2,
+      "quote": "Samtidigt är vi skeptiska till hur detta ska gå att kombinera med de kostnadsdrivande EU-regler som ännu inte implementerats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a21.6.1",
+      "sentiment": 1.0,
+      "quote": "Svensk Handel ser också positivt på efterhandsdebitering.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a19.1.5",
+      "sentiment": 0.5,
+      "quote": "Stor branschförståelse skapar goda möjligheter för givande samverkan och förståelse för varandras roller och utgångspunkter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a22",
+      "sentiment": 1.0,
+      "quote": "Dialog, rådgivning och stöd centralt för en fungerande kontrollorganisation.",
+      "quote_type": "grund"
+    }
+  ]
+}

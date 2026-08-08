@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:78/forsvarets-materielverk": "e3408efd2810fa9aea14fb1a365059735457487e0a1ce31e971cc4948314f779",
+      "artifact:forarbete/sou/2025-78": "5e962ecad284bd4ad32df402fefc51220b5adbb1f6196029e4d8b81eb1e4f5b2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "FMV är generellt positiva till de reformförslag som presenteras i betänkandet då de syftar till tillväxt, ökad samordning och stärkt interoperabilitet inom underrättelseområdet, både nationellt och internationellt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.6",
+      "sentiment": 0.5,
+      "quote": "FMV anser att Försvarsmakten är den naturliga hemvisten för samordning av teknisk underrättelsetjänst.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1.2",
+      "sentiment": 1.0,
+      "quote": "i syfte att åstadkomma en bättre personalförsörjning, en nationellt enhetlig kompetensbas inom underrättelsesamhället samt förbättrad möjlighet till kompetensutveckling för redan rekryterad personal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.5",
+      "sentiment": 0.2,
+      "quote": "om en ny myndighet ska ha övergripande ansvar för detta är det väsentligt att först tydliggöra gränsytor, styrning och mandat i förhållande till nuvarande verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4",
+      "sentiment": -0.2,
+      "quote": "En långsiktig finansieringslösning för försvarsunderrättelseverksamheten vid FMV är en förutsättning för strategisk planering",
+      "quote_type": "grund"
+    }
+  ]
+}

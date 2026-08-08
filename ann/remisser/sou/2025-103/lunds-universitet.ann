@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:103/lunds-universitet": "cd1dd7aa32bb01459b7bfa86f1683e20854623a376815e3e317ff57d1e3ee78d",
+      "artifact:forarbete/sou/2025-103": "3494f54a32c4c4ce08c80df5c6f1304db463ec2825930548fa2363c4c69ec03f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Detta remissvar fokuserar på förslaget till ny produktansvarslag och då på de delar där det, enligt Juridiska fakulteten samt Institutionen för handelsrätt, kan finnas skäl att överväga andra lösningar än de presenterade.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec20",
+      "sentiment": -0.2,
+      "quote": "Lämpligare hade varit att tala om ett skriftligt uppdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec23",
+      "sentiment": 0.2,
+      "quote": "Den nya regeln framstår som enklare att tillämpa, men med den reservationen att det kan uppkomma frågor kring vad som ska gälla för den händelse att den skadade egendomen endast vid något enstaka tillfälle använts för privat bruk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec23",
+      "sentiment": -0.5,
+      "quote": "Det kan med andra ord ifrågasättas om motiveringen till att begränsa ersättningsansvaret för skada i data är hållbar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec112",
+      "sentiment": -0.5,
+      "quote": "Om detta är en riktig iakttagelse ligger det nära till hands att ifrågasätta behovet av ett sådant undantag.",
+      "quote_type": "grund"
+    }
+  ]
+}

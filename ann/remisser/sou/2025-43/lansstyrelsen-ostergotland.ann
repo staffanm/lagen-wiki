@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/lansstyrelsen-ostergotland": "d099fd0465b6ee49e622f27afd0de3014975f6d842ee46848c8a6852d9758844",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen tillstyrker i stort förslaget men det finns en del sakfel rörande veterinär verksamhet som gör att några förslag inte kan genomföras utan ytterligare förändringar i lagstiftningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.1.1",
+      "sentiment": 0.2,
+      "quote": "Det är av stor vikt att samma system implementeras för veterinärmedicinska läkemedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.4",
+      "sentiment": 0.2,
+      "quote": "Det är viktigt att se på möjligheten att inkludera djur för detta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.1",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelserna och Läkemedelsverket informerade om bristen och att de som förordnade läkemedlet skulle begränsa användningen men det verkade inte ge någon effekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5.4",
+      "sentiment": -0.5,
+      "quote": "Det finns idag inget mandat för länsstyrelsen att utföra tillsyn enligt Läkemedelsverkets föreskrifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.6",
+      "sentiment": -0.5,
+      "quote": "Utredningens bedömning i avsnitt 3.6.6 IVO, Läkemedelsverket och länsstyrelserna utövar tillsyn över begränsningar stämmer inte med gällande lagstiftning, se kommentarer ovan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8.2",
+      "sentiment": 0.2,
+      "quote": "Enligt avsnitt 3.8.1 om prioriteringar som kan behöva göras för förordnande till människor bör samma göras för läkemedel till djur.",
+      "quote_type": "grund"
+    }
+  ]
+}

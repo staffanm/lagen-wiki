@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/kammarkollegiet": "f358a0b59fa4e226ed4f27fa51ced8888563b4435d9f9053c9d568cb162812aa",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Mot bakgrund av de intressen Kammarkollegiet har att bevaka, lämnas följande yttrande över ovanstående betänkande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": 1.0,
+      "quote": "Bland annat skulle en sådan arvsrätt göra att Allmänna arvsfonden kommer att minska väsentligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec377",
+      "sentiment": 0.5,
+      "quote": "Detta för att undvika fortsatt osäkerhet kring bland annat dödsbodelägarkretsen och rätten till efterarv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.2,
+      "quote": "ett frivilligt register kan vara en otillräcklig åtgärd för att eliminera eller förebygga arvstvister och minska rättsosäkerheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.10",
+      "sentiment": -0.2,
+      "quote": "Kammarkollegiet förespråkar därför att brottsbekämpande myndigheter får ta del av uppgifter ur testamentsregistret och anser att en sådan åtgärd kan få allmänpreventiv effekt.",
+      "quote_type": "grund"
+    }
+  ]
+}

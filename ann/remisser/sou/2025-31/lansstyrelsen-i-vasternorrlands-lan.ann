@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:31/lansstyrelsen-i-vasternorrlands-lan": "8b9c527708a37b0b8575d6df5e3005b60cbcdd0186e4bf39bd361910126c1a92",
+      "artifact:forarbete/sou/2025-31": "e7c4dbe9b042c6e1d10f651782855418bac084c351c484930a03ffa7ab2a06bd"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Länsstyrelsen Västernorrland ser betydande risker med förslaget att avskaffa permanenta uppehållstillstånd för personer med flyktingrelaterade skäl, särskilt för vidarebosatta (kvotflyktingar).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.6.5",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i utredningens förslag att den kostnadsfria rättsliga rådgivningen ska erbjudas individuellt.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec113",
+      "sentiment": -0.5,
+      "quote": "För att garantera rättssäkerheten i prövningsförfarandet anser Länsstyrelsen att rådgivningen behöver vara individuellt anpassad och kunna tillgängliggöras under fler tillfällen under asylprövningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen delar inte utredningens slutsatser om vilka konsekvenser förslaget skulle kunna få, utan bedömer att det riskerar att få negativa konsekvenser för integrationen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.2",
+      "sentiment": -1.0,
+      "quote": "Det finns ett särskilt åtagande i mottagandet av individer genom vidarebosättning, eftersom denna grupp är särskilt utsatt och behöver en varaktig lösning.",
+      "quote_type": "grund"
+    }
+  ]
+}

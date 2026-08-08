@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/lansstyrelsen-i-vasternorrlands-lan": "24f2587dda85fd91dd3a37e5adb4735518a1b71340ee47cb6b6ea2bc589694a5",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Länsstyrelsen avstyrker förslaget att flytta hushållningsbestämmelserna från miljöbalken till en ny lag. Länsstyrelsen anser inte att utredningen tydligt visar konsekvenserna av presenterade förslag eller hur dessa ska åtgärda identifierade problem.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": -0.5,
+      "quote": "Enligt länsstyrelsens uppfattning är det en väl genomtänkt ordning att ha bestämmelser om ianspråktagande av mark- och vattenområden i miljöbalken, vilket även behövs för att upprätthålla balkens funktion som ramlag för verksamheter som påverkar miljön.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 0.2,
+      "quote": "Det är tveksamt vilken funktion ett tidigt besked om områdesanvändning fyller i dessa fall, eftersom verksamhetsutövaren ändå måste invänta miljötillståndet och riskerar ett senare avslag i tillståndsprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.0,
+      "quote": "Detta innebär att det inte är länsstyrelsen (miljöprövningsdelegationen) som kommer att bereda ärenden inför regeringens prövning utan den nya miljöprövningsmyndigheten (se Konsekvenser, s. 425).",
+      "quote_type": "grund"
+    }
+  ]
+}

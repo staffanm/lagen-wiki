@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/transportstyrelsen": "0fe6ab8ccf31e6b171411aa0a84ec4f5f4aae8162c252dbb654de93ad73eb2e5",
+      "artifact:forarbete/sou/2025-111": "00e0d92e247cd87a32e9c1413bd440889728cc65668e60dd777a762d76e3955e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Transportstyrelsen avstyrker förslaget om ändring i förvaltningsprocesslagen (1971:291).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.6",
+      "sentiment": 1.0,
+      "quote": "Transportstyrelsen tillstyrker förslaget om ändring i skadeståndslagen (1972:207) att det införs en särskild kostnadsregel i mål som avser skadestånd på grund av brott enligt 17 kap. 1–3 § brottsbalken (1962:700).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": -1.0,
+      "quote": "Transportstyrelsen avstyrker förslaget om ändring i förvaltningsprocesslagen (1971:291).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 0.8,
+      "quote": "Förslaget stärker skyddet för offentliganställda och Transportstyrelsen delar utredningens bedömning att det är viktigt att det allmänna tar ansvar och stöder sin personal om de utsätts för brott i tjänsten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.8,
+      "quote": "Enligt Transportstyrelsens uppfattning bör frågan utredas vidare eftersom det i utredningen saknas överväganden om alternativa lösningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.4",
+      "sentiment": -0.5,
+      "quote": "Enligt Transportstyrelsens uppfattning är de ekonomiska konsekvenserna av förslaget inte är tillräckligt utredda.",
+      "quote_type": "grund"
+    }
+  ]
+}

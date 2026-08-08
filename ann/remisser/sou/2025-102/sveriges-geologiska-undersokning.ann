@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/sveriges-geologiska-undersokning": "020d34652ad895a8aed0f2631224e182aa7bfa87752dc1dd96ffe7cab037afd4",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "SGU bedömer att det är två av områdena som behandlas i utredningen som berör SGU:s ansvarsområde och har följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": 1.0,
+      "quote": "SGU delar utredningens uppfattning att ansvaret inte ska läggas på Bergsstaten utan att det är lämpligt att Länsstyrelsen får hela det utpekade ansvaret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.2",
+      "sentiment": -1.0,
+      "quote": "För SGU och Bergsstaten skulle en begränsning i möjligheten att anlita Polismyndigheten för dessa uppdrag betyda tillkommande administration, troligen ökade kostnader samt eventuellt behov av att genomföra upphandling på området.",
+      "quote_type": "grund"
+    }
+  ]
+}

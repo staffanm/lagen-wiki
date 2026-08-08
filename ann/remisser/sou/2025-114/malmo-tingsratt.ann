@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/malmo-tingsratt": "262c53ef66c3050f43bd498f7174ea1e66572cfa1e878548d7c8ac7183d6da18",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Utifrån de aspekter som domstolen har att beakta har Malmö tingsrätt följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec564",
+      "sentiment": 1.0,
+      "quote": "Förslaget om att införa en ärendekategori för polisiära utlänningsärenden föranleder inte några invändningar i stort.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec48",
+      "sentiment": 1.0,
+      "quote": "De skäl som anförts i betänkandet mot ett sådant införande är mycket övertygande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec638",
+      "sentiment": -0.5,
+      "quote": "Åklagarna har god vana av att föra talan i tvångsmedelsärenden och har redan ett väl fungerande samarbete med tingsrätterna gällande handläggningen i denna typ av ärenden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec54",
+      "sentiment": -0.5,
+      "quote": "Förslaget kommer utan tvekan medföra ökade kostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

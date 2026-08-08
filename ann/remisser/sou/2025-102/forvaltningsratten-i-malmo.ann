@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/forvaltningsratten-i-malmo": "5e4c67a053492f55020f6d0f0fe1c540054878bc37bdce701b6abeced923ea7c",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt har förvaltningsrätten inga synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": -0.2,
+      "quote": "Det är tänkbart att utredningens förslag om en ny överklagandestruktur leder till fler bestridande och fler överklagande till förvaltningsrätterna än vad som i dag görs till Polismyndigheten och tingsrätterna.",
+      "quote_type": "grund"
+    }
+  ]
+}

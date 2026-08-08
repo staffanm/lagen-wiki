@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/lansstyrelsen-varmland": "3d42d8174d4546013002ea7c0eb9b7bddfa9cdab0dce582a26169bbd2cc3e67e",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen ställer sig positiv till utredningens förslag och instämmer i att det finns mycket som behöver genomföras inom försörjningsberedskapen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.4",
+      "sentiment": 0.2,
+      "quote": "Alltför komplexa metoder riskerar att stjälpa arbetet med försörjningsanalyser och försvåra arbetet med att skapa relevanta underlag för aggregerade analyser och jämförelser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen befarar dock att det kan bli en utmaning att hitta tillräckliga, och rätt, incitament för företagen att ingå F-avtal, parallellt med att det inte samtidigt medför avsevärda kostnadsökningar för staten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 0.5,
+      "quote": "Det finns därför en risk att en konkurrenssituation kan uppstå mellan villkoren i ett sådant avtal och MSB:s bedömning av prioritering och fördelning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.10",
+      "sentiment": 0.5,
+      "quote": "Bruk av tvångsåtgärder kan innebära att tillämpa inskränkningar för företagen, vilket kan medföra risker för landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec184",
+      "sentiment": 0.5,
+      "quote": "Arbetet på kansliet bör dock utgå från behov och befintliga samverkansstrukturer på regional och lokal nivå för att undvika att parallella spår skapas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4",
+      "sentiment": 0.5,
+      "quote": "En förutsättning är dock att alla kommuner har tillräckliga resurser för att ingå i samverkan och för att analysera behoven i respektive kommun, vilket idag inte är fallet när det gäller energiplanering och Robust kommun.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.1",
+      "sentiment": -0.5,
+      "quote": "Utvinning av fossila bränslen står i strid med detta intresse.",
+      "quote_type": "grund"
+    }
+  ]
+}

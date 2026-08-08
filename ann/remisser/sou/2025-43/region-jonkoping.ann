@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/region-jonkoping": "a285b9b1f49a12429fecdfc0c5c947635e5e5057c8bd14280df385d0de747354",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Jönköpings län är positivt inställda till att Läkemedelsverket föreslås få ett bemyndigande att besluta om begränsning av förordnande och utlämnande i samband med bristsituationer av läkemedel, men vill samtidigt betona vikten av att Läkemedelsverkets nära samarbetar med regionerna och professionsföreträdare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6.2",
+      "sentiment": 1.0,
+      "quote": "Det är positivt att Läkemedelsverket föreslås kunna besluta om begränsningar både vid faktisk läkemedelsbrist samt vid hotande läkemedelsbrist, då i preventivt syfte.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec71",
+      "sentiment": -0.5,
+      "quote": "Region Jönköpings län är tveksamma till hur detta kan fungera i praktiken, beroende på hur många dispensansökningar som inkommer och motsätter sig att undantagsmöjlighet ska finnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 1.0,
+      "quote": "Ett systemstöd anser Region Jönköpings län vara nödvändigt och är positivt inställda till att e-hälsomyndigheten får uppdraget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.6",
+      "sentiment": 0.0,
+      "quote": "En förutsättning är att de ansvariga myndigheterna har resurser i erforderlig utsträckning, det finns annars en risk att regelverket blir tandlöst.",
+      "quote_type": "grund"
+    }
+  ]
+}

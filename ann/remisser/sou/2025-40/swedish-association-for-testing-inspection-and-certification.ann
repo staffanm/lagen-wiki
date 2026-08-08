@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:40/swedish-association-for-testing-inspection-and-certification": "400456acb31ecaf909862972ce292728abefdb76d6bd7d1aa147d7b6ba89d8ec",
+      "artifact:forarbete/sou/2025-40": "c04285caa82b9652fb357cbae989fe2dee864542cf2f237c017dbd2cc406bc0c"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Detta innebär att anordningen kan användas under lång tid innan officiell kontroll utförs, vilket kan medföra en oacceptabel säkerhetsrisk.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.2,
+      "quote": "Detta ger både tydlighet och förutsägbarhet för kontrollorgan och verksamhetsutövare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.5,
+      "quote": "Detta innebär att anordningen kan användas under lång tid innan officiell kontroll utförs, vilket kan medföra en oacceptabel säkerhetsrisk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "Att införa en fast besiktningsperiod ger såväl verksamhetsutövare som kontrollorgan möjlighet att planera och anpassa sig på ett sätt som gagnar alla vid återkommande besiktning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "SWETIC anser att enklare brister som inte har en väsentlig påverkan på säkerheten – till exempel dokumentationsbrister, avsaknad av skyltar eller andra mindre avvikelser – inte bör vara skäl till att anordningen bedöms utgöra en omedelbar fara.",
+      "quote_type": "grund"
+    }
+  ]
+}

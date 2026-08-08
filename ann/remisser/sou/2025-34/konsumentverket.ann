@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:34/konsumentverket": "7e6f71babe40e80f0db2588ce270f06d01a412321855ae9e70acd5f28e475fdb",
+      "artifact:forarbete/sou/2025-34": "9ee1bd0a602bd9cd0e75ac89a99c8041d61f181ca21a2fa200f6a8440ed23f10"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Konsumentverket redogör nedan för verkets synpunkter avseende de föreslagna bestämmelserna i lagen (2005:59) om distansavtal och avtal utanför affärslokaler, DAL, och marknadsföringslagen (2008:486), MFL.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec27",
+      "sentiment": -0.5,
+      "quote": "Konsumentverket anser dock att det blir en viss betydelseskillnad samt att den nuvarande formuleringen är mer precis och tydlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec30",
+      "sentiment": -0.2,
+      "quote": "Konsumentverket anser att formuleringen väcker frågan huruvida väsentligen endast ska läsas tillsammans med ”väsentligen snedvrider” eller om det ska förstås som att det även gäller ”väsentligen försämrar konsumentens förmåga att fatta välgrundade beslut”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec190",
+      "sentiment": -0.2,
+      "quote": "Användningen av ordet aldrig i den första meningen försvårar läsningen av bestämmelsen och stycket skulle kunna förtydligas genom att aldrig exempelvis byts ut mot inte eller om det formuleras på ett annat mer tydligt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": -0.5,
+      "quote": "Nuvarande uppdelning mellan den tekniska funktionen och innehållet finner Konsumentverket inte ändamålsenlig.",
+      "quote_type": "grund"
+    }
+  ]
+}

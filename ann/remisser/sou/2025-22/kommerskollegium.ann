@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/kommerskollegium": "5683c5d4a0485d8487efde37958487e13e754e44ccd5d2b1e764db9e3a296a6e",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Remissen omfattar ett antal åtgärder som sammanfattningsvis syftar till att skapa en mer rättvis och effektiv konkurrens vilket är centralt för en väl fungerande inre marknad och därför något Kommerskollegium som utgångspunkt stödjer fullt ut.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6.3",
+      "sentiment": -0.5,
+      "quote": "När medlemsstater istället ensidigt inför sådana nationella befogenheter finns det risk för regulatorisk fragmentering liksom eventuellt olikartade tolkningar och marknadsåtgärder i medlemsstaterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.5.2",
+      "sentiment": 1.0,
+      "quote": "Vi noterar att Konkurrensverket bedömer att förslagen ligger i linje med EU-rätten och har inga invändningar mot den slutsatsen och den bakomliggande analysen.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

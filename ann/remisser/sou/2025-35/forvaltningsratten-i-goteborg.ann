@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:35/forvaltningsratten-i-goteborg": "1fa83e6bea2e9ffde73072568cfe95251f697aa8819c2a96ed3bc2d3d35914b3",
+      "artifact:forarbete/sou/2025-35": "714b8500e63e7332a0838b0ab133e0525ceab22d4636b418ba3d2ac111780a44"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förvaltningsrätten har, utifrån de aspekter som domstolen har att beakta, ingen erinran mot förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.1",
+      "sentiment": -0.2,
+      "quote": "Denna inkonsekvens riskerar att leda till tillämpningssvårigheter och bör därför belysas ytterligare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6.1",
+      "sentiment": -0.2,
+      "quote": "Det saknas vägledning i utredningen hur dessa regler är tänkta att tillämpas inom ramen för förvaltningsprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5.4",
+      "sentiment": 0.0,
+      "quote": "Det kan övervägas om denna undantagsregel även bör framgå direkt av hyreslagen för tydlighetens skull.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": -0.2,
+      "quote": "Det är därför viktigt att beredningen av förslagen samordnas med övriga förslag på området för att undvika tillämpningsproblem.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:69/lansstyrelsen-stockholm": "515952fb9910e4092aa699cb3f1ee16e4b1332d1e4396eeb88377b26b18cbc1f",
+      "artifact:forarbete/sou/2025-69": "e9fe403717ef019299c4fc8689d9fb71197ea9f2a8ad889130b543582d2661a1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen Stockholm tillstyrker till största del förslaget men vi ser behov av resursförstärkning om förslaget genomförs.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.5.3",
+      "sentiment": 0.2,
+      "quote": "Ansvaret för uppgiften kommer dock att innebära ett merarbete för länsstyrelserna utöver det som åligger länsstyrelserna i dagsläget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.5.5",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen är även positiv till det föreslagna förtydligande i länsstyrelseinstruktionen för att motverka uppkomst och spridning av antimikrobiell resistens samt verka för en rationell användning av antimikrobiella läkemedel till djur då detta arbete bör prioriteras.",
+      "quote_type": "grund"
+    }
+  ]
+}

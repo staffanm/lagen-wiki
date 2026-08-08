@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/socialstyrelsen": "5d8d07d05b4f5a8bbcbe2b2a88ebeb0c6550e099dccf9fbf6cb0efb33e73a5ca",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Socialstyrelsen har tagit ställning till de av kommitténs förslag som rör myndighetens ansvarsområden.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 0.0,
+      "quote": "Socialstyrelsen har svårt att ta ställning till kommitténs förslag då det är oklart vad ett utökat ansvar innebär i detta fall.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.3",
+      "sentiment": 1.0,
+      "quote": "Socialstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.4.5",
+      "sentiment": 0.5,
+      "quote": "En centralisering bedöms som en nyckelfaktor för att effektivisera programmen och därmed minska omotiverade skillnader mellan regioner i hur screening erbjuds och genomförs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.6",
+      "sentiment": 0.5,
+      "quote": "Socialstyrelsen instämmer i kommitténs bedömning att utformningen av en sådan finansierings- och ersättningsmodell kan medföra risker ur ett patientperspektiv, såsom risken att en patient av ekonomiska skäl placeras på en högre säkerhetsklass än vad som är motiverat av säkerhetsskäl.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.7",
+      "sentiment": 1.0,
+      "quote": "Socialstyrelsen delar kommitténs bedömning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": 0.2,
+      "quote": "Kommittén tar inte tydligt ställning till om ett sådant förslag skulle ha tillräckligt omfattande konsekvenser för den kommunala självstyrelsen för att kräva en grundlagsändring (s. 147–148).",
+      "quote_type": "grund"
+    }
+  ]
+}

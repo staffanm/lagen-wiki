@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:71/region-vasternorrland": "5a9d817b8eac151437bd5569bc7f74705d649eb430e8f70f89f9e6dd1fcee9ac",
+      "artifact:forarbete/sou/2025-71": "957a0b0208845de41ee3eb7c78a854f8c82bf13e7ec07e3ebdf350fdecdb0325"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Västernorrland ställer sig i huvudsak bakom betänkandet om den fortsatta utvecklingen av den nationella läkemedelslistan och ser positivt på ambitionen att skapa en mer sammanhållen och lättillgänglig informationshantering.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a18.6",
+      "sentiment": -0.5,
+      "quote": "utredningens uppskattning att regionernas samlade systemanpassningar endast skulle uppgå till 20 miljoner kronor framstår som orealistiskt låg",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": 0.5,
+      "quote": "Smittskyddsläkarens uppdrag kräver tillgång till vaccinationsdata",
+      "quote_type": "grund"
+    }
+  ]
+}

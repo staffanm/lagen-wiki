@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:84/statens-skolinspektion": "d3237aabd28e59012ac6d99297db2fef268fcc159ff25ed9724854ed1f8b18aa",
+      "artifact:forarbete/sou/2025-84": "316cc38993c62773077c8f90dc994921ac81d26564be89872d71e339c7a69a0e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skolinspektionen kommenterar i yttrandet de förslag myndigheten tar ställning till eller har synpunkter på.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 1.0,
+      "quote": "Att vårdens innehåll preciseras avseende stöd för skolgång ser vi som en god förutsättning för att barn och ungas rätt till utbildning kan tillgodoses.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.1",
+      "sentiment": 1.0,
+      "quote": "Vi ser positivt på att förslaget säkerställer barn och ungas rätt till utbildning med hänsyn till denna målgrupps speciella situation kopplat till boendet och hemkommunens ansvar för utbildning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7.4",
+      "sentiment": 0.2,
+      "quote": "Vi vill understryka vikten av att en begränsning av användningen av elektroniska kommunikationstjänster inte ska påverka barn och ungas rätt till en likvärdig utbildning då behov av sådana lärverktyg kan finnas för att tillgodogöra sig utbildning.",
+      "quote_type": "grund"
+    }
+  ]
+}

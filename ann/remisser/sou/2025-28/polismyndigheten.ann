@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:28/polismyndigheten": "fdcd708743b46b8ff00298d80149bc819ed956b618bd0a0980783210550d5fc8",
+      "artifact:forarbete/sou/2025-28": "b787630ad00d72d461b54d38395d4e3698c957e636b6ac1fdc2d178170ac9246"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Polismyndigheten är i huvudsak positiv till förslagen i betänkandet, men lämnar följande synpunkter och medskick.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten vill särskilt understryka vikten av att myndigheter och andra aktörer får bästa möjliga förutsättningar att bedriva ett samordnat strategiskt och operativt arbete som svarar mot de behov som finns.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6.4",
+      "sentiment": -0.5,
+      "quote": "Det gäller bl.a. tillgången till sekretessbelagd information och underrättelser samt till nyckelpersoner såväl inom myndigheten som externt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.3",
+      "sentiment": 0.2,
+      "quote": "Ibland försvåras det operativa arbetet på grund av skillnader över landet i tillgången till exempelvis skyddade boenden, socialt akuta insatser eller samordnade åtgärder från flera aktörer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": 0.5,
+      "quote": "Sådan statistik skulle stärka såväl det strategiska som det operativa arbetet gällande våld mot barn och unga.",
+      "quote_type": "grund"
+    }
+  ]
+}

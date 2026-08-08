@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/lansstyrelsen-norrbotten": "3ceb2243e7b1008457bc39f02826442f0d3fad581414e29bd27c957d041d4528",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det är bra att utredningen omfattar både humana och veterinärmedicinska läkemedel",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.1.1",
+      "sentiment": -0.2,
+      "quote": "För att förstå uppkomsten av, och förbättra beredskapen för bristsituationer avseende veterinärmedicinska läkemedel krävs tillgång till förbättrad och förfinad statistik",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.1",
+      "sentiment": 0.2,
+      "quote": "Veterinärs förskrivningsrätt av humanläkemedel bör kunna begränsas tidigt i kris- eller bristsituationer, så att inte djur konkurrerar om kritiska människomediciner",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5.4",
+      "sentiment": -0.5,
+      "quote": "Fördelningen av ansvaret för tillsyn och disciplinpåföljder för veterinärer är splittrat och ärenden riskerar att falla mellan stolarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.2,
+      "quote": "Om E-hälsomyndigheten ges i uppdrag att utreda möjligheten att införa systemstöd i journalprogram eller receptförskrivningsmoduler bör man inte glömma bort att även veterinärmedicinska journalprogram har E-receptfunktion och därför bör inkluderas i utredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8.2",
+      "sentiment": 0.2,
+      "quote": "Läkemedelsverket bör samråda med Jordbruksverket för att ta fram en prioriteringsordning för vissa läkemedel till djur i händelse av bristsituation, så att det finns vägledning både för den förskrivande veterinären och för tillsynsmyndigheterna",
+      "quote_type": "grund"
+    }
+  ]
+}

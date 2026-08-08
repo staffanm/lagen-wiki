@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:10/patent--och-registreringsverket": "a6288727af9e6e2bb45232802e043dc69ba80636a828cef1b84e2436d228891e",
+      "artifact:forarbete/sou/2026-10": "790d18a0e840532bd179c430f10a05b9102684227e7a4a7e6c90a2afb13f8a17"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "PRV anser att det är i samhällets intresse att införa verktyg som gör det enklare för brottsförebyggande myndigheter, att säkra egendom, inför förverkande, för att bekämpa brott.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2.4",
+      "sentiment": 1.0,
+      "quote": "PRV är därmed generellt stödjande till att utvidga möjligheten till att även kunna ta immateriell egendom i beslag samt att myndigheten ges i uppdrag att anteckna sådana beslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec1050",
+      "sentiment": -0.2,
+      "quote": "Utvecklingsinsatsen kommer att ge en viss undanträngningseffekt på så sätt att annan pågående utveckling kan behöva pausas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.62",
+      "sentiment": 0.0,
+      "quote": "Det är inte tydligt hur ansvaret ser ut vad gäller betalande av årsavgift när något är taget i beslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec60",
+      "sentiment": 0.2,
+      "quote": "Även om immateriella tillgångar inte uttryckligen nämns i dessa sammanhang uppfattar PRV att utredningens användning av begreppet egendom även omfattar immateriella rättigheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/post--och-telestyrelsen": "b96f9b1cbe1db82c0caf5af5518db822bc7d97ea0c66de5ff6baceb166300fb8",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "PTS har med utgångspunkt i myndighetens verksamhetsområde följande synpunkter på förslagen i betänkandet Förbättrad konkurrens i offentlig och privat verksamhet (SOU 2025:22).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6.3",
+      "sentiment": -0.5,
+      "quote": "I annat fall riskerar lagstiftningen att vara oförenlig med EU-rätten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec368",
+      "sentiment": -0.5,
+      "quote": "PTS anser att en sådan lagstiftningsteknik allmänt sett inte är lämplig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6.3",
+      "sentiment": -0.2,
+      "quote": "Det framstår för PTS som uppenbart att syftet med den föreslagna lagen om offentlig säljverksamhet inte kan vara att förbjuda sådan verksamhet som en offentlig aktör bedriver till följd av en offentligrättsligt ålagd skyldighet, oavsett om den finns i ett beslut av riksdagen, regeringen eller en förvaltningsmyndighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

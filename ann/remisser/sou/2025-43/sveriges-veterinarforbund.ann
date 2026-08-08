@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/sveriges-veterinarforbund": "47932c0dfeaf73b5e167f547928458377ea2100e0e74c0b5e57d0bac44ae4f0a",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förbundet instämmer i utredningens förslag till lagändringar och att förslaget inte är begränsat till att bara omfatta humanläkemedel utan även inkluderat veterinärmedicinska läkemedel.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec64",
+      "sentiment": 1.0,
+      "quote": "Precis som inom humansjukvården är bristsituationer då det gäller veterinärmedicinska läkemedel ett allt vanligare problem och det är därför viktigt att även dessa läkemedel inkluderas i den fortsatta processen med lagändringar, i enlighet med utredarens förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec26",
+      "sentiment": -0.2,
+      "quote": "Det är utifrån beskrivningen i utredningen tydligt att det arbetet med att ta fram lägesbilder är betydligt mer utvecklat för humanläkemedel än för veterinärmedicinska läkemedel och vi ser behov av att åtgärder vidtas så att även lägesbilder för veterinärmedicinska läkemedel utvecklas på ett sätt så att risk för brister kan förebyggas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec75",
+      "sentiment": 0.2,
+      "quote": "Förbundet anser att det är viktigt att det fortsatta uppdraget också formellt omfattar veterinärmedicinska läkemedel, och vi ser gärna att utredningsdirektivet uppdateras så att det är tydligt att även den veterinära tillsynen inom detta område omfattas",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/diabetes-sverige": "67e06a4791b11cf473773fc1d87bbfb14c1b1375a497bb5b6aa0d5b09d1af056",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Betänkandet innehåller flera välgrundade förslag som kan bidra till en mer jämlik, samordnad och långsiktigt hållbar hälso- och sjukvård.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.2.2",
+      "sentiment": -0.2,
+      "quote": "De regionala upphandlingarna innebär att en viss insulinpump, glukossensor eller doseringslösning kan vara tillgänglig i en region men inte i en annan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.3",
+      "sentiment": -0.2,
+      "quote": "Det som skrivs ut i en region sker inte i en annan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.2",
+      "sentiment": -0.5,
+      "quote": "Digital vård har inga naturliga regiongränser och bör därför inte finansieras via 21 separata system.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a2.2.5",
+      "sentiment": 0.2,
+      "quote": "Det är i mikrosystemet – i mötet mellan patient, profession och system – som värde skapas.",
+      "quote_type": "grund"
+    }
+  ]
+}

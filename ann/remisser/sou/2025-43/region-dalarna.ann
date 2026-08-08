@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/region-dalarna": "9d54bbc8264d20701f30b8e56ae9c740d59335974600bcd879cb2cac960bd386",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Dalarna har tagit del av ovanstående remiss och stödjer i huvudsak förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec70",
+      "sentiment": 0.2,
+      "quote": "Region Dalarna vill särskilt understryka vikten av att Läkemedelsverket inför beslut om begränsningar har en nära dialog med hälso- och sjukvårdens experter som stöd för prioritering och att denna del av beslutsprocessen formaliseras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec67",
+      "sentiment": 1.0,
+      "quote": "Region Dalarna ser att det i de allra flesta fall behövs en kombination av begränsning av förordnande och utlämnande både för att skapa önskad effekt och för att skapa jämlikhet för patienterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 1.0,
+      "quote": "Region Dalarna anser att det kan vara en stor utmaning att kommunicera beslut om utfärdade begränsningar till alla berörda ordinatörer och att ett systemstöd därför är nödvändigt för att uppnå god följsamhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

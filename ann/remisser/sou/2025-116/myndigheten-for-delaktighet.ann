@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:116/myndigheten-for-delaktighet": "a88e5c15026229fc95a651107efea3c4ee5d88fe5a640c232334a02bccf389dc",
+      "artifact:forarbete/sou/2025-116": "6e845a53d09b875b450c51c7a68361f369fb3e38e747d872c524feeedc2736c8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Myndigheten för delaktighet tillstyrker utredningens förslag men lämnar samtidigt några kommentarer avseende tillgänglighet, principen om universell utformning och tillsyn.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec25",
+      "sentiment": 0.5,
+      "quote": "MFD vill understryka vikten av att leverantörer, som träffas av skyldigheten att framhäva medietjänster för ljudradio eller tv av allmänintresse som tillhandahålls över internet, uppfyller sin skyldighet på ett sådant sätt att framhävandet blir tillgängligt även för personer med funktionsnedsättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec27",
+      "sentiment": 0.5,
+      "quote": "MFD anser även att tillsynen tydligt ska omfatta ett tillgänglighetsperspektiv, det vill säga att tillsynen ska kontrollera huruvida framhävandet även kommer personer med funktionsnedsättning till del.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.2",
+      "sentiment": 0.5,
+      "quote": "MFD tillstyrker utredningens förslag och vill samtidigt betona vikten av att säkerhetshöjande åtgärder utformas så att de även säkerställer tillgänglighet för personer med funktionsnedsättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": 1.0,
+      "quote": "Ur ett funktionshindersperspektiv är det angeläget att information kan nå personer genom flera parallella och tillgängliga distributionsformer och att information kan nå personer med funktionsnedsättning genom tillgängliga och fungerande lösningar även vid störningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": -0.2,
+      "quote": "Som tidigare nämnts är det färre personer med funktionsnedsättning som har råd med dator och tillgång till internet i bostaden, jämfört med befolkningen i övrigt, och det är många kommuner som inte erbjuder gratis internetuppkoppling på stöd- och serviceboenden för personer med funktionsnedsättning.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/harnosands-kommun": "9e5232b34d920be39880a6a9fac4127ed23743b39b6a298f909d96dbb77846bb",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Samhällsnämnden avstyrker det remitterade upplägget i SOU 2025:64. då det riskerar att leda till fler kontaktytor och högre kostnader för små företag, särskilt i mindre kommuner.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19.1",
+      "sentiment": -1.0,
+      "quote": "I mindre kommuner, där livsmedelssektorn till stor del består av små företag, kan förslaget innebära fler myndighetskontakter snarare än färre och uteblivna samordningsvinster vid exempelvis nyetablering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": 1.0,
+      "quote": "Vi instämmer dock i att nuvarande kontrollorganisation behöver reformeras",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a14.3.2",
+      "sentiment": -0.5,
+      "quote": "I glesbygd och Norrlands inland råder särskilda förutsättningar som bedöms kunna förvärras med förslaget.",
+      "quote_type": "grund"
+    }
+  ]
+}

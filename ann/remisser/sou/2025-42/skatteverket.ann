@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/skatteverket": "bc0f843ed8006320bca0cfa6e273e30911d9a91dfda4ccc00b7fc127c1ff8a0b",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket tillstyrker betänkandet. Skatteverket lämnar dock vissa synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": -0.5,
+      "quote": "Skatteverket delar däremot Säkerhetspolisens resonemang om behovet av att inkludera närstående i kontrollen för säkerhetsklass 3.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": -0.2,
+      "quote": "Det saknas ett resonemang i SOUn om verksamhetsutövarens möjlighet att begära ett registerutdrag ur belastningsregistret från den som ska prövas i de fall då det inte avser placering i säkerhetsklass.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.5,
+      "quote": "Här kan det ifrågasättas om alla registrerade uppgifter är relevanta ur ett säkerhetsprövningsperspektiv?",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5.3",
+      "sentiment": -0.2,
+      "quote": "Skatteverket gör bedömningen att utredningens förslag, om att Säkerhetspolisen vid registerkontroll ska få hämta uppgifter som behandlas med stöd av Skatteverkets brottsdatalag, innebär att det kommer att finnas ett behov av att utveckla en ny teknisk lösning för uppgiftslämnande.",
+      "quote_type": "grund"
+    }
+  ]
+}

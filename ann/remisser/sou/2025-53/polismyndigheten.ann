@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:53/polismyndigheten": "351851ee2c921bb0cc27240e6c66da3641ca1ad0e74171ab576307c3d5f2f940",
+      "artifact:forarbete/sou/2025-53": "1b5d2ced0349cbd7f9e81a7f1c3e41751352e4c3e89c351a85f75a5c2819aa25"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Polismyndigheten har inte något att erinra mot förslagen i betänkandet och lämnar följande medskick.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2.7",
+      "sentiment": 0.0,
+      "quote": "Utöver de lagstiftningsarbeten som utredningen nämner bör promemorian Inhibition av verkställigheten – en ny ordning för vissa utlänningar vid tillfälliga verkställighetshinder (Ds 2024:23) beaktas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6.3",
+      "sentiment": -0.2,
+      "quote": "Polismyndigheten delar denna bedömning och vill särskilt framhålla att arbetet mot kriminell ekonomi är ett prioriterat fokusområde hos myndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.11",
+      "sentiment": -0.5,
+      "quote": "Detta ökar i sin tur risken för att barnen själva dras in i brottslighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

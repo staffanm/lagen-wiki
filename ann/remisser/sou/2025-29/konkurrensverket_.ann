@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:29/konkurrensverket_": "f2f07c2e3e9bb91130cf9d43815ef8ba2c9731fad5bb7aa5595d21cac9a4fbcd",
+      "artifact:forarbete/sou/2025-29": "c404af687884c4e424e9b1eff3268002398d134aeb4bddadc0a1e86ff3efec7d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Konkurrensverket har inte något att erinra mot utredningens bedömning om att Samhall Aktiebolags (Samhall) verksamhet ska minska i omfattning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": 0.5,
+      "quote": "Även om det är upp till Samhall att besluta inom vilka branscher som verksamhetens omfattning ska minska bör en minskning som sådan vara positiv för de privata företag som konkurrerar med Samhall.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.8.2",
+      "sentiment": 0.5,
+      "quote": "För det fall en årlig höjning av merkostnadsersättningen leder till minskade incitament för Samhall att driva en expansiv affärsstrategi är även detta positivt för de privata aktörer som kan komma att beröras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.8.4",
+      "sentiment": -0.2,
+      "quote": "Klagomålen mot Samhall har främst gjort gällande att Samhall tillämpar för låga priser som snedvrider konkurrensen på marknaden och att Samhall på så sätt skaffar sig en väldigt stark marknadsställning inom till exempel städtjänster till butiker.",
+      "quote_type": "grund"
+    }
+  ]
+}

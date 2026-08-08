@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/sveriges-kommuner-och-regioner": "489d69ccd91298ec387e310433d8e12346576eebfd427e9b620c78ef4d9d515e",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "De resurser som krävs för att följa regelverket och de osäkerheter som finns i de bedömningar som behöver göras, i kombination med risken för sanktioner vid överträdelser, riskerar att få en tillbakahållande effekt på användningen av tekniken.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": 0.5,
+      "quote": "Det är centralt att PTS har kapacitet att ha en vägledande och rådgivande funktion även för aktörer som inte är marknadskontrollmyndigheter eller annars har ett särskilt ansvar enligt AI-förordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.9.6",
+      "sentiment": 0.5,
+      "quote": "Om utredningens förslag antas kommer det finnas ett antal olika bestämmelser om incidentrapportering i OSL (se 18 kap. 8 §-18 kap. 8 e), varav flera kan bli aktuella för kommuner och regioner att tillämpa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.7.3",
+      "sentiment": 0.5,
+      "quote": "Att ytterligare utöka möjligheterna till sanktioner utöver för överträdelser av artikel 99.3-5 vore därför oproportionerligt och gå stick i stäv med regeringens ambitioner så som de kommer till uttryck i implementeringsrådets uppdrag, nämligen att undvika genomförande av EU-lagstiftning över miniminivån.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.8.1",
+      "sentiment": -0.5,
+      "quote": "Sådan verksamhet kommer dock oftast omfattas av andra regelverk med sanktionsmöjligheter, såsom dataskydds- och cybersäkerhetsregleringen.",
+      "quote_type": "grund"
+    }
+  ]
+}

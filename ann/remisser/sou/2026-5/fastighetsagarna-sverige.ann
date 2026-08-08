@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:5/fastighetsagarna-sverige": "3a10d88b9defd31bf16d0a7704cc52021c009469bac5ac66f5f1f1e935782564",
+      "artifact:forarbete/sou/2026-5": "9e1ea5aa3fe50cff71008ec52dae7d2b08d3209b607e39592fba96ecf231d298"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Fastighetsägarna välkomnar förslaget att förtydliga avdragsrätten för sponsring i inkomstskattelagen och framhåller att det tydligt bör framgå i förarbetena hur den nya regeln ska uppfattas och tolkas för att öka rättssäkerheten för företagen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 1.0,
+      "quote": "Dagens regelverk skapar alltför stor osäkerhet kring var gränserna går för när en åtgärd kan räknas som en avdragsgill marknadsföringsåtgärd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec76",
+      "sentiment": 1.0,
+      "quote": "Fastighetsägarna välkomnar den precisering av regeln som görs i betänkandet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec105",
+      "sentiment": 1.0,
+      "quote": "Fastighetsägare kan med förtydligad avdragsrätt för sponsring i högre utsträckning satsa på stöd till förbättrade och säkrare bostadsmiljöer, lokal idrott, kulturevenemang och andra insatser för att öka områdets attraktivitet och förhindra att områden förslummas.",
+      "quote_type": "grund"
+    }
+  ]
+}

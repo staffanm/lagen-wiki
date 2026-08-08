@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:124/svensk-dagligvaruhandel": "eb3cdce7a867100993cea9f51f920136a9a5a64e09223346926465bee65096e2",
+      "artifact:forarbete/sou/2025-124": "b54e2b2f029309b048608c1f357964bc90dd4cea710603ea2e5c6d8e0fc7c64d"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Det finns en risk att regler som främst är utformade för sällanköpsvaror, exempelvis elektronik och kapitalvaror, får oproportionerliga administrativa konsekvenser när de tillämpas på dagligvaror.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.5,
+      "quote": "Detta riskerar att leda till att fullt fungerande produkter måste kasseras om de inte hinner anpassas eller säljas innan de nya reglerna börjar tillämpas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5-2",
+      "sentiment": 0.2,
+      "quote": "Utan tydlig praxis riskerar reglerna att skapa osäkerhet snarare än transparens.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5",
+      "sentiment": -0.5,
+      "quote": "Det är centralt att detaljhandeln inte åläggs ett orimligt bevisbördeansvar för information som i grunden ligger hos producentledet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.8",
+      "sentiment": -0.2,
+      "quote": "Det är viktigt att svenska implementeringsval inte går längre än vad EU-direktiven kräver (s.k. gold-plating), då detta kan försämra konkurrensneutraliteten gentemot aktörer i andra medlemsstater.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6-2",
+      "sentiment": -0.2,
+      "quote": "Forskning visar att alltför omfattande information kan minska snarare än öka förståelsen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:101/arbetsmiljoverket": "f05bbe160f45ec93a0334a8c561141b0516ca3f50a895665d4f5ce3852c54f8a",
+      "artifact:forarbete/sou/2025-101": "1cf18b5619b15c93f9edb5c39abb0bb06a50bb9974ab39e487c6e485017e4333"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Arbetsmiljöverket bedömer att förslagen är såväl välgrundade som välavvägda och tillstyrker majoriteten av förslagen i betänkandet",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec539",
+      "sentiment": -0.5,
+      "quote": "Arbetsmiljöverket avstyrker införandet av anmärkning eftersom att det inte bedöms få någon effekt och endast innebär merarbete för myndigheter och berörda parter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec574",
+      "sentiment": -0.5,
+      "quote": "Arbetsmiljöverket bedömer att denna tidsbegränsning är för kort och befarar att bestämmelserna om sanktionsavgifter får mycket begränsad effekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec214",
+      "sentiment": 1.0,
+      "quote": "Arbetsmiljöverket bedömer att utredningens förslag om fördelning av marknadskontrolluppdraget på flera myndigheter är genomarbetat och lyfter relevanta för- och nackdelar med de olika alternativen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec215",
+      "sentiment": -0.2,
+      "quote": "Denna skrivning blir otydlig eftersom det saknas en beskrivning av vad som avses med att ett AI-system är ”relaterad till” en viss produkt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec400",
+      "sentiment": 1.0,
+      "quote": "Arbetsmiljöverket anser således att utredningens analys och bedömning av vilka myndigheter som i nuläget bör tas upp i förteckningen, sett till antal och tillsynsområde, är tillfredsställande.",
+      "quote_type": "grund"
+    }
+  ]
+}

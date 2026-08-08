@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/region-orebro": "6621383c999108298d270a33f76ae777d11613d56faa34e527d4a1c46c379e39",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Örebro län är positivt till att Läkemedelsverket kan förmedla tillfälliga begränsningar av läkemedelsanvändningen vid brist och det är bra att de tidsbegränsas och att tid anges.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2.2",
+      "sentiment": 0.2,
+      "quote": "för att undvika överbyråkratisering förordas i möjligaste mån ett frivilligt lokalt samarbete med övriga regioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.5",
+      "sentiment": -0.5,
+      "quote": "Det finns då risk för situationer där det finns läkemedel som behövs men inte får användas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.6",
+      "sentiment": 0.5,
+      "quote": "Omfördelning av läkemedel bör få ske även mellan regioner, inte bara mellan apotek.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3",
+      "sentiment": -0.2,
+      "quote": "Det kan vara så att en patient har recept som är viktigt för just den patienten, men eventuellt inte på gruppnivå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 1.0,
+      "quote": "Region Örebro län är positivt till förslaget att bygga in ett fungerande systemstöd i journalsystemen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.5.1",
+      "sentiment": 0.5,
+      "quote": "Här måste IVO få tillgång till den enskildes förskrivarkod och kunna begränsa förskrivningen eller dra in den.",
+      "quote_type": "grund"
+    }
+  ]
+}

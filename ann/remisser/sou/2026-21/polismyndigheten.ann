@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:21/polismyndigheten": "52b021075166a1dabfe3d96b8215fdd639345c01c0a4f9edc383d38f32c3e36b",
+      "artifact:forarbete/sou/2026-21": "b4fe47551a2f6371e860be92a47a77882040d95cf28d07cac21ec3172d27ca53"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Enligt myndigheten borde ett flertal frågor, såsom innebörden av ett brott mot statens vitala intressen och informationsdelning, ha övervägts mer noggrant.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": 0.5,
+      "quote": "Polismyndigheten konstaterar att den organiserade brottsligheten är agil och i ständig förändring, varför förslaget om en uttömmande brottskatalog inte framstår som ändamålsenligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.3",
+      "sentiment": -0.5,
+      "quote": "Det framstår inte som lämpligt att, så som utredningen föreslår, tillämpa generalklausulen i 10 kap. 27 § OSL i dessa fall, eftersom den bestämmelsen i huvudsak är avsedd för situationer som inte har kunnat förutses.",
+      "quote_type": "grund"
+    }
+  ]
+}

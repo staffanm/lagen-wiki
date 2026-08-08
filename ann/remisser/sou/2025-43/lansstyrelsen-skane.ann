@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/lansstyrelsen-skane": "c22c9ce394eddea5fad287f71bb64cee27bbfb72b93554c501418ffa24572b64",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "För att sådan tillsyn ska kunna ske krävs dock ett kompletterande bemyndigande då länsstyrelserna i dagsläget inte har mandat att utöva tillsyn över föreskrifter som meddelats med stöd av läkemedelslagen (2015:315).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen anser att det är ett viktigt komplement och motiverat behov för hantering av kritiska bristsituationer, vilket tydliggörs av exemplen i utredningen men också av Länsstyrelsens egna erfarenheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.2,
+      "quote": "Systemstöd för veterinära verksamheter kan vara en särskild utmaning då flera olika journalsystem används.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.6",
+      "sentiment": -0.5,
+      "quote": "Det behövs således ett kompletterande bemyndigande för länsstyrelserna om tillsyn ska kunna utövas över föreskrifter som meddelats med stöd av läkemedelslagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.8.3",
+      "sentiment": -0.5,
+      "quote": "Flera mindre tillkommande uppdrag där inga resurser skjuts till får en större påverkan i längden på länsstyrelsernas möjligheter att utföra sina uppdrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

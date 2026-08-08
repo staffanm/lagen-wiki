@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:85/statens-jordbruksverk": "7383673288cd020f5c9441beb502618ab2c8badd8075612893e4fbdc80076c3b",
+      "artifact:forarbete/sou/2025-85": "294cb24a3762fcf13ca3f2c6333d450b147fd4a2a13661010cbc39a703b07111"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Jordbruksverket tillstyrker betänkandets författningsförslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1",
+      "sentiment": 1.0,
+      "quote": "Jordbruksverket tillstyrker betänkandets författningsförslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": 1.0,
+      "quote": "En sammanslagning av två politikområden med delvis överlappande mål skulle kunna bidra till att skapa en ökad tydlighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 0.5,
+      "quote": "Här har både stat och kommun har en viktig roll att fylla, men där det behöver vara tydligt att staten har ett särskilt ansvar för ett sammanhållet genomförande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4",
+      "sentiment": 1.0,
+      "quote": "För landsbygdspolitiken stämmer detta i hög grad när den betraktas utifrån de nationellt finansierade stödformerna, som i stor utsträckning saknar ett systematiskt ramverk för utvärdering och uppföljning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.2,
+      "quote": "Annars kan det finnas en risk att landsbygdens frågor hamnar i skymundan i en gemensam politik.",
+      "quote_type": "grund"
+    }
+  ]
+}

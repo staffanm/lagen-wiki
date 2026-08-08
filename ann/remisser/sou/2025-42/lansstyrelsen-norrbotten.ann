@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/lansstyrelsen-norrbotten": "f5943a93021b7e0dbd0dc01ef907d2771b1f3fc44ac5ee065e30d92426f07767",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen Norrbotten instämmer i utredningens förslag och lämnar vissa synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": 0.2,
+      "quote": "Förslaget kommer dock innebära en ökad administration för tillsynsmyndigheterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.2",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen ser dock en farhåga för att förslaget med stor sannolikhet kan komma innebära att det kommer bli väldigt många förelägganden i omlopp, istället för att reglera dessa att omfattas av kravet på säkerhetsskyddsavtal där särskild lämplighetsbedömning och lämplighetsprövning ingår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i att det inte bör införas särskild rätt till ersättning vid ingripanden i pågående förfaranden.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.2,
+      "quote": "Bestämmelsen kan dock bli svårtillämpad och det kan därför behöva tydliggöras hur bedömningen ska göras av om det föreligger förutsättningar för att meddela interimistiska förelägganden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen instämmer i förslaget om möjligheten att besluta om tvångsåtgärder, men vill framhäva att det kan komma bli svåra bedömningar med ingripande åtgärder som kan behöva göras i ett skede när ett ärende inte är fullständigt utrett.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/foreningen-auktoriserade-revisorer": "aca954d11a637b1ae1f0c9c77c519b84190018da6da29357154336c8e2a527df",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "FAR anser att det är positivt att Delegationen mot arbetslivskriminalitet (delegationen) genom sitt slutbetänkande analyserar och presenterar ett antal åtgärder för att motverka arbetslivskriminella upplägg och kopplingar till organiserad brottslighet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec602",
+      "sentiment": -0.5,
+      "quote": "FAR anser inte att ett återinförande av revisionsplikten är rätt eller möjlig väg att gå utifrån en bedömning av kostnad och nytta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec586",
+      "sentiment": 0.5,
+      "quote": "FAR föreslår därför att Revisorsinspektionen, och eventuellt andra berörda myndigheter utifrån sina krav på reglerade yrken, ges rätten att ta in utdrag ur belastningsregistret i samband med att auktorisationen för en revisor förnyas, i normalfallet var femte år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.1",
+      "sentiment": 1.0,
+      "quote": "Ett sådant samarbete är relevant för andra involverade parter genom informations- och kunskapsutbyte av aktuella frågor kopplade till ekonomisk brottslighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:23/landsorganisationen-i-sverige-lo": "c93e9149b5324b9e3de150962cd8574ec9568f3363ec16d6c7426975d2cd466d",
+      "artifact:forarbete/sou/2025-23": "b2d48664048a020b85b19246d070df9c345abde883c4cd3cafb969951f44570e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "LO lämnar endast synpunkter på de förslag i det remitterade betänkandet som påverkar LO-förbundens medlemmar i deras arbete.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": -0.2,
+      "quote": "En ordningsvakt har en skyldighet att följa polisens order och ska därför anses vara en del av polisens myndighetsutövning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.2",
+      "sentiment": -0.5,
+      "quote": "Om en medarbetare hos polisen inte upplever sig ha ett tillräckligt stöd kan det medföra att denne inte utför sina arbetsuppgifter på grund av oro för att utsättas för våld, hot eller trakasserier.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.6.1",
+      "sentiment": 0.5,
+      "quote": "Det är dock viktigt att denna rätt gäller för alla och att det inte lämnas till arbetsgivaren att besluta om ersättning eller inte.",
+      "quote_type": "grund"
+    }
+  ]
+}

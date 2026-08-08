@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:56/stockholms-tingsratt": "396a451fbb518a7ff635a0d7230f795c8136e5f4ba0ed2ab32a7f663211802b8",
+      "artifact:forarbete/sou/2025-56": "aa474607a823f641b3c41a3a7a0ae03a90bc89660beb4c770fe2fdd7ff299a48"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Tingsrätten bedömer att förslagen om en samlad lagstiftning och inrättandet av en domaransvarsnämnd med en tydligt reglerad prövningsordning i stora drag är ändamålsenliga.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3.3",
+      "sentiment": -0.5,
+      "quote": "Tingsrätten delar inte utredningens bedömning och ställer sig även frågande till behovet av en sådan ledamot i sammansättningen om denne/a saknar arbetsrättslig kompetens.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec65",
+      "sentiment": -0.5,
+      "quote": "Det är i grunden en arbetsrättslig och arbetsmiljörättslig åtgärd snarare än ett disciplinärt medel genom vilken den ordinarie domarens oberoende kan ifrågasättas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.2",
+      "sentiment": -0.2,
+      "quote": "kan medföra att anmälningsskyldigheten framstår, för såväl domstolschef som ordinarie domare, som mer ingripande än nuvarande reglering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec318",
+      "sentiment": -0.5,
+      "quote": "Tingsrätten delar inte utredningens bedömning att det saknas behov av ett förstärkt sekretesskydd i ärenden som rör ordinarie domare hos JO.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec345",
+      "sentiment": -0.5,
+      "quote": "Även om nämnda förslag är avsedda att stärka domares rättsställning, kan de sammantaget uppfattas som en försämring för ordinarie domare och minska attraktiviteten för en sådan tjänst.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec18",
+      "sentiment": 0.0,
+      "quote": "I stället för en i lag fastslagen avgångsålder för ordinarie domare kan det – utifrån ett lagtekniskt perspektiv – övervägas om avgångsåldern bör knytas till riktåldern för pension enligt socialförsäkringsbalken.",
+      "quote_type": "grund"
+    }
+  ]
+}

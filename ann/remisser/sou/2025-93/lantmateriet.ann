@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:93/lantmateriet": "f43b59bae063c42c6a645a9c642b8385c613d41ce406510c3684932c6d31537e",
+      "artifact:forarbete/sou/2025-93": "201aa2c9468bea44887a18a07b9556294fb64c34f2aea6d2f31ad09b58f302f0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Lantmäteriet tillstyrker, med vissa justeringar och förtydliganden, utredningens förslag att Skogsstyrelsen och Lantmäteriet kan stärka samverkan gällande skogsbilvägar (avsnitt 8.11.3 i betänkandet).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.5.3",
+      "sentiment": 0.5,
+      "quote": "Lantmäteriet anser att den i slutbetänkandet föreslagna ordningen bidrar till ökad tydlighet och därför är att föredra i registerhänseende.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.11.3",
+      "sentiment": 0.5,
+      "quote": "Ett sådant uppdrag skulle därför förutsätta särskild finansiering.",
+      "quote_type": "grund"
+    }
+  ]
+}

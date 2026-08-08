@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/statskontoret": "e9b49febac084a6400a821e3b541deac00dd1d9eaed7cb8104441e07ec4af0eb",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": -0.6,
+    "quote": "Sammantaget bedömer Statskontoret att utredningen inte visar att aktiebolag är en lämplig organisationsform för den aktuella verksamheten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.3",
+      "sentiment": -1.0,
+      "quote": "Statskontoret anser inte att utredningen visar att det finns skäl att avvika från denna huvudregel avseende den aktuella verksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": -0.5,
+      "quote": "Att besluta om kapitaltillskott flera år i förväg för hela det föreslagna bolagets verksamhet ger regering och riksdag minskade möjligheter att omprioritera statens medel utifrån omvärlds- eller verksamhetsförändringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": 0.2,
+      "quote": "Om det blir aktuellt är det viktigt att uppdraget utformas i dialog med Statskontoret, dvs. på samma sätt som gäller för andra uppdrag som regeringen ger till myndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.6",
+      "sentiment": -0.2,
+      "quote": "Statskontoret bedömer att ett ökat inslag av OPS i det nya bolaget kan medföra behov av nya särlösningar vad det gäller underlag till nationalräkenskaperna.",
+      "quote_type": "grund"
+    }
+  ]
+}

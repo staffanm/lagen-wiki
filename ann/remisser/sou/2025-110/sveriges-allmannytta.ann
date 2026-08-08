@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/sveriges-allmannytta": "51199ab4fdf628de09fbfcf1e5d80247020a264cdfaff3d896659de14a64a1a7",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Implementation av förordningen i svensk lag måste balansera rättigheter och skyldigheter för alla parter; nätoperatörer, nätägare, fastighetsägare och slutanvändare för att få en fungerande inre marknad.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec59",
+      "sentiment": 1.0,
+      "quote": "avvika från bestämmelsen om tyst godkännande i GIA",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 1.0,
+      "quote": "ersätta utbyggnadsdirektivets skrivningar för att undvika otillåten dubbelreglering",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 1.0,
+      "quote": "ge byanät samma rättigheter som operatörer har i GIA",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec75",
+      "sentiment": 1.0,
+      "quote": "ge PTS ansvar för den central informationspunkten",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec322",
+      "sentiment": 1.0,
+      "quote": "ge byggnadsnämnderna ansvar för tillsyn över artikel 10 i GIA",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec370",
+      "sentiment": 1.0,
+      "quote": "PTS och Förvaltningsrätten i Stockholm utses till tvistelösningsorgan",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a18.2",
+      "sentiment": -0.2,
+      "quote": "rätten för leverantör av allmänna elektroniska kommunikationsnät får terminera sina nät fram till accesspunkten och få tillträde till befintlig fysisk infrastruktur i byggnader följer med en skyldighet att säkerställa motsvarande konnektivitet för alla enheter inom fastigheten oavsett abonnemang.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3.1",
+      "sentiment": -0.5,
+      "quote": "rätten att söka ledningsrätt för placering av passiv och aktiv infrastruktur på eller i fastighetsägares byggnader innebär att tillståndsförfaranden utgör hinder för investeringar i snabba inomhusnät och skadar den inre marknaden.",
+      "quote_type": "grund"
+    }
+  ]
+}

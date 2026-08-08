@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:112/lansstyrelsen-i-vastra-gotalands-lan": "d4cd4cb85c4cbdab833e39f9ba20adda5c31a1633515963fe51b7a78f7c72f3b",
+      "artifact:forarbete/sou/2025-112": "327d2d12c90657abd95e45e3d5371180d3dc968a3250c1269d1486751bc6c593"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen tillstyrker utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen ser positivt på möjligheten att använda de riskvärderingar som automatiskt genereras i Arachne som stöd vid tillsyn efter utbetalning för att exempelvis identifiera högriskprojekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.2,
+      "quote": "Däremot anser Länsstyrelsen att det finns oklarheter kring hur informationen från Edes bör användas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.11",
+      "sentiment": -0.5,
+      "quote": "Det kommer att leda till att ytterligare resurser kommer att krävas både för användandet av verktygen och för kompetenshöjande insatser för samtliga användare.",
+      "quote_type": "grund"
+    }
+  ]
+}

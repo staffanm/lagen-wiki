@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/skogsindustrierna": "96fad9e3847fa94b5572a843ba8f3aa1f90eb22971048efe94f29bdcb66e36b3",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svensk infrastruktur är eftersatt vilket drabbar svenska skogsindustrin och dess medarbetare varje dag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.6",
+      "sentiment": 0.5,
+      "quote": "Projektintäkter bör baseras på statlig tillgänglighetsersättning, vilket inte medför extra kostnader för användarna samtidigt som det skapar incitament för entreprenörer att öppna för trafik tidigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec240",
+      "sentiment": -0.5,
+      "quote": "Vägen och järnvägen ska vara farbara i hela landet, och kostnaden kan inte överföras till näringslivet.",
+      "quote_type": "grund"
+    }
+  ]
+}

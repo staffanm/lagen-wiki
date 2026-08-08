@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/vardforetagarna": "ae272c31e4f902d08b441b222334fd646738e979b061979b4ff4d31d4f1084ca",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vårdföretagarna instämmer i stort med Utredningens sammanfattande analyser och slutsatser.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2",
+      "sentiment": -0.2,
+      "quote": "En förändrad organisation skulle således kunna innebära en minskad administration och därmed en positiv utveckling då vårdens resurser i större omfattning skulle kunna gå till faktisk vård.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4",
+      "sentiment": 0.5,
+      "quote": "Privata utförare har i jämförelse med statligt eller regionalt organiserad vård bättre förutsättningar att åstadkomma detta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": 0.0,
+      "quote": "patientens ställning måste stärkas genom förbättrad information om patienträttigheter, både gentemot allmänheten och gentemot vårdens medarbetare.",
+      "quote_type": "grund"
+    }
+  ]
+}

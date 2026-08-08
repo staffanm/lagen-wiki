@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/tullverket": "0342d35432490f60c243aee154aab973b2ccca909fed8ca8d7e4cefe83b8cf3d",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Tullverket tillstyrker förslagen och ser positivt på att Säkerhetspolisen ska få inhämta fler uppgifter vid registerkontroll, bland annat från Tullverket, och till att negativa säkerhetsprövningsbeslut som fattas under pågående deltagande i säkerhetskänslig verksamhet ska anmälas till Säkerhetspolisen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5.3",
+      "sentiment": 0.2,
+      "quote": "förslaget om att Säkerhetspolisen ska få inhämta uppgifter från Tullverket vid registerkontroll kommer att generera ökade kostnader för myndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": 0.5,
+      "quote": "Då även negativa utfall vid inledande säkerhetsprövningar kan innehålla uppgifter som är av betydelse för framtida säkerhetsprövningar hos andra aktörer anser Tullverket att det kan övervägas om det inte också ska vara möjligt att kunna anmäla även dessa beslut till Säkerhetspolisen.",
+      "quote_type": "grund"
+    }
+  ]
+}

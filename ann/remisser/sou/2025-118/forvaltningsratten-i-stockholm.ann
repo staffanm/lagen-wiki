@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/forvaltningsratten-i-stockholm": "0faac3e57c766f3559698a875b630b0b8fa8b031296e68ea44025e9e3ff3db63",
+      "artifact:forarbete/sou/2025-118": "cd18feb433b9fb76d71f3277009b58b685ec4a95fcad3fdd090f9036e963acd1"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förvaltningsrätten har i och för sig inga invändningar mot att en bestämmelse införs som klargör att beslut av en behörig myndighet att inte vidta någon åtgärd med avseende på ett klagomål får överklagas av den som har lämnat in klagomålet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.9.4",
+      "sentiment": -0.2,
+      "quote": "Enligt förvaltningsrätten finns det skäl att överväga om en lösning motsvarande den dröjsmålstalan som införts med anledning av artikel 78.2 i dataskyddsförordningen bör införas även i detta lagstiftningsärende.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.4",
+      "sentiment": -0.2,
+      "quote": "Erfarenhetsmässigt kan detta bidra till omfattande inlagor och yrkanden som inte är helt anpassade till svensk förvaltningsprocess, vilket gör dem särskilt tidskrävande att hantera.",
+      "quote_type": "grund"
+    }
+  ]
+}

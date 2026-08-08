@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:36/polarforskningssekretariatet": "1331119031228c01be924ad969944188a25960740ffc5fa12d803d4e81a09056",
+      "artifact:forarbete/sou/2025-36": "e3d16c169ecd8ac4860467a3382c5fe813d345fe61f4e153e0c56341b0ba609e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sekretariatet stödjer utredningsbetänkandet förslag om att skydda biologisk mångfald i områden utanför nationell jurisdiktion genom det presenterade författningsförslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec250",
+      "sentiment": 0.2,
+      "quote": "Sekretariatet ser därför ett behov av att föreskrifter kring marina skyddade områden omgärdas av ett flexibelt ramverk som medger olika avvägningar och bedömningar utifrån samhällsnytta och det kunskapsmässiga mervärde som genereras av forsknings- och expeditionsaktivitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec159",
+      "sentiment": 0.5,
+      "quote": "Ur myndighetens perspektiv är det prioriterat att säkerställa att regelverket inte medför dubbelarbete för den verksamhet som redan omfattas av internationella åtaganden eller annan svensk miljölagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.1.6",
+      "sentiment": -0.2,
+      "quote": "Sekretariatet finner det oklart kring i vilken utsträckning forskningsexpeditioner och expeditioner med statsfartyg i forskningssyfte kommer till att omfattas av de föreslagna tillstånds- och rapporteringskraven.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.12",
+      "sentiment": 0.2,
+      "quote": "Det är därför önskvärt att strukturen för att bereda tillståndsärenden finns på plats när lagen träder ikraft, för att möjliggöra en effektiv ärendehantering och undvika förseningar i forsknings- och expeditionsverksamheten.",
+      "quote_type": "grund"
+    }
+  ]
+}

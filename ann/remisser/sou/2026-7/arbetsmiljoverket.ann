@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:7/arbetsmiljoverket": "e6b84de47fe704b8a1b798bc38c338405e84f1b56a1ac0fd23029449af8acdb3",
+      "artifact:forarbete/sou/2026-7": "7a846bbd7b56ef1c76f8c2a569d6204c1cff17ef01ba342d52cb501a13be5642"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "De avgränsningar som gjorts innebär dock att utredningen inte analyserar de rättsliga, integritetsmässiga och informationssäkerhetsmässiga konsekvenser som förslagen kan medföra.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.5.8",
+      "sentiment": 0.5,
+      "quote": "Utredningens förslag likställer i vissa delar företagshälsovården med övrig hälso- och sjukvård, men det kan diskuteras om verksamheten fullt ut kan jämställas med denna eftersom den kan omfatta såväl medicinska insatser som arbetsmiljö- och rehabiliteringsuppdrag och därmed bygger på andra syften och sammanhang.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec317",
+      "sentiment": 0.2,
+      "quote": "Arbetsmiljöverket ser positivt på ambitionen att stärka folkhälsoarbetet, men anser att det behöver tydliggöras vilket ansvar och vilken roll de utsedda myndigheterna ska ha inom ramen för uppdraget.",
+      "quote_type": "grund"
+    }
+  ]
+}

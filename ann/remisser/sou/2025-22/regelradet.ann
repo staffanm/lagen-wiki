@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:22/regelradet": "32eceee01129cec09f5ace41abe9d22d393894b7fa8398d7db87b03ef9699606",
+      "artifact:forarbete/sou/2025-22": "45067db09f181943a24b036c25aff632ca7182d0e91cad163c63d8d848a0d8dc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Regelrådets bedömning är i alla händelser att de brister som finns när det gäller dessa två delaspekter inte hindrar att konsekvensutredningen sammantaget är tillräckligt tydlig.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.6.5",
+      "sentiment": -0.5,
+      "quote": "Det som inte är tillräckligt tydligt redovisat är påverkan på företagens intäkter, som inte har tagits upp explicit överhuvudtaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.6.9",
+      "sentiment": -0.2,
+      "quote": "det finns inte tillräcklig information om det sätt som dessa utvärderingar skulle genomföras, i vilken mån effekter för företag skulle utvärderas och på vilket sätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

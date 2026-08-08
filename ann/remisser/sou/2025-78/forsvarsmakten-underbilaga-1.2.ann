@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:78/forsvarsmakten-underbilaga-1.2": "77fae565bd6cbbaa6e2b4cc72836942bfe69a8932e7a691ab01c5f44303e15be",
+      "artifact:forarbete/sou/2025-78": "5e962ecad284bd4ad32df402fefc51220b5adbb1f6196029e4d8b81eb1e4f5b2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Saco-S FM förklarar sig enig med Försvarsmakten avseende underrättelseutredningens remissvar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.2.6",
+      "sentiment": -0.2,
+      "quote": "Saco-S FM instämmer med Försvarsmakten om vikten av att en övergripande förändring inte får innebära att nationell underrättelseförmåga nedgår under förändringsarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": -0.2,
+      "quote": "Saco-S FM vill särskilt påtala behovet av att ett förändringsarbete sker på sådant sätt att det inte skapar onödig turbulens hos berörd personal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": 0.2,
+      "quote": "Saco-S FM vill understryka vikten av att de författningsmässiga grunderna utvecklas då dessa ligger till grund för ny struktur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5.1",
+      "sentiment": 1.0,
+      "quote": "Ett konstant inflöde av välutbildad personal utgör en viktig grundförutsättning för att utveckla och vidmakthålla en nationell underrättelseförmåga.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:112/lansstyrelsen-i-stockholms-lan": "3156201a1e171d83374a92f881d07bbd5fb50f615e4f8d78c0f4d0f9feef90e6",
+      "artifact:forarbete/sou/2025-112": "327d2d12c90657abd95e45e3d5371180d3dc968a3250c1269d1486751bc6c593"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Stockholms län tillstyrker förslaget att införa en ny bestämmelse i offentlighets- och sekretesslagen (2009:400).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsens erfarenhet är att det varken är effektivt eller rättssäkert att samla in uppgifterna i samband med eller efter utbetalning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 0.7,
+      "quote": "Länsstyrelsen ser positivt på möjligheten att använda de riskvärderingar som automatiskt genereras i Arachne som stöd vid tillsyn efter utbetalning för att exempelvis identifiera högriskprojekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 0.7,
+      "quote": "Länsstyrelsen är positiv till möjligheten att använda Edes vid handläggningen av ärenden för att upptäcka oegentligheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.2",
+      "sentiment": -0.5,
+      "quote": "Det är viktigt att det finns ett tydligt ramverk och bra förutsättningar för användning av verktygen om dessa ska ha avsedd effekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec394",
+      "sentiment": -0.2,
+      "quote": "Det kommer att leda till att ytterligare resurser kommer att krävas både för användandet av verktygen och för kompetenshöjande insatser för samtliga användare.",
+      "quote_type": "grund"
+    }
+  ]
+}

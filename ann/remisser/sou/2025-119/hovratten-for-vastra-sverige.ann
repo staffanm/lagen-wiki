@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:119/hovratten-for-vastra-sverige": "11e870b8ae613689ffa17d625b38aeaff2ad59907d29253995df62c46795a11c",
+      "artifact:forarbete/sou/2025-119": "4ffe1b3a3b8b7263d217456e1fadfaf32122d48eff13747b01cb521abb874202"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Hovrätten har granskat betänkandet med utgångspunkt i de aspekter som de allmänna domstolarna har att beakta och lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": 0.5,
+      "quote": "Genom att fler exploateringssyften anges i lagtexten synes följden kunna bli att lägre krav kommer ställas på dessa syften jämfört med de krav som nu ställs på sådana exploateringssyften enligt det s.k. nödlägesrekvisitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.9",
+      "sentiment": 0.5,
+      "quote": "Hovrätten anser att beteckningen olaga tjänsteutnyttjande riskerar att felaktigt leda tankarna till brott som ligger nära tjänstefel och förordar i stället beteckningen olaga nyttjande av tjänst.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": -0.5,
+      "quote": "Hovrätten ifrågasätter därför starkt att de kostnadsökningar som förslaget kommer medföra ryms inom domstolarnas befintliga anslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

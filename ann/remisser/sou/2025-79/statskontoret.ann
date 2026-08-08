@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:79/statskontoret": "1f0f35ac6c33a9444d1e5e2c7dab92fde2e44bc93da62c36a51396f8ad361961",
+      "artifact:forarbete/sou/2025-79": "c64b4b9c06d05a79cece5dd73a826cc8055c9f737a2b6caf57a69f5aee9b43d1"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Vi begränsar vårt svar till de förslag som handlar om statlig styrning och effektivitet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3.1",
+      "sentiment": 1.0,
+      "quote": "Vi delar utredningens uppfattning om att ansvarsfördelningen bör tydliggöras mellan FRA och Myndigheten för samhällsskydd och beredskap (MSB).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.2",
+      "sentiment": 1.0,
+      "quote": "Statskontoret bedömer ur det perspektivet att det är ändamålsenligt att de deltagande myndigheterna tydligt ska ha uppgiftsskyldighet när de samverkar inom NCSC.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:29/ekonomistyrningsverket-esv_": "6fd5cbf5fa7229eb49820c20a0f3d8b7594a6e7a2dddba6c477ecec43b8bd381",
+      "artifact:forarbete/sou/2025-29": "c404af687884c4e424e9b1eff3268002398d134aeb4bddadc0a1e86ff3efec7d"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "ESV avstyrker förslaget i 9.8.2 om årlig uppräkning av anslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.8.2",
+      "sentiment": -1.0,
+      "quote": "Skälet till ställningstagandet är att anslag som används för bidrag uppräknas vanligen inte.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3",
+      "sentiment": 1.0,
+      "quote": "Skälet för ställningstagandet är att tidpunkten inte påverkar förutsättningarna för ekonomisk styrning eller sunda statsfinanser.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:75/polismyndigheten": "e0698209d64e3c29ecbe3337ce93f98b6d093a5f87ede2abbc37d54f6f143f35",
+      "artifact:forarbete/sou/2025-75": "6c1747356aef8861690e0e55231a670ab88642b59dc2975b505edeeb781a1461"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Polismyndigheten tillstyrker i stort utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 1.0,
+      "quote": "Det bedöms ge bättre förutsättningar att lagföra möjliggörare som på olika sätt används inom den organiserade brottslighetens systematiska användning av oriktiga folkbokföringsuppgifter vid olika brottsupplägg, exempelvis välfärdsbrottslighet, arbetslivskriminalitet och bedrägerier.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6.7",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten välkomnar förslaget att Skatteverket i sin brottsbekämpande verksamhet ska få verkställa beslut om kroppsbesiktning",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a26.9",
+      "sentiment": -0.2,
+      "quote": "Polismyndigheten anser inte att utredningens förslag i denna del är tillräckligt för att på ett effektivt sätt motverka möjligheterna att skaffa sig falska och multipla identiteter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a26.10",
+      "sentiment": 0.5,
+      "quote": "Polismyndigheten tillstyrker förslaget då det innebär en stärkt kontroll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a29",
+      "sentiment": 0.0,
+      "quote": "Polismyndigheten anser därför att förslaget om att frågan om myndigheten bör få möjlighet att inom id-verksamheten göra biometriska jämförelser med underlag hos Skatteverket bör utredas vidare i ett senare skede även bör omfatta frågan om gränspolisverksamheten bör få samma möjlighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

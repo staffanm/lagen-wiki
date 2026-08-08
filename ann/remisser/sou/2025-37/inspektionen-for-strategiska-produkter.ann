@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:37/inspektionen-for-strategiska-produkter": "f86b432ef8ce3898c2a281de0b56301a96fa2fa39b67efed79f4cbe90f3a44ae",
+      "artifact:forarbete/sou/2025-37": "f2caa386251f276824b88c0c043ef741f67175b8f957b93142f12fc4f4448b10"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "ISP har i övrigt inga synpunkter eller kommentarer på förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 1.0,
+      "quote": "Det skulle vara svårhanterligt med parallella system, om ett regelverk infördes om granskning av utländskt ägande även i skollagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": 1.0,
+      "quote": "ISP anser det vara positivt om tillsynsmyndigheterna får utökade möjligheter att hindra olämpligt inflytande över en enskild huvudman, oavsett om det är genom en inhemsk eller utländsk aktör.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": -0.2,
+      "quote": "Ett problem med detta förfarande utgör emellertid sekretessfrågan, eftersom någon sekretessbrytande bestämmelse inte är tillämplig för myndigheter som inte är uppgiftsskyldiga",
+      "quote_type": "grund"
+    }
+  ]
+}

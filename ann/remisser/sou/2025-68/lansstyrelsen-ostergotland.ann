@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/lansstyrelsen-ostergotland": "bcd90f0c1e5c7548cc58260c3c69009d380bedf5db227c5e2253b6347f3f3070",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Länsstyrelsen Östergötland anser att nedan nämnda synpunkter behöver förtydligas för att utredningen ska kunna implementeras.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.4",
+      "sentiment": -0.5,
+      "quote": "Arbetet med försörjningsanalyser riskerar bli kostsamt med begränsad effekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": -0.2,
+      "quote": "Avseende F-avtalen blir det trots detta inte tydligt hur kommuners behov ska tillgodoses då de enligt utredningen inte ska omfattas av F-avtal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4",
+      "sentiment": -0.5,
+      "quote": "Samtidigt nämner utredningen att sektorn har ett övergripande geografiskt områdesansvar vilket Länsstyrelsen Östergötland motsätter sig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": -1.0,
+      "quote": "Den förmodade kostnaden för detta är oproportionerlig till de behov som redan finns i befintliga planerade åtgärder.",
+      "quote_type": "grund"
+    }
+  ]
+}

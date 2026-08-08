@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:63/sveriges-farmaceuter": "776831e86a627de9522f0f44a535144b904dc9723e1dc9c3b13251e29057848e",
+      "artifact:forarbete/sou/2025-63": "461094f462cdf3d5e300f64df1c13bc71f9e5017089a2d108dbaf9978b04511e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sveriges Farmaceuter är i huvudsak positiva till förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4.8",
+      "sentiment": -0.5,
+      "quote": "Vi anser att apotekare bör omfattas av en strukturerad specialistutbildning, särskilt med tanke på att de annars riskerar att bli den enda legitimerade yrkesgruppen med lång utbildning utan sådan möjlighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.3",
+      "sentiment": 0.5,
+      "quote": "Att exkludera dem riskerar att försvaga professionens utveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.8,
+      "quote": "Utan adekvat fortbildning riskerar kvaliteten på framtidens hälsooch sjukvård att urholkas allt mer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7",
+      "sentiment": 0.0,
+      "quote": "Legitimerad personal inom denna typ av verksamhet torde ha samma behov som finns hos vårdgivare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7.3",
+      "sentiment": -0.2,
+      "quote": "Vi ser positivt på att fortbildning ska dokumenteras, men oroas över att uppföljningen blir ytlig hos större vårdgivare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 0.2,
+      "quote": "Vi föreslår att även definitionen av vidareutbildning inkluderas i Patientsäkerhetslagen, för att tydliggöra skillnaden mot fortbildning.",
+      "quote_type": "grund"
+    }
+  ]
+}

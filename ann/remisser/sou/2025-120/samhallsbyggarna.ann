@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:120/samhallsbyggarna": "61c299d5c382f4e9328ec36a2873f58ba9df18933f1910b3ba20cbda83b69811",
+      "artifact:forarbete/sou/2025-120": "955fb33a94633c73aec91958ce79a130071b723a01d7570e69b3b3083499edf5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Samhällsbyggarna välkomnar ambitionen att hitta alternativa former för genomförande av de infrastruktursatsningar som så väl behövs.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec134",
+      "sentiment": -0.2,
+      "quote": "Den tillgängliga maskinella och mänskliga genomförandekapaciteten är emellertid enligt vår mening otillräcklig, i vart fall på kort sikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": 0.5,
+      "quote": "Erfarenhetsmässigt är det oftast systematisk uppföljning och erfarenhetsåterföring som får alltför lite uppmärksamhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

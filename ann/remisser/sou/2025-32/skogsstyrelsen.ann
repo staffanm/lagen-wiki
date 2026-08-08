@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:32/skogsstyrelsen": "aab3b42b4ba9619350256912e13fea33f9012630d2be197ae2d643f5b0223ac8",
+      "artifact:forarbete/sou/2025-32": "26d80d3408f8a86054abee979a4040504620837bce388bbf4a4cc1ac89c1b1e7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skogsstyrelsen ser generellt positivt på förenklingar för aktörer inom den operativa hjortdjursförvaltningen som kan bidra till att minska skador på skog orsakade av vilda hjortdjur.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": -0.5,
+      "quote": "Eftersom Skogsstyrelsens insats kan behöva öka till följd av förslagen borde myndigheten ha ingått i konsekvensutredningens avsnitt 11:3 konsekvenser för staten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.2.3",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen tillstyrker utredningens förslag om att förenkla, enhetliggöra och utöka möjligheterna till skyddsjakt av klövvilt och därigenom underlätta för bland annat ägare av skogsfastigheter att skydda sin skog mot betesskador.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen anser att en ekosystembaserad flerartsförvaltning av hjortdjur är nödvändig på många håll i södra och mellersta Sverige för att kunna minska betesskador.",
+      "quote_type": "grund"
+    }
+  ]
+}

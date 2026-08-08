@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:2/goteborgs-kommun": "48d3f80e037f94249b2ed3f4f2ccf476cd2fdfaf0934112194228167c36c54a4",
+      "artifact:forarbete/sou/2026-2": "268cb1a91d7487751792b25c36a09a8f2726dc14041333fad4afbde07bce20d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Göteborgs Stad tillstyrker delbetänkandets förslag, men har ett antal medskick.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec193",
+      "sentiment": 0.5,
+      "quote": "Förslaget att ta bort partivalsedlarna, för att i stället enbart ha kandidatvalsedlar och blanka valsedlar, innebär en minskning av antalet valsedlar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec191",
+      "sentiment": 0.5,
+      "quote": "Genom att låta den lokala valadministrationen överta distributionen av valsedlarna skapas bättre kontroll och förutsägbarhet för valsedelsystemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec315",
+      "sentiment": 0.8,
+      "quote": "Det är viktigt att en väljare vet vem han eller hon röstar på samt att denna person kandiderar för väljarens kommun eller region.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec328",
+      "sentiment": -0.5,
+      "quote": "Göteborgs Stad bedömer att kommitténs förslag för med sig konsekvenser för den lokala valadministrationen som bland annat kan innebära ett ökat behov av resurser avseende exempelvis lagring, logistik och transporter av valsedlar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec231",
+      "sentiment": -0.5,
+      "quote": "Detta kan i sig medföra ytterligare kostnader för både staten och den lokala valadministrationen som kommittén inte har beaktat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.6",
+      "sentiment": -0.5,
+      "quote": "Dessa mindre partier riskerar bli mindre synliga än vad som är fallet i dag eftersom de inte längre tillåts placera ut egna valsedlar i vallokalerna.",
+      "quote_type": "grund"
+    }
+  ]
+}

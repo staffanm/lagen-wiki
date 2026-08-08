@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:47/trafikverket": "2570c457b03bd1a0f74429af4c4148d3fc898050a0c4c265ae77bb7a1666a55b",
+      "artifact:forarbete/sou/2025-47": "1998cf0776597c0c9e6ddd14550096440acb7a8c6b7dd2c25e14ff07bc80a796"
+    }
+  },
+  "overall": {
+    "sentiment": 0.6,
+    "quote": "välkomnar Trafikverket den analys som utredningen gjort och anser att förslagen som syftar till att stödja elmarknadens kommande L utveckling är relevanta och i allt väsentligt positiva.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec204",
+      "sentiment": 1.0,
+      "quote": "delar uppfattning med Finansinspektionens rapport från 2023 om vikten att tillföra resurser och kompetens till Finansinspektionen för att etablera kontakter med de myndigheter som har tillsyn över elmarknaden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": -0.5,
+      "quote": "I dagsläget är det brist på säljare vid börshandel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec613",
+      "sentiment": 0.8,
+      "quote": "En sådan förändring kan underlätta utbyggnad och nybyggnad av kraftförsörjningssystem för järnvägen.",
+      "quote_type": "grund"
+    }
+  ]
+}

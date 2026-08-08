@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/skogsstyrelsen": "d9f2be4827fcd1dca0817d7e5be82e267f035155f11bbe690f46fe48ab290300",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Skogsstyrelsen har i övrigt inga synpunkter på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6.3",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen tillstyrker förslaget om att dispensgrunderna för prövningstillstånd i Mark- och miljööverdomstolen begränsas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.7.2",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen anser att utredningen har gjort en gedigen genomgång av gällande rätt och fört fram övertygande motiv för att klagorätten inte bör begränsas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.7.3",
+      "sentiment": 0.5,
+      "quote": "Skogsstyrelsen anser att det är viktigt att en eventuell avgift inte avhåller den som har ett legitimt intresse av att få sin sak prövad i domstol från att överklaga.",
+      "quote_type": "grund"
+    }
+  ]
+}

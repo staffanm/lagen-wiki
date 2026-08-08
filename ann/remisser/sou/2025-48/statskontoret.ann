@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/statskontoret": "7d60d99fdd9d632d92f3dc0c55e07fda0c3406556c9d56cc9f4b55f6f3352da0",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vi har inga synpunkter på utredningens förslag utöver de kommentarer som lämnas i detta svar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.3",
+      "sentiment": 1.0,
+      "quote": "Det kan till exempel handla om att regeringen eller riksdagen vidtar åtgärder som på olika sätt bidrar till att förtydliga ansvarsförhållanden inom området.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.7.1",
+      "sentiment": 1.0,
+      "quote": "Utredningens förslag gör regionernas ansvar vid en omfattande smittspridning tydligare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.5,
+      "quote": "Flera av de faktorer som utredningen lyfter som viktiga ligger i linje med de iakttagelser som Statskontoret tidigare har gjort.",
+      "quote_type": "grund"
+    }
+  ]
+}

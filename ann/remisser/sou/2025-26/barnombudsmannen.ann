@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:26/barnombudsmannen": "aa26aaf0f049588033aaafe5c61f830156413c414b03af7631ceb8a35548ab50",
+      "artifact:forarbete/sou/2025-26": "a1b81219fa2da047a1458b8868f5adbe136dee2710181976c6ee6cf5ed142bf6"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Barnombudsmannen anser att det är svårt att få en överblick och bedöma de sammantagna konsekvenserna för barn och deras rättigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.2",
+      "sentiment": -0.5,
+      "quote": "det är otillräckligt att begränsa barns deltagande till organiserade företrädare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 0.5,
+      "quote": "Därför är det avgörande att personal har tid och möjlighet att bygga trygga relationer med elever, uppmärksamma signaler på utsatthet och agera direkt när någon far illa för att säkerställa att den som är utsatt får stöd och skydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.2,
+      "quote": "Den bristande likvärdigheten är ett allvarligt problem.",
+      "quote_type": "grund"
+    }
+  ]
+}

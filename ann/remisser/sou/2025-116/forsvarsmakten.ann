@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:116/forsvarsmakten": "f2d0e7b06342b21780745e6b92410be7efcf65fa90dc848e2887e47feaadf26d",
+      "artifact:forarbete/sou/2025-116": "6e845a53d09b875b450c51c7a68361f369fb3e38e747d872c524feeedc2736c8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försvarsmakten understryker vikten av en fungerade distribution av radio och tv utifrån totalförsvarsperspektivet och behovet av informationsförmedling i händelse av höjd beredskap och krig.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Medan utredningen främst har adresserat problemet gentemot agerande från aktörer som ska befinna sig i distributionskedjan, såsom Google och Facebook, har däremot hot och påverkan från aktörer som manipulerar information i realtid, exempelvis ett VMA, inte adresserats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 1.0,
+      "quote": "Försvarsmakten delar utredningens överväganden i denna del.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.2,
+      "quote": "kommer det analoga marknätet fortsatt under lång tid framöver vara huvudbärare av VMA medan digitalradions yttäckning än så länge är låg, liksom dess tillväxt.",
+      "quote_type": "grund"
+    }
+  ]
+}

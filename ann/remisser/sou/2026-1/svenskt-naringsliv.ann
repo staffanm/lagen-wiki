@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:1/svenskt-naringsliv": "6e7f0442453edcb66c61f13d5be3b6144ab8c2da3ff1bd5cda78d778a59b521c",
+      "artifact:forarbete/sou/2026-1": "800122abdf1a75716ad0b7e15b8b8e168d5039afbac180a5b4abf6bbfb8f9388"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Det är ett viktigt steg för att stärka Sveriges internationella konkurrenskraft och förbättra villkoren för FoUinvesteringar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec110",
+      "sentiment": 1.0,
+      "quote": "NSD delar utredningens bedömning att ett nytt skatteincitament • ska omfatta alla företag och inte ha någon särskild inriktning, • ska vara utgiftsbaserat, • ska vara volymbaserat utan takbelopp, • inte ska kräva något förhandsgodkännande samt • ska vara förenligt med EU-rätten och inte utformas som ett statligt stöd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec152",
+      "sentiment": 1.0,
+      "quote": "Med hänsyn till den analysen är det enligt NSD:s bedömning en rimlig slutsats att låta lönekostnader utgöra underlag för ett nytt skatteincitament.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -0.2,
+      "quote": "Dagens FoU-avdrag präglas av oförutsebarhet och en rigid tillämpning från Skatteverket, vilket skapar stora administrativa kostnader och rättsosäkerhet för företagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.8,
+      "quote": "Ur ett internationellt konkurrensperspektiv väger ett förhöjt kostnadsavdrag, på den nivån som föreslås, tyngre eftersom det har potential att ge en mer kraftfull skattelättnad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.2,
+      "quote": "Även om en återbetalningsbar skattereduktion har andra fördelar, exempelvis att den kan ge ett likviditetstillskott till företag med underskott, är det NSD:s bedömning att dessa fördelar inte väger lika tungt i den internationella konkurrensen om FoU-investeringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -0.2,
+      "quote": "NSD:s analys tyder på att utredningen sannolikt överskattar budgeteffekterna och därmed även finansieringsbehovet för reformen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.13",
+      "sentiment": -1.0,
+      "quote": "Att finansiera ett skatteincitament för FoU genom att försämra andra grundläggande villkor för företag är kontraproduktivt och motverkar reformens syfte.",
+      "quote_type": "grund"
+    }
+  ]
+}

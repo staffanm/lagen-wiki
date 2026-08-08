@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/specialfastigheter": "717965f2e144334ee8733706a00ddb85d19ed8b1ad2e320fcbf27c3f0a690cf2",
+      "artifact:forarbete/sou/2025-98": "7c02dbd0c5a8375414c74c14e5dac5e3e59236005fee59904bccdffc372e935e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Överlag så är vi positiva till de förslag som skapar bättre förutsättningar för kvalitet, likformighet, informationsutbyte och uppföljning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 0.5,
+      "quote": "Specialfastigheter välkomnar förslagen ur betänkandet som syftar till att ge mer lika förutsättningar för förrättningsverksamhet runt om i landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": -1.0,
+      "quote": "Handläggning av ärenden med högt värderade fastigheter i komplexa stadsmiljöer med ovanpå varandra liggande kommunala, regionala och enskilda intressen kräver kännedom om lokala förhållanden/historik och om storstadsspecifika fastighetsbildningsförhållanden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": -1.0,
+      "quote": "Betänkandets förslag att lantmäteriförrättningar som berör säkerhetskänslig verksamhet ska handläggas av Lantmäteriet bidrar, som vi ser det, till att ytterligare sprida potentiellt känslig information till flera instanser och arkiv.",
+      "quote_type": "grund"
+    }
+  ]
+}

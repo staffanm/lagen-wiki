@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:122/affarsverket-svenska-kraftnat": "80eed87bbfc668e721e868c98f3ef6d366e4d4ef26f6c3ee1f2d4ce04ebb879a",
+      "artifact:forarbete/sou/2025-122": "7696e90c8bf9f293edf1a8f0c507f6b9b07179868fa5d57c436fa92dec9cc9c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Svenska kraftnät har ingen erinran mot flertalet av förslagen men gällande nedanstående förslag lämnas följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6.3",
+      "sentiment": -0.5,
+      "quote": "Svenska kraftnät bedömer att dessa förslag tillsammans innebär att instansordningskedjan förkortas avsevärt jämfört med idag och att en överprövning i fråga om den materiella riktigheten av ett beslut då endast kommer att göras av mark- och miljödomstolen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec222",
+      "sentiment": 1.0,
+      "quote": "Svenska kraftnät dock positivt på utredningens förslag att göra bestämmelserna om prövningstillstånd fakultativa för Mark- och miljööverdomstolen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.8.2",
+      "sentiment": 0.5,
+      "quote": "Svenska kraftnät har erfarenheter av att delgivningen av beslut har tagit flera månader vilket leder till längre handläggningstider och osäkerheter kring när beslutet vinner laga kraft.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": -0.4,
+      "quote": "Svenska kraftnät bedömer att det föreligger stor risk för att handläggningen av dessa ärenden kommer ta ännu längre tid om länsstyrelsen förlorar kompetens och resurser.",
+      "quote_type": "grund"
+    }
+  ]
+}

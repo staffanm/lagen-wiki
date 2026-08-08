@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/kungliga-krigsvetenskapsakademien": "c4e8190406aa980a037bc91b59e9441e9a2a4fa9e8babe55392246c098bd27fd",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Med hänsyn till omvärldsläget behövs dock en gedigen, initial förmåga långt tidigare än så.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": 1.0,
+      "quote": "Detta är i mitt tycke klokt då det ger bättre precision så att inte hela verksamheten vid ett företag med automatik ianspråktas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": -0.5,
+      "quote": "Däremot saknas förslag som möjliggör en effektiv användning av otillräckliga resurser i kritiska lägen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.4",
+      "sentiment": 1.0,
+      "quote": "Förslaget (4.3.4) att ha ett register för arbetsmaskiner i Sverige synes lämpligt.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a4.3.5",
+      "sentiment": 1.0,
+      "quote": "Med tanke på de stora resursbehov som kan förväntas under högsta beredskap synes det välbetänkt att överväga att införa civilplikt inom detta område.",
+      "quote_type": "grund"
+    }
+  ]
+}

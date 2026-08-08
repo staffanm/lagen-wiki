@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:31/forvaltningsratten-i-malmo": "3764b48887ec0b567dc14b362a0d9088f3a93adb46fc6599d5061a53003a99d8",
+      "artifact:forarbete/sou/2025-31": "e7c4dbe9b042c6e1d10f651782855418bac084c351c484930a03ffa7ab2a06bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förvaltningsrätten i Malmö, migrationsdomstolen har, utöver de synpunkter som redovisas nedan och utifrån de aspekter domstolen har att beakta, inget att erinra mot förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Utredningens förslag begränsar det rättsliga biståndet på ett sätt som förvaltningsrätten anser kommer att försvåra utredningar hos Migrationsverket och därmed förskjuta tyngdpunkten i prövningen till domstolsprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.3",
+      "sentiment": -0.5,
+      "quote": "Detta kommer att medföra merarbete för domstolarna, något som endast behandlas översiktligt och framstår som underskattat.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/region-sormland": "135efc816328c358c7938053d0ed589ba1bc440a0b15044fe201cf420a18f077",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Sörmland stöder huvuddragen i förslagen men anser att de måste anpassas för att säkerställa regionalt inflytande vid till exempel tvistelösningar, hög kvalitet i tillståndsprocesser samt tydliga och proportionerliga tvist- och sanktionsmekanismer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.1",
+      "sentiment": -0.5,
+      "quote": "Ett skadestånd som inte är tillräckligt kännbart riskerar annars att försvaga drivkrafterna för tillståndsgivande myndigheter att hålla tidsfrister och effektivisera sina processer, vilket skulle strida mot EU:s gigabitinfrastrukturförordning (2024/1309) syfte att påskynda och förenkla utbyggnaden av gigabitinfrastruktur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20",
+      "sentiment": 0.5,
+      "quote": "Regionerna har genom deras regionala utvecklingsansvar och en nära samverkan med kommunerna en stark lokal och territoriell förankring, vilket ger goda förutsättningar för att bidra med kunskap om lokala förhållanden, planeringsprocesser och praktiska utmaningar vid utbyggnad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": 0.5,
+      "quote": "För att portalen ska få full genomslagskraft är det dock angeläget att den utformas på ett sätt som även stärker den regionala och lokala nivån.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:25/lansstyrelsen-stockholm": "b7ce99485ace04e369501c11b9b5b10a4994463ed6e2a04308d447ad27fe5681",
+      "artifact:forarbete/sou/2025-25": "bfe4d1d69132565ad10a2362d18b16836e19b2902cce39b811cb445c74ccb93b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Stockholms län tillstyrker förslagen i Slutbetänkande av delegationen mot arbetslivskriminalitet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3.5",
+      "sentiment": 0.5,
+      "quote": "En förutsättning för detta är dock tillskott av resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": 0.2,
+      "quote": "Det kan finns en risk att lokalt arbete som ska motverka arbetskriminalitet inte prioriteras då frågan om arbetslivskriminalitet inte finns med i de lokala lägesbilder som kommunerna utarbetar.",
+      "quote_type": "grund"
+    }
+  ]
+}

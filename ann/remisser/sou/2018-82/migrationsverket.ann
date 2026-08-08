@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/migrationsverket": "db7502473ac96fe5fce571a5d3a474246075e2f1f01c2f4f14d6a1ba59df8224",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammanfattningsvis är förslagen i betänkandet väl avvägda och bildar tillsammans med den nya säkerhetsskyddslagen en god grund för ett modernt och stärkt skydd för Sveriges säkerhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec5",
+      "sentiment": 1.0,
+      "quote": "Den nya säkerhetsskyddslagstiftningen är välkommen och det finns goda skäl till de kompletteringar som föreslås i betänkandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec23",
+      "sentiment": 0.2,
+      "quote": "I anslutning till detta är rådgivning och stöd en del av säkerhetsskyddet där det historiskt råder ett visst underskott och även strukturellt sett finns vissa utvecklingsmöjligheter, exempelvis vad avser praktiskt metodstöd, som i ett helhetsperspektiv skulle leda till väsentlig nytta för de organisationer som omfattas av den nya säkerhetsskyddslagstiftningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": 1.0,
+      "quote": "I det förra fallet är det ytterst viktigt att kraven på myndigheterna, så långt möjligt, är ensade avseende organiseringen av säkerhetsskyddet och därför är detta förslag ett bra stöd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5",
+      "sentiment": -0.2,
+      "quote": "Ett system med sanktioner skulle möjligen kunna inverka hämmande på öppenhet och vilja att rapportera inom de säkerhetskänsliga verksamheterna och samhället i stort, något som inom denna typ av verksamheter kan bli kontraproduktivt.",
+      "quote_type": "grund"
+    }
+  ]
+}

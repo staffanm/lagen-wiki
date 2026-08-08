@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/kommunala-lantmaterimyndigheten-i-stockholm": "1def444c4cc19222abfd07405b1910304103559a7a30a24309d5e1c4569cbd85",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Lantmäterimyndigheten i Stockholms kommun har granskat det rubricerade betänkandet och är positiva till förslagen men har gjort nedanstående noteringar vid genomläsningen",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.3.2",
+      "sentiment": -0.2,
+      "quote": "Även i en sådan situation kan man tänka sig att den nuvarande bevishierarkin skulle vara av nytta att använda sig av för att fastställa den korrekta koordinaten för gränspunkten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.2",
+      "sentiment": 1.0,
+      "quote": "Det betyder att många ärenden där man idag behöver ange skäl till att inte markera och avvika från bestämmelserna samt att samråda om detta med fastighetsägare kommer förenklas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.6",
+      "sentiment": -0.5,
+      "quote": "Ett utförligare resonemang om hur prövningen ska kunna ske och när en avvikelse blir väsentlig finns inte med i utredningen vilket ställer högre krav på kommande riktlinjer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": -0.5,
+      "quote": "En skrivning med utgångspunkten att bara gränser som kan komma att få betydelse behöver koordinatbestämmas skulle innebära större möjlighet till att begränsa omfattningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

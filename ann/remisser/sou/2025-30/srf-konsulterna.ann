@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/srf-konsulterna": "3a179a53518385fdb55ea45850b44dbc460dd3d439415c24b8534e6efb6205b5",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Srf konsulterna tillstyrker - att reglerna om förenklad vinstmarginalbeskattning utvidgas till att gälla för varor med ett inköpspris som inte överstiger 10 000 kr, och - att det införs ett kvalificerat undantag för donationer av livsmedel som är begränsat till godkända gåvomottagare som främjar eller bedriver social hjälpverksamhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": 1.0,
+      "quote": "Det är bra att förslaget kan förväntas minska dubbelbeskattningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": -1.0,
+      "quote": "Den högre procentsats som utredningen föreslår motverkar en ökad försäljning av begagnade varor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": 1.0,
+      "quote": "Srf konsulterna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

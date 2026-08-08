@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/svea-hovratt_mark--och-miljooverdomstolen": "3e082fd82f63bbf3250c9f09879558ea4431b06627590368541307bf549d3b39",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Mark- och miljööverdomstolen avstyrker förslaget att placera hushållningsbestämmelserna i en egen lag och förslaget om att införa en ny regeringsprövning genom områdesanvändningsbesked.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec12",
+      "sentiment": -1.0,
+      "quote": "Mark- och miljööverdomstolen ifrågasätter den slutsatsen eftersom det anges att bestämmelserna i huvudsak inte ska ändras materiellt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": -1.0,
+      "quote": "Med hänsyn till det begränsade antalet ärenden som utredningen ser framför sig har Mark- och miljööverdomstolen svårt att se att den föreslagna prövningen ska komma till rätta med de utmaningar som utredningen identifierat med det nuvarande systemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec16",
+      "sentiment": -0.5,
+      "quote": "Mark- och miljööverdomstolen anser att förslaget är svårt att förena med tidigare lämnade förslag om att ärenden om miljöprövning ska prövas av en förvaltningsmyndighet i första instans.",
+      "quote_type": "grund"
+    }
+  ]
+}

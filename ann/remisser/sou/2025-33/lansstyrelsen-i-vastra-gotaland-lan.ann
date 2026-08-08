@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:33/lansstyrelsen-i-vastra-gotaland-lan": "6fc1499b69760f95ee1f910b2fcd2dda9dc686e4ae3c0d9d9982b0eb9dbd573b",
+      "artifact:forarbete/sou/2025-33": "ccfb67fd5f838b54605df5af6f3c63f36d1f305b0458da67e726358ff995417a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Länsstyrelsen avstår från att tillstyrka eller avstyrka förslagen i betänkandet framför allt mot bakgrund av att förslagen i begränsad utsträckning berör våra uppdrag, men också utifrån svårigheten att förutse förslagens konsekvenser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec42",
+      "sentiment": -0.2,
+      "quote": "Vår bedömning är att det kan bli svårt att förstå vilka beteenden och/eller yttranden som kan leda till att uppehållstillstånd vägras eller återkallas på grund av vandel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.9",
+      "sentiment": -0.2,
+      "quote": "Vår bedömning är vidare att förslaget riskerar att leda till en osäkerhet och otrygghet både för barn och vuxna, samt i förlängningen kan bidra till ryktesspridning och desinformation likt det som skett kring socialtjänstens arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec292",
+      "sentiment": 0.5,
+      "quote": "Vår bedömning är att detsamma vore önskvärt även för personer som är utsatta för prostitution och människohandel.",
+      "quote_type": "grund"
+    }
+  ]
+}

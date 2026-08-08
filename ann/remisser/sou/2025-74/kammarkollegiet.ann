@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:74/kammarkollegiet": "48a0cdde53ce73aa52bf386ab28d3f775e0d379fdc48cf42dd79772fc55e9d2b",
+      "artifact:forarbete/sou/2025-74": "86931f969c453d367aa6280683810685078a23447696be3482179222d1c28951"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarkollegiet har granskat utredningens förslag och bedömningar i betänkandet med utgångspunkt i de frågor som är relevanta för den offentliga omställningsorganisationens verksamhet hos myndigheten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.9",
+      "sentiment": 1.0,
+      "quote": "Kammarkollegiet tillstyrker utredningens förslag och delar bedömningarna som lämnas i avsnitt 4.9 om förbättrade förutsättningar för Kammarkollegiet att dela information med leverantörer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.7",
+      "sentiment": 0.5,
+      "quote": "Kammarkollegiet tillstyrker utredningens förslag och delar i allt väsentligt bedömningarna i avsnitt 6.7 om datasskyddsreglering för Kammarkollegiet förutom bedömningen i avsnitt 6.7.4 i frågan om personuppgiftshantering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.8",
+      "sentiment": 1.0,
+      "quote": "Kammarkollegiet tillstyrker utredningens förslag och delar bedömningarna som lämnas i avsnitt 6.8 om dataskyddsreglering för Kammarkollegiets leverantörer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 1.0,
+      "quote": "Kammarkollegiet delar utredningens bedömning i avsnitt 7.4 om att lagen om grundläggande omställnings- och kompetensstöd ska kvarstå som egen lag.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:30/foretagarna": "e1ee0b7ce0b84b9d4479b886dd054c5a713dd6e8c90d24193d71ffcf38d1621b",
+      "artifact:forarbete/sou/2025-30": "6cfdd48801f4c6c65480bbf5f39a124789ee6814ff0e2fe92f1fdefb6228526e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Företagarna tillstyrker överlag betänkandets förslag, då de innebär förenklingar i momshanteringen för berörda företag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec165",
+      "sentiment": 1.0,
+      "quote": "möjligheten att redovisa vinstmarginal samlat per redovisningsperiod underlättar mycket",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": -0.5,
+      "quote": "det inte i betänkandet motiveras tillräckligt väl varför kravet på andel av handeln ska höjas från 75 till 90 procent",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.6",
+      "sentiment": -0.2,
+      "quote": "det kan vara oklart hur man ska beräkna vinstmarginalen och beskattningsunderlaget vid övergången till de nya bestämmelserna",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": -0.2,
+      "quote": "behovet av en bredare tillämpning av förenklade momsregler vid begagnathandel, till exempel med inspiration från regelverken i Finland och Danmark",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": 1.0,
+      "quote": "Vad gäller förslaget avseende donation av livsmedel har Företagarna inga invändningar",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

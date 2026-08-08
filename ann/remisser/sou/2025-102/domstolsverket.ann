@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:102/domstolsverket": "078b077b198ca5a57b6bf1995e843024560f49c151bcc9f0a3bbd2c8a7a3517a",
+      "artifact:forarbete/sou/2025-102": "07feeb49a34483f4b13ac81563b783e57823b027dea03d3d60d5ee3534a0a428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt har Domstolsverket inte några synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3.2",
+      "sentiment": -0.2,
+      "quote": "En sådan tillämpning skulle utöver ökade kostnader för fruktlösa delgivningsförsök genom stämningsmannadelgivning orsaka längre handläggningstider än nödvändigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.2",
+      "sentiment": -0.5,
+      "quote": "Det alternativ för stämningsmannadelgivning som kvarstår utöver att anlita Polismyndigheten är för den absoluta majoriteten av domstolarna att anlita privata stämningsmän, ett alternativ som inte torde vara förenligt med offentlighetsoch sekretesslagen (2009:400).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 0.5,
+      "quote": "Förslaget bör innebära att möjligheten att förordna notarie att handlägga sådana ärenden i stället ska följa av förordning (1996:382) med förvaltningsrättsinstruktion.",
+      "quote_type": "grund"
+    }
+  ]
+}

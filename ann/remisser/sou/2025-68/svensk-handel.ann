@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/svensk-handel": "c16fb9bf31c249c968c364f6fb88b960d726ec7c06e4216a1bc9f93dd6ae416b",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Samtidigt kräver flera av förslagen precisering för att säkerställa att de åtgärder som föreslås blir rättssäkra, konkurrensneutrala och praktiskt tillämpbara för de företag som faktiskt utgör grunden för svensk försörjningsförmåga.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6",
+      "sentiment": 0.5,
+      "quote": "För att undvika rättsosäkerhet och godtycke krävs dock att en nationell vägledning tas fram.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": 0.5,
+      "quote": "Det är rimligt att försörjningsberedskapen byggs upp av ett system av avtal som ingås, på frivillig basis, mellan företag och myndigheter med därtill hörande relevanta ersättningsnivåer och konkurrensneutralitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 0.5,
+      "quote": "Ett robust sekretesskydd är därför en förutsättning för systemets framgång.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.10",
+      "sentiment": -1.0,
+      "quote": "Försörjningsberedskap bygger på att företag kan och vill bidra.",
+      "quote_type": "grund"
+    }
+  ]
+}

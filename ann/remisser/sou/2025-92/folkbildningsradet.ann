@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:92/folkbildningsradet": "ff3b90c8e8ae5f95171c5b01c38492c2c0b28147de2cbcbf58c240a90f0984f0",
+      "artifact:forarbete/sou/2025-92": "c1db6346e92cb1aaf69fe092a6e40e7ceba88b5192c9caee2959771165f82273"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Folkbildningsrådet ser det som relevant och positivt att utredningen lyfter fram folkbildningens betydelse för ett aktivt medborgarskap, kultur och bildning över hela landet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.6",
+      "sentiment": -0.5,
+      "quote": "Idén om en statligt förmedlad och instruerande syn på vad som är att se som svensk kultur är svårförenlig med folkbildningens pedagogik, där reflektion och gemensamt lärande, snarare än instruktion, står i centrum.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.5,
+      "quote": "Folkbildningsrådet tillstyrker dock förslaget att en sådan stiftelse, om den skulle bildas, ska samverka med studieförbund och folkhögskolor.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

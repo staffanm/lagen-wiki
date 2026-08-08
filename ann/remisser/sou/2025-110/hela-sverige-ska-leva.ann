@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/hela-sverige-ska-leva": "9abae0d62af95f0e6ede6a0233ed43444d38c933ff4c6cba282eb41a43b20e4b",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Betänkandet tar flera viktiga steg i rätt riktning, särskilt genom att byanät ges samma rättigheter som operatörer samt genom tydligare och mer digitaliserade tillståndsprocesser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": 1.0,
+      "quote": "Vi tillstyrker förslaget om att komplettera med att anse begäran om samordning orimlig om nätet är beläget i ett landsbygdsområde eller ett avlägset område.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 1.0,
+      "quote": "Vi instämmer i att det kommer att gynna utbyggnaden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec462",
+      "sentiment": -0.5,
+      "quote": "Vi ser dock att det är viktigt att förfina definitionen av byanät och vänder oss emot sammanblandningen av byalag och byanät.",
+      "quote_type": "grund"
+    }
+  ]
+}

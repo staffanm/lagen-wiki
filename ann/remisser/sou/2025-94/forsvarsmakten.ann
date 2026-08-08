@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:94/forsvarsmakten": "09eb2879bfff104d9157765bdcce6c7cba4a171e4674413394871aa4b7f71555",
+      "artifact:forarbete/sou/2025-94": "73b4a3a1ccaec8d56f8514861e9004867d6f9800536c6582d42bc6ebd8a33624"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försvarsmakten instämmer huvudsakligen i de bedömningar som görs i promemorian och de förslag som lämnas.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.7",
+      "sentiment": 1.0,
+      "quote": "myndigheten bör inkluderas i ett tidigt skede vid planering av stödinsatser även då man bedömer att Stödstyrkan ska aktiveras, dock fortsatt utan att ingå i Stödstyrkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.6",
+      "sentiment": 0.5,
+      "quote": "förutsättningarna för stöd till en annan myndighet som Försvarsmakten ger utomlands skiljer sig från denna nationella kontext.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.8",
+      "sentiment": 1.0,
+      "quote": "myndighetens resurser inte bör användas i det löpande säkerhetsarbetet vid utlandsmyndigheterna.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1",
+      "sentiment": -0.5,
+      "quote": "Kraven på snabbt beslutsfattande och omfattande sekretess kring operationerna innebär att det är mindre ändamålsenligt om den här typen av operationer måste föregås av riksdagsbeslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a18.2",
+      "sentiment": 0.2,
+      "quote": "det bidrar till en ökad tydlighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

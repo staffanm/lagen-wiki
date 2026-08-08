@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:45/polismyndigheten": "a079db1b16f40127df4355cc49b6404095853b5ffcd41eb2ee25e3a1db23bfcf",
+      "artifact:forarbete/sou/2025-45": "d3f4bd117b2293da80727aaacf5ad05b1de4cc82ab93f88a0c0ff03c7241a02a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Polismyndigheten tillstyrker utredningens förslag som bland annat ger bättre möjligheter att förebygga brottslig verksamhet och utreda brott.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.8.5",
+      "sentiment": 1.0,
+      "quote": "Möjligheten för myndigheter att på eget initiativ kunna lämna uppgifter som inte är sekretessbelagda till en annan myndighet är efterfrågad och utgör en viktig del för att alla myndigheter ska kunna samarbeta och bidra i brottsbekämpningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4.5",
+      "sentiment": 1.0,
+      "quote": "Polismyndigheten instämmer i utredningens bedömningar gällande att ändamålsbestämmelser inte hindrar uppgiftslämnande med stöd av offentlighets- och sekretesslagen (2009:400).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.4.6",
+      "sentiment": 0.5,
+      "quote": "Det är dock viktigt att detta inte oavsiktligt får till följd att sådana upplysningsbestämmelser ska krävas för att viss behandling ska vara tillåten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": 0.5,
+      "quote": "För att underlätta uppgiftslämnande finns dock behov av myndighetsgemensamma standarder och bestämmelser om i vilket format som information ska lämnas.",
+      "quote_type": "grund"
+    }
+  ]
+}

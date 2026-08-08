@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:89/livsmedelsverket": "5d67a9aa5b5e50b2ad0896592c7fc02fc6a0b3fb1d052f2a509363796ef89551",
+      "artifact:forarbete/sou/2025-89": "afe1fb1af513037b8ebe2623eb4a101b40c95abf5ec06765e928348800d59876"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Livsmedelsverket tillstyrker förslaget att modernisera fiskelagstiftningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.8",
+      "sentiment": 1.0,
+      "quote": "Livsmedelsverket ser det som en lagstiftningstekniskt rimlig lösning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.3",
+      "sentiment": -0.2,
+      "quote": "Livsmedelsverket anser att det av förslaget är oklart var och hur gränsdragningen mellan myndigheterna ser ut, vilket försvårar för verksamhetsutövare i branschen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.3.9",
+      "sentiment": 0.5,
+      "quote": "Detta är en förutsättning för att tydliggöra ansvaret och ett måste för att aktörerna ska kunna genomföra export på ett enkelt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.6.2",
+      "sentiment": 1.0,
+      "quote": "det är en förutsättning för att Livsmedelsverket ska kunna fullgöra sitt uppdrag.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:91/arvsfondsdelegationen": "ef52f1c4fc17d7cdb50b976821d7dc6338e539712e53d29b13d31264a1f25f9d",
+      "artifact:forarbete/sou/2025-91": "4edfcc86f5c85e4888adca0385717e5eb2ebf208607e64184edd4bf69f4d1428"
+    }
+  },
+  "overall": {
+    "sentiment": 0.6,
+    "quote": "Arvsfondsdelegationen är positiv till förslagen om införande av ett testamentesregister.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.8,
+      "quote": "Det ger förutsättningar att lättare kunna avgöra arvlåtarens vilja.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.1",
+      "sentiment": 0.8,
+      "quote": "Ett återinförande innebär en risk för kostsamma och långdragna processer i fall där det inte enkelt går att konstatera om det finns kusiner.",
+      "quote_type": "grund"
+    }
+  ]
+}

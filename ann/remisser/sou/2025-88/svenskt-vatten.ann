@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:88/svenskt-vatten": "cf613dc05d776d4f77fa29778a770be55e65429cb098806ff04f33da8893b40c",
+      "artifact:forarbete/sou/2025-88": "70302b0999deecf400458978fceb8034174edc300aa8fc777879757c9619238d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vi ser positivt på att ett besked om det allmännas grundläggande syn på lämpligheten av en viss verksamhet på en viss plats ska kunna lämnas i ett tidigt skede.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 0.0,
+      "quote": "Sammantaget anser Svenskt Vatten att utredningens förslag inte innebär några tydliga förändringar men att det vore önskvärt om konsekvenserna av utredningens förslag tydliggjordes.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.2",
+      "sentiment": -0.2,
+      "quote": "Enligt vår bedömning bör konsekvenserna av en sådan förändring därför utredas ytterligare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.3",
+      "sentiment": -0.5,
+      "quote": "Förslaget framstår därför som relativt tidsineffektivt och det kan ifrågasättas om det uppfyller syftet med att minska den totala tidsåtgången för tillståndsprocesserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.5.8",
+      "sentiment": -0.2,
+      "quote": "Den efterföljande miljöprövningen blir i så fall låst av regeringens beslut även om det i efterhand skulle visa sig att det finns alternativa lösningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

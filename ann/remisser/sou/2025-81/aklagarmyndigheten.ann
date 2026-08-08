@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:81/aklagarmyndigheten": "0188d6d776dcebb2726515f166a65ed02d3876cd4e231238476414d9d96fa2d2",
+      "artifact:forarbete/sou/2025-81": "18dbd0bb1ff96f8c252ba4781ad24b1dde501603dec2d1055b6aac74edf95632"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Åklagarmyndigheten ställer sig i huvudsak positiv till de remitterade delarna av utredningens ftirslag och överväganden.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.4",
+      "sentiment": 0.2,
+      "quote": "Behovet är detsamma som i ftirundersökningar och olika regler gör regelverket onödigt svårtillämpat och ökar risken fiir felaktig hantering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": 0.2,
+      "quote": "Vi ser samtidigt vissa farhågor med att utmätning på distans kan komma att användas i situationer där det i stället borde ha inletts en utredning om självständigt fiirverkande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 1.0,
+      "quote": "Vi välkomnar särskilt ftirslaget om att ta bort de särskilda reglerna om rekonventionstalan (kap. 11).",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

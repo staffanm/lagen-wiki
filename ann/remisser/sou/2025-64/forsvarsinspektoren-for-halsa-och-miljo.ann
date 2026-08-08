@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:64/forsvarsinspektoren-for-halsa-och-miljo": "1217057c514a576b79a5eca98d82aab189cdd01517d8ae4329baa24c5ccfc878",
+      "artifact:forarbete/sou/2025-64": "a7f4a0414b4e26084443600fe3e838a84129fc9b335b736e295be89687339e9f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "FIHM tillstyrker förslaget att det ska finnas två kontrollmyndigheter enligt livsmedelsförordningen (2006:813), varav Livsmedelsverket är den ena och FIHM den andra.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.2,
+      "quote": "samverkan även ska ske med FIHM, i syfte att uppnå enhetlighet i utförandet av offentlig kontroll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.16",
+      "sentiment": -0.5,
+      "quote": "För djur inom Försvarsmakten är Försvarsinspektören för hälsa och miljö behörig myndighet att utöva offentlig kontroll och utföra annan offentlig verksamhet som hänger samman med kontrollen.",
+      "quote_type": "grund"
+    }
+  ]
+}

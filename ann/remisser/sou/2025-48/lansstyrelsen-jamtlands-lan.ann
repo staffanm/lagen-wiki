@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:48/lansstyrelsen-jamtlands-lan": "6a0b5705260ec9916638e1a1b1aba31810e77a1912566c46bf0628970d841c56",
+      "artifact:forarbete/sou/2025-48": "a9a3428c24e73a2b8f96f9cf5de821094d8f977e4906f4918fc73b15f1d0a146"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Länsstyrelsen vill framhålla vikten av att erforderliga resurser allokeras till berörda myndigheter den dagen lagen aktiveras för att effektivt kunna verkställa lagens intentioner.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 1.0,
+      "quote": "Vidare ställer sig Länsstyrelsen positiv till förslaget att länsstyrelsen utövar tillsyn över att lagen (om samhällsinriktade smittskyddsåtgärder) och de föreskrifter som meddelas i anslutning till lagen, samt de beslut i enskilda fall som fattas med stöd av lagen följs.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a4.2",
+      "sentiment": 0.5,
+      "quote": "Utvärdering bör läggas till som en del av strategin för att säkerställa att erfarenheter omhändertas på alla nivåer.",
+      "quote_type": "grund"
+    }
+  ]
+}

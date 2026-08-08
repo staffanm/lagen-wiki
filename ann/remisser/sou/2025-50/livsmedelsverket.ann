@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:50/livsmedelsverket": "c1d1c0fc775deda63aa95a0ad40de7385ba55b459510b50cbf4e4b4e29819be5",
+      "artifact:forarbete/sou/2025-50": "95b14571e602f047b33e536a42c5ea48b7ecb47016c36dcec17125d48e474196"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Livsmedelsverket noterar att det finns en obalans mellan texterna om skadeförebyggande och vilt som resurs.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3.1",
+      "sentiment": 0.2,
+      "quote": "Texterna om vilt som resurs hade kunnat utvecklas mer.",
+      "quote_type": "grund"
+    }
+  ]
+}

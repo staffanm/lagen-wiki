@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:68/fastighetsagarna-sverige": "6b50367e67b0ae82c4fefc95e4e895686e2ed95fffdc175908822e1fe9b558c9",
+      "artifact:forarbete/sou/2025-68": "77e641ed7b062cf634b536d8bc7accdd6a27ab23006ee9224cbd4552857408bd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Otydligheten vad gäller fastighetsbranschen i beredskapsarbetet är olycklig och Fastighetsägarna uppmanar regeringen och framtida utredningar att inkludera Fastighetsägarna i totalförsvarsfrågor som berör fastighets- och bostadsmarknaden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec184",
+      "sentiment": 0.5,
+      "quote": "I betänkandet är fokus på byggbranschen men det är fastighetsägare/byggherrar som har erfarenhet och kunskap av att planera, projektera, samordna och beställa byggarbeten samt upprätta avtal med bygg- och anläggningsföretag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.5",
+      "sentiment": 0.5,
+      "quote": "I betänkandet är fokus på byggbranschen men det är fastighetsägare/byggherrar som har erfarenhet och kunskap av att planera, projektera, samordna och beställa byggarbeten samt upprätta avtal med bygg- och anläggningsföretag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a2",
+      "sentiment": -0.5,
+      "quote": "Att ha förmåga och resurser att upprätthålla drift och fastighetsförvaltning kommer att vara avgörande för att av MSB utpekad samhällsviktig verksamhet ska kunna fortgå i händelse av fredstida kris, höjd beredskap eller krig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": -0.5,
+      "quote": "För det fall att återuppbyggnad och reparation av flerfamiljshus (hyresbostäder och bostadsrätter) inte prioriteras på samma sätt som samhällsviktig verksamhet riskerar boende i flerfamiljshus att sakna tak över huvudet.",
+      "quote_type": "grund"
+    }
+  ]
+}

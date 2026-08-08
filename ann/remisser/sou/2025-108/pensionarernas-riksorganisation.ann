@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:108/pensionarernas-riksorganisation": "f5f7c5de990921d04b20bebe971406826e4a44587be0881edce63248887e464c",
+      "artifact:forarbete/sou/2025-108": "a775d95754ce5897c73c1b61b58817b4b1fcc07241129ab779d9551bc2bbbef7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det är angeläget att digitalisering och artificiell intelligens tillämpas av myndigheter för att förbättra servicen för medborgare, korta handläggningstider och motverka felaktiga utbetalningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.4.7",
+      "sentiment": 1.0,
+      "quote": "PRO delar denna bild och delar utredningens uppfattning att Pensionsmyndigheten måste prioritera att ta om hand de ändringsanmälningar som kommer in till myndigheten, då felutbetalningar annars kan fortgå och leda till återkrav.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5.6",
+      "sentiment": 1.0,
+      "quote": "Det är uppenbart att en stor felkälla avseende bostadstillägg att den berättigade pensionären inte rapporterar in högre boendekostnader och därför går miste om ett högre bostadstillägg.",
+      "quote_type": "grund"
+    }
+  ]
+}

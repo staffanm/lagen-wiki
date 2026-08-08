@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:67/helsingborgs-kommun": "7a8e8ae0430fb2f1c333e7693f3cf0a0959afeb61eaf5eaed9dedbeee97e3d1c",
+      "artifact:forarbete/sou/2025-67": "57353346167f49d080c88a0a6860d00563b38e6f56a435454f67f46b770e21ee"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Om inte flygtrafik till/från Bromma flygplats återupptas behöver flygresan till/från Arlanda flygplats göras så attraktiv som möjligt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 0.5,
+      "quote": "Det måste bli smidigare och billigare att ta sig från Arlanda flygplats till Stockholm, framför allt med tåg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.8",
+      "sentiment": 1.0,
+      "quote": "Det minskar risken för att tränga undan andra viktiga satsningar i Trafikverkets nationella transportinfrastrukturplan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7",
+      "sentiment": 1.0,
+      "quote": "Det är generellt viktigt för Sveriges totalförsvarsberedskap och inte bara i förhållande till Arlanda flygplats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec322",
+      "sentiment": 0.5,
+      "quote": "de alternativa transportmedlen inte uppfyller Trafikverkets tillgänglighetskriterier avseende möjlighet till tur- och returresa till centrala Stockholm över dagen.",
+      "quote_type": "grund"
+    }
+  ]
+}

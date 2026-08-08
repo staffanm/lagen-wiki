@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:80/kommunala-lantmaterimyndigheten-i-umea-kommun": "8ce4b228a4a25640fe1d00f7318fed1316de3b0e83e914c27bb6f3aa107b066e",
+      "artifact:forarbete/sou/2025-80": "0f5374337faed5136e8a5c3416e919fd4ee23de95d3d23f8c36dd3bd674b8d62"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "KLM Umeå är positiva till en successiv övergång till koordinatbestämda fastighetsgränser och bedömer att en sådan övergång i huvudsak medför positiva följder för fastighetsägare och andra aktörer inom samhällsbyggnadsprocessen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.4",
+      "sentiment": -0.2,
+      "quote": "KLM Umeå ställer sig delvis frågande till tolkningen av skyndsamhetskravet och hur det ska kunna efterlevas av myndigheten i vissa fall exempelvis när årstid, snömängd och terräng inte alltid medger sådant fältarbete som krävs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec326",
+      "sentiment": -0.2,
+      "quote": "Risken är således att oskäligt mycket arbete och kostnader skulle uppstå för att mäta om gränser som med dagens mått har en bra noggrannhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.6",
+      "sentiment": -1.0,
+      "quote": "Förfarandet bedöms därför inte rättssäkert jämfört med hur gränser bestäms vid förrättning idag.",
+      "quote_type": "grund"
+    }
+  ]
+}

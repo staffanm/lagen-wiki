@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:43/region-vastmanland": "3e55288b89c4538d3697b868b100e05229c338aeb74c4a3ac6e942c0865a5423",
+      "artifact:forarbete/sou/2025-43": "39bc44b896e5b89d49437b642e858420589506816e3f908b181e684496ff65fc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Västmanland tackar för möjligheten att lämna synpunkter och ställer sig bakom förslaget om ändring i Läkemedelslagen samt Läkemedelsförordningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec67",
+      "sentiment": 0.5,
+      "quote": "Region Västmanland vill särskilt betona att det inte är tillräckligt att enbart begränsa förordnande av läkemedel – även utlämnande av redan förordnade läkemedel måste kunna begränsas för att insatsen ska få full effekt och för att undvika ojämlik hantering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec35",
+      "sentiment": -0.5,
+      "quote": "Möjligheten att snabbt och lagligt kunna omfördela läkemedel mellan regioner är avgörande för att säkerställa patientsäkerhet och likvärdig vård i hela landet vid bristsituationer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 1.0,
+      "quote": "Region Västmanland instämmer i utredningens bedömning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.6.6",
+      "sentiment": 1.0,
+      "quote": "Region Västmanland instämmer i utredningens bedömning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": 1.0,
+      "quote": "Region Västmanland instämmer i utredningens förslag.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

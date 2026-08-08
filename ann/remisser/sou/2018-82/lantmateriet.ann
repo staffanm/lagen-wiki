@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2018:82/lantmateriet": "4c3b39e76d1db830ff7031c819b2acb3af9e8d4e86af5b5c2bede3953f0df370",
+      "artifact:forarbete/sou/2018-82": "3f5bb7f1dbabb6977eab8c339bede34bef56778133f10226204e1b894e19e39a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.6,
+    "quote": "Lantmäteriet vill dock framföra vissa synpunkter på de förslag som, om de genomförs, kommer att påverka två centrala verksamheter som Lantmäteriet ansvarar för; fastighetsbildning och fastighetsinskrivning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.4",
+      "sentiment": -0.4,
+      "quote": "Kostnad för säkerhetskyddsavtal vid sådant samråd kommer att belasta parterna i ärendet samt påverka handläggningstiden negativt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.1",
+      "sentiment": -0.8,
+      "quote": "Lantmäteriet anser att utredningen inte i tillräcklig utsträckning har reflekterat över konsekvenserna när en godtroende förvärvare har beviljats lagfart för förvärvet eller i värsta fall att denne dessutom har överlåtit egendomen vidare till en tredje part.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4",
+      "sentiment": -0.7,
+      "quote": "För fastighetsinskrivningen kommer ett genomförande av förslagen i denna del att medföra ökade kostnader för Lantmäteriet pga. krav på anpassning av IT-system och implementering av nya rutiner för ajourhållning av markeringar i fastighetsregistret.",
+      "quote_type": "grund"
+    }
+  ]
+}

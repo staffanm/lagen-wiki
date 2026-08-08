@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:20/ornskoldsviks-kommun": "9ab5f99f7f6ead1e80308a1059729522738e04072583cac651ae0e35fdb3dbd7",
+      "artifact:forarbete/sou/2026-20": "4bbbaf1255ebc0c511f2d6d339133f0df3731fa34b68ae49c40ee83603563261"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kommunen delar uppfattningen att det behövs starkare incitament för att hålla nere kommunalskatten och att det ska löna sig för kommuner och regioner att sänka skatten när ekonomiskt utrymme finns.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1.1",
+      "sentiment": 0.8,
+      "quote": "Det är rimligt att staten premierar kommuner och regioner som genom effektiviseringar, prioriteringar och god ekonomisk hushållning skapar utrymme för att sänka skatten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1.1",
+      "sentiment": -0.8,
+      "quote": "Skattebromsavgiften innebär en inskränkning i beskattningsrätten och den kommunala självstyrelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec274",
+      "sentiment": 0.8,
+      "quote": "effektiva kommuner är en grundläggande förutsättning för en långsiktigt hållbar ekonomi och för möjligheten att hålla nere skattesatsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec277",
+      "sentiment": 0.8,
+      "quote": "En långsiktig plan för skattesats införs",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2.2",
+      "sentiment": 0.8,
+      "quote": "Det införs en skyldighet att motivera en skattesatshöjning",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.4.1",
+      "sentiment": 0.8,
+      "quote": "Konjunkturstabiliserande statsbidrag utreds",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

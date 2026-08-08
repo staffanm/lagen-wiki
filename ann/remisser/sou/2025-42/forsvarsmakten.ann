@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:42/forsvarsmakten": "4e5ddb8de222db231bea9c7d5ea9ab130f6eac57cc1bf3c6c33ee36c570fceb4",
+      "artifact:forarbete/sou/2025-42": "c7ac1805f8b9b2919bee30d4de29031548e4d91c94fd41165ac700185388b19b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Försvarsmakten tillstyrker förslagen i betänkandet med följande kommentarer och synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec84",
+      "sentiment": 1.0,
+      "quote": "I likhet med utredningen anser Försvarsmakten att tillämpningsområdet för 4 kap. 12 § säkerhetsskyddslagen bör utvidgas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a4.4.2",
+      "sentiment": 0.2,
+      "quote": "förändringen kommer att kräva ökade personella resurser i ett redan ansträngt läge.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.8,
+      "quote": "de föreslagna åtgärderna förbättrar förutsättningarna för en ändamålsenlig och effektiv registerkontroll samt ökar förmågan att upptäcka och tidigt hantera riskfaktorer för insiderhot.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec241",
+      "sentiment": 1.0,
+      "quote": "det inte är proportionerligt att kontinuerligt göra registerkontroll av närstående till den prövade i säkerhetsklass 3 även om det påverkar möjligheten att upptäcka riskfaktorer i form av insiderhot.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec241",
+      "sentiment": 0.5,
+      "quote": "en utredning om den närstående till den prövades personliga förhållanden däremot bör ingå i grundutredningen även för säkerhetsklass 3, i synnerhet när det gäller anknytning till utlandet, sysselsättning, ekonomiska förhållanden, kopplingar till kriminalitet samt missbruks- och beroendeproblematik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": 0.2,
+      "quote": "Försvarsmakten förutsätter att föreslagen lydelse anpassas till den nya bestämmelsen, så att den även omfattar beslut som grundar sig i brister avseende lojalitet eller sårbarhet ur säkerhetssynpunkt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.8",
+      "sentiment": -0.2,
+      "quote": "denna databas kommer att innehålla ett stort antal säkerhetsskyddsklassificerade uppgifter och påtalar därför vikten av att denna ges ett ändamålsenligt skydd.",
+      "quote_type": "grund"
+    }
+  ]
+}

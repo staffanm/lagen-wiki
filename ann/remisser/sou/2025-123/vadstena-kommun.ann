@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:123/vadstena-kommun": "c9f0a2cb3d4b461e819ef64d31323b84c1ac8b7ff3e102daf07d8c3a03f1f884",
+      "artifact:forarbete/sou/2025-123": "c831d59e895bbc7c3d3bcecad3d6575c5ea79fb529bc06a8743a4e492daded7b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vadstena kommun ställer sig positiv till att större vikt läggs vid kommunernas bedömning och möjlighet att planera utifrån ekonomiska och organisatoriska faktorer vid bedömning av tillstånd för friskolor.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec204",
+      "sentiment": 0.2,
+      "quote": "Gällande första punkten lyfts bland annat att antalet utbildningsplatser ska framgå i ett beslut om godkännande som huvudman (sida 25).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec213",
+      "sentiment": 0.2,
+      "quote": "I den andra punkten lyfts att innebörden av skrivningen ”påtagliga negativa följder” behöver förtydligas, att det innebär negativa ekonomiska, organisatoriska eller pedagogiska konsekvenser för eleverna, eller för den del av skolväsendet som anordnas av det allmänna i den kommun där utbildningen ska bedrivas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec217",
+      "sentiment": 0.8,
+      "quote": "Detta behövs för att kunna skapa hållbara organisationer utan onödigt stora förändringar i personalorganisationen från år till år.",
+      "quote_type": "grund"
+    }
+  ]
+}

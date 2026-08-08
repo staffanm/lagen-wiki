@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:51/lantbrukarnas-riksforbund-lrf": "aa07c2e230ab65e9bea6e3622ac8a431ae4f6a4d1fe3a84c8292d0ffdbdb3bba",
+      "artifact:forarbete/sou/2025-51": "258d56514e13c4c5451bf445ef12c74926eae0c3d6b9e933fa95a5d91e5d1ad9"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "LRF inser att det finns ett stort antal klimatanpassningsfrågor att belysa för landets tätorter och att det finns stora värden att skydda men vill samtidigt uttrycka frustration över ännu en utredning som inte belyser behovet av klimatanpassning för landsbygden och de egendomsvärden som finns där.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec15",
+      "sentiment": 0.5,
+      "quote": "Apropå att HELA Sverige behöver klimatanpassas hade även lantbrukare som fastighetsägare varit i behov av den servicenivå som andra fastighetsägare får med detta förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec17",
+      "sentiment": 0.2,
+      "quote": "Med tiden har det blivit mer och mer uppenbart att 10-årspraxisen inte längre räcker.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec23",
+      "sentiment": -0.5,
+      "quote": "Med förslagets logik skulle en kommun kunna tolka lagen som att lantbrukarna kan tvingas delfinansiera kommunens dagvattendamm, eftersom lantbrukarna drar nytta av den.",
+      "quote_type": "grund"
+    }
+  ]
+}

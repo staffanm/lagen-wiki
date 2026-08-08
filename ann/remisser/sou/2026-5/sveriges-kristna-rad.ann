@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:5/sveriges-kristna-rad": "70e0b950aaee09280f13d67dfbf526ccd9bd2fc2d5997f25efe20639cceeb1cc",
+      "artifact:forarbete/sou/2026-5": "9e1ea5aa3fe50cff71008ec52dae7d2b08d3209b607e39592fba96ecf231d298"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Sveriges kristna råd välkomnar ambitionen att stärka avdragsrätten för sponsring av ideell verksamhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec124",
+      "sentiment": -0.5,
+      "quote": "Sveriges kristna råd menar att ett generellt undantag för religiös verksamhet är principiellt tveksamt, svårt att avgränsa och riskerar att leda till bristande likabehandling och rättssäkerhet inom civilsamhället.",
+      "quote_type": "grund"
+    }
+  ]
+}

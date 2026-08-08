@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-04",
+    "inputs": {
+      "artifact:remisser/sou/2026:20/foretagarna": "bc9d88c0f52e177fa7eb11c1cefd7007deb3d8ffe55c08a10a78d156db247738",
+      "artifact:forarbete/sou/2026-20": "4bbbaf1255ebc0c511f2d6d339133f0df3731fa34b68ae49c40ee83603563261"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "En skattebroms och en motsvarande skattesänkningspremie har potential att ha en återhållande effekt på kommunala skattehöjningar och ge starkare kommunalpolitiska incitament för sänkt kommunalskatt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1.1",
+      "sentiment": 0.5,
+      "quote": "Fördelarna ska vägas mot den eventuella nackdel som det innebär att kommunernas självstyre påverkas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec264",
+      "sentiment": 1.0,
+      "quote": "Nuvarande ordning subventionerar kommunala skattehöjningar och motverkar därför målet om låga och rimliga kommunalskattesatser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec274",
+      "sentiment": 0.5,
+      "quote": "Detta kräver dock en rationell och tillämpbar definition av effektivitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec277",
+      "sentiment": -0.2,
+      "quote": "Dock framgår det inte av utredningen om någon särskild sanktion ska följa av att kraven inte uppfylls.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.2",
+      "sentiment": -0.2,
+      "quote": "Laglighetsprövningen av budgeten enligt 13 kap. kommunallagen kan i vår tolkning inte tillämpas på en skattesatsplan eller generell redovisning av motiveringar för skattehöjningar, då dessa inte är den typ av beslut som kan prövas.",
+      "quote_type": "grund"
+    }
+  ]
+}

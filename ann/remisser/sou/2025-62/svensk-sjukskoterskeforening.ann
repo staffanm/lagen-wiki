@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:62/svensk-sjukskoterskeforening": "4cf6865b915a75df4575097d43f844a2a60ecca0d45f6313ee034600b5586727",
+      "artifact:forarbete/sou/2025-62": "0b2d08cf886c4358b44ca3f7d148116dabbe92a961b08e252601770f8b898450"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svensk sjuksköterskeförening ser dock behov av förtydliganden och kompletteringar för att säkerställa att sjuksköterskors funktion och mandat, fortbildning och omvårdnadsforskning ges den tyngd som krävs för en hållbar utveckling inom framtidens hälso- och sjukvård.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.4.2",
+      "sentiment": 0.5,
+      "quote": "Svensk sjuksköterskeförening betonar att sjuksköterskor är grundpelare i hälso- och sjukvården och en drivande kraft i omställningen till god och nära vård.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec69",
+      "sentiment": -0.2,
+      "quote": "Omvårdnadsforskning ger evidens som stärker vårdens förmåga att möta patienters och närståendes behov samt bidrar till insatser som främjar hälsa och livskvalitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": 0.2,
+      "quote": "Detta är avgörande för att behålla och utveckla professionens förtroende och därmed vårdens kvalitet.",
+      "quote_type": "grund"
+    }
+  ]
+}

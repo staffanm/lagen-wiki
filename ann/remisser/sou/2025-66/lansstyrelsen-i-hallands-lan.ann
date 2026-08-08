@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-07",
+    "inputs": {
+      "artifact:remisser/sou/2025:66/lansstyrelsen-i-hallands-lan": "bb22bc38ccc9d47c66cac216bff261ea0e1595ef3fd1d35aefd5d794725376ea",
+      "artifact:forarbete/sou/2025-66": "d17cda5a6b525b2e0549fcf8bcc405271e7eef9479b900db16a2c9a1e0fefab0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen har inget att erinra på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.4",
+      "sentiment": 1.0,
+      "quote": "Att stärka brottsoffrets rättigheter och synliggöra deras situation i straffrättsliga processer kan ge en tydligare rättslig status åt brottsoffer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec32",
+      "sentiment": 1.0,
+      "quote": "Det är positivt att införa en särskild regel för straffvärdebedömning av flerfaldig brottslighet då det ges möjlighet till en bättre anpassning till brottets allvar och därmed ger brottsoffer ett ökat skydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec34",
+      "sentiment": -0.2,
+      "quote": "Det finns dock risk för oproportionerligt hårda straff vid livstidsdömning för samlade brott.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec35",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen anser att straffskärpningsbestämmelsen kan bidra till att effektivare motverka allvarliga och samhällsfarliga brott som är kopplade till kriminella nätverk samt en markering att denna form av brottslighet ses som allvarligt och prioriterat i rättsprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec43",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen anser att detta förslag ger ett ökat skydd för brottsoffer. Samt att det kan underlätta utrednings- och rättsprocessen, då häktning kan förhindra att bevis undanröjs och påverkan av vittnen.",
+      "quote_type": "grund"
+    }
+  ]
+}

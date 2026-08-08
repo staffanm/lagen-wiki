@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:114/stockholms-universitet": "5fb8bea1b021d997b8a729f9a59d2262fec7b60f06f8bdba28b79cceab7bf499",
+      "artifact:forarbete/sou/2025-114": "29cb6385135da7d2247ae98dfd6ca5c397f936b2dc54c7620da7e7df2fa6f284"
+    }
+  },
+  "overall": {
+    "sentiment": -0.7,
+    "quote": "Av de anförda anledningarna avstyrker fakultetsnämnden de ovan nämnda förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.9",
+      "sentiment": -0.5,
+      "quote": "Det framstår därför som betänkligt att en statlig myndighet överklagar ett för den enskilde gynnande förvaltningsbeslut fattat av en annan statlig myndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.7.1",
+      "sentiment": -0.8,
+      "quote": "Enligt fakultetsnämndens mening ligger det tvärtom i sakens natur att lagstiftning som begränsar rätten till frihet måste svara mot ett befintligt behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.5,
+      "quote": "Den aktuella utredningen utgör inte ett sådant tillfredställande beslutsunderlag.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2026:4/eskilstuna-kommun": "728829b2b4377b3394d2a771d7fe98fc4deca5dc2977f73b49eeb1e39bd80421",
+      "artifact:forarbete/sou/2026-4": "9f57f06578d5cdc186cd459541a865ab36f8d5860a42dcd4927f2de6d9840fd8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Eskilstuna kommun är positiv till att vilja förbättra rektorernas förutsättningar att genomföra sitt uppdrag och anser att ett ledarskap nära undervisningen är avgörande för att stödja lärarnas arbete och främja elevernas lärande.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.1.5",
+      "sentiment": -0.2,
+      "quote": "grundskolan och den anpassade grundskolan betonar att biträdande rektorer har en avgörande roll i den dagliga operativa verksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1.7",
+      "sentiment": -0.2,
+      "quote": "uttrycks oro för en snävare rekryteringsbas inom grundskolan och vuxenutbildningen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.1",
+      "sentiment": 1.0,
+      "quote": "Utan kompensation för de ökade kostnaderna riskerar de nya lagkraven att leda till en ohälsosam arbetsbelastning och försämrad ekonomi för kommunen, vilket i förlängningen kan påverka elevernas utbildningskvalitet negativt.",
+      "quote_type": "grund"
+    }
+  ]
+}

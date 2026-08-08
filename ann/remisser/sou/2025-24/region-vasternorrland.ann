@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-08",
+    "inputs": {
+      "artifact:remisser/sou/2025:24/region-vasternorrland": "860ac5bf0ac296774da5694ad08e47cd251ca39b757f3199bd44f759fe87efbc",
+      "artifact:forarbete/sou/2025-24": "88406afe1f6a6b8622563c5c72858e0acc520793bcf2ba1fc08caa4758f55814"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslagen är relevanta och kan stärka svensk film genom en mer långsiktig struktur, ökad finansiering, sänkt moms och nytt publikt fokus.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": -0.5,
+      "quote": "Om så sker riskerar möjligheterna för talangutveckling och kompetensförsörjning utanför storstadsområdena att försämras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": -0.2,
+      "quote": "Om uppgifter som talangutveckling, filmpedagogik och filmkulturfrämjande för barn och unga enbart lämnas till regional nivå utan tydlig strategi, mandat eller finansiering, riskerar vi att skapa ett ojämlikt och sårbart system.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2",
+      "sentiment": -0.2,
+      "quote": "Om Kulturrådet förväntas ta en mer aktiv roll i kulturplaneprocesser kopplat till film, krävs då att relevant kompetens inom området byggs upp vilket saknas idag.",
+      "quote_type": "grund"
+    }
+  ]
+}

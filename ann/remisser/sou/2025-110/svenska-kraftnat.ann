@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-05",
+    "inputs": {
+      "artifact:remisser/sou/2025:110/svenska-kraftnat": "b64c19953e91cdb77cfb6e1fc04a62bbc30c2e9983a86174430ccc701e8b15ca",
+      "artifact:forarbete/sou/2025-110": "4c8f3717618042a486547f80d8ae428676455bb090f9b1abb81bca1ac3c881a2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenska kraftnät anser dock att det vore mer lämpligt att uttryckligen undanta Svenska kraftnät i 3 kap. 1 § förordning med kompletterande bestämmelser till EU:s förordning om gigabitinfrastruktur, bland annat med hänsyn till transmissionsnätets vikt för Sveriges totalförsvar och Sveriges säkerhet i övrigt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec79",
+      "sentiment": -0.5,
+      "quote": "Svenska kraftnäts verksamhet är, liksom de offentliga organ som redan föreslås undantas, en förutsättning för Sveriges totalförsvar och omfattas av säkerhetsskyddslagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec52",
+      "sentiment": -0.2,
+      "quote": "Svenska kraftnät anser att det vore olämpligt med en reglering som skulle kunna ge verket skyldighet att söka om ändrad nätkoncession eller nytt drifttillstånd för verkets kraftledningar för en operatör som begär tillträde.",
+      "quote_type": "grund"
+    }
+  ]
+}

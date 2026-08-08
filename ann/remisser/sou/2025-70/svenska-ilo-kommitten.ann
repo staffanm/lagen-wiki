@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-06",
+    "inputs": {
+      "artifact:remisser/sou/2025:70/svenska-ilo-kommitten": "0851340d9a7215c98126feab08c2a8e34b079f8ef6a6e862f6daa45e16f59b04",
+      "artifact:forarbete/sou/2025-70": "21e44eb2249e2dea5d04cd086cfbcb6c4e9713b1194aa26cb56bec2ae0339e9b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Svenska ILO-kommitténs bedömning är, liksom i föregående yttranden, att förslaget inte står i strid med någon ILO-konvention ratificerad av Sverige.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.5.1",
+      "sentiment": 1.0,
+      "quote": "Svenska ILO-kommitténs bedömning är, liksom i föregående yttranden, att förslaget inte står i strid med någon ILO-konvention ratificerad av Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.6",
+      "sentiment": 0.5,
+      "quote": "Mot denna bakgrund finns det enligt ILO-kommittén mycket som talar för att föreslagna övergångsbestämmelser inte bör stå i strid med ILO:s konventioner om föreningsfrihet och kollektiva förhandlingar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "LO, TCO och Saco är principiellt emot att lagstiftaren ogiltigförklarar och undergräver träffade kollektivavtal, inklusive avtal som reglerar avgångsskyldighet.",
+      "quote_type": "grund"
+    }
+  ]
+}
