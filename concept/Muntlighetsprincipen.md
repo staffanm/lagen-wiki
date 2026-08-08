@@ -11,4 +11,5 @@ Det kan dock vara tillåtet att läsa upp exempelvis en redogörelse för kompli
 
 Undantag från muntlighetsprinceipen:
 
-* Otvistiga tvistemål, som behandlas med summarisk process, använder skriftlig handläggning * Mål där endast [rättsfrågan](begrepp:rättsfakta) (inte någon [bevisfråga](begrepp:bevisfakta)) är tvistig kan avgöras utan huvudförhandling (RB 42:18 1 st 5 p)
+* Otvistiga tvistemål, som behandlas med summarisk process, använder skriftlig handläggning
+* Mål där endast [rättsfrågan](begrepp:rättsfakta) (inte någon [bevisfråga](begrepp:bevisfakta)) är tvistig kan avgöras utan huvudförhandling (RB 42:18 1 st 5 p)

@@ -133,7 +133,8 @@ The rights, freedoms and principles in the Charter shall be interpreted in accor
 
 (ex Article 7 TEU)
 
-1. On a reasoned proposal by one third of the Member States, by the European Parliament or by the European Commission, the Council, acting by a majority of four fifths of its members after obtaining the consent of the European Parliament, may determine that there is a clear risk of a serious breach by a Member State of the values referred to in Article 2. Before making such a determination, the Council shall hear the Member State in question and may address recommendations to it, acting in accordance with the same procedure.
+1. On a reasoned proposal by one third of the Member States, by the European Parliament or by the European Commission, the Council, acting by a majority of four fifths of its members after obtaining the consent of the European Parliament, may determine that there is a clear risk of a serious breach by a Member State of the values referred to in Article
+2. Before making such a determination, the Council shall hear the Member State in question and may address recommendations to it, acting in accordance with the same procedure.
 
 The Council shall regularly verify that the grounds on which such a determination was made continue to apply.
 

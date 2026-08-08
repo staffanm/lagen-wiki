@@ -9,6 +9,8 @@ Avtalsfriheten är inte absolut, och vissa avtalsformer styrs av [tvingande regl
 
 Man brukar tala om att principen om avtalsfrihet består av tre delar:
 
-\# Rätt att avstå från att ingå avtal # Rätt att välja avtalspart # Rätt att bestämma avtalets innehåll
+1. Rätt att avstå från att ingå avtal
+2. Rätt att välja avtalspart
+3. Rätt att bestämma avtalets innehåll
 
 Se också [Kontraheringstvång](begrepp:Kontraheringstvång).

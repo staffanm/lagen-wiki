@@ -9,6 +9,9 @@ En [fordran](begrepp:fordran) (skuld) kan vara förknippad med en viss [förmån
 
 I allmänhet betalas fordringar i följande ordning:
 
-\# [Massafordran](begrepp:Massafordran) # Fordringar med [särskild förmånsrätt](begrepp:särskild förmånsrätt) # Fordringar med [allmän förmånsrätt](begrepp:allmän förmånsrätt) # [Oprioriterade fordringar](begrepp:Oprioriterad fordran)
+1. [Massafordran](begrepp:Massafordran)
+2. Fordringar med [särskild förmånsrätt](begrepp:särskild förmånsrätt)
+3. Fordringar med [allmän förmånsrätt](begrepp:allmän förmånsrätt)
+4. [Oprioriterade fordringar](begrepp:Oprioriterad fordran)
 
 Inom varje förmånsrättstyp finns inbördes prioriteringsregler, och det finns även undantag från ovanstående turordning. Närmare regler finns i förmånsrättslagen (1970:979).

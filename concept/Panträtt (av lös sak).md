@@ -13,4 +13,9 @@ Om pantens ägare (gäldenären) går i konkurs ger panträtten [förmånsrätt]
 
 ## Lagrum
 
-* HB 10 Kap. * Lag (1936:88) om pantsättning av lös egendom som innehas av tredje man * Lag (1988:1479) om kontoföring av finansiella instrument * Pantbankslag (1995:1000) * Lag (2003:528) om företagsinteckning * Lag (1914:45) om kommission
+* HB 10 Kap.
+* Lag (1936:88) om pantsättning av lös egendom som innehas av tredje man
+* Lag (1988:1479) om kontoföring av finansiella instrument
+* Pantbankslag (1995:1000)
+* Lag (2003:528) om företagsinteckning
+* Lag (1914:45) om kommission

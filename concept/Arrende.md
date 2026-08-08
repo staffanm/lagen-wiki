@@ -7,7 +7,11 @@ Upplåtelse, mot vederlag, av jord enligt [8 - 11 kap.](https://lagen.nu/1970:99
 
 Ett arrende kan vara av någon av följande typer:
 
-* [jordbruksarrende](begrepp:jordbruksarrende) * [bostadsarrende](begrepp:bostadsarrende) * [anläggningsarrende](begrepp:anläggningsarrende) * [lägenhetsarrende](begrepp:lägenhetsarrende) * [fiskearrende](begrepp:fiskearrende)
+* [jordbruksarrende](begrepp:jordbruksarrende)
+* [bostadsarrende](begrepp:bostadsarrende)
+* [anläggningsarrende](begrepp:anläggningsarrende)
+* [lägenhetsarrende](begrepp:lägenhetsarrende)
+* [fiskearrende](begrepp:fiskearrende)
 
 För alla arrendetyper utom lägenhetsarrende gäller att avtalet ska vara skriftligt. I avtalshandlingen skall samtliga avtalsvillkor anges. Ändring eller tillägg som ej avfattas skriftligen är utan verkan.
 

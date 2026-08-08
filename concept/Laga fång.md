@@ -5,6 +5,8 @@ categories:
 ---
 Ett laga fång är ett lagligt sätt att få äganderätten till något. De kan delas upp på följande sätt:
 
-* Derivativa fång ** [Köp](begrepp:Köp) ** [Byte](begrepp:Byte) ** [Gåva](begrepp:Gåva) ** [Giftorätt](begrepp:Giftorätt) ** [Arv](begrepp:Arv) ** [Testamente](begrepp:Testamente) ** [Exekutiv försäljning](begrepp:Exekutiv försäljning) * Exstinktiva fång ** [Godtrosförvärv](begrepp:Godtrosförvärv) ** [Hävd](begrepp:Hävd) ** [Expropriation](begrepp:Expropriation) ** övrig tvångsinlösning * Originära fång ** [Ockupation](begrepp:Ockupation) (besittning av herrelös sak) ** [Jakt](begrepp:Jakt) ** [Fiske](begrepp:Fiske) ** Förvärv av [nybildade saker](begrepp:nybildade saker) ** [Specifikation](begrepp:Specifikation) (äganderättsförvärv)
+* Derivativa fång ** [Köp](begrepp:Köp) ** [Byte](begrepp:Byte) ** [Gåva](begrepp:Gåva) ** [Giftorätt](begrepp:Giftorätt) ** [Arv](begrepp:Arv) ** [Testamente](begrepp:Testamente) ** [Exekutiv försäljning](begrepp:Exekutiv försäljning)
+* Exstinktiva fång ** [Godtrosförvärv](begrepp:Godtrosförvärv) ** [Hävd](begrepp:Hävd) ** [Expropriation](begrepp:Expropriation) ** övrig tvångsinlösning
+* Originära fång ** [Ockupation](begrepp:Ockupation) (besittning av herrelös sak) ** [Jakt](begrepp:Jakt) ** [Fiske](begrepp:Fiske) ** Förvärv av [nybildade saker](begrepp:nybildade saker) ** [Specifikation](begrepp:Specifikation) (äganderättsförvärv)
 
 Man kan också dela upp dem i [onerösa fång](begrepp:oneröst fång) och [benefika fång](begrepp:benefikt fång).

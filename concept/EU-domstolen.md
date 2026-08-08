@@ -15,4 +15,5 @@ EU-domstolen ska inte förväxlas med [Europadomstolen](begrepp:Europadomstolen)
 
 ## Externa länkar
 
-* [EU-domstolens webbplats (svensk version)](http://curia.europa.eu/jcms/jcms/j_6/) * [Regeringskansliets information om EU-domstolen](http://www.regeringen.se/sb/d/11145)
+* [EU-domstolens webbplats (svensk version)](http://curia.europa.eu/jcms/jcms/j_6/)
+* [Regeringskansliets information om EU-domstolen](http://www.regeringen.se/sb/d/11145)

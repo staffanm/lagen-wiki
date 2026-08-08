@@ -31,7 +31,9 @@ Ja -> vidare till 1.1
 
 Nej -> Se [närstående rättigheter (1)](begrepp:närstående rättigheter (1%29)
 
-OBS! JU SVAGARE ORIGINALITET, JU SVAGARE SKYDD! = Kopior kan lägga sig närmre. (smultronfallet NJA 1994 s. 74.) Det inskränkta skyddet i smultronfallet omfattade endast: 1. Efterbildning, 2. Påfallande likhet.
+OBS! JU SVAGARE ORIGINALITET, JU SVAGARE SKYDD! = Kopior kan lägga sig närmre. (smultronfallet NJA 1994 s. 74.) Det inskränkta skyddet i smultronfallet omfattade endast:
+1. Efterbildning,
+2. Påfallande likhet.
 
 1.1: Skyddet är formlöst och uppkommer i samband med skapandet.
 

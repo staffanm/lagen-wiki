@@ -3,7 +3,9 @@ title: Stöld
 ---
 Stöld beskrivs i [8 kap. 1 §](https://lagen.nu/1962:700#K8P1). Stöldbrottet förekommer i tre allvarlighetsvarianter:
 
-* Ringa stöld (tidigare snatteri): [8 kap 2 §](https://lagen.nu/1962:700#K8P2) * Stöld: [8 kap 1 §](https://lagen.nu/1962:700#K8P1) * Grov stöld: [8 kap 4 §](https://lagen.nu/1962:700#K8P4)
+* Ringa stöld (tidigare snatteri): [8 kap 2 §](https://lagen.nu/1962:700#K8P2)
+* Stöld: [8 kap 1 §](https://lagen.nu/1962:700#K8P1)
+* Grov stöld: [8 kap 4 §](https://lagen.nu/1962:700#K8P4)
 
 Skyddsintresset vid stöld är äganderätten. Endast lösa saker samt del till fast egendom kan ägas. Vidare så kan inte döda människor äga saker.
 

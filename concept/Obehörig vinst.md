@@ -11,4 +11,5 @@ Generellt anses det inte finnas någon skyldighet att återbetala en sådan vins
 
 ## Se även
 
-* Mårten Schultz: ["Obehörig vinst rediviva"](http://www.juridicum.su.se/user/masc/obehorigvinst.pdf), SvJT 2009 s 946 * Claes Martinsson: [Att återuppliva något som aldrig levt...](http://juridikbloggen.wordpress.com/2009/10/28/att-ateruppliva-nagot-som-aldrig-levt/)
+* Mårten Schultz: ["Obehörig vinst rediviva"](http://www.juridicum.su.se/user/masc/obehorigvinst.pdf), SvJT 2009 s 946
+* Claes Martinsson: [Att återuppliva något som aldrig levt...](http://juridikbloggen.wordpress.com/2009/10/28/att-ateruppliva-nagot-som-aldrig-levt/)

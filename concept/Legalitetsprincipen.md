@@ -11,7 +11,8 @@ Den straffrättsliga betydelsen av principen är att ingen får straffas för en
 
 Ett grundläggande krav på rättsskipningen inom svensk straffrätt (synonym: [legalitetsgrundsatsen](begrepp:legalitetsgrundsatsen)), kan uttryckas som två förbud:
 
-\# Förbud mot [analog](begrepp:Analogisk lagtillämpning) strafflagstillämpning # Förbud mot retroaktiv strafflagstillämpning - grundlagstadgat genom RF 2:10 och utvecklat i [BrP 5 §](https://lagen.nu/1964:163#P5).
+1. Förbud mot [analog](begrepp:Analogisk lagtillämpning) strafflagstillämpning
+2. Förbud mot retroaktiv strafflagstillämpning - grundlagstadgat genom RF 2:10 och utvecklat i [BrP 5 §](https://lagen.nu/1964:163#P5).
 
 Legalitetsprincipen har sedan 1994 uttryckligt lagstöd genom 1 kap. 1 § brottsbalken.
 

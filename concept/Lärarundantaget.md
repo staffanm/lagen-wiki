@@ -19,4 +19,5 @@ För anställda lärare finns dock ett undantag från denna princip, som ibland 
 
 ## Vidare läsning
 
-* ["Lärarundantaget och upphovsrätt"](http://www.sulf.se/Universitetslararen/Arkiv/2009/Nummer-5-091/Lararundantaget-och-upphovsratt/), Universitetsläraren nr 5/2009 * Sanna Wolk, "Anställdas immaterialrätt i arbetsgivarens konkurs (JT 2002/03 s 372)
+* ["Lärarundantaget och upphovsrätt"](http://www.sulf.se/Universitetslararen/Arkiv/2009/Nummer-5-091/Lararundantaget-och-upphovsratt/), Universitetsläraren nr 5/2009
+* Sanna Wolk, "Anställdas immaterialrätt i arbetsgivarens konkurs (JT 2002/03 s 372)

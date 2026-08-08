@@ -11,6 +11,8 @@ Har en förhandling i en rättegång hållits bakom [stängda dörrar](begrepp:s
 
 ## Jämför
 
-* Kommentaren till 9 kap. 6 § rättegångsbalken * [Brott mot tystnadsplikt](begrepp:Brott mot tystnadsplikt) * Justitiekanslerns ([JK](begrepp:JK)) utredning om en [advokat](begrepp:advokat) som anmälts för brott mot tystnadsplikt: [Dnr 1708-04-71](http://www.jk.se/Beslut/XmlToHtml.asp?XML=Files/1708-04-71.xml&XSL=../xsl/JK_Beslut.xsl)
+* Kommentaren till 9 kap. 6 § rättegångsbalken
+* [Brott mot tystnadsplikt](begrepp:Brott mot tystnadsplikt)
+* Justitiekanslerns ([JK](begrepp:JK)) utredning om en [advokat](begrepp:advokat) som anmälts för brott mot tystnadsplikt: [Dnr 1708-04-71](http://www.jk.se/Beslut/XmlToHtml.asp?XML=Files/1708-04-71.xml&XSL=../xsl/JK_Beslut.xsl)
 
 <!-- behöver målnummer eller annan referens (och bekräftelse på att domen vunnit laga kraft) om en [advokat](begrepp:advokat), som senare dömdes av Borås [tingsrätt](begrepp:tingsrätt) -->

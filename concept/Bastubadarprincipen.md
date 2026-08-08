@@ -9,7 +9,9 @@ Fallet rörde en arbetstagare som var anställd i ett företag inom pappersindus
 
 Huvudfrågan i målet rörde huruvida arbetsgivaren i och med omplaceringen hade handlat i strid mot lag eller avtal. Arbetstagarorganisationen yrkade i målet att omplaceringen skulle ses som:
 
-1. ett avskedande, 2. en provocerad uppsägning, eller i sista hand 3. en disciplinär åtgärd i strid med 62 § MBL.
+1. ett avskedande,
+2. en provocerad uppsägning, eller i sista hand
+3. en disciplinär åtgärd i strid med 62 § MBL.
 
 Arbetsdomstolen fann dock att omplaceringen inte föll in under någon av dessa punkter men fastslog i stället att "en särskilt ingripande omplacering p.g.a. personliga skäl kräver godtagbara skäl", vilket efter detta rättsfall kom att benämnas som bastubadarprincipen.
 
