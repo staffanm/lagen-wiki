@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/myndigheten-for-psykologiskt-forsvar": "4728ff79befce409973b292e2ef207be8cc89db8afc068dc300fae7eee4c8f64",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "De båda direktiven kan skapa förutsättningar för en sammanhållen reglering av motståndskraft i samhällsviktig verksamhet som saknas idag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec80",
+      "sentiment": 1.0,
+      "quote": "MPF delar utredningens bedömning att MSB:s lista över samhällsviktiga verksamheter är en bra utgångspunkt för att identifiera samhällsviktiga verksamhetsutövare enligt CER-direktivet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "Utredningen belyser att kommissionens delegerade akt för samhällsviktiga tjänster inte är uttömmande, och att det kan finnas behov av andra verksamheter i en nationell reglering, men detta förtydligas inte i 1.1 Förslag till lag om motståndskraft hos kritiska verksamhetsutövare, som hänvisar till CER-direktivets bilaga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.2,
+      "quote": "MPF anser att det bör utvärderas om inte de riskbedömningar som idag redan görs utifrån annan lagstiftning motsvarar de som nu efterfrågas inom CER-direktivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec81",
+      "sentiment": -0.5,
+      "quote": "MPF vill också lyfta vikten av att inkludera övriga expertmyndigheter i frågor om riskidentifiering och vad som avses vara en betydande störning, i kontrast med utredningens nuvarande förslag att enbart inkludera tillsynsmyndigheter och Socialstyrelsen, innan MSB beslutar om föreskrifter.",
+      "quote_type": "grund"
+    }
+  ]
+}

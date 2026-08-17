@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/statens-energimyndighet": "a98782f546c55e8272fee01475c4e643f80cbf91536f9790a6dff55330182c51",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Statens energimyndighet (Energimyndigheten) tillstyrker i huvudsak utredningens förslag på implementering av CER-direktivet i Sverige men vill lyfta fram följande punkter:",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec224",
+      "sentiment": -0.5,
+      "quote": "Detta riskerar att skada rättssäkerheten och skapa ansvarskonflikter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 1.0,
+      "quote": "eftersom exempelvis fysisk säkerhet bör anpassas till respektive sektors och delsektors förutsättningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.5.2",
+      "sentiment": -0.5,
+      "quote": "Anslaget räcker till ¾ av en årsarbetskraft vilket mot bakgrund av ovanstående inte kan anses tillräckligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6",
+      "sentiment": -0.2,
+      "quote": "Tillsyn kommer bedrivas från flera olika sektorsansvariga myndigheter och bedömningar kring tillsyns- och sektorsavgränsning samt föreskriftsuppfyllnad skulle kunna skilja sig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.2,
+      "quote": "Energimyndigheten noterar att exempelvis avfallshantering inte är med i CER-bilagan men skulle kunna vara kritisk för en verksamhetsutövare inom exempelvis fjärrvärme.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.2,
+      "quote": "Behovet finns bland annat inom delsektorn för fjärrvärme och fjärrkyla där det inte finns beredskapsregler på samma sätt som för exempelvis el och drivmedel/olja.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 1.0,
+      "quote": "så att identifieringsarbetet hos tillsynsmyndigheterna kan genomföras så fort lag och förordning träder i kraft.",
+      "quote_type": "grund"
+    }
+  ]
+}

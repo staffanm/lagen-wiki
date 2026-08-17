@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/regelradet": "5554acf60578414cc58abfe16c2c004eac5917f8f564542aa68adfc96c5bb2ce",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Regelrådet bedömer att konsekvensutredningen inte uppfyller kraven i 6 och 7 §§ förordningen (2007:1244) om konsekvensutredning vid regelgivning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2",
+      "sentiment": 0.5,
+      "quote": "Regelrådet bedömer att redovisningen av bakgrund och syfte med förslaget är godtagbar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.2",
+      "sentiment": 0.5,
+      "quote": "Regelrådet bedömer att redovisningen av alternativa lösningar och effekter av om ingen reglering kommer till stånd är godtagbar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3",
+      "sentiment": 0.5,
+      "quote": "Regelrådet bedömer att redovisningen av förslagets överensstämmelse med EU-rätten är godtagbar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16-3",
+      "sentiment": 0.5,
+      "quote": "Regelrådet bedömer att redovisningen av särskild hänsyn till tidpunkt för ikraftträdande och behov av speciella informationsinsatser är godtagbar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15-3",
+      "sentiment": -0.5,
+      "quote": "Det framgår varken hur stora de företag som berörs är, vilken påverkan förslaget kan komma att få på berörda företags kostnader, tidsåtgång och verksamhet eller vilken påverkan förslaget kan komma att få på konkurrensförhållandena för berörda företag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.6.4",
+      "sentiment": 0.5,
+      "quote": "Regelrådet bedömer att redovisningen av särskilda hänsyn till små företag vid reglernas utformning är godtagbar.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

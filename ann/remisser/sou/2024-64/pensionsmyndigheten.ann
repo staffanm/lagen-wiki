@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/pensionsmyndigheten": "20902eb5b4f9dad8a6675db7bec0b052f5674c648a2ad23b7d82ba7e2ede4496",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Pensionsmyndigheten instämmer till stor del med förslagen men lämnar följande synpunkter",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 0.2,
+      "quote": "Pensionsmyndigheten ser istället större synergier till riskoch sårbarhetsanalysen enligt förordning (2022:524) om statliga myndigheters beredskap, då denna — precis som CER-direktivets krav på riskbedömning — antar ett allriskperspektiv (exempelvis olyckor, naturkatastrofer, hot mot folkhälsan och hybridhot), och inte bara risker från antagonistiska hot.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 1.0,
+      "quote": "Detta i syfte att hålla samman rapporteringen av incidenter enligt NIS2-direktivet och detta direktiv, samt enligt de övriga skäl som utredningen anger i avsnittet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.7",
+      "sentiment": 1.0,
+      "quote": "Pensionsmyndigheten håller med om att ett eventuellt tillsynsuppdrag för Säkerhetspolisen inte skulle ligga i linje med deras nuvarande uppdrag, då det är tydligt kopplat till antagonistiska hot, medan den lagstiftning som diskuteras här har en mycket bredare omfattning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13-2",
+      "sentiment": 1.0,
+      "quote": "Pensionsmyndigheten instämmer i sin helhet i de överväganden som görs om nya sekretessbestämmelser i kapitlet.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

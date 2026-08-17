@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/skatteverket": "3ae6418f476522e5c4114fcd891553a154fdc30218c6b3bae65ed5e6ad21b984",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket tillstyrker att förslagen genomförs.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.1.6",
+      "sentiment": -0.5,
+      "quote": "Skatteverkets uppfattning är att utredningen närmare borde ha utrett räckvidden i sekretessbestämmelsen i 15 kap. 1a $ OSL och då närmare om sekretessen följer med en uppgift som lämnas vidare från den mottagande myndigheten till en tillsynsmyndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.7",
+      "sentiment": -0.5,
+      "quote": "Skatteverket förordar, utifrån praktiska och säkerhetsrelaterade skäl, att MSB får tillsynsansvar för statliga myndigheter under regeringen.",
+      "quote_type": "grund"
+    }
+  ]
+}

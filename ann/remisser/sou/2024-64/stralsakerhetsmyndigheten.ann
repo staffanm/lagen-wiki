@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/stralsakerhetsmyndigheten": "ed616076040fd65a14f375160589678569c1b4146e43d4ad90de2a6c2954510d",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "SSM menar att verksamhetsutövare riskerar att vara föremål för överlappande och eventuellt även divergerande kravställning av samma verksamhet, detta särskilt om de omfattas av olika myndigheters tillsyn enligt olika regelverk.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.5",
+      "sentiment": -0.5,
+      "quote": "SSM anser att förslaget till vad som ska utgöra grunden i en bakgrundskontroll innebär ett alltför stort fokus på utdrag ur belastningsregistret för de personer som ska kontrolleras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.6",
+      "sentiment": 1.0,
+      "quote": "SSM tillstyrker utredningens förslag till ändring av säkerhetsskyddslagen som innebär att modellen för bestämmande av sanktionsavgifternas storlek för enskilda verksamhetsutövare motsvarar den i förslaget till cybersäkerhetslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a14.4",
+      "sentiment": -0.5,
+      "quote": "SSM anser att det råder obalans på så sätt att den föreslagna cybersäkerhetslagen ger tillsynsmyndigheterna mer långtgående möjligheter i form av säkerhetsscanningar och riktade säkerhetsrevisioner i informationssystem än säkerhetsskyddslagstiftningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

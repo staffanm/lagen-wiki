@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/trelleborgs-kommun": "00025c0a794e57a26dcc3023e4b9c59a8b0bd232228c45f544eb7bfd1ffecce3",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Trelleborgs kommun ställer sig positiv till betänkandets förslag för att införliva CER-direktivet, men framhåller att det är avgörande att tillräckliga resurser och förutsättningar säkerställs för ett effektiv genomförandet av direktivet på kommunal nivå.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 1.0,
+      "quote": "Trelleborgs kommun delar utredningens förslag till lagen om motståndskraft hos kritiska verksamhetsutövare för att kunna tillämpa CER-direktivet i Sverige.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.5",
+      "sentiment": -0.2,
+      "quote": "De arbetsmoment och åtgärder som avses är i linje med de åtgärder som redan är implementerade inom exempelvis dricksvattenverksamheten, men kommer i och med detta regelverk bli mer omfattande och resurskrävande totalt sett för verksamhetsutövaren.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8-2",
+      "sentiment": -0.2,
+      "quote": "Trelleborgs kommun bedömer att det saknas en klargörande beskrivning på vad det omfattar, mer än exempelvis personalskydd, fysisk säkerhet, incidentrapportering och bakgrundskontroller.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9-2",
+      "sentiment": 0.5,
+      "quote": "Det är dock viktigt att ha en transparant och standardiserad modell för identifiering av befattningar som kan beröras av kontroller.",
+      "quote_type": "grund"
+    }
+  ]
+}

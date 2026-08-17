@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/totalforsvarets-forskningsinstitut": "aea655d70c70526960bf957181296892aa7b368da20d16781dfea36333ec7e79",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "FOI avstyrker dock utredningens förslag avseende vilka myndigheter som föreslås ansvara för tillsynen av de berörda sektorerna, och uppmanar till tydliggöranden avseende samordning och ansvarsfördelning i förhållande till det existerande beredskapssystemet (punkt 1).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec45",
+      "sentiment": 1.0,
+      "quote": "FOI tillstyrker utredningens förslag i den del som avser FOIs egen roll, nämligen att myndigheten undantas i egenskap av statlig myndighet som till övervägande del bedriver säkerhetskänslig verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3",
+      "sentiment": -1.0,
+      "quote": "Inkonsekvens och överlappande ansvar för myndigheter skapar, snarare än avhjälper, sårbarheter i beredskapen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": -0.5,
+      "quote": "Öppna och vaga kriterier som konkretiseras först av relativa tröskelvärden innebär låg förutsebarhet, och gör det svårare för en utpekad verksamhetsutövare att argumentera mot tillsynsmyndighetens beslut att identifiera den som kritisk.",
+      "quote_type": "grund"
+    }
+  ]
+}

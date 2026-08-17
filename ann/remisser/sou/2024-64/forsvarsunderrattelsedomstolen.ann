@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/forsvarsunderrattelsedomstolen": "609dbfcf970050fcd43658523c87ae6b37ff4ae719fc0b090416b9107e6191be",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "I övrigt har domstolen, utifrån de intressen domstolen har att bevaka, inte några synpunkter på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec45",
+      "sentiment": 1.0,
+      "quote": "statliga myndigheter som till övervägande del «bedriver =<:säkerhetskänslig verksamhet «enligt säkerhetsskyddslagen =(2018:585) ska undantas från = lagens tillämpningsområde och att Försvarsunderrättelsedomstolen anges som en sådan myndighet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec78",
+      "sentiment": 1.0,
+      "quote": "statliga myndigheter som till övervägande del «bedriver =<:säkerhetskänslig verksamhet «enligt säkerhetsskyddslagen =(2018:585) ska undantas från = lagens tillämpningsområde och att Försvarsunderrättelsedomstolen anges som en sådan myndighet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec44",
+      "sentiment": 0.0,
+      "quote": "Försvarsunderrättelsedomstolen även enligt 1 kap. 7 $ föreslås vara undantagen från lagens tillämpningsområde",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

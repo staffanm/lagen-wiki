@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/lansstyrelsen-kalmar-lan": "ed4572d4978fcec58f790981974c72db401ada1a98d33ef48b020d9d353ac187",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Länsstyrelsen yttrar sig över avsnitten; 5.3.4, 5.3.5, 6.2.1, 8.2, 9.3.1, 9.3.3, 10.3.7 och 13.4.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3.4",
+      "sentiment": -0.5,
+      "quote": "Om samtliga offentliga aktörer skulle omfattas av nu aktuellt lagförslag anser länsstyrelsen att detta skulle underlätta tillämpningen och öka acceptansen för regelverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3.5",
+      "sentiment": 0.5,
+      "quote": "Föreslagna undantag om säkerhetsskyddsklassificerade uppgifter samt tillsynsmyndigheters begränsade undersökningsbefogenheter kan ses som tillräckligt kompenserande kontroller för att motverka att säkerhetskänslig verksamhet äventyras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen delar utredningens beskrivning av utmaningarna med likheterna och olikheterna mellan begreppen samhällsviktig tjänst kontra samhällsviktig verksamhet och de otydligheter som detta skapar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser att detta skapar en begreppsförvirring jämfört med andra områden där tekniska och organisatoriska åtgärder endast utgör delmängder av säkerhetsåtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": -0.2,
+      "quote": "Om och hur verksamheten ska beakta och hantera detta ur bland annat ett integritetsperspektiv utifrån överlappande kontroller berörs inte av utredningens förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.3",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen förordar att begreppet förtydligas och exemplifieras ytterligare i framtida föreskrifter för likartad tillämpning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.7",
+      "sentiment": -1.0,
+      "quote": "De gemensamma strukturerna har en så pass stor påverkan på området att en korsvis tillsyn inom länsstyrelserna skulle orsaka intressekonflikter och riskera att myndigheternas oberoende ifrågasätts.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.4",
+      "sentiment": -0.5,
+      "quote": "Utan en ny sekretessbestämmelse om befattningsanalysen anser länsstyrelsen därför att behovet av sekretess inte är tillgodosett.",
+      "quote_type": "grund"
+    }
+  ]
+}

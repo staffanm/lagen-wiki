@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/luftfartsverket": "53e33667e4415614bbe9bec3c8f36cbad9c90c23c70327836c95eb7d993834ea",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "LFV vill särskilt framhålla att myndigheten ser positivt på att om en kritisk verksamhet har gjort andra riskbedömningar enligt andra rättsakter får den använda dessa för att uppfylla kraven på riskbedömning enligt detta regelverk.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 1.0,
+      "quote": "myndigheten ser positivt på att om en kritisk verksamhet har gjort andra riskbedömningar enligt andra rättsakter får den använda dessa för att uppfylla kraven på riskbedömning enligt detta regelverk",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6",
+      "sentiment": 0.2,
+      "quote": "det är av vikt att de olika tillsynsmyndigheterna samordnar arbetet med föreskrifter, tillsyn och rapportering så att tillsynsobjektet kan hushålla väl med statens medel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.5.6",
+      "sentiment": -0.2,
+      "quote": "Finansieringen är utmanande då LFV är ett statligt affärsverk.",
+      "quote_type": "grund"
+    }
+  ]
+}

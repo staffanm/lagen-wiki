@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/inspektionen-for-vard-och-omsorg": "4a7db95045b4440badab133a3adb0171815872e8611260b6258b7ba6b001cff7",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Enligt IVO bör föreskriftsrätten ses över för att undvika överlappande reglering.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.5,
+      "quote": "IVO anser inte att sådan föreskriftsrätt ska ges till varje tillsynsmyndighet då ett överlappande tillsynsansvar för samma verksamhetsutövare kommer att förekomma med utredningens förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "IVO framförde i yttrandet över delbetänkandet att bemyndigandefrågan inte var tillräckligt utredd och att IVO önskade ytterligare resonemang i denna del.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.5.2",
+      "sentiment": -0.5,
+      "quote": "IVO bedömer att det förstärkta anslaget som utredningen föreslår på en miljon kronor per år för 2025 och 2026 inte är tillräckligt för att hantera de kostnadsökningar för IVO som föranleds av utredningens förslag och CERdirektivets implementering.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/naturvardsverket": "91d5c1e9f7fd7a845374651969f771ddbf72b3ce8fd5fe2e2049093edb8e8d5d",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Naturvårdsverket bedömer att strukturen i stället behöver bygga på den beredskapsstruktur som byggts upp i Sverige",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec46",
+      "sentiment": 1.0,
+      "quote": "Den nationella riskbedömningen är av stor betydelse för genomförandet av de uppgifter som åligger beredskapsmyndigheter i enlighet med förordning (2022:524) om statliga myndigheters beredskap och bör därför även delges dessa myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec183",
+      "sentiment": -0.2,
+      "quote": "Begreppen samhällsviktig tjänst kontra samhällsviktig verksamhet är snarlika begrepp som kan orsaka onödig otydlighet om vad som avses.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.5",
+      "sentiment": -1.0,
+      "quote": "Utifrån de principerna är det därför logiskt att den myndighet som har sakkunskap och uppgift att utveckla och vägleda om det regelverk som berör verksamhetsutövarna för avlopp i normaltillståndet också gör det kopplat till beredskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4",
+      "sentiment": -0.5,
+      "quote": "Naturvårdsverket ifrågasätter om det är lämpligt att i en lag göra tillsynsinsatser obligatoriska, dels av proportionalitetsskäl, dels för att myndigheternas resurser ska användas på mest effektiva sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec60",
+      "sentiment": -0.5,
+      "quote": "Naturvårdsverket vill påpeka att det sannolikt innebär betydande svårigheter att avgöra graden av vållande och därmed hur högt sanktionsavgiften ska sättas.",
+      "quote_type": "grund"
+    }
+  ]
+}

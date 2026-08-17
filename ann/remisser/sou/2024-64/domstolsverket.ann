@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/domstolsverket": "0a6ff31e141cd2f664eb6dfa4761e54ef9947865d1cc49f11acac5f42b3dacb1",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Domstolsverket har bedömt att betänkandet inte innehåller något förslag som i någon större mån påverkar Sveriges Domstolar på ett sådant sätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14-2",
+      "sentiment": -0.2,
+      "quote": "Sammanfattningsvis efterfrågar Domstolsverket en djupare analys av förhållandet mellan regelverket om motståndskraft för kritiska verksamhetsutövare och säkerhetsskyddsregleringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.5,
+      "quote": "En ordning med olika föreskrifter som reglerar samma områden är svår att överblicka och därmed svår att tillämpa för dem som omfattas av föreskrifterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec289",
+      "sentiment": -0.2,
+      "quote": "Domstolsverket anser att denna bedömning kan ifrågasättas och förordar att frågan utreds vidare.",
+      "quote_type": "grund"
+    }
+  ]
+}

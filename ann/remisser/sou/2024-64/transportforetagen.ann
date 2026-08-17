@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/transportforetagen": "3a45853a5790d312ec8f166686e39ff4eac3d0a5116208aa8816f5c0ae3faec5",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det är glädjande att utredningen inte föreslår mer långtgående krav utöver direktivets nivå, då det hade riskerat att skada svenska företags konkurrenskraft på den inre marknaden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec232",
+      "sentiment": -0.5,
+      "quote": "Den föreslagna modellen med att låta arbetstagaren själv inhämta ett begränsat utdrag ur belastningsregistret och presentera för arbetsgivaren riskerar att ge ett allt för innehållsfattigt underlag för att kunna basera en seriös riskbedömning på.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13-2",
+      "sentiment": 0.2,
+      "quote": "Det är däremot centralt att arbetsgivaren kan delge arbetstagaren och dennes fackliga representanter tillräckligt med information för att kunna motivera en förflyttning eller en uppsägning som bakgrundskontrollen och riskbedömningen gett upphov till.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.5",
+      "sentiment": -0.5,
+      "quote": "En grundförutsättning för att dessa företag ska kunna uppfylla sin del är att utpekandet inte riskerar deras lönsamhet och konkurrenskraft.",
+      "quote_type": "grund"
+    }
+  ]
+}

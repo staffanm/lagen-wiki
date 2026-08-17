@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/sveriges-kommuner-och-regioner": "60bad3ac68277adf7503defa3382d42c3e86ee6a7e79f312fac03e894b2199a1",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "SKR delar inte utredningens bedömning och slutsatser när det gäller finansiering av nya åligganden för kommunsektorn.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.6.1",
+      "sentiment": 1.0,
+      "quote": "SKR anser att det är mycket bra att utredningen föreslår att det inrättas ett av MSB lett samarbetsforum där tillsynsmyndigheterna ingår (avsnitt 10.6.1 på sidan 233 i utredningen).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": -0.2,
+      "quote": "Som framgår av mitten på sidan 147 i utredningen är det en skrivning som är ägnad att leda till missförstånd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": -0.2,
+      "quote": "SKR vill framhålla att detta kan medföra praktiska problem för kritiska verksamhetsutövare som lyder under upphandlingslagstiftningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.5.6",
+      "sentiment": -0.5,
+      "quote": "SKR anser att statens finansiering av kommunsektorns behov för civil beredskap och civilt försvar är otillräcklig i förhållande till den av kommunsektorn uppfattade statliga ambitionsnivån.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/arbetsgivarverket": "8e9e6fda4913f18891bae8a21291799cfcaa732b8ca237024fc2c0df71c12834",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Arbetsgivarverket är positiva till utredningens presenterade förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9-2",
+      "sentiment": 1.0,
+      "quote": "Det är viktiga verktyg för att arbetsgivare ska kunna stärka säkerhetsarbetet och minska risken för otillåten påverkan.",
+      "quote_type": "grund"
+    }
+  ]
+}

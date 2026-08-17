@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/statskontoret": "f95ea8b22b9a7108aece94c90ddade17966c4e579c9cbce1224407ddef2661d8",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Ansvarsfördelningen i systemet är rimlig",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.3",
+      "sentiment": 1.0,
+      "quote": "Samtliga föreslagna myndigheter ansvarar för någon form av tillsyn idag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.5.2",
+      "sentiment": 1.0,
+      "quote": "Vår erfarenhet är att det på förhand kan vara svårt att uppskatta ekonomiska konsekvenser utan att veta antalet kritiska verksamhetsutövare.",
+      "quote_type": "grund"
+    }
+  ]
+}

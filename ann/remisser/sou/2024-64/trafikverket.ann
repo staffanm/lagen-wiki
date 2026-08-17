@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/trafikverket": "e8b8908357049dc2c1b2ebf399799217acd7d2f3b81fd38c4315d6b2ce250f2c",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Trafikverket ställer sig i stort positiv till förslagen i betänkandet men vill lämna följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec187",
+      "sentiment": -0.2,
+      "quote": "En sådan formulering tydliggör att exempelvis leverantörer av flygtrafiktjänster inte utesluts från lagens tillämpningsområde (sådana leverantörer har sällan infrastruktur utan använder annans utrustning).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec41",
+      "sentiment": -0.5,
+      "quote": "Detta får som följd att Trafikverket inte kan genomföra sådana kontroller på personal som ska arbeta inom den verksamhet som omfattas av cybersäkerhetslagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.6",
+      "sentiment": -0.2,
+      "quote": "Risken för berörda verksamhetsutövare är annars att behöva göra flera liknande riskbedömningar utifrån olika tillsynsmyndigheters föreskrifter till resultatet av betydande arbetsinsatser och kostnader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.1",
+      "sentiment": 1.0,
+      "quote": "De B olikheter i kombination med de likheter som finns idag gör det svårt för myndigheter och andra att leva upp till ställda krav kopplade till civil beredskap, NIS och CER.",
+      "quote_type": "grund"
+    }
+  ]
+}

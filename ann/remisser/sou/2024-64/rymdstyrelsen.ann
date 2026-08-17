@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/rymdstyrelsen": "ad72528382db941858e68a7c79c368530d9cfce678b7a95c6a385428f9da504f",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Rymdstyrelsen anser till skillnad från utredningen att kompensation bör ges på förvaltningsanslaget för de åtgärder som myndigheten med anledning av införlivandet har att vidta.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec42",
+      "sentiment": -0.2,
+      "quote": "Om avsikten är att samtliga av riksdagens myndigheter ska undantas från lagens tillämpning, och inte endast de fyra som anges i den föreslagna bestämmelsen, måste uppräkningen i 1 kap. 7 $ kompletteras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec274",
+      "sentiment": -0.2,
+      "quote": "Det torde inte finnas några objektiva skäl till att valutan för sanktionsavgifter i ena fallet anges i euro och i andra fallet i kronor varvid Rymdstyrelsen förordar att VI angas för sanktionsavgifter och då förslagsvis i kronor.",
+      "quote_type": "grund"
+    }
+  ]
+}

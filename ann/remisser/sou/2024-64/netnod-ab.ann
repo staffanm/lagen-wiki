@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/netnod-ab": "5afd40f47d99bac255d2835990380559b020076ae46563fafc734583b209a1cf",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "De förslag som utredningen lägger är steg i en god riktning, men den hanterar inte viss strukturell problematik (strategisk kortsiktighet, utvärderingskriterier, osv) och riskerar att vara resursineffektiv (allrisk som approach, osv) i det större perspektivet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec407",
+      "sentiment": -0.2,
+      "quote": "Netnod anser att samspelet mellan lagrummen måste förtydligas för tillgänglighetsaspekter av säkerhetskänslig verksamhet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec86",
+      "sentiment": -0.5,
+      "quote": "Allriskansatser generellt saknar vetenskapligt stöd i termer av ändamålsenlighet och effekt, och beprövad erfarenhet ger att allriskansatser till risk och åtgärd i regel ej höjer den säkerhetsnivå som finns i en organisation och / eller verksamhet, utan snarare gör den säkerhetsnivå som finns synlig .",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.7.2",
+      "sentiment": -0.2,
+      "quote": "Strategiskt leder negativa incitament (viten osv) till att aktörer med vinstpresumption skall optimera för att precis nå upp till den fastställda lägsta-nivån till minsta möjliga kostnad.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/lansstyrelsen-vasternorrland": "9cb30e9c379e231057b221a16b4e336d4a635cd4cd86a7c0db78335c94e70cd3",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen Västernorrland tillstyrker i huvudsak utredningens förslag om införlivande av CER-direktivet i svensk rätt samt förslag till ändring i offentlighets- och sekretessbestämmelserna, ändring i säkerhetsskyddslagen samt i lagen om cybersäkerhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3.4",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser vidare att det skulle underlätta tillämpningen och öka acceptansen för regelverket om samtliga aktörer omfattades av lagens tillämpningsområde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen ser en stor risk för att detta skapar en begreppsförvirring jämfört med andra områden där tekniska och organisatoriska åtgärder utgör delmängder av säkerhetsåtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen ser det som viktigt att begreppet ”kan medföra” förtydligas så långt det är möjligt i framtida föreskrifter för att undvika skillnader i tolkning bland tillsynsmyndigheter och verksamhetsutövare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": -0.2,
+      "quote": "Det vill säga hur verksamhetsutövarna ska beakta och hantera detta ur ett bland annat ett integritetsperspektiv utifrån överlappande kontroller.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.3",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen förordar dock att begreppet förtydligas och exemplifieras ytterligare i framtida föreskrifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.7",
+      "sentiment": -1.0,
+      "quote": "De gemensamma strukturerna har en så pass stor påverkan på området att en korsvis tillsyn inom länsstyrelserna skulle orsaka intressekonflikter och riskera att myndigheternas oberoende ifrågasätts.",
+      "quote_type": "grund"
+    }
+  ]
+}

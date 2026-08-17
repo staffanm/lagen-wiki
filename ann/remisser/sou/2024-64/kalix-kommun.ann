@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/kalix-kommun": "c0a05384677dec6559569541d330a9e19de81d32ad9c876112760ada3b21e4ec",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.3,
+    "quote": "Betänkandet beaktar inte i tillräcklig utsträckning de konsekvenser detta kan medföra för kommunen, såsom ökade arbetsuppgifter och kostnader för åtgärder, vilket leder till ett ökat finansieringsbehov.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec80",
+      "sentiment": -0.2,
+      "quote": "Det är dock utmanande att besvara remissen då kommunen inte på förhand vet vilka delar av kommunens verksamheter som tillsynsmyndigheten kommer att bedöma som kritiska.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.5.6",
+      "sentiment": -0.5,
+      "quote": "Kalix kommun föreslår att kommunen ska få ersättning från staten för de extra arbetsuppgifter samt åtgärder som kan uppstå till följd av att verksamhet inom kommunen träffas av lagstiftningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

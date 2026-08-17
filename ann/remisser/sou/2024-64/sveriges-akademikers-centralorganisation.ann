@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/sveriges-akademikers-centralorganisation": "0b5f2ce24adb8404c85d64d9d34c683c9721ae23ceb6bf607afcdb3cd243ffd5",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Det ska noteras att förslag på ingrepp i arbetstagares rätt till en privat sfär alltid förtjänar en grundlig genomgång innan en lagändring.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": 1.0,
+      "quote": "Det är den minst ingripande ordningen för den enskilde som då har en möjlighet att kontrollera vilka som får ta del av utdraget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.3",
+      "sentiment": 1.0,
+      "quote": "Saco anser att det är nödvändigt med dokumentation för att det ska bli förutsägbart och rättssäkert.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": -0.5,
+      "quote": "Att då kraftigt överimplementera direktivet i denna del är onödigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.5",
+      "sentiment": 0.2,
+      "quote": "Det är av stor vikt att inte överflödig information samlas in av en verksamhetsutövare.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/kommerskollegium": "c9b647754f04d83a3c9eb8c06ca30d67148ffeb5f3190b9f70f8d7f830c1fbe4",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Kommerskollegium har utifrån myndighetens uppdrag inga synpunkter i sak på förslagen i det remitterade betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": 0.2,
+      "quote": "Om kommande författningsförslag bedöms innebära att nationell särreglering av informationssamhällets tjänster omfattar fler verksamheter rekommenderar Kommerskollegium att Regeringskansliet uppdrar åt Kommerskollegium att anmäla förslaget till kommissionen.",
+      "quote_type": "grund"
+    }
+  ]
+}

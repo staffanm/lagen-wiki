@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/tullverket": "73ecbaf663fd80f0def8fccfc35ae1d43085ed583a0e72ed1f1c8f9d67786598",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Tullverket anser att myndigheten ska vara undantagen från den föreslagna lagen på den grunden att Tullverket till övervägande del bedriver brottsbekämpande och säkerhetskänslig verksamhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3.4",
+      "sentiment": -1.0,
+      "quote": "Utredningens förslag på nationell lagstiftning ger dock enligt Tullverkets mening inte de undantag som är möjliga och nödvändiga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8-2",
+      "sentiment": -0.5,
+      "quote": "Detta riskerar att ske på bekostnad av resurser som i dag används till att genomföra beredskaps- eller säkerhetsåtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10-2",
+      "sentiment": -0.2,
+      "quote": "Det kan vara omöjligt att skapa ett avgränsat segment i en verksamhet som delvis är säkerhetskänslig, i syfte att låta en annan tillsynsmyndighet än Säkerhetspolisen kunna granska den.",
+      "quote_type": "grund"
+    }
+  ]
+}

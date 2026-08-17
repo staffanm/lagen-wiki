@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/bolagsverket": "3c282b851dedce68e15a3ec15f01565334a3715b4fbd2d9d667db98215281865",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Utifrån de intressen som Bolagsverket har att bevaka ställer sig myndigheten positiv till utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2.1",
+      "sentiment": 1.0,
+      "quote": "Det finns därför ett värde av en översyn i förhållande till befintlig lagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av detta kan den föreslagna tidsramen för utpekade aktörer att ställa om sin organisation inför de nya kraven och tiden för när den nya lagen ska börja gälla vara alltför snävt tilltagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av detta kan samma kommentar lämnas avseende den föreslagna tidsramen för när utpekade aktörer ska ha ställt om sin organisation för de nya kraven och tiden för när den nya lagen ska börja gälla.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.3",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av att det ännu inte går att bedöma vilka verksamheter som ska anses falla under begreppet kritiska verksamhetsutövare är det omöjligt att med säkerhet veta vilka offentliga myndigheter som kommer att beröras av den nya lagen om motståndskraft i samhällsviktiga tjänster.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.5.6",
+      "sentiment": -0.5,
+      "quote": "Att detta kommer att leda till ökade kostnader är naturligt, men det är utifrån utredningen svårt att bedöma om de ekonomiska konsekvenserna är att anse som ringa eller inte.",
+      "quote_type": "grund"
+    }
+  ]
+}

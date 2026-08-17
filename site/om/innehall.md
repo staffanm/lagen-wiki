@@ -92,8 +92,7 @@ Europadomstolsdomar som åberopat artikeln.
 Tjänsten innehåller ett urval av avgöranden från Högsta domstolen (HD), Högsta
 förvaltningsdomstolen (HFD), hovrätterna, kammarrätterna, Mark- och
 miljööverdomstolen, Patent- och marknadsöverdomstolen, Migrationsöverdomstolen
-och Arbetsdomstolen. Det finns även äldre avgöranden från Regeringsrätten (numera
-HFD) och Marknadsdomstolen. Urvalet görs av domstolarna själva, och är detsamma
+och Arbetsdomstolen. Det finns även äldre avgöranden från Regeringsrätten och Marknadsdomstolen. Urvalet görs av domstolarna själva, och är detsamma
 som de rättsfall som publiceras i de tryckta referatserierna. Sammanlagt finns
 ca 23 700 avgöranden.
 

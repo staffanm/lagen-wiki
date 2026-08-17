@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/gavle-kommun": "a18f019cd01c576e04017cb1cfb5256257012c00fcdfc8ddc8dfcd33aca0ac5e",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Gävle kommun ställer sig generellt positiv till en sammanhållen reglering på säkerhetsoch beredskapsområdet, där säkerhetsskyddslagen, NIS2 och CER-direktivet ingår.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3",
+      "sentiment": 0.5,
+      "quote": "Gävle kommun ställer sig positiv till möjligheten att genomföra bakgrundkontroller avseende befattningshavare som ska delta i den samhällsviktiga tjänsten/verksamheten men önskar att möjligheten till löpande kontroll finns, likt den som sker inom ramen för säkerhetsskyddslagstiftningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3",
+      "sentiment": 1.0,
+      "quote": "Gävle kommun ser positivt på att tillsynsmyndigheterna blir desamma som inom säkerhetsskyddsområdet då detta torde medföra samordningsvinster då det kan antas att verksamhet som kan komma att omfattas av CER-direktivet också kan bedriva säkerhetskänslig verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.5.6",
+      "sentiment": -0.5,
+      "quote": "Gävle kommun reserverar sig mot detta resonemang då tillhandahållandet av tjänsterna är en del av det kommunala uppdraget i många fall.",
+      "quote_type": "grund"
+    }
+  ]
+}

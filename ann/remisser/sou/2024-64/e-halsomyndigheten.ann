@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/e-halsomyndigheten": "6db2158bd12d47de8a01a4eaafa3827fcf9eaa1451847225c1e5ad0c68c78c26",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "E-hälsomyndigheten tillstyrker utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.9",
+      "sentiment": -0.2,
+      "quote": "blir det tydligt exakt när den detaljerade rapporten ska lämnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.2,
+      "quote": "tillsynsmyndigheterna eftersom en verksamhetsutövare kan falla under flera a sektorer och därmed flera olika tillsynsmyndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.2,
+      "quote": "att uppdatera säkerhetsskyddsanalys minst vart annat år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": -0.2,
+      "quote": "eftersom ett pappersintygs äkthet inte kan kontrolleras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.5",
+      "sentiment": -0.5,
+      "quote": "förslaget om att utdraget från belastnings- A registret får vara högst ett år gammalt vid uppvisandet innebär en för lång tid.",
+      "quote_type": "grund"
+    }
+  ]
+}

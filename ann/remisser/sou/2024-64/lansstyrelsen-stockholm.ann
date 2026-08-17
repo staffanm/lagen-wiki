@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/lansstyrelsen-stockholm": "2a67f8b17da3a4d6ff381b33b136440a8325c41fe78dd9ea7c0220855f138516",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen ser dock att gränsdragningsproblematiken kommer att vara omfattande och resurskrävande.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3.4",
+      "sentiment": -0.5,
+      "quote": "Även för det fall en verksamhetsutövare bedriver säkerhetskänslig verksamhet eller brottsbekämpning krävs god motståndskraft.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen delar utredningens beskrivning av utmaningarna med likheterna och olikheterna mellan begreppen samhällsviktig tjänst kontra samhällsviktig verksamhet och de otydligheter som detta skapar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen ser även motsägelse mellan säkerhetsskyddslagen, cybersäkerhetslagen och lagen om motståndskraft hos kritiska verksamhetsutövare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser att större fokus bör läggas på andra delar av bakgrundskontrollen än själva utdraget ur belastningsregistret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.7",
+      "sentiment": -0.2,
+      "quote": "Utredningsförslag att länsstyrelserna ska utöva tillsyn över varandra är beklagligt",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen ser positivt på att utredningen föreslår en ny sekretessbestämmelse för incidentrapporter ska föras in.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a14.6",
+      "sentiment": 1.0,
+      "quote": "Såsom tillsynsmyndighet inom säkerhetskyddlagen ser Länsstyrelsen ett behov av harmoniseringen av sanktionsavgifterna mellan säkerhetsskyddslagen, lagen om cybersäkerhet och lagen om motståndskraft hos kritiska verksamhetsutövare",
+      "quote_type": "grund"
+    }
+  ]
+}

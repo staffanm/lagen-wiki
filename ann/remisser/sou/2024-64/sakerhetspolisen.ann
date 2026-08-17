@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/sakerhetspolisen": "2539f540ce3e884a4efa979205bfdd2203e1fb145a7cd124a00c3d247f7d2b5c",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Säkerhetspolisen har tagit del av slutbetänkandet och vill framföra följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": -0.2,
+      "quote": "Säkerhetsskyddslagstiftningen syftar till att skapa ett skydd mot spioneri, sabotage, terroristbrott och andra brott som kan hota verksamheten, och de skyddsåtgärder som föreskrivs enlig säkerhetsskyddslagen har därför inte det allriskperspektiv som är utgångspunkten för den föreslagna lagen om motståndskraft hos kritiska verksamhetsutövare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "Säkerhetspolisen instämmer i och tillstyrker förslaget att Myndigheten för samhällsskydd och beredskap ska delge tillsynsmyndigheterna och de kritiska verksamhetsutövarna relevanta delar av den nationella riskbedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.5,
+      "quote": "Det finns en stor risk att en sådan ordning skulle leda till osäkerhet kring vilka föreskrifter som gäller för en viss verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3",
+      "sentiment": -1.0,
+      "quote": "Mot bakgrund av de skyddsintressen som identifierats av utredningen och de potentiella hotaktörernas kapacitet framstår den valda modellen av bakgrundskontroll inte som ändamålsenlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.7",
+      "sentiment": 1.0,
+      "quote": "Säkerhetspolisen är positiv till att utredningen delar myndighetens uppfattning och tillstyrker utredningens förslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec274",
+      "sentiment": 0.5,
+      "quote": "Det vore inte rimligt att nivån för sanktionsavgifter enligt säkerhetsskyddslagen understeg nivån för sanktionsavgifter enligt den nya lagen om motståndskraft för kritiska verksamhetsutövare.",
+      "quote_type": "grund"
+    }
+  ]
+}

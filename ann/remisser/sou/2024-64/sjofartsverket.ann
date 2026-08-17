@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/sjofartsverket": "17fc04ba6a8eb33dafcf8299c434518a43e3b9bff175614eaf44aa7d70bd3203",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det är välkommet med rättsliga krav på motståndskraft och förmåga att tillhandahålla samhällsviktiga tjänster vid kritiska verksamhetsutövare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.1",
+      "sentiment": -0.2,
+      "quote": "Utredningens förslag att implementera CER-direktivet genom en ny lag, separat från cybersäkerhetslagen kan erbjuda en viss ökad komplexitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 0.2,
+      "quote": "Vad gäller tillsynsansvaret är det extra värdefullt om detta samordnas, bland annat utifrån intresset att en verksamhetsutövare helst inte ska ha fler än en tillsynsmyndighet och framförallt i relation till NIS2.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14-2",
+      "sentiment": -0.2,
+      "quote": "Avslutningsvis vill Sjöfartsverket peka på vikten av att gränsytan mot säkerhetsskyddsregleringen görs tydlig och konkret.",
+      "quote_type": "grund"
+    }
+  ]
+}

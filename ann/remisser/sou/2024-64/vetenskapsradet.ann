@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/vetenskapsradet": "a9c4ceace042dccd80a9f913ac38a1e4091a99605808784178804c3090f11e60",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vetenskapsrådet tillstyrker utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": 1.0,
+      "quote": "Vetenskapsrådet anser att det är lämpligt att tillsynsmyndigheten genom beslut ska identifiera kritiska verksamhetsutövare inom sitt tillsynsområde.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.3",
+      "sentiment": 0.5,
+      "quote": "Arrangemanget med bakgrundskontroller för en stor kategori anställda och personer i rekryteringsprocesser kommer att vara resurskrävande.",
+      "quote_type": "grund"
+    }
+  ]
+}

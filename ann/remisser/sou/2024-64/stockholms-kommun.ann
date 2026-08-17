@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/stockholms-kommun": "572ebaef85e684aa4164e7ce32052b559ac168e0ca6c24972af74a37bc128e46",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Stadsledningskontoret finner det otillfredsställande att utredningen har en bristande helhetssyn och avsaknad av hänsyn till kommuners arbete med riskanalyser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.5,
+      "quote": "Exempelvis har utredningen inte i någon del beaktat det arbete med risk- och sårbarhetsanalyser (RSA) som kommuner och andra offentliga verksamhetsutövare genomför idag i enlighet med befintlig lagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": -0.5,
+      "quote": "Stadsledningskontoret bedömer att det är en resurskrävande aktivitet att implementera heltäckande incidentrapporteringssystem för staden och delar inte utredningens bedömning om att kostnader för incidenthantering endast uppkommer i samband med en incident.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3",
+      "sentiment": -0.5,
+      "quote": "Arbetet med bakgrundskontroller innebär en stor administrativ börda för staden särskilt som att dessa ska upprepas efter två år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 0.2,
+      "quote": "Stadsledningskontoret anser att det kan finnas ett värde med sektorspecifik tillsyn men att det är nödvändigt att tillsynsmyndigheterna ensar sina föreskrifter och tillsynsprocesser så att kommunernas arbetsbörda för tillsyn inte blir orimligt hög jämfört med den förväntade effekten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.7.2",
+      "sentiment": 0.5,
+      "quote": "Stokab anser förvisso att nu gällande maximibelopp för sanktionsavgiften på 50 miljoner kronor är tillräckligt avskräckande, men har förståelse för förslaget om höjning utifrån jämförelsen med de föreslagna sanktionsavgifternas storlek i lagen om cybersäkerhet och lagen om motståndskraft hos kritiska verksamhetsutövare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.5",
+      "sentiment": -0.5,
+      "quote": "Stadsledningskontoret anser att kommunerna behöver tillföras statlig finansiering för en implementeringsfas liknande den som föreslagits för MSB och tillsynsmyndigheterna.",
+      "quote_type": "grund"
+    }
+  ]
+}

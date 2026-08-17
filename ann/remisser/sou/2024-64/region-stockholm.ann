@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/region-stockholm": "725bb1262fcda870949395c82ec87eacb8abf48b1d74ec696f49914c847fcfce",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.3,
+    "quote": "Region Stockholm konstaterar att delar av utredningen fångar upp viktiga förändringsbehov medan andra delar kommer att försvåra arbetet med anpassningen till den föreslagna lagstiftningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec42",
+      "sentiment": -0.2,
+      "quote": "I avsaknad av förslag till föreskrifter för de båda lagförslagen och därmed också tydliggörande vad bestämmelsen i praktiken innebär blir bestämmelsen svår att tolka och tillämpa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Logisk åtkomst torde enbart avse hantering av it-system och omfattas därmed av förslaget till lag om cybersäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec55",
+      "sentiment": -0.5,
+      "quote": "Dessutom riskerar den administrativa bördan i samband med tillsyn öka och tolkningsproblem uppstå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec60",
+      "sentiment": -0.5,
+      "quote": "det är inte rimligt att valet av förvaltningsform för att utföra en uppgift som endast det allmänna kan vara huvudman för ska vara avgörande för sanktionsavgiftens storlek.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec291",
+      "sentiment": 1.0,
+      "quote": "Region Stockholm delar utredningens bedömning i denna del.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15-3",
+      "sentiment": -0.5,
+      "quote": "Region Stockholm menar att konsekvensanalysen inte i tillräcklig omfattning klarlägger de kostnadsdrivande faktorer som utredningens förslag i sin helhet medför.",
+      "quote_type": "grund"
+    }
+  ]
+}

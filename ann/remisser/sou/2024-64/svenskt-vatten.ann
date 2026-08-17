@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/svenskt-vatten": "a2231a0c25a1ca93164049228ee576db61cef9a62770a6e666d00d6bb9b6a8ef",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Eftersom den föreslagna lagen om motståndskraft i samhällsviktiga tjänster kommer att innebära nya krav för berörda va-organisationer och ökade kostnader är det bra att kraven i nuläget inte går längre än vad direktivet kräver.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2.1",
+      "sentiment": -0.5,
+      "quote": "Svenskt Vatten anser att detta inte är logiskt eller rimligt när det gäller den allmänna VA-försörjningen, vilken är en kommunal angelägenhet och ett offentligt ansvar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": -0.2,
+      "quote": "Betänkandet har dock inte beskrivit hur bedömningen kommer göras och ifall Kommunen/organisationen ska eller förväntas medverka i det arbetet samt hur omfattande arbetsinsatsen är.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 0.5,
+      "quote": "Det är en fördel att rapporteringen enligt både NIS2- och CER-direktiven kan samordnas på ett effektivt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9-2",
+      "sentiment": -0.2,
+      "quote": "Det kan bli administrativt tungt att göra kontroll igen efter två år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10-2",
+      "sentiment": 1.0,
+      "quote": "Livsmedelsverket är i dag tillsynsmyndighet för leverans och distribution av dricksvatten enligt Lagen (2018:1174) om informationssäkerhet för samhällsviktiga och digitala tjänster och har ett upparbetat arbetssätt för tillsynen.",
+      "quote_type": "grund"
+    }
+  ]
+}

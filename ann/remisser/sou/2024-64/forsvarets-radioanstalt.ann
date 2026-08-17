@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-17",
+    "inputs": {
+      "artifact:remisser/sou/2024:64/forsvarets-radioanstalt": "8d1d89fdced2290df2885c3f1cdf76fbf10663fbce2ed306f982d75ad245a5a1",
+      "artifact:forarbete/sou/2024-64": "dc1d274605a6f16aa2c4b981d8db19789fd562c621574ff005c2924d1b899db4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "FRA anser att det finns anledning att beakta de olika förslagen och den pågående utredningen om organisationsförändring i det fortsatta lagstiftningsarbetet avseende de förslag i slutbetänkandet som rör cybersäkerhet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 1.0,
+      "quote": "FRA tillstyrker utredningens förslag om att FRA ska undantas från den föreslagna lagen om motståndskraft hos kritiska verksamhetsutövares tillämpningsområde och att skyldigheten att lämna uppgifter enligt lagen inte ska gälla uppgifter som är säkerhetsskyddsklassificerade.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.2",
+      "sentiment": 1.0,
+      "quote": "Att uttryckligen skydda den typen av uppgifter är en viktig förutsättning för att incidentrapporteringen ska bli så omfattande som möjligt.",
+      "quote_type": "grund"
+    }
+  ]
+}
