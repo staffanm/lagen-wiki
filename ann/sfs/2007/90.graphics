@@ -1,0 +1,7191 @@
+{
+  "meta": {
+    "status": "derived",
+    "model": "roadsign",
+    "generated": "2026-08-20",
+    "inputs": {
+      "artifact:sfs/2007:90": "fcc57d6695b13f77c8bc4f385e06a24ec18aa0e21f70166f8672a6c6519d5aeb",
+      "download:sfs/pdf/2007/448.pdf": "520405a548233bde0f44c34828e8d3064c54d8b803e8da1518c289338d5eb598",
+      "download:sfs/pdf/2007/90.pdf": "4039321016afbc56d5fe959dbb76b4062c33bf7e7d324fccc7fd4201863fc430",
+      "download:sfs/pdf/2008/1073.pdf": "3e88ea22ef0276fb5cdf2c8151ab1fb18099f27b4b9d4bc2eb82ed6585a8afdb",
+      "download:sfs/pdf/2008/1180.pdf": "0a2e72e21e71e5c2debf46f970c894ca285c675cdabc26a70b09eb43aebc5d24",
+      "download:sfs/pdf/2008/189.pdf": "af0d5c4618a23fa7de6863ff8ac92db31326c64c82a32a0a955c1aee751d88f3",
+      "download:sfs/pdf/2008/191.pdf": "54906142dbceec1d2676d638dcd506406d7ebdbd421ad03b0d19db2dca254dc2",
+      "download:sfs/pdf/2008/45.pdf": "7dcc3f1a53955670df26f813c452b14066855eb0e7f937349559340bfc3d2384",
+      "download:sfs/pdf/2009/220.pdf": "54f618b52d9bcfdb7f37db0f2030c3b76a5dbc5e58bec21d65a62239c0d3fb5e",
+      "download:sfs/pdf/2010/156.pdf": "21982169fd1a69948ccdc00d20db90a1525d5db27b0984bc9e2ac5b4d4520a3b",
+      "download:sfs/pdf/2010/2035.pdf": "9bb88988e47a16face0059c2c5f4fa1fe3e0c9b206fb3459fb936b14035284fa",
+      "download:sfs/pdf/2010/218.pdf": "4ed5d299fe7c900d276e7a5bdadc963883029bfbee68285c1fae9ccb53b80989",
+      "download:sfs/pdf/2011/1221.pdf": "f001f1876c5330c4fc4f907de0c552448079ddfce4b0f83dcf427d31f777db69",
+      "download:sfs/pdf/2012/245.pdf": "e5952709108653d8f9f4586123bcebbdf0449eab25002cece456f047fd8cffc5",
+      "download:sfs/pdf/2012/300.pdf": "5dab0bee23a3d3e36b7a99da57a91a74e2f3b34ff0c9639651fc0f936a7fdec5",
+      "download:sfs/pdf/2014/1038.pdf": "015103fd2265c7fb3633516046b0471f57f5c87975ec89b8c26d5a632bee18b4",
+      "download:sfs/pdf/2014/1279.pdf": "4adf13429a706e4491b440b6c835b8a8c237b97b9945dfa92543d2f5bbb7e783",
+      "download:sfs/pdf/2015/932.pdf": "4feb1c9b80bf383a10cf427d30e7ebdc8a9ab13e34d9f46ad14fcdfe405e99ee",
+      "download:sfs/pdf/2016/303.pdf": "d028b4f36fe9c1b3607900686de935db4df61e51a9a83d602ca3570850323032",
+      "download:sfs/pdf/2017/923.pdf": "cfed30c1438e13561879fd26f578fc65564273d4316c57d7954debb114a1f21e",
+      "download:sfs/pdf/2018/101.pdf": "f48df4b820c22debf9d97beb14313d1c3e2d7f399598415ec25a3f6046569222",
+      "download:sfs/pdf/2018/1558.pdf": "df4a6c73b6db954ef6a6943283f875d719e6977711e4b281fd13cf6e95ace7e2",
+      "download:sfs/pdf/2018/1561.pdf": "2a1816df6078abc260eda94c4b7fb55ccaec63efe3d3ee7092bb621c1a462cd6",
+      "download:sfs/pdf/2018/384.pdf": "d338f449bdab8421b8c35b278e10db0189bd799e6afef905d700885a45efdb6d",
+      "download:sfs/pdf/2019/393.pdf": "06f0448c6e9704cc352adf3471d39ecc3021f3944aa81c56ad46c128db39d14d",
+      "download:sfs/pdf/2019/93.pdf": "2c066b5bd9bb7f6e984e9f635b85c77b70ed0b6c9b074c4a1bdef342713b1334",
+      "download:sfs/pdf/2020/844.pdf": "202ec94a9c40f83fa7f1d8ff579f9540a57a38c60ec06ca576d0ba85d93cb69b",
+      "download:sfs/pdf/2023/70.pdf": "f120f9a90a533a460023031eeed881d8c51e270a421366f5056b5742730a0653",
+      "download:sfs/pdf/2024/1126.pdf": "4489e48f4c93165b87affbe1ac4b01ffc1b5581fcbbe746fe20b1bdce7457e24",
+      "download:sfs/pdf/2025/268.pdf": "9e2dfdf0e7b1a1b8b67a24e78b3b42e39e05fc2651802856975e7c39a877f261"
+    },
+    "uri": "https://lagen.nu/2007:90",
+    "through": "2025:268"
+  },
+  "g-9f4056e86b6dd5ee446e": {
+    "sfs": "2007:90",
+    "page": 6,
+    "bbox": [
+      129.42,
+      413.57,
+      190.46,
+      468.45
+    ],
+    "alt": "A1 Varning för farlig kurva",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A1",
+      "anchor": "a1 varning för farlig kurva märket anger en farlig kurva samt kurvans riktning.",
+      "occurrence": 1
+    }
+  },
+  "g-b3e0ad7d9a88e96577da": {
+    "sfs": "2007:90",
+    "page": 6,
+    "bbox": [
+      129.42,
+      496.48,
+      190.46,
+      551.84
+    ],
+    "alt": "A2 Varning för flera farliga kurvor",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A2",
+      "anchor": "a2 varning för flera farliga kurvor märket anger flera farliga kurvor samt den första farliga kurvans riktning.",
+      "occurrence": 1
+    }
+  },
+  "g-3b924bf7458b470f46e1": {
+    "sfs": "2007:90",
+    "page": 7,
+    "bbox": [
+      70.71,
+      78.72,
+      188.87,
+      141.2
+    ],
+    "alt": "A3 Varning för nedförslutning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A3",
+      "anchor": "a3 varning för nedförslutning märket anger brant nedförslutning.",
+      "occurrence": 1
+    }
+  },
+  "g-63e91a92e34fff2b1a8e": {
+    "sfs": "2007:90",
+    "page": 7,
+    "bbox": [
+      70.71,
+      162.1,
+      163.91,
+      224.1
+    ],
+    "alt": "A4 Varning för stigning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A4",
+      "anchor": "a4 varning för stigning märket anger kraftig stigning.",
+      "occurrence": 1
+    }
+  },
+  "g-e8fbb3199598a3c1887f": {
+    "sfs": "2007:90",
+    "page": 7,
+    "bbox": [
+      70.71,
+      252.13,
+      130.79,
+      307.49
+    ],
+    "alt": "A5 Varning för avsmalnande väg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A5",
+      "anchor": "a5 varning för avsmalnande väg märket anger att vägen eller banan smalnar av.",
+      "occurrence": 1
+    }
+  },
+  "g-c84465817003f3caf854": {
+    "sfs": "2007:90",
+    "page": 7,
+    "bbox": [
+      70.71,
+      335.52,
+      130.79,
+      390.88
+    ],
+    "alt": "A6 Varning för bro",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A6",
+      "anchor": "a6 varning för bro märket anger en öppningsbar bro.",
+      "occurrence": 1
+    }
+  },
+  "g-76acfa54e7aef84a70f0": {
+    "sfs": "2007:90",
+    "page": 7,
+    "bbox": [
+      70.71,
+      412.27,
+      144.71,
+      474.27
+    ],
+    "alt": "A7 Varning för kaj",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A7",
+      "anchor": "a7 varning för kaj märket anger en plats där vägen slutar mot vatten.",
+      "occurrence": 1
+    }
+  },
+  "g-26106b83f8fe443d662a": {
+    "sfs": "2007:90",
+    "page": 7,
+    "bbox": [
+      70.71,
+      502.29,
+      130.79,
+      557.65
+    ],
+    "alt": "A8 Varning för ojämn väg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A8",
+      "anchor": "a8 varning för ojämn väg märket anger sådana ojämnheter eller skador i vägbanan som medför att det är lämpligt att färdas med lägre hastighet än som annars skulle varit fallet.",
+      "occurrence": 1
+    }
+  },
+  "g-03a55ac9eecb48f3716c": {
+    "sfs": "2007:90",
+    "page": 8,
+    "bbox": [
+      129.42,
+      78.72,
+      252.86,
+      141.2
+    ],
+    "alt": "A9 Varning för farthinder",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A9",
+      "anchor": "a9 varning för farthinder märkena anger upphöjning eller grop som anlagts som fartdämpande åtgärd.",
+      "occurrence": 1
+    }
+  },
+  "g-5d082fe3ecc707535142": {
+    "sfs": "2007:90",
+    "page": 8,
+    "bbox": [
+      129.42,
+      162.1,
+      232.7,
+      224.1
+    ],
+    "alt": "A10 Varning för slirig väg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A10",
+      "anchor": "a10 varning för slirig väg märket anger att vägen kan vara slirig.",
+      "occurrence": 1
+    }
+  },
+  "g-88b27ba20b472ea11805": {
+    "sfs": "2007:90",
+    "page": 8,
+    "bbox": [
+      129.42,
+      252.61,
+      190.46,
+      307.49
+    ],
+    "alt": "A11 Varning för stenskott",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A11",
+      "anchor": "a11 varning för stenskott märket anger risk för stenskott.",
+      "occurrence": 1
+    }
+  },
+  "g-32d50eb9b37e6334647a": {
+    "sfs": "2007:90",
+    "page": 8,
+    "bbox": [
+      129.42,
+      335.52,
+      190.46,
+      390.88
+    ],
+    "alt": "A12 Varning för stenras",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A12",
+      "anchor": "a12 varning för stenras märket anger risk för stenras och för att stenar kan förekomma på vägen på grund av stenras.",
+      "occurrence": 1
+    }
+  },
+  "g-8c82470b0df4c5a8ebc8": {
+    "sfs": "2007:90",
+    "page": 8,
+    "bbox": [
+      129.42,
+      412.27,
+      232.22,
+      474.27
+    ],
+    "alt": "A13 Varning för övergångsställe",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A13",
+      "anchor": "a13 varning för övergångsställe",
+      "occurrence": 1
+    }
+  },
+  "g-c37c4c444a8b21fe1c31": {
+    "sfs": "2007:90",
+    "page": 8,
+    "bbox": [
+      129.42,
+      502.29,
+      190.46,
+      557.65
+    ],
+    "alt": "A14 Varning för gående",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A14",
+      "anchor": "a14 varning för gående märket anger en vägsträcka där gående ofta korsar eller uppehåller sig på eller vid vägen.",
+      "occurrence": 1
+    }
+  },
+  "g-8109fa13f97f95f43b33": {
+    "sfs": "2007:90",
+    "page": 9,
+    "bbox": [
+      70.71,
+      78.72,
+      130.79,
+      141.2
+    ],
+    "alt": "A15 Varning för barn",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A15",
+      "anchor": "a15 varning för barn märket anger en vägsträcka där barn ofta korsar eller uppehåller sig på eller vid vägen.",
+      "occurrence": 1
+    }
+  },
+  "g-181db9a2a9ef9223f9aa": {
+    "sfs": "2007:90",
+    "page": 9,
+    "bbox": [
+      70.71,
+      180.75,
+      130.79,
+      236.11
+    ],
+    "alt": "A16 Varning för cyklande och mo- pedförare",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A16",
+      "anchor": "a16 varning för cyklande och mopedförare märket anger en vägsträcka där cyklande eller mopedförare ofta korsar eller kör in på vägen.",
+      "occurrence": 1
+    }
+  },
+  "g-68fb712cf4068653ae16": {
+    "sfs": "2007:90",
+    "page": 9,
+    "bbox": [
+      70.71,
+      264.14,
+      130.79,
+      319.02
+    ],
+    "alt": "A17 Varning för skidåkare",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A17",
+      "anchor": "a17 varning för skidåkare märket anger en plats där skidåkare ofta korsar eller uppehåller sig på vägen.",
+      "occurrence": 1
+    }
+  },
+  "g-02be63d6a3ad79f529ff": {
+    "sfs": "2007:90",
+    "page": 9,
+    "bbox": [
+      70.71,
+      347.53,
+      130.79,
+      402.41
+    ],
+    "alt": "A18 Varning för ridande",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A18",
+      "anchor": "a18 varning för ridande märket anger en vägsträcka där ridande ofta korsar eller uppehåller sig på vägen.",
+      "occurrence": 1
+    }
+  },
+  "g-a41844cb9f7f96a6e66f": {
+    "sfs": "2007:90",
+    "page": 9,
+    "bbox": [
+      70.71,
+      430.91,
+      130.79,
+      486.27
+    ],
+    "alt": "A19 Varning för djur",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A19",
+      "anchor": "a19 varning för djur märket anger en plats eller vägsträcka där det finns särskild risk för djur på eller vid vägen.",
+      "occurrence": 1
+    }
+  },
+  "g-9fd03ab412ca509b03c4": {
+    "sfs": "2007:90",
+    "page": 9,
+    "bbox": [
+      70.71,
+      520.3,
+      130.79,
+      575.66
+    ],
+    "alt": "A20 Varning för vägarbete",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A20",
+      "anchor": "a20 varning för vägarbete märket anger en vägsträcka där vägarbete eller liknande arbete pågår.",
+      "occurrence": 1
+    }
+  },
+  "g-d4823ea9bfad24fc2939": {
+    "sfs": "2007:90",
+    "page": 10,
+    "bbox": [
+      129.42,
+      78.72,
+      240.86,
+      132.08
+    ],
+    "alt": "A21 Slut på sträcka med vägarbete",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A21",
+      "anchor": "a21 slut på sträcka med vägarbete märket anger slut på en vägsträcka med vägarbete som märkts ut med märke a20, varning för vägarbete. märket är inte uppsatt om det ändå tydligt framgår var sträckan slutar.",
+      "occurrence": 1
+    }
+  },
+  "g-9df3cec458d43bdcc216": {
+    "sfs": "2007:90",
+    "page": 10,
+    "bbox": [
+      129.42,
+      156.77,
+      240.38,
+      218.77
+    ],
+    "alt": "A22 Varning för flerfärgssignal",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A22",
+      "anchor": "a22 varning för flerfärgssignal märket anger en plats där trafiken regleras med flerfärgssignal med tre ljusöppningar.",
+      "occurrence": 1
+    }
+  },
+  "g-04eba99d0128c422978c": {
+    "sfs": "2007:90",
+    "page": 10,
+    "bbox": [
+      129.42,
+      258.8,
+      190.46,
+      314.16
+    ],
+    "alt": "A23 Varning för lågt flygande flyg- plan",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A23",
+      "anchor": "a23 varning för lågt flygande flygplan",
+      "occurrence": 1
+    }
+  },
+  "g-a47abe086c36c178c206": {
+    "sfs": "2007:90",
+    "page": 10,
+    "bbox": [
+      129.42,
+      342.19,
+      190.46,
+      397.07
+    ],
+    "alt": "A24 Varning för sidvind",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A24",
+      "anchor": "a24 varning för sidvind märket anger en vägsträcka där det ofta förekommer stark sidvind.",
+      "occurrence": 1
+    }
+  },
+  "g-9624899307373270c13e": {
+    "sfs": "2007:90",
+    "page": 10,
+    "bbox": [
+      129.42,
+      425.58,
+      190.46,
+      480.94
+    ],
+    "alt": "A25 Varning för mötande trafik",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A25",
+      "anchor": "a25 varning för mötande trafik märket anger att en körbana med enkelriktad trafik övergår i en körbana med trafik i båda riktningarna.",
+      "occurrence": 1
+    }
+  },
+  "g-d828b3d6d6c11d7eb0cc": {
+    "sfs": "2007:90",
+    "page": 10,
+    "bbox": [
+      129.42,
+      508.96,
+      190.46,
+      563.84
+    ],
+    "alt": "A26 Varning för tunnel",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A26",
+      "anchor": "a26 varning för tunnel",
+      "occurrence": 1
+    }
+  },
+  "g-54edad61f3b4af2fab30": {
+    "sfs": "2007:90",
+    "page": 11,
+    "bbox": [
+      70.71,
+      97.37,
+      130.79,
+      152.25
+    ],
+    "alt": "A27 Varning för svag vägkant eller hög körbanekant",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A27",
+      "anchor": "a27 varning för svag vägkant eller hög körbanekant",
+      "occurrence": 1
+    }
+  },
+  "g-009a73ac91075d81c663": {
+    "sfs": "2007:90",
+    "page": 11,
+    "bbox": [
+      70.71,
+      180.75,
+      130.79,
+      236.11
+    ],
+    "alt": "A28 Varning för vägkorsning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A28",
+      "anchor": "a28 varning för vägkorsning märket anger en vägkorsning där bestämmelserna i 3 kap. 1 trafikförordningen (1998:1276) är tillämpliga.",
+      "occurrence": 1
+    }
+  },
+  "g-8480f77914837be2f580": {
+    "sfs": "2007:90",
+    "page": 11,
+    "bbox": [
+      70.71,
+      287.49,
+      130.79,
+      342.37
+    ],
+    "alt": "A29 Varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A29",
+      "anchor": "a29 varning för vägkorsning där trafikanter på anslutande väg har väjningsplikt eller stopplikt märket anger en vägkorsning där förare av fordon på anslutande vägar har väjningsplikt eller stopplikt.",
+      "occurrence": 1
+    }
+  },
+  "g-593b236917643757dfb7": {
+    "sfs": "2007:90",
+    "page": 13,
+    "bbox": [
+      70.71,
+      583.2,
+      130.79,
+      623.07
+    ],
+    "alt": "B1 Väjningsplikt",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:6",
+        "stycke:väjningspliktsmärken är följande och upplyser om väjningsregler."
+      ],
+      "sort": "vagmarke",
+      "code": "B1",
+      "anchor": "b1 väjningsplikt märket anger att förare har väjningsplikt mot fordon på korsande väg eller led och att bestämmelserna i 3 kap. 5 § trafikförordningen (1998:1276) är tillämpliga.",
+      "occurrence": 1
+    }
+  },
+  "g-5b5f48d8260ff5493ac9": {
+    "sfs": "2007:90",
+    "page": 14,
+    "bbox": [
+      129.42,
+      478.98,
+      198.14,
+      543.38
+    ],
+    "alt": "B5 Huvudled upphör",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:6",
+        "stycke:väjningspliktsmärken är följande och upplyser om väjningsregler."
+      ],
+      "sort": "vagmarke",
+      "code": "B5",
+      "anchor": "b5 huvudled upphör",
+      "occurrence": 1
+    }
+  },
+  "g-5fe4392f5ce3f4ba0c46": {
+    "sfs": "2007:90",
+    "page": 15,
+    "bbox": [
+      70.71,
+      97.37,
+      125.03,
+      152.73
+    ],
+    "alt": "B6 Väjningsplikt mot mötande tra- fik",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:6",
+        "stycke:väjningspliktsmärken är följande och upplyser om väjningsregler."
+      ],
+      "sort": "vagmarke",
+      "code": "B6",
+      "anchor": "b6 väjningsplikt mot mötande trafik märket anger att det är förbjudet att passera en sträcka om detta inte kan ske utan att mötande fordon hindras.",
+      "occurrence": 1
+    }
+  },
+  "g-8a803b92fb02ba0228d8": {
+    "sfs": "2007:90",
+    "page": 25,
+    "bbox": [
+      70.71,
+      421.57,
+      125.03,
+      476.93
+    ],
+    "alt": "D4 Påbjuden cykelbana",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D4",
+      "anchor": "d4 påbjuden cykelbana om moped klass ii inte får föras på banan anges det på en tilläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-22aa6673c41bc44a4897": {
+    "sfs": "2007:90",
+    "page": 25,
+    "bbox": [
+      70.71,
+      504.48,
+      125.03,
+      560.32
+    ],
+    "alt": "D5 Påbjuden gångbana",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D5",
+      "anchor": "d5 påbjuden gångbana märket anger bana avsedd endast för gående.",
+      "occurrence": 1
+    }
+  },
+  "g-a0fdc1db53836b6df7ec": {
+    "sfs": "2007:90",
+    "page": 26,
+    "bbox": [
+      129.42,
+      78.72,
+      230.78,
+      141.68
+    ],
+    "alt": "D6 Påbjuden gång- och cykelbana",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D6",
+      "anchor": "d6 påbjuden gång- och cykelbana märket anger gemensam bana för gående och cyklande.",
+      "occurrence": 1
+    }
+  },
+  "g-1eeb5da20d78c7572af3": {
+    "sfs": "2007:90",
+    "page": 26,
+    "bbox": [
+      129.42,
+      162.1,
+      230.78,
+      224.58
+    ],
+    "alt": "D7 Påbjudna gång- och cykelbanor",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D7",
+      "anchor": "d7 påbjudna gång- och cykelbanor märket anger banor som är delade genom vägmarkering, skiljeremsa eller liknande i en del för gående och en del för cyklande.",
+      "occurrence": 1
+    }
+  },
+  "g-1c60ff92a6b3adf28e99": {
+    "sfs": "2007:90",
+    "page": 26,
+    "bbox": [
+      129.42,
+      305.69,
+      184.22,
+      361.53
+    ],
+    "alt": "D8 Påbjuden ridväg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D8",
+      "anchor": "d8 påbjuden ridväg märket anger även att gångtrafik är tillåten.",
+      "occurrence": 1
+    }
+  },
+  "g-ca713c92ac42f38e59e0": {
+    "sfs": "2007:90",
+    "page": 26,
+    "bbox": [
+      129.42,
+      400.89,
+      184.22,
+      456.73
+    ],
+    "alt": "D9 Påbjuden led för terrängmotor- fordon och terrängsläp",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D9",
+      "anchor": "d9 påbjuden led för terrängmotorfordon och terrängsläp märket anger även att gångtrafik är tillåten",
+      "occurrence": 1
+    }
+  },
+  "g-5cbfbdfc836baf9d885f": {
+    "sfs": "2007:90",
+    "page": 27,
+    "bbox": [
+      70.71,
+      315.32,
+      125.03,
+      387.48
+    ],
+    "alt": "E1 Motorväg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E1",
+      "anchor": "e1 motorväg används märket som förberedande upplysning om att en motorväg börjar anges avståndet på en tilläggstavla. märket kan även vara infogat i ett lokaliseringsmärke.",
+      "occurrence": 1
+    }
+  },
+  "g-e3594577638a393aa223": {
+    "sfs": "2007:90",
+    "page": 27,
+    "bbox": [
+      70.71,
+      408.26,
+      138.47,
+      488.02
+    ],
+    "alt": "E2 Motorväg upphör",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E2",
+      "anchor": "e2 motorväg upphör används märket som förberedande upplysning om att en motorväg upphör anges avståndet på en tilläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-c6616a2d5ce8bf496292": {
+    "sfs": "2007:90",
+    "page": 27,
+    "bbox": [
+      70.71,
+      514.97,
+      125.03,
+      587.61
+    ],
+    "alt": "E3 Motortrafikled",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E3",
+      "anchor": "e3 motortrafikled används märket som förberedande upplysning om att en motortrafikled börjar anges avståndet på en tillläggstavla. märket kan även vara infogat i ett lokaliseringsmärke.",
+      "occurrence": 1
+    }
+  },
+  "g-6bd9d3beb59ede729f5e": {
+    "sfs": "2007:90",
+    "page": 28,
+    "bbox": [
+      129.42,
+      78.72,
+      215.9,
+      158.48
+    ],
+    "alt": "E4 Motortrafikled upphör",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E4",
+      "anchor": "e4 motortrafikled upphör används märket som förberedande upplysning om att en motortrafikled upphör anges avståndet på en tillläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-d42bafc510cfea4d1cd4": {
+    "sfs": "2007:90",
+    "page": 28,
+    "bbox": [
+      129.42,
+      178.78,
+      221.66,
+      236.46
+    ],
+    "alt": "E5 Tättbebyggt område",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E5",
+      "anchor": "e5 tättbebyggt område ortnamnet kan vara infogat i märket.",
+      "occurrence": 1
+    }
+  },
+  "g-e5ddfefc8a4ccc7b9988": {
+    "sfs": "2007:90",
+    "page": 28,
+    "bbox": [
+      129.42,
+      507.63,
+      204.86,
+      563.47
+    ],
+    "alt": "E9 Gångfartsområde",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E9",
+      "anchor": "e9 gångfartsområde märket anger att bestämmelserna i 8 kap. 1 § första stycket trafikförordningen är tillämpliga.",
+      "occurrence": 1
+    }
+  },
+  "g-35c30ce33912c06410f6": {
+    "sfs": "2007:90",
+    "page": 29,
+    "bbox": [
+      70.71,
+      78.72,
+      172.07,
+      141.68
+    ],
+    "alt": "E10 Gångfartsområde upphör",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E10",
+      "anchor": "e10 gångfartsområde upphör märket behöver inte vara uppsatt om det ändå tydligt framgår att gångfartsområdet upphör.",
+      "occurrence": 1
+    }
+  },
+  "g-d5f79e52a9ff1d42544b": {
+    "sfs": "2007:90",
+    "page": 29,
+    "bbox": [
+      70.71,
+      180.75,
+      129.83,
+      240.91
+    ],
+    "alt": "E11 Rekommenderad lägre hastig- het",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E11",
+      "anchor": "e11 rekommenderad lägre hastighet märket anger en vägsträcka eller ett område där särskilda åtgärder vidtagits eller där förhållandena är sådana att det är lämpligt att färdas med lägre hastighet än den högsta tillåtna.",
+      "occurrence": 1
+    }
+  },
+  "g-e255ca1f8de19cc11987": {
+    "sfs": "2007:90",
+    "page": 29,
+    "bbox": [
+      70.71,
+      275.51,
+      129.83,
+      342.79
+    ],
+    "alt": "E12 Rekommenderad lägre hastig- het upphör",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E12",
+      "anchor": "e12 rekommenderad lägre hastighet upphör märket behöver inte vara uppsatt om det ändå tydligt framgår att sträckan upphör.",
+      "occurrence": 1
+    }
+  },
+  "g-3607b492c4d62b5efe4f": {
+    "sfs": "2007:90",
+    "page": 29,
+    "bbox": [
+      70.71,
+      374.67,
+      129.35,
+      433.87
+    ],
+    "alt": "E13 Rekommenderad högsta hastig- het",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E13",
+      "anchor": "e13 rekommenderad högsta hastighet märket används endast som omställbart vägmärke och anger att förhållandena tillfälligt är sådana att det inte är lämpligt att färdas med högre hastighet än den som anges på märket. den angivna hastigheten är alltid lägre än den högsta tillåtna.",
+      "occurrence": 1
+    }
+  },
+  "g-42bfe0576d6d90558ab1": {
+    "sfs": "2007:90",
+    "page": 35,
+    "bbox": [
+      70.05,
+      280.18,
+      167.57,
+      372.9
+    ],
+    "alt": "F1 Orienteringstavla",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F1",
+      "anchor": "f1 orienteringstavla märket är en förberedande upplysning om korsning, cirkulationsplats eller motsvarande.",
+      "occurrence": 1
+    }
+  },
+  "g-8328215a2db18d78e21c": {
+    "sfs": "2007:90",
+    "page": 35,
+    "bbox": [
+      70.05,
+      414.24,
+      128.69,
+      474.4
+    ],
+    "alt": "F2 Orienteringstavla vid förbjuden sväng i korsning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F2",
+      "anchor": "f2 orienteringstavla vid förbjuden sväng i korsning märket är en förberedande upplysning om att det är förbjudet att svänga i en korsning, men att en annan körriktning kan väljas.",
+      "occurrence": 1
+    }
+  },
+  "g-bac74447bee9f9c53c79": {
+    "sfs": "2007:90",
+    "page": 35,
+    "bbox": [
+      70.05,
+      504.11,
+      153.17,
+      563.31
+    ],
+    "alt": "F3 Tabellorienteringstavla",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F3",
+      "anchor": "f3 tabellorienteringstavla märket är en förberedande upplysning om korsning, cirkulationsplats eller motsvarande.",
+      "occurrence": 1
+    }
+  },
+  "g-ff9553cf84034c2a35a7": {
+    "sfs": "2007:90",
+    "page": 36,
+    "bbox": [
+      129.42,
+      354.86,
+      256.7,
+      403.02
+    ],
+    "alt": "F8 Körfältsvägvisare",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F8",
+      "anchor": "f8 körfältsvägvisare märket anger det eller de körfält som är lämpligt att använda för färd till målet.",
+      "occurrence": 1
+    }
+  },
+  "g-46161794a68097cab38a": {
+    "sfs": "2007:90",
+    "page": 36,
+    "bbox": [
+      129.42,
+      480.28,
+      216.86,
+      532.76
+    ],
+    "alt": "F9 Samlingsmärke för vägvisning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F9",
+      "anchor": "f9 samlingsmärke för vägvisning inom klammer anges mål som nås via ett gemensamt vägval och under klammerns spets anges det gemensamma vägvalet.",
+      "occurrence": 1
+    }
+  },
+  "g-5bd2c78628abbaa48210": {
+    "sfs": "2007:90",
+    "page": 38,
+    "bbox": [
+      129.42,
+      227.48,
+      222.14,
+      352.36
+    ],
+    "alt": "F18 Körfältsindelning på sträcka",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F18",
+      "anchor": "f18 körfältsindelning på sträcka märket anger körriktning i körfält.",
+      "occurrence": 1
+    }
+  },
+  "g-b370fdcfa4b41754d882": {
+    "sfs": "2007:90",
+    "page": 38,
+    "bbox": [
+      129.42,
+      430.25,
+      174.14,
+      486.57
+    ],
+    "alt": "F19  Väganslutning med accelera- tionsfält",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F19",
+      "anchor": "f19 väganslutning med accelerationsfält märket är anpassat efter förhållandena på platsen.",
+      "occurrence": 1
+    }
+  },
+  "g-6ae45962e11b93c69a12": {
+    "sfs": "2007:90",
+    "page": 38,
+    "bbox": [
+      129.42,
+      525.93,
+      189.02,
+      581.77
+    ],
+    "alt": "F20 Väganslutning med separat kör- fält",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F20",
+      "anchor": "f20 väganslutning med separat körfält märket är anpassat efter förhållandena på platsen.",
+      "occurrence": 1
+    }
+  },
+  "g-c361b6e76bf463205dea": {
+    "sfs": "2007:90",
+    "page": 39,
+    "bbox": [
+      70.71,
+      366.39,
+      126.47,
+      389.11
+    ],
+    "alt": "F24 Färdriktning vid omledning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F24",
+      "anchor": "f24 färdriktning vid omledning märket anger färdriktning vid tillfällig omledning av trafik.",
+      "occurrence": 1
+    }
+  },
+  "g-b62786a5f6a3f0e256c1": {
+    "sfs": "2007:90",
+    "page": 39,
+    "bbox": [
+      70.71,
+      415.57,
+      131.27,
+      483.89
+    ],
+    "alt": "F25 Körfält upphör",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F25",
+      "anchor": "f25 körfält upphör märket anger att ett körfält tillfälligt är avstängt och att ett annat körfält kan användas i färdriktningen. märket är anpassat efter förhållandena på platsen.",
+      "occurrence": 1
+    }
+  },
+  "g-57750a08c10a316a9a6c": {
+    "sfs": "2007:90",
+    "page": 39,
+    "bbox": [
+      70.71,
+      511.15,
+      130.79,
+      580.91
+    ],
+    "alt": "F26 Körfält avstängt",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F26",
+      "anchor": "f26 körfält avstängt märket anger att ett körfält tillfälligt är avstängt och att inget annat körfält i färdriktningen kan användas.",
+      "occurrence": 1
+    }
+  },
+  "g-20249fb813133e32433a": {
+    "sfs": "2007:90",
+    "page": 42,
+    "bbox": [
+      129.42,
+      336.19,
+      165.5,
+      372.35
+    ],
+    "alt": "G1 Post",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:22",
+        "stycke:lokaliseringsmärken för upplysning om allmänna inrättningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "G1",
+      "anchor": "g1 post märket anger postombud där brev- och pakethantering samt frimärksförsäljning erbjuds.",
+      "occurrence": 1
+    }
+  },
+  "g-a478080e74c3b9ce3168": {
+    "sfs": "2007:90",
+    "page": 42,
+    "bbox": [
+      129.42,
+      393.59,
+      165.02,
+      444.55
+    ],
+    "alt": "G2 Hjälptelefon",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:22",
+        "stycke:lokaliseringsmärken för upplysning om allmänna inrättningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "G2",
+      "anchor": "g2 hjälptelefon g3 radiostation för vägtrafikinformation",
+      "occurrence": 1
+    }
+  },
+  "g-381f492abd0345556225": {
+    "sfs": "2007:90",
+    "page": 42,
+    "bbox": [
+      129.42,
+      559.18,
+      165.5,
+      595.82
+    ],
+    "alt": "G4 Akutsjukhus",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:22",
+        "stycke:lokaliseringsmärken för upplysning om allmänna inrättningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "G4",
+      "anchor": "g4 akutsjukhus märket anger ett sjukhus med akutmottagning.",
+      "occurrence": 1
+    }
+  },
+  "g-9298f1ef1a17d1302da0": {
+    "sfs": "2007:90",
+    "page": 43,
+    "bbox": [
+      70.71,
+      86.32,
+      106.31,
+      122.0
+    ],
+    "alt": "G5 Industriområde",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:22",
+        "stycke:lokaliseringsmärken för upplysning om allmänna inrättningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "G5",
+      "anchor": "g5 industriområde märket anger ett område för industri eller annan liknande verksamhet.",
+      "occurrence": 1
+    }
+  },
+  "g-1bf3ff7e07d0d4904fcc": {
+    "sfs": "2007:90",
+    "page": 43,
+    "bbox": [
+      70.71,
+      534.98,
+      106.31,
+      571.14
+    ],
+    "alt": "H1 Informationsplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H1",
+      "anchor": "h1 informationsplats märket anger en plats där det går att få information.",
+      "occurrence": 1
+    }
+  },
+  "g-c4e104ca428d6528f419": {
+    "sfs": "2007:90",
+    "page": 44,
+    "bbox": [
+      129.42,
+      86.32,
+      165.5,
+      122.48
+    ],
+    "alt": "H2 Fordonsverkstad",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H2",
+      "anchor": "h2 fordonsverkstad",
+      "occurrence": 1
+    }
+  },
+  "g-15888600521763d083c2": {
+    "sfs": "2007:90",
+    "page": 44,
+    "bbox": [
+      129.42,
+      342.19,
+      165.5,
+      378.35
+    ],
+    "alt": "H6 Restaurang",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H6",
+      "anchor": "h6 restaurang",
+      "occurrence": 1
+    }
+  },
+  "g-5f1857ac06f7541a4def": {
+    "sfs": "2007:90",
+    "page": 44,
+    "bbox": [
+      129.42,
+      406.23,
+      165.5,
+      442.39
+    ],
+    "alt": "H7 Hotell",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H7",
+      "anchor": "h7 hotell",
+      "occurrence": 1
+    }
+  },
+  "g-6978c3fb35bacadaf753": {
+    "sfs": "2007:90",
+    "page": 44,
+    "bbox": [
+      129.42,
+      470.75,
+      165.5,
+      506.91
+    ],
+    "alt": "H8 Vandrarhem",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H8",
+      "anchor": "h8 vandrarhem",
+      "occurrence": 1
+    }
+  },
+  "g-61af4d77fcdfe1050ecc": {
+    "sfs": "2007:90",
+    "page": 44,
+    "bbox": [
+      129.42,
+      534.31,
+      165.5,
+      570.95
+    ],
+    "alt": "H9 Stugby",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H9",
+      "anchor": "h9 stugby märket anger en anläggning med ett större antal stugor.",
+      "occurrence": 1
+    }
+  },
+  "g-e6e77cb80768f4eb4da1": {
+    "sfs": "2007:90",
+    "page": 45,
+    "bbox": [
+      70.71,
+      534.31,
+      106.31,
+      570.47
+    ],
+    "alt": "H17 Vandringsled",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H17",
+      "anchor": "h17 vandringsled",
+      "occurrence": 1
+    }
+  },
+  "g-30c6794f063e21b5f40f": {
+    "sfs": "2007:90",
+    "page": 46,
+    "bbox": [
+      129.42,
+      86.32,
+      165.5,
+      122.48
+    ],
+    "alt": "H18 Stollift",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H18",
+      "anchor": "h18 stollift märket anger en liftanläggning med stolar eller liknande.",
+      "occurrence": 1
+    }
+  },
+  "g-6c0b7f98767e4e1254e8": {
+    "sfs": "2007:90",
+    "page": 46,
+    "bbox": [
+      129.42,
+      142.76,
+      165.5,
+      186.04
+    ],
+    "alt": "H19 Släplift",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H19",
+      "anchor": "h19 släplift märket anger en liftanläggning där skidåkare dras fram.",
+      "occurrence": 1
+    }
+  },
+  "g-e255a04f569613248302": {
+    "sfs": "2007:90",
+    "page": 46,
+    "bbox": [
+      129.42,
+      214.4,
+      165.5,
+      250.56
+    ],
+    "alt": "H20 Golfbana",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H20",
+      "anchor": "h20 golfbana",
+      "occurrence": 1
+    }
+  },
+  "g-fc1f953b5fd707753b37": {
+    "sfs": "2007:90",
+    "page": 46,
+    "bbox": [
+      129.42,
+      278.15,
+      165.5,
+      314.31
+    ],
+    "alt": "H21 Försäljningsställe för fiskekort",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H21",
+      "anchor": "h21 försäljningsställe för fiskekort",
+      "occurrence": 1
+    }
+  },
+  "g-9382da2e8ea45471008b": {
+    "sfs": "2007:90",
+    "page": 48,
+    "bbox": [
+      129.42,
+      350.19,
+      169.82,
+      376.75
+    ],
+    "alt": "S1 Tung lastbil",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S1",
+      "anchor": "s1 tung lastbil",
+      "occurrence": 1
+    }
+  },
+  "g-6d37213ca66101ca5bc8": {
+    "sfs": "2007:90",
+    "page": 48,
+    "bbox": [
+      129.42,
+      419.57,
+      169.82,
+      446.13
+    ],
+    "alt": "S2  Tung lastbil med tillkopplad släpvagn",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S2",
+      "anchor": "s2 tung lastbil med tillkopplad släpvagn",
+      "occurrence": 1
+    }
+  },
+  "g-624cd338066dcda805cc": {
+    "sfs": "2007:90",
+    "page": 48,
+    "bbox": [
+      129.42,
+      477.42,
+      169.82,
+      503.98
+    ],
+    "alt": "S3 Personbil",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S3",
+      "anchor": "s3 personbil",
+      "occurrence": 1
+    }
+  },
+  "g-a9264e9e78c9366ebc3c": {
+    "sfs": "2007:90",
+    "page": 48,
+    "bbox": [
+      129.42,
+      546.99,
+      169.82,
+      573.55
+    ],
+    "alt": "S4 Personbil med tillkopplad släp- kärra",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S4",
+      "anchor": "s4 personbil med tillkopplad släpkärra",
+      "occurrence": 1
+    }
+  },
+  "g-2fe3f836391b052f8b3e": {
+    "sfs": "2007:90",
+    "page": 49,
+    "bbox": [
+      70.71,
+      321.54,
+      110.63,
+      355.22
+    ],
+    "alt": "S9 Släpkärra",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S9",
+      "anchor": "s9 släpkärra",
+      "occurrence": 1
+    }
+  },
+  "g-37a49b38282f9e43537a": {
+    "sfs": "2007:90",
+    "page": 49,
+    "bbox": [
+      70.71,
+      386.22,
+      110.63,
+      421.42
+    ],
+    "alt": "S10 Gående",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S10",
+      "anchor": "s10 gående",
+      "occurrence": 1
+    }
+  },
+  "g-287b9011a58b7600786b": {
+    "sfs": "2007:90",
+    "page": 60,
+    "bbox": [
+      129.42,
+      334.88,
+      249.98,
+      453.04
+    ],
+    "alt": "M1 Mittlinje eller körfältslinje",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:4",
+        "stycke:brutna linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M1",
+      "anchor": "m1 mittlinje eller körfältslinje mittlinje anger gränsen mellan körfält avsedda för färd i motsatta färdriktningar.",
+      "occurrence": 1
+    }
+  },
+  "g-b9d88b5ab81f9d68c660": {
+    "sfs": "2007:90",
+    "page": 61,
+    "bbox": [
+      70.71,
+      301.79,
+      191.27,
+      341.31
+    ],
+    "alt": "M5 Cykelfältslinje",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:4",
+        "stycke:brutna linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M5",
+      "anchor": "m5 cykelfältslinje markeringen anger gränsen mellan ett cykelfält och ett annat körfält.",
+      "occurrence": 1
+    }
+  },
+  "g-3990f70f81a1e161fc86": {
+    "sfs": "2007:90",
+    "page": 61,
+    "bbox": [
+      70.71,
+      383.84,
+      191.27,
+      423.36
+    ],
+    "alt": "M6  Linje för fordon i linjetrafik m.fl.",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:4",
+        "stycke:brutna linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M6",
+      "anchor": "m6 linje för fordon i linjetrafik m.fl. markeringen anger gränsen mellan körfält för fordon i linjetrafik m.fl. och ett annat körfält.",
+      "occurrence": 1
+    }
+  },
+  "g-a45ca0db31ec2e5346e3": {
+    "sfs": "2007:90",
+    "page": 61,
+    "bbox": [
+      70.71,
+      454.07,
+      191.27,
+      493.59
+    ],
+    "alt": "M7 Reversibelt körfält",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:4",
+        "stycke:brutna linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M7",
+      "anchor": "m7 reversibelt körfält markeringen avgränsar körfält som upplåts för trafik omväxlande i den ena och i den andra färdriktningen.",
+      "occurrence": 1
+    }
+  },
+  "g-d3c25cf7b1e897bec545": {
+    "sfs": "2007:90",
+    "page": 63,
+    "bbox": [
+      70.71,
+      308.87,
+      139.43,
+      355.99
+    ],
+    "alt": "M14 Väjningslinje",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:8",
+        "stycke:tvärgående markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M14",
+      "anchor": "m14 väjningslinje markeringen anger den linje som fordon inte bör passera när föraren iakttar väjningsplikt.",
+      "occurrence": 1
+    }
+  },
+  "g-85ee6c10f4829d74c856": {
+    "sfs": "2007:90",
+    "page": 65,
+    "bbox": [
+      70.71,
+      504.96,
+      131.27,
+      575.2
+    ],
+    "alt": "M26 Cykel",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M26",
+      "anchor": "m26 cykel markeringen visar bana eller lämplig färdväg för cyklande och förare av moped klass ii.",
+      "occurrence": 1
+    }
+  },
+  "g-2f25e180f3f6f3f53eb9": {
+    "sfs": "2007:90",
+    "page": 66,
+    "bbox": [
+      129.42,
+      86.32,
+      190.46,
+      156.56
+    ],
+    "alt": "M27 Gående",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M27",
+      "anchor": "m27 gående markeringen visar bana eller lämplig färdväg för gående.",
+      "occurrence": 1
+    }
+  },
+  "g-74f92d375a350b40258a": {
+    "sfs": "2007:90",
+    "page": 66,
+    "bbox": [
+      129.42,
+      188.57,
+      190.46,
+      258.81
+    ],
+    "alt": "M28 Buss",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M28",
+      "anchor": "m28 buss markeringen visar att körfältet är avsett för fordon i linjetrafik m.fl.",
+      "occurrence": 1
+    }
+  },
+  "g-c4e1da61ec2a02d53d8a": {
+    "sfs": "2007:90",
+    "page": 67,
+    "bbox": [
+      70.71,
+      78.72,
+      131.27,
+      156.56
+    ],
+    "alt": "M32 Stopp",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M32",
+      "anchor": "m32 stopp markeringen upplyser om stopplikt.",
+      "occurrence": 1
+    }
+  },
+  "g-6ddebee0ba64b0c0d7ad": {
+    "sfs": "2007:90",
+    "page": 67,
+    "bbox": [
+      70.71,
+      189.24,
+      131.27,
+      259.48
+    ],
+    "alt": "M33 Rörelsehindrad",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M33",
+      "anchor": "m33 rörelsehindrad markeringen upplyser om uppställningsplats endast för rörelsehindrade.",
+      "occurrence": 1
+    }
+  },
+  "g-2f5223966cfbe0fa2700": {
+    "sfs": "2007:90",
+    "page": 67,
+    "bbox": [
+      70.71,
+      291.49,
+      131.27,
+      362.21
+    ],
+    "alt": "M34 Information",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M34",
+      "anchor": "m34 information markeringen ger upplysning, varning eller vägledning av vikt för trafikanten.",
+      "occurrence": 1
+    }
+  },
+  "g-0632ad908c96044079cd": {
+    "sfs": "2007:90",
+    "page": 70,
+    "bbox": [
+      129.42,
+      406.9,
+      178.46,
+      482.42
+    ],
+    "alt": "P1 Stopp",
+    "identity": {
+      "path": [
+        "kapitel:7",
+        "paragraf:2",
+        "stycke:tecken av polisman m.fl. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "P1",
+      "anchor": "p1 stopp tecknet anger stopp för den trafikant som kommer framifrån eller bakifrån. tecknet används i vägkorsning och gäller så länge polismannen vänder sig åt samma håll. för trafikanter som kommer från sidan betyder tecknet att vägen är fri och att det är tillåtet att köra. tecknet får ges i kombination med tecken p2, stopp. tecknet kan ges med en stoppspade.",
+      "occurrence": 1
+    }
+  },
+  "g-06318f0a68f56e316d1c": {
+    "sfs": "2007:90",
+    "page": 70,
+    "bbox": [
+      129.82,
+      537.01,
+      164.54,
+      620.13
+    ],
+    "alt": "P2 Stopp",
+    "identity": {
+      "path": [
+        "kapitel:7",
+        "paragraf:2",
+        "stycke:tecken av polisman m.fl. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "P2",
+      "anchor": "p2 stopp tecknet anger stopp för den trafikant som handflatan är vänd mot. tecknet kan ges med en stoppspade.",
+      "occurrence": 1
+    }
+  },
+  "g-5ce915fea1b34e6992fb": {
+    "sfs": "2007:90",
+    "page": 71,
+    "bbox": [
+      70.71,
+      78.72,
+      105.83,
+      160.88
+    ],
+    "alt": "P3 Stopp",
+    "identity": {
+      "path": [
+        "kapitel:7",
+        "paragraf:2",
+        "stycke:tecken av polisman m.fl. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "P3",
+      "anchor": "p3 stopp tecknet anger stopp för den trafikant som lyktan är vänd mot. tecknet används under mörker och vid nedsatt sikt. lyktan hålls i den position där den lättast uppfattas av trafikanter.",
+      "occurrence": 1
+    }
+  },
+  "g-267ed17f9d9bd32d80b8": {
+    "sfs": "2017:923",
+    "page": 5,
+    "bbox": [
+      51.41,
+      345.39,
+      105.73,
+      396.43
+    ],
+    "alt": "A30 Varning för cirkulationsplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A30",
+      "anchor": "a30 varning för cirkulationsplats",
+      "occurrence": 1
+    }
+  },
+  "g-bb38738755fea4aec402": {
+    "sfs": "2017:923",
+    "page": 5,
+    "bbox": [
+      51.41,
+      438.38,
+      105.73,
+      489.42
+    ],
+    "alt": "A31 Varning för långsamtgående fordon",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A31",
+      "anchor": "a31 varning för långsamtgående fordon märket anger en plats där långsamtgående fordon ofta korsar eller kör in på vägen.",
+      "occurrence": 1
+    }
+  },
+  "g-6ac5cfe2ae94a3d610ee": {
+    "sfs": "2017:923",
+    "page": 5,
+    "bbox": [
+      51.41,
+      533.18,
+      105.73,
+      584.22
+    ],
+    "alt": "A32 Varning för fordon med förspänt dragdjur",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A32",
+      "anchor": "a32 varning för fordon med förspänt dragdjur märket anger en vägsträcka där fordon förspända med dragdjur ofta korsar eller uppehåller sig på vägen.",
+      "occurrence": 1
+    }
+  },
+  "g-a606617cd0cc66eff3c1": {
+    "sfs": "2017:923",
+    "page": 6,
+    "bbox": [
+      120.84,
+      73.0,
+      176.12,
+      124.04
+    ],
+    "alt": "A33 Varning för terrängskotertrafik",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A33",
+      "anchor": "a33 varning för terrängskotertrafik märket anger en plats där terrängskotrar ofta korsar eller kör in på vägen.",
+      "occurrence": 1
+    }
+  },
+  "g-53685e21d7f9caa9db95": {
+    "sfs": "2017:923",
+    "page": 6,
+    "bbox": [
+      120.84,
+      150.21,
+      176.12,
+      205.97
+    ],
+    "alt": "A34 Varning för kö",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A34",
+      "anchor": "a34 varning för kö märket anger en vägsträcka där det finns risk för köbildning.",
+      "occurrence": 1
+    }
+  },
+  "g-1dc06a17ef6fbb413a30": {
+    "sfs": "2017:923",
+    "page": 6,
+    "bbox": [
+      120.84,
+      247.92,
+      176.12,
+      298.96
+    ],
+    "alt": "A35 Varning för järnvägskorsning med bommar",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A35",
+      "anchor": "a35 varning för järnvägskorsning med bommar märket anger en korsning med järnväg eller spårväg där det finns bommar.",
+      "occurrence": 1
+    }
+  },
+  "g-fa43ceb34adbdb442d16": {
+    "sfs": "2017:923",
+    "page": 6,
+    "bbox": [
+      120.84,
+      340.05,
+      176.12,
+      391.09
+    ],
+    "alt": "A36 Varning för järnvägskorsning utan bommar",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A36",
+      "anchor": "a36 varning för järnvägskorsning utan bommar",
+      "occurrence": 1
+    }
+  },
+  "g-16b915dcb43b4f3db492": {
+    "sfs": "2017:923",
+    "page": 6,
+    "bbox": [
+      120.84,
+      434.37,
+      176.12,
+      485.41
+    ],
+    "alt": "A37 Varning för korsning med spår- väg utan bommar",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A37",
+      "anchor": "a37 varning för korsning med spårväg utan bommar",
+      "occurrence": 1
+    }
+  },
+  "g-a3677523268c0458d1d8": {
+    "sfs": "2017:923",
+    "page": 7,
+    "bbox": [
+      51.41,
+      73.0,
+      122.05,
+      142.76
+    ],
+    "alt": "A38 Avstånd till plankorsning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A38",
+      "anchor": "a38 avstånd till plankorsning märkena anger avståndet till en plankorsning i tredjedelar.",
+      "occurrence": 1
+    }
+  },
+  "g-f8f465b422184f45d6a5": {
+    "sfs": "2017:923",
+    "page": 7,
+    "bbox": [
+      51.41,
+      249.07,
+      171.01,
+      370.19
+    ],
+    "alt": "A39 Kryssmärke",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A39",
+      "anchor": "a39 kryssmärke märket anger en korsning med järnväg eller spårväg med ett eller flera spår.",
+      "occurrence": 1
+    }
+  },
+  "g-1c203ffe2eeb499b7464": {
+    "sfs": "2017:923",
+    "page": 7,
+    "bbox": [
+      51.41,
+      401.95,
+      105.73,
+      452.51
+    ],
+    "alt": "A40 Varning för annan fara",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A40",
+      "anchor": "a40 varning för annan fara märket anger en annan fara än sådan som kan anges med något annat varningsmärke.",
+      "occurrence": 1
+    }
+  },
+  "g-3a26f7b7aaeb55f49f53": {
+    "sfs": "2017:923",
+    "page": 7,
+    "bbox": [
+      51.41,
+      484.92,
+      105.73,
+      535.48
+    ],
+    "alt": "A41 Varning för olycka",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:5",
+        "stycke:varningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "A41",
+      "anchor": "a41 varning för olycka",
+      "occurrence": 1
+    }
+  },
+  "g-3eb943d4abaa6e1c140a": {
+    "sfs": "2017:923",
+    "page": 8,
+    "bbox": [
+      120.84,
+      262.61,
+      174.68,
+      317.97
+    ],
+    "alt": "C1 Förbud mot infart med fordon",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C1",
+      "anchor": "c1 förbud mot infart med fordon",
+      "occurrence": 1
+    }
+  },
+  "g-1437b4edd6a2afb03d66": {
+    "sfs": "2017:923",
+    "page": 8,
+    "bbox": [
+      120.84,
+      344.54,
+      174.68,
+      399.9
+    ],
+    "alt": "C2 Förbud mot trafik med fordon",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C2",
+      "anchor": "c2 förbud mot trafik med fordon märket avser trafik med fordon i båda riktningarna.",
+      "occurrence": 1
+    }
+  },
+  "g-3274df7169aea2bae6ba": {
+    "sfs": "2017:923",
+    "page": 8,
+    "bbox": [
+      120.84,
+      437.52,
+      174.68,
+      492.88
+    ],
+    "alt": "C3 Förbud mot trafik med annat motordrivet fordon än moped klass II",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C3",
+      "anchor": "c3 förbud mot trafik med annat motordrivet fordon än moped klass ii avser förbudet även moped klass ii anges detta på en tilläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-fc0d3f1b2d799d9d4d93": {
+    "sfs": "2017:923",
+    "page": 8,
+    "bbox": [
+      120.84,
+      530.51,
+      174.68,
+      585.87
+    ],
+    "alt": "C4 Förbud mot trafik med motor- drivet fordon med fler än två hjul",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C4",
+      "anchor": "c4 förbud mot trafik med motordrivet fordon med fler än två hjul",
+      "occurrence": 1
+    }
+  },
+  "g-3562bb0a14bd8d0c5d8b": {
+    "sfs": "2017:923",
+    "page": 9,
+    "bbox": [
+      51.41,
+      80.11,
+      106.69,
+      140.19
+    ],
+    "alt": "C5 Förbud mot trafik med motor- cykel och moped klass I",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C5",
+      "anchor": "c5 förbud mot trafik med motorcykel och moped klass i",
+      "occurrence": 1
+    }
+  },
+  "g-0e28f299ca2803b65546": {
+    "sfs": "2017:923",
+    "page": 9,
+    "bbox": [
+      51.41,
+      189.65,
+      104.29,
+      244.53
+    ],
+    "alt": "C6 Förbud mot trafik med motor- drivet fordon med tillkopplad släp- vagn",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C6",
+      "anchor": "c6 förbud mot trafik med motordrivet fordon med tillkopplad släpvagn märket anger förbud mot trafik med motordrivet fordon med tillkopplad släpvagn av annat slag än påhängsvagn eller släpkärra.",
+      "occurrence": 1
+    }
+  },
+  "g-33f7053662722b56ff22": {
+    "sfs": "2017:923",
+    "page": 9,
+    "bbox": [
+      51.41,
+      330.23,
+      104.29,
+      385.59
+    ],
+    "alt": "C7 Förbud mot trafik med tung last- bil",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C7",
+      "anchor": "c7 förbud mot trafik med tung lastbil avser förbudet även trafik med lätt lastbil anges det på en tilläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-d5a428dc16baddd75475": {
+    "sfs": "2017:923",
+    "page": 9,
+    "bbox": [
+      51.41,
+      423.5,
+      104.77,
+      478.86
+    ],
+    "alt": "C8 Förbud mot trafik med traktor a och motorredskap klass II",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C8",
+      "anchor": "c8 förbud mot trafik med traktor a och motorredskap klass ii avser förbudet även trafik med traktor b eller motorredskap klass i anges det på en tilläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-a19a98e83076b05352b4": {
+    "sfs": "2017:923",
+    "page": 10,
+    "bbox": [
+      120.84,
+      80.11,
+      192.92,
+      140.19
+    ],
+    "alt": "C9 Förbud mot trafik med fordon lastat med farligt gods",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C9",
+      "anchor": "c9 förbud mot trafik med fordon lastat med farligt gods märket anger förbud mot trafik med fordon med sådan last som omfattas av krav på märkning med orangefärgad skylt enligt föreskrifter som har meddelats med stöd av lagen (2006:263) om transport av farligt gods.",
+      "occurrence": 1
+    }
+  },
+  "g-221cf939ad9ffff681f2": {
+    "sfs": "2017:923",
+    "page": 10,
+    "bbox": [
+      120.84,
+      209.63,
+      175.64,
+      269.71
+    ],
+    "alt": "C10 Förbud mot trafik med cykel och moped klass II",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C10",
+      "anchor": "c10 förbud mot trafik med cykel och moped klass ii avser förbudet även trafik med moped klass i anges det på en tilläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-b4ab7b9dda9971b29e20": {
+    "sfs": "2017:923",
+    "page": 10,
+    "bbox": [
+      120.84,
+      307.34,
+      174.68,
+      362.7
+    ],
+    "alt": "C11 Förbud mot trafik med moped klass II",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C11",
+      "anchor": "c11 förbud mot trafik med moped klass ii avser förbudet även trafik med moped klass i anges det på en tilläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-88f904d944f5c0d87165": {
+    "sfs": "2017:923",
+    "page": 10,
+    "bbox": [
+      120.84,
+      400.32,
+      174.68,
+      455.68
+    ],
+    "alt": "C12 Förbud mot trafik med fordon förspänt med dragdjur",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C12",
+      "anchor": "c12 förbud mot trafik med fordon förspänt med dragdjur",
+      "occurrence": 1
+    }
+  },
+  "g-c10841cfde3459ffc811": {
+    "sfs": "2017:923",
+    "page": 10,
+    "bbox": [
+      120.84,
+      493.6,
+      174.68,
+      548.96
+    ],
+    "alt": "C13 Förbud mot trafik med terräng- motorfordon och terrängsläp",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C13",
+      "anchor": "c13 förbud mot trafik med terrängmotorfordon och terrängsläp gäller förbudet inte terrängvagn anges det på en tilläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-2ebacc7c058dc7262fa7": {
+    "sfs": "2017:923",
+    "page": 11,
+    "bbox": [
+      51.41,
+      73.0,
+      104.29,
+      128.36
+    ],
+    "alt": "C14 Förbud mot ridning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C14",
+      "anchor": "c14 förbud mot ridning avser förbudet även ledande av riddjur anges det på en tilläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-1f3c80e93c673101b5ac": {
+    "sfs": "2017:923",
+    "page": 11,
+    "bbox": [
+      51.41,
+      150.21,
+      134.53,
+      210.29
+    ],
+    "alt": "C15 Förbud mot gångtrafik",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C15",
+      "anchor": "c15 förbud mot gångtrafik",
+      "occurrence": 1
+    }
+  },
+  "g-74d5e385db8a15b1424b": {
+    "sfs": "2017:923",
+    "page": 11,
+    "bbox": [
+      51.41,
+      236.38,
+      104.29,
+      291.74
+    ],
+    "alt": "C16 Begränsad fordonsbredd",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C16",
+      "anchor": "c16 begränsad fordonsbredd märket anger förbud mot trafik med fordon över en viss bredd.",
+      "occurrence": 1
+    }
+  },
+  "g-fa60abf7e7e2d1db28d5": {
+    "sfs": "2017:923",
+    "page": 11,
+    "bbox": [
+      51.41,
+      317.83,
+      104.29,
+      372.71
+    ],
+    "alt": "C17 Begränsad fordonshöjd",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C17",
+      "anchor": "c17 begränsad fordonshöjd märket anger förbud mot trafik med fordon över en viss höjd om den fria höjden är lägre än 4,5 meter.",
+      "occurrence": 1
+    }
+  },
+  "g-8599d9339093ee541a1b": {
+    "sfs": "2017:923",
+    "page": 11,
+    "bbox": [
+      51.41,
+      398.99,
+      104.29,
+      454.35
+    ],
+    "alt": "C18 Begränsad fordonslängd",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C18",
+      "anchor": "c18 begränsad fordonslängd märket anger förbud mot trafik med fordon eller fordonståg över en viss längd.",
+      "occurrence": 1
+    }
+  },
+  "g-ce42473f42fab6031df7": {
+    "sfs": "2017:923",
+    "page": 11,
+    "bbox": [
+      51.41,
+      479.77,
+      104.29,
+      535.13
+    ],
+    "alt": "C19 Minsta avstånd",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C19",
+      "anchor": "c19 minsta avstånd märket anger förbud mot att hålla kortare avstånd till framförvarande motordrivna fordon i samma färdriktning än som anges på märket.",
+      "occurrence": 1
+    }
+  },
+  "g-25d0c29011d2c269aaa8": {
+    "sfs": "2017:923",
+    "page": 11,
+    "bbox": [
+      51.41,
+      562.56,
+      104.29,
+      611.2
+    ],
+    "alt": "C20 Begränsad bruttovikt på fordon",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C20",
+      "anchor": "c20 begränsad bruttovikt på fordon högsta tillåtna bruttovikt anges på märket.",
+      "occurrence": 1
+    }
+  },
+  "g-4fd91ee9376f1ad5efc5": {
+    "sfs": "2017:923",
+    "page": 12,
+    "bbox": [
+      120.84,
+      80.11,
+      178.04,
+      140.19
+    ],
+    "alt": "C21 Begränsad bruttovikt på fordon och fordonståg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C21",
+      "anchor": "c21 begränsad bruttovikt på fordon och fordonståg högsta tillåtna bruttovikt anges på märket.",
+      "occurrence": 1
+    }
+  },
+  "g-388d0c7319a2e4e8a536": {
+    "sfs": "2017:923",
+    "page": 12,
+    "bbox": [
+      120.84,
+      161.56,
+      174.68,
+      221.64
+    ],
+    "alt": "C22 Bärighetsklass",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C22",
+      "anchor": "c22 bärighetsklass vägens bärighetsklass anges på märket.",
+      "occurrence": 1
+    }
+  },
+  "g-4dcca9473a8597026553": {
+    "sfs": "2017:923",
+    "page": 12,
+    "bbox": [
+      120.84,
+      247.92,
+      174.2,
+      302.8
+    ],
+    "alt": "C23 Begränsat axeltryck",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C23",
+      "anchor": "c23 begränsat axeltryck högsta tillåtna axeltryck anges på märket.",
+      "occurrence": 1
+    }
+  },
+  "g-b4aa4f9d907998a0496f": {
+    "sfs": "2017:923",
+    "page": 12,
+    "bbox": [
+      120.84,
+      329.37,
+      174.2,
+      384.25
+    ],
+    "alt": "C24 Begränsat boggitryck",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C24",
+      "anchor": "c24 begränsat boggitryck högsta tillåtna boggitryck anges på märket.",
+      "occurrence": 1
+    }
+  },
+  "g-327c21dd5e063257d4cc": {
+    "sfs": "2017:923",
+    "page": 12,
+    "bbox": [
+      120.84,
+      410.82,
+      174.2,
+      465.7
+    ],
+    "alt": "C25 Förbud mot sväng i korsning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C25",
+      "anchor": "c25 förbud mot sväng i korsning förbudet gäller den korsning eller motsvarande som märket är placerat i eller före.",
+      "occurrence": 1
+    }
+  },
+  "g-9a1097ef3cd6de140508": {
+    "sfs": "2017:923",
+    "page": 12,
+    "bbox": [
+      120.84,
+      516.97,
+      174.2,
+      571.85
+    ],
+    "alt": "C26 Förbud mot U-sväng",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C26",
+      "anchor": "c26 förbud mot u-sväng förbudet gäller den korsning eller motsvarande som märket är placerat i eller före.",
+      "occurrence": 1
+    }
+  },
+  "g-f62de5d61b1b6d59dbe2": {
+    "sfs": "2017:923",
+    "page": 13,
+    "bbox": [
+      51.41,
+      73.0,
+      104.29,
+      128.36
+    ],
+    "alt": "C27 Förbud mot omkörning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C27",
+      "anchor": "c27 förbud mot omkörning märket anger förbud mot att köra om andra motordrivna fordon än tvåhjuliga mopeder och tvåhjuliga motorcyklar utan sidvagn.",
+      "occurrence": 1
+    }
+  },
+  "g-2c3f71e6b7a7719293a1": {
+    "sfs": "2017:923",
+    "page": 13,
+    "bbox": [
+      51.41,
+      179.64,
+      104.29,
+      234.52
+    ],
+    "alt": "C28 Slut på förbud mot omkörning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C28",
+      "anchor": "c28 slut på förbud mot omkörning",
+      "occurrence": 1
+    }
+  },
+  "g-6391e19aa6bc5765b39b": {
+    "sfs": "2017:923",
+    "page": 13,
+    "bbox": [
+      51.41,
+      272.62,
+      103.81,
+      327.5
+    ],
+    "alt": "C29 Förbud mot omkörning med tung lastbil",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C29",
+      "anchor": "c29 förbud mot omkörning med tung lastbil märket anger förbud mot att med en tung lastbil köra om andra motordrivna fordon än tvåhjuliga mopeder och tvåhjuliga motorcyklar utan sidvagn.",
+      "occurrence": 1
+    }
+  },
+  "g-9c1e322e45ce0b647aa2": {
+    "sfs": "2017:923",
+    "page": 13,
+    "bbox": [
+      51.41,
+      390.6,
+      103.81,
+      445.48
+    ],
+    "alt": "C30 Slut på förbud mot omkörning med tung lastbil",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C30",
+      "anchor": "c30 slut på förbud mot omkörning med tung lastbil",
+      "occurrence": 1
+    }
+  },
+  "g-1dd7a1e4a61f8d55cf06": {
+    "sfs": "2017:923",
+    "page": 13,
+    "bbox": [
+      51.41,
+      471.76,
+      104.29,
+      526.64
+    ],
+    "alt": "C31 Hastighetsbegränsning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C31",
+      "anchor": "c31 hastighetsbegränsning märket anger förbud mot att föra fordon med högre hastighet än den som anges på märket.",
+      "occurrence": 1
+    }
+  },
+  "g-4364720d2d48b0195361": {
+    "sfs": "2017:923",
+    "page": 14,
+    "bbox": [
+      120.84,
+      80.11,
+      174.68,
+      140.19
+    ],
+    "alt": "C32 Tillfällig hastighetsbegränsning upphör",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C32",
+      "anchor": "c32 tillfällig hastighetsbegränsning upphör märket anger att en tillfällig hastighet som märkts ut med märke c31, hastighetsbegränsning, upphör.",
+      "occurrence": 1
+    }
+  },
+  "g-be75c24dd158be93640d": {
+    "sfs": "2017:923",
+    "page": 14,
+    "bbox": [
+      120.84,
+      162.23,
+      174.68,
+      222.31
+    ],
+    "alt": "C33 Stopp vid tull",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C33",
+      "anchor": "c33 stopp vid tull märket anger skyldighet att stanna för tullformaliteter.",
+      "occurrence": 1
+    }
+  },
+  "g-d2e7f1ae39bd0346a8c4": {
+    "sfs": "2017:923",
+    "page": 14,
+    "bbox": [
+      120.84,
+      260.61,
+      174.2,
+      315.49
+    ],
+    "alt": "C34 Stopp av angiven anledning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C34",
+      "anchor": "c34 stopp av angiven anledning märket anger skyldighet att stanna av den anledning som anges under det vågräta strecket.",
+      "occurrence": 1
+    }
+  },
+  "g-704a7ed23ff75ad0b12f": {
+    "sfs": "2017:923",
+    "page": 15,
+    "bbox": [
+      51.41,
+      73.0,
+      103.81,
+      127.88
+    ],
+    "alt": "C35 Förbud att parkera fordon",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C35",
+      "anchor": "c35 förbud att parkera fordon märket anger förbud mot att parkera fordon.",
+      "occurrence": 1
+    }
+  },
+  "g-487e39009384421388c0": {
+    "sfs": "2017:923",
+    "page": 15,
+    "bbox": [
+      51.41,
+      433.71,
+      103.81,
+      488.59
+    ],
+    "alt": "C36 Förbud mot att parkera fordon på dag med udda datum",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C36",
+      "anchor": "c36 förbud mot att parkera fordon på dag med udda datum de närmare föreskrifterna till märke c35, förbud mot att parkera fordon, gäller även till detta märke.",
+      "occurrence": 1
+    }
+  },
+  "g-0bdf7d15904911b252fe": {
+    "sfs": "2017:923",
+    "page": 15,
+    "bbox": [
+      51.41,
+      526.5,
+      103.81,
+      581.38
+    ],
+    "alt": "C37 Förbud mot att parkera fordon på dag med jämnt datum",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C37",
+      "anchor": "c37 förbud mot att parkera fordon på dag med jämnt datum de närmare föreskrifterna till märke c35, förbud mot att parkera fordon, gäller även till detta märke.",
+      "occurrence": 1
+    }
+  },
+  "g-8f4e6ff712c681ca5c25": {
+    "sfs": "2017:923",
+    "page": 16,
+    "bbox": [
+      120.84,
+      73.0,
+      174.2,
+      127.88
+    ],
+    "alt": "C38 Datumparkering",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C38",
+      "anchor": "c38 datumparkering märket anger förbud mot att parkera fordon på dagar med jämnt datum på den sida av vägen som har jämna adressnummer och på dagar med udda datum på den sida av vägen som har udda adressnummer.",
+      "occurrence": 1
+    }
+  },
+  "g-b3c4da211592169ba0d4": {
+    "sfs": "2017:923",
+    "page": 16,
+    "bbox": [
+      120.84,
+      202.52,
+      174.2,
+      257.4
+    ],
+    "alt": "C39 Förbud mot att stanna och parkera fordon",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C39",
+      "anchor": "c39 förbud mot att stanna och parkera fordon märket anger förbud mot att stanna och parkera fordon.",
+      "occurrence": 1
+    }
+  },
+  "g-de27d1b0dd9564c950af": {
+    "sfs": "2017:923",
+    "page": 16,
+    "bbox": [
+      120.84,
+      285.79,
+      157.4,
+      340.67
+    ],
+    "alt": "C40 Ändamålsplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C40",
+      "anchor": "c40 ändamålsplats har ändamålet angetts med lastplats är ändamålet lastning eller lossning av tungt eller skrymmande gods.",
+      "occurrence": 1
+    }
+  },
+  "g-80d80cbc9b8611c1751e": {
+    "sfs": "2017:923",
+    "page": 16,
+    "bbox": [
+      120.84,
+      368.76,
+      157.4,
+      423.64
+    ],
+    "alt": "C41 Slut på ändamålsplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C41",
+      "anchor": "c41 slut på ändamålsplats märket behöver inte vara uppsatt om det ändå tydligt framgår att ändamålsplatsen upphör.",
+      "occurrence": 1
+    }
+  },
+  "g-24b8861266a7073a9c50": {
+    "sfs": "2017:923",
+    "page": 16,
+    "bbox": [
+      120.84,
+      450.88,
+      157.4,
+      505.76
+    ],
+    "alt": "C42 Vändplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C42",
+      "anchor": "c42 vändplats märket anger en plats som är avsedd för vändning av fordon och att det är förbjudet att parkera fordon. om i stället märke c39, förbud mot att stanna och parkera fordon, är infogat i märket anger det att det är förbjudet att stanna eller parkera fordon.",
+      "occurrence": 1
+    }
+  },
+  "g-7c390bb04821be4e4c0f": {
+    "sfs": "2017:923",
+    "page": 16,
+    "bbox": [
+      120.84,
+      545.68,
+      157.4,
+      600.56
+    ],
+    "alt": "C43 Slut på vändplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C43",
+      "anchor": "c43 slut på vändplats märket behöver inte vara uppsatt om det ändå tydligt framgår att vändplatsen upphör.",
+      "occurrence": 1
+    }
+  },
+  "g-9c43cdfb173450f561ec": {
+    "sfs": "2017:923",
+    "page": 17,
+    "bbox": [
+      51.41,
+      96.85,
+      103.81,
+      151.73
+    ],
+    "alt": "C44 Förbud mot trafik med annat motordrivet fordon med dubbdäck än moped klass II",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C44",
+      "anchor": "c44 förbud mot trafik med annat motordrivet fordon med dubbdäck än moped klass ii avser förbudet även moped klass ii anges det på en tilläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-758eb2af267c743b323b": {
+    "sfs": "2017:923",
+    "page": 18,
+    "bbox": [
+      120.84,
+      119.55,
+      174.2,
+      174.43
+    ],
+    "alt": "E14 Rekommenderad högsta hastig- het upphör",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E14",
+      "anchor": "e14 rekommenderad högsta hastighet upphör märket behöver inte vara uppsatt om det ändå tydligt framgår att de tillfälliga förhållandena upphört.",
+      "occurrence": 1
+    }
+  },
+  "g-3fb2ec8949211c2e52c2": {
+    "sfs": "2017:923",
+    "page": 18,
+    "bbox": [
+      120.84,
+      196.28,
+      203.0,
+      281.32
+    ],
+    "alt": "E15 Sammanvävning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E15",
+      "anchor": "e15 sammanvävning märket upplyser om att två körfält eller körbanor löper samman och att förarna ska anpassa sig till de nya förhållandena på platsen enligt bestämmelserna i 3 kap. 44 § trafikförordningen.",
+      "occurrence": 1
+    }
+  },
+  "g-b5fd7e89a2b22011633e": {
+    "sfs": "2017:923",
+    "page": 18,
+    "bbox": [
+      120.84,
+      342.05,
+      230.84,
+      394.05
+    ],
+    "alt": "E16 Enkelriktad trafik",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E16",
+      "anchor": "e16 enkelriktad trafik märket anger att fordonstrafiken på vägen är enkelriktad i pilens riktning. uppåtriktad pil anger att trafiken är enkelriktad i riktning rakt fram.",
+      "occurrence": 1
+    }
+  },
+  "g-eb68e1634ab017dd4c9d": {
+    "sfs": "2017:923",
+    "page": 18,
+    "bbox": [
+      120.84,
+      423.5,
+      164.12,
+      478.38
+    ],
+    "alt": "E17 Återvändsväg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E17",
+      "anchor": "e17 återvändsväg märket anger att genomfart inte är möjlig.",
+      "occurrence": 1
+    }
+  },
+  "g-1f5bd2380aa55f423b55": {
+    "sfs": "2017:923",
+    "page": 18,
+    "bbox": [
+      120.84,
+      541.67,
+      174.2,
+      596.07
+    ],
+    "alt": "E18 Mötesplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E18",
+      "anchor": "e18 mötesplats",
+      "occurrence": 1
+    }
+  },
+  "g-b417531e4174a0f4b15c": {
+    "sfs": "2017:923",
+    "page": 19,
+    "bbox": [
+      51.41,
+      73.48,
+      103.81,
+      128.36
+    ],
+    "alt": "E19 Parkering",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E19",
+      "anchor": "e19 parkering märket anger att parkering är tillåten på en parkeringsplats eller på en sträcka på den sida av vägen där vägmärket är uppsatt.",
+      "occurrence": 1
+    }
+  },
+  "g-7de05c1ff235dad8f1c6": {
+    "sfs": "2017:923",
+    "page": 20,
+    "bbox": [
+      120.84,
+      73.0,
+      199.16,
+      153.32
+    ],
+    "alt": "E20 Områdesmärke",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E20",
+      "anchor": "e20 områdesmärke märket anger att ett område börjar med de förbud eller tillåtelser som anges med det infogade märket. avvikelser från anvisningarna på märket kan anges genom tilläggstavlor. tidsbegränsningar kan även infogas i märket.",
+      "occurrence": 1
+    }
+  },
+  "g-585889fcda6b74915706": {
+    "sfs": "2017:923",
+    "page": 20,
+    "bbox": [
+      120.84,
+      364.94,
+      199.16,
+      445.26
+    ],
+    "alt": "E21 Slut på område",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E21",
+      "anchor": "e21 slut på område märket anger att ett område med förbud eller tillåtelser som angetts med ett märke e20, områdesmärke, upphör. utseendet är anpassat till det märke som infogats i märke e20, områdesmärke.",
+      "occurrence": 1
+    }
+  },
+  "g-c2e398e0e385ef662dd6": {
+    "sfs": "2017:923",
+    "page": 20,
+    "bbox": [
+      120.84,
+      474.24,
+      183.32,
+      508.0
+    ],
+    "alt": "E22 Busshållplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E22",
+      "anchor": "e22 busshållplats märket anger en hållplats för fordon i linjetrafik och skolskjuts om inte hållplatsen tydligt framgår på annat sätt.",
+      "occurrence": 1
+    }
+  },
+  "g-ce53ed436904f6b99887": {
+    "sfs": "2017:923",
+    "page": 21,
+    "bbox": [
+      51.41,
+      398.8,
+      107.17,
+      474.8
+    ],
+    "alt": "E26 Tunnel",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E26",
+      "anchor": "e26 tunnel märket anger tunnel. tunnelns längd anges och tunnelns namn kan anges på märket.",
+      "occurrence": 1
+    }
+  },
+  "g-a2ba5708829a4090e9c6": {
+    "sfs": "2017:923",
+    "page": 21,
+    "bbox": [
+      51.41,
+      502.76,
+      107.17,
+      578.28
+    ],
+    "alt": "E27 Nöduppställningsplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E27",
+      "anchor": "e27 nöduppställningsplats märket anger plats för uppställning av fordon vid haveri, motorstopp eller liknande.",
+      "occurrence": 1
+    }
+  },
+  "g-d6ea98bef64d2d1d3ce6": {
+    "sfs": "2017:923",
+    "page": 22,
+    "bbox": [
+      120.84,
+      73.48,
+      177.08,
+      129.8
+    ],
+    "alt": "E28 Nödutgång",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E28",
+      "anchor": "e28 nödutgång märket anger nödutgång för gående.",
+      "occurrence": 1
+    }
+  },
+  "g-95d817f27d9433c51406": {
+    "sfs": "2017:923",
+    "page": 22,
+    "bbox": [
+      120.84,
+      151.55,
+      218.84,
+      189.55
+    ],
+    "alt": "E29 Utrymningsväg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E29",
+      "anchor": "e29 utrymningsväg märket anger riktning och avstånd till nödutgång eller motsvarande för gående. märket är uppsatt med högst 25 meters mellanrum.",
+      "occurrence": 1
+    }
+  },
+  "g-b3c3c8b6a7fe17377253": {
+    "sfs": "2017:923",
+    "page": 22,
+    "bbox": [
+      120.84,
+      234.38,
+      206.84,
+      277.74
+    ],
+    "alt": "E30 Särskilda bestämmelser för parkering",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E30",
+      "anchor": "e30 särskilda bestämmelser för parkering märket anger att parkering är tillåten med de infogade villkoren. märket kan också ange avvikelse från den reglering som anges med det märke som den är uppsatt under.",
+      "occurrence": 1
+    }
+  },
+  "g-baa4749428d5e0a15b16": {
+    "sfs": "2017:923",
+    "page": 23,
+    "bbox": [
+      51.41,
+      526.5,
+      122.53,
+      582.82
+    ],
+    "alt": "F4 Avfartsorienteringstavla",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F4",
+      "anchor": "f4 avfartsorienteringstavla märket är en förberedande upplysning om avfart.",
+      "occurrence": 1
+    }
+  },
+  "g-b24b39e9145cb92f58fb": {
+    "sfs": "2017:923",
+    "page": 24,
+    "bbox": [
+      120.84,
+      73.48,
+      227.48,
+      96.68
+    ],
+    "alt": "F5 Vägvisare",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F5",
+      "anchor": "f5 vägvisare märket är uppsatt i anslutning till en korsning.",
+      "occurrence": 1
+    }
+  },
+  "g-ec4cb300bf8ef1396408": {
+    "sfs": "2017:923",
+    "page": 24,
+    "bbox": [
+      120.84,
+      132.9,
+      228.44,
+      195.46
+    ],
+    "alt": "F6 Tabellvägvisare",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F6",
+      "anchor": "f6 tabellvägvisare märket kan användas i stället för märke f5, vägvisare, och är uppsatt på kort avstånd före en korsning, cirkulationsplats eller i utfarten från en cirkulationsplats.",
+      "occurrence": 1
+    }
+  },
+  "g-d4d6b01cc28a215aeb40": {
+    "sfs": "2017:923",
+    "page": 24,
+    "bbox": [
+      120.84,
+      262.13,
+      271.72,
+      310.77
+    ],
+    "alt": "F7 Avfartsvisare",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F7",
+      "anchor": "f7 avfartsvisare märket är uppsatt där avfarten börjar.",
+      "occurrence": 1
+    }
+  },
+  "g-c3ec18bbc41050813577": {
+    "sfs": "2017:923",
+    "page": 24,
+    "bbox": [
+      120.84,
+      329.37,
+      168.92,
+      362.65
+    ],
+    "alt": "F15 Omledning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F15",
+      "anchor": "f15 omledning märket anger permanent omledningsväg för ordinarie numrerad väg.",
+      "occurrence": 1
+    }
+  },
+  "g-5bf178487441b93e3c90": {
+    "sfs": "2017:923",
+    "page": 24,
+    "bbox": [
+      120.84,
+      391.94,
+      256.28,
+      459.78
+    ],
+    "alt": "F16 Ökning av antal körfält",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F16",
+      "anchor": "f16 ökning av antal körfält märket anger att antalet körfält ökar.",
+      "occurrence": 1
+    }
+  },
+  "g-909032a2bb7b142e3e12": {
+    "sfs": "2017:923",
+    "page": 25,
+    "bbox": [
+      51.41,
+      73.0,
+      201.62,
+      207.3
+    ],
+    "alt": "F17 Minskning av antal körfält",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F17",
+      "anchor": "f17 minskning av antal körfält märket anger att antalet körfält minskar.",
+      "occurrence": 1
+    }
+  },
+  "g-f77ad9dbb216a1b31971": {
+    "sfs": "2017:923",
+    "page": 25,
+    "bbox": [
+      51.41,
+      226.37,
+      100.93,
+      250.05
+    ],
+    "alt": "F27 Trafikplatsnummer",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F27",
+      "anchor": "f27 trafikplatsnummer märket anger numret på trafikplatsen.",
+      "occurrence": 1
+    }
+  },
+  "g-ab4af80982250b1fd7ea": {
+    "sfs": "2017:923",
+    "page": 25,
+    "bbox": [
+      51.41,
+      297.8,
+      103.81,
+      352.68
+    ],
+    "alt": "F28 Parkeringshus",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F28",
+      "anchor": "f28 parkeringshus upplysning om att parkeringsplatsen är fullbelagd eller om att det finns lediga platser kan lämnas i anslutning till märket.",
+      "occurrence": 1
+    }
+  },
+  "g-affe55fcd67e528cca83": {
+    "sfs": "2017:923",
+    "page": 25,
+    "bbox": [
+      51.41,
+      380.78,
+      116.29,
+      435.66
+    ],
+    "alt": "F29 Infartsparkering",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F29",
+      "anchor": "f29 infartsparkering märket anger parkeringsplats i anslutning till kollektivtrafik. symbolen på märket anger vilken typ av kollektivtrafik som är tillgänglig. transportstyrelsen får meddela föreskrifter om vilka andra symboler som får användas.",
+      "occurrence": 1
+    }
+  },
+  "g-2196770bfc57c7196c8e": {
+    "sfs": "2017:923",
+    "page": 25,
+    "bbox": [
+      51.41,
+      509.81,
+      100.93,
+      545.97
+    ],
+    "alt": "F30 Lokal slinga",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F30",
+      "anchor": "f30 lokal slinga märket anger ringväg eller motsvarande. märket kan vara kompletterat med beteckning eller motsvarande.",
+      "occurrence": 1
+    }
+  },
+  "g-bdc916975dcea3147ab3": {
+    "sfs": "2017:923",
+    "page": 26,
+    "bbox": [
+      120.84,
+      255.93,
+      177.08,
+      295.93
+    ],
+    "alt": "F33 Räddningsplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F33",
+      "anchor": "f33 räddningsplats märket anger en räddningsplats vid vägarbeten eller motsvarande. siffran anger räddningsplatsens nummer.",
+      "occurrence": 1
+    }
+  },
+  "g-932d565857d4fec46e8d": {
+    "sfs": "2017:923",
+    "page": 26,
+    "bbox": [
+      120.84,
+      384.11,
+      203.0,
+      405.39
+    ],
+    "alt": "F34 Vägvisare",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:20",
+        "stycke:lokaliseringsmärken för vägvisning av gång- och cykeltrafik är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F34",
+      "anchor": "f34 vägvisare märket anger väg till en ort, plats, anläggning eller liknande.",
+      "occurrence": 1
+    }
+  },
+  "g-28823504e91f85a50696": {
+    "sfs": "2017:923",
+    "page": 27,
+    "bbox": [
+      51.41,
+      73.48,
+      135.97,
+      136.04
+    ],
+    "alt": "F35 Tabellvägvisare",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:20",
+        "stycke:lokaliseringsmärken för vägvisning av gång- och cykeltrafik är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F35",
+      "anchor": "f35 tabellvägvisare märket anger väg till orter, platser, anläggningar eller liknande.",
+      "occurrence": 1
+    }
+  },
+  "g-1cc527c6bef4ad99af58": {
+    "sfs": "2017:923",
+    "page": 27,
+    "bbox": [
+      51.41,
+      202.52,
+      117.73,
+      232.44
+    ],
+    "alt": "F36 Platsmärke",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:20",
+        "stycke:lokaliseringsmärken för vägvisning av gång- och cykeltrafik är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F36",
+      "anchor": "f36 platsmärke märket anger en ort eller annan plats av betydelse för orienteringen.",
+      "occurrence": 1
+    }
+  },
+  "g-a83f589af22ce0ea43d6": {
+    "sfs": "2017:923",
+    "page": 27,
+    "bbox": [
+      51.41,
+      262.61,
+      117.73,
+      300.69
+    ],
+    "alt": "F37 Avståndstavla",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:20",
+        "stycke:lokaliseringsmärken för vägvisning av gång- och cykeltrafik är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F37",
+      "anchor": "f37 avståndstavla märket anger avståndet till angivna orter, platser, anläggningar eller liknande.",
+      "occurrence": 1
+    }
+  },
+  "g-1d241719cedc1247c4ac": {
+    "sfs": "2017:923",
+    "page": 27,
+    "bbox": [
+      51.41,
+      403.48,
+      102.85,
+      437.72
+    ],
+    "alt": "F38 Cykelled",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:20",
+        "stycke:lokaliseringsmärken för vägvisning av gång- och cykeltrafik är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F38",
+      "anchor": "f38 cykelled märket anger en särskilt anordnad cykelled.",
+      "occurrence": 1
+    }
+  },
+  "g-c02e40b28d779ddc1bb2": {
+    "sfs": "2017:923",
+    "page": 27,
+    "bbox": [
+      51.41,
+      522.12,
+      95.17,
+      568.36
+    ],
+    "alt": "G6 Järnvägsstation",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:22",
+        "stycke:lokaliseringsmärken för upplysning om allmänna inrättningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "G6",
+      "anchor": "g6 järnvägsstation",
+      "occurrence": 1
+    }
+  },
+  "g-a7d3db0c3a8f675318cb": {
+    "sfs": "2017:923",
+    "page": 28,
+    "bbox": [
+      120.84,
+      73.48,
+      165.56,
+      119.72
+    ],
+    "alt": "G7 Busstation",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:22",
+        "stycke:lokaliseringsmärken för upplysning om allmänna inrättningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "G7",
+      "anchor": "g7 busstation märket anger en busstation som utgör knutpunkt för flera busslinjer.",
+      "occurrence": 1
+    }
+  },
+  "g-12628256fe577840f293": {
+    "sfs": "2017:923",
+    "page": 28,
+    "bbox": [
+      120.84,
+      144.25,
+      165.56,
+      190.49
+    ],
+    "alt": "G8 Flygplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:22",
+        "stycke:lokaliseringsmärken för upplysning om allmänna inrättningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "G8",
+      "anchor": "g8 flygplats märket anger en flygplats med reguljär flygtrafik.",
+      "occurrence": 1
+    }
+  },
+  "g-b186e654f7b91045c29f": {
+    "sfs": "2017:923",
+    "page": 28,
+    "bbox": [
+      120.84,
+      216.54,
+      157.4,
+      263.26
+    ],
+    "alt": "G9 Brandsläckare",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:22",
+        "stycke:lokaliseringsmärken för upplysning om allmänna inrättningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "G9",
+      "anchor": "g9 brandsläckare",
+      "occurrence": 1
+    }
+  },
+  "g-b25536e6d47484d78da8": {
+    "sfs": "2017:923",
+    "page": 28,
+    "bbox": [
+      120.84,
+      289.79,
+      165.56,
+      336.03
+    ],
+    "alt": "G10 Handelsområde",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:22",
+        "stycke:lokaliseringsmärken för upplysning om allmänna inrättningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "G10",
+      "anchor": "g10 handelsområde märket anger ett område för handel.",
+      "occurrence": 1
+    }
+  },
+  "g-6735d353ad1feaa0d0ba": {
+    "sfs": "2017:923",
+    "page": 28,
+    "bbox": [
+      120.84,
+      362.56,
+      165.56,
+      408.8
+    ],
+    "alt": "G11 Färja",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:22",
+        "stycke:lokaliseringsmärken för upplysning om allmänna inrättningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "G11",
+      "anchor": "g11 färja märket anger ett färjeläge eller att angivet färdmål kan nås med färja.",
+      "occurrence": 1
+    }
+  },
+  "g-1f35fa3ab5023784d063": {
+    "sfs": "2017:923",
+    "page": 28,
+    "bbox": [
+      120.84,
+      433.33,
+      165.56,
+      479.57
+    ],
+    "alt": "G12 Personfärja",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:22",
+        "stycke:lokaliseringsmärken för upplysning om allmänna inrättningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "G12",
+      "anchor": "g12 personfärja märket anger ett färjeläge för personfärja eller att angivet färdmål endast kan nås med färja avsedd för persontransport.",
+      "occurrence": 1
+    }
+  },
+  "g-02f70885601a12940c04": {
+    "sfs": "2017:923",
+    "page": 29,
+    "bbox": [
+      51.41,
+      102.0,
+      95.17,
+      148.24
+    ],
+    "alt": "H3 Drivmedel",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H3",
+      "anchor": "h3 drivmedel märket anger en anläggning som tillhandahåller drivmedel.",
+      "occurrence": 1
+    }
+  },
+  "g-16b921765da45ae53b80": {
+    "sfs": "2017:923",
+    "page": 29,
+    "bbox": [
+      51.41,
+      174.29,
+      95.17,
+      221.01
+    ],
+    "alt": "H4 Gas för fordonsdrift",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H4",
+      "anchor": "h4 gas för fordonsdrift märket anger anläggningar som tillhandahåller olika typer av fordonsgas där typ av gas framgår av förkortningen i märket.",
+      "occurrence": 1
+    }
+  },
+  "g-068493dd67c3862590b9": {
+    "sfs": "2017:923",
+    "page": 29,
+    "bbox": [
+      51.41,
+      304.0,
+      201.62,
+      358.18
+    ],
+    "alt": "H5 Servering",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H5",
+      "anchor": "h5 servering märket anger en anläggning som serverar drycker och enklare maträtter.",
+      "occurrence": 1
+    }
+  },
+  "g-3737add0df4edb965e79": {
+    "sfs": "2017:923",
+    "page": 29,
+    "bbox": [
+      51.41,
+      376.77,
+      95.17,
+      423.49
+    ],
+    "alt": "H10 Stuga",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H10",
+      "anchor": "h10 stuga märket anger en anläggning med ett fåtal stugor.",
+      "occurrence": 1
+    }
+  },
+  "g-7fa97722e90b54d76ed8": {
+    "sfs": "2017:923",
+    "page": 29,
+    "bbox": [
+      51.41,
+      450.02,
+      95.17,
+      496.26
+    ],
+    "alt": "H11 Campingplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H11",
+      "anchor": "h11 campingplats märket anger en anläggning som tillhandahåller platser för såväl tält som fordon med bostadsutrymme.",
+      "occurrence": 1
+    }
+  },
+  "g-df1162e9128dad4b174e": {
+    "sfs": "2017:923",
+    "page": 29,
+    "bbox": [
+      51.41,
+      520.31,
+      95.17,
+      566.55
+    ],
+    "alt": "H12 Husvagnsplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H12",
+      "anchor": "h12 husvagnsplats märket anger en anläggning som enbart tillhandahåller platser för fordon med bostadsutrymme.",
+      "occurrence": 1
+    }
+  },
+  "g-db3dcaf7be8c257f8d71": {
+    "sfs": "2017:923",
+    "page": 30,
+    "bbox": [
+      120.84,
+      73.48,
+      165.56,
+      119.72
+    ],
+    "alt": "H13 Rastplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H13",
+      "anchor": "h13 rastplats märket anger en rastplats där det finns toalett som är tillgänglig även för rörelsehindrade.",
+      "occurrence": 1
+    }
+  },
+  "g-2e4aa0411d70c489e195": {
+    "sfs": "2017:923",
+    "page": 30,
+    "bbox": [
+      120.84,
+      145.59,
+      165.56,
+      191.83
+    ],
+    "alt": "H14 Toalett",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H14",
+      "anchor": "h14 toalett märket anger en toalett som är tillgänglig även för rörelsehindrade.",
+      "occurrence": 1
+    }
+  },
+  "g-7e56f0b628e3d41474a8": {
+    "sfs": "2017:923",
+    "page": 30,
+    "bbox": [
+      120.84,
+      217.88,
+      165.56,
+      264.12
+    ],
+    "alt": "H15 Bad",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H15",
+      "anchor": "h15 bad märket anger en badstrand eller annan badanläggning.",
+      "occurrence": 1
+    }
+  },
+  "g-88dfcda4d7fc6f99b35d": {
+    "sfs": "2017:923",
+    "page": 30,
+    "bbox": [
+      120.84,
+      301.14,
+      271.72,
+      360.34
+    ],
+    "alt": "H16 Friluftsområde",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H16",
+      "anchor": "h16 friluftsområde",
+      "occurrence": 1
+    }
+  },
+  "g-557f74f96a599caf538c": {
+    "sfs": "2017:923",
+    "page": 30,
+    "bbox": [
+      120.84,
+      380.11,
+      165.56,
+      426.83
+    ],
+    "alt": "H22 Sevärdhet",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H22",
+      "anchor": "h22 sevärdhet märket anger en sevärdhet av nationellt intresse.",
+      "occurrence": 1
+    }
+  },
+  "g-d90536900016efdac969": {
+    "sfs": "2017:923",
+    "page": 30,
+    "bbox": [
+      120.84,
+      464.9,
+      181.88,
+      536.58
+    ],
+    "alt": "H23 Förberedande upplysning om vägnära service",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H23",
+      "anchor": "h23 förberedande upplysning om vägnära service märket anger vägnära serviceanläggningar samt i vissa fall namn på dessa.",
+      "occurrence": 1
+    }
+  },
+  "g-10437781e146d3728307": {
+    "sfs": "2017:923",
+    "page": 30,
+    "bbox": [
+      120.84,
+      571.05,
+      165.56,
+      611.2
+    ],
+    "alt": "H24 Rum och frukost",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H24",
+      "anchor": "h24 rum och frukost märket anger en anläggning som tillhandahåller rum för övernattning och frukost.",
+      "occurrence": 1
+    }
+  },
+  "g-f5dd111be8a0d97c9fd5": {
+    "sfs": "2017:923",
+    "page": 31,
+    "bbox": [
+      51.41,
+      74.34,
+      95.17,
+      120.58
+    ],
+    "alt": "H27 Laddstation",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H27",
+      "anchor": "h27 laddstation märket anger en anläggning för extern laddning med elektrisk energi för fordons framdrivning.",
+      "occurrence": 1
+    }
+  },
+  "g-bf9de8c1713d4d7cd339": {
+    "sfs": "2017:923",
+    "page": 31,
+    "bbox": [
+      51.41,
+      147.59,
+      95.17,
+      193.83
+    ],
+    "alt": "H28 Husbilsplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H28",
+      "anchor": "h28 husbilsplats märket anger en anläggning som enbart tillhandahåller platser för bilar med bostadsutrymme.",
+      "occurrence": 1
+    }
+  },
+  "g-b08a30ac78fb4e20f36a": {
+    "sfs": "2017:923",
+    "page": 31,
+    "bbox": [
+      51.41,
+      259.08,
+      123.97,
+      285.16
+    ],
+    "alt": "J2 Upplysningsmärke",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:27",
+        "stycke:upplysningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "J2",
+      "anchor": "j2 upplysningsmärke märket ger upplysning av väsentligt intresse för framkomlighet eller säkerhet som inte kan ges på annat sätt.",
+      "occurrence": 1
+    }
+  },
+  "g-b24179545e2f924785ed": {
+    "sfs": "2017:923",
+    "page": 31,
+    "bbox": [
+      51.41,
+      398.22,
+      125.89,
+      437.74
+    ],
+    "alt": "J3 Livsfarlig  ledning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:27",
+        "stycke:upplysningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "J3",
+      "anchor": "j3 livsfarlig ledning märket anger att det finns en elektrisk ledning över vägen eller leden som kan innebära fara.",
+      "occurrence": 1
+    }
+  },
+  "g-bf24fa5d15fefcc5dbc1": {
+    "sfs": "2017:923",
+    "page": 31,
+    "bbox": [
+      51.41,
+      537.67,
+      97.57,
+      568.55
+    ],
+    "alt": "S6 Traktor a och motorredskap klass II",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S6",
+      "anchor": "s6 traktor a och motorredskap klass ii",
+      "occurrence": 1
+    }
+  },
+  "g-f81df16b83ace5cbe2a1": {
+    "sfs": "2017:923",
+    "page": 32,
+    "bbox": [
+      120.84,
+      73.48,
+      167.48,
+      104.36
+    ],
+    "alt": "S7 Motorcykel",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S7",
+      "anchor": "s7 motorcykel symbolen anger tvåhjulig motorcykel utan sidvagn och tvåhjulig moped klass i utan sidvagn.",
+      "occurrence": 1
+    }
+  },
+  "g-39b5125fc8ce6e2b443c": {
+    "sfs": "2017:923",
+    "page": 32,
+    "bbox": [
+      120.84,
+      127.51,
+      271.72,
+      178.47
+    ],
+    "alt": "S8 Cykel och moped klass II",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S8",
+      "anchor": "s8 cykel och moped klass ii",
+      "occurrence": 1
+    }
+  },
+  "g-e26e9fdb707bd7e9e988": {
+    "sfs": "2017:923",
+    "page": 32,
+    "bbox": [
+      120.84,
+      198.33,
+      167.48,
+      239.29
+    ],
+    "alt": "S11 Rörelsehindrade",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S11",
+      "anchor": "s11 rörelsehindrade",
+      "occurrence": 1
+    }
+  },
+  "g-19f7b019e495d455ee12": {
+    "sfs": "2017:923",
+    "page": 32,
+    "bbox": [
+      120.84,
+      265.95,
+      171.32,
+      299.23
+    ],
+    "alt": "S12 Personbil klass II",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S12",
+      "anchor": "s12 personbil klass ii",
+      "occurrence": 1
+    }
+  },
+  "g-d63af602732d22113b0c": {
+    "sfs": "2017:923",
+    "page": 32,
+    "bbox": [
+      120.84,
+      476.06,
+      176.6,
+      547.74
+    ],
+    "alt": "T1 Vägsträckas längd",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T1",
+      "anchor": "t1 vägsträckas längd tavlan anger början och slutet på en vägsträcka.",
+      "occurrence": 1
+    }
+  },
+  "g-7a2ab5262f0baec0b62b": {
+    "sfs": "2017:923",
+    "page": 32,
+    "bbox": [
+      120.84,
+      577.72,
+      183.32,
+      604.76
+    ],
+    "alt": "T2 Avstånd",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T2",
+      "anchor": "t2 avstånd tavlan anger avståndet till det som vägmärket avser.",
+      "occurrence": 1
+    }
+  },
+  "g-db6e7eaa2dc762916955": {
+    "sfs": "2017:923",
+    "page": 33,
+    "bbox": [
+      51.41,
+      73.0,
+      112.93,
+      112.52
+    ],
+    "alt": "T3 Avstånd till stopplikt",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T3",
+      "anchor": "t3 avstånd till stopplikt tavlan används endast under märke b1, väjningsplikt.",
+      "occurrence": 1
+    }
+  },
+  "g-656168b12899e0e2245a": {
+    "sfs": "2017:923",
+    "page": 33,
+    "bbox": [
+      51.41,
+      140.06,
+      112.93,
+      167.1
+    ],
+    "alt": "T4 Fri bredd",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T4",
+      "anchor": "t4 fri bredd",
+      "occurrence": 1
+    }
+  },
+  "g-26e16c39d9fb9f82ee82": {
+    "sfs": "2017:923",
+    "page": 33,
+    "bbox": [
+      51.41,
+      194.32,
+      112.93,
+      226.64
+    ],
+    "alt": "T5 Totalvikt",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T5",
+      "anchor": "t5 totalvikt tavlan anger att angivelsen på märket gäller fordon med en totalvikt som överstiger det angivna värdet.",
+      "occurrence": 1
+    }
+  },
+  "g-86bf55bc703e209a9ae2": {
+    "sfs": "2017:923",
+    "page": 33,
+    "bbox": [
+      51.41,
+      253.26,
+      109.57,
+      299.98
+    ],
+    "alt": "T6 Tidsangivelse",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T6",
+      "anchor": "t6 tidsangivelse tavlan anger när angivelsen på vägmärket gäller.",
+      "occurrence": 1
+    }
+  },
+  "g-864b1b084229345b5716": {
+    "sfs": "2017:923",
+    "page": 33,
+    "bbox": [
+      51.41,
+      464.23,
+      105.73,
+      520.55
+    ],
+    "alt": "T7 Rörelsehindrade",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T7",
+      "anchor": "t7 rörelsehindrade tavlan anger att angivelsen på märket gäller den som får parkera enligt ett parkeringstillstånd som avses i 13 kap. 8 eller 9 § trafikförordningen. tavlan används endast under märke e19, parkering.",
+      "occurrence": 1
+    }
+  },
+  "g-3513acee406bee467a51": {
+    "sfs": "2017:923",
+    "page": 34,
+    "bbox": [
+      120.84,
+      73.0,
+      183.32,
+      107.24
+    ],
+    "alt": "T8 Symboltavla",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T8",
+      "anchor": "t8 symboltavla tavlan anger att det märke som tavlan är uppsatt under endast gäller för det fordonsslag eller den trafikantgrupp som anges på tavlan.",
+      "occurrence": 1
+    }
+  },
+  "g-a8ea9cd70c2a8269eaf1": {
+    "sfs": "2017:923",
+    "page": 34,
+    "bbox": [
+      120.84,
+      209.63,
+      182.84,
+      248.59
+    ],
+    "alt": "T9 Nedsatt syn",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T9",
+      "anchor": "t9 nedsatt syn tavlan anger att personer med nedsatt syn är vanligt förekommande.",
+      "occurrence": 1
+    }
+  },
+  "g-b29bdcf27de3618a1b89": {
+    "sfs": "2017:923",
+    "page": 34,
+    "bbox": [
+      120.84,
+      273.29,
+      165.56,
+      319.53
+    ],
+    "alt": "T10 Nedsatt hörsel",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T10",
+      "anchor": "t10 nedsatt hörsel tavlan anger att personer med nedsatt hörsel är vanligt förekommande.",
+      "occurrence": 1
+    }
+  },
+  "g-f6d0271096d15bd3fcd6": {
+    "sfs": "2017:923",
+    "page": 34,
+    "bbox": [
+      120.84,
+      346.73,
+      182.36,
+      477.45
+    ],
+    "alt": "T11 Utsträckning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T11",
+      "anchor": "t11 utsträckning tavlan med dubbelriktade pilar, uppsatt vågrätt eller lodrätt, anger att angivelsen gäller på båda sidor av märket.",
+      "occurrence": 1
+    }
+  },
+  "g-f48c62c9b04b744edb32": {
+    "sfs": "2017:923",
+    "page": 34,
+    "bbox": [
+      120.84,
+      557.22,
+      165.56,
+      603.46
+    ],
+    "alt": "T12 Riktning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T12",
+      "anchor": "t12 riktning tavlan anger riktning till angivelsen på märket.",
+      "occurrence": 1
+    }
+  },
+  "g-f28b9f500ce231eb85e2": {
+    "sfs": "2017:923",
+    "page": 35,
+    "bbox": [
+      51.41,
+      73.0,
+      124.45,
+      113.48
+    ],
+    "alt": "T13 Flervägsväjning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T13",
+      "anchor": "t13 flervägsväjning tavlan anger att förare på samtliga tillfarter i en korsning har väjningsplikt.",
+      "occurrence": 1
+    }
+  },
+  "g-28d2a1582f018602228b": {
+    "sfs": "2017:923",
+    "page": 35,
+    "bbox": [
+      51.41,
+      134.86,
+      124.93,
+      180.06
+    ],
+    "alt": "T14 Flervägsstopp",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T14",
+      "anchor": "t14 flervägsstopp tavlan anger att förare på samtliga tillfarter i en korsning har stopplikt.",
+      "occurrence": 1
+    }
+  },
+  "g-b498392b683a6f74091b": {
+    "sfs": "2017:923",
+    "page": 35,
+    "bbox": [
+      51.41,
+      205.86,
+      111.97,
+      269.38
+    ],
+    "alt": "T15 Vägars fortsättning i korsning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T15",
+      "anchor": "t15 vägars fortsättning i korsning tavlan anger en korsning där förare på en väg som anges med smalt streck har väjningsplikt mot fordon på en väg som anges med brett streck.",
+      "occurrence": 1
+    }
+  },
+  "g-07c2474d540da684eca9": {
+    "sfs": "2017:923",
+    "page": 35,
+    "bbox": [
+      51.41,
+      301.14,
+      124.93,
+      341.14
+    ],
+    "alt": "T16 Avgift",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T16",
+      "anchor": "t16 avgift tavlan anger att avgift ska betalas för parkering enligt den taxa som anges på en parkeringsmätare, biljettautomat eller motsvarande och att övriga villkor för parkering som anges där ska iakttas.",
+      "occurrence": 1
+    }
+  },
+  "g-ef0544e041013ac95f49": {
+    "sfs": "2017:923",
+    "page": 35,
+    "bbox": [
+      51.41,
+      442.2,
+      124.93,
+      482.2
+    ],
+    "alt": "T17 Parkeringsskiva",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T17",
+      "anchor": "t17 parkeringsskiva tavlan anger att tiden när parkering påbörjats ska anges med en parkeringsskiva eller motsvarande.",
+      "occurrence": 1
+    }
+  },
+  "g-5d32cdda24967a0bbc6f": {
+    "sfs": "2017:923",
+    "page": 35,
+    "bbox": [
+      51.41,
+      548.35,
+      123.97,
+      588.35
+    ],
+    "alt": "T18 Tillåten tid för parkering",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T18",
+      "anchor": "t18 tillåten tid för parkering tavlan anger längsta tillåten tid för parkering.",
+      "occurrence": 1
+    }
+  },
+  "g-0659ec5c205952dab0ad": {
+    "sfs": "2017:923",
+    "page": 36,
+    "bbox": [
+      120.84,
+      74.63,
+      194.84,
+      114.63
+    ],
+    "alt": "T19 Boende",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T19",
+      "anchor": "t19 boende tavlan anger att boende i ett område, med särskilt tillstånd, får parkera enligt särskilda villkor.",
+      "occurrence": 1
+    }
+  },
+  "g-1f4e7e4bd3a370ce1e73": {
+    "sfs": "2017:923",
+    "page": 36,
+    "bbox": [
+      120.84,
+      215.21,
+      194.84,
+      255.21
+    ],
+    "alt": "T20 Parkeringsbiljett",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T20",
+      "anchor": "t20 parkeringsbiljett tavlan anger att parkering är avgiftsfri men att parkeringsbiljett ska användas vid parkering.",
+      "occurrence": 1
+    }
+  },
+  "g-b8aa8b597e84638d229e": {
+    "sfs": "2017:923",
+    "page": 36,
+    "bbox": [
+      120.84,
+      321.84,
+      194.84,
+      361.84
+    ],
+    "alt": "T21 Uppställning av fordon",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T21",
+      "anchor": "t21 uppställning av fordon tavlan anger hur fordon ska ställas upp på en parkeringsplats.",
+      "occurrence": 1
+    }
+  },
+  "g-ab059916aeb6eb4d6884": {
+    "sfs": "2017:923",
+    "page": 36,
+    "bbox": [
+      120.84,
+      392.13,
+      183.32,
+      425.89
+    ],
+    "alt": "T22 Text",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T22",
+      "anchor": "t22 text tavlan ger kompletterande anvisning som inte kan ges med någon annan tilläggstavla eller kombinationer av dessa.",
+      "occurrence": 1
+    }
+  },
+  "g-a859643f30034be36755": {
+    "sfs": "2017:923",
+    "page": 36,
+    "bbox": [
+      120.84,
+      509.81,
+      178.04,
+      569.01
+    ],
+    "alt": "T23 Tunnelkategori",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T23",
+      "anchor": "t23 tunnelkategori tavlan används under märke c9, förbud mot trafik med fordon lastat med farligt gods. bokstaven b, c, d eller e anger tunnelns kategori.",
+      "occurrence": 1
+    }
+  },
+  "g-9e1abf2371b58324b215": {
+    "sfs": "2017:923",
+    "page": 37,
+    "bbox": [
+      51.41,
+      73.48,
+      108.13,
+      132.2
+    ],
+    "alt": "T24 Laddplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T24",
+      "anchor": "t24 laddplats tavlan anger en plats för extern laddning av elektricitet för fordons framdrivning. tavlan används under märke e19, parkering, och anger att endast fordon med möjlighet till extern laddning av elektricitet för fordonets framdrivning får parkera.",
+      "occurrence": 1
+    }
+  },
+  "g-be5c2ef62f448032b26b": {
+    "sfs": "2017:923",
+    "page": 37,
+    "bbox": [
+      51.41,
+      167.81,
+      108.13,
+      227.01
+    ],
+    "alt": "T25 Öppet dygnet runt",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:30",
+        "stycke:tilläggstavlor är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "T25",
+      "anchor": "t25 öppet dygnet runt tavlan anger att en servering eller restaurang är öppen dygnet runt. tavlan används under något av märkena h5, servering, eller h6, restaurang.",
+      "occurrence": 1
+    }
+  },
+  "g-4105823d50dc6b965b5e": {
+    "sfs": "2017:923",
+    "page": 41,
+    "bbox": [
+      51.41,
+      107.53,
+      152.29,
+      141.29
+    ],
+    "alt": "M2 Kantlinje",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:4",
+        "stycke:brutna linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M2",
+      "anchor": "m2 kantlinje markeringen anger en körbanas yttre gräns.",
+      "occurrence": 1
+    }
+  },
+  "g-e984eb27e95d4c8062b7": {
+    "sfs": "2017:923",
+    "page": 41,
+    "bbox": [
+      51.41,
+      178.97,
+      152.29,
+      212.73
+    ],
+    "alt": "M3 Varningslinje",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:4",
+        "stycke:brutna linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M3",
+      "anchor": "m3 varningslinje varningslinje används för att informera om att linjen är olämplig att överskrida på grund av trafikförhållandena. markeringen anger gränsen mellan körfält avsedda för färd i motsatta färdriktningar. markeringen kan även användas för att upplysa om en kommande heldragen linje.",
+      "occurrence": 1
+    }
+  },
+  "g-30443dac48d79192f8bf": {
+    "sfs": "2017:923",
+    "page": 41,
+    "bbox": [
+      51.41,
+      319.17,
+      201.62,
+      395.17
+    ],
+    "alt": "M4 Ledlinje",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:4",
+        "stycke:brutna linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M4",
+      "anchor": "m4 ledlinje markeringen anger lämplig färdväg för trafik i komplicerade korsningar.",
+      "occurrence": 1
+    }
+  },
+  "g-1347735fdb9f6ac7ab8d": {
+    "sfs": "2017:923",
+    "page": 42,
+    "bbox": [
+      120.84,
+      88.84,
+      222.68,
+      122.6
+    ],
+    "alt": "M8 Heldragen  linje",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:6",
+        "stycke:heldragna linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M8",
+      "anchor": "m8 heldragen linje markeringen anger att bestämmelserna i 3 kap. 11 § eller 12 § tredje stycket trafikförordningen (1998:1276) eller föreskrifter meddelade med stöd av den förordningen är tillämpliga.",
+      "occurrence": 1
+    }
+  },
+  "g-79fb76ec2be4a0e44a83": {
+    "sfs": "2017:923",
+    "page": 42,
+    "bbox": [
+      120.84,
+      253.07,
+      222.68,
+      308.91
+    ],
+    "alt": "M9 Spärrområde",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:6",
+        "stycke:heldragna linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M9",
+      "anchor": "m9 spärrområde markeringen anger ett område där fordon inte får föras enligt 3 kap. 11 § trafikförordningen.",
+      "occurrence": 1
+    }
+  },
+  "g-15d9d766932d5b5bac5c": {
+    "sfs": "2017:923",
+    "page": 42,
+    "bbox": [
+      120.84,
+      411.97,
+      218.36,
+      483.17
+    ],
+    "alt": "M10 Mittlinje eller körfältslinje och heldragen linje",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:7",
+        "stycke:heldragna och brutna linjer i kombination anger i stället för enbart mittlinje eller körfältslinje gränsen mellan körfält. sådana linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M10",
+      "anchor": "m10 mittlinje eller körfältslinje och heldragen linje markeringen används där det inte är tillåtet för fordon som befinner sig på samma sida som den heldragna linjen att byta körfält.",
+      "occurrence": 1
+    }
+  },
+  "g-40863709d784d4ef2d95": {
+    "sfs": "2017:923",
+    "page": 42,
+    "bbox": [
+      120.84,
+      526.98,
+      222.68,
+      560.74
+    ],
+    "alt": "M11 Varningslinje och heldragen linje",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:7",
+        "stycke:heldragna och brutna linjer i kombination anger i stället för enbart mittlinje eller körfältslinje gränsen mellan körfält. sådana linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M11",
+      "anchor": "m11 varningslinje och heldragen linje markeringen används där det inte är tillåtet för fordon som befinner sig på samma sida som den heldragna linjen att byta körfält.",
+      "occurrence": 1
+    }
+  },
+  "g-ac16b51d7739e07a845a": {
+    "sfs": "2017:923",
+    "page": 43,
+    "bbox": [
+      51.41,
+      73.48,
+      152.29,
+      107.24
+    ],
+    "alt": "M12 Mittlinje  och  varningslinje",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:7",
+        "stycke:heldragna och brutna linjer i kombination anger i stället för enbart mittlinje eller körfältslinje gränsen mellan körfält. sådana linjer är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M12",
+      "anchor": "m12 mittlinje och varningslinje markeringen används där det är olämpligt att överskrida varningslinjen på grund av trafikförhållandena.",
+      "occurrence": 1
+    }
+  },
+  "g-529ec3588feb1dd72b17": {
+    "sfs": "2017:923",
+    "page": 43,
+    "bbox": [
+      51.41,
+      176.3,
+      107.17,
+      210.54
+    ],
+    "alt": "M13 Stopplinje",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:8",
+        "stycke:tvärgående markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M13",
+      "anchor": "m13 stopplinje markeringen anger var ett fordon ska stannas enligt ett vägmärke, en trafiksignal eller y1, ljussignal.",
+      "occurrence": 1
+    }
+  },
+  "g-e29fa37aac26c873a4e7": {
+    "sfs": "2017:923",
+    "page": 43,
+    "bbox": [
+      51.41,
+      395.46,
+      152.77,
+      550.66
+    ],
+    "alt": "M19 Körfältspilar",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M19",
+      "anchor": "m19 körfältspilar markeringen upplyser, för närmaste korsning, lämpligt körfält för fortsatt färd.",
+      "occurrence": 1
+    }
+  },
+  "g-67ce1ebce72c40911984": {
+    "sfs": "2017:923",
+    "page": 44,
+    "bbox": [
+      120.84,
+      80.11,
+      218.36,
+      125.31
+    ],
+    "alt": "M19a Körfältspil för cirkulations- platser",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M19a",
+      "anchor": "m19a körfältspil för cirkulationsplatser markeringen upplyser, i tillfart till en cirkulationsplats för närmaste korsning, om lämpligt körfält för fortsatt färd. markeringen anpassas till förhållandena på platsen.",
+      "occurrence": 1
+    }
+  },
+  "g-9dc725fd23992e8a9fe0": {
+    "sfs": "2017:923",
+    "page": 44,
+    "bbox": [
+      120.84,
+      146.88,
+      222.68,
+      185.36
+    ],
+    "alt": "M20 Körfältsbyte",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M20",
+      "anchor": "m20 körfältsbyte markeringen anger att körfältsbyte snarast måste ske.",
+      "occurrence": 1
+    }
+  },
+  "g-913fec90eb26f95ee5e6": {
+    "sfs": "2017:923",
+    "page": 44,
+    "bbox": [
+      120.84,
+      222.36,
+      224.6,
+      278.68
+    ],
+    "alt": "M20a Förberedande upplysning om heldragen mittlinje m.m.",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M20a",
+      "anchor": "m20a förberedande upplysning om heldragen mittlinje m.m. markeringen är utförd mellan körfält för trafik i motsatta riktningar och anger att en heldragen mittlinje eller fysisk avgränsning finns längre fram i färdriktningen.",
+      "occurrence": 1
+    }
+  },
+  "g-7544e78b9bc75465828c": {
+    "sfs": "2017:923",
+    "page": 44,
+    "bbox": [
+      120.84,
+      318.5,
+      223.16,
+      352.74
+    ],
+    "alt": "M21 Förbud mot att stanna och parkera",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M21",
+      "anchor": "m21 förbud mot att stanna och parkera markeringen upplyser om förbud mot att stanna och parkera fordon och är placerad i körbanans kant.",
+      "occurrence": 1
+    }
+  },
+  "g-9fbfcc57bc2a0b4c5c32": {
+    "sfs": "2017:923",
+    "page": 44,
+    "bbox": [
+      120.84,
+      380.11,
+      223.16,
+      414.35
+    ],
+    "alt": "M22 Förbud  mot  att  parkera",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M22",
+      "anchor": "m22 förbud mot att parkera markeringen upplyser om förbud mot att parkera fordon och är placerad i körbanans kant.",
+      "occurrence": 1
+    }
+  },
+  "g-6450d24611df792fd921": {
+    "sfs": "2017:923",
+    "page": 44,
+    "bbox": [
+      120.84,
+      510.11,
+      271.72,
+      555.87
+    ],
+    "alt": "M23 Förbud mot att stanna och parkera eller att parkera",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M23",
+      "anchor": "m23 förbud mot att stanna och parkera eller att parkera markeringen används som förstärkning av markeringarna m21, förbud mot att stanna och parkera, och m22, förbud mot att parkera.",
+      "occurrence": 1
+    }
+  },
+  "g-eb83bc2d5b90bf36b6fa": {
+    "sfs": "2017:923",
+    "page": 45,
+    "bbox": [
+      51.41,
+      73.48,
+      107.17,
+      139.88
+    ],
+    "alt": "M29 Hastighet",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M29",
+      "anchor": "m29 hastighet markeringen upplyser om högsta tilllåtna hastighet.",
+      "occurrence": 1
+    }
+  },
+  "g-25e6c988d65e8dd6a982": {
+    "sfs": "2017:923",
+    "page": 45,
+    "bbox": [
+      51.41,
+      167.62,
+      107.65,
+      234.5
+    ],
+    "alt": "M30 Vägnummer",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M30",
+      "anchor": "m30 vägnummer markeringen upplyser om vägnummer.",
+      "occurrence": 1
+    }
+  },
+  "g-34514a217b1f7abeb6e3": {
+    "sfs": "2017:923",
+    "page": 45,
+    "bbox": [
+      51.41,
+      261.27,
+      201.62,
+      337.75
+    ],
+    "alt": "M31 Ändamålsplats",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M31",
+      "anchor": "m31 ändamålsplats markeringen upplyser om en uppställningsplats som är avsedd för ett visst ändamål. texten anpassas efter ändamålet.",
+      "occurrence": 1
+    }
+  },
+  "g-54fdf55cace6a16b0c3a": {
+    "sfs": "2017:923",
+    "page": 45,
+    "bbox": [
+      51.41,
+      430.85,
+      103.33,
+      485.73
+    ],
+    "alt": "X1 Markeringspil",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:1",
+        "stycke:andra anordningar för anvisningar för trafiken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "X1",
+      "anchor": "x1 markeringspil anordningen anger att fordonsförare måste svänga kraftigt i den gula pilens eller de gula pilarnas riktning på grund av till exempel en kurva.",
+      "occurrence": 1
+    }
+  },
+  "g-0ea3a0de5b4ee07b0e56": {
+    "sfs": "2017:923",
+    "page": 46,
+    "bbox": [
+      120.84,
+      73.48,
+      230.36,
+      97.64
+    ],
+    "alt": "X2 Markeringsskärm för hinder",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:1",
+        "stycke:andra anordningar för anvisningar för trafiken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "X2",
+      "anchor": "x2 markeringsskärm för hinder anordningen anger att framkomligheten på vägen är inskränkt på grund av ett hinder.",
+      "occurrence": 1
+    }
+  },
+  "g-a4d1c8bd1cf2943419df": {
+    "sfs": "2017:923",
+    "page": 46,
+    "bbox": [
+      120.84,
+      237.72,
+      167.0,
+      304.6
+    ],
+    "alt": "X3 Markeringsskärm för sidohinder, farthinder m.m.",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:1",
+        "stycke:andra anordningar för anvisningar för trafiken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "X3",
+      "anchor": "x3 markeringsskärm för sidohinder, farthinder m.m. anordningen anger vägens eller körbanans kant eller skiljer trafikriktningar åt vid komplicerade passager.",
+      "occurrence": 1
+    }
+  },
+  "g-a1c2fce0cfbfd83a8158": {
+    "sfs": "2017:923",
+    "page": 46,
+    "bbox": [
+      120.84,
+      378.77,
+      168.92,
+      458.13
+    ],
+    "alt": "X4 Avfartsskärm",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:1",
+        "stycke:andra anordningar för anvisningar för trafiken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "X4",
+      "anchor": "x4 avfartsskärm anordningen anger skiljepunkten mellan en huvudkörbana och en avfart där det finns ett retardationsfält.",
+      "occurrence": 1
+    }
+  },
+  "g-32beb5c28920ced9f3f9": {
+    "sfs": "2017:923",
+    "page": 46,
+    "bbox": [
+      120.84,
+      486.93,
+      194.84,
+      530.77
+    ],
+    "alt": "X5 Gul ljuspil eller ljuspilar",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:1",
+        "stycke:andra anordningar för anvisningar för trafiken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "X5",
+      "anchor": "x5 gul ljuspil eller ljuspilar anordningen anger att trafikanter ska passera på den sida pilen eller pilarna visar. pilen eller pilarna kan vara blinkande.",
+      "occurrence": 1
+    }
+  },
+  "g-71d5f5dc2e3c90859885": {
+    "sfs": "2017:923",
+    "page": 46,
+    "bbox": [
+      120.84,
+      557.22,
+      181.88,
+      611.2
+    ],
+    "alt": "X6 Särskild varningsanordning",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:1",
+        "stycke:andra anordningar för anvisningar för trafiken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "X6",
+      "anchor": "x6 särskild varningsanordning anordningen anger att framkomligheten på en väg är inskränkt på grund av ett tillfälligt hinder eller liknande.",
+      "occurrence": 1
+    }
+  },
+  "g-81c845746bfcee8c6e25": {
+    "sfs": "2017:923",
+    "page": 47,
+    "bbox": [
+      51.41,
+      73.0,
+      147.97,
+      114.44
+    ],
+    "alt": "X7 Vägbom",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:1",
+        "stycke:andra anordningar för anvisningar för trafiken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "X7",
+      "anchor": "x7 vägbom anordningen anger att en väg är helt eller delvis avstängd för trafik.",
+      "occurrence": 1
+    }
+  },
+  "g-5c1034ae07abf6019523": {
+    "sfs": "2017:923",
+    "page": 47,
+    "bbox": [
+      51.41,
+      144.44,
+      103.81,
+      198.84
+    ],
+    "alt": "X8 Tillfällig stängning",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:1",
+        "stycke:andra anordningar för anvisningar för trafiken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "X8",
+      "anchor": "x8 tillfällig stängning anordningen anger att en anvisning genom ett vägmärke om väg till ort, plats, inrättning, anläggning eller liknande tillfälligt inte gäller.",
+      "occurrence": 1
+    }
+  },
+  "g-d0042340f555caa7bee0": {
+    "sfs": "2017:923",
+    "page": 47,
+    "bbox": [
+      51.41,
+      227.7,
+      158.53,
+      258.58
+    ],
+    "alt": "X9 Cirkulationstrafik",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:1",
+        "stycke:andra anordningar för anvisningar för trafiken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "X9",
+      "anchor": "x9 cirkulationstrafik anordningen anger mittpunkten i en rondell runt vilken fordon ska föras.",
+      "occurrence": 1
+    }
+  },
+  "g-06c73bfd1d2a31991d55": {
+    "sfs": "2017:923",
+    "page": 47,
+    "bbox": [
+      51.41,
+      294.17,
+      90.85,
+      454.65
+    ],
+    "alt": "X10 Stolpmarkeringsanordning",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:1",
+        "stycke:andra anordningar för anvisningar för trafiken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "X10",
+      "anchor": "x10 stolpmarkeringsanordning anordningen används för att det ska vara lättare att upptäcka ett vägmärke eller en annan anordning enligt denna förordning.",
+      "occurrence": 1
+    }
+  },
+  "g-6e43112ee2bd593ed0d5": {
+    "sfs": "2017:923",
+    "page": 47,
+    "bbox": [
+      51.41,
+      526.32,
+      123.01,
+      599.92
+    ],
+    "alt": "V1 Stopp",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:2",
+        "stycke:tecken av vakt är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "V1",
+      "anchor": "v1 stopp tecknet anger stopp för den trafikant vakten är vänd mot.",
+      "occurrence": 1
+    }
+  },
+  "g-af58c146c41c25c70601": {
+    "sfs": "2017:923",
+    "page": 48,
+    "bbox": [
+      148.6,
+      73.0,
+      192.44,
+      145.64
+    ],
+    "alt": "V2 Kör fram",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:2",
+        "stycke:tecken av vakt är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "V2",
+      "anchor": "v2 kör fram tecknet anger att trafikanten får fortsätta framåt.",
+      "occurrence": 1
+    }
+  },
+  "g-a7acc52c3e1739b178cf": {
+    "sfs": "2017:923",
+    "page": 48,
+    "bbox": [
+      120.84,
+      173.36,
+      183.32,
+      229.68
+    ],
+    "alt": "V3 Kännetecken",
+    "identity": {
+      "path": [
+        "kapitel:5",
+        "paragraf:2",
+        "stycke:tecken av vakt är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "V3",
+      "anchor": "v3 kännetecken kännetecken ska bäras både framtill och baktill.",
+      "occurrence": 1
+    }
+  },
+  "g-12dba50b5c1f617dc007": {
+    "sfs": "2017:923",
+    "page": 49,
+    "bbox": [
+      51.41,
+      84.79,
+      109.09,
+      146.31
+    ],
+    "alt": "Y1 Ljussignal",
+    "identity": {
+      "path": [
+        "kapitel:6",
+        "paragraf:6",
+        "stycke:signaler vid korsning med järnväg eller spårväg är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "Y1",
+      "anchor": "y1 ljussignal stopp. trafikanter får inte passera stopplinjen eller, om sådan saknas, signalen.",
+      "occurrence": 1
+    }
+  },
+  "g-2bedf76e1ba6f0efe5ba": {
+    "sfs": "2017:923",
+    "page": 49,
+    "bbox": [
+      51.41,
+      412.34,
+      171.97,
+      425.46
+    ],
+    "alt": "Y3 Bom",
+    "identity": {
+      "path": [
+        "kapitel:6",
+        "paragraf:8",
+        "stycke:bommar vid korsning med järnväg eller spårväg är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "Y3",
+      "anchor": "y3 bom anordningens baksida får förses med texten ”kör genom bommen”.",
+      "occurrence": 1
+    }
+  },
+  "g-7b2269665c15ac444779": {
+    "sfs": "2017:923",
+    "page": 49,
+    "bbox": [
+      51.41,
+      497.8,
+      74.53,
+      586.76
+    ],
+    "alt": "Y4 Plankorsningsskärm",
+    "identity": {
+      "path": [
+        "kapitel:6",
+        "paragraf:9",
+        "stycke:skärmar vid korsning med järnväg eller spårväg är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "Y4",
+      "anchor": "y4 plankorsningsskärm skärmen används för att göra en plankorsning lättare att upptäcka.",
+      "occurrence": 1
+    }
+  },
+  "g-0f11789c38e7345eeb69": {
+    "sfs": "2017:923",
+    "page": 50,
+    "bbox": [
+      120.84,
+      113.54,
+      186.68,
+      192.9
+    ],
+    "alt": "P4 Kör fram",
+    "identity": {
+      "path": [
+        "kapitel:7",
+        "paragraf:2",
+        "stycke:tecken av polisman m.fl. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "P4",
+      "anchor": "p4 kör fram tecknet anger att trafikanter i den färdriktning som tecknet ges får fortsätta framåt. tecknet ges med en vinkande rörelse i färdriktningen.",
+      "occurrence": 1
+    }
+  },
+  "g-63892a5edbf164843510": {
+    "sfs": "2017:923",
+    "page": 50,
+    "bbox": [
+      120.84,
+      220.74,
+      172.76,
+      300.58
+    ],
+    "alt": "P5 Minska hastigheten",
+    "identity": {
+      "path": [
+        "kapitel:7",
+        "paragraf:2",
+        "stycke:tecken av polisman m.fl. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "P5",
+      "anchor": "p5 minska hastigheten tecknet anger att den trafikant som polismannen är vänd mot ska minska hastigheten. under mörker och vid nedsatt sikt kan tecknet vara förtydligat med en lykta som visar vitt eller gult ljus eller en reflexanordning som återkastar vitt eller gult ljus.",
+      "occurrence": 1
+    }
+  },
+  "g-d2552e262636aed8e79e": {
+    "sfs": "2017:923",
+    "page": 50,
+    "bbox": [
+      120.84,
+      326.51,
+      222.2,
+      372.27
+    ],
+    "alt": "P6 Kontroll",
+    "identity": {
+      "path": [
+        "kapitel:7",
+        "paragraf:2",
+        "stycke:tecken av polisman m.fl. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "P6",
+      "anchor": "p6 kontroll tecknet anger att fordonsförare ska köra in på kontrollplats för kontroll. visas symbol för visst eller vissa slag av fordon enligt 2 kap. 28 § gäller skyldigheten att köra in för kontroll endast för förare av dessa fordon. tecknet är anpassat till förhållandena på platsen.",
+      "occurrence": 1
+    }
+  },
+  "g-89e7e2b9ebeafd7c4b4c": {
+    "sfs": "2017:923",
+    "page": 50,
+    "bbox": [
+      120.84,
+      444.68,
+      220.28,
+      507.72
+    ],
+    "alt": "P7 Förberedande upplysning om kontroll",
+    "identity": {
+      "path": [
+        "kapitel:7",
+        "paragraf:2",
+        "stycke:tecken av polisman m.fl. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "P7",
+      "anchor": "p7 förberedande upplysning om kontroll tecknet ger förberedande upplysning om kontroll. tecknet är anpassat till förhållandena på platsen.",
+      "occurrence": 1
+    }
+  },
+  "g-02cb55aa31dd66a323e7": {
+    "sfs": "2017:923",
+    "page": 50,
+    "bbox": [
+      120.84,
+      537.85,
+      198.68,
+      605.69
+    ],
+    "alt": "P8 Minska hastigheten",
+    "identity": {
+      "path": [
+        "kapitel:7",
+        "paragraf:2",
+        "stycke:tecken av polisman m.fl. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "P8",
+      "anchor": "p8 minska hastigheten tecknet anger att de trafikanter som befinner sig bakom polisfordonet ska minska hastigheten. under mörker och vid nedsatt sikt får tecknet förtydligas med en lykta som visar vitt eller gult ljus eller en reflexanordning som återkastar vitt eller gult ljus.",
+      "occurrence": 1
+    }
+  },
+  "g-1f364a8f70415ab3c2a7": {
+    "sfs": "2017:923",
+    "page": 51,
+    "bbox": [
+      51.41,
+      73.0,
+      123.01,
+      132.68
+    ],
+    "alt": "P9 Minska hastigheten",
+    "identity": {
+      "path": [
+        "kapitel:7",
+        "paragraf:2",
+        "stycke:tecken av polisman m.fl. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "P9",
+      "anchor": "p9 minska hastigheten tecknet anger att de trafikanter som möter polisfordonet ska minska hastigheten. under mörker och vid nedsatt sikt får tecknet förtydligas med en lykta som visar vitt eller gult ljus eller en reflexanordning som återkastar vitt eller gult ljus.",
+      "occurrence": 1
+    }
+  },
+  "g-6057b0f2d74f4adfb338": {
+    "sfs": "2017:923",
+    "page": 51,
+    "bbox": [
+      51.41,
+      180.49,
+      133.09,
+      247.85
+    ],
+    "alt": "P10 Följ efter och stanna bakom polisfordonet när detta stannar",
+    "identity": {
+      "path": [
+        "kapitel:7",
+        "paragraf:2",
+        "stycke:tecken av polisman m.fl. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "P10",
+      "anchor": "p10 följ efter och stanna bakom polisfordonet när detta stannar tecknet anger att föraren av det fordon som befinner sig bakom polisfordonet ska följa efter det och stanna när polisfordonet stannar. tecknet kan ges med en stoppspade.",
+      "occurrence": 1
+    }
+  },
+  "g-1db3ac276077ae1da048": {
+    "sfs": "2017:923",
+    "page": 51,
+    "bbox": [
+      51.81,
+      285.97,
+      125.89,
+      350.93
+    ],
+    "alt": "P11 Kör in till vägkanten och stanna framför polisfordonet",
+    "identity": {
+      "path": [
+        "kapitel:7",
+        "paragraf:2",
+        "stycke:tecken av polisman m.fl. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "P11",
+      "anchor": "p11 kör in till vägkanten och stanna framför polisfordonet tecknet anger att föraren av det fordon som befinner sig framför polisfordonet ska köra in till vägkanten och stanna. tecknet ges med växelvis blinkande blått och rött ljus.",
+      "occurrence": 1
+    }
+  },
+  "g-c004637d78eb6ca28727": {
+    "sfs": "2008:1073",
+    "page": 1,
+    "bbox": [
+      65.38,
+      324.88,
+      123.06,
+      393.12
+    ],
+    "alt": "B2 Stopplikt",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:6",
+        "stycke:väjningspliktsmärken är följande och upplyser om väjningsregler."
+      ],
+      "sort": "vagmarke",
+      "code": "B2",
+      "anchor": "b2 stopplikt märket anger att förare har stopplikt före infart på korsande väg, led eller spårområde och att bestämmelserna i 3 kap. 19 § trafikförordningen är tillämpliga.",
+      "occurrence": 1
+    }
+  },
+  "g-4ab63e86620204f443e0": {
+    "sfs": "2008:1073",
+    "page": 1,
+    "bbox": [
+      66.26,
+      432.95,
+      125.46,
+      558.31
+    ],
+    "alt": "B3 Övergångsställe",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:6",
+        "stycke:väjningspliktsmärken är följande och upplyser om väjningsregler."
+      ],
+      "sort": "vagmarke",
+      "code": "B3",
+      "anchor": "b3 övergångsställe märkena, som är likvärdiga och kan användas var för sig eller tillsammans, anger ett övergångsställe. vid obevakade övergångsställen är för fordonsförare bestämmelserna i 3 kap. 61 § och för gående bestämmelserna i 7 kap. 4 § trafikförordningen tillämpliga.",
+      "occurrence": 1
+    }
+  },
+  "g-0c306892e9b803ca82a8": {
+    "sfs": "2008:1073",
+    "page": 2,
+    "bbox": [
+      135.42,
+      86.59,
+      194.54,
+      145.79
+    ],
+    "alt": "B4 Huvudled",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:6",
+        "stycke:väjningspliktsmärken är följande och upplyser om väjningsregler."
+      ],
+      "sort": "vagmarke",
+      "code": "B4",
+      "anchor": "b4 huvudled märket är uppsatt vid huvudledens början och upprepat efter varje korsning med annan väg än sådan som avses i 3 kap. 21 § andra stycket trafikförordningen, om det inte ändå tydligt framgår att huvudleden fortsätter efter korsningen.",
+      "occurrence": 1
+    }
+  },
+  "g-46697e9e9b88fef31b9e": {
+    "sfs": "2014:1038",
+    "page": 1,
+    "bbox": [
+      51.41,
+      338.72,
+      108.13,
+      397.92
+    ],
+    "alt": "B7 Mötande trafik har väjningsplikt",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:6",
+        "stycke:väjningspliktsmärken är följande och upplyser om väjningsregler."
+      ],
+      "sort": "vagmarke",
+      "code": "B7",
+      "anchor": "b7 mötande trafik har väjningsplikt",
+      "occurrence": 1
+    }
+  },
+  "g-b12e151b08526cc299b4": {
+    "sfs": "2014:1038",
+    "page": 1,
+    "bbox": [
+      51.41,
+      442.2,
+      108.13,
+      501.4
+    ],
+    "alt": "B8 Cykelöverfart",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:6",
+        "stycke:väjningspliktsmärken är följande och upplyser om väjningsregler."
+      ],
+      "sort": "vagmarke",
+      "code": "B8",
+      "anchor": "b8 cykelöverfart märket anger en cykelöverfart. vid cykelöverfarter är för fordonsförare bestämmelserna i 3 kap. 61 a § och för cyklande och förare av moped klass ii bestämmelserna i 6 kap. 6 § trafikförordningen tillämpliga.",
+      "occurrence": 1
+    }
+  },
+  "g-62afc6b1b2504e3758da": {
+    "sfs": "2018:101",
+    "page": 1,
+    "bbox": [
+      51.41,
+      318.69,
+      134.05,
+      353.41
+    ],
+    "alt": "C45 Särskilda bestämmelser för stan- nande och parkering",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C45",
+      "anchor": "c45 särskilda bestämmelser för stannande och parkering märket anger det förbud som anges med det infogade märket. märket kan också ange avvikelse från den reglering som anges med det märke som den är uppsatt under.",
+      "occurrence": 1
+    }
+  },
+  "g-ae1e22e24acb8eb2ba21": {
+    "sfs": "2018:101",
+    "page": 2,
+    "bbox": [
+      121.24,
+      104.15,
+      229.4,
+      169.03
+    ],
+    "alt": "C46 Begränsat trippelaxeltryck",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:8",
+        "stycke:förbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "C46",
+      "anchor": "c46 begränsat trippelaxeltryck högsta tillåtna trippelaxeltryck anges på märket.",
+      "occurrence": 1
+    }
+  },
+  "g-9986e21280f977f0e73a": {
+    "sfs": "2007:448",
+    "page": 5,
+    "bbox": [
+      70.71,
+      231.45,
+      186.47,
+      347.29
+    ],
+    "alt": "D1 Påbjuden körriktning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D1",
+      "anchor": "d1 påbjuden körriktning märket anger att fordon endast får föras i pilens eller, där två pilar finns, i endera pilens riktning.",
+      "occurrence": 1
+    }
+  },
+  "g-c10ccc9a75e524083440": {
+    "sfs": "2007:448",
+    "page": 5,
+    "bbox": [
+      70.71,
+      380.21,
+      186.95,
+      435.57
+    ],
+    "alt": "D2 Påbjuden körbana",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D2",
+      "anchor": "d2 påbjuden körbana märkena anger att fordon endast får föras förbi märket där pilen visar eller, där två pilar finns, där pilarna visar.",
+      "occurrence": 1
+    }
+  },
+  "g-a0b46eb8d0d62ed0363a": {
+    "sfs": "2007:448",
+    "page": 5,
+    "bbox": [
+      71.59,
+      470.27,
+      127.43,
+      522.34
+    ],
+    "alt": "D3 Cirkulationsplats",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D3",
+      "anchor": "d3 cirkulationsplats",
+      "occurrence": 1
+    }
+  },
+  "g-422ddf3149a71c498a80": {
+    "sfs": "2007:448",
+    "page": 6,
+    "bbox": [
+      129.42,
+      97.37,
+      184.22,
+      152.73
+    ],
+    "alt": "D10 Påbjudet körfält eller körbana för fordon i linjetrafik m.fl.",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D10",
+      "anchor": "d10 påbjudet körfält eller körbana för fordon i linjetrafik m.fl. märket anger även att fordon som anges i 8 kap. 2 § trafikförordningen (1998:1276) får använda körfältet eller körbanan, om inte annat anges på en tilläggstavla. om andra fordon tillåts trafikera körfältet eller körbanan anges det på en tilläggstavla.",
+      "occurrence": 1
+    }
+  },
+  "g-553487e48ccb246ece79": {
+    "sfs": "2007:448",
+    "page": 6,
+    "bbox": [
+      129.42,
+      397.37,
+      221.66,
+      446.01
+    ],
+    "alt": "E6 Tättbebyggt område upphör",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E6",
+      "anchor": "e6 tättbebyggt område upphör ortnamnet kan vara infogat i märket.",
+      "occurrence": 1
+    }
+  },
+  "g-03456853ee77f402ca11": {
+    "sfs": "2007:448",
+    "page": 6,
+    "bbox": [
+      129.42,
+      472.94,
+      189.02,
+      533.1
+    ],
+    "alt": "E7 Gågata",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E7",
+      "anchor": "e7 gågata märket anger att bestämmelserna i 8 kap. 1 § trafikförordningen (1998:1276) är tillämpliga.",
+      "occurrence": 1
+    }
+  },
+  "g-6218f46104acfd534a00": {
+    "sfs": "2007:448",
+    "page": 6,
+    "bbox": [
+      129.42,
+      562.52,
+      189.02,
+      620.4
+    ],
+    "alt": "E8 Gågata upphör",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E8",
+      "anchor": "e8 gågata upphör märket behöver inte vara uppsatt om det ändå tydligt framgår att gågatan upphör.",
+      "occurrence": 1
+    }
+  },
+  "g-f2db2221eb279e817460": {
+    "sfs": "2007:448",
+    "page": 14,
+    "bbox": [
+      129.42,
+      315.32,
+      249.02,
+      354.84
+    ],
+    "alt": "M24 Uppställningsplats",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M24",
+      "anchor": "m24 uppställningsplats markeringen anger gränsen för uppställningsplats för fordon.",
+      "occurrence": 1
+    }
+  },
+  "g-ac5bbeb3f0a125edbe0f": {
+    "sfs": "2007:448",
+    "page": 14,
+    "bbox": [
+      129.42,
+      382.25,
+      280.18,
+      450.49
+    ],
+    "alt": "M25 Gång- och cykelpil",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M25",
+      "anchor": "m25 gång- och cykelpil markeringen visar lämplig färdväg för gående eller cyklande och förare av moped klass ii.",
+      "occurrence": 1
+    }
+  },
+  "g-5305afd96eecdd180f9e": {
+    "sfs": "2011:1221",
+    "page": 3,
+    "bbox": [
+      114.86,
+      210.53,
+      168.7,
+      266.37
+    ],
+    "alt": "D11 Slut på påbjuden bana, körfält, väg eller led",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D11",
+      "anchor": "d11 slut på påbjuden bana, körfält, väg eller led märket anger att påbjuden bana, körfält, väg eller led som märkts ut med något av märkena d4–d10 upphör.",
+      "occurrence": 1
+    }
+  },
+  "g-e7a85bc4b1f5886b8d53": {
+    "sfs": "2011:1221",
+    "page": 3,
+    "bbox": [
+      114.86,
+      382.34,
+      229.18,
+      464.1
+    ],
+    "alt": "D12 Påbjuden körriktning för fordon lastat med farligt gods",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:10",
+        "stycke:påbudsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "D12",
+      "anchor": "d12 påbjuden körriktning för fordon lastat med farligt gods märket anger påbjuden körriktning för trafik med fordon med sådan last som omfattas av krav på märkning med orangefärgad skylt enligt föreskrifter som har meddelats med stöd av lagen (2006:263) om transport av farligt gods.",
+      "occurrence": 1
+    }
+  },
+  "g-9eaba2446593e9a04e7d": {
+    "sfs": "2019:393",
+    "page": 1,
+    "bbox": [
+      65.44,
+      388.04,
+      147.12,
+      441.48
+    ],
+    "alt": "E23 Taxi",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E23",
+      "anchor": "e23 taxi märket anger den, i färdriktningen, bortre gränsen för en särskild uppställningsplats för fordon som används i taxitrafik.",
+      "occurrence": 1
+    }
+  },
+  "g-03dae76cf10ad44d9ade": {
+    "sfs": "2019:393",
+    "page": 1,
+    "bbox": [
+      65.44,
+      482.09,
+      145.68,
+      568.17
+    ],
+    "alt": "E24 Automatisk trafikövervakning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E24",
+      "anchor": "e24 automatisk trafikövervakning märket anger att automatisk övervakning med kamera eller motsvarande kan ske på en plats eller vägsträcka för övervakning av trafikregler, beskattning eller avgiftsbeläggning. märket anger vidare att personuppgifter kan registreras enligt europaparlamentets och rådets förordning (eu) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/eg (allmän dataskyddsförordning), lagen (2018:218) med kompletterande bestämmelser till eu:s dataskyddsförordning, vägtrafikdatalagen (2019:369) eller någon annan registerlag. gäller anvisningen en längre vägsträcka, anges sträckans längd på tilläggstavla t1, vägsträckas längd. märket upprepas på lämpliga avstånd.",
+      "occurrence": 1
+    }
+  },
+  "g-0c586abeb2513eec8f65": {
+    "sfs": "2019:393",
+    "page": 2,
+    "bbox": [
+      65.44,
+      159.17,
+      241.08,
+      252.45
+    ],
+    "alt": "E25 Betalväg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E25",
+      "anchor": "e25 betalväg märket anger att avgift eller särskild skatt ska betalas vid färd på en viss väg eller inom ett visst område.",
+      "occurrence": 1
+    }
+  },
+  "g-c85baf1a9c904feb49dc": {
+    "sfs": "2018:1561",
+    "page": 2,
+    "bbox": [
+      65.44,
+      74.79,
+      169.2,
+      86.81
+    ],
+    "alt": "E31 Miljözon",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E31",
+      "anchor": "e31 miljözon märket anger att bestämmelserna i 4 kap. 22–24 a §§ trafikförordningen (1998:1276) är tillämpliga.",
+      "occurrence": 1
+    }
+  },
+  "g-6aca62abc386e407af75": {
+    "sfs": "2020:844",
+    "page": 1,
+    "bbox": [
+      70.79,
+      377.73,
+      176.95,
+      536.77
+    ],
+    "alt": "E32 Slut på miljözon",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E32",
+      "anchor": "e32 slut på miljözon märket anger att en miljözon slutar.",
+      "occurrence": 1
+    }
+  },
+  "g-b6a796cb1814dc33c1d0": {
+    "sfs": "2020:844",
+    "page": 1,
+    "bbox": [
+      70.79,
+      578.74,
+      142.87,
+      652.82
+    ],
+    "alt": "E33 Cykelgata",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E33",
+      "anchor": "e33 cykelgata märket anger att bestämmelserna i 8 kap. 1 a § trafikförordningen (1998:1276) är tillämpliga.",
+      "occurrence": 1
+    }
+  },
+  "g-724ee806dfa74d6d7bf8": {
+    "sfs": "2020:844",
+    "page": 2,
+    "bbox": [
+      70.79,
+      61.44,
+      157.75,
+      140.24
+    ],
+    "alt": "E34 Cykelgata upphör",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:12",
+        "stycke:anvisningsmärken är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "E34",
+      "anchor": "e34 cykelgata upphör märket anger att en cykelgata upphör.",
+      "occurrence": 1
+    }
+  },
+  "g-dcce6d104365d2ccce46": {
+    "sfs": "2010:218",
+    "page": 3,
+    "bbox": [
+      114.86,
+      270.3,
+      213.34,
+      300.22
+    ],
+    "alt": "F10 Platsmärke",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F10",
+      "anchor": "f10 platsmärke märket anger en ort eller annan plats av betydelse för orienteringen.",
+      "occurrence": 1
+    }
+  },
+  "g-1fba6ef7e9eb0ab908d1": {
+    "sfs": "2010:218",
+    "page": 3,
+    "bbox": [
+      114.86,
+      324.1,
+      208.06,
+      351.93
+    ],
+    "alt": "F11 Vägnamn",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F11",
+      "anchor": "f11 vägnamn märket anger namn på en viss väg eller led.",
+      "occurrence": 1
+    }
+  },
+  "g-2c5d77c187510e8ff000": {
+    "sfs": "2010:218",
+    "page": 3,
+    "bbox": [
+      114.86,
+      372.87,
+      207.1,
+      408.7
+    ],
+    "alt": "F12 Vattendrag",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F12",
+      "anchor": "f12 vattendrag",
+      "occurrence": 1
+    }
+  },
+  "g-6746a5c8d9315aba3d6d": {
+    "sfs": "2010:218",
+    "page": 3,
+    "bbox": [
+      114.86,
+      427.23,
+      210.94,
+      456.67
+    ],
+    "alt": "F13 Avståndstavla",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F13",
+      "anchor": "f13 avståndstavla avstånd anges i hela kilometer.",
+      "occurrence": 1
+    }
+  },
+  "g-34bb08dcb2cddd680d01": {
+    "sfs": "2010:218",
+    "page": 3,
+    "bbox": [
+      114.86,
+      475.02,
+      264.45,
+      540.46
+    ],
+    "alt": "F14 Vägnummer",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F14",
+      "anchor": "f14 vägnummer vägnummer anges endast för vägar i nummergruppen 1-499.",
+      "occurrence": 1
+    }
+  },
+  "g-a9165d15de5cf41b619d": {
+    "sfs": "2010:218",
+    "page": 4,
+    "bbox": [
+      184.98,
+      489.15,
+      219.14,
+      524.23
+    ],
+    "alt": "H25 Gårdsbutik",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H25",
+      "anchor": "h25 gårdsbutik märket anger en anläggning med försäljning av lokalt tillverkade eller närodlade produkter.",
+      "occurrence": 1
+    }
+  },
+  "g-243a1dac35bcc07d218d": {
+    "sfs": "2010:218",
+    "page": 5,
+    "bbox": [
+      114.86,
+      225.05,
+      162.46,
+      263.11
+    ],
+    "alt": "I1 Turistväg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:26",
+        "stycke:lokaliseringsmärken för turistiskt intressanta mål m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "I1",
+      "anchor": "i1 turistväg märket anger en väg eller vägsträckning av turistiskt intresse.",
+      "occurrence": 1
+    }
+  },
+  "g-d565a79e05fc8d26079c": {
+    "sfs": "2010:218",
+    "page": 5,
+    "bbox": [
+      114.86,
+      281.65,
+      147.1,
+      318.29
+    ],
+    "alt": "I2 Turistområde",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:26",
+        "stycke:lokaliseringsmärken för turistiskt intressanta mål m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "I2",
+      "anchor": "i2 turistområde symbolen på märket är anpassad till temat för turistområdet.",
+      "occurrence": 1
+    }
+  },
+  "g-5ed414c294885ca85538": {
+    "sfs": "2010:218",
+    "page": 5,
+    "bbox": [
+      114.86,
+      370.84,
+      146.62,
+      415.64
+    ],
+    "alt": "I3 Landmärke",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:26",
+        "stycke:lokaliseringsmärken för turistiskt intressanta mål m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "I3",
+      "anchor": "i3 landmärke märket upplyser om ett landmärke av turistiskt intresse som kan ses från vägen.",
+      "occurrence": 1
+    }
+  },
+  "g-583ff1a1e1a1b0fe627a": {
+    "sfs": "2010:218",
+    "page": 5,
+    "bbox": [
+      114.86,
+      474.46,
+      146.62,
+      508.22
+    ],
+    "alt": "I4 Världsarv",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:26",
+        "stycke:lokaliseringsmärken för turistiskt intressanta mål m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "I4",
+      "anchor": "i4 världsarv märket anger ett av unesco beslutat världsarv.",
+      "occurrence": 1
+    }
+  },
+  "g-6dd599ed2cf5b3b03a52": {
+    "sfs": "2025:268",
+    "page": 1,
+    "bbox": [
+      65.44,
+      374.47,
+      114.96,
+      437.08
+    ],
+    "alt": "F21 Körfältsindelning före korsning",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F21",
+      "anchor": "f21 körfältsindelning före korsning märket visar lämpligt körfält för fortsatt färd. märket är anpassat till förhållandena på platsen.",
+      "occurrence": 1
+    }
+  },
+  "g-f08625d61c957721ec07": {
+    "sfs": "2025:268",
+    "page": 1,
+    "bbox": [
+      65.44,
+      457.09,
+      131.76,
+      524.56
+    ],
+    "alt": "F22 Riksmärke",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F22",
+      "anchor": "f22 riksmärke märket anger gräns till sverige eller annat eu-land.",
+      "occurrence": 1
+    }
+  },
+  "g-13f00eabb7e8734afd3d": {
+    "sfs": "2025:268",
+    "page": 1,
+    "bbox": [
+      65.44,
+      556.3,
+      241.08,
+      647.66
+    ],
+    "alt": "F23 Orienteringstavla för omled- ningsväg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F23",
+      "anchor": "f23 orienteringstavla för omledningsväg märket anger omledningsväg när ordinarie väg tillfälligt är avstängd.",
+      "occurrence": 1
+    }
+  },
+  "g-53d6c0c02bd4a26c1b1e": {
+    "sfs": "2023:70",
+    "page": 1,
+    "bbox": [
+      70.79,
+      405.97,
+      140.47,
+      453.17
+    ],
+    "alt": "F31 Lämplig väg eller förbifart för  visst fordonsslag eller trafikantgrupp",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F31",
+      "anchor": "f31 lämplig väg eller förbifart för visst fordonsslag eller trafikantgrupp fordonsslaget eller trafikantgruppen anges med symbol enligt 28 §.",
+      "occurrence": 1
+    }
+  },
+  "g-0f4d933ca1d4f54e0ccf": {
+    "sfs": "2023:70",
+    "page": 1,
+    "bbox": [
+      70.79,
+      490.3,
+      201.91,
+      550.94
+    ],
+    "alt": "F31a Färdväg för långa fordonståg",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F31a",
+      "anchor": "f31a färdväg för långa fordonståg märket anger färdväg enligt föreskrifter meddelade med stöd av 4 kap. 17 f § trafikförordningen (1998:1276).",
+      "occurrence": 1
+    }
+  },
+  "g-0b8eccb286e3e9ea964f": {
+    "sfs": "2023:70",
+    "page": 1,
+    "bbox": [
+      70.79,
+      589.32,
+      241.08,
+      696.52
+    ],
+    "alt": "F32 Farligt gods",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:17",
+        "stycke:lokaliseringsmärken för vägvisning är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "F32",
+      "anchor": "f32 farligt gods märket anger rekommenderad färdväg för fordon med last som omfattas av krav på märkning med orangefärgad skylt enligt föreskrifter som har meddelats med stöd av lagen (2006:263) om transport av farligt gods.",
+      "occurrence": 1
+    }
+  },
+  "g-d3ced18387a639a28e47": {
+    "sfs": "2012:300",
+    "page": 1,
+    "bbox": [
+      114.86,
+      403.4,
+      152.86,
+      443.88
+    ],
+    "alt": "H26 Hantverk",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:24",
+        "stycke:lokaliseringsmärken för upplysning om serviceanläggningar m.m. är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "H26",
+      "anchor": "h26 hantverk märket anger en anläggning med tillverkning och försäljning av hantverksprodukter.",
+      "occurrence": 1
+    }
+  },
+  "g-da1d6321fe887b9154f7": {
+    "sfs": "2015:932",
+    "page": 2,
+    "bbox": [
+      120.84,
+      113.54,
+      175.16,
+      148.74
+    ],
+    "alt": "S5 Buss",
+    "identity": {
+      "path": [
+        "kapitel:2",
+        "paragraf:28",
+        "stycke:följande symboler används på lokaliseringsmärken eller tilläggstavlor för att ange ett visst fordonsslag, en viss trafikantgrupp eller viss verksamhet."
+      ],
+      "sort": "vagmarke",
+      "code": "S5",
+      "anchor": "s5 buss",
+      "occurrence": 1
+    }
+  },
+  "g-a32ba1ee814106a23de0": {
+    "sfs": "2018:1558",
+    "page": 1,
+    "bbox": [
+      65.44,
+      533.89,
+      130.8,
+      573.41
+    ],
+    "alt": "M15 Övergångsställe",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:8",
+        "stycke:tvärgående markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M15",
+      "anchor": "m15 övergångsställe markeringen anger ett övergångsställe och är utförd där märke b3, övergångsställe, är uppsatt.",
+      "occurrence": 1
+    }
+  },
+  "g-d12e9e05fa98ae4c5b37": {
+    "sfs": "2018:1558",
+    "page": 1,
+    "bbox": [
+      65.44,
+      606.01,
+      130.8,
+      645.53
+    ],
+    "alt": "M16 Cykelpassage eller cykelöverfart Markeringen anger en cykelpassage",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:8",
+        "stycke:tvärgående markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M16",
+      "anchor": "m16 cykelpassage eller cykelöverfart markeringen anger en cykelpassage eller en cykelöverfart där märke b8, cykelöverfart, är uppsatt.",
+      "occurrence": 1
+    }
+  },
+  "g-3d9ea19dbaf1faeab55e": {
+    "sfs": "2018:1558",
+    "page": 2,
+    "bbox": [
+      65.44,
+      81.12,
+      131.28,
+      160.48
+    ],
+    "alt": "M17 Farthinder",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:8",
+        "stycke:tvärgående markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M17",
+      "anchor": "m17 farthinder markeringen anger ett farthinder i form av gupp, grop eller liknande.",
+      "occurrence": 1
+    }
+  },
+  "g-67d62b695d04f9d75481": {
+    "sfs": "2018:1558",
+    "page": 2,
+    "bbox": [
+      65.44,
+      193.98,
+      131.28,
+      307.42
+    ],
+    "alt": "M18 Cykelbox",
+    "identity": {
+      "path": [
+        "kapitel:4",
+        "paragraf:9",
+        "stycke:övriga markeringar är följande."
+      ],
+      "sort": "vagmarke",
+      "code": "M18",
+      "anchor": "m18 förberedande upplysning om väjningsplikt eller stopplikt markeringen anger att väjningsplikt eller stopplikt gäller längre fram i färdriktningen.",
+      "occurrence": 1
+    }
+  }
+}
