@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32021R0558": "fcb5a3f2e27d8b68438916c72493954d086616663e9ccbf8bc4aa61e93e25d78"
+    },
+    "run": {
+      "started": "2026-08-28T21:22:05+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 9966,
+      "completion_tokens": 2408,
+      "ended": "2026-08-28T21:22:42+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "4763b1a28fb6edac230fb6ddb0eda85b33889c26db88314d955fcf471a1f90a2"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "basel-iii",
+        "label": "Anpassning till Basel III",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1.3"
+        ]
+      },
+      {
+        "id": "nodlidande-exponeringar",
+        "label": "Värdepapperisering av nödlidande exponeringar",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "1.5",
+          "1.10"
+        ]
+      },
+      {
+        "id": "sts-balansrakning",
+        "label": "STS-värdepapperisering i balansräkningen",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "1.6",
+          "1.7"
+        ]
+      },
+      {
+        "id": "overgangsbestammelser",
+        "label": "Övergångsbestämmelser",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "1.8"
+        ]
+      },
+      {
+        "id": "slutanvandare-sakring",
+        "label": "Säkring för slutanvändare",
+        "range": [
+          10,
+          10
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "syntetisk-overskottsmarginal",
+        "label": "Syntetisk överskottsmarginal",
+        "range": [
+          11,
+          13
+        ],
+        "articleRefs": [
+          "1.1",
+          "1.2",
+          "1.4"
+        ]
+      },
+      {
+        "id": "ikrafttradande",
+        "label": "Slutbestämmelser och ikraftträdande",
+        "range": [
+          14,
+          16
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1.1": [
+        11
+      ],
+      "1.2": [
+        11
+      ],
+      "1.2.b": [
+        12
+      ],
+      "1.3": [
+        5
+      ],
+      "1.4": [
+        11
+      ],
+      "1.5": [
+        6,
+        7
+      ],
+      "1.6": [
+        8
+      ],
+      "1.7": [
+        6,
+        8
+      ],
+      "1.8": [
+        9
+      ],
+      "1.10": [
+        6,
+        7
+      ],
+      "2": [
+        16
+      ]
+    }
+  }
+}

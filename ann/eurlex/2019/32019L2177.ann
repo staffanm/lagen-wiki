@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32019L2177": "edeac7c552a89cbdd0d1c91bb5007a610ad1f81ad431f6a9b88cfad1c0241170"
+    },
+    "run": {
+      "started": "2026-08-28T21:23:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12423,
+      "completion_tokens": 2304,
+      "ended": "2026-08-28T21:23:51+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c4f2397c56cbcc4fef204c72ef7300f80ec16c10bfbcab4185ab95afb613aec9"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "mifid-reporting-esma",
+        "label": "Datarapporteringstjänster och Esma",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "solvency-technical",
+        "label": "Solvens II: Volatilitetsjustering och interna modeller",
+        "range": [
+          5,
+          6
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "solvency-cross-border",
+        "label": "Gränsöverskridande försäkringsverksamhet och Eiopa",
+        "range": [
+          7,
+          9
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "aml-eba",
+        "label": "Penningtvätt och Eba",
+        "range": [
+          10,
+          11
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "1.1": [
+        1
+      ],
+      "1.2": [
+        1
+      ],
+      "1.3": [
+        2,
+        3
+      ],
+      "1.5": [
+        3,
+        4
+      ],
+      "1.6": [
+        2,
+        4
+      ],
+      "1.7": [
+        1
+      ],
+      "2": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "2.1": [
+        6
+      ],
+      "2.2": [
+        5
+      ],
+      "152a": [
+        7,
+        8
+      ],
+      "152b": [
+        7,
+        8
+      ],
+      "2.4": [
+        9
+      ],
+      "2.5": [
+        9
+      ],
+      "3": [
+        10
+      ],
+      "3.1": [
+        10
+      ],
+      "3.2": [
+        10
+      ],
+      "3.3": [
+        10
+      ],
+      "3.4": [
+        10
+      ],
+      "3.6": [
+        10
+      ],
+      "3.7": [
+        10
+      ],
+      "3.9": [
+        10
+      ],
+      "3.10": [
+        10
+      ]
+    }
+  }
+}

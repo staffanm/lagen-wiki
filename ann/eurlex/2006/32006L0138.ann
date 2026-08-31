@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32006L0138": "d3ede3e1bed22ebfdb612190c16e5b6d5e0215ebc02e0228ea114b4b021c3fd3"
+    },
+    "run": {
+      "started": "2026-08-28T21:03:04+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 3790,
+      "completion_tokens": 1493,
+      "ended": "2026-08-28T21:03:24+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f6d8f0712ade23e730e8c92e63494c1ebfef59fb2db0a600977e08fc5a051be1"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "rättslig-grund-genomförande",
+        "label": "Rättslig grund och genomförande",
+        "range": [
+          3,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3
+      ],
+      "1.1": [
+        2
+      ],
+      "1.2": [
+        2
+      ],
+      "1.3": [
+        2
+      ],
+      "1.4": [
+        2
+      ],
+      "2": [
+        4
+      ],
+      "3": [
+        4
+      ]
+    }
+  }
+}

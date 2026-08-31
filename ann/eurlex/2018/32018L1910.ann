@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32018L1910": "44879843c8062a110d57be3607471a565aa05cb366f26fc5d96915d741b73607"
+    },
+    "run": {
+      "started": "2026-08-28T21:18:38+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 7301,
+      "completion_tokens": 2932,
+      "ended": "2026-08-28T21:19:18+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "3ec5b11a43b7ac8c86172ed2cbace1295a3e75cc2bf7fa0930e19f7d073da6c7"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "17a",
+          "36a",
+          "138"
+        ]
+      },
+      {
+        "id": "avropslager",
+        "label": "Avropslager",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "17a",
+          "243",
+          "262"
+        ]
+      },
+      {
+        "id": "kedjetransaktioner",
+        "label": "Kedjetransaktioner",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "36a"
+        ]
+      },
+      {
+        "id": "vies-registrering",
+        "label": "Registreringsnummer och VIES",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "138",
+          "262"
+        ]
+      },
+      {
+        "id": "formella-bestammelser",
+        "label": "Formella och juridiska bestämmelser",
+        "range": [
+          8,
+          10
+        ],
+        "articleRefs": [
+          "2",
+          "3",
+          "4"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "17a": [
+        5
+      ],
+      "17a.2": [
+        5
+      ],
+      "17a.3": [
+        5
+      ],
+      "36a": [
+        6
+      ],
+      "36a.1": [
+        6
+      ],
+      "36a.2": [
+        6
+      ],
+      "138": [
+        3,
+        7
+      ],
+      "138.2": [
+        7
+      ],
+      "243": [
+        5
+      ],
+      "262": [
+        5,
+        7
+      ],
+      "2": [
+        8,
+        9
+      ],
+      "3": [
+        8
+      ],
+      "4": [
+        8
+      ]
+    }
+  }
+}

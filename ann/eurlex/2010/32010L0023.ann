@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32010L0023": "401bb73ec69b66023e4a72e207d2cb242b7290e471feb6e4d6443a5a3ea71f0f"
+    },
+    "run": {
+      "started": "2026-08-28T21:08:14+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 4492,
+      "completion_tokens": 3333,
+      "ended": "2026-08-28T21:08:55+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d4ac99155063daa899040bb9ae4343c87e3b71cccf4d1571f2ca70f60f408fe8"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-moms",
+        "label": "Bakgrund: Mervärdesskatt",
+        "range": [
+          1,
+          1
+        ],
+        "articleRefs": [
+          "199a.1"
+        ]
+      },
+      {
+        "id": "bedrageri-utslapp",
+        "label": "Bedrägerier inom utsläppsrätter",
+        "range": [
+          2,
+          2
+        ],
+        "articleRefs": [
+          "199a.1"
+        ]
+      },
+      {
+        "id": "systemprinciper",
+        "label": "Systemets grundläggande principer",
+        "range": [
+          3,
+          3
+        ],
+        "articleRefs": [
+          "199a.1"
+        ]
+      },
+      {
+        "id": "utvardering-kriterier",
+        "label": "Utvärdering och kriterier",
+        "range": [
+          4,
+          5
+        ],
+        "articleRefs": [
+          "199a.2",
+          "199a.3"
+        ]
+      },
+      {
+        "id": "uppfoljning-bedrageri",
+        "label": "Rapportering av bedrägeridynamik",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "199a.4"
+        ]
+      },
+      {
+        "id": "lagstiftningsgrund",
+        "label": "Lagstiftningens grund och ändringsbehov",
+        "range": [
+          7,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        7,
+        9
+      ],
+      "199a": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "199a.1": [
+        1,
+        2,
+        3
+      ],
+      "199a.1.a": [
+        2
+      ],
+      "199a.1.b": [
+        2
+      ],
+      "199a.2": [
+        4,
+        5
+      ],
+      "199a.3": [
+        4,
+        5
+      ],
+      "199a.4": [
+        6
+      ],
+      "2": [
+        7
+      ]
+    }
+  }
+}

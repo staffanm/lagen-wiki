@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32017R2188": "feddfecd5763086da6aaba2f4c37e544475b6a2ae568ad7764827eb6be4eb3a9"
+    },
+    "run": {
+      "started": "2026-08-28T20:59:53+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 3363,
+      "completion_tokens": 976,
+      "ended": "2026-08-28T21:00:07+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "396beaa57ad20df0ad6ad2b84bdd5fb57fb227129bdc8db753a259bf9e2f4017"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-och-rattslig-ram",
+        "label": "Bakgrund och rättslig ram",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "motivering-och-tillampning",
+        "label": "Motivering till ändring och tillämpning",
+        "range": [
+          3,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3
+      ],
+      "2": [
+        4
+      ]
+    }
+  }
+}

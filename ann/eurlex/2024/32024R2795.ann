@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32024R2795": "ffd5d216dd9763a13cd11d951faada9e7cd85ee76baa7450563673ab4836245e"
+    },
+    "run": {
+      "started": "2026-08-28T21:06:43+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 4219,
+      "completion_tokens": 2499,
+      "ended": "2026-08-28T21:07:16+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "39a28d14aec1da309f2f43bdd3b65efe14984aa463d4a7a183d86ca062621430"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-frtb",
+        "label": "Bakgrund och FRTB-standarder",
+        "range": [
+          1,
+          1
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "motivering-uppskjutande",
+        "label": "Motivering till uppskjutande",
+        "range": [
+          2,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "rapporteringskrav",
+        "label": "Rapporteringskrav under övergångsperioden",
+        "range": [
+          3,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "offentliggörande",
+        "label": "Krav på offentliggörande",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "behov-andring",
+        "label": "Behov av ändring",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tidplan-ikrafttradande",
+        "label": "Tidplan och ikraftträdande",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "2": [
+        6
+      ],
+      "2.1": [
+        6
+      ],
+      "2.2": [
+        6
+      ]
+    }
+  }
+}

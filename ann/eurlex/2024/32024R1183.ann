@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32024R1183": "b25e1863826351cdda12f8be8e043b82f267eb5b1b7da189580af98571d0629b"
+    },
+    "run": {
+      "started": "2026-08-28T20:27:08+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 58512,
+      "completion_tokens": 4634,
+      "ended": "2026-08-28T20:29:35+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1f45dcbb224a67ab8fa49267b93d73ec4472cd69612d6b1399b12fccc7e6e468"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "harmonisering-inre-marknad",
+        "label": "Harmonisering och den inre marknaden",
+        "range": [
+          7,
+          11
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "dataskydd-integritet",
+        "label": "Dataskydd och integritet",
+        "range": [
+          12,
+          14
+        ],
+        "articleRefs": [
+          "5a",
+          "45h"
+        ]
+      },
+      {
+        "id": "digitala-identitetsplanbocker",
+        "label": "Europeiska digitala identitetsplånböcker",
+        "range": [
+          15,
+          22
+        ],
+        "articleRefs": [
+          "5a"
+        ]
+      },
+      {
+        "id": "forlitande-parter",
+        "label": "Förlitande parter och registrering",
+        "range": [
+          17,
+          18
+        ],
+        "articleRefs": [
+          "5b"
+        ]
+      },
+      {
+        "id": "sakerhet-certifiering",
+        "label": "Säkerhet och certifiering",
+        "range": [
+          23,
+          31
+        ],
+        "articleRefs": [
+          "5c",
+          "12a"
+        ]
+      },
+      {
+        "id": "transparens-open-source",
+        "label": "Transparens och öppen källkod",
+        "range": [
+          32,
+          33
+        ],
+        "articleRefs": [
+          "5a"
+        ]
+      },
+      {
+        "id": "användarstöd-tillgänglighet",
+        "label": "Användarstöd och tillgänglighet",
+        "range": [
+          34,
+          43
+        ],
+        "articleRefs": [
+          "5a",
+          "15"
+        ]
+      },
+      {
+        "id": "sanktioner-omfang",
+        "label": "Sanktioner och tillämpningsområde",
+        "range": [
+          44,
+          48
+        ],
+        "articleRefs": [
+          "16",
+          "2"
+        ]
+      },
+      {
+        "id": "infrastruktur-tredjeland",
+        "label": "Infrastruktur och tredjeländer",
+        "range": [
+          49,
+          52
+        ],
+        "articleRefs": [
+          "12b",
+          "14"
+        ]
+      },
+      {
+        "id": "elektroniska-attributsintyg",
+        "label": "Elektroniska attributsintyg",
+        "range": [
+          53,
+          62
+        ],
+        "articleRefs": [
+          "45b",
+          "45d",
+          "45e",
+          "45f",
+          "45g",
+          "45h"
+        ]
+      },
+      {
+        "id": "underskrifter-stämplar",
+        "label": "Elektroniska underskrifter och stämplar",
+        "range": [
+          63,
+          64
+        ],
+        "articleRefs": [
+          "24",
+          "29a",
+          "32a"
+        ]
+      },
+      {
+        "id": "webbsidor-arkivering",
+        "label": "Webbplatsautentisering och arkivering",
+        "range": [
+          65,
+          67
+        ],
+        "articleRefs": [
+          "45",
+          "45i",
+          "45j"
+        ]
+      },
+      {
+        "id": "elektroniska-liggare",
+        "label": "Elektroniska liggare",
+        "range": [
+          68,
+          69
+        ],
+        "articleRefs": [
+          "45k",
+          "45l"
+        ]
+      },
+      {
+        "id": "samarbete-tillsyn",
+        "label": "Samarbete och tillsyn",
+        "range": [
+          70,
+          74
+        ],
+        "articleRefs": [
+          "46a",
+          "46b",
+          "46e"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och översyn",
+        "range": [
+          75,
+          78
+        ],
+        "articleRefs": [
+          "49",
+          "51"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        10,
+        11
+      ],
+      "2": [
+        46
+      ],
+      "5a": [
+        15,
+        16,
+        19,
+        20,
+        21,
+        22,
+        28,
+        32,
+        33,
+        34,
+        35,
+        36,
+        42,
+        43
+      ],
+      "5a.3": [
+        33
+      ],
+      "5a.4": [
+        13,
+        14,
+        19
+      ],
+      "5a.14": [
+        12,
+        32
+      ],
+      "5b": [
+        17,
+        18
+      ],
+      "5c": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "5e": [
+        18
+      ],
+      "5f": [
+        56,
+        57,
+        58
+      ],
+      "11a": [
+        41
+      ],
+      "12a": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "12b": [
+        49
+      ],
+      "14": [
+        47
+      ],
+      "16": [
+        44,
+        45
+      ],
+      "24": [
+        74
+      ],
+      "29a": [
+        19,
+        20
+      ],
+      "32a": [
+        63,
+        72
+      ],
+      "45": [
+        65
+      ],
+      "45a": [
+        65
+      ],
+      "45b": [
+        55
+      ],
+      "45d": [
+        55
+      ],
+      "45e": [
+        61
+      ],
+      "45f": [
+        55,
+        61
+      ],
+      "45g": [
+        54
+      ],
+      "45h": [
+        12,
+        59
+      ],
+      "45i": [
+        66
+      ],
+      "45j": [
+        66
+      ],
+      "45k": [
+        68
+      ],
+      "45l": [
+        68
+      ],
+      "46a": [
+        15,
+        18
+      ],
+      "46b": [
+        51
+      ],
+      "49": [
+        75
+      ],
+      "51": [
+        76
+      ]
+    }
+  }
+}

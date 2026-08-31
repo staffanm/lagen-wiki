@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32019R1243": "3bf624fb2ed6953514baa9985004b5fd445fbc2dd4301728ed99555844fabfbf"
+    },
+    "run": {
+      "started": "2026-08-28T21:06:16+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 4206,
+      "completion_tokens": 2038,
+      "ended": "2026-08-28T21:06:43+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "a603ec5e2357b4d29e5c98a68b37dff2f42aa5be4c6cad4bf5901dcced5b2213"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "lisbon-framework",
+        "label": "Lissabonfördragets ramverk",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "legislative-context",
+        "label": "Lagstiftningskontext och överenskommelser",
+        "range": [
+          3,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "delegated-acts-criteria",
+        "label": "Kriterier för delegerade akter",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "implementing-acts-criteria",
+        "label": "Kriterier för genomförandeakter",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "power-optimization",
+        "label": "Optimering och sammanslagning av befogenheter",
+        "range": [
+          8,
+          9
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "transitional-provisions",
+        "label": "Övergångsbestämmelser och tillämpning",
+        "range": [
+          10,
+          12
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12
+      ],
+      "2": [
+        10
+      ]
+    }
+  }
+}

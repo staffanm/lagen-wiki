@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32021R0424": "aae064861aeee48aefb90d66e3e0936a185aef4151e6322a63cb1d8fc87682a3"
+    },
+    "run": {
+      "started": "2026-08-28T21:25:11+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12950,
+      "completion_tokens": 3625,
+      "ended": "2026-08-28T21:26:04+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b2a0a158c17208e6332b7d3f5ef138c078989d0cce0bac158285d29aeb7ae469"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "background-purpose",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "325e",
+          "325g",
+          "325i",
+          "325j",
+          "325q",
+          "325ae",
+          "325ah",
+          "325aj",
+          "325ak",
+          "325am",
+          "325ap",
+          "325ar",
+          "325as",
+          "325av",
+          "325ax"
+        ]
+      },
+      {
+        "id": "curvature-optionality",
+        "label": "Kurvrisk och optionalitet",
+        "range": [
+          3,
+          4
+        ],
+        "articleRefs": [
+          "325e",
+          "325g"
+        ]
+      },
+      {
+        "id": "collective-investments",
+        "label": "Företag för kollektiva investeringar",
+        "range": [
+          5,
+          7
+        ],
+        "articleRefs": [
+          "325i",
+          "325j"
+        ]
+      },
+      {
+        "id": "currency-risk",
+        "label": "Valutarisk och basvaluta",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "325q"
+        ]
+      },
+      {
+        "id": "risk-weights-correlations",
+        "label": "Riskvikter och korrelationer",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "325ae",
+          "325ah",
+          "325aj",
+          "325ak",
+          "325am",
+          "325ap",
+          "325ar",
+          "325as",
+          "325av",
+          "325ax"
+        ]
+      },
+      {
+        "id": "final-provisions",
+        "label": "Slutbestämmelser",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "325e": [
+        4
+      ],
+      "325e.1.a": [
+        4
+      ],
+      "325e.1.b": [
+        4
+      ],
+      "325g": [
+        3
+      ],
+      "325j": [
+        5,
+        6,
+        7
+      ],
+      "325j.1.a": [
+        5
+      ],
+      "325j.1.b": [
+        5
+      ],
+      "325j.1.c": [
+        7
+      ],
+      "325j.4": [
+        6
+      ],
+      "325q.7": [
+        8
+      ],
+      "325ae": [
+        9
+      ],
+      "325ah": [
+        9
+      ],
+      "325aj": [
+        10
+      ],
+      "325ak": [
+        9
+      ],
+      "325am": [
+        9
+      ],
+      "325ap": [
+        9
+      ],
+      "325ar": [
+        10
+      ],
+      "325as": [
+        9
+      ],
+      "325av": [
+        9
+      ],
+      "325ax": [
+        9
+      ],
+      "2": [
+        12
+      ]
+    }
+  }
+}

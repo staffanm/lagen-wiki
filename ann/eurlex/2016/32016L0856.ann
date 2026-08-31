@@ -1,0 +1,77 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32016L0856": "d609bfa5672cfb1c93a346af8484ee40ffd2c28acd3d2c57cdf710583fe27483"
+    },
+    "run": {
+      "started": "2026-08-28T21:00:43+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 3632,
+      "completion_tokens": 2004,
+      "ended": "2026-08-28T21:01:09+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e860396871ba614b87ceafa1168833a6e1cd7f876b6cf2d666a16feee2690693"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-behov",
+        "label": "Bakgrund och behov av lägsta skattesats",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "motivering-forlangning",
+        "label": "Motivering för förlängning och översyn",
+        "range": [
+          4,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillampning-andring",
+        "label": "Tillämpning och ändring",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "2": [
+        8
+      ],
+      "3": [
+        7
+      ]
+    }
+  }
+}

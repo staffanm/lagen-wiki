@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32018L0912": "fca4ac5f8b62bbdecece58d91f97a5598a250838f49571f7a56d8b395ee66ce3"
+    },
+    "run": {
+      "started": "2026-08-28T20:59:37+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 3313,
+      "completion_tokens": 1162,
+      "ended": "2026-08-28T20:59:53+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "006f6d9c8e81d84d00e52913ba3b480b5d2c5c0f7ee484e067c1460eb979795c"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-och-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "rättslig-grund-och-ändring",
+        "label": "Rättslig grund och ändring",
+        "range": [
+          4,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "2": [
+        5
+      ]
+    }
+  }
+}

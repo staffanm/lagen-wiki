@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32024R0908": "16bec78a78fffb3dbc6475fe9c54cac6a1d58aaddd937aefa37698590994914a"
+    },
+    "run": {
+      "started": "2026-08-28T21:01:56+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 3596,
+      "completion_tokens": 1804,
+      "ended": "2026-08-28T21:02:20+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "360c3fd232d8d6c91fa222eb56fcdd6652482317974ff8e42ea9a1e20b39b726"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "organisering-namngivning",
+        "label": "Organisering och namngivning",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "ikrafttradande-tillämpning",
+        "label": "Ikraftträdande och tillämpning",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "1.1": [
+        3,
+        4,
+        5
+      ],
+      "1.2": [
+        3,
+        4,
+        5
+      ],
+      "2": [
+        6
+      ]
+    }
+  }
+}

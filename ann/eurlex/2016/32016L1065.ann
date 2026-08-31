@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32016L1065": "6998230ed49cbd152c6e464ee089235f5450f82710b83b2a77e84e4accdc0a77"
+    },
+    "run": {
+      "started": "2026-08-28T21:15:16+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 12538,
+      "completion_tokens": 3613,
+      "ended": "2026-08-28T21:16:03+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7ac893bf95db57c53067e4e1d774ddd0f5812ef3f9041e5a993dc54816035404"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "30a",
+          "30b"
+        ]
+      },
+      {
+        "id": "omfattning-avgransningar",
+        "label": "Omfattning och avgränsningar",
+        "range": [
+          4,
+          5
+        ],
+        "articleRefs": [
+          "30a"
+        ]
+      },
+      {
+        "id": "definitioner",
+        "label": "Definitioner och typer av vouchrar",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "30a"
+        ]
+      },
+      {
+        "id": "enfunktionsvouchrar",
+        "label": "Behandling av enfunktionsvouchrar",
+        "range": [
+          8,
+          10
+        ],
+        "articleRefs": [
+          "30b"
+        ]
+      },
+      {
+        "id": "flerfunktionsvouchrar",
+        "label": "Behandling av flerfunktionsvouchrar",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "30b",
+          "73a"
+        ]
+      },
+      {
+        "id": "ikrafttradande-formellt",
+        "label": "Ikraftträdande och formella bestämmelser",
+        "range": [
+          13,
+          16
+        ],
+        "articleRefs": [
+          "410a",
+          "410b"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "30a": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "30b": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "30b.1": [
+        8,
+        9
+      ],
+      "30b.2": [
+        9,
+        10
+      ],
+      "30b.3": [
+        9
+      ],
+      "30b.4": [
+        8,
+        11
+      ],
+      "30b.5": [
+        10
+      ],
+      "73a": [
+        11
+      ],
+      "410a": [
+        15
+      ],
+      "410b": [
+        6,
+        8,
+        12
+      ]
+    }
+  }
+}

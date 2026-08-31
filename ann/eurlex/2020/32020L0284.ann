@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32020L0284": "97599043fa0d8c436e59763e8b66513f66fcf4ae2c2fe5c3bd0c517f3d7724c7"
+    },
+    "run": {
+      "started": "2026-08-28T21:19:18+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 8770,
+      "completion_tokens": 2000,
+      "ended": "2026-08-28T21:19:48+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "401e77defdad193c852d897a8dd762ba215c6cdbbf3c5a13933affb061a7343f"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "243b.1"
+        ]
+      },
+      {
+        "id": "identifiering-plats",
+        "label": "Identifiering av betalningsplats",
+        "range": [
+          4,
+          5
+        ],
+        "articleRefs": [
+          "243a",
+          "243c"
+        ]
+      },
+      {
+        "id": "omfattning-proportionalitet",
+        "label": "Omfattning och proportionalitet",
+        "range": [
+          6,
+          9
+        ],
+        "articleRefs": [
+          "243b.2",
+          "243b.3"
+        ]
+      },
+      {
+        "id": "lagring-informationsutbyte",
+        "label": "Lagring och informationsutbyte",
+        "range": [
+          10,
+          11
+        ],
+        "articleRefs": [
+          "243b.4"
+        ]
+      },
+      {
+        "id": "rättsliga-principer",
+        "label": "Rättsliga principer och förfaranden",
+        "range": [
+          12,
+          15
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "243a": [
+        4,
+        9
+      ],
+      "243b": [
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "243b.1": [
+        2,
+        3,
+        4
+      ],
+      "243b.2": [
+        6
+      ],
+      "243b.3": [
+        7,
+        8,
+        9
+      ],
+      "243b.4": [
+        10,
+        11
+      ],
+      "243c": [
+        4,
+        5
+      ],
+      "243c.1": [
+        5
+      ],
+      "243c.2": [
+        5
+      ],
+      "243d": [
+        3,
+        6
+      ],
+      "243d.1": [
+        3
+      ],
+      "243d.2": [
+        3,
+        6
+      ],
+      "2": [
+        12,
+        13,
+        14
+      ]
+    }
+  }
+}

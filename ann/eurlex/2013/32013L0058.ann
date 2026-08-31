@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32013L0058": "a1bbd2179758e00afd608d8da113582c9a9c0c5dc4903a740d79251329bef444"
+    },
+    "run": {
+      "started": "2026-08-28T21:09:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 5329,
+      "completion_tokens": 1569,
+      "ended": "2026-08-28T21:09:37+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "24f3ada89eb6891047838c0a4b67d26828e629a495cd042bd63468c6f9013b07"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-och-tidigare-andringar",
+        "label": "Bakgrund och tidigare ändringar",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "omnibus-ii-och-behov-av-uppskov",
+        "label": "Omnibus II och behov av uppskov",
+        "range": [
+          4,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "omfattning-och-rettsakerhet",
+        "label": "Omfattning och rättssäkerhet",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "bradskande-forfarande",
+        "label": "Brådskande förfarande",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        6
+      ],
+      "1.1": [
+        4,
+        5,
+        6
+      ],
+      "1.2": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "1.3": [
+        3,
+        8
+      ],
+      "2": [
+        9,
+        10
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32008R0202": "28a2a0d162ff983dc7cfd66ce71279faf5e660e80e591f559475555bab0ee1ba"
+    },
+    "run": {
+      "started": "2026-08-28T20:59:21+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 3285,
+      "completion_tokens": 1226,
+      "ended": "2026-08-28T20:59:37+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ff3ad63e3b2de3c9a3a13af278b562139801afdbc178c4235ae56ee785e3919e"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "behov-av-andring",
+        "label": "Bakgrund och behov av ändring",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "genomforande-och-forfarande",
+        "label": "Genomförande och förfarande",
+        "range": [
+          5,
+          7
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "1.1": [
+        4,
+        5
+      ],
+      "1.2": [
+        4,
+        5
+      ]
+    }
+  }
+}

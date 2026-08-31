@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32017R2395": "f3adfc95466fadfbd067011c6de31c7bc84e4349b6610610f85603000072aff5"
+    },
+    "run": {
+      "started": "2026-08-28T21:20:44+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 9443,
+      "completion_tokens": 2553,
+      "ended": "2026-08-28T21:21:21+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "9439132211b4bf0eb9d80f322326a334f68b7ec5b0686309bdda565f701226a6"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "ifrs9-bakgrund",
+        "label": "Bakgrund till IFRS 9",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "473a"
+        ]
+      },
+      {
+        "id": "kapitalbas-overgang",
+        "label": "Övergångsarrangemang för kapitalbasen",
+        "range": [
+          3,
+          5
+        ],
+        "articleRefs": [
+          "473a.1",
+          "473a.2",
+          "473a.3",
+          "473a.4",
+          "473a.5"
+        ]
+      },
+      {
+        "id": "tillampning-beslut",
+        "label": "Beslut och tillämpning",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "473a.10",
+          "473a.11"
+        ]
+      },
+      {
+        "id": "justeringar-kapitalkrav",
+        "label": "Justeringar av kapitalkrav och beräkningar",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "473a.8"
+        ]
+      },
+      {
+        "id": "offentliggorande",
+        "label": "Offentliggörande",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "473a.9"
+        ]
+      },
+      {
+        "id": "stora-exponeringar",
+        "label": "Hantering av stora exponeringar i offentlig sektor",
+        "range": [
+          10,
+          10
+        ],
+        "articleRefs": [
+          "493.4",
+          "493.5",
+          "493.6",
+          "493.7"
+        ]
+      },
+      {
+        "id": "ikrafttradande",
+        "label": "Ikraftträdande",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "473a": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "473a.1": [
+        5
+      ],
+      "473a.2": [
+        5
+      ],
+      "473a.3": [
+        5
+      ],
+      "473a.4": [
+        5
+      ],
+      "473a.5": [
+        5
+      ],
+      "473a.8": [
+        8
+      ],
+      "473a.9": [
+        9
+      ],
+      "473a.10": [
+        6
+      ],
+      "473a.11": [
+        6
+      ],
+      "493": [
+        10
+      ],
+      "493.4": [
+        10
+      ],
+      "493.5": [
+        10
+      ],
+      "493.6": [
+        10
+      ],
+      "493.7": [
+        10
+      ],
+      "2": [
+        11
+      ]
+    }
+  }
+}

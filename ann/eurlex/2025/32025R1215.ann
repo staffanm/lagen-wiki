@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32025R1215": "cdaeff3af73e880b1be9394f5399bc88deff190f25734160abf84c945776a1a0"
+    },
+    "run": {
+      "started": "2026-08-28T21:11:07+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 5466,
+      "completion_tokens": 2120,
+      "ended": "2026-08-28T21:11:36+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "9e40f12aa5ac69083a5679acf600b37b9b60f2b9db125412a572c53c20f3af5e"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "background-nsfr",
+        "label": "Bakgrund till NSFR",
+        "range": [
+          1,
+          1
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "current-planned-factors",
+        "label": "Nuvarande och planerade finansieringsfaktorer",
+        "range": [
+          2,
+          2
+        ],
+        "articleRefs": [
+          "1.2"
+        ]
+      },
+      {
+        "id": "eba-analysis-liquidity",
+        "label": "EBA:s analys och marknadslikviditet",
+        "range": [
+          3,
+          3
+        ],
+        "articleRefs": [
+          "1.1.b",
+          "1.2"
+        ]
+      },
+      {
+        "id": "international-competition",
+        "label": "Internationell konkurrens",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "1.2"
+        ]
+      },
+      {
+        "id": "permanence-decision",
+        "label": "Beslut om permanens",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1.2"
+        ]
+      },
+      {
+        "id": "monitoring-reporting",
+        "label": "Övervakning och rapportering",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "1.1",
+          "1.1.a"
+        ]
+      },
+      {
+        "id": "implementation-timeline",
+        "label": "Tidplan och genomförande",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "1.1": [
+        6
+      ],
+      "1.1.a": [
+        6
+      ],
+      "1.1.b": [
+        3
+      ],
+      "1.2": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "2": [
+        7
+      ]
+    }
+  }
+}

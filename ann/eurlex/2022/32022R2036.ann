@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32022R2036": "64926c0ae9ecf4fe056d01527b5c5d0739d8ebac7a50dfb87028f2ae4942fcfb"
+    },
+    "run": {
+      "started": "2026-08-28T21:28:16+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 13394,
+      "completion_tokens": 2662,
+      "ended": "2026-08-28T21:28:59+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1e69723e0c2bd5c882746aa383c84693c22a13fbd924ea2fa9094d334f91c107"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-och-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          1
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "gsii-berakningar",
+        "label": "Beräkningar för globala systemviktiga institut",
+        "range": [
+          2,
+          3
+        ],
+        "articleRefs": [
+          "1.2",
+          "2.1",
+          "2.3"
+        ]
+      },
+      {
+        "id": "dotterforetag-icke-eu",
+        "label": "Betydande dotterföretag till icke EU-baserade institut",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "1.4"
+        ]
+      },
+      {
+        "id": "avdrag-utomegentliga-innehav",
+        "label": "Avdrag för innehav utanför resolutionsgrupp",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1.5.a",
+          "1.10"
+        ]
+      },
+      {
+        "id": "indirekt-teckning-ramverk",
+        "label": "Ramverk för indirekt teckning av MREL-resurser",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "1.5.b",
+          "2.2"
+        ]
+      },
+      {
+        "id": "avdragssystem-indirekt-teckning",
+        "label": "Avdragssystem för indirekt teckning",
+        "range": [
+          7,
+          9
+        ],
+        "articleRefs": [
+          "1.5.b"
+        ]
+      },
+      {
+        "id": "tillsynsbehandling-riskvikter",
+        "label": "Tillsynsbehandling, riskvikter och exponering",
+        "range": [
+          10,
+          10
+        ],
+        "articleRefs": [
+          "1.3",
+          "1.7",
+          "1.8",
+          "1.9"
+        ]
+      },
+      {
+        "id": "offentliggörande",
+        "label": "Offentliggörande av information",
+        "range": [
+          11,
+          11
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "slutförbestämmelser",
+        "label": "Slutförbestämmelser och översyn",
+        "range": [
+          12,
+          15
+        ],
+        "articleRefs": [
+          "2.4",
+          "3",
+          "4"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1.2": [
+        2,
+        3
+      ],
+      "1.3": [
+        8
+      ],
+      "1.4": [
+        4
+      ],
+      "1.5.a": [
+        5
+      ],
+      "1.5.b": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "1.7": [
+        10
+      ],
+      "1.8": [
+        10
+      ],
+      "1.9": [
+        10
+      ],
+      "1.10": [
+        5
+      ],
+      "2.1": [
+        2,
+        3
+      ],
+      "2.2": [
+        6
+      ],
+      "2.3": [
+        2,
+        3
+      ],
+      "2.4": [
+        13
+      ],
+      "4": [
+        14
+      ]
+    }
+  }
+}

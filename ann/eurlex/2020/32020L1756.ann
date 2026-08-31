@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32020L1756": "3769986238e44114f61282eb664ba61a10312a52b3ce53424eff72d3d6afae63"
+    },
+    "run": {
+      "started": "2026-08-28T21:03:58+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 3828,
+      "completion_tokens": 1721,
+      "ended": "2026-08-28T21:04:22+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "07f486ae13b149d09dcf7ea628f3c549975e2fd03953616e5ae66340e0b68204"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-protokoll",
+        "label": "Bakgrund och protokollet om Irland/Nordirland",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "registreringsnummer-prefix",
+        "label": "Registreringsnummer och prefix",
+        "range": [
+          4,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "slutsats-andring",
+        "label": "Slutsats och ändring",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "2.1": [
+        1
+      ]
+    }
+  }
+}

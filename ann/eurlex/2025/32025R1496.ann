@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32025R1496": "231d177fbde7db116eb9771960b81430fe7ca8ba2cfe616e2e867f6da400befd"
+    },
+    "run": {
+      "started": "2026-08-28T21:08:55+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 4954,
+      "completion_tokens": 1461,
+      "ended": "2026-08-28T21:09:15+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2392f1aeeab77a6425420dae03d971721206e0b2f6cbc7a2dbff23b576a7a2e4"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-internationell-kontext",
+        "label": "Bakgrund och internationell kontext",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tillämpning-och-rapportering",
+        "label": "Tillämpning och rapportering",
+        "range": [
+          4,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "slutförbestämmelser",
+        "label": "Slutförbestämmelser",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "2": [
+        8
+      ],
+      "2.1": [
+        8
+      ],
+      "2.2": [
+        8
+      ]
+    }
+  }
+}

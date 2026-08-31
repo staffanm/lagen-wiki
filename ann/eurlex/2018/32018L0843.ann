@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32018L0843": "05771675e2c70e17a685b28613e8ff95c6e204b524ea3a7bbbe850a5129ff370"
+    },
+    "run": {
+      "started": "2026-08-28T21:51:58+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 38359,
+      "completion_tokens": 4523,
+      "ended": "2026-08-28T21:53:43+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e0c3a582f3620079319b237758497ce61990db4fe0367185ce5adc3184ff2459"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          7
+        ],
+        "articleRefs": [
+          "1.1",
+          "1.3"
+        ]
+      },
+      {
+        "id": "virtuella-valutor",
+        "label": "Virtuella valutor",
+        "range": [
+          8,
+          11
+        ],
+        "articleRefs": [
+          "1.1",
+          "1.2",
+          "1.29"
+        ]
+      },
+      {
+        "id": "hogriskland",
+        "label": "Högrisktredjeländer",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "1.5",
+          "1.11"
+        ]
+      },
+      {
+        "id": "forbetalda-kort",
+        "label": "Förbetalda kort",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "1.7"
+        ]
+      },
+      {
+        "id": "fiu-befogenheter",
+        "label": "Finansiella underrättelseenheter (FIU)",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "1.18",
+          "1.21",
+          "1.33",
+          "1.34",
+          "1.35"
+        ]
+      },
+      {
+        "id": "tillsyn-kreditinstitut",
+        "label": "Tillsyn över kreditinstitut",
+        "range": [
+          19,
+          19
+        ],
+        "articleRefs": [
+          "1.30",
+          "1.37",
+          "1.38"
+        ]
+      },
+      {
+        "id": "centraliserade-mekanismer",
+        "label": "Centraliserade automatiserade mekanismer",
+        "range": [
+          20,
+          21
+        ],
+        "articleRefs": [
+          "1.6",
+          "1.19"
+        ]
+      },
+      {
+        "id": "identifiering-pep",
+        "label": "Identifiering och politiskt utsatta personer",
+        "range": [
+          22,
+          24
+        ],
+        "articleRefs": [
+          "1.8",
+          "1.9",
+          "1.13"
+        ]
+      },
+      {
+        "id": "verkligt-huvudmannaskap-foretag",
+        "label": "Verkligt huvudmannaskap för företag",
+        "range": [
+          25,
+          36
+        ],
+        "articleRefs": [
+          "1.15"
+        ]
+      },
+      {
+        "id": "verkligt-huvudmannaskap-truster",
+        "label": "Verkligt huvudmannaskap för truster och liknande konstruktioner",
+        "range": [
+          27,
+          42
+        ],
+        "articleRefs": [
+          "1.16"
+        ]
+      },
+      {
+        "id": "register-sammankoppling",
+        "label": "Register och sammankoppling",
+        "range": [
+          37,
+          38
+        ],
+        "articleRefs": [
+          "1.17"
+        ]
+      },
+      {
+        "id": "tillgang-berattigat-intresse",
+        "label": "Tillgång och berättigat intresse",
+        "range": [
+          39,
+          42
+        ],
+        "articleRefs": [
+          "1.15",
+          "1.16"
+        ]
+      },
+      {
+        "id": "korrespondentforbindelser",
+        "label": "Korrespondentförbindelser",
+        "range": [
+          43,
+          43
+        ],
+        "articleRefs": [
+          "1.12"
+        ]
+      },
+      {
+        "id": "myndighetssamarbete",
+        "label": "Myndighetssamarbete och tillsyn",
+        "range": [
+          44,
+          48
+        ],
+        "articleRefs": [
+          "1.30",
+          "1.31",
+          "1.32",
+          "1.37",
+          "1.38"
+        ]
+      },
+      {
+        "id": "rättsliga-principer",
+        "label": "Rättsliga principer och stadgan",
+        "range": [
+          49,
+          52
+        ],
+        "articleRefs": [
+          "1.26"
+        ]
+      },
+      {
+        "id": "genomforande-tidsfrister",
+        "label": "Genomförande och tidsfrister",
+        "range": [
+          53,
+          55
+        ],
+        "articleRefs": [
+          "1.43",
+          "4"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1.1": [
+        8,
+        10
+      ],
+      "1.2": [
+        10
+      ],
+      "1.5": [
+        12
+      ],
+      "1.6": [
+        20,
+        21
+      ],
+      "1.7": [
+        14,
+        15
+      ],
+      "1.8": [
+        22
+      ],
+      "1.9": [
+        24
+      ],
+      "1.11": [
+        12
+      ],
+      "1.12": [
+        43
+      ],
+      "1.13": [
+        23
+      ],
+      "1.15": [
+        25,
+        30,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "1.16": [
+        26,
+        27,
+        28,
+        29,
+        41,
+        42
+      ],
+      "1.17": [
+        37
+      ],
+      "1.18": [
+        16,
+        17,
+        18
+      ],
+      "1.19": [
+        20,
+        21
+      ],
+      "1.21": [
+        16,
+        17,
+        18
+      ],
+      "1.25": [
+        21
+      ],
+      "1.26": [
+        51
+      ],
+      "1.29": [
+        8,
+        9
+      ],
+      "1.30": [
+        44,
+        45,
+        47
+      ],
+      "1.32": [
+        48
+      ],
+      "1.33": [
+        16,
+        18
+      ],
+      "1.34": [
+        16
+      ],
+      "1.35": [
+        18
+      ],
+      "1.37": [
+        19
+      ],
+      "1.38": [
+        19
+      ],
+      "1.43": [
+        53
+      ],
+      "4": [
+        53
+      ]
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32019R2160": "f0d5614c66466b483c3fe8b533eda707a28d143f9eed412d3bbe5e6f646fd4ad"
+    },
+    "run": {
+      "started": "2026-08-28T21:21:21+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 9750,
+      "completion_tokens": 3057,
+      "ended": "2026-08-28T21:22:05+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "61ed1432d96a9c1093a6972c0b7d62d886d7986dd9ecedb0ee15531096b98cc8"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1.2",
+          "1.3",
+          "1.4",
+          "1.5",
+          "1.7"
+        ]
+      },
+      {
+        "id": "exponeringar-kreditinstitut",
+        "label": "Exponeringar mot kreditinstitut",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "1.1.a.i",
+          "1.1.b"
+        ]
+      },
+      {
+        "id": "godtagbara-tillgangar",
+        "label": "Godtagbara tillgångar och struktur",
+        "range": [
+          5,
+          7
+        ],
+        "articleRefs": [
+          "1.1.a.i",
+          "1.6"
+        ]
+      },
+      {
+        "id": "vardering-sakerheter",
+        "label": "Värdering av säkerheter",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "1.1.c"
+        ]
+      },
+      {
+        "id": "belaningsgrad",
+        "label": "Belåningsgrad (LTV)",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "1.1.a.i",
+          "1.1.b"
+        ]
+      },
+      {
+        "id": "overvarde-sakerhetsmassa",
+        "label": "Övervärde i säkerhetsmassan",
+        "range": [
+          11,
+          11
+        ],
+        "articleRefs": [
+          "1.1.d"
+        ]
+      },
+      {
+        "id": "transparens-krav",
+        "label": "Transparens och information",
+        "range": [
+          12,
+          12
+        ],
+        "articleRefs": []
+      },
+      {
+        "id": "tillampning-overgang",
+        "label": "Tillämpning och övergångsbestämmelser",
+        "range": [
+          13,
+          15
+        ],
+        "articleRefs": [
+          "1.1.e",
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1.1.a.i": [
+        4,
+        9,
+        10
+      ],
+      "1.1.b": [
+        4,
+        9,
+        10
+      ],
+      "1.1.c": [
+        8
+      ],
+      "1.1.d": [
+        11
+      ],
+      "1.1.e": [
+        13
+      ],
+      "1.2": [
+        1
+      ],
+      "1.3": [
+        1,
+        2
+      ],
+      "1.4": [
+        1,
+        2
+      ],
+      "1.5": [
+        1,
+        2
+      ],
+      "1.6": [
+        5
+      ],
+      "1.7": [
+        1
+      ],
+      "2": [
+        14
+      ]
+    }
+  }
+}

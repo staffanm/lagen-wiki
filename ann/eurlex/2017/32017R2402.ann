@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32017R2402": "f4f17d404b4b15ac6be2f1e22173fbe162c3c2df8f23f9437ed64099c5ff1dd0"
+    },
+    "run": {
+      "started": "2026-08-28T21:55:21+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 60777,
+      "completion_tokens": 3676,
+      "ended": "2026-08-28T21:57:37+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "60d410c2425e4254f1e9edac684c291424e260d45e572d2f226fbe47b0eec5a1"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "definitioner-omfattning",
+        "label": "Definitioner och omfattning",
+        "range": [
+          5,
+          7
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "atervardepsapperisering",
+        "label": "Förbud mot återvärdepapperisering",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "8"
+        ]
+      },
+      {
+        "id": "due-diligence",
+        "label": "Due diligence för institutionella investerare",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "bibehållande-risk",
+        "label": "Bibehållande av risk",
+        "range": [
+          10,
+          11
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "transparens-rapportering",
+        "label": "Transparens och rapportering",
+        "range": [
+          12,
+          16
+        ],
+        "articleRefs": [
+          "7",
+          "10",
+          "17"
+        ]
+      },
+      {
+        "id": "kreditgivning-kundskydd",
+        "label": "Kreditgivningskriterier och kundskydd",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "3",
+          "9"
+        ]
+      },
+      {
+        "id": "sts-ramverk",
+        "label": "Ramverk för STS-värdepapperisering",
+        "range": [
+          17,
+          21
+        ],
+        "articleRefs": [
+          "18",
+          "19",
+          "23"
+        ]
+      },
+      {
+        "id": "sts-enkelhet",
+        "label": "STS-kriterier för enkelhet",
+        "range": [
+          22,
+          26
+        ],
+        "articleRefs": [
+          "20",
+          "24"
+        ]
+      },
+      {
+        "id": "originator-krav",
+        "label": "Krav på originatorer och exponeringar",
+        "range": [
+          27,
+          29
+        ],
+        "articleRefs": [
+          "20",
+          "9"
+        ]
+      },
+      {
+        "id": "sts-anmanlan",
+        "label": "STS-anmälan och verifiering",
+        "range": [
+          30,
+          34
+        ],
+        "articleRefs": [
+          "27",
+          "28"
+        ]
+      },
+      {
+        "id": "tillsyn-sanktioner",
+        "label": "Tillsyn och sanktioner",
+        "range": [
+          35,
+          37
+        ],
+        "articleRefs": [
+          "29",
+          "30",
+          "32",
+          "33",
+          "36",
+          "37"
+        ]
+      },
+      {
+        "id": "harmonisering-andringar",
+        "label": "Harmonisering och ändringar i annan lagstiftning",
+        "range": [
+          38,
+          41
+        ],
+        "articleRefs": [
+          "38",
+          "39",
+          "40",
+          "41",
+          "42"
+        ]
+      },
+      {
+        "id": "tekniska-standarder",
+        "label": "Tekniska standarder och delegerade akter",
+        "range": [
+          42,
+          45
+        ],
+        "articleRefs": [
+          "6",
+          "7",
+          "10",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "id": "tillampning-overgang",
+        "label": "Tillämpning och övergångsbestämmelser",
+        "range": [
+          46,
+          49
+        ],
+        "articleRefs": [
+          "43"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "2": [
+        6,
+        7
+      ],
+      "3": [
+        15
+      ],
+      "4": [
+        18
+      ],
+      "5": [
+        9
+      ],
+      "5.1": [
+        9
+      ],
+      "5.3": [
+        9
+      ],
+      "6": [
+        10,
+        11
+      ],
+      "6.1": [
+        10
+      ],
+      "6.2": [
+        11
+      ],
+      "7": [
+        12,
+        13,
+        16
+      ],
+      "8": [
+        8
+      ],
+      "9": [
+        14,
+        28
+      ],
+      "10": [
+        12,
+        13
+      ],
+      "16": [
+        42
+      ],
+      "17": [
+        44
+      ],
+      "18": [
+        5,
+        17,
+        19,
+        31,
+        32
+      ],
+      "19": [
+        19,
+        20,
+        21
+      ],
+      "20": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "20.1": [
+        22,
+        23
+      ],
+      "20.7": [
+        25
+      ],
+      "20.8": [
+        27
+      ],
+      "20.10": [
+        28
+      ],
+      "20.11": [
+        26
+      ],
+      "21": [
+        21
+      ],
+      "22": [
+        16,
+        30
+      ],
+      "23": [
+        17,
+        19
+      ],
+      "24": [
+        22,
+        24,
+        25,
+        26
+      ],
+      "25": [
+        7
+      ],
+      "26": [
+        8
+      ],
+      "27": [
+        31,
+        32,
+        33
+      ],
+      "28": [
+        34
+      ],
+      "29": [
+        35
+      ],
+      "30": [
+        35,
+        36
+      ],
+      "31": [
+        4
+      ],
+      "32": [
+        11,
+        35
+      ],
+      "33": [
+        35
+      ],
+      "36": [
+        36
+      ],
+      "37": [
+        35
+      ],
+      "43": [
+        47,
+        48,
+        49
+      ],
+      "43.1": [
+        47
+      ],
+      "43.2": [
+        48
+      ],
+      "43.5": [
+        49
+      ]
+    }
+  }
+}

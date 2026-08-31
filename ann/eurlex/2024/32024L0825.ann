@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32024L0825": "e549aa2c4ee5cdc9346494f33beb2a78be2663ae056255a6fa5a6800f011d5fb"
+    },
+    "run": {
+      "started": "2026-08-28T21:35:28+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19078,
+      "completion_tokens": 2994,
+      "ended": "2026-08-28T21:36:23+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c9160b3f6a425c3eea7a29c2cae03bd13a262c7f234b301e1469962872b1a395"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "miljo-sociala-egenskaper",
+        "label": "Miljömässiga och sociala egenskaper",
+        "range": [
+          3,
+          6
+        ],
+        "articleRefs": [
+          "1.2",
+          "1.3"
+        ]
+      },
+      {
+        "id": "hallbarhetsmarkning-allmana-pastanden",
+        "label": "Hållbarhetsmärkning och allmänna miljöpåståenden",
+        "range": [
+          7,
+          10
+        ],
+        "articleRefs": [
+          "1.1",
+          "1.4"
+        ]
+      },
+      {
+        "id": "forbud-vilseledande-miljopastanden",
+        "label": "Förbud mot specifika vilseledande miljöpåståenden",
+        "range": [
+          11,
+          13
+        ],
+        "articleRefs": [
+          "1.4"
+        ]
+      },
+      {
+        "id": "ovriga-otillborliga-metoder",
+        "label": "Övriga otillbörliga affärsmetoder",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "1.4"
+        ]
+      },
+      {
+        "id": "produktlivslangd-planerat-aldrande",
+        "label": "Produktlivslängd och planerat åldrande",
+        "range": [
+          16,
+          20
+        ],
+        "articleRefs": [
+          "1.4"
+        ]
+      },
+      {
+        "id": "reparerbarhet-mjukvaruuppdateringar",
+        "label": "Reparerbarhet och mjukvaruuppdateringar",
+        "range": [
+          21,
+          24
+        ],
+        "articleRefs": [
+          "1.4"
+        ]
+      },
+      {
+        "id": "forhandsinformation-hallbarhet",
+        "label": "Förhandsinformation om hållbarhet och reparationer",
+        "range": [
+          25,
+          26
+        ],
+        "articleRefs": [
+          "2.2",
+          "2.3"
+        ]
+      },
+      {
+        "id": "kommersiella-garantier-markning",
+        "label": "Kommersiella hållbarhetsgarantier och harmoniserad märkning",
+        "range": [
+          27,
+          32
+        ],
+        "articleRefs": [
+          "2.2",
+          "2.3",
+          "2.5"
+        ]
+      },
+      {
+        "id": "uppdateringar-reparerbarhetsindex",
+        "label": "Information om uppdateringar och reparerbarhetsindex",
+        "range": [
+          33,
+          36
+        ],
+        "articleRefs": [
+          "2.2",
+          "2.3"
+        ]
+      },
+      {
+        "id": "leverans-distansavtal",
+        "label": "Miljövänlig leverans och distansavtal",
+        "range": [
+          37,
+          38
+        ],
+        "articleRefs": [
+          "2.3",
+          "2.4"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och genomförande",
+        "range": [
+          39,
+          42
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2
+      ],
+      "1.1": [
+        7,
+        9,
+        10
+      ],
+      "1.2": [
+        3,
+        4,
+        5
+      ],
+      "1.3": [
+        6
+      ],
+      "1.4": [
+        7,
+        9,
+        11,
+        12,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21,
+        23,
+        24
+      ],
+      "2": [
+        1,
+        2
+      ],
+      "2.1": [
+        26
+      ],
+      "2.2": [
+        25,
+        26,
+        27,
+        30,
+        31,
+        33,
+        34,
+        35
+      ],
+      "2.2.a": [
+        26,
+        27,
+        28,
+        30,
+        31
+      ],
+      "2.2.b": [
+        33
+      ],
+      "2.2.c": [
+        34,
+        35
+      ],
+      "2.3": [
+        25,
+        34,
+        35,
+        37
+      ],
+      "2.4": [
+        38
+      ],
+      "2.5": [
+        28,
+        29,
+        30
+      ],
+      "3": [
+        42
+      ],
+      "4": [
+        41
+      ],
+      "5": [
+        40
+      ]
+    }
+  }
+}

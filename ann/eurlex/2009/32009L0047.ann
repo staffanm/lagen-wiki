@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32009L0047": "8138d4deb377ecc81a5e10a3637ae7c62cd88a146ac6d9b8b83267bb344d36b2"
+    },
+    "run": {
+      "started": "2026-08-28T21:04:56+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 4095,
+      "completion_tokens": 2839,
+      "ended": "2026-08-28T21:05:31+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d1e3361d424e07bf5f7464e3b915ec0bd5b532c314dbdd361ac0a54dc6b3df65"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "allmanna-principer",
+        "label": "Allmänna principer",
+        "range": [
+          1,
+          1
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "tjanster-sysselsattning",
+        "label": "Tjänster och sysselsättning",
+        "range": [
+          2,
+          2
+        ],
+        "articleRefs": [
+          "1.13"
+        ]
+      },
+      {
+        "id": "restaurang-catering",
+        "label": "Restaurang- och cateringtjänster",
+        "range": [
+          3,
+          3
+        ],
+        "articleRefs": [
+          "1.13"
+        ]
+      },
+      {
+        "id": "sociala-halsomassiga-skal",
+        "label": "Sociala, hälsomässiga och tekniska skäl",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "1.5",
+          "1.6",
+          "1.13"
+        ]
+      },
+      {
+        "id": "strukturella-andringar",
+        "label": "Strukturella ändringar och bilagor",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1.3",
+          "1.7",
+          "1.8",
+          "1.9",
+          "1.10",
+          "1.11",
+          "1.12",
+          "1.13",
+          "1.14"
+        ]
+      },
+      {
+        "id": "genomforande",
+        "label": "Genomförande och slutsatser",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "1.5": [
+        4
+      ],
+      "1.6": [
+        4
+      ],
+      "1.13": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "1.14": [
+        5
+      ],
+      "2": [
+        6
+      ]
+    }
+  }
+}

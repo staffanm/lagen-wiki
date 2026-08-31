@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32015R0281": "58e8047c2ff1da0d253bda1355a513445755ad2bc99d3395df1a74b68db3c895"
+    },
+    "run": {
+      "started": "2026-08-28T20:58:46+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 3180,
+      "completion_tokens": 1227,
+      "ended": "2026-08-28T20:59:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "156b1d68a7deb38168af7a6082424f24241ef6fea4c2d4fb5cb162be64788d1a"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "medlemsstater-valutor",
+        "label": "Uppdateringar av medlemsstater och valutor",
+        "range": [
+          3,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "formell-andring",
+        "label": "Formell ändring av bilagorna",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    }
+  }
+}

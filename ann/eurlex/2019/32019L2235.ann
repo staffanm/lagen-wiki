@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32019L2235": "b04c1f72b354ff0f11009a6d4d2f10de78940cc546d5285d938ab8d2b0d45a08"
+    },
+    "run": {
+      "started": "2026-08-28T21:12:32+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 5622,
+      "completion_tokens": 2569,
+      "ended": "2026-08-28T21:13:05+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "44efa95f3568759c2b75fcfb0353c5e6d060b559f0e8c636e5c0ff5a76ef49e4"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "definition-forsvarsinsatser",
+        "label": "Definition av försvarsinsatser",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "mervardesskatt",
+        "label": "Undantag från mervärdesskatt",
+        "range": [
+          5,
+          6
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "punktskatt",
+        "label": "Undantag från punktskatt",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "begransningar-omfattning",
+        "label": "Begränsningar och omfattning",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "formella-bestammelser",
+        "label": "Formella bestämmelser",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        3,
+        4,
+        5,
+        6,
+        8
+      ],
+      "1.1": [
+        5,
+        8
+      ],
+      "1.2": [
+        6
+      ],
+      "1.3": [
+        5,
+        8
+      ],
+      "2": [
+        3,
+        4,
+        7,
+        8
+      ],
+      "3": [
+        10
+      ],
+      "4": [
+        11
+      ],
+      "5": [
+        11
+      ]
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32025R2457": "fb133189ddcc306540e9ba56e39ab11bf9de857e18ec9609ea5e3d377ae88e95"
+    },
+    "run": {
+      "started": "2026-08-28T21:24:32+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12977,
+      "completion_tokens": 2389,
+      "ended": "2026-08-28T21:25:11+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "dec6345c34c2de5c00210080d20435b6191816e6c7796e05334d8d048c91459b"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-strategi",
+        "label": "Bakgrund och strategi",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "samarbete-metoder",
+        "label": "Samarbete och bedömningsmetoder",
+        "range": [
+          4,
+          6
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "motstridiga-yttranden",
+        "label": "Motstridiga vetenskapliga yttranden",
+        "range": [
+          7,
+          9
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "medicintekniska-produkter",
+        "label": "Riktlinjer för medicintekniska produkter",
+        "range": [
+          10,
+          13
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      },
+      {
+        "id": "organiska-foreningar",
+        "label": "Långlivade organiska föroreningar",
+        "range": [
+          14,
+          16
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "rapportering-data",
+        "label": "Rapportering och datautbyte",
+        "range": [
+          17,
+          18
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser",
+        "range": [
+          19,
+          19
+        ],
+        "articleRefs": []
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        2,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "1.1": [
+        2,
+        5,
+        6
+      ],
+      "1.2": [
+        2
+      ],
+      "1.3": [
+        7,
+        8,
+        9
+      ],
+      "1.3.1": [
+        7
+      ],
+      "1.3.2": [
+        7
+      ],
+      "1.3.3": [
+        7,
+        8
+      ],
+      "1.3.4": [
+        8
+      ],
+      "1.3.5": [
+        9
+      ],
+      "2": [
+        2,
+        5,
+        6
+      ],
+      "2.1": [
+        2,
+        5,
+        6
+      ],
+      "2.2.a": [
+        2,
+        6
+      ],
+      "2.2.b": [
+        2
+      ],
+      "3": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "3.1": [
+        13
+      ],
+      "3.2": [
+        10,
+        11,
+        12
+      ],
+      "3.3": [
+        10,
+        12
+      ],
+      "3.4": [
+        11,
+        12
+      ],
+      "4": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "4.1": [
+        14,
+        15
+      ],
+      "4.1.a": [
+        14
+      ],
+      "4.1.b": [
+        14
+      ],
+      "4.2": [
+        17,
+        18
+      ],
+      "4.3": [
+        16
+      ],
+      "4.4": [
+        16
+      ],
+      "4.5": [
+        15
+      ],
+      "4.6": [
+        16
+      ]
+    }
+  }
+}

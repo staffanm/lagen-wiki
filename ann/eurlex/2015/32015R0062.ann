@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32015R0062": "b101785d9d0e6164189a474fb4a0c7b3890e2b4855ca6cde0ccd2ace6b063b2b"
+    },
+    "run": {
+      "started": "2026-08-28T21:19:48+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 8698,
+      "completion_tokens": 4043,
+      "ended": "2026-08-28T21:20:44+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "adbc6b4702a9b5aacdb189d1afe91fac923bf0ed8855ded2756a67faee6349e1"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "authority-background",
+        "label": "Bemyndigande och behov",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "429"
+        ]
+      },
+      {
+        "id": "international-standards",
+        "label": "Internationella standarder",
+        "range": [
+          3,
+          4
+        ],
+        "articleRefs": [
+          "429",
+          "429a",
+          "429b"
+        ]
+      },
+      {
+        "id": "ccp-netting",
+        "label": "Centrala motparter och nettning",
+        "range": [
+          5,
+          7
+        ],
+        "articleRefs": [
+          "429.8",
+          "429.12"
+        ]
+      },
+      {
+        "id": "precision-purpose",
+        "label": "Måttets precision och syfte",
+        "range": [
+          8,
+          12
+        ],
+        "articleRefs": [
+          "429"
+        ]
+      },
+      {
+        "id": "reporting-measurement",
+        "label": "Rapportering och mätning",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "429.2",
+          "429a.9"
+        ]
+      },
+      {
+        "id": "consolidation-implementation",
+        "label": "Konsolidering och genomförande",
+        "range": [
+          11,
+          13
+        ],
+        "articleRefs": [
+          "429"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "429": [
+        1,
+        8,
+        12
+      ],
+      "429.2": [
+        9
+      ],
+      "429.8": [
+        6,
+        7
+      ],
+      "429.12": [
+        5,
+        6
+      ],
+      "429a": [
+        4
+      ],
+      "429a.9": [
+        10
+      ],
+      "429b": [
+        4,
+        6
+      ]
+    }
+  }
+}

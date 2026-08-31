@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32016L1034": "0c64450cb740fc23a09e876142680924b36f518874d4c4517584127f64ac2ad3"
+    },
+    "run": {
+      "started": "2026-08-28T21:14:45+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 6307,
+      "completion_tokens": 2404,
+      "ended": "2026-08-28T21:15:16+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "44496433d3153bd26a4936d07ff59dfeea1ddf213559cd2074b601c56e15bce4"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-ramverk",
+        "label": "Bakgrund och rättsliga ramar",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1.2"
+        ]
+      },
+      {
+        "id": "referensdata-infrastruktur",
+        "label": "Infrastruktur för referensdata",
+        "range": [
+          3,
+          4
+        ],
+        "articleRefs": [
+          "1.3",
+          "1.4",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
+        ]
+      },
+      {
+        "id": "tekniska-hinder",
+        "label": "Tekniska hinder och konsekvenser",
+        "range": [
+          5,
+          8
+        ],
+        "articleRefs": [
+          "1.3",
+          "1.4",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
+        ]
+      },
+      {
+        "id": "uppskjutande-tillämpning",
+        "label": "Uppskjutande av tillämpning och tidsplan",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "1.3",
+          "1.4",
+          "1.6",
+          "1.7",
+          "1.8",
+          "1.9"
+        ]
+      },
+      {
+        "id": "icke-finansiella-enheter",
+        "label": "Undantag för icke-finansiella enheter",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "1.1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        9,
+        11,
+        12
+      ],
+      "1.1": [
+        12
+      ],
+      "1.2": [
+        2
+      ],
+      "1.3": [
+        9,
+        11
+      ],
+      "1.4": [
+        9,
+        11
+      ],
+      "1.6": [
+        9,
+        11
+      ],
+      "1.7": [
+        9,
+        11
+      ],
+      "1.8": [
+        9,
+        11
+      ],
+      "1.9": [
+        9,
+        11
+      ]
+    }
+  }
+}

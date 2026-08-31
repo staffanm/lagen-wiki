@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32008L0008": "98d6cd4c011882b0f9fce4ee40f9798600c3a618a6a427edb3252cb6f76232dc"
+    },
+    "run": {
+      "started": "2026-08-28T21:33:29+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 15329,
+      "completion_tokens": 3197,
+      "ended": "2026-08-28T21:34:22+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d10eb636101a7d0011ab444e985fc76864d1c2061f5dbf5062496456edab8c2f"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "allmana-regler",
+        "label": "Allmänna regler för plats",
+        "range": [
+          3,
+          5
+        ],
+        "articleRefs": [
+          "43",
+          "44",
+          "45"
+        ]
+      },
+      {
+        "id": "sarkilda-bestammelser",
+        "label": "Särskilda bestämmelser och undantag",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "55",
+          "56",
+          "57",
+          "58",
+          "59"
+        ]
+      },
+      {
+        "id": "omvand-skattskyldighet",
+        "label": "Omvänd skattskyldighet",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "196"
+        ]
+      },
+      {
+        "id": "administrativ-forenkling",
+        "label": "Administrativ förenkling och registrering",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "359",
+          "369b"
+        ]
+      },
+      {
+        "id": "rapportering",
+        "label": "Sammanställningar och rapportering",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "262",
+          "264"
+        ]
+      },
+      {
+        "id": "overgang-genomforande",
+        "label": "Övergångsbestämmelser och genomförande",
+        "range": [
+          10,
+          12
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        10
+      ],
+      "2": [
+        10
+      ],
+      "3": [
+        10
+      ],
+      "4": [
+        10
+      ],
+      "5": [
+        10
+      ],
+      "43": [
+        4
+      ],
+      "44": [
+        4
+      ],
+      "45": [
+        5
+      ],
+      "46": [
+        6
+      ],
+      "47": [
+        6
+      ],
+      "48": [
+        6
+      ],
+      "49": [
+        6
+      ],
+      "50": [
+        6
+      ],
+      "51": [
+        6
+      ],
+      "52": [
+        6
+      ],
+      "53": [
+        6
+      ],
+      "54": [
+        6
+      ],
+      "55": [
+        6
+      ],
+      "56": [
+        6
+      ],
+      "57": [
+        6
+      ],
+      "58": [
+        3,
+        6
+      ],
+      "59": [
+        3,
+        6
+      ],
+      "196": [
+        7
+      ],
+      "262": [
+        9
+      ],
+      "264": [
+        9
+      ],
+      "359": [
+        8
+      ],
+      "369b": [
+        8
+      ]
+    }
+  }
+}

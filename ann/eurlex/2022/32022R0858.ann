@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32022R0858": "8d23c47da3d3f6ced8f72ccd5f5f7b156897c8c40965afc9ca9c0136ae5e8efb"
+    },
+    "run": {
+      "started": "2026-08-28T21:53:43+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 44666,
+      "completion_tokens": 3281,
+      "ended": "2026-08-28T21:55:21+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e150e5c659910635605386ae0f37e7816e1d56fc85a8c6f21a70fd3e533984c2"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "id": "pilotordning-utformning",
+        "label": "Pilotordningens utformning",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "dlt-instrument-neutralitet",
+        "label": "DLT-baserade instrument och teknikneutralitet",
+        "range": [
+          8,
+          10
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      },
+      {
+        "id": "tilltraede-infrastrukturer",
+        "label": "Tillträde och typer av marknadsinfrastrukturer",
+        "range": [
+          11,
+          12
+        ],
+        "articleRefs": [
+          "2",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "dlt-mtf-plattformar",
+        "label": "DLT-MTF-plattformar",
+        "range": [
+          13,
+          13
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "dlt-tss-system",
+        "label": "DLT-TSS-system",
+        "range": [
+          14,
+          17
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "dlt-ss-system",
+        "label": "DLT-SS-system",
+        "range": [
+          18,
+          21
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "ansvar-begransningar",
+        "label": "Ansvar och begränsningar för instrument",
+        "range": [
+          22,
+          24
+        ],
+        "articleRefs": [
+          "3",
+          "7.6"
+        ]
+      },
+      {
+        "id": "undantag-mtf",
+        "label": "Undantag för DLT-MTF-plattformar",
+        "range": [
+          25,
+          28
+        ],
+        "articleRefs": [
+          "4.2",
+          "4.3"
+        ]
+      },
+      {
+        "id": "undantag-ss",
+        "label": "Undantag för DLT-SS-system",
+        "range": [
+          29,
+          37
+        ],
+        "articleRefs": [
+          "5.2",
+          "5.3",
+          "5.4",
+          "5.5",
+          "5.6",
+          "5.7",
+          "5.8",
+          "5.9"
+        ]
+      },
+      {
+        "id": "operativa-krav-it",
+        "label": "Operativa krav och it-säkerhet",
+        "range": [
+          38,
+          42
+        ],
+        "articleRefs": [
+          "7.1",
+          "7.2",
+          "7.3",
+          "7.4",
+          "7.5"
+        ]
+      },
+      {
+        "id": "uttradesstrategi-tillstand",
+        "label": "Utträdesstrategi och tillstånd",
+        "range": [
+          43,
+          49
+        ],
+        "articleRefs": [
+          "7.7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "id": "tillsyn-rapportering",
+        "label": "Tillsyn, rapportering och översyn",
+        "range": [
+          50,
+          53
+        ],
+        "articleRefs": [
+          "11",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "id": "tekniska-standarder-ovrigt",
+        "label": "Tekniska standarder och övriga bestämmelser",
+        "range": [
+          54,
+          61
+        ],
+        "articleRefs": [
+          "16",
+          "17",
+          "18"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        6,
+        7
+      ],
+      "2": [
+        5,
+        8,
+        12
+      ],
+      "3": [
+        23
+      ],
+      "3.1": [
+        23
+      ],
+      "3.2": [
+        23
+      ],
+      "3.3": [
+        23
+      ],
+      "3.7": [
+        24
+      ],
+      "4": [
+        13
+      ],
+      "4.1": [
+        13
+      ],
+      "4.2": [
+        25,
+        26
+      ],
+      "4.3": [
+        27,
+        28
+      ],
+      "5": [
+        18
+      ],
+      "5.1": [
+        18
+      ],
+      "5.2": [
+        29,
+        30,
+        31
+      ],
+      "5.3": [
+        30
+      ],
+      "5.4": [
+        31
+      ],
+      "5.5": [
+        32
+      ],
+      "5.6": [
+        33
+      ],
+      "5.7": [
+        33
+      ],
+      "5.8": [
+        34,
+        35
+      ],
+      "5.9": [
+        36,
+        37
+      ],
+      "6": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "7.1": [
+        38,
+        39,
+        40
+      ],
+      "7.2": [
+        39
+      ],
+      "7.3": [
+        40
+      ],
+      "7.4": [
+        41
+      ],
+      "7.5": [
+        42
+      ],
+      "7.6": [
+        22
+      ],
+      "7.7": [
+        43
+      ],
+      "8": [
+        11,
+        44,
+        46,
+        47,
+        48,
+        49
+      ],
+      "9": [
+        11,
+        44,
+        46,
+        47,
+        48,
+        49
+      ],
+      "10": [
+        11,
+        44,
+        46,
+        47,
+        48,
+        49
+      ],
+      "11": [
+        50,
+        51
+      ],
+      "12": [
+        21
+      ],
+      "14": [
+        52,
+        53
+      ],
+      "15": [
+        52
+      ],
+      "16": [
+        58
+      ],
+      "17": [
+        60
+      ],
+      "18": [
+        59
+      ]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32022L0890": "53414ac57acb7b6c23efaf3a717de94919339301ae79acf760cd66c4876fbfb7"
+    },
+    "run": {
+      "started": "2026-08-28T21:05:53+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 4072,
+      "completion_tokens": 1786,
+      "ended": "2026-08-28T21:06:16+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8769292e2ed906d19610fafc6ddafc9e44d6512e2b2dba4aa93651b5118f284f"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-behov",
+        "label": "Bakgrund och behov av förlängning",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "rättslig-grund",
+        "label": "Rättslig grund och proportionalitet",
+        "range": [
+          6,
+          7
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        2,
+        4,
+        5,
+        7
+      ],
+      "1.1": [
+        2,
+        4,
+        5
+      ],
+      "1.2": [
+        2,
+        4,
+        5
+      ]
+    }
+  }
+}

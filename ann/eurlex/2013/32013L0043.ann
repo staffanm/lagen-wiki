@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32013L0043": "d7ea80c4c9bdca0ce8a5d4ec5230a60317625c3f5d91d8d814eaad88c7658d61"
+    },
+    "run": {
+      "started": "2026-08-28T21:12:00+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 5531,
+      "completion_tokens": 2567,
+      "ended": "2026-08-28T21:12:32+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "83e005500b4713ec462730f5a69c97f2e6c48de473736ef0963389dac35bdfcc"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "lagstiftningshistorik",
+        "label": "Lagstiftningshistorik",
+        "range": [
+          3,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "bedragerikansliga-varor",
+        "label": "Bedrägerikänsliga varor och principer",
+        "range": [
+          4,
+          6
+        ],
+        "articleRefs": [
+          "1.2.b"
+        ]
+      },
+      {
+        "id": "tillampningsvillkor",
+        "label": "Villkor för tillämpning",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "1.2.c",
+          "1.2.d"
+        ]
+      },
+      {
+        "id": "tidsbegransning-utvardering",
+        "label": "Tidsbegränsning och utvärdering",
+        "range": [
+          8,
+          9
+        ],
+        "articleRefs": [
+          "1.2.a",
+          "1.2.e",
+          "1.2.f",
+          "1.2.g",
+          "3"
+        ]
+      },
+      {
+        "id": "rettslig-grund",
+        "label": "Rättslig grund och ändring",
+        "range": [
+          10,
+          12
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        10,
+        12
+      ],
+      "1.1": [
+        1,
+        2
+      ],
+      "1.2.a": [
+        8,
+        9
+      ],
+      "1.2.b": [
+        4,
+        6
+      ],
+      "1.2.c": [
+        7
+      ],
+      "1.2.d": [
+        7
+      ],
+      "1.2.e": [
+        9
+      ],
+      "1.2.f": [
+        9
+      ],
+      "1.2.g": [
+        9
+      ],
+      "3": [
+        8,
+        9
+      ]
+    }
+  }
+}

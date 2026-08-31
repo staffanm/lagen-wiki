@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32012L0023": "39b528a5fc5352178801d9c017970ca48400f926adb705b00c3538570fd271e2"
+    },
+    "run": {
+      "started": "2026-08-28T21:07:47+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 4752,
+      "completion_tokens": 2049,
+      "ended": "2026-08-28T21:08:14+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "6cfe10c0b2dd762146feb2a6729678c84baffb99edeb78d49f21946f89d06c7d"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-solvens-ii",
+        "label": "Bakgrund till Solvens II",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "omnibus-ii",
+        "label": "Omnibus II-förslaget och risker",
+        "range": [
+          3,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "förlängning-införlivande",
+        "label": "Förlängning av införlivandetid",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1.1"
+        ]
+      },
+      {
+        "id": "förlängning-tillämpning",
+        "label": "Förlängning av tillämpningsdatum",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "1.2"
+        ]
+      },
+      {
+        "id": "solvens-i-upphörande",
+        "label": "Rättssäkerhet och Solvens I",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "1.3"
+        ]
+      },
+      {
+        "id": "ikraftträdande",
+        "label": "Ikraftträdande",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "1.1": [
+        5,
+        6
+      ],
+      "1.1.a": [
+        5
+      ],
+      "1.1.b": [
+        6
+      ],
+      "1.2": [
+        6
+      ],
+      "1.3": [
+        7
+      ],
+      "2": [
+        8
+      ]
+    }
+  }
+}

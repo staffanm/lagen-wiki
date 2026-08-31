@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32020R0873": "39f313ef7af63e4f6ee0b2efaf6af0ddd15e3265229f5b862591b12458e3e78f"
+    },
+    "run": {
+      "started": "2026-08-28T21:34:22+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18109,
+      "completion_tokens": 4124,
+      "ended": "2026-08-28T21:35:28+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "5c2413f555dfbf7178f5a901df25f2ea5c12b38fb17a2ac053b3aa9715b8d7f1"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-regelverk",
+        "label": "Bakgrund och tidigare regelverk",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": []
+      },
+      {
+        "id": "covid-effekter-flexibilitet",
+        "label": "Pandemins effekter och behov av flexibilitet",
+        "range": [
+          4,
+          7
+        ],
+        "articleRefs": []
+      },
+      {
+        "id": "garantier-kreditrisk",
+        "label": "Garantier och kreditrisk",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "1.1"
+        ]
+      },
+      {
+        "id": "bruttosoliditet-centralbanker",
+        "label": "Bruttosoliditetsgrad och exponeringar mot centralbanker",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "1.4",
+          "500b",
+          "500d"
+        ]
+      },
+      {
+        "id": "ifrs9-kreditforluster",
+        "label": "IFRS 9 och förväntade kreditförluster",
+        "range": [
+          11,
+          14
+        ],
+        "articleRefs": [
+          "1.7"
+        ]
+      },
+      {
+        "id": "statsskuld-volatilitet",
+        "label": "Marknadsvolatilitet och statsskuld",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "1.6",
+          "468"
+        ]
+      },
+      {
+        "id": "utfallstester-marknadsrisk",
+        "label": "Interna modeller och utfallstester",
+        "range": [
+          16,
+          16
+        ],
+        "articleRefs": [
+          "500c",
+          "518b"
+        ]
+      },
+      {
+        "id": "bruttosoliditetsbuffert",
+        "label": "Bruttosoliditetsbuffert för systemviktiga institut",
+        "range": [
+          17,
+          17
+        ],
+        "articleRefs": [
+          "2.2"
+        ]
+      },
+      {
+        "id": "stodfaktor-utlaning",
+        "label": "Stödfaktorer och utlåning till specifika grupper",
+        "range": [
+          18,
+          19
+        ],
+        "articleRefs": [
+          "2.1"
+        ]
+      },
+      {
+        "id": "digitalisering-programvara",
+        "label": "Digitalisering och programvarutillgångar",
+        "range": [
+          20,
+          20
+        ],
+        "articleRefs": [
+          "2.3"
+        ]
+      },
+      {
+        "id": "utlandsvalluta-exponeringar",
+        "label": "Exponeringar i annan medlemsstats valuta",
+        "range": [
+          21,
+          21
+        ],
+        "articleRefs": [
+          "1.3",
+          "500a"
+        ]
+      },
+      {
+        "id": "utdelning-tillsyn",
+        "label": "Utdelningsrestriktioner och tillsynsbefogenheter",
+        "range": [
+          22,
+          22
+        ],
+        "articleRefs": [
+          "518b"
+        ]
+      },
+      {
+        "id": "slutbestammelser",
+        "label": "Slutbestämmelser och ikraftträdande",
+        "range": [
+          23,
+          26
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1.1": [
+        8
+      ],
+      "1.3": [
+        21
+      ],
+      "1.4": [
+        9
+      ],
+      "1.6": [
+        15
+      ],
+      "1.7": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "468": [
+        15
+      ],
+      "500a": [
+        21
+      ],
+      "500b": [
+        9
+      ],
+      "500c": [
+        16
+      ],
+      "500d": [
+        10
+      ],
+      "518b": [
+        16,
+        22
+      ],
+      "2.1": [
+        18,
+        19
+      ],
+      "2.2": [
+        17
+      ],
+      "2.3": [
+        20
+      ]
+    }
+  }
+}

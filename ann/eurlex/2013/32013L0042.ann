@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32013L0042": "3c356d7483cc137810468417d87225bc7d12f41c48085c41ebac1fa9d1a02b01"
+    },
+    "run": {
+      "started": "2026-08-28T21:11:36+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 5459,
+      "completion_tokens": 1722,
+      "ended": "2026-08-28T21:12:00+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7ec6fbf88f9e45f830e0c7c480f793c6fc7791f68b7d86d15ad3864784061a32"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "199b.1",
+          "395"
+        ]
+      },
+      {
+        "id": "omvand-betalningsskyldighet",
+        "label": "Omvänd betalningsskyldighet som verktyg",
+        "range": [
+          4,
+          5
+        ],
+        "articleRefs": [
+          "199b.1"
+        ]
+      },
+      {
+        "id": "snabb-insats-forfarande",
+        "label": "Mekanism för snabba insatser och förfarande",
+        "range": [
+          6,
+          8
+        ],
+        "articleRefs": [
+          "199b.1",
+          "199b.2",
+          "199b.3",
+          "199b.4",
+          "395"
+        ]
+      },
+      {
+        "id": "standardformulär",
+        "label": "Standardformulär och genomförande",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "199b.2",
+          "199b.5"
+        ]
+      },
+      {
+        "id": "tidsbegränsning-utvärdering",
+        "label": "Tidsbegränsning och utvärdering",
+        "range": [
+          10,
+          11
+        ],
+        "articleRefs": [
+          "199b.1",
+          "2"
+        ]
+      },
+      {
+        "id": "rättslig-grund",
+        "label": "Subsidiaritet och rättslig grund",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        13
+      ],
+      "199b.1": [
+        1,
+        4,
+        5,
+        6,
+        10
+      ],
+      "199b.2": [
+        6,
+        9
+      ],
+      "199b.3": [
+        8
+      ],
+      "199b.4": [
+        6,
+        7
+      ],
+      "199b.5": [
+        9
+      ],
+      "395": [
+        3,
+        8
+      ],
+      "2": [
+        11
+      ]
+    }
+  }
+}

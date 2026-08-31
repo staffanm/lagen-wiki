@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32022L0542": "e55a421eab87d0167532f368f2074ab8884c34200db022341a6c6e78568cb2d8"
+    },
+    "run": {
+      "started": "2026-08-28T21:29:40+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 14030,
+      "completion_tokens": 4592,
+      "ended": "2026-08-28T21:30:47+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c662af86bc5d991ab182841c79df64fae63d4f142d44445a1c4a6394e567a59c"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-principer",
+        "label": "Bakgrund och principer",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "98",
+          "105a"
+        ]
+      },
+      {
+        "id": "miljo-gron-ekonomi",
+        "label": "Miljö och grön ekonomi",
+        "range": [
+          4,
+          7
+        ],
+        "articleRefs": [
+          "98",
+          "105a.9"
+        ]
+      },
+      {
+        "id": "generella-reducerade-satser",
+        "label": "Generella regler för reducerade skattesatser",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "98"
+        ]
+      },
+      {
+        "id": "likabehandling-valmogligheter",
+        "label": "Likabehandling och valmöjligheter",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "105a"
+        ]
+      },
+      {
+        "id": "administration-rapportering",
+        "label": "Administration och rapportering",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "100",
+          "105a"
+        ]
+      },
+      {
+        "id": "sociala-mal-modernisering",
+        "label": "Sociala mål och modernisering",
+        "range": [
+          14,
+          15
+        ],
+        "articleRefs": [
+          "98",
+          "221",
+          "316"
+        ]
+      },
+      {
+        "id": "digitalisering-virtuella-tjanster",
+        "label": "Digitalisering och virtuella tjänster",
+        "range": [
+          16,
+          18
+        ],
+        "articleRefs": [
+          "53",
+          "54.1",
+          "98"
+        ]
+      },
+      {
+        "id": "sociala-organisationer-utokning",
+        "label": "Sociala organisationer och utökning av förteckning",
+        "range": [
+          19,
+          20
+        ],
+        "articleRefs": [
+          "98"
+        ]
+      },
+      {
+        "id": "katastrofer-exceptionella-situationer",
+        "label": "Katastrofer och exceptionella situationer",
+        "range": [
+          21,
+          21
+        ],
+        "articleRefs": [
+          "101a"
+        ]
+      },
+      {
+        "id": "juridiska-formali",
+        "label": "Juridiska och formella bestämmelser",
+        "range": [
+          22,
+          25
+        ],
+        "articleRefs": [
+          "3",
+          "4",
+          "5"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "53": [
+        17
+      ],
+      "54.1": [
+        18
+      ],
+      "81": [
+        14
+      ],
+      "94": [
+        14
+      ],
+      "98": [
+        5,
+        6,
+        8,
+        14,
+        20
+      ],
+      "98.1": [
+        5
+      ],
+      "98.2": [
+        6
+      ],
+      "98.3": [
+        6
+      ],
+      "98.4": [
+        6
+      ],
+      "98.5": [
+        6
+      ],
+      "98.6": [
+        9
+      ],
+      "98.7": [
+        16,
+        17
+      ],
+      "100": [
+        13
+      ],
+      "101a": [
+        21
+      ],
+      "105a": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "105a.1": [
+        9
+      ],
+      "105a.3": [
+        12
+      ],
+      "105a.4": [
+        13
+      ],
+      "105a.5": [
+        10
+      ],
+      "105a.8": [
+        10
+      ],
+      "105a.9": [
+        4
+      ],
+      "105a.10": [
+        13
+      ],
+      "105a.11": [
+        13
+      ],
+      "105b": [
+        6
+      ],
+      "221": [
+        14
+      ],
+      "288": [
+        6,
+        9
+      ],
+      "316": [
+        14
+      ],
+      "3": [
+        24
+      ]
+    }
+  }
+}

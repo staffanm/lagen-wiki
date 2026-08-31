@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32019R0630": "e9ae04284402ddcd9880ad042cf30060529ae618bfe441bae9c4a00ba2015221"
+    },
+    "run": {
+      "started": "2026-08-28T21:26:04+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12588,
+      "completion_tokens": 2371,
+      "ended": "2026-08-28T21:26:43+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f77e9bb6764a50e06cd5265be146a7d7a67cf7a001c86da34b934bdecdc4b152"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "47a",
+          "47b",
+          "47c"
+        ]
+      },
+      {
+        "id": "sakerhetssparr-tillsyn",
+        "label": "Säkerhetsspärr och tillsynsbefogenheter",
+        "range": [
+          5,
+          6
+        ],
+        "articleRefs": [
+          "47c",
+          "36.1"
+        ]
+      },
+      {
+        "id": "klassificering-nöd",
+        "label": "Klassificering av nödlidande exponeringar",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "47a",
+          "178.1b"
+        ]
+      },
+      {
+        "id": "vardering-avskrivningar",
+        "label": "Värdering och avskrivningar",
+        "range": [
+          8,
+          9
+        ],
+        "articleRefs": [
+          "47a",
+          "47c",
+          "111.1",
+          "159"
+        ]
+      },
+      {
+        "id": "säkrade-osäkrade",
+        "label": "Säkrade och osäkrade exponeringar",
+        "range": [
+          10,
+          11
+        ],
+        "articleRefs": [
+          "47c",
+          "127.1"
+        ]
+      },
+      {
+        "id": "tidsplaner-anstånd",
+        "label": "Tidsplaner och anståndsåtgärder",
+        "range": [
+          12,
+          13
+        ],
+        "articleRefs": [
+          "47b",
+          "47c"
+        ]
+      },
+      {
+        "id": "eba-riktlinjer",
+        "label": "EBA:s roll och riktlinjer",
+        "range": [
+          14,
+          14
+        ],
+        "articleRefs": [
+          "47c"
+        ]
+      },
+      {
+        "id": "overgang-ikrafttradande",
+        "label": "Övergångsbestämmelser och ikraftträdande",
+        "range": [
+          15,
+          17
+        ],
+        "articleRefs": [
+          "469a"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "36.1": [
+        5
+      ],
+      "47a": [
+        7,
+        8,
+        9
+      ],
+      "47a.3": [
+        9
+      ],
+      "47a.4": [
+        9
+      ],
+      "47a.6": [
+        7
+      ],
+      "47b": [
+        7,
+        13
+      ],
+      "47c": [
+        5,
+        6,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "47c.1": [
+        5
+      ],
+      "47c.2.e": [
+        9
+      ],
+      "47c.2.f": [
+        9
+      ],
+      "47c.3": [
+        10,
+        12
+      ],
+      "47c.4": [
+        11,
+        12
+      ],
+      "47c.5": [
+        12
+      ],
+      "47c.6": [
+        14
+      ],
+      "47c.7": [
+        13
+      ],
+      "111.1": [
+        9
+      ],
+      "127.1": [
+        10
+      ],
+      "159": [
+        9
+      ],
+      "178.1b": [
+        7
+      ],
+      "469a": [
+        15
+      ]
+    }
+  }
+}

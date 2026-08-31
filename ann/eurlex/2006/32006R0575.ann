@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32006R0575": "a407a7932f9acb5a5b86ca207e49fe5263d47c16eddc5804f7bc3461ae9fda10"
+    },
+    "run": {
+      "started": "2026-08-28T20:59:01+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 3164,
+      "completion_tokens": 1424,
+      "ended": "2026-08-28T20:59:21+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "59ee9b8dee3d47f719a652d715a2f7481e8f8d81a6bb6ba0c6b777cac7ba19e8"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-behov",
+        "label": "Bakgrund och behov",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "andringsbehov",
+        "label": "Ändringsbehov",
+        "range": [
+          3,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "forfarande",
+        "label": "Förfarande",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "1.1": [
+        3
+      ],
+      "1.2": [
+        1,
+        2
+      ]
+    }
+  }
+}

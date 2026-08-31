@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32019R2115": "9434c7563f61ef81e3ae1e7ae46bb137dbea0a7fb97095590719e456338aa363"
+    },
+    "run": {
+      "started": "2026-08-28T21:30:47+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 14087,
+      "completion_tokens": 2316,
+      "ended": "2026-08-28T21:31:25+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "83b6f35ca3f3b0034ea6367525238b6ba952dea6b98d4a62261921dac4bf4dd9"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          5
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "id": "marknadssonderingar",
+        "label": "Marknadssonderingar och kvalificerade investerare",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "1.1"
+        ]
+      },
+      {
+        "id": "likviditetsavtal",
+        "label": "Likviditetsavtal",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "1.2"
+        ]
+      },
+      {
+        "id": "offentliggorande-insider",
+        "label": "Offentliggörande av insiderinformation",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "1.3"
+        ]
+      },
+      {
+        "id": "insiderforteckningar",
+        "label": "Insiderförteckningar",
+        "range": [
+          10,
+          11
+        ],
+        "articleRefs": [
+          "1.4"
+        ]
+      },
+      {
+        "id": "transaktionsrapportering",
+        "label": "Rapportering av transaktioner",
+        "range": [
+          12,
+          12
+        ],
+        "articleRefs": [
+          "1.5"
+        ]
+      },
+      {
+        "id": "prospekt-undantag",
+        "label": "Prospekt och undantag",
+        "range": [
+          13,
+          14
+        ],
+        "articleRefs": [
+          "2.1",
+          "2.2"
+        ]
+      },
+      {
+        "id": "overgang-redovisning",
+        "label": "Övergång till reglerade marknader och redovisning",
+        "range": [
+          15,
+          16
+        ],
+        "articleRefs": [
+          "2.2"
+        ]
+      },
+      {
+        "id": "tillvaxktprospekt",
+        "label": "EU-tillväxtprospekt",
+        "range": [
+          17,
+          17
+        ],
+        "articleRefs": [
+          "2.3",
+          "2.4"
+        ]
+      },
+      {
+        "id": "oversyn-tillampning",
+        "label": "Översyn och tillämpning",
+        "range": [
+          18,
+          20
+        ],
+        "articleRefs": [
+          "3",
+          "4"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "1.1": [
+        6
+      ],
+      "1.2": [
+        7,
+        8
+      ],
+      "1.3": [
+        9
+      ],
+      "1.4": [
+        10,
+        11
+      ],
+      "1.4.a": [
+        11
+      ],
+      "1.4.b": [
+        10
+      ],
+      "1.5": [
+        12
+      ],
+      "2": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "2.1": [
+        13
+      ],
+      "2.2": [
+        14,
+        15,
+        16
+      ],
+      "2.3": [
+        17
+      ],
+      "2.4": [
+        17
+      ],
+      "3": [
+        18
+      ],
+      "4": [
+        20
+      ]
+    }
+  }
+}

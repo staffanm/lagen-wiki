@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32025L0425": "9ec2824987edd50de4d31a4a3a002d0537cf57a9b6154ded011196755c3ecf73"
+    },
+    "run": {
+      "started": "2026-08-28T21:16:03+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 6525,
+      "completion_tokens": 2091,
+      "ended": "2026-08-28T21:16:31+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "955f12ac8e5231d7d817df0caa75cf11ba59feb0a30cf24398b3c80ccf725cc2"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-digitalisering",
+        "label": "Bakgrund och digitalisering",
+        "range": [
+          1,
+          1
+        ],
+        "articleRefs": [
+          "151 a.1",
+          "151 a.3",
+          "151 a.4"
+        ]
+      },
+      {
+        "id": "overgang-flexibilitet",
+        "label": "Övergångsperiod och flexibilitet",
+        "range": [
+          2,
+          3
+        ],
+        "articleRefs": [
+          "151 a.6"
+        ]
+      },
+      {
+        "id": "aterbetalningsforfaranden",
+        "label": "Återbetalningsförfaranden",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "151 a.2"
+        ]
+      },
+      {
+        "id": "ansvar-rettsakerhet",
+        "label": "Ansvar och rättssäkerhet",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "151 b"
+        ]
+      },
+      {
+        "id": "underskriftskrav",
+        "label": "Undantag från underskriftskrav",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "151 a.5"
+        ]
+      },
+      {
+        "id": "it-system-genomforande",
+        "label": "Genomförande och IT-system",
+        "range": [
+          7,
+          8
+        ],
+        "articleRefs": [
+          "151 a.7",
+          "151 a.8"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "151 a": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7
+      ],
+      "151 a.1": [
+        1
+      ],
+      "151 a.2": [
+        4
+      ],
+      "151 a.3": [
+        1
+      ],
+      "151 a.4": [
+        1
+      ],
+      "151 a.5": [
+        6
+      ],
+      "151 a.6": [
+        2,
+        3
+      ],
+      "151 a.7": [
+        7
+      ],
+      "151 a.8": [
+        7
+      ],
+      "151 b": [
+        5
+      ]
+    }
+  }
+}

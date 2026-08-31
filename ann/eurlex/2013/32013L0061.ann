@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32013L0061": "c8fe4d4f97888fa045043bcc1c5941122f6053d915889f6efb247d577b2a0787"
+    },
+    "run": {
+      "started": "2026-08-28T21:03:24+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 3897,
+      "completion_tokens": 1068,
+      "ended": "2026-08-28T21:03:40+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d013bb929b99f75fe863359fe69560a7727dc283b5feaa232df0bf1215308577"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "1",
+          "2"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        2,
+        3
+      ],
+      "2": [
+        2,
+        3
+      ],
+      "2.1": [
+        2,
+        3
+      ],
+      "2.2": [
+        2
+      ],
+      "4": [
+        1
+      ]
+    }
+  }
+}

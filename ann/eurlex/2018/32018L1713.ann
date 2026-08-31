@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32018L1713": "1269603ce4a6b460a2f7e05fa7c5edebf4739ba669a09cd42547427ff3c4f60a"
+    },
+    "run": {
+      "started": "2026-08-28T21:07:16+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 4369,
+      "completion_tokens": 2339,
+      "ended": "2026-08-28T21:07:47+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "86712aa845dbeb84f549bfed5a3bfc12cb65228e04fbe7635f75240dd48cb48e"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-regelverk",
+        "label": "Bakgrund och nuvarande regelverk",
+        "range": [
+          1,
+          1
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "digital-anpassning",
+        "label": "Digital anpassning",
+        "range": [
+          2,
+          2
+        ],
+        "articleRefs": [
+          "1",
+          "1.1"
+        ]
+      },
+      {
+        "id": "likabehandling-publikationer",
+        "label": "Likabehandling av fysiska och digitala publikationer",
+        "range": [
+          3,
+          3
+        ],
+        "articleRefs": [
+          "1",
+          "1.1",
+          "1.2",
+          "1.3"
+        ]
+      },
+      {
+        "id": "destinationsprincipen",
+        "label": "Destinationsprincipen",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "innehallsmassiga-begransningar",
+        "label": "Innehållsmässiga begränsningar",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1.3"
+        ]
+      },
+      {
+        "id": "medlemsstaterna-principer",
+        "label": "Medlemsstaternas utrymme och rättsliga principer",
+        "range": [
+          6,
+          8
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        8
+      ],
+      "1.1": [
+        2,
+        3
+      ],
+      "1.2": [
+        3
+      ],
+      "1.3": [
+        3,
+        5
+      ]
+    }
+  }
+}

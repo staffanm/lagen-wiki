@@ -1,0 +1,240 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32021L0338": "4d92a9e1f7ad8dce3240ddcf70bc47aca525be05491aed0b80cd24bfeae7160f"
+    },
+    "run": {
+      "started": "2026-08-28T21:37:24+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19410,
+      "completion_tokens": 3057,
+      "ended": "2026-08-28T21:38:19+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f659d2a4c70b9650200d2cef667436100f83a01c2c201198e1daf14bb477d4a1"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      },
+      {
+        "id": "produktstyrning",
+        "label": "Produktstyrning",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "16a"
+        ]
+      },
+      {
+        "id": "informationskrav-professionella-kunder",
+        "label": "Informationskrav för professionella kunder",
+        "range": [
+          5,
+          7
+        ],
+        "articleRefs": [
+          "29a",
+          "30.1"
+        ]
+      },
+      {
+        "id": "investeringsanalys-sme",
+        "label": "Investeringsanalys för små och medelstora företag",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "24.4"
+        ]
+      },
+      {
+        "id": "rapportering-kommunikation",
+        "label": "Rapportering och kommunikationsformat",
+        "range": [
+          9,
+          10
+        ],
+        "articleRefs": [
+          "27.3",
+          "27.6",
+          "24.5"
+        ]
+      },
+      {
+        "id": "sidoverksamhet-undantag",
+        "label": "Undantag för sidoverksamhet",
+        "range": [
+          11,
+          11
+        ],
+        "articleRefs": [
+          "1.1"
+        ]
+      },
+      {
+        "id": "positionslimiter-huvudregler",
+        "label": "Positionslimiter och risksäkringsundantag",
+        "range": [
+          12,
+          15
+        ],
+        "articleRefs": [
+          "57.1"
+        ]
+      },
+      {
+        "id": "varpapperiserade-derivat",
+        "label": "Värdepapperiserade derivat",
+        "range": [
+          16,
+          16
+        ],
+        "articleRefs": [
+          "57.1",
+          "58.1"
+        ]
+      },
+      {
+        "id": "positionskontroll-samordning",
+        "label": "Samordning och kontroll av positioner",
+        "range": [
+          17,
+          18
+        ],
+        "articleRefs": [
+          "57.6",
+          "57.8"
+        ]
+      },
+      {
+        "id": "delegering-utslappsratter",
+        "label": "Delegering och övervakning av utsläppsrätter",
+        "range": [
+          19,
+          20
+        ],
+        "articleRefs": [
+          "89",
+          "90"
+        ]
+      },
+      {
+        "id": "införlivande-tidsfrister",
+        "label": "Införlivande och tidsfrister",
+        "range": [
+          21,
+          22
+        ],
+        "articleRefs": [
+          "2.1",
+          "4"
+        ]
+      },
+      {
+        "id": "juridiska-bestammelser",
+        "label": "Juridiska och administrativa bestämmelser",
+        "range": [
+          23,
+          27
+        ],
+        "articleRefs": [
+          "4",
+          "6"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1.1": [
+        11
+      ],
+      "16a": [
+        4
+      ],
+      "24.4": [
+        8
+      ],
+      "24.5": [
+        10
+      ],
+      "25.2": [
+        6
+      ],
+      "27.3": [
+        9
+      ],
+      "27.6": [
+        9
+      ],
+      "29a": [
+        5,
+        6,
+        7
+      ],
+      "29a.1": [
+        5
+      ],
+      "29a.2": [
+        6,
+        7
+      ],
+      "30.1": [
+        4,
+        5,
+        7
+      ],
+      "57.1": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "57.6": [
+        17
+      ],
+      "57.8": [
+        18
+      ],
+      "58.1": [
+        16
+      ],
+      "89": [
+        19
+      ],
+      "90": [
+        20
+      ],
+      "2.1": [
+        21,
+        22
+      ],
+      "4": [
+        24,
+        25,
+        26
+      ],
+      "6": [
+        27
+      ]
+    }
+  }
+}

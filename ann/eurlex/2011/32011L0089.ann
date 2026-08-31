@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32011L0089": "09397b8a93fd606d85b4ddefe43eb3d1c359d64c87b38db4b29150ce5ba08d0b"
+    },
+    "run": {
+      "started": "2026-08-28T21:49:19+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 37238,
+      "completion_tokens": 3357,
+      "ended": "2026-08-28T21:50:46+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c73b014ef09f412f85d9e0401977cf194dc09744f1fdde4b57ee2ab8446390bf"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          2
+        ],
+        "articleRefs": [
+          "2.1"
+        ]
+      },
+      {
+        "id": "identifiering-definitioner",
+        "label": "Identifiering och definitioner",
+        "range": [
+          3,
+          8
+        ],
+        "articleRefs": [
+          "2.2",
+          "2.3",
+          "2.5"
+        ]
+      },
+      {
+        "id": "samordning-tillsyn",
+        "label": "Samordning och tillsyn",
+        "range": [
+          9,
+          11
+        ],
+        "articleRefs": [
+          "2.4",
+          "2.10",
+          "2.11"
+        ]
+      },
+      {
+        "id": "holdingforetag",
+        "label": "Blandade finansiella holdingföretag",
+        "range": [
+          10,
+          13
+        ],
+        "articleRefs": [
+          "1.1",
+          "1.2",
+          "3.2",
+          "4.1"
+        ]
+      },
+      {
+        "id": "stresstester",
+        "label": "Stresstester",
+        "range": [
+          11,
+          11
+        ],
+        "articleRefs": [
+          "2.9b"
+        ]
+      },
+      {
+        "id": "oversyn-systemviktiga",
+        "label": "Översyn och systemviktiga konglomerat",
+        "range": [
+          12,
+          12
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "likvardighet-overlappning",
+        "label": "Likvärdighet och överlappning",
+        "range": [
+          14,
+          14
+        ],
+        "articleRefs": [
+          "1.3",
+          "2.12b",
+          "3.8",
+          "4.2"
+        ]
+      },
+      {
+        "id": "delegering-teknik",
+        "label": "Delegerade akter och tekniska standarder",
+        "range": [
+          15,
+          15
+        ],
+        "articleRefs": [
+          "2.20",
+          "2.21a"
+        ]
+      },
+      {
+        "id": "formella-bestammelser",
+        "label": "Formella bestämmelser",
+        "range": [
+          16,
+          17
+        ],
+        "articleRefs": []
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        10
+      ],
+      "1.1": [
+        10,
+        13
+      ],
+      "1.2": [
+        10
+      ],
+      "1.3": [
+        14
+      ],
+      "1.6": [
+        1
+      ],
+      "2": [
+        1
+      ],
+      "2.1": [
+        1
+      ],
+      "2.2": [
+        6
+      ],
+      "2.3": [
+        3,
+        8
+      ],
+      "2.4": [
+        4,
+        7
+      ],
+      "2.5": [
+        6
+      ],
+      "2.6": [
+        1
+      ],
+      "2.7": [
+        1
+      ],
+      "2.8": [
+        1
+      ],
+      "2.9": [
+        5
+      ],
+      "2.9b": [
+        11
+      ],
+      "2.10": [
+        4
+      ],
+      "2.11": [
+        4,
+        7
+      ],
+      "2.12": [
+        5
+      ],
+      "2.12b": [
+        7,
+        14
+      ],
+      "2.20": [
+        15
+      ],
+      "2.21a": [
+        15
+      ],
+      "3": [
+        13
+      ],
+      "3.2": [
+        13
+      ],
+      "3.8": [
+        14
+      ],
+      "3.16": [
+        4
+      ],
+      "3.18": [
+        7
+      ],
+      "3.21": [
+        14
+      ],
+      "4": [
+        10
+      ],
+      "4.1": [
+        10
+      ],
+      "4.2": [
+        14
+      ],
+      "4.6": [
+        1
+      ],
+      "4.11": [
+        1
+      ],
+      "4.13": [
+        1
+      ],
+      "4.14": [
+        1
+      ],
+      "4.16": [
+        4
+      ],
+      "4.19": [
+        14
+      ],
+      "5": [
+        12
+      ]
+    }
+  }
+}

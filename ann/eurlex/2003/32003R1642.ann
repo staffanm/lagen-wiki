@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32003R1642": "926b2c6cc209f575ec08e28b524db1d3f53277949e29b02c03b732558d4b8422"
+    },
+    "run": {
+      "started": "2026-08-28T21:13:05+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 6028,
+      "completion_tokens": 2866,
+      "ended": "2026-08-28T21:13:42+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "80f835dd90756ba2d5706557b4f5543569caf0e42f46f328761c8d738369831c"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "budget-financial",
+        "label": "Budget och finansiella regler",
+        "range": [
+          1,
+          1
+        ],
+        "articleRefs": [
+          "1.1",
+          "1.2",
+          "1.4",
+          "1.5"
+        ]
+      },
+      {
+        "id": "access-documents",
+        "label": "Tillgång till handlingar",
+        "range": [
+          2,
+          4
+        ],
+        "articleRefs": [
+          "1.3"
+        ]
+      },
+      {
+        "id": "general-amendments",
+        "label": "Allmänna ändringar",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "1"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "1.1": [
+        1
+      ],
+      "1.2": [
+        1
+      ],
+      "1.3": [
+        2,
+        3,
+        4
+      ],
+      "1.3.1": [
+        2,
+        3,
+        4
+      ],
+      "1.3.2": [
+        4
+      ],
+      "1.3.3": [
+        4
+      ],
+      "1.4": [
+        1
+      ],
+      "1.5": [
+        1
+      ]
+    }
+  }
+}

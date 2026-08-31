@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32019L1995": "24409f98a77ae02593fb3df6c10056bdbd9786e72b824252234cfef9f6b0cd24"
+    },
+    "run": {
+      "started": "2026-08-28T21:16:31+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 7018,
+      "completion_tokens": 3728,
+      "ended": "2026-08-28T21:17:18+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f8db92f4d5ddf24d641c0f3d90e4be2bd1fc5ddecc26f9da1e9eb9e4957aa2d6"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "leverans-beskattning",
+        "label": "Leverans och beskattningsgrundande händelse",
+        "range": [
+          1,
+          1
+        ],
+        "articleRefs": [
+          "36b",
+          "66a"
+        ]
+      },
+      {
+        "id": "skattebefrielser-risk",
+        "label": "Skattebefrielser och riskhantering",
+        "range": [
+          2,
+          2
+        ],
+        "articleRefs": [
+          "136a",
+          "169"
+        ]
+      },
+      {
+        "id": "inhemska-leveranser-administration",
+        "label": "Inhemska leveranser och administrativa förenklingar",
+        "range": [
+          3,
+          3
+        ],
+        "articleRefs": [
+          "204.1",
+          "272.1",
+          "369a",
+          "369b",
+          "369f",
+          "369g"
+        ]
+      },
+      {
+        "id": "betalningsfrister-import",
+        "label": "Betalningstider för importmervärdesskatt",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "369zb"
+        ]
+      },
+      {
+        "id": "införlivande-ikraftträdande",
+        "label": "Införlivande och ikraftträdande",
+        "range": [
+          5,
+          6
+        ],
+        "articleRefs": [
+          "2",
+          "3"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1.1": [
+        1
+      ],
+      "36b": [
+        1
+      ],
+      "1.2": [
+        1
+      ],
+      "66a": [
+        1
+      ],
+      "1.3": [
+        2
+      ],
+      "136a": [
+        2
+      ],
+      "1.4": [
+        2
+      ],
+      "169": [
+        2
+      ],
+      "1.5": [
+        3
+      ],
+      "204.1": [
+        3
+      ],
+      "1.6": [
+        3
+      ],
+      "272.1": [
+        3
+      ],
+      "1.9": [
+        3
+      ],
+      "369a": [
+        3
+      ],
+      "1.10": [
+        3
+      ],
+      "369b": [
+        3
+      ],
+      "1.12": [
+        3
+      ],
+      "369f": [
+        3
+      ],
+      "1.13": [
+        3
+      ],
+      "369g": [
+        3
+      ],
+      "1.14": [
+        4
+      ],
+      "369zb": [
+        4
+      ],
+      "2": [
+        5
+      ],
+      "3": [
+        6
+      ]
+    }
+  }
+}

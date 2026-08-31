@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32023L2673": "fdac0b9ec2dce77785880162b4c7ddab5214509e351c52f165a28062d2742840"
+    },
+    "run": {
+      "started": "2026-08-28T21:38:19+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21501,
+      "completion_tokens": 3396,
+      "ended": "2026-08-28T21:39:22+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f5d453b00727b4a9107462dea1161a992a05773f97b5de2c63e5d49494fcc8ce"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "grundande-principer",
+        "label": "Grundande principer och mål",
+        "range": [
+          1,
+          4
+        ],
+        "articleRefs": [
+          "16a",
+          "16b"
+        ]
+      },
+      {
+        "id": "digitalisering-behov",
+        "label": "Digitalisering och behov av översyn",
+        "range": [
+          5,
+          7
+        ],
+        "articleRefs": [
+          "16a",
+          "16d"
+        ]
+      },
+      {
+        "id": "rättssäkerhet-smf",
+        "label": "Rättssäkerhet och små företag",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": []
+      },
+      {
+        "id": "komplementaritet-direktiv",
+        "label": "Komplementaritet med direktiv 2011/83/EU",
+        "range": [
+          9,
+          12
+        ],
+        "articleRefs": [
+          "1.1"
+        ]
+      },
+      {
+        "id": "sanktioner-struktur",
+        "label": "Sanktioner och struktur",
+        "range": [
+          13,
+          15
+        ],
+        "articleRefs": [
+          "1.5",
+          "11a"
+        ]
+      },
+      {
+        "id": "sektorsspecifik-lagstiftning",
+        "label": "Förhållande till sektorsspecifik lagstiftning",
+        "range": [
+          16,
+          22
+        ],
+        "articleRefs": [
+          "16a.10",
+          "16a.11",
+          "16b.8",
+          "16d.5"
+        ]
+      },
+      {
+        "id": "tillämpningsomfattning-teknik",
+        "label": "Tillämpningsområde och kommunikationsteknik",
+        "range": [
+          23,
+          25
+        ],
+        "articleRefs": [
+          "1.1"
+        ]
+      },
+      {
+        "id": "förhandsinformation-innehåll",
+        "label": "Förhandsinformation: Innehåll och tidpunkt",
+        "range": [
+          26,
+          29
+        ],
+        "articleRefs": [
+          "16a.1",
+          "16a.2",
+          "16a.3"
+        ]
+      },
+      {
+        "id": "informationsformat-presentation",
+        "label": "Informationsformat och presentation",
+        "range": [
+          30,
+          33
+        ],
+        "articleRefs": [
+          "16a.4",
+          "16a.5",
+          "16a.7"
+        ]
+      },
+      {
+        "id": "ångerrätt-grundregler",
+        "label": "Ångerrätt: Grundregler och frister",
+        "range": [
+          34,
+          36
+        ],
+        "articleRefs": [
+          "16b.1",
+          "16b.2"
+        ]
+      },
+      {
+        "id": "ångerfunktion-online",
+        "label": "Ångerfunktion för onlinegränssnitt",
+        "range": [
+          37,
+          37
+        ],
+        "articleRefs": [
+          "11a",
+          "1.2"
+        ]
+      },
+      {
+        "id": "tillräckliga-förklaringar",
+        "label": "Krav på tillräckliga förklaringar",
+        "range": [
+          38,
+          40
+        ],
+        "articleRefs": [
+          "16d.1",
+          "16d.3"
+        ]
+      },
+      {
+        "id": "onlinegränssnitt-mörka-mönster",
+        "label": "Onlinegränssnitt och mörka mönster",
+        "range": [
+          41,
+          41
+        ],
+        "articleRefs": [
+          "16e"
+        ]
+      },
+      {
+        "id": "marknadsföring-sociala-medier",
+        "label": "Marknadsföring och sociala medier",
+        "range": [
+          42,
+          42
+        ],
+        "articleRefs": [
+          "16e"
+        ]
+      },
+      {
+        "id": "slutbestämmelser",
+        "label": "Slutbestämmelser och upphävande",
+        "range": [
+          43,
+          46
+        ],
+        "articleRefs": [
+          "3"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1.1": [
+        10,
+        11,
+        12,
+        23,
+        24,
+        25
+      ],
+      "1.2": [
+        37
+      ],
+      "1.5": [
+        13
+      ],
+      "11a": [
+        15,
+        37
+      ],
+      "16a": [
+        14
+      ],
+      "16a.1": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "16a.2": [
+        26
+      ],
+      "16a.3": [
+        26,
+        37
+      ],
+      "16a.4": [
+        26,
+        30
+      ],
+      "16a.5": [
+        31,
+        32,
+        33
+      ],
+      "16a.7": [
+        32,
+        33
+      ],
+      "16a.9": [
+        28
+      ],
+      "16a.10": [
+        16,
+        17,
+        20
+      ],
+      "16a.11": [
+        16,
+        18,
+        21,
+        22
+      ],
+      "16b": [
+        14
+      ],
+      "16b.1": [
+        34,
+        35
+      ],
+      "16b.2": [
+        22
+      ],
+      "16b.3": [
+        14,
+        18
+      ],
+      "16b.8": [
+        16,
+        18,
+        19
+      ],
+      "16c": [
+        14
+      ],
+      "16d": [
+        14
+      ],
+      "16d.1": [
+        38,
+        39
+      ],
+      "16d.3": [
+        15,
+        40
+      ],
+      "16d.5": [
+        16,
+        20
+      ],
+      "16e": [
+        41,
+        42
+      ],
+      "3": [
+        44
+      ]
+    }
+  }
+}

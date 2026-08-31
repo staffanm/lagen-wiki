@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {
+      "artifact:eurlex/32022L2556": "784b7751503f983c503f5e97248af9b6001507131b17d8c15ad03c4e6feff340"
+    },
+    "run": {
+      "started": "2026-08-28T21:27:24+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 14246,
+      "completion_tokens": 3481,
+      "ended": "2026-08-28T21:28:16+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b3903899d95d950ceb53a6ae1e9369dbfb8bbd53d42a69493edbda8c53f7918f"
+    }
+  },
+  "editorialLayer": {
+    "recitalGroups": [
+      {
+        "id": "bakgrund-syfte",
+        "label": "Bakgrund och syfte",
+        "range": [
+          1,
+          3
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "id": "banksektorn",
+        "label": "Banksektorn och IKT-risk",
+        "range": [
+          4,
+          4
+        ],
+        "articleRefs": [
+          "4"
+        ]
+      },
+      {
+        "id": "resolution",
+        "label": "Resolution och kontinuitet",
+        "range": [
+          5,
+          5
+        ],
+        "articleRefs": [
+          "5"
+        ]
+      },
+      {
+        "id": "investeringsforetag",
+        "label": "Värdepappersföretag och handelsplatser",
+        "range": [
+          6,
+          6
+        ],
+        "articleRefs": [
+          "6"
+        ]
+      },
+      {
+        "id": "betaltjanster",
+        "label": "Betaltjänster",
+        "range": [
+          7,
+          7
+        ],
+        "articleRefs": [
+          "7"
+        ]
+      },
+      {
+        "id": "ovriga-finansiella-entiteter",
+        "label": "Försäkring, pensioner och fondförvaltare",
+        "range": [
+          8,
+          8
+        ],
+        "articleRefs": [
+          "1",
+          "2",
+          "3",
+          "8"
+        ]
+      },
+      {
+        "id": "befogenheter-delegerade-akter",
+        "label": "Befogenheter och delegerade akter",
+        "range": [
+          9,
+          9
+        ],
+        "articleRefs": [
+          "1",
+          "3",
+          "6"
+        ]
+      },
+      {
+        "id": "genomforande-juridik",
+        "label": "Genomförande och juridiska grunder",
+        "range": [
+          10,
+          13
+        ],
+        "articleRefs": [
+          "9",
+          "10"
+        ]
+      }
+    ],
+    "articleToRecitals": {
+      "1": [
+        8,
+        9
+      ],
+      "1.1": [
+        8
+      ],
+      "1.2": [
+        9
+      ],
+      "2": [
+        8
+      ],
+      "2.1": [
+        8
+      ],
+      "2.2": [
+        8
+      ],
+      "3": [
+        8,
+        9
+      ],
+      "3.1": [
+        8
+      ],
+      "3.2": [
+        9
+      ],
+      "4": [
+        4
+      ],
+      "4.1": [
+        4
+      ],
+      "4.2": [
+        4
+      ],
+      "4.3": [
+        4
+      ],
+      "4.4": [
+        4
+      ],
+      "5": [
+        5
+      ],
+      "5.1.a": [
+        5
+      ],
+      "5.1.b": [
+        5
+      ],
+      "5.1.c": [
+        5
+      ],
+      "5.2": [
+        5
+      ],
+      "6": [
+        6
+      ],
+      "6.1.a": [
+        6
+      ],
+      "6.1.b": [
+        6
+      ],
+      "6.2.a": [
+        6
+      ],
+      "6.2.b": [
+        6
+      ],
+      "6.3.a": [
+        6
+      ],
+      "6.4.a": [
+        6
+      ],
+      "6.4.b": [
+        6
+      ],
+      "6.4.c": [
+        6
+      ],
+      "7": [
+        7
+      ],
+      "7.1": [
+        7
+      ],
+      "7.2.a": [
+        7
+      ],
+      "7.2.b": [
+        7
+      ],
+      "7.3": [
+        7
+      ],
+      "7.4": [
+        7
+      ],
+      "7.5": [
+        7
+      ],
+      "7.6": [
+        7
+      ],
+      "8": [
+        8
+      ],
+      "9": [
+        10
+      ],
+      "10": [
+        11,
+        12
+      ]
+    }
+  }
+}
