@@ -1,7 +1,9 @@
 ---
-title: Risken
+title: Risk
 categories:
   - Köprätt
+aliases:
+  - Risken
 ---
 Inom köprätten avses med risk köparens skyldighet att betala varan fullt ut även om den har förstörts eller försämrats genom en händelse som inte beror på säljaren, enligt 12 § köplagen.
 
