@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-31T09:42:54+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 20,
+      "prompt_tokens": 60234,
+      "completion_tokens": 62536,
+      "ended": "2026-08-31T10:12:13+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c085e410e0b11208238df7a68b1e05324135dbcdb14166cb9db44e04be60d261"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1970:979",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ny_finansiering",
+        "term": "ny finansiering",
+        "anchor": "P10S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Resolution",
+        "term": "resolution",
+        "anchor": "P10S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Resolutionsmyndighet",
+        "term": "resolutionsmyndighet",
+        "anchor": "P10S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Resolutionsmyndighet",
+        "term": "resolutionsmyndighet",
+        "anchor": "P10S1N7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Resolution",
+        "term": "resolution",
+        "anchor": "P10S1N7N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Central_motpart",
+        "term": "central motpart",
+        "anchor": "P10S1N7N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Resolution",
+        "term": "resolution",
+        "anchor": "P10S1N7N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P10S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P10S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P10aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Resolution",
+        "term": "resolution",
+        "anchor": "P12S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P12S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P12S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P12S4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P12S5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P12S6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P12aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P13S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P13aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Garanterade_insättningar",
+        "term": "garanterade insättningar",
+        "anchor": "P13aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Resolution",
+        "term": "resolution",
+        "anchor": "P13aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P13bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Garanterade_insättningar",
+        "term": "garanterade insättningar",
+        "anchor": "P13bS1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kvalificerade_insättningar",
+        "term": "kvalificerade insättningar",
+        "anchor": "P13bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Resolution",
+        "term": "resolution",
+        "anchor": "P13bS1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Filial",
+        "term": "filial",
+        "anchor": "P13bS1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "P13bS1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P14S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P15S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P18S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Resolution",
+        "term": "resolution",
+        "anchor": "P18S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skuldinstrument",
+        "term": "skuldinstrument",
+        "anchor": "P18S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P18S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P2S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P3aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerställd_obligation",
+        "term": "säkerställd obligation",
+        "anchor": "P3aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P3aS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P4aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P6S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P7S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P9S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P9S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "P9S4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånsrätt",
+        "term": "förmånsrätt",
+        "anchor": "R3",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

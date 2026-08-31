@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-29",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/pmfs/2024:8",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Den_taxa",
+        "term": "den taxa",
+        "anchor": "P1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/En_taxa_som_ska_tillämpas_när_ersättningsskyldigheten_för_provtagning_och_analys_enligt_första_stycket_bestäms",
+        "term": "en taxa som ska tillämpas när ersättningsskyldigheten för provtagning och analys enligt första stycket bestäms",
+        "anchor": "P1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättning",
+        "term": "ersättning",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Taxan",
+        "term": "taxan",
+        "anchor": "P1",
+        "role": "detaljerar",
+        "label": null
+      }
+    ]
+  }
+}

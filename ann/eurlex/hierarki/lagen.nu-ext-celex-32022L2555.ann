@@ -1,0 +1,1091 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/celex/32022L2555",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/System",
+        "term": "system",
+        "anchor": "11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "13",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medelstort_företag",
+        "term": "medelstort företag",
+        "anchor": "18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kriterier_för_när_verksamhetsutövare_ska_omfattas",
+        "term": "kriterier för när verksamhetsutövare ska omfattas",
+        "anchor": "2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medelstort_företag",
+        "term": "medelstort företag",
+        "anchor": "2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "20",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/System",
+        "term": "system",
+        "anchor": "21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhet_i_nätverks-_och_informationssystem",
+        "term": "säkerhet i nätverks- och informationssystem",
+        "anchor": "21",
+        "role": "definierar",
+        "label": "avseende på andra väsentliga och viktiga entiteter än de som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsrevisioner_och_säkerhetsskanningar",
+        "term": "säkerhetsrevisioner och säkerhetsskanningar",
+        "anchor": "21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "21",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/System",
+        "term": "system",
+        "anchor": "22",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anmälningsskyldigheten",
+        "term": "anmälningsskyldigheten",
+        "anchor": "23",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "23",
+        "role": "definierar",
+        "label": "samarbetsgruppen om de utkast till genomförandeakter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidentrapportering",
+        "term": "incidentrapportering",
+        "anchor": "23",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationsskyldighet",
+        "term": "informationsskyldighet",
+        "anchor": "23",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "23",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "26",
+        "role": "definierar",
+        "label": "avseende på en entitet som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "26",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_som_utgör_huvudsakligt_etableringsställe",
+        "term": "vad som utgör huvudsakligt etableringsställe",
+        "anchor": "26",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Register",
+        "term": "register",
+        "anchor": "27",
+        "role": "definierar",
+        "label": "undantag för den information som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "27",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "28",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "29",
+        "role": "definierar",
+        "label": "de riktlinjer som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/För_när_sådana_verksamhetsutövare_ska_räknas_som_väsentliga",
+        "term": "för när sådana verksamhetsutövare ska räknas som väsentliga",
+        "anchor": "3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medelstort_företag",
+        "term": "medelstort företag",
+        "anchor": "3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "30",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "32",
+        "role": "definierar",
+        "label": "nationell rätt påför administrativa sanktionsavgifter enligt artikel 34 utöver någon av de åtgärder som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgift",
+        "term": "avgift",
+        "anchor": "34",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "6.1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "6.10",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_cyberhot",
+        "term": "betydande cyberhot",
+        "anchor": "6.11",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-produkt",
+        "term": "IKT-produkt",
+        "anchor": "6.12",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-tjänst",
+        "term": "IKT-tjänst",
+        "anchor": "6.13",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-process",
+        "term": "IKT-process",
+        "anchor": "6.14",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "6.15",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "6.16",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Teknisk_specifikation",
+        "term": "teknisk specifikation",
+        "anchor": "6.17",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Internetknutpunkt",
+        "term": "internetknutpunkt",
+        "anchor": "6.18",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/System",
+        "term": "system",
+        "anchor": "6.18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Domännamnssystem_eller_DNS",
+        "term": "domännamnssystem eller DNS",
+        "anchor": "6.19",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhet_i_nätverks-_och_informationssystem",
+        "term": "säkerhet i nätverks- och informationssystem",
+        "anchor": "6.2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Leverantör_av_DNS-tjänster",
+        "term": "leverantör av DNS-tjänster",
+        "anchor": "6.20",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "6.21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner_eller_TLD-registreringsenhet",
+        "term": "registreringsenhet för toppdomäner eller TLD-registreringsenhet",
+        "anchor": "6.21",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet_som_erbjuder_domännamnsregistreringstjänster",
+        "term": "entitet som erbjuder domännamnsregistreringstjänster",
+        "anchor": "6.22",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Digital_tjänst",
+        "term": "digital tjänst",
+        "anchor": "6.23",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betrodd_tjänst",
+        "term": "betrodd tjänst",
+        "anchor": "6.24",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillhandahållare_av_betrodda_tjänster",
+        "term": "tillhandahållare av betrodda tjänster",
+        "anchor": "6.25",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kvalificerad_betrodd_tjänst",
+        "term": "kvalificerad betrodd tjänst",
+        "anchor": "6.26",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kvalificerad_tillhandahållare_av_betrodda_tjänster",
+        "term": "kvalificerad tillhandahållare av betrodda tjänster",
+        "anchor": "6.27",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Marknadsplats_online",
+        "term": "marknadsplats online",
+        "anchor": "6.28",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sökmotor",
+        "term": "sökmotor",
+        "anchor": "6.29",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "6.3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Molntjänst",
+        "term": "molntjänst",
+        "anchor": "6.30",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Datacentraltjänst",
+        "term": "datacentraltjänst",
+        "anchor": "6.31",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverk_för_leverans_av_innehåll",
+        "term": "nätverk för leverans av innehåll",
+        "anchor": "6.32",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Plattform_för_sociala_nätverkstjänster",
+        "term": "plattform för sociala nätverkstjänster",
+        "anchor": "6.33",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "6.34",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "6.34",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Offentlig_förvaltningsentitet",
+        "term": "offentlig förvaltningsentitet",
+        "anchor": "6.35",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Allmänt_elektroniskt_kommunikationsnät",
+        "term": "allmänt elektroniskt kommunikationsnät",
+        "anchor": "6.36",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elektronisk_kommunikationstjänst",
+        "term": "elektronisk kommunikationstjänst",
+        "anchor": "6.37",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "6.38",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Driftsentreprenad",
+        "term": "driftsentreprenad",
+        "anchor": "6.39",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationell_strategi_för_cybersäkerhet",
+        "term": "nationell strategi för cybersäkerhet",
+        "anchor": "6.4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Leverantör_av_hanterade_säkerhetstjänster",
+        "term": "leverantör av hanterade säkerhetstjänster",
+        "anchor": "6.40",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Forskningsorganisation",
+        "term": "forskningsorganisation",
+        "anchor": "6.41",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillbud",
+        "term": "tillbud",
+        "anchor": "6.5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "6.6",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storskalig_cybersäkerhetsincident",
+        "term": "storskalig cybersäkerhetsincident",
+        "anchor": "6.7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_som_utgör_en_betydande_incident",
+        "term": "vad som utgör en betydande incident",
+        "anchor": "6.7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidenthantering",
+        "term": "incidenthantering",
+        "anchor": "6.8",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "6.9",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medelstort_företag",
+        "term": "medelstort företag",
+        "anchor": "7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "bilaga-1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "bilaga-2",
+        "role": "definierar",
+        "label": "undantag av entiteter som tillverkar sådana medicintekniska produkter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "13",
+        "role": "definierar",
+        "label": "tekniska medel för de underrättelser som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "14",
+        "role": "definierar",
+        "label": "det granskningsförfarande som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidenthantering",
+        "term": "incidenthantering",
+        "anchor": "15",
+        "role": "definierar",
+        "label": "den översyn som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medelstort_företag",
+        "term": "medelstort företag",
+        "anchor": "18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medelstort_företag",
+        "term": "medelstort företag",
+        "anchor": "2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "20",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhet_i_nätverks-_och_informationssystem",
+        "term": "säkerhet i nätverks- och informationssystem",
+        "anchor": "21",
+        "role": "definierar",
+        "label": "avseende på andra väsentliga och viktiga entiteter än de som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "23",
+        "role": "definierar",
+        "label": "samarbetsgruppen om de utkast till genomförandeakter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "23",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "26",
+        "role": "definierar",
+        "label": "avseende på en entitet som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "26",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "27",
+        "role": "definierar",
+        "label": "undantag för den information som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "27",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "28",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "29",
+        "role": "definierar",
+        "label": "de riktlinjer som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medelstort_företag",
+        "term": "medelstort företag",
+        "anchor": "3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "32",
+        "role": "definierar",
+        "label": "nationell rätt påför administrativa sanktionsavgifter enligt artikel 34 utöver någon av de åtgärder som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "33",
+        "role": "definierar",
+        "label": "nationell rätt påför administrativa sanktionsavgifter enligt artikel 34 utöver någon av de åtgärder som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "6.1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "6.10",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_cyberhot",
+        "term": "betydande cyberhot",
+        "anchor": "6.11",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-produkt",
+        "term": "IKT-produkt",
+        "anchor": "6.12",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-tjänst",
+        "term": "IKT-tjänst",
+        "anchor": "6.13",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-process",
+        "term": "IKT-process",
+        "anchor": "6.14",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "6.15",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "6.16",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Teknisk_specifikation",
+        "term": "teknisk specifikation",
+        "anchor": "6.17",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Internetknutpunkt",
+        "term": "internetknutpunkt",
+        "anchor": "6.18",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Domännamnssystem_eller_DNS",
+        "term": "domännamnssystem eller DNS",
+        "anchor": "6.19",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhet_i_nätverks-_och_informationssystem",
+        "term": "säkerhet i nätverks- och informationssystem",
+        "anchor": "6.2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Leverantör_av_DNS-tjänster",
+        "term": "leverantör av DNS-tjänster",
+        "anchor": "6.20",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "6.21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner_eller_TLD-registreringsenhet",
+        "term": "registreringsenhet för toppdomäner eller TLD-registreringsenhet",
+        "anchor": "6.21",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet_som_erbjuder_domännamnsregistreringstjänster",
+        "term": "entitet som erbjuder domännamnsregistreringstjänster",
+        "anchor": "6.22",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Digital_tjänst",
+        "term": "digital tjänst",
+        "anchor": "6.23",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betrodd_tjänst",
+        "term": "betrodd tjänst",
+        "anchor": "6.24",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillhandahållare_av_betrodda_tjänster",
+        "term": "tillhandahållare av betrodda tjänster",
+        "anchor": "6.25",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kvalificerad_betrodd_tjänst",
+        "term": "kvalificerad betrodd tjänst",
+        "anchor": "6.26",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kvalificerad_tillhandahållare_av_betrodda_tjänster",
+        "term": "kvalificerad tillhandahållare av betrodda tjänster",
+        "anchor": "6.27",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Marknadsplats_online",
+        "term": "marknadsplats online",
+        "anchor": "6.28",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sökmotor",
+        "term": "sökmotor",
+        "anchor": "6.29",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "6.3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Molntjänst",
+        "term": "molntjänst",
+        "anchor": "6.30",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Datacentraltjänst",
+        "term": "datacentraltjänst",
+        "anchor": "6.31",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverk_för_leverans_av_innehåll",
+        "term": "nätverk för leverans av innehåll",
+        "anchor": "6.32",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Plattform_för_sociala_nätverkstjänster",
+        "term": "plattform för sociala nätverkstjänster",
+        "anchor": "6.33",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "6.34",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "6.34",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Offentlig_förvaltningsentitet",
+        "term": "offentlig förvaltningsentitet",
+        "anchor": "6.35",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Allmänt_elektroniskt_kommunikationsnät",
+        "term": "allmänt elektroniskt kommunikationsnät",
+        "anchor": "6.36",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elektronisk_kommunikationstjänst",
+        "term": "elektronisk kommunikationstjänst",
+        "anchor": "6.37",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "6.38",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Driftsentreprenad",
+        "term": "driftsentreprenad",
+        "anchor": "6.39",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationell_strategi_för_cybersäkerhet",
+        "term": "nationell strategi för cybersäkerhet",
+        "anchor": "6.4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Leverantör_av_hanterade_säkerhetstjänster",
+        "term": "leverantör av hanterade säkerhetstjänster",
+        "anchor": "6.40",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Forskningsorganisation",
+        "term": "forskningsorganisation",
+        "anchor": "6.41",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillbud",
+        "term": "tillbud",
+        "anchor": "6.5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "6.6",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storskalig_cybersäkerhetsincident",
+        "term": "storskalig cybersäkerhetsincident",
+        "anchor": "6.7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidenthantering",
+        "term": "incidenthantering",
+        "anchor": "6.8",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "6.9",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medelstort_företag",
+        "term": "medelstort företag",
+        "anchor": "7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "8",
+        "role": "definierar",
+        "label": "ansvar för cybersäkerhet och för de tillsynsuppgifter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "bilaga-1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "bilaga-2",
+        "role": "definierar",
+        "label": "undantag av entiteter som tillverkar sådana medicintekniska produkter som"
+      }
+    ]
+  }
+}

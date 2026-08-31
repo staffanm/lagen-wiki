@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T13:39:34+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 7,
+      "prompt_tokens": 8026,
+      "completion_tokens": 19352,
+      "ended": "2026-08-30T13:43:26+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7530ac2ff7de27e9cd8521327a1cca78bdf3630e460b46ce389374d6b7196a26"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1970:994",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Tredimensionell_fastighet",
+        "term": "tredimensionell fastighet",
+        "anchor": "A1",
+        "role": "definierar",
+        "label": "sådant förordnande som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tredimensionellt_fastighetsutrymme",
+        "term": "tredimensionellt fastighetsutrymme",
+        "anchor": "A1",
+        "role": "definierar",
+        "label": "föreläggandet eller den byggnad där den lägenhet finns som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ägarlägenhetsfastighet",
+        "term": "ägarlägenhetsfastighet",
+        "anchor": "A1",
+        "role": "definierar",
+        "label": "betalningen av det överskjutande belopp jämte ränta som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bostadslägenhet",
+        "term": "bostadslägenhet",
+        "anchor": "K12",
+        "role": "definierar",
+        "label": "föreläggandet eller den byggnad där den lägenhet finns som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Åtgärdsföreläggande",
+        "term": "åtgärdsföreläggande",
+        "anchor": "K12P16S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Upprustningsföreläggande",
+        "term": "upprustningsföreläggande",
+        "anchor": "K12P18aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontinuerlig_uppvärmning,",
+        "term": "kontinuerlig uppvärmning,",
+        "anchor": "K12P18aS6N1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avlopp_för_spillvatten,",
+        "term": "avlopp för spillvatten,",
+        "anchor": "K12P18aS6N3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försörjning_med_elektrisk_ström_för_normal_hushållsförbrukning,",
+        "term": "försörjning med elektrisk ström för normal hushållsförbrukning,",
+        "anchor": "K12P18aS6N5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Upprustningsföreläggande",
+        "term": "upprustningsföreläggande",
+        "anchor": "K12P18c",
+        "role": "definierar",
+        "label": "föreläggandet eller den byggnad där den lägenhet finns som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Upprustningsföreläggande",
+        "term": "upprustningsföreläggande",
+        "anchor": "K12P18cS1",
+        "role": "definierar",
+        "label": "föreläggandet eller den byggnad där den lägenhet finns som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bostadslägenhet",
+        "term": "bostadslägenhet",
+        "anchor": "K12P1bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokal",
+        "term": "lokal",
+        "anchor": "K12P1bS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sambo",
+        "term": "sambo",
+        "anchor": "K12P1bS3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Blockhyra",
+        "term": "blockhyra",
+        "anchor": "K12P1eS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hyresgästen_ska_upplåta_lägenheterna_till",
+        "term": "hyresgästen ska upplåta lägenheterna till",
+        "anchor": "K12P1eS2N1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Det_inte_finns_särskilda_skäl_mot_att_ge_tillstånd.",
+        "term": "det inte finns särskilda skäl mot att ge tillstånd.",
+        "anchor": "K12P1eS2N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bristande_skötsamhet",
+        "term": "bristande skötsamhet",
+        "anchor": "K12P25S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Störningar_i_boendet",
+        "term": "störningar i boendet",
+        "anchor": "K12P25S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Särskilt_allvarlig_bristande_skötsamhet",
+        "term": "särskilt allvarlig bristande skötsamhet",
+        "anchor": "K12P25aS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Särskilt_allvarliga_störningar_i_boendet",
+        "term": "särskilt allvarliga störningar i boendet",
+        "anchor": "K12P25aS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anpassad_hyra",
+        "term": "anpassad hyra",
+        "anchor": "K12P55bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillval_eller_frånval",
+        "term": "tillval eller frånval",
+        "anchor": "K12P55dS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Marknadshyra",
+        "term": "marknadshyra",
+        "anchor": "K12P57aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Den_härskande_fastigheten",
+        "term": "den härskande fastigheten",
+        "anchor": "K14P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Den_tjänande_fastigheten",
+        "term": "den tjänande fastigheten",
+        "anchor": "K14P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Servitut",
+        "term": "servitut",
+        "anchor": "K14P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ansökningar,_anmälningar_eller_handlingar",
+        "term": "ansökningar, anmälningar eller handlingar",
+        "anchor": "K19P10",
+        "role": "definierar",
+        "label": "ett elektroniskt dokument"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ärenderegister",
+        "term": "ärenderegister",
+        "anchor": "K19P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tredimensionell_fastighet",
+        "term": "tredimensionell fastighet",
+        "anchor": "K1P1aS1N1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tredimensionellt_fastighetsutrymme",
+        "term": "tredimensionellt fastighetsutrymme",
+        "anchor": "K1P1aS1N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ägarlägenhetsfastighet",
+        "term": "ägarlägenhetsfastighet",
+        "anchor": "K1P1aS1N3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad",
+        "term": "Vad",
+        "anchor": "K1P1aS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lagfartssammanträde",
+        "term": "lagfartssammanträde",
+        "anchor": "K20P10S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lagfart",
+        "term": "lagfart",
+        "anchor": "K20P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fångeshandlingen",
+        "term": "fångeshandlingen",
+        "anchor": "K20P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Relaxation",
+        "term": "relaxation",
+        "anchor": "K22P11S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilandebevis",
+        "term": "vilandebevis",
+        "anchor": "K22P4S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utsträckning",
+        "term": "utsträckning",
+        "anchor": "K22P7S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbyte",
+        "term": "utbyte",
+        "anchor": "K22P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sammanföring",
+        "term": "sammanföring",
+        "anchor": "K22P8aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Besvärar_hela_fastigheten,",
+        "term": "besvärar hela fastigheten,",
+        "anchor": "K22P8aS2N1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Är_bestämda_i_samma_valuta,_och",
+        "term": "är bestämda i samma valuta, och",
+        "anchor": "K22P8aS2N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedsättning",
+        "term": "nedsättning",
+        "anchor": "K23P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Dödning",
+        "term": "dödning",
+        "anchor": "K23P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Reklamation",
+        "term": "reklamation",
+        "anchor": "K4P19aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Datapantbrev",
+        "term": "datapantbrev",
+        "anchor": "K6P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Inteckning",
+        "term": "inteckning",
+        "anchor": "K6P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skriftligt_pantbrev",
+        "term": "skriftligt pantbrev",
+        "anchor": "K6P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Gemensam_inteckning",
+        "term": "gemensam inteckning",
+        "anchor": "K6P1S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ägarhypotek",
+        "term": "ägarhypotek",
+        "anchor": "K6P2S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Servitut",
+        "term": "servitut",
+        "anchor": "K7",
+        "role": "definierar",
+        "label": "sådant förordnande som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Servitut",
+        "term": "servitut",
+        "anchor": "K7P29",
+        "role": "definierar",
+        "label": "sådant förordnande som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Servitut",
+        "term": "servitut",
+        "anchor": "K7P29S1",
+        "role": "definierar",
+        "label": "sådant förordnande som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Naturvårdsavtal",
+        "term": "naturvårdsavtal",
+        "anchor": "K7P3S2",
+        "role": "definierar",
+        "label": null
+      }
+    ]
+  }
+}

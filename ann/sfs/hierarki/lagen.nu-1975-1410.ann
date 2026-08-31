@@ -1,0 +1,585 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T20:59:09+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 19,
+      "prompt_tokens": 30516,
+      "completion_tokens": 46412,
+      "ended": "2026-08-30T21:08:34+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c313af718aa1773035327e7f776e3b93431b6f9a6cf2ad3f5231d244c65fb9c1"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1975:1410",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P10S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P10S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P11S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P11S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P11S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P12S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P12S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P12S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P13S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P14S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P14S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P14S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P15S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_trafikförsäkringsplikt",
+        "term": "undantag från trafikförsäkringsplikt",
+        "anchor": "P15S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P16S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P16S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P16S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P17S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P17aS1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Intyg_om_skadehistorik",
+        "term": "intyg om skadehistorik",
+        "anchor": "P17aS1N2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Intyg_om_skadehistorik",
+        "term": "intyg om skadehistorik",
+        "anchor": "P17aS1N3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P18S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P18S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P18S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P19S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P19S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafikskadeersättning",
+        "term": "trafikskadeersättning",
+        "anchor": "P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P1S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P1S3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P1aS1N1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P1aS1N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P1bS1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P20S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P20S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P22S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P22S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P23S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P24S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P24S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P27S2N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P27S2N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grönt_kort",
+        "term": "grönt kort",
+        "anchor": "P27S2N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P28S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P28S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P29S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P29S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P29aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P29aS3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P29cS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P29eS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P29eS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P2S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P2S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P2S3N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P2S3N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P2S3N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P2S4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P30S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P30S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P31S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P31aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P32S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P34S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafikförsäkringsavgift",
+        "term": "trafikförsäkringsavgift",
+        "anchor": "P34S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P34S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P35S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P36S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P37S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P38S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P38S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P3S1N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P3S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_trafikförsäkringsplikt",
+        "term": "undantag från trafikförsäkringsplikt",
+        "anchor": "P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P4S1N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P4S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "P5S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P6S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringsanstalts_verksamhet",
+        "term": "försäkringsanstalts verksamhet",
+        "anchor": "P7S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P8S1",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/rpsfs/2012:30",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Dokumentation",
+        "term": "dokumentation",
+        "anchor": "P8",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

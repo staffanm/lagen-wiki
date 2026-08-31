@@ -1,0 +1,1021 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/2018:658",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K1P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerad_handling",
+        "term": "säkerhetsskyddsklassificerad handling",
+        "anchor": "K1P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationssystem",
+        "term": "informationssystem",
+        "anchor": "K1P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K2P10S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K2P10S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K2P10S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K2P10S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K2P11S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K2P11S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K2P1S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsanalys",
+        "term": "säkerhetsskyddsanalys",
+        "anchor": "K2P1S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K2P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsanalys",
+        "term": "säkerhetsskyddsanalys",
+        "anchor": "K2P1S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K2P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsåtgärder",
+        "term": "säkerhetsskyddsåtgärder",
+        "anchor": "K2P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K2P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K2P3S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K2P3S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K2P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K2P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K2P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K2P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K2P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K2P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K2P6S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K2P6S1N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K2P6S2N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K2P6S2N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K2P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K2P8S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K2P9cS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsanalys",
+        "term": "säkerhetsskyddsanalys",
+        "anchor": "K2R1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K2R3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K2R4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K2R5",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K2R6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kraven",
+        "term": "undantag från kraven",
+        "anchor": "K3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kravet_på_anteckning_om_säkerhetsskyddsklass",
+        "term": "undantag från kravet på anteckning om säkerhetsskyddsklass",
+        "anchor": "K3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kraven",
+        "term": "undantag från kraven",
+        "anchor": "K3P10",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kraven",
+        "term": "undantag från kraven",
+        "anchor": "K3P10S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K3P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K3P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K3P1S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K3P2S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K3P2S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K3P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K3P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K3P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K3P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K3P4S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K3P4S2N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K3P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K3P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K3P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K3P5S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K3P5S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kraven",
+        "term": "undantag från kraven",
+        "anchor": "K3P6S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kraven",
+        "term": "undantag från kraven",
+        "anchor": "K3P6S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kraven",
+        "term": "undantag från kraven",
+        "anchor": "K3P7S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kravet_på_anteckning_om_säkerhetsskyddsklass",
+        "term": "undantag från kravet på anteckning om säkerhetsskyddsklass",
+        "anchor": "K3P7S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Inventering",
+        "term": "inventering",
+        "anchor": "K3P8S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Inventering",
+        "term": "inventering",
+        "anchor": "K3P8S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K3P9S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K3P9S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K3R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K3R5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K4P1S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K4P1S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K5P11S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K5P12S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P12S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P12S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P13S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K5P13S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P13S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P14S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P15S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K5P15S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P16S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K5P16S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P17S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P18S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K5P1S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K5P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P20S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P21S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P22S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K5P22S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K5P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K5P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K5P8S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K5P8S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K5R1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5R4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5R5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5R6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5R7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K5R8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K6P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K6P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K6P3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K6P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K6P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K7P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K7P11S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K7P11S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K7P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K7P1S1N3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K7P1S1N4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K7P1S1N5",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K7P1S1N6",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K7P1S1N6",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K7P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K7P1S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K7P2S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K7P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K7P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K7P3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anmälnings-_och_rapporteringsskyldighet",
+        "term": "anmälnings- och rapporteringsskyldighet",
+        "anchor": "K7P4S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förfarandet_vid_registerkontroll",
+        "term": "förfarandet vid registerkontroll",
+        "anchor": "K7P4S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsanalys",
+        "term": "säkerhetsskyddsanalys",
+        "anchor": "K7P4S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K7P4S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificering",
+        "term": "säkerhetsskyddsklassificering",
+        "anchor": "K7P4S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsåtgärder",
+        "term": "säkerhetsskyddsåtgärder",
+        "anchor": "K7P4S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anmälnings-_och_rapporteringsskyldighet",
+        "term": "anmälnings- och rapporteringsskyldighet",
+        "anchor": "K7P4S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsanalys",
+        "term": "säkerhetsskyddsanalys",
+        "anchor": "K7P4S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K7P4S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificering",
+        "term": "säkerhetsskyddsklassificering",
+        "anchor": "K7P4S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsåtgärder",
+        "term": "säkerhetsskyddsåtgärder",
+        "anchor": "K7P4S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förfarandet_vid_registerkontroll",
+        "term": "förfarandet vid registerkontroll",
+        "anchor": "K7P4S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K7P4S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kryptografiska_funktioner_som_är_avsedda_för_skydd_av_säkerhetskänslig_verksamhet",
+        "term": "kryptografiska funktioner som är avsedda för skydd av säkerhetskänslig verksamhet",
+        "anchor": "K7P5S1N1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K7P5S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anmälnings-_och_rapporteringsskyldighet",
+        "term": "anmälnings- och rapporteringsskyldighet",
+        "anchor": "K7P5S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsanalys",
+        "term": "säkerhetsskyddsanalys",
+        "anchor": "K7P5S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K7P5S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificering",
+        "term": "säkerhetsskyddsklassificering",
+        "anchor": "K7P5S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsåtgärder",
+        "term": "säkerhetsskyddsåtgärder",
+        "anchor": "K7P5S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Föreskrifter_som_kompletterar_sådana_föreskrifter",
+        "term": "föreskrifter som kompletterar sådana föreskrifter",
+        "anchor": "K7P8",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Föreskrifter_som_kompletterar_sådana_föreskrifter",
+        "term": "föreskrifter som kompletterar sådana föreskrifter",
+        "anchor": "K7P8S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K7P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K7P9S1",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

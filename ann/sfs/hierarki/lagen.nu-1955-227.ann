@@ -1,0 +1,627 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T09:30:45+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 67,
+      "prompt_tokens": 136321,
+      "completion_tokens": 175430,
+      "ended": "2026-08-30T10:06:10+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c6555b14d121b39e89cb797f76565c263c43524e35257ce26c39766e52fe925e"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1955:227",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P11S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P14S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P14S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P15S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P17S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P17S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P19aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P1S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P1S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P1S4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P1aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgifter",
+        "term": "avgifter",
+        "anchor": "P1aS3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgifter_för_registrering",
+        "term": "avgifter för registrering",
+        "anchor": "P1aS3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Expeditionsavgifter_för_bevis_om_inskrivningsåtgärd",
+        "term": "expeditionsavgifter för bevis om inskrivningsåtgärd",
+        "anchor": "P1aS3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P20S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P21S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P22S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Plats",
+        "term": "plats",
+        "anchor": "P22S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P22S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P24S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P25S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P25S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P26S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P29S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2bS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2bS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2cS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2dS1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2dS1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2eS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2eS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2fS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2fS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2gS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P2gS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P34S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P38S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P38S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P38S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P38S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P39S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P3S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P3S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P41S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P45S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P45S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P45S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P45S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P45S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P46",
+        "role": "definierar",
+        "label": "en anteckning som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P46S1",
+        "role": "definierar",
+        "label": "en anteckning som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P46S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P46S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P46S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P46S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P47S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P47S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P48S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P48aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Plats",
+        "term": "plats",
+        "anchor": "P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P4S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P50S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P51S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P54",
+        "role": "definierar",
+        "label": "målet väcka talan mot staten om sitt ersättningskrav eller skriftligen underrätta den myndighet som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P54S1",
+        "role": "definierar",
+        "label": "målet väcka talan mot staten om sitt ersättningskrav eller skriftligen underrätta den myndighet som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P56S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P56S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P57S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P58S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P58S1N11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P58S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P58S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P58S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P58S1N8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P8S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "P9S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "R16",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "R3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Luftfartyg",
+        "term": "luftfartyg",
+        "anchor": "R7",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/hslffs/2018:38",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/HSLF-FS",
+        "term": "HSLF-FS",
+        "anchor": "K6P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K6P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/HSLF-FS",
+        "term": "HSLF-FS",
+        "anchor": "K8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_det",
+        "term": "undantag från det",
+        "anchor": "K8",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_föreskriften",
+        "term": "undantag från föreskriften",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      }
+    ]
+  }
+}

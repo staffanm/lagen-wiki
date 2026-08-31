@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/tfs/2010:3",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Beväpning_av_tulltjänstemän",
+        "term": "beväpning av tulltjänstemän",
+        "anchor": "P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Beväpning_och_övrig_personlig_utrustning",
+        "term": "beväpning och övrig personlig utrustning",
+        "anchor": "P4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Beredskapsplanläggning_och_försvarsutbildning",
+        "term": "beredskapsplanläggning och försvarsutbildning",
+        "anchor": "P5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Brottet",
+        "term": "brottet",
+        "anchor": "P9",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

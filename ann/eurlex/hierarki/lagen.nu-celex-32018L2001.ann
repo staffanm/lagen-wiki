@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/celex/32018L2001",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Energi_från_förnybara_energikällor_eller_förnybar_energi",
+        "term": "energi från förnybara energikällor eller förnybar energi",
+        "anchor": "2",
+        "role": "definierar",
+        "label": "vallgrödor och täckgrödor"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Energi_från_förnybara_energikällor_eller_förnybar_energi",
+        "term": "energi från förnybara energikällor eller förnybar energi",
+        "anchor": "2.1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Uppgradering",
+        "term": "uppgradering",
+        "anchor": "2.10",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Systemansvarig_för_distributionssystemet",
+        "term": "systemansvarig för distributionssystemet",
+        "anchor": "2.11",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ursprungsgaranti",
+        "term": "ursprungsgaranti",
+        "anchor": "2.12",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kvarstående_energimix",
+        "term": "kvarstående energimix",
+        "anchor": "2.13",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Egenanvändare_av_förnybar_energi",
+        "term": "egenanvändare av förnybar energi",
+        "anchor": "2.14",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elområde",
+        "term": "elområde",
+        "anchor": "2.14a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Innovativ_teknik_för_förnybar_energi",
+        "term": "innovativ teknik för förnybar energi",
+        "anchor": "2.14b",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Smart_mätarsystem",
+        "term": "smart mätarsystem",
+        "anchor": "2.14c",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Laddningspunkt",
+        "term": "laddningspunkt",
+        "anchor": "2.14d",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Marknadsaktör",
+        "term": "marknadsaktör",
+        "anchor": "2.14e",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elmarknad",
+        "term": "elmarknad",
+        "anchor": "2.14f",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Batteri_för_hemmabruk",
+        "term": "batteri för hemmabruk",
+        "anchor": "2.14g",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elfordonsbatteri",
+        "term": "elfordonsbatteri",
+        "anchor": "2.14h",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Industribatteri",
+        "term": "industribatteri",
+        "anchor": "2.14i",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hälsotillstånd",
+        "term": "hälsotillstånd",
+        "anchor": "2.14j",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Laddningsstatus",
+        "term": "laddningsstatus",
+        "anchor": "2.14k",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Effektbörvärde",
+        "term": "effektbörvärde",
+        "anchor": "2.14l",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Smart_laddning",
+        "term": "smart laddning",
+        "anchor": "2.14m",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillsynsmyndighet",
+        "term": "tillsynsmyndighet",
+        "anchor": "2.14n",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Dubbelriktad_laddning",
+        "term": "dubbelriktad laddning",
+        "anchor": "2.14o",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Normal_laddningspunkt",
+        "term": "normal laddningspunkt",
+        "anchor": "2.14p",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avtal_om_köp_av_förnybar_energi",
+        "term": "avtal om köp av förnybar energi",
+        "anchor": "2.14q",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Egenanvändare_av_förnybar_energi_som_agerar_gemensamt",
+        "term": "egenanvändare av förnybar energi som agerar gemensamt",
+        "anchor": "2.15",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Gemenskap_för_förnybar_energi",
+        "term": "gemenskap för förnybar energi",
+        "anchor": "2.16",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avtal_om_köp_av_förnybar_el",
+        "term": "avtal om köp av förnybar el",
+        "anchor": "2.17",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Industri",
+        "term": "industri",
+        "anchor": "2.18a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Icke-energirelaterat_ändamål",
+        "term": "icke-energirelaterat ändamål",
+        "anchor": "2.18b",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrvärme_eller_fjärrkyla",
+        "term": "fjärrvärme eller fjärrkyla",
+        "anchor": "2.19",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Rundvirke_av_industrikvalitet",
+        "term": "rundvirke av industrikvalitet",
+        "anchor": "2.1a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Omgivningsenergi",
+        "term": "omgivningsenergi",
+        "anchor": "2.2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Effektivt_system_för_fjärrvärme_och_fjärrkyla",
+        "term": "effektivt system för fjärrvärme och fjärrkyla",
+        "anchor": "2.20",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Högeffektiv_kraftvärme",
+        "term": "högeffektiv kraftvärme",
+        "anchor": "2.21",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Energicertifikat",
+        "term": "energicertifikat",
+        "anchor": "2.22",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förnybara_bränslen",
+        "term": "förnybara bränslen",
+        "anchor": "2.22a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Energieffektivitet_först",
+        "term": "energieffektivitet först",
+        "anchor": "2.22b",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avfall",
+        "term": "avfall",
+        "anchor": "2.23",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biomassa",
+        "term": "biomassa",
+        "anchor": "2.24",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Agrobiomassa",
+        "term": "agrobiomassa",
+        "anchor": "2.25",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skogsbiomassa",
+        "term": "skogsbiomassa",
+        "anchor": "2.26",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biomassabränslen",
+        "term": "biomassabränslen",
+        "anchor": "2.27",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biogas",
+        "term": "biogas",
+        "anchor": "2.28",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bioavfall",
+        "term": "bioavfall",
+        "anchor": "2.29",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Geotermisk_energi",
+        "term": "geotermisk energi",
+        "anchor": "2.3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ursprungsområde",
+        "term": "ursprungsområde",
+        "anchor": "2.30",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skogsföryngring",
+        "term": "skogsföryngring",
+        "anchor": "2.31",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Flytande_biobränslen",
+        "term": "flytande biobränslen",
+        "anchor": "2.32",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodrivmedel",
+        "term": "biodrivmedel",
+        "anchor": "2.33",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avancerade_biodrivmedel",
+        "term": "avancerade biodrivmedel",
+        "anchor": "2.34",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Återvunna_kolbaserade_bränslen",
+        "term": "återvunna kolbaserade bränslen",
+        "anchor": "2.35",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förnybara_bränslen_av_icke-biologiskt_ursprung",
+        "term": "förnybara bränslen av icke-biologiskt ursprung",
+        "anchor": "2.36",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bränsleleverantör",
+        "term": "bränsleleverantör",
+        "anchor": "2.38",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stärkelserika_grödor",
+        "term": "stärkelserika grödor",
+        "anchor": "2.39",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Slutlig_energianvändning_(brutto)",
+        "term": "slutlig energianvändning (brutto)",
+        "anchor": "2.4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Livsmedels-_och_fodergrödor",
+        "term": "livsmedels- och fodergrödor",
+        "anchor": "2.40",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Material_som_innehåller_både_cellulosa_och_lignin",
+        "term": "material som innehåller både cellulosa och lignin",
+        "anchor": "2.41",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cellulosa_från_icke-livsmedel",
+        "term": "cellulosa från icke-livsmedel",
+        "anchor": "2.42",
+        "role": "definierar",
+        "label": "vallgrödor och täckgrödor"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Restprodukt",
+        "term": "restprodukt",
+        "anchor": "2.43",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Restprodukter_från_jordbruk,_vattenbruk,_fiske_och_skogsbruk",
+        "term": "restprodukter från jordbruk, vattenbruk, fiske och skogsbruk",
+        "anchor": "2.44",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skogsplantage",
+        "term": "skogsplantage",
+        "anchor": "2.44a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Osmotisk_energi",
+        "term": "osmotisk energi",
+        "anchor": "2.44b",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Systemeffektivitet",
+        "term": "systemeffektivitet",
+        "anchor": "2.44c",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samlokaliserad_energilagring",
+        "term": "samlokaliserad energilagring",
+        "anchor": "2.44d",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Solenergidrivet_elfordon",
+        "term": "solenergidrivet elfordon",
+        "anchor": "2.44e",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Faktiskt_värde",
+        "term": "faktiskt värde",
+        "anchor": "2.45",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Typiskt_värde",
+        "term": "typiskt värde",
+        "anchor": "2.46",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Normalvärde",
+        "term": "normalvärde",
+        "anchor": "2.47",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stödsystem",
+        "term": "stödsystem",
+        "anchor": "2.5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kvoter_för_energi_från_förnybara_energikällor",
+        "term": "kvoter för energi från förnybara energikällor",
+        "anchor": "2.6",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansieringsinstrument",
+        "term": "finansieringsinstrument",
+        "anchor": "2.7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Små_och_medelstora_företag",
+        "term": "små och medelstora företag",
+        "anchor": "2.8",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spillvärme_och_spillkyla",
+        "term": "spillvärme och spillkyla",
+        "anchor": "2.9",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Accelerationsområde_för_förnybar_energi",
+        "term": "accelerationsområde för förnybar energi",
+        "anchor": "2.9a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Solenergiutrustning",
+        "term": "solenergiutrustning",
+        "anchor": "2.9b",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förnybara_bränslen_av_icke-biologiskt_ursprung",
+        "term": "förnybara bränslen av icke-biologiskt ursprung",
+        "anchor": "22b",
+        "role": "definierar",
+        "label": "den formel som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spillvärme_och_spillkyla",
+        "term": "spillvärme och spillkyla",
+        "anchor": "23",
+        "role": "definierar",
+        "label": "det minimivärde i procentenheter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodrivmedel",
+        "term": "biodrivmedel",
+        "anchor": "29",
+        "role": "definierar",
+        "label": "det granskningsförfarande som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förnybara_bränslen",
+        "term": "förnybara bränslen",
+        "anchor": "30",
+        "role": "definierar",
+        "label": "det granskningsförfarande som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodrivmedel",
+        "term": "biodrivmedel",
+        "anchor": "31",
+        "role": "definierar",
+        "label": "det granskningsförfarande som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Geologisk_lagring_av_koldioxid",
+        "term": "geologisk lagring av koldioxid",
+        "anchor": "31",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Energi_från_förnybara_energikällor_eller_förnybar_energi",
+        "term": "energi från förnybara energikällor eller förnybar energi",
+        "anchor": "8",
+        "role": "definierar",
+        "label": "artikel 35 för att komplettera detta direktiv genom att inrätta utvecklingsplattformen och fastställa de villkor för fullgörande av de överföringar som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Energi_från_förnybara_energikällor_eller_förnybar_energi",
+        "term": "energi från förnybara energikällor eller förnybar energi",
+        "anchor": "9",
+        "role": "definierar",
+        "label": "de behov som identifierats i de strategiska utvecklingsplaner på hög nivå för integrerade havsbaserade nät för varje havsområde som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Geologisk_lagring_av_koldioxid",
+        "term": "geologisk lagring av koldioxid",
+        "anchor": "bilaga-11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biomassabränslen",
+        "term": "biomassabränslen",
+        "anchor": "bilaga-6",
+        "role": "definierar",
+        "label": "allvarligt skadad mark"
+      }
+    ]
+  }
+}

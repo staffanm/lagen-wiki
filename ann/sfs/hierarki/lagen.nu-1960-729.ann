@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-31T08:48:06+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 20,
+      "prompt_tokens": 51103,
+      "completion_tokens": 54940,
+      "ended": "2026-08-31T09:13:41+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7ce600872aed173ae361f070ba0a0fb3cf8abbca7cef216b46f24a3632b46574"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1960:729",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Forskningsorganisation",
+        "term": "forskningsorganisation",
+        "anchor": "K2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "K2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Text-_och_datautvinning",
+        "term": "text- och datautvinning",
+        "anchor": "K2R5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kulturarvsinstitution",
+        "term": "kulturarvsinstitution",
+        "anchor": "K2R6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Herrelösa_verk",
+        "term": "herrelösa verk",
+        "anchor": "K2R7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kulturarvsinstitution",
+        "term": "kulturarvsinstitution",
+        "anchor": "K2R8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Följerätt",
+        "term": "följerätt",
+        "anchor": "K2a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäljningen_avser_ett_alster_av_byggnadskonst,_eller",
+        "term": "försäljningen avser ett alster av byggnadskonst, eller",
+        "anchor": "K2a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationssamhällets_tjänster",
+        "term": "informationssamhällets tjänster",
+        "anchor": "K3a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "K3a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresändning",
+        "term": "vidaresändning",
+        "anchor": "K3a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kulturarvsinstitution",
+        "term": "kulturarvsinstitution",
+        "anchor": "K3aR7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationssamhällets_tjänster",
+        "term": "informationssamhällets tjänster",
+        "anchor": "K5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Redaktionellt_ansvar",
+        "term": "redaktionellt ansvar",
+        "anchor": "K5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresändning",
+        "term": "vidaresändning",
+        "anchor": "K5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresändning",
+        "term": "vidaresändning",
+        "anchor": "K6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationssamhällets_tjänster",
+        "term": "informationssamhällets tjänster",
+        "anchor": "K6b",
+        "role": "definierar",
+        "label": "en rättsinnehavare om sådan överföring till allmänheten som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Onlineleverantör_av_delningstjänster_för_innehåll",
+        "term": "onlineleverantör av delningstjänster för innehåll",
+        "anchor": "K6b",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "K8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Forskningsorganisation",
+        "term": "forskningsorganisation",
+        "anchor": "P15bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Text-_och_datautvinning",
+        "term": "text- och datautvinning",
+        "anchor": "P15bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Text-_och_datautvinning",
+        "term": "text- och datautvinning",
+        "anchor": "P15cS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Forskningsorganisation",
+        "term": "forskningsorganisation",
+        "anchor": "P15cS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kulturarvsinstitution",
+        "term": "kulturarvsinstitution",
+        "anchor": "P16a",
+        "role": "definierar",
+        "label": "rättsinnehavarens samtycke har gjorts tillgängligt för allmänheten i ett sådant land av en användare som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kulturarvsinstitution",
+        "term": "kulturarvsinstitution",
+        "anchor": "P16aS1",
+        "role": "definierar",
+        "label": "rättsinnehavarens samtycke har gjorts tillgängligt för allmänheten i ett sådant land av en användare som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Herrelösa_verk",
+        "term": "herrelösa verk",
+        "anchor": "P16aS1N3Nc",
+        "role": "definierar",
+        "label": "rättsinnehavarens samtycke har gjorts tillgängligt för allmänheten i ett sådant land av en användare som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Herrelösa_verk",
+        "term": "herrelösa verk",
+        "anchor": "P16aS1N7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Herrelösa_verk",
+        "term": "herrelösa verk",
+        "anchor": "P16bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "P26eS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "P26eS4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "P26hS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "P42eS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresändning",
+        "term": "vidaresändning",
+        "anchor": "P42eS2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresända",
+        "term": "vidaresända",
+        "anchor": "P42fS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresändning",
+        "term": "vidaresändning",
+        "anchor": "P42fS2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationssamhällets_tjänster",
+        "term": "informationssamhällets tjänster",
+        "anchor": "P42hS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tilläggsersättning",
+        "term": "tilläggsersättning",
+        "anchor": "P45aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ett_offentligt_framförande,_eller",
+        "term": "ett offentligt framförande, eller",
+        "anchor": "P47",
+        "role": "definierar",
+        "label": "de krav som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ett_offentligt_framförande,_eller",
+        "term": "ett offentligt framförande, eller",
+        "anchor": "P47S1N1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresänds",
+        "term": "vidaresänds",
+        "anchor": "P47S3",
+        "role": "definierar",
+        "label": "de krav som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresändning",
+        "term": "vidaresändning",
+        "anchor": "P48S5",
+        "role": "definierar",
+        "label": "de krav som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationssamhällets_tjänster",
+        "term": "informationssamhällets tjänster",
+        "anchor": "P48bS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Presspublikation",
+        "term": "presspublikation",
+        "anchor": "P48cS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Redaktionellt_ansvar",
+        "term": "redaktionellt ansvar",
+        "anchor": "P48cS1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationssamhällets_tjänster",
+        "term": "informationssamhällets tjänster",
+        "anchor": "P48dS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresändning",
+        "term": "vidaresändning",
+        "anchor": "P52aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresändning",
+        "term": "vidaresändning",
+        "anchor": "P52aS4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationssamhällets_tjänster",
+        "term": "informationssamhällets tjänster",
+        "anchor": "P52iS1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationssamhällets_tjänster",
+        "term": "informationssamhällets tjänster",
+        "anchor": "P52jS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Upphovsrättsbrott",
+        "term": "upphovsrättsbrott",
+        "anchor": "P53S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_upphovsrättsbrott",
+        "term": "grovt upphovsrättsbrott",
+        "anchor": "P53S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationsföreläggande",
+        "term": "informationsföreläggande",
+        "anchor": "P53cS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Namn_på_och_adress_till_avsedda_grossister_och_detaljister,_och",
+        "term": "namn på och adress till avsedda grossister och detaljister, och",
+        "anchor": "P53cS3N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Intrångsundersökning",
+        "term": "intrångsundersökning",
+        "anchor": "P56aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "P61bS1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "P61bS2",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

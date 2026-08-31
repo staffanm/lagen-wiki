@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T20:33:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 3,
+      "prompt_tokens": 5086,
+      "completion_tokens": 4221,
+      "ended": "2026-08-30T20:34:08+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f4f5784e8eaaa648bea204465d3125de33562345ef2d02a9a70f886d3aa126ef"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1973:1144",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Tillstånd",
+        "term": "tillstånd",
+        "anchor": "P19S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ledningsrätt",
+        "term": "ledningsrätt",
+        "anchor": "P1S1",
+        "role": "definierar",
+        "label": null
+      }
+    ]
+  }
+}

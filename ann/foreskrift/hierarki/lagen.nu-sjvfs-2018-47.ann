@@ -1,0 +1,916 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/sjvfs/2018:47",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Förbud_mot_eller_villkor_för_bortförande_av_levande_bin_m._m._från_ett_område_som_inte_har_förklarats_smittat_eller_misstänkt_för_smitta",
+        "term": "förbud mot eller villkor för bortförande av levande bin m. m. från ett område som inte har förklarats smittat eller misstänkt för smitta",
+        "anchor": "P10",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P10c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P10c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P10c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsredskap",
+        "term": "Biodlingsredskap",
+        "anchor": "P10c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trakékvalster",
+        "term": "trakékvalster",
+        "anchor": "P10c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P13a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P13a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P13a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsprodukter",
+        "term": "Biodlingsprodukter",
+        "anchor": "P13a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsredskap",
+        "term": "Biodlingsredskap",
+        "anchor": "P13a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P13b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P13b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P13b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsprodukter",
+        "term": "Biodlingsprodukter",
+        "anchor": "P13b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsredskap",
+        "term": "Biodlingsredskap",
+        "anchor": "P13b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P13b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsredskap",
+        "term": "Biodlingsredskap",
+        "anchor": "P16",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P16a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P16a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P17a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P17a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P17a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P17a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P1a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bekämpning_av_sjukdomen",
+        "term": "bekämpning av sjukdomen",
+        "anchor": "P1a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trakékvalster",
+        "term": "trakékvalster",
+        "anchor": "P1a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P1a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bibostad",
+        "term": "Bibostad",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlare",
+        "term": "Biodlare",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsprodukter",
+        "term": "Biodlingsprodukter",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsredskap",
+        "term": "Biodlingsredskap",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontaktbigård",
+        "term": "Kontaktbigård",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationellt_referenslaboratorium_för_bihälsa",
+        "term": "Nationellt referenslaboratorium för bihälsa",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Provtagning",
+        "term": "Provtagning",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samlingsprov",
+        "term": "Samlingsprov",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skattlåda",
+        "term": "Skattlåda",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trakékvalster",
+        "term": "trakékvalster",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P1b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P23",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P23",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P24",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P24",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P24",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P24",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P26",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P26",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P26",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P28",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P28",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P28",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P31",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P31",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P31",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P31",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P36a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P36a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trakékvalster",
+        "term": "trakékvalster",
+        "anchor": "P36a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P36b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P36b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsprodukter",
+        "term": "Biodlingsprodukter",
+        "anchor": "P36b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsredskap",
+        "term": "Biodlingsredskap",
+        "anchor": "P36b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trakékvalster",
+        "term": "trakékvalster",
+        "anchor": "P36b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P36c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trakékvalster",
+        "term": "trakékvalster",
+        "anchor": "P36c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P37a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P37a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlare",
+        "term": "Biodlare",
+        "anchor": "P37a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P37b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P37b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samlingsprov",
+        "term": "Samlingsprov",
+        "anchor": "P37b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Provtagning",
+        "term": "Provtagning",
+        "anchor": "P38",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P38a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P38b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P38b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P39",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samlingsprov",
+        "term": "Samlingsprov",
+        "anchor": "P39",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P39a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P39a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P39a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nedfallsprov",
+        "term": "Nedfallsprov",
+        "anchor": "P39b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P39b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P39c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontaktbigård",
+        "term": "Kontaktbigård",
+        "anchor": "P39c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P39c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P39d",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Provtagning",
+        "term": "Provtagning",
+        "anchor": "P39d",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trakékvalster",
+        "term": "trakékvalster",
+        "anchor": "P39d",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P39e",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontaktbigård",
+        "term": "Kontaktbigård",
+        "anchor": "P39e",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trakékvalster",
+        "term": "trakékvalster",
+        "anchor": "P39e",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P40",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bibostad",
+        "term": "Bibostad",
+        "anchor": "P40",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P41",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P41",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P42",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlare",
+        "term": "Biodlare",
+        "anchor": "P42",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P42",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bibostad",
+        "term": "Bibostad",
+        "anchor": "P42a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trakékvalster",
+        "term": "trakékvalster",
+        "anchor": "P42a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P43",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trakékvalster",
+        "term": "trakékvalster",
+        "anchor": "P43",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varroakvalster",
+        "term": "varroakvalster",
+        "anchor": "P43",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P46",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P50",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlare",
+        "term": "Biodlare",
+        "anchor": "P50",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Amerikansk_yngelröta",
+        "term": "amerikansk yngelröta",
+        "anchor": "P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bigård",
+        "term": "Bigård",
+        "anchor": "P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlare",
+        "term": "Biodlare",
+        "anchor": "P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsredskap",
+        "term": "Biodlingsredskap",
+        "anchor": "P7",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

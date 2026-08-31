@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/2007:721",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringstekniska_grunder_för_beräkning_av_kapitalvärde",
+        "term": "försäkringstekniska grunder för beräkning av kapitalvärde",
+        "anchor": "P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Beräkning_av_kapitalvärde",
+        "term": "beräkning av kapitalvärde",
+        "anchor": "P1S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringstekniska_grunder",
+        "term": "försäkringstekniska grunder",
+        "anchor": "P1S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringstekniska_grunder_för_beräkning_av_kapitalvärde",
+        "term": "försäkringstekniska grunder för beräkning av kapitalvärde",
+        "anchor": "P1S1",
+        "role": "delegerar",
+        "label": null
+      }
+    ]
+  }
+}

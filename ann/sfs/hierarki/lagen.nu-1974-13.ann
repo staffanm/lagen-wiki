@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T20:42:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 3,
+      "prompt_tokens": 2062,
+      "completion_tokens": 3839,
+      "ended": "2026-08-30T20:42:59+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ce1dd39057c9f71a31bd619ea02d7433afec6272053edc071312fa5dffecf56c"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1974:13",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "P25",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "P25S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varsel_om_driftsinskränkning",
+        "term": "varsel om driftsinskränkning",
+        "anchor": "P3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Varsel_om_driftsinskränkning",
+        "term": "varsel om driftsinskränkning",
+        "anchor": "R1",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

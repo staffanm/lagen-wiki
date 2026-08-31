@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/hslffs/2017:21",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Befattningshavare",
+        "term": "befattningshavare",
+        "anchor": "K1P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetschef",
+        "term": "verksamhetschef",
+        "anchor": "K1P2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K1P2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/HSLF-FS",
+        "term": "HSLF-FS",
+        "anchor": "K1P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sterilisering",
+        "term": "sterilisering",
+        "anchor": "K1P6",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

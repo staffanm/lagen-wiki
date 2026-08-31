@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/hslffs/2017:5",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Tillvaratagande",
+        "term": "tillvaratagande",
+        "anchor": "P19",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/HSLF-FS",
+        "term": "HSLF-FS",
+        "anchor": "P22",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Journalhandlingars_innehåll,_utformning,_hantering_och_förvaring",
+        "term": "journalhandlingars innehåll, utformning, hantering och förvaring",
+        "anchor": "P22",
+        "role": "detaljerar",
+        "label": null
+      }
+    ]
+  }
+}

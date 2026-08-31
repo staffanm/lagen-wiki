@@ -1,0 +1,384 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/2003:364",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Ombordanställd",
+        "term": "ombordanställd",
+        "anchor": "K1P2S1N1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fartygsarbete",
+        "term": "fartygsarbete",
+        "anchor": "K1P2S1N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsbesättning",
+        "term": "säkerhetsbesättning",
+        "anchor": "K1P2S1N3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Minderårig",
+        "term": "minderårig",
+        "anchor": "K1P2S1N4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K1P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerarfartyg",
+        "term": "passagerarfartyg",
+        "anchor": "K1P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K1P3S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Befälhavaren,",
+        "term": "befälhavaren,",
+        "anchor": "K1P3S2N1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Övriga_ombordanställda,",
+        "term": "övriga ombordanställda,",
+        "anchor": "K1P3S2N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Personer_som_förs_in_till_hamn_efter_att_ha_räddats_ur_sjönöd,_och",
+        "term": "personer som förs in till hamn efter att ha räddats ur sjönöd, och",
+        "anchor": "K1P3S2N5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fartcertifikat",
+        "term": "fartcertifikat",
+        "anchor": "K1P4S1N1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K1P4S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerarfartygscertifikat",
+        "term": "passagerarfartygscertifikat",
+        "anchor": "K1P4S1N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fribordscertifikat",
+        "term": "fribordscertifikat",
+        "anchor": "K1P4S1N3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Certifikat_om_godkänd_säkerhetsorganisation",
+        "term": "certifikat om godkänd säkerhetsorganisation",
+        "anchor": "K1P4S1N4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Dokument_om_godkänd_säkerhetsorganisation",
+        "term": "dokument om godkänd säkerhetsorganisation",
+        "anchor": "K1P4S1N5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sjöarbetscertifikat",
+        "term": "sjöarbetscertifikat",
+        "anchor": "K1P4S1N6",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkran_om_överensstämmelse_med_sjöarbetskonventionen",
+        "term": "försäkran om överensstämmelse med sjöarbetskonventionen",
+        "anchor": "K1P4S1N7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Certifikat_om_utbildning_av_sjöpersonal",
+        "term": "certifikat om utbildning av sjöpersonal",
+        "anchor": "K1P4S1N8",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sjöarbetscertifikat_för_fiskefartyg",
+        "term": "sjöarbetscertifikat för fiskefartyg",
+        "anchor": "K1P4S1N9",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Erkänd_organisation",
+        "term": "erkänd organisation",
+        "anchor": "K1P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Erkänt_klassificeringssällskap",
+        "term": "erkänt klassificeringssällskap",
+        "anchor": "K1P5S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fartområde",
+        "term": "fartområde",
+        "anchor": "K1P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fartområde",
+        "term": "fartområde",
+        "anchor": "K1R8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_ett_fartyg_skall_vara_konstruerat,_byggt,_utrustat_och_hållet_i_stånd",
+        "term": "hur ett fartyg skall vara konstruerat, byggt, utrustat och hållet i stånd",
+        "anchor": "K2",
+        "role": "definierar",
+        "label": "hänsyn till sitt ändamål och den fart som det används i eller"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_ett_fartyg_skall_vara_konstruerat,_byggt,_utrustat_och_hållet_i_stånd",
+        "term": "hur ett fartyg skall vara konstruerat, byggt, utrustat och hållet i stånd",
+        "anchor": "K2P1",
+        "role": "definierar",
+        "label": "hänsyn till sitt ändamål och den fart som det används i eller"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_ett_fartyg_skall_vara_konstruerat,_byggt,_utrustat_och_hållet_i_stånd",
+        "term": "hur ett fartyg skall vara konstruerat, byggt, utrustat och hållet i stånd",
+        "anchor": "K2P1S1",
+        "role": "definierar",
+        "label": "hänsyn till sitt ändamål och den fart som det används i eller"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K3P10S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bemanningsföreskrifter",
+        "term": "bemanningsföreskrifter",
+        "anchor": "K3P17S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bemanningsföreskrifter",
+        "term": "bemanningsföreskrifter",
+        "anchor": "K3P18S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K3P2S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K3P2S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K3P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K3P4S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Traditionsfartyg",
+        "term": "traditionsfartyg",
+        "anchor": "K3P9aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Traditionsfartyg",
+        "term": "traditionsfartyg",
+        "anchor": "K3P9bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bemanningsföreskrifter",
+        "term": "bemanningsföreskrifter",
+        "anchor": "K3R9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Prov",
+        "term": "prov",
+        "anchor": "K5P17S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Prov",
+        "term": "prov",
+        "anchor": "K5P22S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Prov",
+        "term": "prov",
+        "anchor": "K5P22S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K5P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K6P1S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K6P2S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Passagerare",
+        "term": "passagerare",
+        "anchor": "K6P3S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fartområde",
+        "term": "fartområde",
+        "anchor": "K7P1S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bemanningsföreskrifter",
+        "term": "bemanningsföreskrifter",
+        "anchor": "K7P4S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bemanningsföreskrifter",
+        "term": "bemanningsföreskrifter",
+        "anchor": "K7P4S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fartområde",
+        "term": "fartområde",
+        "anchor": "K7R1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bemanningsföreskrifter",
+        "term": "bemanningsföreskrifter",
+        "anchor": "K8P2S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bemanningsföreskrifter",
+        "term": "bemanningsföreskrifter",
+        "anchor": "K8P2S1N7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bemanningsföreskrifter",
+        "term": "bemanningsföreskrifter",
+        "anchor": "K8P3S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bemanningsföreskrifter",
+        "term": "bemanningsföreskrifter",
+        "anchor": "K8P3S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bemanningsföreskrifter",
+        "term": "bemanningsföreskrifter",
+        "anchor": "K8P3S1N7",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

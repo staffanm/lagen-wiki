@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/bfs/2009:2",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Solvärme",
+        "term": "solvärme",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kvalitetskrav_som_solvärmeanordningen_ska_uppfylla",
+        "term": "kvalitetskrav som solvärmeanordningen ska uppfylla",
+        "anchor": "P2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Solfångarens_årliga_värmeutbyte",
+        "term": "solfångarens årliga värmeutbyte",
+        "anchor": "P5",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ansökan_om_stöd",
+        "term": "ansökan om stöd",
+        "anchor": "P7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Begäran_om_utbetalning",
+        "term": "begäran om utbetalning",
+        "anchor": "P7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ansökan_om_stöd",
+        "term": "ansökan om stöd",
+        "anchor": "P8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Småhus",
+        "term": "småhus",
+        "anchor": "P8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Solvärme",
+        "term": "solvärme",
+        "anchor": "P8",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

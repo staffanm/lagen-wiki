@@ -1,0 +1,923 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/2025:1506",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Incidentrapportering",
+        "term": "incidentrapportering",
+        "anchor": "K1P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_skyldigheterna",
+        "term": "undantag från skyldigheterna",
+        "anchor": "K1P15S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_som_utgör_huvudsakligt_etableringsställe",
+        "term": "vad som utgör huvudsakligt etableringsställe",
+        "anchor": "K1P15S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/För_när_sådana_verksamhetsutövare_ska_räknas_som_väsentliga",
+        "term": "för när sådana verksamhetsutövare ska räknas som väsentliga",
+        "anchor": "K1P15S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kriterier_för_när_verksamhetsutövare_ska_omfattas",
+        "term": "kriterier för när verksamhetsutövare ska omfattas",
+        "anchor": "K1P15S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_skyldigheterna",
+        "term": "undantag från skyldigheterna",
+        "anchor": "K1P16S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Allmänt_elektroniskt_kommunikationsnät",
+        "term": "allmänt elektroniskt kommunikationsnät",
+        "anchor": "K1P2S1N1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K1P2S1N10",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kvalificerad_tillhandahållare_av_betrodda_tjänster",
+        "term": "kvalificerad tillhandahållare av betrodda tjänster",
+        "anchor": "K1P2S1N11",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillhandahållare_av_betrodda_tjänster",
+        "term": "tillhandahållare av betrodda tjänster",
+        "anchor": "K1P2S1N11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Marknadsplats_online",
+        "term": "marknadsplats online",
+        "anchor": "K1P2S1N12",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medelstort_företag",
+        "term": "medelstort företag",
+        "anchor": "K1P2S1N13",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Digital_tjänst",
+        "term": "digital tjänst",
+        "anchor": "K1P2S1N14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Molntjänst",
+        "term": "molntjänst",
+        "anchor": "K1P2S1N14",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Digital_tjänst",
+        "term": "digital tjänst",
+        "anchor": "K1P2S1N15",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverk_för_leverans_av_innehåll",
+        "term": "nätverk för leverans av innehåll",
+        "anchor": "K1P2S1N15",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "K1P2S1N16",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Offentlig_verksamhetsutövare",
+        "term": "offentlig verksamhetsutövare",
+        "anchor": "K1P2S1N17",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Partnerföretag",
+        "term": "partnerföretag",
+        "anchor": "K1P2S1N18",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Plattform_för_sociala_nätverkstjänster",
+        "term": "plattform för sociala nätverkstjänster",
+        "anchor": "K1P2S1N19",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anknutet_företag",
+        "term": "anknutet företag",
+        "anchor": "K1P2S1N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "K1P2S1N20",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sökmotor",
+        "term": "sökmotor",
+        "anchor": "K1P2S1N21",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utlokaliserad_driftstjänst",
+        "term": "utlokaliserad driftstjänst",
+        "anchor": "K1P2S1N22",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utlokaliserad_säkerhetstjänst",
+        "term": "utlokaliserad säkerhetstjänst",
+        "anchor": "K1P2S1N23",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betrodd_tjänst",
+        "term": "betrodd tjänst",
+        "anchor": "K1P2S1N3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "K1P2S1N4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/System",
+        "term": "system",
+        "anchor": "K1P2S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K1P2S1N5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/System",
+        "term": "system",
+        "anchor": "K1P2S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Datacentraltjänst",
+        "term": "datacentraltjänst",
+        "anchor": "K1P2S1N6",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Domännamnssystemtjänst_(DNS-tjänst)",
+        "term": "domännamnssystemtjänst (DNS-tjänst)",
+        "anchor": "K1P2S1N7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elektronisk_kommunikationstjänst",
+        "term": "elektronisk kommunikationstjänst",
+        "anchor": "K1P2S1N8",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Enskild_verksamhetsutövare",
+        "term": "enskild verksamhetsutövare",
+        "anchor": "K1P2S1N9",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "K1P3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "K1P7S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillhandahållare_av_betrodda_tjänster",
+        "term": "tillhandahållare av betrodda tjänster",
+        "anchor": "K1P9S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_cyberhot",
+        "term": "betydande cyberhot",
+        "anchor": "K2P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Register",
+        "term": "register",
+        "anchor": "K2P11S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgift",
+        "term": "avgift",
+        "anchor": "K2P12S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Register",
+        "term": "register",
+        "anchor": "K2P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Register",
+        "term": "register",
+        "anchor": "K2P13S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K2P14S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_som_utgör_en_betydande_incident",
+        "term": "vad som utgör en betydande incident",
+        "anchor": "K2P14S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidentrapportering",
+        "term": "incidentrapportering",
+        "anchor": "K2P14S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationsskyldighet",
+        "term": "informationsskyldighet",
+        "anchor": "K2P14S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Register",
+        "term": "register",
+        "anchor": "K2P14S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P14S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "K2P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/System",
+        "term": "system",
+        "anchor": "K2P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K2P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K2P3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhet_i_nätverks-_och_informationssystem",
+        "term": "säkerhet i nätverks- och informationssystem",
+        "anchor": "K2P3S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidenthantering",
+        "term": "incidenthantering",
+        "anchor": "K2P3S2N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidenthantering,",
+        "term": "incidenthantering,",
+        "anchor": "K2P3S2N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontinuitetshantering_och_krishantering,",
+        "term": "kontinuitetshantering och krishantering,",
+        "anchor": "K2P3S2N3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhet_i_leveranskedjan,",
+        "term": "säkerhet i leveranskedjan,",
+        "anchor": "K2P3S2N4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P3S2N7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K2P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K2P6S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K2P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K2P8S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K2P9S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "K2R1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anmälningsskyldigheten",
+        "term": "anmälningsskyldigheten",
+        "anchor": "K2R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2R4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidentrapportering",
+        "term": "incidentrapportering",
+        "anchor": "K2R5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationsskyldighet",
+        "term": "informationsskyldighet",
+        "anchor": "K2R5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K2R6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_cyberhot",
+        "term": "betydande cyberhot",
+        "anchor": "K2R7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K2R7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Register",
+        "term": "register",
+        "anchor": "K2R8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsrevisioner_och_säkerhetsskanningar",
+        "term": "säkerhetsrevisioner och säkerhetsskanningar",
+        "anchor": "K3P10S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgift",
+        "term": "avgift",
+        "anchor": "K3P11S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgift",
+        "term": "avgift",
+        "anchor": "K3P11S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgift",
+        "term": "avgift",
+        "anchor": "K3R4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgift",
+        "term": "avgift",
+        "anchor": "K4P12S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgift",
+        "term": "avgift",
+        "anchor": "K4P13S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgift",
+        "term": "avgift",
+        "anchor": "K4P13S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgift",
+        "term": "avgift",
+        "anchor": "K4P14S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K4P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K4P3S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidentrapportering",
+        "term": "incidentrapportering",
+        "anchor": "K4P3S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationsskyldighet",
+        "term": "informationsskyldighet",
+        "anchor": "K4P3S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Allmänt_elektroniskt_kommunikationsnät",
+        "term": "allmänt elektroniskt kommunikationsnät",
+        "anchor": "K1P2S1N1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K1P2S1N10",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kvalificerad_tillhandahållare_av_betrodda_tjänster",
+        "term": "kvalificerad tillhandahållare av betrodda tjänster",
+        "anchor": "K1P2S1N11",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillhandahållare_av_betrodda_tjänster",
+        "term": "tillhandahållare av betrodda tjänster",
+        "anchor": "K1P2S1N11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Marknadsplats_online",
+        "term": "marknadsplats online",
+        "anchor": "K1P2S1N12",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medelstort_företag",
+        "term": "medelstort företag",
+        "anchor": "K1P2S1N13",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Digital_tjänst",
+        "term": "digital tjänst",
+        "anchor": "K1P2S1N14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Molntjänst",
+        "term": "molntjänst",
+        "anchor": "K1P2S1N14",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Digital_tjänst",
+        "term": "digital tjänst",
+        "anchor": "K1P2S1N15",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverk_för_leverans_av_innehåll",
+        "term": "nätverk för leverans av innehåll",
+        "anchor": "K1P2S1N15",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "K1P2S1N16",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Offentlig_verksamhetsutövare",
+        "term": "offentlig verksamhetsutövare",
+        "anchor": "K1P2S1N17",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Partnerföretag",
+        "term": "partnerföretag",
+        "anchor": "K1P2S1N18",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Plattform_för_sociala_nätverkstjänster",
+        "term": "plattform för sociala nätverkstjänster",
+        "anchor": "K1P2S1N19",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anknutet_företag",
+        "term": "anknutet företag",
+        "anchor": "K1P2S1N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registreringsenhet_för_toppdomäner",
+        "term": "registreringsenhet för toppdomäner",
+        "anchor": "K1P2S1N20",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sökmotor",
+        "term": "sökmotor",
+        "anchor": "K1P2S1N21",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utlokaliserad_driftstjänst",
+        "term": "utlokaliserad driftstjänst",
+        "anchor": "K1P2S1N22",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utlokaliserad_säkerhetstjänst",
+        "term": "utlokaliserad säkerhetstjänst",
+        "anchor": "K1P2S1N23",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betrodd_tjänst",
+        "term": "betrodd tjänst",
+        "anchor": "K1P2S1N3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "K1P2S1N4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K1P2S1N5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Datacentraltjänst",
+        "term": "datacentraltjänst",
+        "anchor": "K1P2S1N6",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Domännamnssystemtjänst_(DNS-tjänst)",
+        "term": "domännamnssystemtjänst (DNS-tjänst)",
+        "anchor": "K1P2S1N7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elektronisk_kommunikationstjänst",
+        "term": "elektronisk kommunikationstjänst",
+        "anchor": "K1P2S1N8",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Enskild_verksamhetsutövare",
+        "term": "enskild verksamhetsutövare",
+        "anchor": "K1P2S1N9",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "K1P3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "K1P7S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillhandahållare_av_betrodda_tjänster",
+        "term": "tillhandahållare av betrodda tjänster",
+        "anchor": "K1P9S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_cyberhot",
+        "term": "betydande cyberhot",
+        "anchor": "K2P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P14S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "K2P1S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K2P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K2P3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhet_i_nätverks-_och_informationssystem",
+        "term": "säkerhet i nätverks- och informationssystem",
+        "anchor": "K2P3S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidenthantering",
+        "term": "incidenthantering",
+        "anchor": "K2P3S2N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidenthantering,",
+        "term": "incidenthantering,",
+        "anchor": "K2P3S2N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontinuitetshantering_och_krishantering,",
+        "term": "kontinuitetshantering och krishantering,",
+        "anchor": "K2P3S2N3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhet_i_leveranskedjan,",
+        "term": "säkerhet i leveranskedjan,",
+        "anchor": "K2P3S2N4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P3S2N7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "K2R1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2R4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_cyberhot",
+        "term": "betydande cyberhot",
+        "anchor": "K2R7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K4P2S1",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,2547 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/celex/32013L0036",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "10",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "100",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "100",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "100",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "101",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "101",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "102",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "103",
+        "role": "definierar",
+        "label": "de kriterier som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "103",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "104",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "104a",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "104a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "104b",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalbas",
+        "term": "kapitalbas",
+        "anchor": "104b",
+        "role": "definierar",
+        "label": "artiklarna 97 och 101 och inbegripet resultaten av de stresstester som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "104b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "104c",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "105",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "105",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "106",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "107",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "108",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "109",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "110",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "111",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "112",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samordnande_tillsynsmyndighet",
+        "term": "samordnande tillsynsmyndighet",
+        "anchor": "112",
+        "role": "definierar",
+        "label": "den samordnande tillsynsmyndigheten i den omfattning som krävs för de uppgifter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "113",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Relevanta_behöriga_myndigheter",
+        "term": "relevanta behöriga myndigheter",
+        "anchor": "113",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "113",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "114",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "115",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "116",
+        "role": "definierar",
+        "label": "beaktande av de krav på konfidentialitet som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "116",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "116a",
+        "role": "definierar",
+        "label": "den 10 januari 2030 ska medlemsstaterna säkerställa att den information som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "116a",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "117",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "118",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "119",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "12",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "120",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiell_sektor",
+        "term": "finansiell sektor",
+        "anchor": "120",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "120",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "122",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "123",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Holdingföretag_med_blandad_verksamhet",
+        "term": "holdingföretag med blandad verksamhet",
+        "anchor": "123",
+        "role": "definierar",
+        "label": "dessa enheter utom den transaktion som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "124",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Holdingföretag_med_blandad_verksamhet",
+        "term": "holdingföretag med blandad verksamhet",
+        "anchor": "124",
+        "role": "definierar",
+        "label": "blandad verksamhet och deras dotterföretag samt dotterföretag som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "125",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "127",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalkonserveringsbuffert",
+        "term": "kapitalkonserveringsbuffert",
+        "anchor": "128.1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institutspecifik_kontracyklisk_kapitalbuffert",
+        "term": "institutspecifik kontracyklisk kapitalbuffert",
+        "anchor": "128.2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Buffert_för_globala_systemviktiga_institut",
+        "term": "buffert för globala systemviktiga institut",
+        "anchor": "128.3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Buffert_för_andra_systemviktiga_institut",
+        "term": "buffert för andra systemviktiga institut",
+        "anchor": "128.4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Systemriskbuffert",
+        "term": "systemriskbuffert",
+        "anchor": "128.5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kombinerat_buffertkrav",
+        "term": "kombinerat buffertkrav",
+        "anchor": "128.6",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontracykliskt_buffertvärde",
+        "term": "kontracykliskt buffertvärde",
+        "anchor": "128.7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationellt_auktoriserat_institut",
+        "term": "nationellt auktoriserat institut",
+        "anchor": "128.8",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Buffertriktvärde",
+        "term": "buffertriktvärde",
+        "anchor": "128.9",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "128.9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "13",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "131",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Globalt_systemviktigt_institut",
+        "term": "globalt systemviktigt institut",
+        "anchor": "131",
+        "role": "definierar",
+        "label": "undantag för gruppens verksamheter i deltagande medlemsstater enligt vad som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Gränsöverskridande_verksamhet",
+        "term": "gränsöverskridande verksamhet",
+        "anchor": "131",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "131",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "131",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "133",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiell_sektor",
+        "term": "finansiell sektor",
+        "anchor": "133",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "133",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Systemriskbuffert",
+        "term": "systemriskbuffert",
+        "anchor": "133",
+        "role": "definierar",
+        "label": "punkt 9 en månad innan det beslut som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "134",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Systemriskbuffert",
+        "term": "systemriskbuffert",
+        "anchor": "134",
+        "role": "definierar",
+        "label": "artikel 133 i detta direktiv får uppmana esrb att utfärda en rekommendation som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "135",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "136",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "138",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "139",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "14",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "140",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "140",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kombinerat_buffertkrav",
+        "term": "kombinerat buffertkrav",
+        "anchor": "141",
+        "role": "definierar",
+        "label": "anknytning till kapitalinstrument som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "141a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "141b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bruttosoliditet",
+        "term": "bruttosoliditet",
+        "anchor": "141b",
+        "role": "definierar",
+        "label": "avseende på bruttosoliditetsgraden ska minskas med det belopp som är resultatet av någon av de åtgärder som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsförmåner",
+        "term": "pensionsförmåner",
+        "anchor": "141b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "141b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "141c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "142",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "143",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "143",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "144",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "145",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "149",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "151",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "152",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "153",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "154",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "155",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "156",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "157",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "158",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "159a",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "16",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Relevanta_behöriga_myndigheter",
+        "term": "relevanta behöriga myndigheter",
+        "anchor": "16",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "161",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/EES",
+        "term": "EES",
+        "anchor": "161",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiell_sektor",
+        "term": "finansiell sektor",
+        "anchor": "161",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "18",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "19",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "20",
+        "role": "definierar",
+        "label": "all information rörande den grupp kreditinstitut som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "20",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "21a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "21a",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiell_sektor",
+        "term": "finansiell sektor",
+        "anchor": "21a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_konglomerat",
+        "term": "finansiellt konglomerat",
+        "anchor": "21a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Intermediär",
+        "term": "intermediär",
+        "anchor": "21a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "21b",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Intermediär",
+        "term": "intermediär",
+        "anchor": "21b",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "21b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "22",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Relevanta_behöriga_myndigheter",
+        "term": "relevanta behöriga myndigheter",
+        "anchor": "22",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "22",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "23",
+        "role": "definierar",
+        "label": "de uppgifter som krävs för att göra bedömningen och som måste lämnas till de behöriga myndigheterna vid den tidpunkt för anmälan som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "23",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "23",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "24",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "25",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "26",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "26",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "27a",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "27b",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "27b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "27b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "27c",
+        "role": "definierar",
+        "label": "de relevanta myndigheter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiell_sektor",
+        "term": "finansiell sektor",
+        "anchor": "27c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Relevanta_behöriga_myndigheter",
+        "term": "relevanta behöriga myndigheter",
+        "anchor": "27c",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "27c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "27d",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "27e",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "27f",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "27g",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "27h.1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fusion",
+        "term": "fusion",
+        "anchor": "27h.1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "27h.2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Delning",
+        "term": "delning",
+        "anchor": "27h.2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "27i",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "27j",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "27j",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "27k",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiell_sektor",
+        "term": "finansiell sektor",
+        "anchor": "27k",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Relevanta_behöriga_myndigheter",
+        "term": "relevanta behöriga myndigheter",
+        "anchor": "27k",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "27k",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "27l",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "29",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ledningsorgan",
+        "term": "ledningsorgan",
+        "anchor": "3",
+        "role": "definierar",
+        "label": "en intern modell som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kreditinstitut",
+        "term": "kreditinstitut",
+        "anchor": "3.1.1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "3.1.10",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Systemrisk",
+        "term": "systemrisk",
+        "anchor": "3.1.10",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Modellrisk",
+        "term": "modellrisk",
+        "anchor": "3.1.11",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Originator",
+        "term": "originator",
+        "anchor": "3.1.12",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medverkande_institut_(sponsor)",
+        "term": "medverkande institut (sponsor)",
+        "anchor": "3.1.13",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Moderföretag",
+        "term": "moderföretag",
+        "anchor": "3.1.14",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Dotterföretag",
+        "term": "dotterföretag",
+        "anchor": "3.1.15",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Filial",
+        "term": "filial",
+        "anchor": "3.1.16",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anknutet_företag",
+        "term": "anknutet företag",
+        "anchor": "3.1.17",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltare",
+        "term": "kapitalförvaltare",
+        "anchor": "3.1.18",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltningsbolag",
+        "term": "kapitalförvaltningsbolag",
+        "anchor": "3.1.18",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "3.1.19",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Värdepappersföretag",
+        "term": "värdepappersföretag",
+        "anchor": "3.1.2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Blandat_finansiellt_holdingföretag",
+        "term": "blandat finansiellt holdingföretag",
+        "anchor": "3.1.20",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Holdingföretag_med_blandad_verksamhet",
+        "term": "holdingföretag med blandad verksamhet",
+        "anchor": "3.1.21",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_institut",
+        "term": "finansiellt institut",
+        "anchor": "3.1.22",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Enhet_i_den_finansiella_sektorn",
+        "term": "enhet i den finansiella sektorn",
+        "anchor": "3.1.23",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiell_sektor",
+        "term": "finansiell sektor",
+        "anchor": "3.1.23",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Moderinstitut_i_en_medlemsstat",
+        "term": "moderinstitut i en medlemsstat",
+        "anchor": "3.1.24",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Moderinstitut_inom_EU",
+        "term": "moderinstitut inom EU",
+        "anchor": "3.1.25",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_moderholdingföretag_i_en_medlemsstat",
+        "term": "finansiellt moderholdingföretag i en medlemsstat",
+        "anchor": "3.1.26",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_moderholdingföretag_inom_EU",
+        "term": "finansiellt moderholdingföretag inom EU",
+        "anchor": "3.1.27",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Blandat_finansiellt_moderholdingföretag_i_en_medlemsstat",
+        "term": "blandat finansiellt moderholdingföretag i en medlemsstat",
+        "anchor": "3.1.28",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Blandat_finansiellt_moderholdingföretag_inom_EU",
+        "term": "blandat finansiellt moderholdingföretag inom EU",
+        "anchor": "3.1.29",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fristående_institut_i_unionen",
+        "term": "fristående institut i unionen",
+        "anchor": "3.1.29a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "3.1.3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Systemviktigt_institut",
+        "term": "systemviktigt institut",
+        "anchor": "3.1.30",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Central_motpart",
+        "term": "central motpart",
+        "anchor": "3.1.31",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ägarintresse",
+        "term": "ägarintresse",
+        "anchor": "3.1.32",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kvalificerat_innehav",
+        "term": "kvalificerat innehav",
+        "anchor": "3.1.33",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontroll",
+        "term": "kontroll",
+        "anchor": "3.1.34",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nära_förbindelser",
+        "term": "nära förbindelser",
+        "anchor": "3.1.35",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "3.1.36",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samordnande_tillsynsmyndighet",
+        "term": "samordnande tillsynsmyndighet",
+        "anchor": "3.1.37",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "3.1.38",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hemmedlemsstat",
+        "term": "hemmedlemsstat",
+        "anchor": "3.1.39",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokalt_företag",
+        "term": "lokalt företag",
+        "anchor": "3.1.4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Värdmedlemsstat",
+        "term": "värdmedlemsstat",
+        "anchor": "3.1.40",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/ECBS-centralbanker",
+        "term": "ECBS-centralbanker",
+        "anchor": "3.1.41",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Centralbanker",
+        "term": "centralbanker",
+        "anchor": "3.1.42",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Konsoliderad_situation",
+        "term": "konsoliderad situation",
+        "anchor": "3.1.43",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/På_gruppnivå",
+        "term": "på gruppnivå",
+        "anchor": "3.1.44",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/På_undergruppsnivå",
+        "term": "på undergruppsnivå",
+        "anchor": "3.1.45",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiella_instrument",
+        "term": "finansiella instrument",
+        "anchor": "3.1.46",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalbas",
+        "term": "kapitalbas",
+        "anchor": "3.1.47",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Godtagbart_kapital",
+        "term": "godtagbart kapital",
+        "anchor": "3.1.47a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Operativ_risk",
+        "term": "operativ risk",
+        "anchor": "3.1.48",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "3.1.48",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kreditriskreducering",
+        "term": "kreditriskreducering",
+        "anchor": "3.1.49",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringsföretag",
+        "term": "försäkringsföretag",
+        "anchor": "3.1.5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Värdepapperisering",
+        "term": "värdepapperisering",
+        "anchor": "3.1.50",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Position_i_värdepapperisering",
+        "term": "position i värdepapperisering",
+        "anchor": "3.1.51",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Specialföretag_för_värdepapperisering",
+        "term": "specialföretag för värdepapperisering",
+        "anchor": "3.1.52",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Diskretionära_pensionsförmåner",
+        "term": "diskretionära pensionsförmåner",
+        "anchor": "3.1.53",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsförmåner",
+        "term": "pensionsförmåner",
+        "anchor": "3.1.53",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Handelslager",
+        "term": "handelslager",
+        "anchor": "3.1.54",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Reglerad_marknad",
+        "term": "reglerad marknad",
+        "anchor": "3.1.55",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bruttosoliditet",
+        "term": "bruttosoliditet",
+        "anchor": "3.1.56",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "3.1.57",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk_för_alltför_låg_bruttokonsoliditet",
+        "term": "risk för alltför låg bruttokonsoliditet",
+        "anchor": "3.1.57",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Externt_kreditvärderinginstitut",
+        "term": "externt kreditvärderinginstitut",
+        "anchor": "3.1.58",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Interna_metoder",
+        "term": "interna metoder",
+        "anchor": "3.1.59",
+        "role": "definierar",
+        "label": "en intern modell som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Återförsäkringsföretag",
+        "term": "återförsäkringsföretag",
+        "anchor": "3.1.6",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Resolutionsmyndighet",
+        "term": "resolutionsmyndighet",
+        "anchor": "3.1.60",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Globalt_systemviktigt_institut",
+        "term": "globalt systemviktigt institut",
+        "anchor": "3.1.61",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Globalt_systemviktigt_institut_hemmahörande_utanför_EU",
+        "term": "globalt systemviktigt institut hemmahörande utanför EU",
+        "anchor": "3.1.62",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grupp",
+        "term": "grupp",
+        "anchor": "3.1.63",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grupp_från_tredjeland",
+        "term": "grupp från tredjeland",
+        "anchor": "3.1.64",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Könsneutral_ersättningspolicy",
+        "term": "könsneutral ersättningspolicy",
+        "anchor": "3.1.65",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stort_institut",
+        "term": "stort institut",
+        "anchor": "3.1.66",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vite",
+        "term": "vite",
+        "anchor": "3.1.67",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljö-,_samhällsansvars-_eller_bolagsstyrningsrisk_eller_ESG-risk",
+        "term": "miljö-, samhällsansvars- eller bolagsstyrningsrisk eller ESG-risk",
+        "anchor": "3.1.68",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "3.1.68",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Klimatneutralitet",
+        "term": "klimatneutralitet",
+        "anchor": "3.1.69",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ledningsorgan",
+        "term": "ledningsorgan",
+        "anchor": "3.1.7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kryptotillgång",
+        "term": "kryptotillgång",
+        "anchor": "3.1.70",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ledningsorgan_med_tillsynsfunktion",
+        "term": "ledningsorgan med tillsynsfunktion",
+        "anchor": "3.1.8",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ledningsorgan_med_ledningsfunktion",
+        "term": "ledningsorgan med ledningsfunktion",
+        "anchor": "3.1.8a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verkställande_ledning",
+        "term": "verkställande ledning",
+        "anchor": "3.1.9",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ledande_befattningshavare",
+        "term": "ledande befattningshavare",
+        "anchor": "3.1.9a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nyckelfunktion",
+        "term": "nyckelfunktion",
+        "anchor": "3.1.9a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Personer_som_innehar_nyckelfunktioner",
+        "term": "personer som innehar nyckelfunktioner",
+        "anchor": "3.1.9a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Interna_kontrollfunktioner",
+        "term": "interna kontrollfunktioner",
+        "anchor": "3.1.9b",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Chefer_för_interna_kontrollfunktioner",
+        "term": "chefer för interna kontrollfunktioner",
+        "anchor": "3.1.9c",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansdirektör",
+        "term": "finansdirektör",
+        "anchor": "3.1.9d",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "32",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "33",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "34",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_institut",
+        "term": "finansiellt institut",
+        "anchor": "34",
+        "role": "definierar",
+        "label": "ett intyg om efterlevnad som ska utgöra del av den underrättelse som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "35",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "35",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "36",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "36",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "39",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "39",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "40",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "41",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "41",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "43",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "45",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "47",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nyckelfunktion",
+        "term": "nyckelfunktion",
+        "anchor": "47",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "48k",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiell_sektor",
+        "term": "finansiell sektor",
+        "anchor": "48k",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "48l",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "48l",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "49",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "4a",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "50",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "50",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "51",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Filial",
+        "term": "filial",
+        "anchor": "51",
+        "role": "definierar",
+        "label": "sådana filialer som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "51",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "52",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "53",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "54",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "56",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiell_sektor",
+        "term": "finansiell sektor",
+        "anchor": "56",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "57",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "58",
+        "role": "definierar",
+        "label": "punkterna 1 och 2 ska omfattas av krav avseende tystnadsplikt som är minst likvärdiga med dem som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "58a",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "59",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "60",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "61",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "63",
+        "role": "definierar",
+        "label": "sådana uppgifter eller beslut som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "64",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "65",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "65",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nyckelfunktion",
+        "term": "nyckelfunktion",
+        "anchor": "65",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "66",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "66",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Intermediär",
+        "term": "intermediär",
+        "anchor": "66",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "67",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "67",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Intermediär",
+        "term": "intermediär",
+        "anchor": "67",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "68",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "69",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "70",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "71",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "73",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "74",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "74",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "74",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "75",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "76",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljö-,_samhällsansvars-_eller_bolagsstyrningsrisk_eller_ESG-risk",
+        "term": "miljö-, samhällsansvars- eller bolagsstyrningsrisk eller ESG-risk",
+        "anchor": "76",
+        "role": "definierar",
+        "label": "europaparlamentets och rådets direktiv 2013/34/eu ska de planer som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "76",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "77",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "77",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "78",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Interna_metoder",
+        "term": "interna metoder",
+        "anchor": "78",
+        "role": "definierar",
+        "label": "åtminstone de intervall som gäller för den eba-riktmärkning som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "78",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "78",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "79",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "80",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "80",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "81",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "81",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "82",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "82",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "83",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "83",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "84",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "84",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "85",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "85",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "86",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "86",
+        "role": "definierar",
+        "label": "beaktande av resultatet av de alternativa scenarier som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "87a",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "87a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "88",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medlem",
+        "term": "medlem",
+        "anchor": "88",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nyckelfunktion",
+        "term": "nyckelfunktion",
+        "anchor": "88",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Närstående_part",
+        "term": "närstående part",
+        "anchor": "88",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "88",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "8a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "8a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "91",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "91a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nyckelfunktion",
+        "term": "nyckelfunktion",
+        "anchor": "91a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "91a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "92",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Könsneutral_ersättningspolicy",
+        "term": "könsneutral ersättningspolicy",
+        "anchor": "92",
+        "role": "definierar",
+        "label": "eller är högre än den genomsnittliga ersättningen till de medlemmar av institutets ledningsorgan och verkställande ledning som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsförmåner",
+        "term": "pensionsförmåner",
+        "anchor": "92",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "93",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "94",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "94",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsförmåner",
+        "term": "pensionsförmåner",
+        "anchor": "94",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "94",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "94",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "95",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "95",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "95",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "97",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "97",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "98",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Operativ_risk",
+        "term": "operativ risk",
+        "anchor": "98",
+        "role": "definierar",
+        "label": "termen tillsynsbefogenheter de befogenheter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "98",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "98",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "99",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "99",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "bilaga-2",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

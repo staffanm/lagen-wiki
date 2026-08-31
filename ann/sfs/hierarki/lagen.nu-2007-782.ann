@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/2007:782",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Beväpning_av_tulltjänstemän",
+        "term": "beväpning av tulltjänstemän",
+        "anchor": "P14",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Beväpning_och_övrig_personlig_utrustning",
+        "term": "beväpning och övrig personlig utrustning",
+        "anchor": "P14",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Heraldiska_vapen",
+        "term": "heraldiska vapen",
+        "anchor": "P14",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Uniformer_och_annan_personlig_utrustning",
+        "term": "uniformer och annan personlig utrustning",
+        "anchor": "P14",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Beväpning_av_tulltjänstemän",
+        "term": "beväpning av tulltjänstemän",
+        "anchor": "P14S1N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Uniformer_och_annan_personlig_utrustning",
+        "term": "uniformer och annan personlig utrustning",
+        "anchor": "P14S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Heraldiska_vapen",
+        "term": "heraldiska vapen",
+        "anchor": "P14S1N3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_denna_åklagarverksamhet_skall_utövas",
+        "term": "hur denna åklagarverksamhet skall utövas",
+        "anchor": "P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Brottet",
+        "term": "brottet",
+        "anchor": "P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Åklagarverksamhet",
+        "term": "åklagarverksamhet",
+        "anchor": "P3S1",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

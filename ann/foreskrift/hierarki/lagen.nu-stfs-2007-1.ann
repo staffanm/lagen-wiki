@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/stfs/2007:1",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Skyldigheten_att_lämna_renlängden_och_andra_uppgifter_om_renskötseln",
+        "term": "skyldigheten att lämna renlängden och andra uppgifter om renskötseln",
+        "anchor": "P11",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_renmärken_skall_utformas",
+        "term": "hur renmärken skall utformas",
+        "anchor": "P2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_renmärken_skall_registreras",
+        "term": "hur renmärken skall registreras",
+        "anchor": "P4",
+        "role": "detaljerar",
+        "label": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/celex/32019L0789",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anknuten_onlinetjänst",
+        "term": "anknuten onlinetjänst",
+        "anchor": "2.1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "2.1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "2.2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresändning",
+        "term": "vidaresändning",
+        "anchor": "2.2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vidaresänds",
+        "term": "vidaresänds",
+        "anchor": "2.2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontrollerad_miljö",
+        "term": "kontrollerad miljö",
+        "anchor": "2.3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Direktinjicering",
+        "term": "direktinjicering",
+        "anchor": "2.4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Direktinjicering",
+        "term": "direktinjicering",
+        "anchor": "8",
+        "role": "definierar",
+        "label": "hjälp av en av de tekniker som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Program",
+        "term": "program",
+        "anchor": "8",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

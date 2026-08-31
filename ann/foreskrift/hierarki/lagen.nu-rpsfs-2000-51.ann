@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/rpsfs/2000:51",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_på_motorväg_och_motortrafikled",
+        "term": "trafik på motorväg och motortrafikled",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafikövervakning_på_motorvägar_och_motortrafikleder",
+        "term": "trafikövervakning på motorvägar och motortrafikleder",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storlek_och_närmare_utseende_på_vägmärken_och_andra_anordningar_som_anges_i_denna_förordning",
+        "term": "storlek och närmare utseende på vägmärken och andra anordningar som anges i denna förordning",
+        "anchor": "K2P3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordons_plats_på_väg",
+        "term": "Fordons plats på väg",
+        "anchor": "K3P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta_som_avger_orangegult_ljus_och_som_är_särskilt_anordnad_som_varningsanordning",
+        "term": "lykta som avger orangegult ljus och som är särskilt anordnad som varningsanordning",
+        "anchor": "K3P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafikövervakning_på_motorvägar_och_motortrafikleder",
+        "term": "trafikövervakning på motorvägar och motortrafikleder",
+        "anchor": "K3P2",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

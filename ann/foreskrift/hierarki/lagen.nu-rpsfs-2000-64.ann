@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/rpsfs/2000:64",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Dokumentation",
+        "term": "dokumentation",
+        "anchor": "P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ekonomiadministrativa_och_personaladministrativa_rutiner",
+        "term": "ekonomiadministrativa och personaladministrativa rutiner",
+        "anchor": "P2",
+        "role": "detaljerar",
+        "label": null
+      }
+    ]
+  }
+}

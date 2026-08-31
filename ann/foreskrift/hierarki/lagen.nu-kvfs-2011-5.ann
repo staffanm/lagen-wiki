@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/kvfs/2011:5",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Verkställighetsplan",
+        "term": "verkställighetsplan",
+        "anchor": "P11",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Brottet",
+        "term": "brottet",
+        "anchor": "P12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verkställighetsplan",
+        "term": "verkställighetsplan",
+        "anchor": "P12",
+        "role": "definierar",
+        "label": "att verkställigheten utformas på ett ändamålsenligt sätt"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Återfallet",
+        "term": "återfallet",
+        "anchor": "P12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Brottet",
+        "term": "brottet",
+        "anchor": "P13",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Återfallet",
+        "term": "återfallet",
+        "anchor": "P13",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Planering_och_uppföljning",
+        "term": "planering och uppföljning",
+        "anchor": "P14",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Droger",
+        "term": "droger",
+        "anchor": "P18",
+        "role": "definierar",
+        "label": "prov för drogkontroll"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "P1a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Dokumentation",
+        "term": "dokumentation",
+        "anchor": "P23",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Påföljd_för_brott",
+        "term": "påföljd för brott",
+        "anchor": "P27",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "P5",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

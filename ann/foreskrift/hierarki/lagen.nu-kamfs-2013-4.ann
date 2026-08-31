@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/kamfs/2013:4",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Bevis",
+        "term": "bevis",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bevis_och_intyg",
+        "term": "bevis och intyg",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bevis",
+        "term": "bevis",
+        "anchor": "P2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bevis",
+        "term": "bevis",
+        "anchor": "P3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bevis",
+        "term": "bevis",
+        "anchor": "P5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bevis_och_intyg",
+        "term": "bevis och intyg",
+        "anchor": "P5",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

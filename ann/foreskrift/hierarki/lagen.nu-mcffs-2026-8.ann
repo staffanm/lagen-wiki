@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/mcffs/2026:8",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_cyberhot",
+        "term": "betydande cyberhot",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-tjänst",
+        "term": "IKT-tjänst",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationsskyldighet",
+        "term": "informationsskyldighet",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_som_utgör_en_betydande_incident",
+        "term": "vad som utgör en betydande incident",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "K1P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sektorskritiskt_system",
+        "term": "sektorskritiskt system",
+        "anchor": "K1P3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sektorsverksamhet",
+        "term": "sektorsverksamhet",
+        "anchor": "K1P3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/System",
+        "term": "system",
+        "anchor": "K1P3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K1P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viktig_samhällsfunktion",
+        "term": "viktig samhällsfunktion",
+        "anchor": "K1P3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K2P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K2P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K2P3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K2P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betrodd_tjänst",
+        "term": "betrodd tjänst",
+        "anchor": "K2P4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K2P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K2P5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K2P5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K2P6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K3P1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_cyberhot",
+        "term": "betydande cyberhot",
+        "anchor": "K3P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K3P2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "K3P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K3P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K3P3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_cyberhot",
+        "term": "betydande cyberhot",
+        "anchor": "K3P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K3P4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "K3P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K3P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K3P6",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_cyberhot",
+        "term": "betydande cyberhot",
+        "anchor": "K3P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K3P7",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "K3P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K3P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K3P8",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P8",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K4P1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K4P2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K4P3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K4P4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K4P5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K4P6",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P6",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anmälningsskyldigheten",
+        "term": "anmälningsskyldigheten",
+        "anchor": "K4P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K4P7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P7",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K4P8",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P8",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K4P9",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P9",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K5P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K5P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_cyberhot",
+        "term": "betydande cyberhot",
+        "anchor": "K5P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "K5P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "K5P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K5P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K5P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidentrapportering",
+        "term": "incidentrapportering",
+        "anchor": "K5P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationsskyldighet",
+        "term": "informationsskyldighet",
+        "anchor": "K5P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K5P2",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

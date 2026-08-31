@@ -1,0 +1,76 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/rpsfs/2005:9",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Beväpning_av_tulltjänstemän",
+        "term": "beväpning av tulltjänstemän",
+        "anchor": "K1P3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Valv_eller_värdeskåp",
+        "term": "valv eller värdeskåp",
+        "anchor": "K2",
+        "role": "definierar",
+        "label": "lika säkert förvaringsutrymme skall"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Valv_eller_värdeskåp",
+        "term": "valv eller värdeskåp",
+        "anchor": "K2P1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskåp",
+        "term": "säkerhetsskåp",
+        "anchor": "K2P2",
+        "role": "definierar",
+        "label": "lika säkert förvaringsutrymme skall"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ackrediterat_certifieringsorgan",
+        "term": "ackrediterat certifieringsorgan",
+        "anchor": "K2P4",
+        "role": "definierar",
+        "label": "ett ackrediterat certifieringsorgan"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Särskilt_farliga_vapen",
+        "term": "särskilt farliga vapen",
+        "anchor": "K3P1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Övriga_skjutvapen",
+        "term": "övriga skjutvapen",
+        "anchor": "K3P2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Beväpning_och_övrig_personlig_utrustning",
+        "term": "beväpning och övrig personlig utrustning",
+        "anchor": "K4P4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förbindelsetjänsten_och_larmrutinerna",
+        "term": "förbindelsetjänsten och larmrutinerna",
+        "anchor": "K7",
+        "role": "detaljerar",
+        "label": null
+      }
+    ]
+  }
+}

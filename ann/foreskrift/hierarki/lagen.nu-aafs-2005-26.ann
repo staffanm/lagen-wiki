@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-29",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/aafs/2005:26",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Strafföreläggande",
+        "term": "strafföreläggande",
+        "anchor": "P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avräkningsunderlag",
+        "term": "avräkningsunderlag",
+        "anchor": "P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strafföreläggande",
+        "term": "strafföreläggande",
+        "anchor": "P2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utformningen_av_avräkningsunderlaget",
+        "term": "utformningen av avräkningsunderlaget",
+        "anchor": "P2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strafföreläggande",
+        "term": "strafföreläggande",
+        "anchor": "P3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Den_information_som_ska_lämnas",
+        "term": "den information som ska lämnas",
+        "anchor": "P4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strafföreläggande",
+        "term": "strafföreläggande",
+        "anchor": "P5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vem_som_ska_ta_emot_en_sådan_förklaring",
+        "term": "vem som ska ta emot en sådan förklaring",
+        "anchor": "P5",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/pmfs/2023:7",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Avveckling_av_egendom",
+        "term": "avveckling av egendom",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förfarande_med_egendom",
+        "term": "förfarande med egendom",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sättet_för_kungörande",
+        "term": "sättet för kungörande",
+        "anchor": "P2",
+        "role": "detaljerar",
+        "label": null
+      }
+    ]
+  }
+}

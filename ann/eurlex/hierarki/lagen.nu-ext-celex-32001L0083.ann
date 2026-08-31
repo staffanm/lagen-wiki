@@ -1,0 +1,776 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/celex/32001L0083",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Aktiv_substans",
+        "term": "aktiv substans",
+        "anchor": "1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "10",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "102",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "103",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "104",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "105",
+        "role": "definierar",
+        "label": "hjälp av det nätverk som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "107",
+        "role": "definierar",
+        "label": "de riktlinjer som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "109",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "11",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "110",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "111",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "113",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "114",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "115",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "115",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "117",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "117",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "118",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "118",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Humanläkemedel",
+        "term": "humanläkemedel",
+        "anchor": "121",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kommittén",
+        "term": "kommittén",
+        "anchor": "121",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "121",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "123",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "126",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "127",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "15",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Klinisk_läkemedelsprövning",
+        "term": "klinisk läkemedelsprövning",
+        "anchor": "16",
+        "role": "definierar",
+        "label": "undantag av dem som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "17",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "20",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "20",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "23",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Humanläkemedel",
+        "term": "humanläkemedel",
+        "anchor": "27",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kommittén",
+        "term": "kommittén",
+        "anchor": "27",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "27",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "28",
+        "role": "definierar",
+        "label": "den information och de uppgifter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kommittén",
+        "term": "kommittén",
+        "anchor": "29",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kommittén",
+        "term": "kommittén",
+        "anchor": "30",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "30",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kommittén",
+        "term": "kommittén",
+        "anchor": "31",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kommittén",
+        "term": "kommittén",
+        "anchor": "32",
+        "role": "definierar",
+        "label": "anledning av överklagandet skall bifogas den prövningsrapport som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kommittén",
+        "term": "kommittén",
+        "anchor": "34",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skydda_människors_eller_djurs_hälsa_eller_miljön",
+        "term": "skydda människors eller djurs hälsa eller miljön",
+        "anchor": "36",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kommittén",
+        "term": "kommittén",
+        "anchor": "37",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "37",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "40",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "41",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "41",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "42",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "42",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "43",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "44",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "46",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "46",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning_av_läkemedel",
+        "term": "tillverkning av läkemedel",
+        "anchor": "46",
+        "role": "definierar",
+        "label": "särskild kompetens som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "47",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "48",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "49",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktiv_substans",
+        "term": "aktiv substans",
+        "anchor": "50",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "50",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "50",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "51",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "51",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning_av_läkemedel",
+        "term": "tillverkning av läkemedel",
+        "anchor": "51",
+        "role": "definierar",
+        "label": "särskild kompetens som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hjälpämne",
+        "term": "hjälpämne",
+        "anchor": "54",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "54",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "55",
+        "role": "definierar",
+        "label": "undantag av sådana läkemedelsbehållare som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktiv_substans",
+        "term": "aktiv substans",
+        "anchor": "59",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hjälpämne",
+        "term": "hjälpämne",
+        "anchor": "59",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "59",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "60",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "61",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "63",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hjälpämne",
+        "term": "hjälpämne",
+        "anchor": "65",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "65",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "70",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "71",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "72",
+        "role": "definierar",
+        "label": "receptfria läkemedel skall"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "73",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "76",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "77",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillverkning",
+        "term": "tillverkning",
+        "anchor": "77",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "8",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "80",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "81",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "82",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "83",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Radioaktiva_läkemedel",
+        "term": "radioaktiva läkemedel",
+        "anchor": "83",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kommittén",
+        "term": "kommittén",
+        "anchor": "84",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "86",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "87",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "88",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "89",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "90",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "91",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "92",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "93",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "94",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "96",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "97",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läkemedel",
+        "term": "läkemedel",
+        "anchor": "98",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

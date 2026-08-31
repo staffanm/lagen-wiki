@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/tsfs/2025:18",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet_på_väg_med_vissa_motordrivna_fordon_och_fordonskombinationer",
+        "term": "hastighet på väg med vissa motordrivna fordon och fordonskombinationer",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "P3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Högsta_tillåtna_hastigheten_på_en_väg",
+        "term": "högsta tillåtna hastigheten på en väg",
+        "anchor": "P3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Låsningsfria_bromsar_och_kopplingsanordningar",
+        "term": "låsningsfria bromsar och kopplingsanordningar",
+        "anchor": "P5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nation",
+        "term": "nation",
+        "anchor": "P5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "P5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning",
+        "term": "viss utrustning",
+        "anchor": "P5",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "P7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "P8",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

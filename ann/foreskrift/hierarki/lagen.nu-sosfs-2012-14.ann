@@ -1,0 +1,475 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/sosfs/2012:14",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Mottagare",
+        "term": "mottagare",
+        "anchor": "K10P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spårbarhet",
+        "term": "spårbarhet",
+        "anchor": "K10P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K10P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transplantationscentrum",
+        "term": "transplantationscentrum",
+        "anchor": "K11P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_det",
+        "term": "undantag från det",
+        "anchor": "K11P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_föreskriften",
+        "term": "undantag från föreskriften",
+        "anchor": "K11P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillvaratagande",
+        "term": "tillvaratagande",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K1P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillvaratagande",
+        "term": "tillvaratagande",
+        "anchor": "K1P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Donationsverksamhet",
+        "term": "donationsverksamhet",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mottagare",
+        "term": "mottagare",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Produkt",
+        "term": "produkt",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spårbarhet",
+        "term": "spårbarhet",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillvaratagande",
+        "term": "tillvaratagande",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transplantationscentrum",
+        "term": "transplantationscentrum",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K3P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mottagare",
+        "term": "mottagare",
+        "anchor": "K4P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K4P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spårbarhet",
+        "term": "spårbarhet",
+        "anchor": "K4P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillvaratagande",
+        "term": "tillvaratagande",
+        "anchor": "K4P1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K4P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K4P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K4P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K4P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K4P3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Donationsverksamhet",
+        "term": "donationsverksamhet",
+        "anchor": "K4P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mottagare",
+        "term": "mottagare",
+        "anchor": "K4P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K4P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillvaratagande",
+        "term": "tillvaratagande",
+        "anchor": "K4P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K4P6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K5P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K5P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transplantationscentrum",
+        "term": "transplantationscentrum",
+        "anchor": "K5P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mottagare",
+        "term": "mottagare",
+        "anchor": "K6P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K6P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spårbarhet",
+        "term": "spårbarhet",
+        "anchor": "K6P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K6P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mottagare",
+        "term": "mottagare",
+        "anchor": "K6P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K6P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Produkt",
+        "term": "produkt",
+        "anchor": "K6P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spårbarhet",
+        "term": "spårbarhet",
+        "anchor": "K6P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K6P3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/HSLF-FS",
+        "term": "HSLF-FS",
+        "anchor": "K6P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K6P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spårbarhet",
+        "term": "spårbarhet",
+        "anchor": "K6P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K6P6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K7P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mottagare",
+        "term": "mottagare",
+        "anchor": "K7P10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K7P10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transplantationscentrum",
+        "term": "transplantationscentrum",
+        "anchor": "K7P10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K7P14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillvaratagande",
+        "term": "tillvaratagande",
+        "anchor": "K7P14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mottagare",
+        "term": "mottagare",
+        "anchor": "K7P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K7P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ansökningsförfarandet",
+        "term": "ansökningsförfarandet",
+        "anchor": "K7P9",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K7P9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K8P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillvaratagande",
+        "term": "tillvaratagande",
+        "anchor": "K8P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transplantationscentrum",
+        "term": "transplantationscentrum",
+        "anchor": "K8P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K8P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K8P3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K9P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K9P1",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

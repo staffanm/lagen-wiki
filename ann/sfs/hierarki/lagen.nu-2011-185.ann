@@ -1,0 +1,2701 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/2011:185",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "B1S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "B1S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "B1S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anpassad_studiegång",
+        "term": "anpassad studiegång",
+        "anchor": "B1S6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "B2R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anpassad_studiegång",
+        "term": "anpassad studiegång",
+        "anchor": "B2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "B3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "B3S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anpassad_studiegång",
+        "term": "anpassad studiegång",
+        "anchor": "B3S6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "B4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "B4S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anpassad_studiegång",
+        "term": "anpassad studiegång",
+        "anchor": "B4S5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K10P10S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K10P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K10P11S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K10P11S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Användningen_av_dem",
+        "term": "användningen av dem",
+        "anchor": "K10P12",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K10P12",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Användningen_av_dem",
+        "term": "användningen av dem",
+        "anchor": "K10P12S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K10P12S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Timplaner",
+        "term": "timplaner",
+        "anchor": "K10P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K10P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K10P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K10P4S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K10P4S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anpassad_studiegång",
+        "term": "anpassad studiegång",
+        "anchor": "K10P4S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K10P4S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K10P7S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K10P7S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K10P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K10R1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K10R5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K10R5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K10R6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P10S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P11S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P11aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P11aS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P12S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P12bS1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K11P12bS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P12bS3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Användningen_av_dessa",
+        "term": "användningen av dessa",
+        "anchor": "K11P12cS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K11P12cS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P13S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P13S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K11P13S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P14S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P1S3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P2S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Timplan",
+        "term": "timplan",
+        "anchor": "K11P3",
+        "role": "definierar",
+        "label": "intellektuell funktionsnedsättning gäller i stället för de föreskrifter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Timplan",
+        "term": "timplan",
+        "anchor": "K11P3S1",
+        "role": "definierar",
+        "label": "intellektuell funktionsnedsättning gäller i stället för de föreskrifter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P5S1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P5S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K11P5S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K11P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K11P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P8S1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K11P8S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K11P8S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K11P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K11R1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K11R8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samverkan",
+        "term": "samverkan",
+        "anchor": "K11R9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K12P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K12P10S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K12P12S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K12P12bS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K12P12bS3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Användningen_av_dessa",
+        "term": "användningen av dessa",
+        "anchor": "K12P12cS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K12P12cS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K12P13S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K12P13S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Timplan",
+        "term": "timplan",
+        "anchor": "K12P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K12P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K12P6S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K12P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K12P8S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nybörjarspråk",
+        "term": "nybörjarspråk",
+        "anchor": "K12P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K12P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K12P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K12R1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K12R10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K12R4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K12R6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K12R9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K13P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Persons_hemkommun",
+        "term": "persons hemkommun",
+        "anchor": "K14",
+        "role": "definierar",
+        "label": "en helt anpassad lärmiljö enligt andra stycket"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K14P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K14P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fristående_förskola",
+        "term": "fristående förskola",
+        "anchor": "K14P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fristående_skola",
+        "term": "fristående skola",
+        "anchor": "K14P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K14P1S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K14P1S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K14P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K14P1S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K14P1S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K14P4S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Personal",
+        "term": "personal",
+        "anchor": "K14P4S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K14P4S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Läromedel",
+        "term": "läromedel",
+        "anchor": "K14P4S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lärverktyg",
+        "term": "lärverktyg",
+        "anchor": "K14P4S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K14P4S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Personal",
+        "term": "personal",
+        "anchor": "K14P4S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lärverktyg",
+        "term": "lärverktyg",
+        "anchor": "K14P4S1N7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K14P5S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K14P5S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Personal",
+        "term": "personal",
+        "anchor": "K14P5S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K14P6S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K14P6S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K14P6S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K14P8S2N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lovskola",
+        "term": "lovskola",
+        "anchor": "K14P8S2N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K14P8S2N2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K14P8a",
+        "role": "definierar",
+        "label": "en helt anpassad lärmiljö enligt andra stycket"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K14P8aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K14P8aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K14P8aS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K14P8aS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K14P8aS3",
+        "role": "definierar",
+        "label": "en helt anpassad lärmiljö enligt andra stycket"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K14aP1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Särskilt_ungdomshem",
+        "term": "särskilt ungdomshem",
+        "anchor": "K14aP1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K14aP1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K14aP1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K14aP1S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K14aP2S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K14aP2S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K14aP2S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K1P1S1N17",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K1P1S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K1P1S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K1P1S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Distansundervisning",
+        "term": "distansundervisning",
+        "anchor": "K1P1S1N7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K1P2S2N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Garanterad_undervisningstid",
+        "term": "garanterad undervisningstid",
+        "anchor": "K1P2S2N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K1P2S2N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K2P1S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K2P1S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K2P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P4S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fristående_skola",
+        "term": "fristående skola",
+        "anchor": "K2P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Personal",
+        "term": "personal",
+        "anchor": "K3P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K3P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K3P4S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K3P4aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K3P4aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K3P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K3P5S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K3P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K4P1aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K4P2S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K4P2S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K4P2S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K4P2S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bosatt_i_landet",
+        "term": "bosatt i landet",
+        "anchor": "K4P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K4P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K4P3S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K4P3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K4P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K4P4S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K4P6S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K4P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K4P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K4P7S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K4P7S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K4P8S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K4P8S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K4P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K4R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K4R3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P10S1N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5P10S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P11S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5P11S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P12S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P14S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5P14S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P14S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5P14S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5P15S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5P16S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P2S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P4S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P4S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K5P4S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anpassad_studiegång",
+        "term": "anpassad studiegång",
+        "anchor": "K5P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Personal",
+        "term": "personal",
+        "anchor": "K5P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K5P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5P5S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5P5aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P5bS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P7S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5P9S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5R12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anpassad_studiegång",
+        "term": "anpassad studiegång",
+        "anchor": "K5R6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5R6",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5R7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nyanländ",
+        "term": "nyanländ",
+        "anchor": "K5R7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5R7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5R8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nyanländ",
+        "term": "nyanländ",
+        "anchor": "K5R8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aP1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5aP1aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aP1aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K5aP1aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K5aP2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aP2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5aP2S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5aP2S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5aP2S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5aP2S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5aP2S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aP2S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5aP2S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aP2S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5aP3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aP3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K5aP3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aP3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K5aP3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aP3aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aP4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aP5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aP6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aR2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aR4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fjärrundervisning",
+        "term": "fjärrundervisning",
+        "anchor": "K5aR5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Distansundervisning",
+        "term": "distansundervisning",
+        "anchor": "K5bP1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Distansundervisning",
+        "term": "distansundervisning",
+        "anchor": "K5bP2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP2S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Distansundervisning",
+        "term": "distansundervisning",
+        "anchor": "K5bP3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K5bP3S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP3S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP4S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K5bP4S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP4S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP4S1N3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP4S1N4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Distansundervisning",
+        "term": "distansundervisning",
+        "anchor": "K5bP4S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K5bP4S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP4S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP5S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Distansundervisning",
+        "term": "distansundervisning",
+        "anchor": "K5bP5S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K5bP5S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP5S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP6S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K5bP6S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP6S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP6S1N3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP6S1N4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP6S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Distansundervisning",
+        "term": "distansundervisning",
+        "anchor": "K5bP7S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K5bP7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K6",
+        "role": "definierar",
+        "label": "beslut om betyg"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P10",
+        "role": "definierar",
+        "label": "beslut om betyg"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P10S2",
+        "role": "definierar",
+        "label": "beslut om betyg"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P10S2N2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P11S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P12S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P12S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P14S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P14S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P15S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P17S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K6P17S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P17S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K6P17S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P17S2N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P17S2N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P17S2N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P17S2N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P18S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K6P18S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P19S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K6P1aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K6P22S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K6P23S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K6P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K6P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K6P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K6P5S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K6P5S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K6P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P7S3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P8aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K6P8aS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K6P8aS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K6R7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K8P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K8P2S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Användningen_av_dessa",
+        "term": "användningen av dessa",
+        "anchor": "K8P3S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K9",
+        "role": "definierar",
+        "label": "årskurs 4 i de fall som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K9P10S2N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P11S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P11aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lovskola",
+        "term": "lovskola",
+        "anchor": "K9P11aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P12S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P12S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P13S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P13S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P14S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P14S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P15S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K9P15S1N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K9P15S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P16S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P16S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K9P16S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P17S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P18S1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P18S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K9P18S1N3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K9P18S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P19S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P19S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P20S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P20S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P21S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P21aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P21aS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P22S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K9P22bS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P22bS3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Användningen_av_dessa",
+        "term": "användningen av dessa",
+        "anchor": "K9P22c",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K9P22c",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Användningen_av_dessa",
+        "term": "användningen av dessa",
+        "anchor": "K9P22cS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K9P22cS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K9P23S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P23S1N2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K9P23S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K9P23S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K9P24S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P25S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K9P25S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K9P25S1N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K9P25S1N3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K9P25S1N3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K9P26",
+        "role": "definierar",
+        "label": "årskurs 4 i de fall som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K9P26S1",
+        "role": "definierar",
+        "label": "årskurs 4 i de fall som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K9P26S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skolenhet",
+        "term": "skolenhet",
+        "anchor": "K9P27S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P28S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P28S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P2S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P4aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nyanländ",
+        "term": "nyanländ",
+        "anchor": "K9P4aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Prioriterad_timplan",
+        "term": "prioriterad timplan",
+        "anchor": "K9P4aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P4aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P4aS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P4aS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P6S1N1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P6S1N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P6S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P7S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K9R1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationella_bedömningsstöd",
+        "term": "nationella bedömningsstöd",
+        "anchor": "K9R11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K9R12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9R16",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9R6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elev",
+        "term": "elev",
+        "anchor": "K9R7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9R7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undervisning",
+        "term": "undervisning",
+        "anchor": "K9R8",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

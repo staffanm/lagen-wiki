@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/stfs/2025:1",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Rennäringsföretag",
+        "term": "rennäringsföretag",
+        "anchor": "P11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skyldigheten_att_lämna_renlängden_och_andra_uppgifter_om_renskötseln",
+        "term": "skyldigheten att lämna renlängden och andra uppgifter om renskötseln",
+        "anchor": "P11",
+        "role": "detaljerar",
+        "label": null
+      }
+    ]
+  }
+}

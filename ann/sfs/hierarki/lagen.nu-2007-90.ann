@@ -1,0 +1,1021 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/2007:90",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Fastighetsägare",
+        "term": "fastighetsägare",
+        "anchor": "K1P10",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K1P1S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K1P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Symbol",
+        "term": "Symbol",
+        "anchor": "K1P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K1P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vägvisningsplan",
+        "term": "Vägvisningsplan",
+        "anchor": "K1P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K1P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K1P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K1P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K1P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K1P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K1P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K1P6S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Byggande_av_väg",
+        "term": "byggande av väg",
+        "anchor": "K1P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K1P7S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Att_det_inte_behöver_förekomma_någon_symbol_på_märket",
+        "term": "att det inte behöver förekomma någon symbol på märket",
+        "anchor": "K2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_anledningar_som_får_anges",
+        "term": "vilka andra anledningar som får anges",
+        "anchor": "K2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_förbudsmärken_som_får_infogas",
+        "term": "vilka andra förbudsmärken som får infogas",
+        "anchor": "K2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_symboler_som_får_förekomma",
+        "term": "vilka andra symboler som får förekomma",
+        "anchor": "K2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_vägmärken_som_får_infogas",
+        "term": "vilka andra vägmärken som får infogas",
+        "anchor": "K2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_ändamål_som_får_anges_och_hur_de_anges",
+        "term": "vilka andra ändamål som får anges och hur de anges",
+        "anchor": "K2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_symboler_som_får_användas",
+        "term": "vilka symboler som får användas",
+        "anchor": "K2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_symboler_som_får_förekomma",
+        "term": "vilka symboler som får förekomma",
+        "anchor": "K2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vägvisningsplan",
+        "term": "Vägvisningsplan",
+        "anchor": "K2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K2P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K2P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storlek_och_närmare_utseende_på_vägmärken_och_andra_anordningar_som_anges_i_denna_förordning",
+        "term": "storlek och närmare utseende på vägmärken och andra anordningar som anges i denna förordning",
+        "anchor": "K2P12",
+        "role": "definierar",
+        "label": "en annan väg än sådan som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_vägmärken_som_får_infogas",
+        "term": "vilka andra vägmärken som får infogas",
+        "anchor": "K2P12",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K2P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K2P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storlek_och_närmare_utseende_på_vägmärken_och_andra_anordningar_som_anges_i_denna_förordning",
+        "term": "storlek och närmare utseende på vägmärken och andra anordningar som anges i denna förordning",
+        "anchor": "K2P12S1",
+        "role": "definierar",
+        "label": "en annan väg än sådan som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sträcka",
+        "term": "sträcka",
+        "anchor": "K2P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_vägmärken_som_får_infogas",
+        "term": "vilka andra vägmärken som får infogas",
+        "anchor": "K2P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nummer_på_riksvägar_och_på_länsvägar_i_nummergruppen_100–499",
+        "term": "nummer på riksvägar och på länsvägar i nummergruppen 100–499",
+        "anchor": "K2P13",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vägvisningsplan",
+        "term": "Vägvisningsplan",
+        "anchor": "K2P13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P13S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P13bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "K2P13bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_symboler_som_får_användas",
+        "term": "vilka andra symboler som får användas",
+        "anchor": "K2P17",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P17S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K2P17S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sträcka",
+        "term": "sträcka",
+        "anchor": "K2P17S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K2P17S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_symboler_som_får_användas",
+        "term": "vilka andra symboler som får användas",
+        "anchor": "K2P17S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avvikelser_från_vad_som_gäller_om_vägmärkenas_färg",
+        "term": "avvikelser från vad som gäller om vägmärkenas färg",
+        "anchor": "K2P19",
+        "role": "definierar",
+        "label": "vit versal och gemen text och symboler på brun botten används endast vid vägvisning för turistiskt intressanta mål som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Att_det_inte_behöver_förekomma_någon_symbol_på_märket",
+        "term": "att det inte behöver förekomma någon symbol på märket",
+        "anchor": "K2P20",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_symboler_som_får_förekomma",
+        "term": "vilka symboler som får förekomma",
+        "anchor": "K2P20",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Att_det_inte_behöver_förekomma_någon_symbol_på_märket",
+        "term": "att det inte behöver förekomma någon symbol på märket",
+        "anchor": "K2P20S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_symboler_som_får_förekomma",
+        "term": "vilka symboler som får förekomma",
+        "anchor": "K2P20S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_förkortningar_som_får_förekomma_och_vad_de_anger",
+        "term": "vilka andra förkortningar som får förekomma och vad de anger",
+        "anchor": "K2P24",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/CNG",
+        "term": "CNG",
+        "anchor": "K2P24S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P24S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_förkortningar_som_får_förekomma_och_vad_de_anger",
+        "term": "vilka andra förkortningar som får förekomma och vad de anger",
+        "anchor": "K2P24S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_symboler_som_får_användas",
+        "term": "vilka symboler som får användas",
+        "anchor": "K2P26S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K2P27S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tvåhjulig_motorcykel",
+        "term": "tvåhjulig motorcykel",
+        "anchor": "K2P28S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P30S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sträcka",
+        "term": "sträcka",
+        "anchor": "K2P4S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_symboler_som_får_förekomma",
+        "term": "vilka andra symboler som får förekomma",
+        "anchor": "K2P5",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K2P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sträcka",
+        "term": "sträcka",
+        "anchor": "K2P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_symboler_som_får_förekomma",
+        "term": "vilka andra symboler som får förekomma",
+        "anchor": "K2P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storlek_och_närmare_utseende_på_vägmärken_och_andra_anordningar_som_anges_i_denna_förordning",
+        "term": "storlek och närmare utseende på vägmärken och andra anordningar som anges i denna förordning",
+        "anchor": "K2P6",
+        "role": "definierar",
+        "label": "annan väg än sådan som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K2P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storlek_och_närmare_utseende_på_vägmärken_och_andra_anordningar_som_anges_i_denna_förordning",
+        "term": "storlek och närmare utseende på vägmärken och andra anordningar som anges i denna förordning",
+        "anchor": "K2P6S1",
+        "role": "definierar",
+        "label": "annan väg än sådan som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sträcka",
+        "term": "sträcka",
+        "anchor": "K2P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_bestämmelserna_om_upprepning",
+        "term": "undantag från bestämmelserna om upprepning",
+        "anchor": "K2P7",
+        "role": "definierar",
+        "label": "en annan väg än sådan som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P7S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_bestämmelserna_om_upprepning",
+        "term": "undantag från bestämmelserna om upprepning",
+        "anchor": "K2P7S2",
+        "role": "definierar",
+        "label": "en annan väg än sådan som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storlek_och_närmare_utseende_på_vägmärken_och_andra_anordningar_som_anges_i_denna_förordning",
+        "term": "storlek och närmare utseende på vägmärken och andra anordningar som anges i denna förordning",
+        "anchor": "K2P8",
+        "role": "definierar",
+        "label": "en annan väg än sådan som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_anledningar_som_får_anges",
+        "term": "vilka andra anledningar som får anges",
+        "anchor": "K2P8",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_förbudsmärken_som_får_infogas",
+        "term": "vilka andra förbudsmärken som får infogas",
+        "anchor": "K2P8",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_ändamål_som_får_anges_och_hur_de_anges",
+        "term": "vilka andra ändamål som får anges och hur de anges",
+        "anchor": "K2P8",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "K2P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K2P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering",
+        "term": "Stannande och parkering",
+        "anchor": "K2P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storlek_och_närmare_utseende_på_vägmärken_och_andra_anordningar_som_anges_i_denna_förordning",
+        "term": "storlek och närmare utseende på vägmärken och andra anordningar som anges i denna förordning",
+        "anchor": "K2P8S1",
+        "role": "definierar",
+        "label": "en annan väg än sådan som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sträcka",
+        "term": "sträcka",
+        "anchor": "K2P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K2P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_anledningar_som_får_anges",
+        "term": "vilka andra anledningar som får anges",
+        "anchor": "K2P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_förbudsmärken_som_får_infogas",
+        "term": "vilka andra förbudsmärken som får infogas",
+        "anchor": "K2P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_andra_ändamål_som_får_anges_och_hur_de_anges",
+        "term": "vilka andra ändamål som får anges och hur de anges",
+        "anchor": "K2P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Infogande_i_lokaliseringsmärken_av_varningsmärken,_förbudsmärken,_påbudsmärken,_anvisningsmärken_och_andra_lokaliseringsmärken",
+        "term": "infogande i lokaliseringsmärken av varningsmärken, förbudsmärken, påbudsmärken, anvisningsmärken och andra lokaliseringsmärken",
+        "anchor": "K2P9",
+        "role": "definierar",
+        "label": "annan väg än sådan som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P10S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K3P21S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K3P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K4P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K4P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K5P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K5P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta",
+        "term": "lykta",
+        "anchor": "K5P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K5R1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K6P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta",
+        "term": "lykta",
+        "anchor": "K6P7S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K6P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K6P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K7P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K7P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta",
+        "term": "lykta",
+        "anchor": "K7P2S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Reflexanordning",
+        "term": "reflexanordning",
+        "anchor": "K7P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Att_ett_visst_märke_eller_någon_annan_anordning_får_sättas_upp_endast_efter_medgivande_av_styrelsen",
+        "term": "att ett visst märke eller någon annan anordning får sättas upp endast efter medgivande av styrelsen",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Att_vägmärken_och_andra_anordningar_eller_det_material_som_ingår_i_dem_ska_vara_av_en_sådan_typ_som_godkänts_av_styrelsen_eller_av_en_annan_myndighet",
+        "term": "att vägmärken och andra anordningar eller det material som ingår i dem ska vara av en sådan typ som godkänts av styrelsen eller av en annan myndighet",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avvikelser_från_vad_som_gäller_om_vägmärkenas_färg",
+        "term": "avvikelser från vad som gäller om vägmärkenas färg",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försöksverksamhet_med_avvikelse_från_förordningen",
+        "term": "försöksverksamhet med avvikelse från förordningen",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Infogande_i_lokaliseringsmärken_av_varningsmärken,_förbudsmärken,_påbudsmärken,_anvisningsmärken_och_andra_lokaliseringsmärken",
+        "term": "infogande i lokaliseringsmärken av varningsmärken, förbudsmärken, påbudsmärken, anvisningsmärken och andra lokaliseringsmärken",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storlek_och_närmare_utseende_på_vägmärken_och_andra_anordningar_som_anges_i_denna_förordning",
+        "term": "storlek och närmare utseende på vägmärken och andra anordningar som anges i denna förordning",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Symboler_och_tilläggstavlor_utöver_vad_som_anges_i_denna_förordning",
+        "term": "symboler och tilläggstavlor utöver vad som anges i denna förordning",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tilläggstavlor_med_ett_annat_innehåll_än_det_som_anges_i_förordningen",
+        "term": "tilläggstavlor med ett annat innehåll än det som anges i förordningen",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_bestämmelserna_om_upprepning",
+        "term": "undantag från bestämmelserna om upprepning",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_bestämmelserna_om_utmärkning",
+        "term": "undantag från bestämmelserna om utmärkning",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Under_vilka_förhållanden_sådana_anordningar_för_anvisningar_för_trafiken_som_avses_i_1_kap._1_§_ska_eller_får_sättas_upp,_tas_bort,_underhållas_eller_utföras_samt_hur_detta_ska_eller_får_ske",
+        "term": "under vilka förhållanden sådana anordningar för anvisningar för trafiken som avses i 1 kap. 1 § ska eller får sättas upp, tas bort, underhållas eller utföras samt hur detta ska eller får ske",
+        "anchor": "K8P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K8P1S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Att_ett_visst_märke_eller_någon_annan_anordning_får_sättas_upp_endast_efter_medgivande_av_styrelsen",
+        "term": "att ett visst märke eller någon annan anordning får sättas upp endast efter medgivande av styrelsen",
+        "anchor": "K8P1S1N1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K8P1S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_bestämmelserna_om_utmärkning",
+        "term": "undantag från bestämmelserna om utmärkning",
+        "anchor": "K8P1S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K8P1S1N3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_bestämmelserna_om_upprepning",
+        "term": "undantag från bestämmelserna om upprepning",
+        "anchor": "K8P1S1N3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Infogande_i_lokaliseringsmärken_av_varningsmärken,_förbudsmärken,_påbudsmärken,_anvisningsmärken_och_andra_lokaliseringsmärken",
+        "term": "infogande i lokaliseringsmärken av varningsmärken, förbudsmärken, påbudsmärken, anvisningsmärken och andra lokaliseringsmärken",
+        "anchor": "K8P1S1N4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Symboler_och_tilläggstavlor_utöver_vad_som_anges_i_denna_förordning",
+        "term": "symboler och tilläggstavlor utöver vad som anges i denna förordning",
+        "anchor": "K8P1S1N4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försöksverksamhet_med_avvikelse_från_förordningen",
+        "term": "försöksverksamhet med avvikelse från förordningen",
+        "anchor": "K8P1S1N5",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avvikelser_från_vad_som_gäller_om_vägmärkenas_färg",
+        "term": "avvikelser från vad som gäller om vägmärkenas färg",
+        "anchor": "K8P1S1N6",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tilläggstavlor_med_ett_annat_innehåll_än_det_som_anges_i_förordningen",
+        "term": "tilläggstavlor med ett annat innehåll än det som anges i förordningen",
+        "anchor": "K8P1S1N6",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K8P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K8P1S2N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Att_vägmärken_och_andra_anordningar_eller_det_material_som_ingår_i_dem_ska_vara_av_en_sådan_typ_som_godkänts_av_styrelsen_eller_av_en_annan_myndighet",
+        "term": "att vägmärken och andra anordningar eller det material som ingår i dem ska vara av en sådan typ som godkänts av styrelsen eller av en annan myndighet",
+        "anchor": "K8P1S2N1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storlek_och_närmare_utseende_på_vägmärken_och_andra_anordningar_som_anges_i_denna_förordning",
+        "term": "storlek och närmare utseende på vägmärken och andra anordningar som anges i denna förordning",
+        "anchor": "K8P1S2N1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K8P1S2N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Under_vilka_förhållanden_sådana_anordningar_för_anvisningar_för_trafiken_som_avses_i_1_kap._1_§_ska_eller_får_sättas_upp,_tas_bort,_underhållas_eller_utföras_samt_hur_detta_ska_eller_får_ske",
+        "term": "under vilka förhållanden sådana anordningar för anvisningar för trafiken som avses i 1 kap. 1 § ska eller får sättas upp, tas bort, underhållas eller utföras samt hur detta ska eller får ske",
+        "anchor": "K8P1S2N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K8P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "K8P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "K8P3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K8P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K8P4S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K8P4S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K8P5S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K8P5S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K8P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K9P1S1",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

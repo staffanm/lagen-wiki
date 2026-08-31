@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T20:31:59+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 5,
+      "prompt_tokens": 3913,
+      "completion_tokens": 6120,
+      "ended": "2026-08-30T20:33:12+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1837cd238ce58a12f3662da9d78d3978e62f0f11c24454dce3c0ce999d2f778e"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1972:435",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Inbetalning_av_överlastavgift",
+        "term": "inbetalning av överlastavgift",
+        "anchor": "P10",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgiftspliktig_överlast",
+        "term": "avgiftspliktig överlast",
+        "anchor": "P2S2",
+        "role": "definierar",
+        "label": null
+      }
+    ]
+  }
+}

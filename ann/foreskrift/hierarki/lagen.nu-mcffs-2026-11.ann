@@ -1,0 +1,790 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/mcffs/2026:11",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-tjänst",
+        "term": "IKT-tjänst",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhet_i_nätverks-_och_informationssystem",
+        "term": "säkerhet i nätverks- och informationssystem",
+        "anchor": "K1P3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K1P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "K1P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K1P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "K2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K2P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "K3P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K3P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K3P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P10",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K3P10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P11",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P12",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P12",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K3P12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K3P12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K3P12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillbud",
+        "term": "tillbud",
+        "anchor": "K3P12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K3P13",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K3P13",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P14",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P14",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P16",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P17",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidenthantering",
+        "term": "incidenthantering",
+        "anchor": "K3P17",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K3P17",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillbud",
+        "term": "tillbud",
+        "anchor": "K3P17",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P18",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidenthantering",
+        "term": "incidenthantering",
+        "anchor": "K3P18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P19",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K3P19",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K3P19",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K3P19",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "K3P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K3P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K3P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K3P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K3P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K3P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillbud",
+        "term": "tillbud",
+        "anchor": "K3P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K3P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K3P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P8",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K3P8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K3P8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K3P9",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K3P9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K3P9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K4P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K4P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K4P10",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K4P10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K4P10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K4P11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "K4P12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K4P13",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "K4P13",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K4P16",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K4P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "K4P20",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K4P20",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P20",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K4P20",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillbud",
+        "term": "tillbud",
+        "anchor": "K4P20",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K4P21",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K4P22",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K4P22",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P23",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K4P27",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K4P27",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K4P27",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-process",
+        "term": "IKT-process",
+        "anchor": "K4P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-produkt",
+        "term": "IKT-produkt",
+        "anchor": "K4P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-tjänst",
+        "term": "IKT-tjänst",
+        "anchor": "K4P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K4P30",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P30",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K4P30",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillbud",
+        "term": "tillbud",
+        "anchor": "K4P30",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K4P31",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K4P4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K4P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K4P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K4P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillbud",
+        "term": "tillbud",
+        "anchor": "K4P4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K4P5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K4P5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K4P6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K4P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K4P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "K4P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "K4P9",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "K4P9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elektronisk_kommunikationstjänst",
+        "term": "elektronisk kommunikationstjänst",
+        "anchor": "K5P4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "K6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K6P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "K7P1",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

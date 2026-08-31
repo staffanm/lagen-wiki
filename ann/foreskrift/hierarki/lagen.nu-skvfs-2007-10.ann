@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/skvfs/2007:10",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Beskattningsdatabasen",
+        "term": "beskattningsdatabasen",
+        "anchor": "P2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Underskrift",
+        "term": "underskrift",
+        "anchor": "P2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Beskattningsdatabasen",
+        "term": "beskattningsdatabasen",
+        "anchor": "P3",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/tfs/2015:1",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Högsta_tillåtna_hastigheten_på_en_väg",
+        "term": "högsta tillåtna hastigheten på en väg",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter_om_parkering_i_en_kommun",
+        "term": "lokala trafikföreskrifter om parkering i en kommun",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering",
+        "term": "Stannande och parkering",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering_på_väg",
+        "term": "Stannande och parkering på väg",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillfällig_begränsning_av_den_hastighet_som_annars_är_tillåten",
+        "term": "tillfällig begränsning av den hastighet som annars är tillåten",
+        "anchor": "P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vändningskrav",
+        "term": "vändningskrav",
+        "anchor": "P3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Storlek_och_närmare_utseende_på_vägmärken_och_andra_anordningar_som_anges_i_denna_förordning",
+        "term": "storlek och närmare utseende på vägmärken och andra anordningar som anges i denna förordning",
+        "anchor": "P5",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_symboler_som_får_användas",
+        "term": "vilka symboler som får användas",
+        "anchor": "P5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_symboler_som_får_förekomma",
+        "term": "vilka symboler som får förekomma",
+        "anchor": "P5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning",
+        "term": "viss utrustning",
+        "anchor": "P5",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

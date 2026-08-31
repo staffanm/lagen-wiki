@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T20:51:39+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 13,
+      "prompt_tokens": 26317,
+      "completion_tokens": 30152,
+      "ended": "2026-08-30T20:58:04+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2e5cb293750db305edd57b10de7974918917d89030fb51ad6367abd12ee4dbcf"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1974:211",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Förbud_mot_eller_villkor_för_bortförande_av_levande_bin_m._m._från_ett_område_som_inte_har_förklarats_smittat_eller_misstänkt_för_smitta",
+        "term": "förbud mot eller villkor för bortförande av levande bin m. m. från ett område som inte har förklarats smittat eller misstänkt för smitta",
+        "anchor": "P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bekämpning_av_sjukdomen",
+        "term": "bekämpning av sjukdomen",
+        "anchor": "P3S1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P3S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bin",
+        "term": "Bin",
+        "anchor": "P3S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biodlingsredskap",
+        "term": "Biodlingsredskap",
+        "anchor": "P3S1N4",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

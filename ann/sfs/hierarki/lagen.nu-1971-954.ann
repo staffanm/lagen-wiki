@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1971:954",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_vägar_som_ska_vara_riksvägar",
+        "term": "vilka vägar som ska vara riksvägar",
+        "anchor": "P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "P10S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "P11S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Byggande_av_väg",
+        "term": "byggande av väg",
+        "anchor": "P19S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utredningar",
+        "term": "utredningar",
+        "anchor": "P19S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_vägar_som_ska_vara_riksvägar",
+        "term": "vilka vägar som ska vara riksvägar",
+        "anchor": "P1S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utredningar",
+        "term": "utredningar",
+        "anchor": "P20S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Byggande_av_väg",
+        "term": "byggande av väg",
+        "anchor": "P21S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P21S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utredningar",
+        "term": "utredningar",
+        "anchor": "P21S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P22S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "P22S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utredningar",
+        "term": "utredningar",
+        "anchor": "P22S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utredningar",
+        "term": "utredningar",
+        "anchor": "P22S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Byggande_av_väg",
+        "term": "byggande av väg",
+        "anchor": "P23S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Genomförande_av_förstudie_och_vägutredning",
+        "term": "genomförande av förstudie och vägutredning",
+        "anchor": "P23a",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd_och_miljökonsekvensbeskrivning_i_samband_med_förstudie_och_vägutredning",
+        "term": "samråd och miljökonsekvensbeskrivning i samband med förstudie och vägutredning",
+        "anchor": "P23a",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Genomförande_av_förstudie_och_vägutredning",
+        "term": "genomförande av förstudie och vägutredning",
+        "anchor": "P23aS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "P23aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd_och_miljökonsekvensbeskrivning_i_samband_med_förstudie_och_vägutredning",
+        "term": "samråd och miljökonsekvensbeskrivning i samband med förstudie och vägutredning",
+        "anchor": "P23aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Byggande_av_väg",
+        "term": "byggande av väg",
+        "anchor": "P23bS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P23bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "P23bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P25S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P25S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "P27S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P27S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "P28S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "P28S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "P2S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P30S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljökonsekvensbeskrivning_i_samband_med_arbetsplan",
+        "term": "miljökonsekvensbeskrivning i samband med arbetsplan",
+        "anchor": "P30a",
+        "role": "definierar",
+        "label": "vägrätt eller med sådan nyttjanderätt som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P30aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "P30aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fastighetsägare",
+        "term": "fastighetsägare",
+        "anchor": "P30aS2",
+        "role": "definierar",
+        "label": "vägrätt eller med sådan nyttjanderätt som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P30aS3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "P31S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "P31S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P33S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P36S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P37S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljökonsekvensbeskrivning_i_samband_med_arbetsplan",
+        "term": "miljökonsekvensbeskrivning i samband med arbetsplan",
+        "anchor": "P38",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Upprättande_av_arbetsplaner_och_om_tillägg_till_arbetsplaner",
+        "term": "upprättande av arbetsplaner och om tillägg till arbetsplaner",
+        "anchor": "P38",
+        "role": "definierar",
+        "label": "statens jordbruksverk och lantmäteriet meddela föreskrifter om sådana utredningar som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utredningar",
+        "term": "utredningar",
+        "anchor": "P38",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljökonsekvensbeskrivning_i_samband_med_arbetsplan",
+        "term": "miljökonsekvensbeskrivning i samband med arbetsplan",
+        "anchor": "P38S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "P38S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Upprättande_av_arbetsplaner_och_om_tillägg_till_arbetsplaner",
+        "term": "upprättande av arbetsplaner och om tillägg till arbetsplaner",
+        "anchor": "P38S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "P38S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utredningar",
+        "term": "utredningar",
+        "anchor": "P38S2",
+        "role": "definierar",
+        "label": "statens jordbruksverk och lantmäteriet meddela föreskrifter om sådana utredningar som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P38S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utredningar",
+        "term": "utredningar",
+        "anchor": "P39S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Att_ett_visst_märke_eller_någon_annan_anordning_får_sättas_upp_endast_efter_medgivande_av_styrelsen",
+        "term": "att ett visst märke eller någon annan anordning får sättas upp endast efter medgivande av styrelsen",
+        "anchor": "P4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Byggande_av_väg",
+        "term": "byggande av väg",
+        "anchor": "P40S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utredningar",
+        "term": "utredningar",
+        "anchor": "P40S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fastighetsägare",
+        "term": "fastighetsägare",
+        "anchor": "P44S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utredningar",
+        "term": "utredningar",
+        "anchor": "P44S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "P46S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samråd",
+        "term": "samråd",
+        "anchor": "P46S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P46S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Att_vägmärken_och_andra_anordningar_eller_det_material_som_ingår_i_dem_ska_vara_av_en_sådan_typ_som_godkänts_av_styrelsen_eller_av_en_annan_myndighet",
+        "term": "att vägmärken och andra anordningar eller det material som ingår i dem ska vara av en sådan typ som godkänts av styrelsen eller av en annan myndighet",
+        "anchor": "P5",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P52S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P53S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgifter_för_ärendehandläggning",
+        "term": "avgifter för ärendehandläggning",
+        "anchor": "P56a",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P56aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "P56aS2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Byggande_av_väg",
+        "term": "byggande av väg",
+        "anchor": "R3",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

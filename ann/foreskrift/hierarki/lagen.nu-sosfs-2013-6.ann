@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/sosfs/2013:6",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Produkt",
+        "term": "produkt",
+        "anchor": "K2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Befattningshavare",
+        "term": "befattningshavare",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Befattningshavare_som_svarar_för_verksamheten_Kommentar",
+        "term": "befattningshavare som svarar för verksamheten Kommentar",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kommentar",
+        "term": "Kommentar",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetschef",
+        "term": "verksamhetschef",
+        "anchor": "K2P1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K2P1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K3P3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Produkt",
+        "term": "produkt",
+        "anchor": "K6P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Produkt",
+        "term": "produkt",
+        "anchor": "K6P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetschef",
+        "term": "verksamhetschef",
+        "anchor": "K6P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Produkt",
+        "term": "produkt",
+        "anchor": "K6P6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K6P6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kommentar",
+        "term": "Kommentar",
+        "anchor": "K7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Produkt",
+        "term": "produkt",
+        "anchor": "K7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K7P2",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

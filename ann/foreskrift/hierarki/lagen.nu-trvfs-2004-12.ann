@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/trvfs/2004:12",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "P1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "P1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utryckningsfordon",
+        "term": "utryckningsfordon",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "P2",
+        "role": "detaljerar",
+        "label": null
+      }
+    ]
+  }
+}

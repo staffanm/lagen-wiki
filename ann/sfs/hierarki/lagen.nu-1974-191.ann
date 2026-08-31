@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T20:50:25+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 6,
+      "prompt_tokens": 5835,
+      "completion_tokens": 6465,
+      "ended": "2026-08-30T20:51:39+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d3617e87923d929b62443c0df653f8835ba2615c96d7262a53e099ac24305652"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1974:191",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning_av_väktare",
+        "term": "utbildning av väktare",
+        "anchor": "P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation_och_godkännande",
+        "term": "auktorisation och godkännande",
+        "anchor": "P16S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Villkor_för_de_verksamheter",
+        "term": "villkor för de verksamheter",
+        "anchor": "P16S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bevakningsföretag",
+        "term": "bevakningsföretag",
+        "anchor": "P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Väktare",
+        "term": "väktare",
+        "anchor": "P7S1",
+        "role": "definierar",
+        "label": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/bolfs/2008:1",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Elektronisk_ingivning_av_handlingar",
+        "term": "elektronisk ingivning av handlingar",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elektronisk_underskrift",
+        "term": "elektronisk underskrift",
+        "anchor": "P2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vilka_elektroniska_underskrifter_som_får_användas_för_att_en_handling_ska_få_ges_in_som_elektroniskt_original",
+        "term": "vilka elektroniska underskrifter som får användas för att en handling ska få ges in som elektroniskt original",
+        "anchor": "P2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/En_elektronisk_kopias_överensstämmelse_med_originalet",
+        "term": "en elektronisk kopias överensstämmelse med originalet",
+        "anchor": "P4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Överföras_elektroniskt",
+        "term": "överföras elektroniskt",
+        "anchor": "P5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elektronisk_underskrift",
+        "term": "elektronisk underskrift",
+        "anchor": "P6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Elektronisk_underskrift",
+        "term": "elektronisk underskrift",
+        "anchor": "P8",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

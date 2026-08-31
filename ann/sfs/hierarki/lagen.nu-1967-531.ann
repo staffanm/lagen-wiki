@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-31T09:13:41+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 18,
+      "prompt_tokens": 45434,
+      "completion_tokens": 52233,
+      "ended": "2026-08-31T09:38:02+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "39a65d88598e0bf40f608a28f2786fbbe22bf59fea88df1a457ed657c8d26783"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1967:531",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsplan",
+        "term": "pensionsplan",
+        "anchor": "P10S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/EES",
+        "term": "EES",
+        "anchor": "P10bS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Reglerad_marknad",
+        "term": "reglerad marknad",
+        "anchor": "P10bS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hållbarhetsfaktorer",
+        "term": "hållbarhetsfaktorer",
+        "anchor": "P10bS3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Närstående_part",
+        "term": "närstående part",
+        "anchor": "P10c",
+        "role": "definierar",
+        "label": "en grupp av emittenter eller låntagare med inbördes anknytning"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Närstående_part",
+        "term": "närstående part",
+        "anchor": "P10cS2",
+        "role": "definierar",
+        "label": "en grupp av emittenter eller låntagare med inbördes anknytning"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Reglerad_marknad",
+        "term": "reglerad marknad",
+        "anchor": "P10eS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "P10eS2N4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Röstningsrådgivare",
+        "term": "röstningsrådgivare",
+        "anchor": "P10fS2N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "P10hS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltare",
+        "term": "kapitalförvaltare",
+        "anchor": "P10hS2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Reglerad_marknad",
+        "term": "reglerad marknad",
+        "anchor": "P10iS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Reglerad_marknad",
+        "term": "reglerad marknad",
+        "anchor": "P10jS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltare",
+        "term": "kapitalförvaltare",
+        "anchor": "P10jS1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltare",
+        "term": "kapitalförvaltare",
+        "anchor": "P10jS1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltare",
+        "term": "kapitalförvaltare",
+        "anchor": "P10jS1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltare",
+        "term": "kapitalförvaltare",
+        "anchor": "P10jS1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltare",
+        "term": "kapitalförvaltare",
+        "anchor": "P10jS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsförmåner",
+        "term": "pensionsförmåner",
+        "anchor": "P10nS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsplan",
+        "term": "pensionsplan",
+        "anchor": "P14S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsplan",
+        "term": "pensionsplan",
+        "anchor": "P15S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Gränsöverskridande_verksamhet",
+        "term": "gränsöverskridande verksamhet",
+        "anchor": "P15aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Gränsöverskridande_verksamhet",
+        "term": "gränsöverskridande verksamhet",
+        "anchor": "P15aS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Gränsöverskridande_verksamhet",
+        "term": "gränsöverskridande verksamhet",
+        "anchor": "P15bS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "P15c",
+        "role": "definierar",
+        "label": "anledning av ett sådant meddelande som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "P15cS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "P15cS4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Gränsöverskridande_verksamhet",
+        "term": "gränsöverskridande verksamhet",
+        "anchor": "P15cS4",
+        "role": "definierar",
+        "label": "anledning av ett sådant meddelande som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Gränsöverskridande_verksamhet",
+        "term": "gränsöverskridande verksamhet",
+        "anchor": "P15dS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Uppdragsavtal",
+        "term": "uppdragsavtal",
+        "anchor": "P16kS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Beräkning_av_kapitalvärde",
+        "term": "beräkning av kapitalvärde",
+        "anchor": "P2",
+        "role": "definierar",
+        "label": "upplupen del av utfäst pension"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Personalstiftelse",
+        "term": "personalstiftelse",
+        "anchor": "P27S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Beräkning_av_kapitalvärde",
+        "term": "beräkning av kapitalvärde",
+        "anchor": "P2S2",
+        "role": "definierar",
+        "label": "upplupen del av utfäst pension"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringstekniska_grunder",
+        "term": "försäkringstekniska grunder",
+        "anchor": "P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringstekniska_grunder_för_beräkning_av_kapitalvärde",
+        "term": "försäkringstekniska grunder för beräkning av kapitalvärde",
+        "anchor": "P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Beräkning_av_kapitalvärde",
+        "term": "beräkning av kapitalvärde",
+        "anchor": "P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringstekniska_grunder",
+        "term": "försäkringstekniska grunder",
+        "anchor": "P3S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Allmän_pensionsplan",
+        "term": "allmän pensionsplan",
+        "anchor": "P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsplan",
+        "term": "pensionsplan",
+        "anchor": "P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Reglerad_marknad",
+        "term": "reglerad marknad",
+        "anchor": "P4aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsplan",
+        "term": "pensionsplan",
+        "anchor": "P5S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsplan",
+        "term": "pensionsplan",
+        "anchor": "P5S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Arbetsgivares_pensionsreserv",
+        "term": "arbetsgivares pensionsreserv",
+        "anchor": "P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsplan",
+        "term": "pensionsplan",
+        "anchor": "P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsplan",
+        "term": "pensionsplan",
+        "anchor": "P7S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsstiftelse",
+        "term": "pensionsstiftelse",
+        "anchor": "P9S1",
+        "role": "definierar",
+        "label": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-29",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/pmfs/2021:6",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_informationen_ska_innehålla",
+        "term": "vad informationen ska innehålla",
+        "anchor": "P2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Den_information_som_ska_lämnas",
+        "term": "den information som ska lämnas",
+        "anchor": "P3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_information_om_förenklad_delgivning_ska_innehålla",
+        "term": "vad information om förenklad delgivning ska innehålla",
+        "anchor": "P3",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

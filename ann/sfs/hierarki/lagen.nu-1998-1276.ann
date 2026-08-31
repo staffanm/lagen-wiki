@@ -1,0 +1,3492 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1998:1276",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K10P13S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "K10P13S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P13S1N3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utmärkningsskyldigheten",
+        "term": "utmärkningsskyldigheten",
+        "anchor": "K10P13a",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K10P13aS1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K10P13aS1N3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K10P13aS1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K10P13aS1N5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K10P13aS1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K10P13aS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K10P13aS2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utmärkningsskyldigheten",
+        "term": "utmärkningsskyldigheten",
+        "anchor": "K10P13aS2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K10P13aS3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K10P13aS3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Särskilda_trafikregler_för_en_väg_eller_en_viss_vägsträcka",
+        "term": "särskilda trafikregler för en väg eller en viss vägsträcka",
+        "anchor": "K10P14",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillfällig_begränsning_av_den_hastighet_som_annars_är_tillåten",
+        "term": "tillfällig begränsning av den hastighet som annars är tillåten",
+        "anchor": "K10P14",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Särskilda_trafikregler_för_en_väg_eller_en_viss_vägsträcka",
+        "term": "särskilda trafikregler för en väg eller en viss vägsträcka",
+        "anchor": "K10P14S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K10P14S1N7",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K10P14S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillfällig_begränsning_av_den_hastighet_som_annars_är_tillåten",
+        "term": "tillfällig begränsning av den hastighet som annars är tillåten",
+        "anchor": "K10P14S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "K10P15S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K10P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P1S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K10P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K10P1S2N14",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K10P1S2N15",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K10P1S2N18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K10P1S2N3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sträcka",
+        "term": "sträcka",
+        "anchor": "K10P1S2N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P1S3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K10P1S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K10P2S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P2S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P2S3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P2S4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P2aS1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K10P2aS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P3S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K10P3S1N1Na",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K10P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P5S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K10P5S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P6S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K10P6S2N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K10P6S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K10P8S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K10P9aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K11P10aS2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utryckningsfordon",
+        "term": "utryckningsfordon",
+        "anchor": "K11P11S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K11P11S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utryckningsfordon",
+        "term": "utryckningsfordon",
+        "anchor": "K11P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K11P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K11P1S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K11P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K11P1S2N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K11P3S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K11P3S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utryckningsfordon",
+        "term": "utryckningsfordon",
+        "anchor": "K11P4S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K11P4S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förtur_till_överfart_med_färja",
+        "term": "förtur till överfart med färja",
+        "anchor": "K11P7",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K11P7S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förtur_till_överfart_med_färja",
+        "term": "förtur till överfart med färja",
+        "anchor": "K11P7S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K11P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K11P8S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K11P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K11P9S1N10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K11P9S1N11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K11P9S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K12P1S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K12P1S1N4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgifter_för_ärendehandläggning",
+        "term": "avgifter för ärendehandläggning",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Belysning_vid_färd_på_väg",
+        "term": "Belysning vid färd på väg",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordons_plats_på_väg",
+        "term": "Fordons plats på väg",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet_på_väg_med_vissa_motordrivna_fordon_och_fordonskombinationer",
+        "term": "hastighet på väg med vissa motordrivna fordon och fordonskombinationer",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_parkeringstillstånd_för_rörelsehindrade_skall_användas",
+        "term": "hur parkeringstillstånd för rörelsehindrade skall användas",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_sådana_tillstånd_utfärdade_i_något_annat_land_skall_gälla_här_i_riket",
+        "term": "hur sådana tillstånd utfärdade i något annat land skall gälla här i riket",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Information_och_dokumentation_om_en_containers_eller_ett_växelflaks_vikt",
+        "term": "information och dokumentation om en containers eller ett växelflaks vikt",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_dokumentation_vid_lastsäkring",
+        "term": "krav på dokumentation vid lastsäkring",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_egenskaper_hos_lastsäkringsutrustning",
+        "term": "krav på egenskaper hos lastsäkringsutrustning",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_säkring_av_last_på_fordon_under_färd",
+        "term": "krav på säkring av last på fordon under färd",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering",
+        "term": "Stannande och parkering",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering_på_väg",
+        "term": "Stannande och parkering på väg",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_med_motordrivna_fordon_på_väg",
+        "term": "Trafik med motordrivna fordon på väg",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_med_terrängmotorfordon_och_terrängsläp_på_väg",
+        "term": "trafik med terrängmotorfordon och terrängsläp på väg",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_på_gågata_och_i_gångfartsområde_m.m.",
+        "term": "trafik på gågata och i gångfartsområde m.m.",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_på_motorväg_och_motortrafikled",
+        "term": "trafik på motorväg och motortrafikled",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafikövervakning_på_motorvägar_och_motortrafikleder",
+        "term": "trafikövervakning på motorvägar och motortrafikleder",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tävling_eller_träning_för_tävling",
+        "term": "Tävling eller träning för tävling",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utformningen_av_parkeringstillstånd_för_rörelsehindrade",
+        "term": "utformningen av parkeringstillstånd för rörelsehindrade",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vägtunnlar",
+        "term": "vägtunnlar",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Värden_som_får_användas_i_lokala_trafikföreskrifter_om_högsta_tillåtna_hastighet",
+        "term": "värden som får användas i lokala trafikföreskrifter om högsta tillåtna hastighet",
+        "anchor": "K13",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P10S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P10aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P10aS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgifter_för_ärendehandläggning",
+        "term": "avgifter för ärendehandläggning",
+        "anchor": "K13P12S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "K13P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K13P1S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K13P1S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K13P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K13P2S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Belysning_vid_färd_på_väg",
+        "term": "Belysning vid färd på väg",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordons_plats_på_väg",
+        "term": "Fordons plats på väg",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet_på_väg_med_vissa_motordrivna_fordon_och_fordonskombinationer",
+        "term": "hastighet på väg med vissa motordrivna fordon och fordonskombinationer",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering",
+        "term": "Stannande och parkering",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering_på_väg",
+        "term": "Stannande och parkering på väg",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_med_motordrivna_fordon_på_väg",
+        "term": "Trafik med motordrivna fordon på väg",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_med_terrängmotorfordon_och_terrängsläp_på_väg",
+        "term": "trafik med terrängmotorfordon och terrängsläp på väg",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_på_gågata_och_i_gångfartsområde_m.m.",
+        "term": "trafik på gågata och i gångfartsområde m.m.",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_på_motorväg_och_motortrafikled",
+        "term": "trafik på motorväg och motortrafikled",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tävling_eller_träning_för_tävling",
+        "term": "Tävling eller träning för tävling",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vägtunnlar",
+        "term": "vägtunnlar",
+        "anchor": "K13P3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Belysning_vid_färd_på_väg",
+        "term": "Belysning vid färd på väg",
+        "anchor": "K13P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordons_plats_på_väg",
+        "term": "Fordons plats på väg",
+        "anchor": "K13P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K13P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering",
+        "term": "Stannande och parkering",
+        "anchor": "K13P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering_på_väg",
+        "term": "Stannande och parkering på väg",
+        "anchor": "K13P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_med_motordrivna_fordon_på_väg",
+        "term": "Trafik med motordrivna fordon på väg",
+        "anchor": "K13P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tävling_eller_träning_för_tävling",
+        "term": "Tävling eller träning för tävling",
+        "anchor": "K13P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vägtunnlar",
+        "term": "vägtunnlar",
+        "anchor": "K13P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K13P3S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet_på_väg_med_vissa_motordrivna_fordon_och_fordonskombinationer",
+        "term": "hastighet på väg med vissa motordrivna fordon och fordonskombinationer",
+        "anchor": "K13P3S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K13P3S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K13P3S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_med_terrängmotorfordon_och_terrängsläp_på_väg",
+        "term": "trafik med terrängmotorfordon och terrängsläp på väg",
+        "anchor": "K13P3S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_på_motorväg_och_motortrafikled",
+        "term": "trafik på motorväg och motortrafikled",
+        "anchor": "K13P3S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K13P3S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P3S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P3S4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K13P3S4N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K13P3S5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P3S5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K13P3S6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K13P3S6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P3S6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K13P3S7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering",
+        "term": "Stannande och parkering",
+        "anchor": "K13P3S7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P3S7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lastens_längd_eller_bredd",
+        "term": "lastens längd eller bredd",
+        "anchor": "K13P4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter_om_parkering_i_en_kommun",
+        "term": "lokala trafikföreskrifter om parkering i en kommun",
+        "anchor": "K13P4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tävling_och_träning_på_en_väg",
+        "term": "tävling och träning på en väg",
+        "anchor": "K13P4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P4S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K13P4S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter_om_parkering_i_en_kommun",
+        "term": "lokala trafikföreskrifter om parkering i en kommun",
+        "anchor": "K13P4S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P4S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tävling_och_träning_på_en_väg",
+        "term": "tävling och träning på en väg",
+        "anchor": "K13P4S3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P4S3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lastens_längd_eller_bredd",
+        "term": "lastens längd eller bredd",
+        "anchor": "K13P4S4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P4S4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P5S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K13P5S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P5S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Information_och_dokumentation_om_en_containers_eller_ett_växelflaks_vikt",
+        "term": "information och dokumentation om en containers eller ett växelflaks vikt",
+        "anchor": "K13P7",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_dokumentation_vid_lastsäkring",
+        "term": "krav på dokumentation vid lastsäkring",
+        "anchor": "K13P7",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_egenskaper_hos_lastsäkringsutrustning",
+        "term": "krav på egenskaper hos lastsäkringsutrustning",
+        "anchor": "K13P7",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_säkring_av_last_på_fordon_under_färd",
+        "term": "krav på säkring av last på fordon under färd",
+        "anchor": "K13P7",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafikövervakning_på_motorvägar_och_motortrafikleder",
+        "term": "trafikövervakning på motorvägar och motortrafikleder",
+        "anchor": "K13P7",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K13P7",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Värden_som_får_användas_i_lokala_trafikföreskrifter_om_högsta_tillåtna_hastighet",
+        "term": "värden som får användas i lokala trafikföreskrifter om högsta tillåtna hastighet",
+        "anchor": "K13P7",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafikövervakning_på_motorvägar_och_motortrafikleder",
+        "term": "trafikövervakning på motorvägar och motortrafikleder",
+        "anchor": "K13P7S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_dokumentation_vid_lastsäkring",
+        "term": "krav på dokumentation vid lastsäkring",
+        "anchor": "K13P7S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_egenskaper_hos_lastsäkringsutrustning",
+        "term": "krav på egenskaper hos lastsäkringsutrustning",
+        "anchor": "K13P7S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_säkring_av_last_på_fordon_under_färd",
+        "term": "krav på säkring av last på fordon under färd",
+        "anchor": "K13P7S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning",
+        "term": "viss utrustning",
+        "anchor": "K13P7S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Värden_som_får_användas_i_lokala_trafikföreskrifter_om_högsta_tillåtna_hastighet",
+        "term": "värden som får användas i lokala trafikföreskrifter om högsta tillåtna hastighet",
+        "anchor": "K13P7S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Övriga_frågor_i_denna_förordning",
+        "term": "övriga frågor i denna förordning",
+        "anchor": "K13P7S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K13P7S2N1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning",
+        "term": "viss utrustning",
+        "anchor": "K13P7S2N1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K13P7S2N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K13P7S2N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Värden_som_får_användas_i_lokala_trafikföreskrifter_om_högsta_tillåtna_hastighet",
+        "term": "värden som får användas i lokala trafikföreskrifter om högsta tillåtna hastighet",
+        "anchor": "K13P7S2N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_säkring_av_last_på_fordon_under_färd",
+        "term": "krav på säkring av last på fordon under färd",
+        "anchor": "K13P7S2N3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_egenskaper_hos_lastsäkringsutrustning",
+        "term": "krav på egenskaper hos lastsäkringsutrustning",
+        "anchor": "K13P7S2N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_dokumentation_vid_lastsäkring",
+        "term": "krav på dokumentation vid lastsäkring",
+        "anchor": "K13P7S2N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Information_och_dokumentation_om_en_containers_eller_ett_växelflaks_vikt",
+        "term": "information och dokumentation om en containers eller ett växelflaks vikt",
+        "anchor": "K13P7S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K13P8S2N3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_parkeringstillstånd_för_rörelsehindrade_skall_användas",
+        "term": "hur parkeringstillstånd för rörelsehindrade skall användas",
+        "anchor": "K13P9S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_sådana_tillstånd_utfärdade_i_något_annat_land_skall_gälla_här_i_riket",
+        "term": "hur sådana tillstånd utfärdade i något annat land skall gälla här i riket",
+        "anchor": "K13P9S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utformningen_av_parkeringstillstånd_för_rörelsehindrade",
+        "term": "utformningen av parkeringstillstånd för rörelsehindrade",
+        "anchor": "K13P9S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K13R4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "K14P14S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K14P14S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K14P14S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K14P14S3N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utmärkningsskyldigheten",
+        "term": "utmärkningsskyldigheten",
+        "anchor": "K14P14S3N1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K14P3S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K14P6S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K14P7S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K14P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K15P2S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K15P2S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K1P1S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K1P3S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K1P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K1P4S2N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K1P4S2N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K1P5S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K1P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utryckningsfordon",
+        "term": "utryckningsfordon",
+        "anchor": "K1P6S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utryckningsfordon",
+        "term": "utryckningsfordon",
+        "anchor": "K1P6S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K1P6S3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K2P1S4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utryckningsfordon",
+        "term": "utryckningsfordon",
+        "anchor": "K2P5S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K2P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utredningar",
+        "term": "utredningar",
+        "anchor": "K2P8S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K2P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K2P9S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K2P9S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K3P11S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P12S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K3P12S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P12S4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P12aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K3P13S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K3P13S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P14S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P15S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P16S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P17S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P17S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bashastighet",
+        "term": "bashastighet",
+        "anchor": "K3P17S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P17S3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P17S4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Högsta_tillåtna_hastigheten_på_en_väg",
+        "term": "högsta tillåtna hastigheten på en väg",
+        "anchor": "K3P17S4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P17S5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P18S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K3P19S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P23S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P28S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P31S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sträcka",
+        "term": "sträcka",
+        "anchor": "K3P36S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P38S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K3P3S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P41S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P42S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Placering_i_sidled",
+        "term": "placering i sidled",
+        "anchor": "K3P43S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P43S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P44S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P45S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K3P48S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K3P50S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "K3P53S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K3P55S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K3P55S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P57S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P57S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P5S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P60S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P61S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P61S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Körriktningsvisare",
+        "term": "körriktningsvisare",
+        "anchor": "K3P65S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Placering_i_sidled",
+        "term": "placering i sidled",
+        "anchor": "K3P65S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sträcka",
+        "term": "sträcka",
+        "anchor": "K3P65S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stopplykta",
+        "term": "stopplykta",
+        "anchor": "K3P65S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strålkastare",
+        "term": "Strålkastare",
+        "anchor": "K3P67S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strålkastare",
+        "term": "Strålkastare",
+        "anchor": "K3P68S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P68S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strålkastare",
+        "term": "Strålkastare",
+        "anchor": "K3P68S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strålkastare",
+        "term": "Strålkastare",
+        "anchor": "K3P68S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P6S2N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P70S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sträcka",
+        "term": "sträcka",
+        "anchor": "K3P70S2N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta",
+        "term": "lykta",
+        "anchor": "K3P73S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strålkastare",
+        "term": "Strålkastare",
+        "anchor": "K3P73S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strålkastare",
+        "term": "Strålkastare",
+        "anchor": "K3P74S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P74S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta_som_avger_orangegult_ljus_och_som_är_särskilt_anordnad_som_varningsanordning",
+        "term": "lykta som avger orangegult ljus och som är särskilt anordnad som varningsanordning",
+        "anchor": "K3P76",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta",
+        "term": "lykta",
+        "anchor": "K3P76S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strålkastare",
+        "term": "Strålkastare",
+        "anchor": "K3P76S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Körriktningsvisare",
+        "term": "körriktningsvisare",
+        "anchor": "K3P76S3N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nödstoppssignal",
+        "term": "nödstoppssignal",
+        "anchor": "K3P76S3N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stopplykta",
+        "term": "stopplykta",
+        "anchor": "K3P76S3N4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta",
+        "term": "lykta",
+        "anchor": "K3P76S3N5",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta_som_avger_orangegult_ljus_och_som_är_särskilt_anordnad_som_varningsanordning",
+        "term": "lykta som avger orangegult ljus och som är särskilt anordnad som varningsanordning",
+        "anchor": "K3P76S3N5",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P77S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strålkastare",
+        "term": "Strålkastare",
+        "anchor": "K3P77S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P77S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P77S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strålkastare",
+        "term": "Strålkastare",
+        "anchor": "K3P77S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utryckningsfordon",
+        "term": "utryckningsfordon",
+        "anchor": "K3P77aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Strålkastare",
+        "term": "Strålkastare",
+        "anchor": "K3P78S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P7S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3P7S4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K3P81S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K3P82S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta",
+        "term": "lykta",
+        "anchor": "K3P82S2N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta",
+        "term": "lykta",
+        "anchor": "K3P82S2N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P82S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P83S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K3P83S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta",
+        "term": "lykta",
+        "anchor": "K3P83S2N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P83S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Reflexanordning",
+        "term": "reflexanordning",
+        "anchor": "K3P83S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vägtunnlar",
+        "term": "vägtunnlar",
+        "anchor": "K3P83S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vägtunnlar",
+        "term": "vägtunnlar",
+        "anchor": "K3P83aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P83aS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K3P83aS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vägtunnlar",
+        "term": "vägtunnlar",
+        "anchor": "K3P83aS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K3P83bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K3P83cS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Led",
+        "term": "led",
+        "anchor": "K3P83dS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Transport_av_farligt_gods",
+        "term": "transport av farligt gods",
+        "anchor": "K3P83eS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K3P83eS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P8S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K3P9S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering",
+        "term": "Stannande och parkering",
+        "anchor": "K3R10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering_på_väg",
+        "term": "Stannande och parkering på väg",
+        "anchor": "K3R10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Belysning_vid_färd_på_väg",
+        "term": "Belysning vid färd på väg",
+        "anchor": "K3R14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utryckningsfordon",
+        "term": "utryckningsfordon",
+        "anchor": "K3R16",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordons_plats_på_väg",
+        "term": "Fordons plats på väg",
+        "anchor": "K3R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K3R3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stannande_och_parkering",
+        "term": "Stannande och parkering",
+        "anchor": "K3R9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/En_allmän_väg_eller_del_av_en_sådan_väg_ska_tillhöra_bärighetsklass_2,_3_eller_4",
+        "term": "en allmän väg eller del av en sådan väg ska tillhöra bärighetsklass 2, 3 eller 4",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon_eller_fordonståg_som_transporterar_odelbar_last_får_föras_på_vägar_som_inte_är_enskilda",
+        "term": "fordon eller fordonståg som transporterar odelbar last får föras på vägar som inte är enskilda",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förandet_av_fordon_eller_fordonståg_på_väg_med_bärighetsklass_4",
+        "term": "förandet av fordon eller fordonståg på väg med bärighetsklass 4",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informeras_om_skyldigheten_att_använda_bilbälte",
+        "term": "informeras om skyldigheten att använda bilbälte",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_konstruktion_och_utrustning",
+        "term": "krav på konstruktion och utrustning",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Låsningsfria_bromsar_och_kopplingsanordningar",
+        "term": "låsningsfria bromsar och kopplingsanordningar",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Någon_annan_väg_som_inte_är_enskild_eller_en_del_av_en_sådan_väg_ska_tillhöra_bärighetsklass_1,_3_eller_4",
+        "term": "någon annan väg som inte är enskild eller en del av en sådan väg ska tillhöra bärighetsklass 1, 3 eller 4",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_de_villkor",
+        "term": "undantag från de villkor",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kravet_att_använda_skyddshjälm",
+        "term": "undantag från kravet att använda skyddshjälm",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning_inte_ska_räknas_in_i_fordonsbredden",
+        "term": "viss utrustning inte ska räknas in i fordonsbredden",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning_inte_ska_räknas_in_i_fordonslängden",
+        "term": "viss utrustning inte ska räknas in i fordonslängden",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vändningskrav",
+        "term": "vändningskrav",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ytterligare_undantag_från_kravet_att_använda_bilbälte_och_särskild_skyddsanordning",
+        "term": "ytterligare undantag från kravet att använda bilbälte och särskild skyddsanordning",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ytterligare_villkor_för_förandet",
+        "term": "ytterligare villkor för förandet",
+        "anchor": "K4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fyrhjulig_motorcykel",
+        "term": "fyrhjulig motorcykel",
+        "anchor": "K4P10S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informeras_om_skyldigheten_att_använda_bilbälte",
+        "term": "informeras om skyldigheten att använda bilbälte",
+        "anchor": "K4P10aS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anordning",
+        "term": "anordning",
+        "anchor": "K4P10bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ytterligare_undantag_från_kravet_att_använda_bilbälte_och_särskild_skyddsanordning",
+        "term": "ytterligare undantag från kravet att använda bilbälte och särskild skyddsanordning",
+        "anchor": "K4P10d",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K4P10dS2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ytterligare_undantag_från_kravet_att_använda_bilbälte_och_särskild_skyddsanordning",
+        "term": "ytterligare undantag från kravet att använda bilbälte och särskild skyddsanordning",
+        "anchor": "K4P10dS2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P10eS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/En_allmän_väg_eller_del_av_en_sådan_väg_ska_tillhöra_bärighetsklass_2,_3_eller_4",
+        "term": "en allmän väg eller del av en sådan väg ska tillhöra bärighetsklass 2, 3 eller 4",
+        "anchor": "K4P11",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förandet_av_fordon_eller_fordonståg_på_väg_med_bärighetsklass_4",
+        "term": "förandet av fordon eller fordonståg på väg med bärighetsklass 4",
+        "anchor": "K4P11",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Någon_annan_väg_som_inte_är_enskild_eller_en_del_av_en_sådan_väg_ska_tillhöra_bärighetsklass_1,_3_eller_4",
+        "term": "någon annan väg som inte är enskild eller en del av en sådan väg ska tillhöra bärighetsklass 1, 3 eller 4",
+        "anchor": "K4P11",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/BK2",
+        "term": "BK2",
+        "anchor": "K4P11S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "K4P11S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/En_allmän_väg_eller_del_av_en_sådan_väg_ska_tillhöra_bärighetsklass_2,_3_eller_4",
+        "term": "en allmän väg eller del av en sådan väg ska tillhöra bärighetsklass 2, 3 eller 4",
+        "anchor": "K4P11S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Någon_annan_väg_som_inte_är_enskild_eller_en_del_av_en_sådan_väg_ska_tillhöra_bärighetsklass_1,_3_eller_4",
+        "term": "någon annan väg som inte är enskild eller en del av en sådan väg ska tillhöra bärighetsklass 1, 3 eller 4",
+        "anchor": "K4P11S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "K4P11S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förandet_av_fordon_eller_fordonståg_på_väg_med_bärighetsklass_4",
+        "term": "förandet av fordon eller fordonståg på väg med bärighetsklass 4",
+        "anchor": "K4P11S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ytterligare_villkor_för_förandet",
+        "term": "ytterligare villkor för förandet",
+        "anchor": "K4P12",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "K4P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P12S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ytterligare_villkor_för_förandet",
+        "term": "ytterligare villkor för förandet",
+        "anchor": "K4P12S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P12S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P12S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P13S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P13S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P13S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P13S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "K4P14S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P14S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K4P14S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P14S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon_eller_fordonståg_som_transporterar_odelbar_last_får_föras_på_vägar_som_inte_är_enskilda",
+        "term": "fordon eller fordonståg som transporterar odelbar last får föras på vägar som inte är enskilda",
+        "anchor": "K4P15",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P15S2N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P15S2N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon_eller_fordonståg_som_transporterar_odelbar_last_får_föras_på_vägar_som_inte_är_enskilda",
+        "term": "fordon eller fordonståg som transporterar odelbar last får föras på vägar som inte är enskilda",
+        "anchor": "K4P15S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Färd_får_ske_med_avvikelse_från_bestämmelserna",
+        "term": "färd får ske med avvikelse från bestämmelserna",
+        "anchor": "K4P15S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P15S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tvåhjulig_motorcykel",
+        "term": "tvåhjulig motorcykel",
+        "anchor": "K4P15aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fyrhjulig_motorcykel",
+        "term": "fyrhjulig motorcykel",
+        "anchor": "K4P15aS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning_inte_ska_räknas_in_i_fordonsbredden",
+        "term": "viss utrustning inte ska räknas in i fordonsbredden",
+        "anchor": "K4P16",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P16S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P16S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning",
+        "term": "viss utrustning",
+        "anchor": "K4P16S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning_inte_ska_räknas_in_i_fordonsbredden",
+        "term": "viss utrustning inte ska räknas in i fordonsbredden",
+        "anchor": "K4P16S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Låsningsfria_bromsar_och_kopplingsanordningar",
+        "term": "låsningsfria bromsar och kopplingsanordningar",
+        "anchor": "K4P17",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vändningskrav",
+        "term": "vändningskrav",
+        "anchor": "K4P17",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Låsningsfria_bromsar_och_kopplingsanordningar",
+        "term": "låsningsfria bromsar och kopplingsanordningar",
+        "anchor": "K4P17S1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P17S1N11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vändningskrav",
+        "term": "vändningskrav",
+        "anchor": "K4P17S1N11",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vändningskrav",
+        "term": "vändningskrav",
+        "anchor": "K4P17a",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P17aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vändningskrav",
+        "term": "vändningskrav",
+        "anchor": "K4P17aS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Färd_får_ske_med_avvikelse_från_bestämmelserna",
+        "term": "färd får ske med avvikelse från bestämmelserna",
+        "anchor": "K4P17b",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P17bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Färd_får_ske_med_avvikelse_från_bestämmelserna",
+        "term": "färd får ske med avvikelse från bestämmelserna",
+        "anchor": "K4P17bS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P17bS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning_inte_ska_räknas_in_i_fordonslängden",
+        "term": "viss utrustning inte ska räknas in i fordonslängden",
+        "anchor": "K4P17c",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P17cS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P17cS2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning",
+        "term": "viss utrustning",
+        "anchor": "K4P17cS2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning_inte_ska_räknas_in_i_fordonslängden",
+        "term": "viss utrustning inte ska räknas in i fordonslängden",
+        "anchor": "K4P17cS2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P17dS2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P17eS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P17eS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K4P17eS2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_de_villkor",
+        "term": "undantag från de villkor",
+        "anchor": "K4P17eS2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_konstruktion_och_utrustning",
+        "term": "krav på konstruktion och utrustning",
+        "anchor": "K4P17f",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P17fS1N8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_konstruktion_och_utrustning",
+        "term": "krav på konstruktion och utrustning",
+        "anchor": "K4P17fS1N8",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P17fS1N8",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P18S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P18aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P18bS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P18eS1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tvåhjulig_motorcykel",
+        "term": "tvåhjulig motorcykel",
+        "anchor": "K4P19S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ett_motorredskap_klass_I_och_en_traktor_b_får_föras_med_högre_hastighet_än_50_kilometer_i_timmen",
+        "term": "ett motorredskap klass I och en traktor b får föras med högre hastighet än 50 kilometer i timmen",
+        "anchor": "K4P20",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K4P20S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K4P20S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tagits_i_bruk",
+        "term": "tagits i bruk",
+        "anchor": "K4P20S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K4P20S5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K4P20S6N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ett_motorredskap_klass_I_och_en_traktor_b_får_föras_med_högre_hastighet_än_50_kilometer_i_timmen",
+        "term": "ett motorredskap klass I och en traktor b får föras med högre hastighet än 50 kilometer i timmen",
+        "anchor": "K4P20S6N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K4P20S6N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K4P20aS1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_konstruktion_och_utrustning",
+        "term": "krav på konstruktion och utrustning",
+        "anchor": "K4P20aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "K4P20aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K4P21S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P22S1N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P22S1N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P22S1N3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P22aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P22aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P22bS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P22bS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P22bS3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P22cS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P22cS1Nc",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P22cS1Nd",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P22dS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P22dS1Nc",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K4P23S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P23S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P23S1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P23S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P23S1N2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P23S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P23S1N3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P23S1N4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P23S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P23S1N5",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P23S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P23S1N6",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P23S1N7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P23S1N7",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P23S1N8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P23S1N8",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P23S1N9",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P24S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K4P24S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4P24aS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K4P24aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P2S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Högsta_vikt",
+        "term": "Högsta vikt",
+        "anchor": "K4P4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K4P6cS1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K4P7S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K4P8S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fyrhjulig_motorcykel",
+        "term": "fyrhjulig motorcykel",
+        "anchor": "K4P9S2N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K4P9S2N6",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "K4P9S4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kravet_att_använda_skyddshjälm",
+        "term": "undantag från kravet att använda skyddshjälm",
+        "anchor": "K4P9S4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_med_motordrivna_fordon_på_väg",
+        "term": "Trafik med motordrivna fordon på väg",
+        "anchor": "K4R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K4R3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet_på_väg_med_vissa_motordrivna_fordon_och_fordonskombinationer",
+        "term": "hastighet på väg med vissa motordrivna fordon och fordonskombinationer",
+        "anchor": "K4R3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Miljözoner",
+        "term": "miljözoner",
+        "anchor": "K4R4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_med_terrängmotorfordon_och_terrängsläp_på_väg",
+        "term": "trafik med terrängmotorfordon och terrängsläp på väg",
+        "anchor": "K5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K5P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sträcka",
+        "term": "sträcka",
+        "anchor": "K5P2S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K5P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K6P1S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K6P4bS1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K6P6S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K6P6S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K7P1S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K7P1S4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "K7P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K7P4S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Lykta",
+        "term": "lykta",
+        "anchor": "K7P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K8P1S1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K8P1aS1N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K8P1aS1N4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trafik_på_motorväg_och_motortrafikled",
+        "term": "trafik på motorväg och motortrafikled",
+        "anchor": "K9",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Den_högsta_tillåtna_hastigheten_på_en_motorväg_ska_vara_120_kilometer_i_timmen",
+        "term": "den högsta tillåtna hastigheten på en motorväg ska vara 120 kilometer i timmen",
+        "anchor": "K9P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K9P1S1N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K9P1S1N6",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Den_högsta_tillåtna_hastigheten_på_en_motorväg_ska_vara_120_kilometer_i_timmen",
+        "term": "den högsta tillåtna hastigheten på en motorväg ska vara 120 kilometer i timmen",
+        "anchor": "K9P1S3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "K9P1S3",
+        "role": "delegerar",
+        "label": null
+      }
+    ]
+  }
+}

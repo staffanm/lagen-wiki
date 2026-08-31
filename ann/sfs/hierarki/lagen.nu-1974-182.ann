@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T20:49:23+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 5,
+      "prompt_tokens": 4905,
+      "completion_tokens": 4868,
+      "ended": "2026-08-30T20:50:25+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7eaba245c696cd3b52e2ae468d70cf817f684c4b53736cc070a0c6f80b39bd06"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1974:182",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Inkassoverksamhet",
+        "term": "inkassoverksamhet",
+        "anchor": "P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/God_inkassosed",
+        "term": "god inkassosed",
+        "anchor": "P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/God_inkassosed",
+        "term": "god inkassosed",
+        "anchor": "P4S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillstånd_för_viss_inkassoverksamhet",
+        "term": "Tillstånd för viss inkassoverksamhet",
+        "anchor": "R2",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

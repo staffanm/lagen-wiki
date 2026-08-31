@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T20:58:04+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 6,
+      "prompt_tokens": 4860,
+      "completion_tokens": 5618,
+      "ended": "2026-08-30T20:59:09+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1ef06d23ab3bb3faf122905dc178f72183ba842d823ab844fd4a8c7238074d21"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1975:1313",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Naturvårdsvakt",
+        "term": "naturvårdsvakt",
+        "anchor": "P3aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Naturvårdsvakt",
+        "term": "naturvårdsvakt",
+        "anchor": "P3aS2",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

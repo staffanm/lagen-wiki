@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/lmfs/2018:1",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Ansökan_om_lantmäteriförrättning",
+        "term": "ansökan om lantmäteriförrättning",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ansökningar,_anmälningar_eller_handlingar",
+        "term": "ansökningar, anmälningar eller handlingar",
+        "anchor": "P2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad",
+        "term": "Vad",
+        "anchor": "P2",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

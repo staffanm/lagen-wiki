@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/sosfs/2002:11",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K1P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/HSLF-FS",
+        "term": "HSLF-FS",
+        "anchor": "K1P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Organ",
+        "term": "organ",
+        "anchor": "K1P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K1P4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spårbarhet",
+        "term": "spårbarhet",
+        "anchor": "K2P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K2P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K3P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillvaratagande",
+        "term": "tillvaratagande",
+        "anchor": "K4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K4P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/HSLF-FS",
+        "term": "HSLF-FS",
+        "anchor": "K5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K5P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spårbarhet",
+        "term": "spårbarhet",
+        "anchor": "K5P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ansökningsförfarandet",
+        "term": "ansökningsförfarandet",
+        "anchor": "K6P1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdgivare",
+        "term": "vårdgivare",
+        "anchor": "K6P1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mottagare",
+        "term": "mottagare",
+        "anchor": "K6P5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_det",
+        "term": "undantag från det",
+        "anchor": "K7P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_föreskriften",
+        "term": "undantag från föreskriften",
+        "anchor": "K7P2",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

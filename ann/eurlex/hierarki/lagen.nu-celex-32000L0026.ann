@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/celex/32000L0026",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Användning_av_ett_fordon",
+        "term": "användning av ett fordon",
+        "anchor": "1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nationell_försäkringsbyrå",
+        "term": "nationell försäkringsbyrå",
+        "anchor": "1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringsföretag",
+        "term": "försäkringsföretag",
+        "anchor": "2.a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Etableringsställe",
+        "term": "etableringsställe",
+        "anchor": "2.b",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "2.c",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadelidande",
+        "term": "skadelidande",
+        "anchor": "2.d",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Den_medlemsstat_där_fordonet_är_normalt_hemmahörande",
+        "term": "den medlemsstat där fordonet är normalt hemmahörande",
+        "anchor": "2.e",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grönt_kort",
+        "term": "grönt kort",
+        "anchor": "5",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T13:43:27+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 24,
+      "prompt_tokens": 30525,
+      "completion_tokens": 51672,
+      "ended": "2026-08-30T13:53:12+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f4d8f1cc19f90d88de80c0bcc0b51c975e7923ce61c8df6a1b174827cabdea26"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1971:437",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Renskötande_medlem_i_sameby",
+        "term": "renskötande medlem i sameby",
+        "anchor": "P13S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Same",
+        "term": "same",
+        "anchor": "P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Renskötselrätten",
+        "term": "renskötselrätten",
+        "anchor": "P1S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P21S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P21S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P28S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P28S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P29S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Upplåtelser_på_statens_mark_ovanför_odlingsgränsen_och_på_renbetesfjällen",
+        "term": "upplåtelser på statens mark ovanför odlingsgränsen och på renbetesfjällen",
+        "anchor": "P32",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P34S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skötesrenar",
+        "term": "skötesrenar",
+        "anchor": "P36S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kronomark",
+        "term": "kronomark",
+        "anchor": "P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Renskötselområdet",
+        "term": "renskötselområdet",
+        "anchor": "P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Renbetesland",
+        "term": "renbetesland",
+        "anchor": "P3S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P47S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bidraget",
+        "term": "bidraget",
+        "anchor": "P53S2N10",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P64S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Den_hänsyn_som_vid_renskötseln_skall_tas_till_naturvårdens_och_kulturmiljövårdens_intressen",
+        "term": "den hänsyn som vid renskötseln skall tas till naturvårdens och kulturmiljövårdens intressen",
+        "anchor": "P65aS3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_renräkning_skall_genomföras",
+        "term": "hur renräkning skall genomföras",
+        "anchor": "P66",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Renräkning",
+        "term": "Renräkning",
+        "anchor": "P66S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Renräkning",
+        "term": "Renräkning",
+        "anchor": "P66aS1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Renräkning",
+        "term": "Renräkning",
+        "anchor": "P66aS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Renräkning",
+        "term": "Renräkning",
+        "anchor": "P67S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Renräkning",
+        "term": "Renräkning",
+        "anchor": "P67S2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_en_renlängd_skall_upprättas",
+        "term": "hur en renlängd skall upprättas",
+        "anchor": "P68",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Renräkning",
+        "term": "Renräkning",
+        "anchor": "P68S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skyldigheten_att_lämna_renlängden_och_andra_uppgifter_om_renskötseln",
+        "term": "skyldigheten att lämna renlängden och andra uppgifter om renskötseln",
+        "anchor": "P68S4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P70S3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_renmärken_skall_registreras",
+        "term": "hur renmärken skall registreras",
+        "anchor": "P74",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Släktmärke",
+        "term": "släktmärke",
+        "anchor": "P76S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hur_renmärken_skall_utformas",
+        "term": "hur renmärken skall utformas",
+        "anchor": "P77",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P84S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Koncession",
+        "term": "koncession",
+        "anchor": "P85S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samebys_betesområde",
+        "term": "samebys betesområde",
+        "anchor": "P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P91S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ersättningen",
+        "term": "ersättningen",
+        "anchor": "P92S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Renräkning",
+        "term": "Renräkning",
+        "anchor": "P95S1N2",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

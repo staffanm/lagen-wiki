@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/celex/32003L0041",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstepensionsinstitut",
+        "term": "tjänstepensionsinstitut",
+        "anchor": "1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstepensionsinstitut",
+        "term": "tjänstepensionsinstitut",
+        "anchor": "11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "13",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "13",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "13",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "14",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontroll",
+        "term": "kontroll",
+        "anchor": "14",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "15",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "15",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "15",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "16",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_institut",
+        "term": "finansiellt institut",
+        "anchor": "16",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "16",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "16",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "17",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "17a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringsföretag",
+        "term": "försäkringsföretag",
+        "anchor": "17a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hemmedlemsstat",
+        "term": "hemmedlemsstat",
+        "anchor": "17a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "17a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontroll",
+        "term": "kontroll",
+        "anchor": "17a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Återförsäkringsföretag",
+        "term": "återförsäkringsföretag",
+        "anchor": "17a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringsföretag",
+        "term": "försäkringsföretag",
+        "anchor": "17b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "17b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "17c",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hemmedlemsstat",
+        "term": "hemmedlemsstat",
+        "anchor": "17c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "17d",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grupp",
+        "term": "grupp",
+        "anchor": "18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltare",
+        "term": "kapitalförvaltare",
+        "anchor": "18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Riskkoncentration",
+        "term": "riskkoncentration",
+        "anchor": "18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "19",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltare",
+        "term": "kapitalförvaltare",
+        "anchor": "19",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstepensionsinstitut",
+        "term": "tjänstepensionsinstitut",
+        "anchor": "2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "20",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "20",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "20",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstepensionsinstitut",
+        "term": "tjänstepensionsinstitut",
+        "anchor": "20",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "21",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstepensionsinstitut",
+        "term": "tjänstepensionsinstitut",
+        "anchor": "21",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "22",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstepensionsinstitut",
+        "term": "tjänstepensionsinstitut",
+        "anchor": "3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringsföretag",
+        "term": "försäkringsföretag",
+        "anchor": "4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "6.a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstepensionsinstitut",
+        "term": "tjänstepensionsinstitut",
+        "anchor": "6.a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstepensionsinstitut_eller_institut",
+        "term": "tjänstepensionsinstitut eller institut",
+        "anchor": "6.a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsplan",
+        "term": "pensionsplan",
+        "anchor": "6.b",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstepensionsinstitut",
+        "term": "tjänstepensionsinstitut",
+        "anchor": "6.c",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Uppdragsgivande_företag",
+        "term": "uppdragsgivande företag",
+        "anchor": "6.c",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Pensionsförmåner",
+        "term": "pensionsförmåner",
+        "anchor": "6.d",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Medlem",
+        "term": "medlem",
+        "anchor": "6.e",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förmånstagare",
+        "term": "förmånstagare",
+        "anchor": "6.f",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "6.g",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "6.g",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Relevanta_behöriga_myndigheter",
+        "term": "relevanta behöriga myndigheter",
+        "anchor": "6.g",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Biometriska_risker",
+        "term": "biometriska risker",
+        "anchor": "6.h",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "6.h",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Den_medlemsstat_som_är_hemland",
+        "term": "den medlemsstat som är hemland",
+        "anchor": "6.i",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "6.i",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Värdmedlemsstat",
+        "term": "värdmedlemsstat",
+        "anchor": "6.j",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringsföretag",
+        "term": "försäkringsföretag",
+        "anchor": "7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstepensionsinstitut",
+        "term": "tjänstepensionsinstitut",
+        "anchor": "8",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "9",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företrädare",
+        "term": "företrädare",
+        "anchor": "9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hemmedlemsstat",
+        "term": "hemmedlemsstat",
+        "anchor": "9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "9",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

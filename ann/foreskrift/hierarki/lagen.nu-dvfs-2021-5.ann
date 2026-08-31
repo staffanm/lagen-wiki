@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/dvfs/2021:5",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Registrering",
+        "term": "registrering",
+        "anchor": "P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registrering_av_ärenden",
+        "term": "registrering av ärenden",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registrering",
+        "term": "registrering",
+        "anchor": "P11",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registrering_av_ärenden",
+        "term": "registrering av ärenden",
+        "anchor": "P11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registrering",
+        "term": "registrering",
+        "anchor": "P2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registrering",
+        "term": "registrering",
+        "anchor": "P7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag",
+        "term": "undantag",
+        "anchor": "P9",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

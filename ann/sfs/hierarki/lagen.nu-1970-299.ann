@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T13:08:48+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 4,
+      "prompt_tokens": 4153,
+      "completion_tokens": 9182,
+      "ended": "2026-08-30T13:10:40+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d04381e71d68fbe093952fde49f3e54a0be223b76f7bae8952f1da977160473d"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1970:299",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Växtodlingsprodukt",
+        "term": "växtodlingsprodukt",
+        "anchor": "P12S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Växtodlingsprodukt",
+        "term": "växtodlingsprodukt",
+        "anchor": "P1S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Växtodlingsprodukt",
+        "term": "växtodlingsprodukt",
+        "anchor": "P1S4N1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Växtodlingsprodukt",
+        "term": "växtodlingsprodukt",
+        "anchor": "P1S4N2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Växtodlingsprodukt",
+        "term": "växtodlingsprodukt",
+        "anchor": "P3S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Växtodlingsprodukt",
+        "term": "växtodlingsprodukt",
+        "anchor": "P3S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Växtodlingsprodukt",
+        "term": "växtodlingsprodukt",
+        "anchor": "P4S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Växtodlingsprodukt",
+        "term": "växtodlingsprodukt",
+        "anchor": "P4S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Växtodlingsprodukt",
+        "term": "växtodlingsprodukt",
+        "anchor": "P4S1N4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Växtodlingsprodukt",
+        "term": "växtodlingsprodukt",
+        "anchor": "P6S1",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

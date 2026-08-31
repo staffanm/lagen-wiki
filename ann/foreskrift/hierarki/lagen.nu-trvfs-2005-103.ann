@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/trvfs/2005:103",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Lokala_trafikföreskrifter",
+        "term": "Lokala trafikföreskrifter",
+        "anchor": "P1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Högsta_vikt",
+        "term": "Högsta vikt",
+        "anchor": "P3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vändningskrav",
+        "term": "vändningskrav",
+        "anchor": "P5",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

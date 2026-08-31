@@ -1,0 +1,678 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/2025:1507",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P18S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P18S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-tjänst",
+        "term": "IKT-tjänst",
+        "anchor": "P19S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "P20S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "P27S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "P27S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P27S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillbud",
+        "term": "tillbud",
+        "anchor": "P27S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/System",
+        "term": "system",
+        "anchor": "P32S1N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "P32S1N5",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/System",
+        "term": "system",
+        "anchor": "P32S1N6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "P33S1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P33S1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "P33S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "P33S1N10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "P33S1N11",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "P33S1N2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P33S1N3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P33S1N4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "P33S1N7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "P33S1N7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "P33S1N8",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "P34S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/System",
+        "term": "system",
+        "anchor": "P34S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgift",
+        "term": "avgift",
+        "anchor": "P37",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationsskyldighet",
+        "term": "informationsskyldighet",
+        "anchor": "P37",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Register",
+        "term": "register",
+        "anchor": "P37",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "P37",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_som_utgör_en_betydande_incident",
+        "term": "vad som utgör en betydande incident",
+        "anchor": "P37",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "P37S1N1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "P37S1N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P37S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_som_utgör_en_betydande_incident",
+        "term": "vad som utgör en betydande incident",
+        "anchor": "P37S1N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationsskyldighet",
+        "term": "informationsskyldighet",
+        "anchor": "P37S1N3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avgift",
+        "term": "avgift",
+        "anchor": "P37S1N4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Register",
+        "term": "register",
+        "anchor": "P37S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anmälningsskyldigheten",
+        "term": "anmälningsskyldigheten",
+        "anchor": "P38",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/För_när_sådana_verksamhetsutövare_ska_räknas_som_väsentliga",
+        "term": "för när sådana verksamhetsutövare ska räknas som väsentliga",
+        "anchor": "P38",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidentrapportering",
+        "term": "incidentrapportering",
+        "anchor": "P38",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kriterier_för_när_verksamhetsutövare_ska_omfattas",
+        "term": "kriterier för när verksamhetsutövare ska omfattas",
+        "anchor": "P38",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsrevisioner_och_säkerhetsskanningar",
+        "term": "säkerhetsrevisioner och säkerhetsskanningar",
+        "anchor": "P38",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_skyldigheterna",
+        "term": "undantag från skyldigheterna",
+        "anchor": "P38",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "P38",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_som_utgör_huvudsakligt_etableringsställe",
+        "term": "vad som utgör huvudsakligt etableringsställe",
+        "anchor": "P38",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anknutet_företag",
+        "term": "anknutet företag",
+        "anchor": "P38S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Partnerföretag",
+        "term": "partnerföretag",
+        "anchor": "P38S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_skyldigheterna",
+        "term": "undantag från skyldigheterna",
+        "anchor": "P38S1N1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_som_utgör_huvudsakligt_etableringsställe",
+        "term": "vad som utgör huvudsakligt etableringsställe",
+        "anchor": "P38S1N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/För_när_sådana_verksamhetsutövare_ska_räknas_som_väsentliga",
+        "term": "för när sådana verksamhetsutövare ska räknas som väsentliga",
+        "anchor": "P38S1N3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kriterier_för_när_verksamhetsutövare_ska_omfattas",
+        "term": "kriterier för när verksamhetsutövare ska omfattas",
+        "anchor": "P38S1N3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anmälningsskyldigheten",
+        "term": "anmälningsskyldigheten",
+        "anchor": "P38S1N4",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "P38S1N5",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidentrapportering",
+        "term": "incidentrapportering",
+        "anchor": "P38S1N6",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsrevisioner_och_säkerhetsskanningar",
+        "term": "säkerhetsrevisioner och säkerhetsskanningar",
+        "anchor": "P38S1N7",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationsskyldighet",
+        "term": "informationsskyldighet",
+        "anchor": "P39",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "P39",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_som_utgör_en_betydande_incident",
+        "term": "vad som utgör en betydande incident",
+        "anchor": "P39",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "P39S1N1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betydande_incident",
+        "term": "betydande incident",
+        "anchor": "P39S1N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P39S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vad_som_utgör_en_betydande_incident",
+        "term": "vad som utgör en betydande incident",
+        "anchor": "P39S1N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationsskyldighet",
+        "term": "informationsskyldighet",
+        "anchor": "P39S1N3",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "P43S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidentrapportering",
+        "term": "incidentrapportering",
+        "anchor": "P6S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Entitet",
+        "term": "entitet",
+        "anchor": "P7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anmälningsskyldigheten",
+        "term": "anmälningsskyldigheten",
+        "anchor": "R3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incidentrapportering",
+        "term": "incidentrapportering",
+        "anchor": "R3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P18S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P18S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/IKT-tjänst",
+        "term": "IKT-tjänst",
+        "anchor": "P19S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "P20S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "P27S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P27S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillbud",
+        "term": "tillbud",
+        "anchor": "P27S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "P32S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cyberhot",
+        "term": "cyberhot",
+        "anchor": "P33S1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P33S1N1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "P33S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sårbarhet",
+        "term": "sårbarhet",
+        "anchor": "P33S1N10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "P33S1N11",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "P33S1N2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P33S1N3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P33S1N4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "P33S1N7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "P33S1N7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "P33S1N8",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nätverks-_och_informationssystem",
+        "term": "nätverks- och informationssystem",
+        "anchor": "P34S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "P37S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P37S1N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anknutet_företag",
+        "term": "anknutet företag",
+        "anchor": "P38S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Partnerföretag",
+        "term": "partnerföretag",
+        "anchor": "P38S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning",
+        "term": "utbildning",
+        "anchor": "P38S1N5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsåtgärder",
+        "term": "säkerhetsåtgärder",
+        "anchor": "P39S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Incident",
+        "term": "incident",
+        "anchor": "P39S1N2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Cybersäkerhet",
+        "term": "cybersäkerhet",
+        "anchor": "P43S1",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-31",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T21:12:11+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 256,
+      "prompt_tokens": 331120,
+      "completion_tokens": 495291,
+      "ended": "2026-08-30T22:46:12+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1b87c942b74adae83b658f9848de461493bdfd63596fd4335965a55156fa3012"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1975:580",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Sterilisering",
+        "term": "sterilisering",
+        "anchor": "P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ansökningsförfarandet",
+        "term": "ansökningsförfarandet",
+        "anchor": "P3",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

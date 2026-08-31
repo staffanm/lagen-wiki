@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/trvfs/2007:3",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Särskilda_trafikregler_för_en_väg_eller_en_viss_vägsträcka",
+        "term": "särskilda trafikregler för en väg eller en viss vägsträcka",
+        "anchor": "P1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bärighetsklass",
+        "term": "bärighetsklass",
+        "anchor": "P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/De",
+        "term": "De",
+        "anchor": "P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ytterligare_villkor_för_förandet",
+        "term": "ytterligare villkor för förandet",
+        "anchor": "P3",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krav_på_konstruktion_och_utrustning",
+        "term": "krav på konstruktion och utrustning",
+        "anchor": "P4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utrustning",
+        "term": "utrustning",
+        "anchor": "P4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Viss_utrustning",
+        "term": "viss utrustning",
+        "anchor": "P4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet",
+        "term": "Hastighet",
+        "anchor": "P7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hastighet_på_väg_med_vissa_motordrivna_fordon_och_fordonskombinationer",
+        "term": "hastighet på väg med vissa motordrivna fordon och fordonskombinationer",
+        "anchor": "P7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Högsta_tillåtna_hastigheten_på_en_väg",
+        "term": "högsta tillåtna hastigheten på en väg",
+        "anchor": "P7",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tillfällig_begränsning_av_den_hastighet_som_annars_är_tillåten",
+        "term": "tillfällig begränsning av den hastighet som annars är tillåten",
+        "anchor": "P7",
+        "role": "alagger",
+        "label": null
+      }
+    ]
+  }
+}

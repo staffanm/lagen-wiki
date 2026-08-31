@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T20:39:09+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 7,
+      "prompt_tokens": 8386,
+      "completion_tokens": 15161,
+      "ended": "2026-08-30T20:42:11+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "cf5e18b853326acf0933283d76c01038c374de4777296fa864b877391c302357"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1974:1066",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Sättet_för_kungörande",
+        "term": "sättet för kungörande",
+        "anchor": "P11S1N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förfarande_med_egendom",
+        "term": "förfarande med egendom",
+        "anchor": "P11S1N2",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

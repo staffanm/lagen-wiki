@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-28",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/2018:585",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetskänslig_verksamhet",
+        "term": "säkerhetskänslig verksamhet",
+        "anchor": "K1P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskydd",
+        "term": "säkerhetsskydd",
+        "anchor": "K1P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificerade_uppgifter",
+        "term": "säkerhetsskyddsklassificerade uppgifter",
+        "anchor": "K1P2S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K1P4S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsanalys",
+        "term": "säkerhetsskyddsanalys",
+        "anchor": "K2P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verksamhetsutövare",
+        "term": "verksamhetsutövare",
+        "anchor": "K2P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsåtgärder",
+        "term": "säkerhetsskyddsåtgärder",
+        "anchor": "K2P1S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsåtgärder",
+        "term": "säkerhetsskyddsåtgärder",
+        "anchor": "K2P1S4",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Informationssystem",
+        "term": "informationssystem",
+        "anchor": "K2P2S1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anmälnings-_och_rapporteringsskyldighet",
+        "term": "anmälnings- och rapporteringsskyldighet",
+        "anchor": "K2P8S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificering",
+        "term": "säkerhetsskyddsklassificering",
+        "anchor": "K2P8S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsåtgärder",
+        "term": "säkerhetsskyddsåtgärder",
+        "anchor": "K2P8S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsåtgärder",
+        "term": "säkerhetsskyddsåtgärder",
+        "anchor": "K2R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsklassificering",
+        "term": "säkerhetsskyddsklassificering",
+        "anchor": "K2R3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kraven",
+        "term": "undantag från kraven",
+        "anchor": "K3P11S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Registerkontroll",
+        "term": "registerkontroll",
+        "anchor": "K3P13S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Undantag_från_kraven",
+        "term": "undantag från kraven",
+        "anchor": "K3P18aS2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förbud",
+        "term": "förbud",
+        "anchor": "K4P17S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P1S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P1S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P1S3",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P1aS1N2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P2S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P3S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P3S2",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P4S1",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P5S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P5S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P6S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P6S2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4P7S1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4R1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K4R2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K6P1S2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Säkerhetsskyddsavtal",
+        "term": "säkerhetsskyddsavtal",
+        "anchor": "K7P1S1N3",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

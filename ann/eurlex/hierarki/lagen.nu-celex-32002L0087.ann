@@ -1,0 +1,965 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/celex/32002L0087",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "10",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samordnande_tillsynsmyndighet",
+        "term": "samordnande tillsynsmyndighet",
+        "anchor": "10",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "11",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Aktieägare",
+        "term": "aktieägare",
+        "anchor": "12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Centralbanker",
+        "term": "centralbanker",
+        "anchor": "12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Filial",
+        "term": "filial",
+        "anchor": "12",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "12a",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "12a",
+        "role": "definierar",
+        "label": "de uppgifter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "12b",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "12b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "12b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "13",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ledande_befattningshavare",
+        "term": "ledande befattningshavare",
+        "anchor": "13",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ledningsorgan",
+        "term": "ledningsorgan",
+        "anchor": "13",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "14",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "15",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "16",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "16",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "17",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "17",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "18",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "18",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Relevanta_behöriga_myndigheter",
+        "term": "relevanta behöriga myndigheter",
+        "anchor": "18",
+        "role": "definierar",
+        "label": "den extra tillsyn som föreskrivs i detta direktiv beträffande sådana reglerade enheter som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "19",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kreditinstitut",
+        "term": "kreditinstitut",
+        "anchor": "2.1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "2.10",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Dotterföretag",
+        "term": "dotterföretag",
+        "anchor": "2.10",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ägarintresse",
+        "term": "ägarintresse",
+        "anchor": "2.11",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grupp",
+        "term": "grupp",
+        "anchor": "2.12",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontroll",
+        "term": "kontroll",
+        "anchor": "2.12a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nära_förbindelser",
+        "term": "nära förbindelser",
+        "anchor": "2.13",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Enhet_i_den_finansiella_sektorn",
+        "term": "enhet i den finansiella sektorn",
+        "anchor": "2.14",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_konglomerat",
+        "term": "finansiellt konglomerat",
+        "anchor": "2.14",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Om_det_finns_en_reglerad_enhet_i_toppen_av_gruppen_eller_undergruppen",
+        "term": "Om det finns en reglerad enhet i toppen av gruppen eller undergruppen",
+        "anchor": "2.14.a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Om_ingen_reglerad_enhet_finns_i_toppen_av_gruppen_eller_undergruppen",
+        "term": "om ingen reglerad enhet finns i toppen av gruppen eller undergruppen",
+        "anchor": "2.14.b",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Blandat_finansiellt_holdingföretag",
+        "term": "blandat finansiellt holdingföretag",
+        "anchor": "2.15",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "2.15",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "2.16",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behöriga_myndigheter",
+        "term": "behöriga myndigheter",
+        "anchor": "2.16",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/På_gruppnivå",
+        "term": "på gruppnivå",
+        "anchor": "2.16",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "2.17",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/På_gruppnivå",
+        "term": "på gruppnivå",
+        "anchor": "2.17",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Relevanta_behöriga_myndigheter",
+        "term": "relevanta behöriga myndigheter",
+        "anchor": "2.17",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Koncerninterna_transaktioner",
+        "term": "koncerninterna transaktioner",
+        "anchor": "2.18",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "2.19",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Riskkoncentration",
+        "term": "riskkoncentration",
+        "anchor": "2.19",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "2.19",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försäkringsföretag",
+        "term": "försäkringsföretag",
+        "anchor": "2.2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "2.3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Värdepappersföretag",
+        "term": "värdepappersföretag",
+        "anchor": "2.3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Reglerad_enhet",
+        "term": "reglerad enhet",
+        "anchor": "2.4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltare",
+        "term": "kapitalförvaltare",
+        "anchor": "2.5",
+        "role": "detaljerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalförvaltningsbolag",
+        "term": "kapitalförvaltningsbolag",
+        "anchor": "2.5",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "2.5a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förvaltare_av_alternativa_investeringsfonder",
+        "term": "förvaltare av alternativa investeringsfonder",
+        "anchor": "2.5a",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Återförsäkringsföretag",
+        "term": "återförsäkringsföretag",
+        "anchor": "2.6",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Särregler",
+        "term": "särregler",
+        "anchor": "2.7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiell_sektor",
+        "term": "finansiell sektor",
+        "anchor": "2.8",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_institut",
+        "term": "finansiellt institut",
+        "anchor": "2.8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "2.8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "2.9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Moderföretag",
+        "term": "moderföretag",
+        "anchor": "2.9",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "21a",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "21a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "22",
+        "role": "definierar",
+        "label": "efterställd rätt till betalning och sådana instrument som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "22",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_institut",
+        "term": "finansiellt institut",
+        "anchor": "22",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "22",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "23",
+        "role": "definierar",
+        "label": "efterställd rätt till betalning och sådana instrument som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "23",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_institut",
+        "term": "finansiellt institut",
+        "anchor": "23",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "23",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "24",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "24",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Centralbanker",
+        "term": "centralbanker",
+        "anchor": "24",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "25",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "25",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Centralbanker",
+        "term": "centralbanker",
+        "anchor": "25",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "27",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "27",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Anknutet_företag",
+        "term": "anknutet företag",
+        "anchor": "28",
+        "role": "definierar",
+        "label": "ett eller flera tredje länder om metoderna för att utöva extra tillsyn över försäkringsföretag bland vars delägare det finns företag i den mening som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "28",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "28",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_institut",
+        "term": "finansiellt institut",
+        "anchor": "28",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Holdingföretag_med_blandad_verksamhet",
+        "term": "holdingföretag med blandad verksamhet",
+        "anchor": "28",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "28",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ledningsorgan",
+        "term": "ledningsorgan",
+        "anchor": "28",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "29",
+        "role": "definierar",
+        "label": "efterställd rätt till betalning och sådana instrument som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_institut",
+        "term": "finansiellt institut",
+        "anchor": "29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Holdingföretag_med_blandad_verksamhet",
+        "term": "holdingföretag med blandad verksamhet",
+        "anchor": "29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalbas",
+        "term": "kapitalbas",
+        "anchor": "29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ledningsorgan",
+        "term": "ledningsorgan",
+        "anchor": "29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/På_gruppnivå",
+        "term": "på gruppnivå",
+        "anchor": "29",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "30a",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_institut",
+        "term": "finansiellt institut",
+        "anchor": "30a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "30a",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "30b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "30b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalbas",
+        "term": "kapitalbas",
+        "anchor": "31",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/På_gruppnivå",
+        "term": "på gruppnivå",
+        "anchor": "31",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "4",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Enhet_i_den_finansiella_sektorn",
+        "term": "enhet i den finansiella sektorn",
+        "anchor": "5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "5",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Reglerad_enhet",
+        "term": "reglerad enhet",
+        "anchor": "5",
+        "role": "definierar",
+        "label": "en annan enhet i den finansiella sektorn som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Auktorisation",
+        "term": "auktorisation",
+        "anchor": "6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_institut",
+        "term": "finansiellt institut",
+        "anchor": "6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Institut",
+        "term": "institut",
+        "anchor": "6",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalbas",
+        "term": "kapitalbas",
+        "anchor": "6",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "7",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "7",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "8",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "8",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Filial",
+        "term": "filial",
+        "anchor": "9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Interna_metoder",
+        "term": "interna metoder",
+        "anchor": "9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalbas",
+        "term": "kapitalbas",
+        "anchor": "9",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "9b",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "9b",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "bilaga-1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiellt_holdingföretag",
+        "term": "finansiellt holdingföretag",
+        "anchor": "bilaga-1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalbas",
+        "term": "kapitalbas",
+        "anchor": "bilaga-1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörig_myndighet",
+        "term": "behörig myndighet",
+        "anchor": "bilaga-2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Finansiella_instrument",
+        "term": "finansiella instrument",
+        "anchor": "bilaga-2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapitalbas",
+        "term": "kapitalbas",
+        "anchor": "bilaga-2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Risk",
+        "term": "risk",
+        "anchor": "bilaga-2",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Standard",
+        "term": "standard",
+        "anchor": "bilaga-2",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}

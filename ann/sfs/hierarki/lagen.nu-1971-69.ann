@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T13:53:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 3299,
+      "completion_tokens": 6823,
+      "ended": "2026-08-30T13:54:33+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d7822aa156e8908132aca6a19243e366e1fa8e13dce41d9b51b0036e23138ca3"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1971:69",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Försvårande_av_skattekontroll",
+        "term": "försvårande av skattekontroll",
+        "anchor": "P10S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Juridisk_person",
+        "term": "juridisk person",
+        "anchor": "P13bS2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skattebrott",
+        "term": "skattebrott",
+        "anchor": "P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skatteförseelse",
+        "term": "skatteförseelse",
+        "anchor": "P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_skattebrott",
+        "term": "grovt skattebrott",
+        "anchor": "P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdslös_skatteuppgift",
+        "term": "vårdslös skatteuppgift",
+        "anchor": "P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skatteavdragsbrott",
+        "term": "skatteavdragsbrott",
+        "anchor": "P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skatteredovisningsbrott",
+        "term": "skatteredovisningsbrott",
+        "anchor": "P7S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdslös_skatteredovisning",
+        "term": "vårdslös skatteredovisning",
+        "anchor": "P8S1",
+        "role": "definierar",
+        "label": null
+      }
+    ]
+  }
+}

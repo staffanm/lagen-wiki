@@ -1,0 +1,2125 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {},
+    "run": {
+      "started": "2026-08-30T10:16:10+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 296,
+      "prompt_tokens": 415329,
+      "completion_tokens": 600508,
+      "ended": "2026-08-30T12:10:26+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "935c9e5fd15d14f5a2692ba5d3c9520bc6c8684efcbfae5da727a9512bec9ce0"
+    }
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1962:700",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Avdelning",
+        "term": "avdelning",
+        "anchor": "A1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Påföljd_för_brott",
+        "term": "påföljd för brott",
+        "anchor": "A1",
+        "role": "definierar",
+        "label": "sådant uppsåt som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avdelning",
+        "term": "avdelning",
+        "anchor": "A2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "A2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mord",
+        "term": "mord",
+        "anchor": "A2",
+        "role": "definierar",
+        "label": "ett barn under arton år och där omständigheterna är sådana som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Polisverksamheten",
+        "term": "polisverksamheten",
+        "anchor": "A2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstetecken",
+        "term": "tjänstetecken",
+        "anchor": "A2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avdelning",
+        "term": "avdelning",
+        "anchor": "A3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Delvis_villkorligt_fängelse",
+        "term": "delvis villkorligt fängelse",
+        "anchor": "A3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verkställighetsplan",
+        "term": "verkställighetsplan",
+        "anchor": "A3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Påföljd_för_brott",
+        "term": "påföljd för brott",
+        "anchor": "K1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förskingring",
+        "term": "förskingring",
+        "anchor": "K10",
+        "role": "definierar",
+        "label": "inflytande döms till fängelse i högst två år den som i annat fall än som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förskingring",
+        "term": "förskingring",
+        "anchor": "K10P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ringa_förskingring",
+        "term": "ringa förskingring",
+        "anchor": "K10P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_förskingring",
+        "term": "grov förskingring",
+        "anchor": "K10P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovligt_förfogande",
+        "term": "olovligt förfogande",
+        "anchor": "K10P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_olovligt_förfogande",
+        "term": "grovt olovligt förfogande",
+        "anchor": "K10P4S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tagande_av_muta",
+        "term": "tagande av muta",
+        "anchor": "K10P5aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Givande_av_muta",
+        "term": "givande av muta",
+        "anchor": "K10P5bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_tagande_av_muta_eller_grovt_givande_av_muta",
+        "term": "grovt tagande av muta eller grovt givande av muta",
+        "anchor": "K10P5cS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Handel_med_inflytande",
+        "term": "handel med inflytande",
+        "anchor": "K10P5d",
+        "role": "definierar",
+        "label": "inflytande döms till fängelse i högst två år den som i annat fall än som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Handel_med_inflytande",
+        "term": "handel med inflytande",
+        "anchor": "K10P5dS1",
+        "role": "definierar",
+        "label": "inflytande döms till fängelse i högst två år den som i annat fall än som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdslös_finansiering_av_mutbrott",
+        "term": "vårdslös finansiering av mutbrott",
+        "anchor": "K10P5eS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Behörighetsmissbruk",
+        "term": "behörighetsmissbruk",
+        "anchor": "K10P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovligt_brukande",
+        "term": "olovligt brukande",
+        "anchor": "K10P7S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_olovligt_brukande",
+        "term": "grovt olovligt brukande",
+        "anchor": "K10P7S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fyndförseelse",
+        "term": "fyndförseelse",
+        "anchor": "K10P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Oredlighet_mot_borgenärer",
+        "term": "oredlighet mot borgenärer",
+        "anchor": "K11P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_oredlighet_mot_borgenärer",
+        "term": "grov oredlighet mot borgenärer",
+        "anchor": "K11P1S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Försvårande_av_konkurs_eller_exekutiv_förrättning",
+        "term": "försvårande av konkurs eller exekutiv förrättning",
+        "anchor": "K11P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdslöshet_mot_borgenärer",
+        "term": "vårdslöshet mot borgenärer",
+        "anchor": "K11P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Otillbörligt_gynnande_av_borgenär",
+        "term": "otillbörligt gynnande av borgenär",
+        "anchor": "K11P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skadegörelse",
+        "term": "skadegörelse",
+        "anchor": "K12P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ringa_skadegörelse",
+        "term": "ringa skadegörelse",
+        "anchor": "K12P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Åverkan",
+        "term": "åverkan",
+        "anchor": "K12P2aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_skadegörelse",
+        "term": "grov skadegörelse",
+        "anchor": "K12P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tagande_av_olovlig_väg",
+        "term": "tagande av olovlig väg",
+        "anchor": "K12P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Underlåtenhet_att_avvärja_allmänfara",
+        "term": "underlåtenhet att avvärja allmänfara",
+        "anchor": "K13P10S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mordbrand",
+        "term": "mordbrand",
+        "anchor": "K13P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_mordbrand",
+        "term": "grov mordbrand",
+        "anchor": "K13P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Allmänfarlig_ödeläggelse",
+        "term": "allmänfarlig ödeläggelse",
+        "anchor": "K13P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_allmänfarlig_ödeläggelse",
+        "term": "grov allmänfarlig ödeläggelse",
+        "anchor": "K13P3S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sabotage",
+        "term": "sabotage",
+        "anchor": "K13P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_sabotage",
+        "term": "grovt sabotage",
+        "anchor": "K13P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kapning",
+        "term": "kapning",
+        "anchor": "K13P5aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Flygplatssabotage",
+        "term": "flygplatssabotage",
+        "anchor": "K13P5bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Polisverksamheten",
+        "term": "polisverksamheten",
+        "anchor": "K13P5cS1",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sabotage_mot_blåljusverksamhet",
+        "term": "sabotage mot blåljusverksamhet",
+        "anchor": "K13P5cS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "K13P5cS1N2",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_sabotage_mot_blåljusverksamhet",
+        "term": "grovt sabotage mot blåljusverksamhet",
+        "anchor": "K13P5cS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Allmänfarlig_vårdslöshet",
+        "term": "allmänfarlig vårdslöshet",
+        "anchor": "K13P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spridande_av_gift_eller_smitta",
+        "term": "spridande av gift eller smitta",
+        "anchor": "K13P7S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förgöring",
+        "term": "förgöring",
+        "anchor": "K13P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Urkundsförfalskning",
+        "term": "urkundsförfalskning",
+        "anchor": "K14",
+        "role": "definierar",
+        "label": "falsk sedel eller falskt mynt som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olaga_spridande_av_efterbildning",
+        "term": "olaga spridande av efterbildning",
+        "anchor": "K14P11S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Urkundsförfalskning",
+        "term": "urkundsförfalskning",
+        "anchor": "K14P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Urkund",
+        "term": "urkund",
+        "anchor": "K14P1S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förvanskning_av_urkund",
+        "term": "förvanskning av urkund",
+        "anchor": "K14P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_urkundsförfalskning",
+        "term": "grov urkundsförfalskning",
+        "anchor": "K14P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hindrande_av_urkunds_bevisfunktion",
+        "term": "hindrande av urkunds bevisfunktion",
+        "anchor": "K14P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Signaturförfalskning",
+        "term": "signaturförfalskning",
+        "anchor": "K14P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Penningförfalskning",
+        "term": "penningförfalskning",
+        "anchor": "K14P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_befattning_med_falska_pengar",
+        "term": "olovlig befattning med falska pengar",
+        "anchor": "K14P7",
+        "role": "definierar",
+        "label": "falsk sedel eller falskt mynt som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_befattning_med_falska_pengar",
+        "term": "olovlig befattning med falska pengar",
+        "anchor": "K14P7S1",
+        "role": "definierar",
+        "label": "falsk sedel eller falskt mynt som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Märkesförfalskning",
+        "term": "märkesförfalskning",
+        "anchor": "K14P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förfalskning_av_fast_märke",
+        "term": "förfalskning av fast märke",
+        "anchor": "K14P9S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Osann_försäkran",
+        "term": "osann försäkran",
+        "anchor": "K15P10S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdslös_försäkran",
+        "term": "vårdslös försäkran",
+        "anchor": "K15P10S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Osant_intygande",
+        "term": "osant intygande",
+        "anchor": "K15P11S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Missbruk_av_urkund",
+        "term": "missbruk av urkund",
+        "anchor": "K15P12S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förnekande_av_underskrift",
+        "term": "förnekande av underskrift",
+        "anchor": "K15P13S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mened",
+        "term": "mened",
+        "anchor": "K15P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_mened",
+        "term": "grov mened",
+        "anchor": "K15P1S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Osann_partsutsaga",
+        "term": "osann partsutsaga",
+        "anchor": "K15P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ovarsam_utsaga",
+        "term": "ovarsam utsaga",
+        "anchor": "K15P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Falskt_åtal",
+        "term": "falskt åtal",
+        "anchor": "K15P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Obefogat_åtal",
+        "term": "obefogat åtal",
+        "anchor": "K15P5S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Falsk_angivelse",
+        "term": "falsk angivelse",
+        "anchor": "K15P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_falsk_angivelse",
+        "term": "grov falsk angivelse",
+        "anchor": "K15P6S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Obefogad_angivelse",
+        "term": "obefogad angivelse",
+        "anchor": "K15P6S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Falsk_beskyllning",
+        "term": "falsk beskyllning",
+        "anchor": "K15P7S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_falsk_beskyllning",
+        "term": "grov falsk beskyllning",
+        "anchor": "K15P7S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vårdslös_beskyllning",
+        "term": "vårdslös beskyllning",
+        "anchor": "K15P7S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bevisförvanskning",
+        "term": "bevisförvanskning",
+        "anchor": "K15P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Underlåtenhet_att_avvärja_rättsfel",
+        "term": "underlåtenhet att avvärja rättsfel",
+        "anchor": "K15P9S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Gravfridsbrott",
+        "term": "gravfridsbrott",
+        "anchor": "K16P10S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_gravfridsbrott",
+        "term": "grovt gravfridsbrott",
+        "anchor": "K16P10S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barnpornografibrott",
+        "term": "barnpornografibrott",
+        "anchor": "K16P10aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barn",
+        "term": "barn",
+        "anchor": "K16P10aS3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_barnpornografibrott",
+        "term": "grovt barnpornografibrott",
+        "anchor": "K16P10aS6",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olaga_våldsskildring",
+        "term": "olaga våldsskildring",
+        "anchor": "K16P10cS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Otillåten_utlämning_av_teknisk_upptagning",
+        "term": "otillåten utlämning av teknisk upptagning",
+        "anchor": "K16P10dS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Otillåtet_förfarande_med_pornografisk_bild",
+        "term": "otillåtet förfarande med pornografisk bild",
+        "anchor": "K16P11S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förledande_av_ungdom",
+        "term": "förledande av ungdom",
+        "anchor": "K16P12S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Djurplågeri",
+        "term": "djurplågeri",
+        "anchor": "K16P13S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_djurplågeri",
+        "term": "grovt djurplågeri",
+        "anchor": "K16P13S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Falskt_larm",
+        "term": "falskt larm",
+        "anchor": "K16P15S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Missbruk_av_larmanordning",
+        "term": "missbruk av larmanordning",
+        "anchor": "K16P15S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ohörsamhet_mot_ordningsmakten",
+        "term": "ohörsamhet mot ordningsmakten",
+        "anchor": "K16P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Uppvigling",
+        "term": "uppvigling",
+        "anchor": "K16P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Involverande_av_en_underårig_i_brottslighet",
+        "term": "involverande av en underårig i brottslighet",
+        "anchor": "K16P5aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Myteri",
+        "term": "myteri",
+        "anchor": "K16P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hets_mot_folkgrupp",
+        "term": "hets mot folkgrupp",
+        "anchor": "K16P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ringa_hets_mot_folkgrupp",
+        "term": "ringa hets mot folkgrupp",
+        "anchor": "K16P8S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_hets_mot_folkgrupp",
+        "term": "grov hets mot folkgrupp",
+        "anchor": "K16P8S4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Våld_eller_hot_mot_tjänsteman",
+        "term": "våld eller hot mot tjänsteman",
+        "anchor": "K17",
+        "role": "definierar",
+        "label": "utövare av viss samhällsnyttig funktion"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Övergrepp_i_rättssak",
+        "term": "övergrepp i rättssak",
+        "anchor": "K17P10S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Domstol_eller_annan_myndighet",
+        "term": "domstol eller annan myndighet",
+        "anchor": "K17P10S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_övergrepp_i_rättssak",
+        "term": "grovt övergrepp i rättssak",
+        "anchor": "K17P10S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Skyddande_av_brottsling",
+        "term": "skyddande av brottsling",
+        "anchor": "K17P11S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_skyddande_av_brottsling",
+        "term": "grovt skyddande av brottsling",
+        "anchor": "K17P11S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Rymning",
+        "term": "rymning",
+        "anchor": "K17P12S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_rymning",
+        "term": "grov rymning",
+        "anchor": "K17P12S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Främjande_av_rymning_eller_flykt",
+        "term": "främjande av rymning eller flykt",
+        "anchor": "K17P12aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_främjande_av_rymning_eller_flykt",
+        "term": "grovt främjande av rymning eller flykt",
+        "anchor": "K17P12aS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Föregivande_av_allmän_ställning",
+        "term": "föregivande av allmän ställning",
+        "anchor": "K17P15S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstetecken",
+        "term": "tjänstetecken",
+        "anchor": "K17P15S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Våld_eller_hot_mot_tjänsteman",
+        "term": "våld eller hot mot tjänsteman",
+        "anchor": "K17P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_våld_eller_hot_mot_tjänsteman",
+        "term": "grovt våld eller hot mot tjänsteman",
+        "anchor": "K17P1S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Angrepp_mot_tjänsteman",
+        "term": "angrepp mot tjänsteman",
+        "anchor": "K17P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_angrepp_mot_tjänsteman",
+        "term": "grovt angrepp mot tjänsteman",
+        "anchor": "K17P2S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förolämpning_mot_tjänsteman",
+        "term": "förolämpning mot tjänsteman",
+        "anchor": "K17P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Våldsamt_motstånd",
+        "term": "våldsamt motstånd",
+        "anchor": "K17P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Otillbörligt_verkande_vid_röstning",
+        "term": "otillbörligt verkande vid röstning",
+        "anchor": "K17P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tagande_av_otillbörlig_förmån_vid_röstning",
+        "term": "tagande av otillbörlig förmån vid röstning",
+        "anchor": "K17P8S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Brott_mot_rösthemlighet",
+        "term": "brott mot rösthemlighet",
+        "anchor": "K17P9S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Uppror",
+        "term": "uppror",
+        "anchor": "K18P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Väpnat_hot_mot_laglig_ordning",
+        "term": "väpnat hot mot laglig ordning",
+        "anchor": "K18P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_kårverksamhet",
+        "term": "olovlig kårverksamhet",
+        "anchor": "K18P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Brott_mot_medborgerlig_frihet",
+        "term": "brott mot medborgerlig frihet",
+        "anchor": "K18P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Svikande_av_försvarsplikt",
+        "term": "svikande av försvarsplikt",
+        "anchor": "K18P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_underrättelseverksamhet_mot_Sverige",
+        "term": "olovlig underrättelseverksamhet mot Sverige",
+        "anchor": "K19P10S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_underrättelseverksamhet_mot_främmande_makt",
+        "term": "olovlig underrättelseverksamhet mot främmande makt",
+        "anchor": "K19P10aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_underrättelseverksamhet_mot_person",
+        "term": "olovlig underrättelseverksamhet mot person",
+        "anchor": "K19P10bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_värvning",
+        "term": "olovlig värvning",
+        "anchor": "K19P12S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tagande_av_utländskt_understöd",
+        "term": "tagande av utländskt understöd",
+        "anchor": "K19P13S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Högförräderi",
+        "term": "högförräderi",
+        "anchor": "K19P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Krigsanstiftan",
+        "term": "krigsanstiftan",
+        "anchor": "K19P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Trolöshet_vid_förhandling_med_främmande_makt",
+        "term": "trolöshet vid förhandling med främmande makt",
+        "anchor": "K19P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Egenmäktighet_vid_förhandling_med_främmande_makt",
+        "term": "egenmäktighet vid förhandling med främmande makt",
+        "anchor": "K19P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Spioneri",
+        "term": "spioneri",
+        "anchor": "K19P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_spioneri",
+        "term": "grovt spioneri",
+        "anchor": "K19P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utlandsspioneri",
+        "term": "utlandsspioneri",
+        "anchor": "K19P6aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_utlandsspioneri",
+        "term": "grovt utlandsspioneri",
+        "anchor": "K19P6bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Obehörig_befattning_med_hemlig_uppgift",
+        "term": "obehörig befattning med hemlig uppgift",
+        "anchor": "K19P7S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_obehörig_befattning_med_hemlig_uppgift",
+        "term": "grov obehörig befattning med hemlig uppgift",
+        "anchor": "K19P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tjänstefel",
+        "term": "tjänstefel",
+        "anchor": "K20P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_tjänstefel",
+        "term": "grovt tjänstefel",
+        "anchor": "K20P1S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Missbruk_av_offentlig_ställning",
+        "term": "missbruk av offentlig ställning",
+        "anchor": "K20P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_missbruk_av_offentlig_ställning",
+        "term": "grovt missbruk av offentlig ställning",
+        "anchor": "K20P2S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avdelning",
+        "term": "avdelning",
+        "anchor": "K21P11S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avdelning",
+        "term": "avdelning",
+        "anchor": "K21P12S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avdelning",
+        "term": "avdelning",
+        "anchor": "K21P3S2N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_befattning_med_minor",
+        "term": "olovlig befattning med minor",
+        "anchor": "K22P6b",
+        "role": "definierar",
+        "label": "minor som är tillåten enligt den konvention som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_befattning_med_minor",
+        "term": "olovlig befattning med minor",
+        "anchor": "K22P6bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Truppminor",
+        "term": "truppminor",
+        "anchor": "K22P6bS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_befattning_med_minor",
+        "term": "olovlig befattning med minor",
+        "anchor": "K22P6bS3",
+        "role": "definierar",
+        "label": "minor som är tillåten enligt den konvention som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_kärnsprängning",
+        "term": "olovlig kärnsprängning",
+        "anchor": "K22P6cS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Straffrättsvillfarelse",
+        "term": "straffrättsvillfarelse",
+        "anchor": "K24P9S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Brottet",
+        "term": "brottet",
+        "anchor": "K25",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Villkorligt_fängelse",
+        "term": "villkorligt fängelse",
+        "anchor": "K25",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Återfallet",
+        "term": "återfallet",
+        "anchor": "K25",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Dubbel_straffbarhet",
+        "term": "dubbel straffbarhet",
+        "anchor": "K2P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avdelning",
+        "term": "avdelning",
+        "anchor": "K2P5S2N1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Brott_som_avses_i",
+        "term": "brott som avses i",
+        "anchor": "K2P5S2N4",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avdelning",
+        "term": "avdelning",
+        "anchor": "K2P7S2N3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Verkställighetsplan",
+        "term": "verkställighetsplan",
+        "anchor": "K30P3aS4",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Särskild_riskutredning",
+        "term": "särskild riskutredning",
+        "anchor": "K33P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Minimitiden",
+        "term": "minimitiden",
+        "anchor": "K33P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ramtiden",
+        "term": "ramtiden",
+        "anchor": "K33P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Konsumtionsdom",
+        "term": "konsumtionsdom",
+        "anchor": "K34",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nytt_brott",
+        "term": "nytt brott",
+        "anchor": "K34",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Nyupptäckt_brott",
+        "term": "nyupptäckt brott",
+        "anchor": "K34",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Påföljdspreskription",
+        "term": "påföljdspreskription",
+        "anchor": "K35P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Åtalspreskription_och_absolut_preskription",
+        "term": "åtalspreskription och absolut preskription",
+        "anchor": "K35P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förverkande_av_brottsvinster",
+        "term": "förverkande av brottsvinster",
+        "anchor": "K36",
+        "role": "definierar",
+        "label": "hänsyn till något förhållande som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förverkande_av_brottsföremål",
+        "term": "förverkande av brottsföremål",
+        "anchor": "K36P10S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förhöjd_företagsbot",
+        "term": "förhöjd företagsbot",
+        "anchor": "K36P25S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Större_företag",
+        "term": "större företag",
+        "anchor": "K36P25S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förverkande_av_brottsvinster",
+        "term": "förverkande av brottsvinster",
+        "anchor": "K36P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förverkande_av_kostnadsersättning",
+        "term": "förverkande av kostnadsersättning",
+        "anchor": "K36P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Självständigt_förverkande",
+        "term": "självständigt förverkande",
+        "anchor": "K36P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utvidgat_förverkande",
+        "term": "utvidgat förverkande",
+        "anchor": "K36P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hjälpmedelsförverkande",
+        "term": "hjälpmedelsförverkande",
+        "anchor": "K36P9S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Avdelning",
+        "term": "avdelning",
+        "anchor": "K37P1S3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Mord",
+        "term": "mord",
+        "anchor": "K3P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Dråp",
+        "term": "dråp",
+        "anchor": "K3P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barnadråp",
+        "term": "barnadråp",
+        "anchor": "K3P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Misshandel",
+        "term": "misshandel",
+        "anchor": "K3P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_misshandel",
+        "term": "grov misshandel",
+        "anchor": "K3P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Synnerligen_grov_misshandel",
+        "term": "synnerligen grov misshandel",
+        "anchor": "K3P6S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vållande_till_annans_död",
+        "term": "vållande till annans död",
+        "anchor": "K3P7S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Vållande_till_kroppsskada_eller_sjukdom",
+        "term": "vållande till kroppsskada eller sjukdom",
+        "anchor": "K3P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Framkallande_av_fara_för_annan",
+        "term": "framkallande av fara för annan",
+        "anchor": "K3P9S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Människorov",
+        "term": "människorov",
+        "anchor": "K4P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Människohandel",
+        "term": "människohandel",
+        "anchor": "K4P1aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Människoexploatering",
+        "term": "människoexploatering",
+        "anchor": "K4P1bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_människoexploatering",
+        "term": "grov människoexploatering",
+        "anchor": "K4P1bS3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olaga_frihetsberövande",
+        "term": "olaga frihetsberövande",
+        "anchor": "K4P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barnfridsbrott",
+        "term": "barnfridsbrott",
+        "anchor": "K4P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_barnfridsbrott",
+        "term": "grovt barnfridsbrott",
+        "anchor": "K4P3S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olaga_tvång",
+        "term": "olaga tvång",
+        "anchor": "K4P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_olaga_tvång",
+        "term": "grovt olaga tvång",
+        "anchor": "K4P4S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_fridskränkning",
+        "term": "grov fridskränkning",
+        "anchor": "K4P4aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olaga_förföljelse",
+        "term": "olaga förföljelse",
+        "anchor": "K4P4bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Äktenskapstvång",
+        "term": "äktenskapstvång",
+        "anchor": "K4P4cS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Innefattar_frågan_om_upplösning_av_förbindelsen.",
+        "term": "innefattar frågan om upplösning av förbindelsen.",
+        "anchor": "K4P4cS2N2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Barnäktenskapsbrott",
+        "term": "barnäktenskapsbrott",
+        "anchor": "K4P4cS3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Äktenskapsresebrott",
+        "term": "äktenskapsresebrott",
+        "anchor": "K4P4dS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Äktenskapsresebrott_mot_barn",
+        "term": "äktenskapsresebrott mot barn",
+        "anchor": "K4P4dS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Oskuldskontroll",
+        "term": "oskuldskontroll",
+        "anchor": "K4P4fS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Intygande_av_sexuell_oskuld",
+        "term": "intygande av sexuell oskuld",
+        "anchor": "K4P4gS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olaga_hot",
+        "term": "olaga hot",
+        "anchor": "K4P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_olaga_hot",
+        "term": "grovt olaga hot",
+        "anchor": "K4P5S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Hemfridsbrott",
+        "term": "hemfridsbrott",
+        "anchor": "K4P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olaga_intrång",
+        "term": "olaga intrång",
+        "anchor": "K4P6S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_hemfridsbrott_eller_grovt_olaga_intrång",
+        "term": "grovt hemfridsbrott eller grovt olaga intrång",
+        "anchor": "K4P6S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kränkande_fotografering",
+        "term": "kränkande fotografering",
+        "anchor": "K4P6aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_identitetsanvändning",
+        "term": "olovlig identitetsanvändning",
+        "anchor": "K4P6bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olaga_integritetsintrång",
+        "term": "olaga integritetsintrång",
+        "anchor": "K4P6cS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_olaga_integritetsintrång",
+        "term": "grovt olaga integritetsintrång",
+        "anchor": "K4P6dS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ofredande",
+        "term": "ofredande",
+        "anchor": "K4P7S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Uppmaning_till_självmord",
+        "term": "uppmaning till självmord",
+        "anchor": "K4P7aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Oaktsam_uppmaning_till_självmord",
+        "term": "oaktsam uppmaning till självmord",
+        "anchor": "K4P7aS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Psykiskt_våld",
+        "term": "psykiskt våld",
+        "anchor": "K4P7bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Intrång_i_förvar",
+        "term": "intrång i förvar",
+        "anchor": "K4P9S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_avlyssning",
+        "term": "olovlig avlyssning",
+        "anchor": "K4P9aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förberedelse_till_sådant_brott",
+        "term": "förberedelse till sådant brott",
+        "anchor": "K4P9bS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Dataintrång",
+        "term": "dataintrång",
+        "anchor": "K4P9cS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_dataintrång",
+        "term": "grovt dataintrång",
+        "anchor": "K4P9cS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förtal",
+        "term": "förtal",
+        "anchor": "K5P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_förtal",
+        "term": "grovt förtal",
+        "anchor": "K5P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förolämpning",
+        "term": "förolämpning",
+        "anchor": "K5P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Våldtäkt",
+        "term": "våldtäkt",
+        "anchor": "K6",
+        "role": "definierar",
+        "label": "ett barn under arton år och där omständigheterna är sådana som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sexuellt_ofredande_mot_barn",
+        "term": "sexuellt ofredande mot barn",
+        "anchor": "K6P10S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sexuellt_ofredande",
+        "term": "sexuellt ofredande",
+        "anchor": "K6P10S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_sexuellt_ofredande_mot_barn",
+        "term": "grovt sexuellt ofredande mot barn",
+        "anchor": "K6P10S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Kontakt_för_att_träffa_ett_barn_i_sexuellt_syfte",
+        "term": "kontakt för att träffa ett barn i sexuellt syfte",
+        "anchor": "K6P10aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Köp_av_sexuell_handling",
+        "term": "köp av sexuell handling",
+        "anchor": "K6P11S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Koppleri",
+        "term": "koppleri",
+        "anchor": "K6P12S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_koppleri",
+        "term": "grovt koppleri",
+        "anchor": "K6P12S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Våldtäkt",
+        "term": "våldtäkt",
+        "anchor": "K6P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_våldtäkt",
+        "term": "grov våldtäkt",
+        "anchor": "K6P1S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Oaktsam_våldtäkt",
+        "term": "oaktsam våldtäkt",
+        "anchor": "K6P1aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sexuellt_övergrepp",
+        "term": "sexuellt övergrepp",
+        "anchor": "K6P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_sexuellt_övergrepp",
+        "term": "grovt sexuellt övergrepp",
+        "anchor": "K6P2S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Oaktsamt_sexuellt_övergrepp",
+        "term": "oaktsamt sexuellt övergrepp",
+        "anchor": "K6P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Våldtäkt_mot_barn",
+        "term": "våldtäkt mot barn",
+        "anchor": "K6P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Som_är_avkomling_till_gärningsmannen,",
+        "term": "som är avkomling till gärningsmannen,",
+        "anchor": "K6P4S2N1Na",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_våldtäkt_mot_barn",
+        "term": "grov våldtäkt mot barn",
+        "anchor": "K6P4S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sexuellt_utnyttjande_av_barn",
+        "term": "sexuellt utnyttjande av barn",
+        "anchor": "K6P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sexuellt_övergrepp_mot_barn",
+        "term": "sexuellt övergrepp mot barn",
+        "anchor": "K6P6",
+        "role": "definierar",
+        "label": "ett barn under arton år och där omständigheterna är sådana som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Sexuellt_övergrepp_mot_barn",
+        "term": "sexuellt övergrepp mot barn",
+        "anchor": "K6P6S1",
+        "role": "definierar",
+        "label": "ett barn under arton år och där omständigheterna är sådana som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_sexuellt_övergrepp_mot_barn",
+        "term": "grovt sexuellt övergrepp mot barn",
+        "anchor": "K6P6S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samlag_med_avkomling",
+        "term": "samlag med avkomling",
+        "anchor": "K6P7S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Samlag_med_syskon",
+        "term": "samlag med syskon",
+        "anchor": "K6P7S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utnyttjande_av_barn_för_sexuell_posering",
+        "term": "utnyttjande av barn för sexuell posering",
+        "anchor": "K6P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_utnyttjande_av_barn_för_sexuell_posering",
+        "term": "grovt utnyttjande av barn för sexuell posering",
+        "anchor": "K6P8S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utnyttjande_av_barn_genom_köp_av_sexuell_handling",
+        "term": "utnyttjande av barn genom köp av sexuell handling",
+        "anchor": "K6P9S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Egenmäktighet_med_barn",
+        "term": "egenmäktighet med barn",
+        "anchor": "K7",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Tvegifte",
+        "term": "tvegifte",
+        "anchor": "K7P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovligt_ingående_av_äktenskap",
+        "term": "olovligt ingående av äktenskap",
+        "anchor": "K7P1S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förvanskande_av_familjeställning",
+        "term": "förvanskande av familjeställning",
+        "anchor": "K7P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stöld",
+        "term": "stöld",
+        "anchor": "K8",
+        "role": "definierar",
+        "label": "sådant våld eller hot som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_energiavledning",
+        "term": "olovlig energiavledning",
+        "anchor": "K8P10S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_olovlig_energiavledning",
+        "term": "grov olovlig energiavledning",
+        "anchor": "K8P10S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Stöld",
+        "term": "stöld",
+        "anchor": "K8P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ringa_stöld",
+        "term": "ringa stöld",
+        "anchor": "K8P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_stöld",
+        "term": "grov stöld",
+        "anchor": "K8P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Inbrottsstöld",
+        "term": "inbrottsstöld",
+        "anchor": "K8P4aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Rån",
+        "term": "rån",
+        "anchor": "K8P5",
+        "role": "definierar",
+        "label": "sådant våld eller hot som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Rån",
+        "term": "rån",
+        "anchor": "K8P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Rån",
+        "term": "rån",
+        "anchor": "K8P5S2",
+        "role": "definierar",
+        "label": "sådant våld eller hot som"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_rån",
+        "term": "grovt rån",
+        "anchor": "K8P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Egenmäktigt_förfarande",
+        "term": "egenmäktigt förfarande",
+        "anchor": "K8P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_egenmäktigt_förfarande",
+        "term": "grovt egenmäktigt förfarande",
+        "anchor": "K8P8S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Självtäkt",
+        "term": "självtäkt",
+        "anchor": "K8P9S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bedrägeri",
+        "term": "bedrägeri",
+        "anchor": "K9",
+        "role": "definierar",
+        "label": "ett sådant betalningsverktyg med betalningsverktyg"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ockerpantning",
+        "term": "ockerpantning",
+        "anchor": "K9P10S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Bedrägeri",
+        "term": "bedrägeri",
+        "anchor": "K9P1S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ringa_bedrägeri",
+        "term": "ringa bedrägeri",
+        "anchor": "K9P2S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_bedrägeri",
+        "term": "grovt bedrägeri",
+        "anchor": "K9P3S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_fordringsbedrägeri",
+        "term": "grovt fordringsbedrägeri",
+        "anchor": "K9P3aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_befattning_med_betalningsverktyg",
+        "term": "olovlig befattning med betalningsverktyg",
+        "anchor": "K9P3c",
+        "role": "definierar",
+        "label": "ett sådant betalningsverktyg med betalningsverktyg"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Olovlig_befattning_med_betalningsverktyg",
+        "term": "olovlig befattning med betalningsverktyg",
+        "anchor": "K9P3cS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Betalningsverktyg",
+        "term": "betalningsverktyg",
+        "anchor": "K9P3cS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_olovlig_befattning_med_betalningsverktyg",
+        "term": "grov olovlig befattning med betalningsverktyg",
+        "anchor": "K9P3cS3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Företagskapning",
+        "term": "företagskapning",
+        "anchor": "K9P3dS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utpressning",
+        "term": "utpressning",
+        "anchor": "K9P4S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grov_utpressning",
+        "term": "grov utpressning",
+        "anchor": "K9P4S2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Ocker",
+        "term": "ocker",
+        "anchor": "K9P5S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_ocker",
+        "term": "grovt ocker",
+        "anchor": "K9P5S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Häleri",
+        "term": "häleri",
+        "anchor": "K9P6S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_häleri",
+        "term": "grovt häleri",
+        "anchor": "K9P6S3",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utförselhäleri",
+        "term": "utförselhäleri",
+        "anchor": "K9P6aS1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_utförselhäleri",
+        "term": "grovt utförselhäleri",
+        "anchor": "K9P6aS2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Häleriförseelse",
+        "term": "häleriförseelse",
+        "anchor": "K9P7S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Oredligt_förfarande",
+        "term": "oredligt förfarande",
+        "anchor": "K9P8S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Svindleri",
+        "term": "svindleri",
+        "anchor": "K9P9S1",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Grovt_svindleri",
+        "term": "grovt svindleri",
+        "anchor": "K9P9S3",
+        "role": "definierar",
+        "label": null
+      }
+    ]
+  }
+}

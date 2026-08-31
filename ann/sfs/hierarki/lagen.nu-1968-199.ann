@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-29",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/1968:199",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning_eller_i_annat_avseende",
+        "term": "utbildning eller i annat avseende",
+        "anchor": "P1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förenklad_delgivning",
+        "term": "förenklad delgivning",
+        "anchor": "P13S1",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Begreppet_domstol",
+        "term": "begreppet domstol",
+        "anchor": "P17",
+        "role": "alagger",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Utbildning_eller_i_annat_avseende",
+        "term": "utbildning eller i annat avseende",
+        "anchor": "P1S1",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Föreläggande_om_ordningsbot",
+        "term": "föreläggande om ordningsbot",
+        "anchor": "P6",
+        "role": "definierar",
+        "label": "ett elektroniskt dokument"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Föreläggande_om_ordningsbot",
+        "term": "föreläggande om ordningsbot",
+        "anchor": "P6S1",
+        "role": "definierar",
+        "label": "ett elektroniskt dokument"
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Att_underrättelsen_ska_sändas_av_någon_annan",
+        "term": "att underrättelsen ska sändas av någon annan",
+        "anchor": "P9",
+        "role": "delegerar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Att_underrättelsen_ska_sändas_av_någon_annan",
+        "term": "att underrättelsen ska sändas av någon annan",
+        "anchor": "P9S1",
+        "role": "delegerar",
+        "label": null
+      }
+    ]
+  }
+}

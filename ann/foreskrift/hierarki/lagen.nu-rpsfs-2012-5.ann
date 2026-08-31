@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-08-30",
+    "inputs": {}
+  },
+  "regleringshierarki": {
+    "uri": "https://lagen.nu/rpsfs/2012:5",
+    "rows": [
+      {
+        "concept": "https://lagen.nu/begrepp/Fordon",
+        "term": "fordon",
+        "anchor": "K1P2",
+        "role": "definierar",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Brottet",
+        "term": "brottet",
+        "anchor": "K2P2",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Brottet",
+        "term": "brottet",
+        "anchor": "K2P3",
+        "role": "namner",
+        "label": null
+      },
+      {
+        "concept": "https://lagen.nu/begrepp/Förverkande_av_brottsvinster",
+        "term": "förverkande av brottsvinster",
+        "anchor": "K3P3",
+        "role": "namner",
+        "label": null
+      }
+    ]
+  }
+}
