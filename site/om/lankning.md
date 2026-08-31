@@ -21,7 +21,7 @@ Samma mönster -- prefixet följt av dokumentets egen beteckning -- gäller för
 - **Myndighetsavgörande:** `https://lagen.nu/avg/<organ>/<beteckning>`, t.ex. `https://lagen.nu/avg/arn/1991-4398`
 - **Rättsligt ställningstagande:** `https://lagen.nu/rs/<myndighet>/<nummer>`, t.ex. `https://lagen.nu/rs/fi/2021:1`
 - **EU-rättsakt:** `https://lagen.nu/celex/<CELEX>`, t.ex. `https://lagen.nu/celex/32016R0679`
-- **Fördrag:** `https://lagen.nu/ext/coe/<nummer>`, t.ex. `https://lagen.nu/ext/coe/005` (Europakonventionen)
+- **Fördrag:** `https://lagen.nu/coe/<nummer>`, t.ex. `https://lagen.nu/coe/005` (Europakonventionen)
 - **Begrepp:** `https://lagen.nu/begrepp/<term>`, t.ex. `https://lagen.nu/begrepp/Anbud`
 
 En länk till en enskild paragraf gör att webläsaren laddar hela dokumentet och hoppar till rätt ställe. För att länka till 6 kap. 18 § i samma lag använder du följande address:

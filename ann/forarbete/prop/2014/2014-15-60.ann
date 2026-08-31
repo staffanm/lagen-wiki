@@ -1,40 +1,308 @@
 {
   "meta": {
-    "status": "generated",
-    "model": "gemma-4-31b-it",
-    "generated": "2026-07-24",
+    "status": "verified",
+    "model": "claude-fable-5",
+    "generated": "2026-08-30",
     "inputs": {
-      "artifact:forarbete/prop/2014-15-60": "a78af9954a010edacb09c06a37b1b518114aeed698160ea4ad6a871a01ec4c2b",
-      "artifact:eurlex/32012L0018": "cd77f84ea0e22c5092232bd8fb37261870b5c67ad56c079ad83cd13ab6718b6e"
-    }
+      "artifact:forarbete/prop/2014-15-60": "c833e04c58c3fb496f4ee8ddffbd2275cafdff37bc192f9aeb0349fde2e11a8d",
+      "artifact:eurlex/32012L0018": "71809229022d756ab4c1203b9ba99a0f48ccf0dbd830705d13ba7b9842c2e566"
+    },
+    "method": "authored from a full reading of prop. 2014/15:60 chapters 6, 7 and 10, aligned against the directive's article list and the law's own lydelse -- the couplings are stated across sections, not within single sentences"
   },
   "genomforande": {
     "directives": [
-      "https://lagen.nu/ext/celex/32012L0018"
+      "https://lagen.nu/celex/32012L0018"
     ],
     "proposition": "https://lagen.nu/prop/2014/15:60",
     "edges": [
       {
         "predicate": "rpubl:genomforDirektiv",
-        "directive": "https://lagen.nu/ext/celex/32012L0018",
+        "directive": "https://lagen.nu/celex/32012L0018",
         "articles": [
-          "3",
-          "12"
+          "3"
         ],
         "pinpoints": [
-          "3 p",
-          "12"
+          "3.13"
         ],
         "uris": [
-          "https://lagen.nu/ext/celex/32012L0018#3",
-          "https://lagen.nu/ext/celex/32012L0018#12"
+          "https://lagen.nu/celex/32012L0018#3.13"
+        ],
+        "partial": false,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Begreppet allvarlig olyckshändelse i Seveso II- och III-direktiven har i Sevesolagstiftningen fått benämningen allvarlig kemikalieolycka för att på ett kortfattat och tydligt sätt beskriva vad det är fråga om.",
+        "page": 32,
+        "sfs": "S2"
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.10"
+        ],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#3.10"
+        ],
+        "partial": false,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Begreppet farliga ämnen omfattar i dag ämnen, blandningar och beredningar. Detta följer av artikel 3 i Seveso II-direktivet. I Seveso III-direktivet anges endast ämnen och blandningar. En ändring bör således genomföras i Sevesolagen.",
+        "page": 31,
+        "sfs": "S3"
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.1"
+        ],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#3.1"
+        ],
+        "partial": false,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Regeringen konstaterar att den engelska språkversionen i Seveso II- och Seveso III-direktiven definierar uttrycket verksamhet som ”the whole area under the control of an operator” respektive ”the whole location under the control of an operator”.",
+        "page": 32,
+        "sfs": "S4"
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.8"
+        ],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#3.8"
+        ],
+        "partial": false,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "I Seveso III-direktivets definition av anläggning görs ett tydliggörande tillägg om att det gäller ”anläggning ovanför eller under marknivå”. Regeringen är av uppfattningen att tillägget bör föras in i Sevesolagens definition av anläggning.",
+        "page": 31,
+        "sfs": "S5"
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.9"
+        ],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#3.9"
+        ],
+        "partial": false,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Däremot bör ett tillägg i Sevesolagen göras om att även den som har rätt att fatta andra beslut än avgörande ekonomiska sådana ska anses vara verksamhetsutövare i lagens mening.",
+        "page": 32,
+        "sfs": "S6"
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "3"
+        ],
+        "pinpoints": [
+          "3.16"
+        ],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#3.16"
+        ],
+        "partial": false,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "2",
+        "sentence": "Definitionen av lager i Seveso II-direktivet har i den svenska översättningen ändrats till lagring. I andra språkversioner används samma begrepp i Seveso II-direktivet och Seveso III-direktivet, t.ex. engelska storage och franska stockage. Någon betydelseskillnad är således inte avsedd.",
+        "page": 32,
+        "sfs": "S7"
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#2"
         ],
         "partial": true,
         "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
         "chapter": null,
         "paragraf": "3",
-        "sentence": "I andra stycket har ordet förväntade ersatt ordet möjliga i enlighet med definitionen i artikel 3 punkt 12 i Seveso III-direktivet.",
-        "page": 98
+        "sentence": "Av 3 § Sevesolagen framgår på vilka verksamheter lagen ska tillämpas.",
+        "page": 29
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "2"
+        ],
+        "pinpoints": [],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#2"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "4",
+        "sentence": "Artikel 2 i Seveso III-direktivet och artikel 4 i Seveso II-direktivet anger vilka typer av verksamheter som inte omfattas av direktivet.",
+        "page": 29
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "7"
+        ],
+        "pinpoints": [
+          "7.2",
+          "7.4"
+        ],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#7"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "7",
+        "sentence": "Enligt artikel 7.2 a i Seveso III-direktivet ska anmälan ges in inom rimlig tid för nya verksamheter och på förhand när det är fråga om en ändring.",
+        "page": 35
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "8"
+        ],
+        "pinpoints": [
+          "8.1",
+          "8.5"
+        ],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#8"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "8",
+        "sentence": "I artikel 8.5 i Seveso III-direktivet tydliggörs att verksamhetens handlingsprogram ska genomföras genom ett säkerhetsledningssystem.",
+        "page": 41
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "10"
+        ],
+        "pinpoints": [
+          "10.3"
+        ],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#10"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "10",
+        "sentence": "Bestämmelserna om säkerhetsrapport i artikel 10 i Seveso III-direktivet stämmer i huvudsak överens med artikel 9 i Seveso II-direktivet.",
+        "page": 43
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "12"
+        ],
+        "pinpoints": [
+          "12.1",
+          "12.5",
+          "12.6"
+        ],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#12"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "12",
+        "sentence": "Bestämmelser om planer för räddningsinsatser finns i artikel 12 i Seveso III-direktivet.",
+        "page": 45
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#20"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "15",
+        "sentence": "Bestämmelser om tillsyn finns i artikel 20 i Seveso III-direktivet.",
+        "page": 72
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "20"
+        ],
+        "pinpoints": [
+          "20.4"
+        ],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#20"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "18",
+        "sentence": "För att kontrollera att direktivet följs ska tillsynen enligt vad som anges i artikel 20 genomföras efter en övergripande tillsynsplan för samtliga Sevesoverksamheter.",
+        "page": 72
+      },
+      {
+        "predicate": "rpubl:genomforDirektiv",
+        "directive": "https://lagen.nu/celex/32012L0018",
+        "articles": [
+          "19"
+        ],
+        "pinpoints": [
+          "19.1"
+        ],
+        "uris": [
+          "https://lagen.nu/celex/32012L0018#19"
+        ],
+        "partial": true,
+        "law": "13.2 Förslaget till lag om ändring i lagen (1999:381) om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor",
+        "chapter": null,
+        "paragraf": "20",
+        "sentence": "I artikel 19.1 i Seveso III-direktivet finns dock ett förtydligande tillägg om att allvarliga fall av underlåtenhet att vidta nödvändiga åtgärder som anges i tillsynsrapporten ska beaktas vid bedömningen om driftförbud ska meddelas.",
+        "page": 89
       }
     ]
   }

@@ -14,17 +14,17 @@
   },
   "genomforande": {
     "directives": [
-      "https://lagen.nu/ext/celex/31998L0026",
-      "https://lagen.nu/ext/celex/32002L0047",
-      "https://lagen.nu/ext/celex/32004L0109",
-      "https://lagen.nu/ext/celex/32009L0044",
-      "https://lagen.nu/ext/celex/32010L0078"
+      "https://lagen.nu/celex/31998L0026",
+      "https://lagen.nu/celex/32002L0047",
+      "https://lagen.nu/celex/32004L0109",
+      "https://lagen.nu/celex/32009L0044",
+      "https://lagen.nu/celex/32010L0078"
     ],
     "proposition": "https://lagen.nu/prop/2010/11:95",
     "edges": [
       {
         "predicate": "rpubl:genomforDirektiv",
-        "directive": "https://lagen.nu/ext/celex/32002L0047",
+        "directive": "https://lagen.nu/celex/32002L0047",
         "articles": [
           "2"
         ],
@@ -32,7 +32,7 @@
           "2.1 o"
         ],
         "uris": [
-          "https://lagen.nu/ext/celex/32002L0047#2"
+          "https://lagen.nu/celex/32002L0047#2"
         ],
         "partial": false,
         "law": "9.1 Förslaget till lag om ändring i konkurslagen (1987:672)",

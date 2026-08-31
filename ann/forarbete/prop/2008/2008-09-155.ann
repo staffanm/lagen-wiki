@@ -13,16 +13,16 @@
   },
   "genomforande": {
     "directives": [
-      "https://lagen.nu/ext/celex/32000L0031",
-      "https://lagen.nu/ext/celex/32002L0047",
-      "https://lagen.nu/ext/celex/32004L0109",
-      "https://lagen.nu/ext/celex/32008L0022"
+      "https://lagen.nu/celex/32000L0031",
+      "https://lagen.nu/celex/32002L0047",
+      "https://lagen.nu/celex/32004L0109",
+      "https://lagen.nu/celex/32008L0022"
     ],
     "proposition": "https://lagen.nu/prop/2008/09:155",
     "edges": [
       {
         "predicate": "rpubl:genomforDirektiv",
-        "directive": "https://lagen.nu/ext/celex/32004L0109",
+        "directive": "https://lagen.nu/celex/32004L0109",
         "articles": [
           "12"
         ],
@@ -30,7 +30,7 @@
           "12.4"
         ],
         "uris": [
-          "https://lagen.nu/ext/celex/32004L0109#12"
+          "https://lagen.nu/celex/32004L0109#12"
         ],
         "partial": false,
         "law": "9.3 Förslaget till lag om ändring i lagen (1991:980) om handel med finansiella instrument",
