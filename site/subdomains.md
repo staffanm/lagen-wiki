@@ -1,2 +1,0 @@
-- [hyres.lagen.nu](sfs:1970:994#K12)
-- [samtyckes.lagen.nu](sfs:1962:700#K6P1)
