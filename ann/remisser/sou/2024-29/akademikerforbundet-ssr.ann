@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/akademikerforbundet-ssr": "a770d3374465a5dbd8aa5431da685105826facae2d2b87bb5674cff38121a0ca",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T01:52:17+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21389,
+      "completion_tokens": 4046,
+      "ended": "2026-09-02T01:54:44+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8fdc673c18682243be262e2862c2a4b56aeec6888a4493889f6d259b0739a5dc"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "I en omfattande och omfångsrik utredning med många förslag är det i princip ett av dem som sticker ut, och det hör till de svagast underbyggda och empiriskt mest dubiösa.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec514",
+      "sentiment": -0.5,
+      "quote": "Akademikerförbundet SSR är mycket kritisk mot denna statliga oförutsägbarhet gentemot medborgarna om välfärdens finansiering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "Akademikerförbundet SSR instämmer i att förvaltningarnas flitiga användande av bolagsformen minskar insynen i kommun- och regionsektorn och därmed möjligheterna till politisk påverkan och demokratiskt ansvarsutkrävande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "Förbundet delar helt ambitionen att minska denna administration, men med tillägget att det är naivt att tro att detta kan göras utan att också minska antalet valfrihetssystem inom stat, region och kommun.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.2",
+      "sentiment": 0.2,
+      "quote": "Det är dock oklart hur långt ett sådant förslag kan gå inom ramen för nuvarande regelverk där nya leverantörer måste ges möjligheter att komma in på marknaden och där det inte är ovanligt att bolag nybildas för att slippa undan anmärkningar eller domar i tidigare bolag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5",
+      "sentiment": -1.0,
+      "quote": "Resonemanget kring hur en bred skattesänkning, till en kostnad som överskuggar resten av utredningen, skulle leda till högre produktivitet liknar mest en studie i magiskt tänkande.",
+      "quote_type": "grund"
+    }
+  ]
+}

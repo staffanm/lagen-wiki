@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/riksantikvarieambetet": "8f576b4815f6362e9a163c71f3fa09d0e62901c4588ee1ac83ef7feafdc6a4f9",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:36:39+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26337,
+      "completion_tokens": 5026,
+      "ended": "2026-09-02T06:39:33+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0f81f928a405c6012ed7b80222ff75b34765af9c9da8c6a76ad9051db572918b"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Riksantikvarieämbetet anser att kommissionen ger uttryck för en alltför snäv tolkning av begreppet samhällsnytta.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.5",
+      "sentiment": 0.5,
+      "quote": "I vissa fall kan det ta längre tid att se vilka effekter som uppstår och en utvärdering i ett för tidigt skede riskerar att leda till onödigt arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.9",
+      "sentiment": 1.0,
+      "quote": "Riksantikvarieämbetet anser att förslaget att utnyttja möjligheten till undantag och flexibilitet i tillämpningen av EU-lagstiftning är bra och kan ha positiva effekter för kulturmiljön när det gäller EU:s vattendirektiv och Energiprestandadirektivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.1",
+      "sentiment": 0.2,
+      "quote": "Riksantikvarieämbetet har inget att invända mot att tillståndsprocesser kortas och samordnas men vill framhålla vikten av att allmänna intressen, som kulturmiljöer och kulturvärden, hanteras i dessa processer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": -1.0,
+      "quote": "Innan dessa förändringar har utvärderats är det inte lämpligt att starta en utredning, anser Riksantikvarieämbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": 1.0,
+      "quote": "Riksantikvarieämbetet delar kommissionens bedömning att det är väsentligt att säkerställa att byggregler tolkas och används på samma sätt i alla kommuner över hela landet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": -1.0,
+      "quote": "Hur och om detta ska hanteras i förhållande till plan- och bygglagens krav på att tillgodose kulturvärden som allmänintresse, bestämmelserna om varsamhet och god helhetsverkan samt förbud mot förvanskning redovisas inte.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.11",
+      "sentiment": -1.0,
+      "quote": "Riksantikvarieämbetet avstyrker dessa förslag då det synes vara svårt att förena med kraven på hänsyn och god helhetsverkan som bland annat utgår från den specifika platsens karaktär och kulturvärden.",
+      "quote_type": "grund"
+    }
+  ]
+}

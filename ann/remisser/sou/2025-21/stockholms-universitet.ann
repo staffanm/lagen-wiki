@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/stockholms-universitet": "cf7983915d0c4e634fdbba7acd1677e5315a972240550c2ca349bb770fefd08d",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:48:26+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 28752,
+      "completion_tokens": 4064,
+      "ended": "2026-09-01T23:51:10+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "27d183d31d25dcc1c6f616bebf51fde684b1e02c2c1d3b34d16146c26c71c54d"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Att restaurera för att uppnå effekter avseende biologisk mångfald och ekosystemtjänster till år 2030 är ambitiösa men orealistiska mål eftersom dessa processer tar lång tid både i skog och i jordbruksmarker.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": -0.5,
+      "quote": "Det finns en överhängande risk att markägare har en annan bedömning än myndigheter av vilken skog som är värdefull.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "En lokal åtgärdssamordnare kan bistå i att få till en helhetsbild och därmed dirigera rådgivningen i en positiv riktning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Det finns många studier som pekar på risker för en minskad biodiversitet i samband med gödsling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.2,
+      "quote": "Universitetet beklagar att Miljömålsberedningen inte lämnar några förslag om effekterna av plöjningsfritt jordbruk, vilket är ett sätt att öka mångfalden och kolinlagringen i åkermarken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 0.8,
+      "quote": "Torv är att betrakta som rent fossilt bränsle, och dess användning till energi eller blomjord är inte hållbar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.5,
+      "quote": "Utifrån utvecklingen under de senaste två årtiondena är det osannolikt att föreslagna åtgärder ska kunna leda till ett övertygande skydd för merparten av svensk naturskog inom några få år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": -0.2,
+      "quote": "Ur ett mångfaldsperspektiv är det därför viktigare att bevara en gräsmark än att skapa nya – det kan ta decennier innan en restaurerad mark kommer upp i samma naturvärden, biologiska mångfald och ekosystemtjänster.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/fackforbundet-vision": "89dbd312d238546205f2ead5a8ffde899aae53ef68eb5f02d0f373812f70a644",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:54:13+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21196,
+      "completion_tokens": 4374,
+      "ended": "2026-09-02T02:56:51+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d06081d73fad64759937fc0efeea480211ccdb9fcdbf236692fc68cb527e144e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vision anser att viktiga förutsättningar för att stärka välfärden är långsiktig stabil finansiering, minskad detaljstyrning och rätt använd kompetens.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.2,
+      "quote": "Vi vill dock understryka behovet av en starkare nationell samordning av digitaliseringsprocesser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 1.0,
+      "quote": "det med nuvarande resurser och system är svårt att se hur kommuner och regioner ska ha kapacitet att utföra en adekvat tillsyn av den stora mängd avtal som finns.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.2",
+      "sentiment": -0.5,
+      "quote": "Den offentliga konsumentmakten är större än individens, och Parisavtalets mål nås inte utan att offentlig konsumtion ställs om.",
+      "quote_type": "grund"
+    }
+  ]
+}

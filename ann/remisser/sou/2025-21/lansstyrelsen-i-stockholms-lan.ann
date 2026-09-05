@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-i-stockholms-lan": "457282b4238495229fab3fc56ab5079d91bd03718c7c7e751fb822c1af0e59d7",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T18:55:17+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 37809,
+      "completion_tokens": 8181,
+      "ended": "2026-09-01T19:00:30+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ad458edb5ac215195d79eec333f52d25618947a6a5f27f0d99317e06a329006a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Men vi kan konstatera att förslagen i betänkandet inte är tillräckliga för att Sverige ska nå sina åtaganden, vilket beredningen också själva konstaterar (sammanfattningen s. 28).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen kan endast tillstyrka förslaget under förutsättning att tillräckliga resurser tilldelas myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.5,
+      "quote": "Vi ser en risk för att parallella eller överlappande uppdrag blir komplicerat och svårhanterat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.2,
+      "quote": "Anläggning och restaurering av våtmarker i klimatfrämjande syfte och för att gynna biologisk mångfald är fullt i linje med den lokala naturvårdssatsningens grundläggande syften redan från start 2004.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.5,
+      "quote": "Ett etappmål kan, genom att vara kvantifierat och tidsatt, förtydliga nödvändiga steg för att målet ska nås.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.4",
+      "sentiment": 1.0,
+      "quote": "Beräkning av hållbara avverkningsnivåer som inkluderar ökat kolupptag (8.2.4)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 1.0,
+      "quote": "uppmaningen till Sveaskog att öka nettoupptaget (8.2.5)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen avstyrker förslaget om ersättning till markägare för att öka kvävegödslingen av skog då det motverkar miljökvalitetsmålet Ingen övergödning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen ställer sig tveksam till och har invändningar mot förslaget om kolinlagringsavtal då det endast skulle bidra till en kortvarig effekt på inlagringen av kol.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": 0.5,
+      "quote": "Det föreslagna uppdraget till Upphandlingsmyndigheten om en informations- och rådgivningsinsats om upphandling av naturbeteskött, renkött och viltkött kan med fördel breddas till en informations- och rådgivningsinsats om upphandling av mat med positiva effekter på kolinlagring, andra klimataspekter och biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": 0.5,
+      "quote": "För att skapa incitament till senare skörd för de som inte är beroende av hög kvalitet och kvantitet på vall till foder skulle man kunna överväga en tilläggsersättning för de som skördar vallen senare på säsongen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": 1.0,
+      "quote": "miljöersättning för mellangröda (9.2.3)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": 1.0,
+      "quote": "biogasstöd för vall (9.2.4)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.2.5",
+      "sentiment": 1.0,
+      "quote": "breddad definition av trädjordbruk (9.2.5)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 1.0,
+      "quote": "begränsning av när torvmark får tas i anspråk (10.2)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 1.0,
+      "quote": "ökat nettoupptag i träprodukter (11.1.1, 11.1.2 och 11.1.4)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.1.3",
+      "sentiment": 0.5,
+      "quote": "Skogsstyrelsens information och rådgivning skulle med fördel kunna breddas till att även verka för tillgång till kvalitetsvirke för det traditionella trähusbyggandets behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.5,
+      "quote": "Det behöver förtydligas om andra aktörer, som exempelvis myndigheter, kommuner, ideella föreningar, ekonomiska föreningar, företag etcetera, kommer att vara berättigade att söka stödet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen ställer sig positiv till förslaget om markersättning men omständigheterna behöver förtydligas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": 0.5,
+      "quote": "Det behövs en tydligare definition av vad som menas med restaurering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen bedömer det som riskfyllt att införa undantag och vi är tveksamma till om ett sådant förfarande är rättssäkert.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 1.0,
+      "quote": "utfasning av torvutvinning (12.5)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.6",
+      "sentiment": 1.0,
+      "quote": "ändring av miljökvalitetsmålet Myllrande våtmarker (12.6)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.1",
+      "sentiment": 1.0,
+      "quote": "Inte minst med tanke på markägarnas rättssäkerhet är det viktigt att prioritera de naturtyper som omfattas av ickeförsämringskravet i restaureringsförordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.2",
+      "sentiment": 1.0,
+      "quote": "två nya anslag för intrångsersättning (13.1.2)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": -0.5,
+      "quote": "Systemet med att rapportera OECM behöver ses över och tydliggöras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.13",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen kan endast tillstyrka förslaget under förutsättning att tillräckliga resurser tilldelas myndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen är positiv till förslaget att skydda all urskog och gammal skog till 2030. Men vi anser att definition av gammal skog är alltför snäv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.3",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen har svårt att se hur förslaget ska kunna realiseras om tiden för Skogsstyrelsen att hantera avverkningsanmälningar kortas från 6 veckor till 10 dagar enligt förslag i SOU 2024:91 ”Ett tydligt regelverk för aktivt skogsbruk”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.1",
+      "sentiment": 1.0,
+      "quote": "nytt etappmål för skötsel och restaurering i skyddade områden (15.1.1)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1.2",
+      "sentiment": 1.0,
+      "quote": "ökade anslag för skötsel av skyddad natur och naturvårdande skötsel (15.1.2 och 15.1.3)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1.4",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen kan endast tillstyrka förslaget under förutsättning att tillräckliga resurser tilldelas myndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.5",
+      "sentiment": 0.5,
+      "quote": "Föreslagen författningsändring (3 § 11) (i 1.6) är enbart är kopplad till fastigheter som staten äger för naturvårdsändamål och inte generellt för skyddade områden som är avsikten enligt motiven i utredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.6",
+      "sentiment": 0.5,
+      "quote": "Utredningens förslag (i 1.5) är mindre bra formulerat och bör uttryckas mera stringent.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2",
+      "sentiment": 1.0,
+      "quote": "minimal förlust av biologisk mångfald (17.2.1, 17.2.2, 17.2.5 och 17.2.6)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen ser att förslaget är av visst intresse men det får inte gå före att myndigheter bör kunna tillhandahålla heltäckande, relevanta och uppdaterade karteringar och modelleringar av naturen, vilket nu ny teknik möjliggör i allt högre grad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": 0.5,
+      "quote": "När det gäller regler om miljöbedömningar föreslår Länsstyrelsen att även införa krav på att utreda om miljöer i restaureringsförordningen ingår i det berörda området, och hur man i så fall avser att tillgodose icke-försämringskravet.",
+      "quote_type": "grund"
+    }
+  ]
+}

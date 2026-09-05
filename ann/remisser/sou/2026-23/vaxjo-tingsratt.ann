@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/vaxjo-tingsratt": "f20462ae7890c1d32d1bbf04aa3a2e65770fbbeebdfc07e2a6a2407b2eee0567",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T13:00:49+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17311,
+      "completion_tokens": 2102,
+      "ended": "2026-09-01T13:01:56+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "25b5c1d2d5963fe409aa5c7b55a32cfd230f8a9b2431047156739b128319493f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Avgiften riskerar därmed att begränsa möjligheterna för enskilda att ta vara på sina rättigheter och intressen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.16",
+      "sentiment": 1.0,
+      "quote": "Tingsrätten delar utredningens bedömning att tolkavgift inte ska tas ut i domstolarnas rättskipande verksamhet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 1.0,
+      "quote": "Tingsrätten tillstyrker förslaget om förbud för myndigheter att använda barn som tolk.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

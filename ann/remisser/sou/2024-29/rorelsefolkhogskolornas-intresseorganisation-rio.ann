@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/rorelsefolkhogskolornas-intresseorganisation-rio": "d599ab68e8939becc5a6337c04821be5403653e2e26f66d05246a4eb10f89534",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:46:44+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19788,
+      "completion_tokens": 2586,
+      "ended": "2026-09-02T06:48:06+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b56ceebee88f37727e5c5dce5693788d0f3d6eaffc9771e7ca97d0564599913c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "RIO har inte givits möjlighet att lämna synpunkter vid kommissionens utförande av sitt arbete, vilket organisationen beklagar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.1.1",
+      "sentiment": 1.0,
+      "quote": "Mer och bättre utbildning är avgörande för Sveriges framtida produktivitetstillväxt och förbättrar stora gruppers ställning på arbetsmarknaden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": 1.0,
+      "quote": "RIO delar kommissionens bedömning.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

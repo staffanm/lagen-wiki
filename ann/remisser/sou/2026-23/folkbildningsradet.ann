@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/folkbildningsradet": "2b3ecb7753839750e5e713c614380dd277c85462324808f7e16a2924e2ca4f3b",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T13:07:39+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20517,
+      "completion_tokens": 2294,
+      "ended": "2026-09-01T13:09:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "5fe2b57efe44e5f39882054cb4118dbe3c01b6793ce0e5774e92bc434ad1c632"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Folkbildningsrådet anser att den föreslagna lagen om tolkavgift behöver förtydligas för att regleringen ska bli förutsebar och möjlig att tillämpa på ett rättssäkert sätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": -0.5,
+      "quote": "Den föreslagna informationsskyldigheten avser däremot en avgift som kan uppkomma även vid framtida kontakter med myndigheter och andra aktörer som inte omfattas av skollagens tillämpningsområde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": -0.2,
+      "quote": "Det kan skapa osäkerhet för både enskilda och beslutande myndigheter och riskera skillnader i tillämpningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.13",
+      "sentiment": -0.5,
+      "quote": "Folkbildningsrådet ser en risk för att tolkavgiften därmed i praktiken drabbar just de personer som har svårast att påskynda sin språkinlärning, snarare än att fungera som det incitament utredningen avser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.1",
+      "sentiment": 1.0,
+      "quote": "Folkbildningsrådet delar mot denna bakgrund utredningens bedömning att personer som på grund av bestående funktionsnedsättning saknar reella möjligheter att uppnå tillräckliga kunskaper i svenska ska kunna undantas från tolkavgiften.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.7",
+      "sentiment": 1.0,
+      "quote": "Att ge ett barn sådant ansvar kan vara olämpligt både med hänsyn till barnets egen situation, till verksamheten och till behovet av korrekt och rättssäker kommunikation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a22.2.4",
+      "sentiment": -0.2,
+      "quote": "Folkbildningsrådets erfarenhet är kvinnor överrepresenterade bland de deltagare som har en längre startsträcka för att lära sig svenska, till exempel till följd av kortare formell skolbakgrund eller till följd av att studier i sfi avbryts eller förlängs på grund av omsorgsansvar.",
+      "quote_type": "grund"
+    }
+  ]
+}

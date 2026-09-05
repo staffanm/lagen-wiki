@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/funktionsratt-sverige": "33ce7bf99e07adc634dfe180c866bf011b0261ac8f9694c850b6f39256a636e1",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T03:15:19+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 29665,
+      "completion_tokens": 3118,
+      "ended": "2026-09-02T03:17:16+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "6ecda67d2d3bd72aa70abdda540d8eb397a872f589ff5a5bd812e2e27ef7ca4e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Vi menar att en ekonomi som exkluderar 15–20 % av befolkningen från full delaktighet är en i grunden ineffektiv ekonomi.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": -0.5,
+      "quote": "Ett ensidigt fokus på företagens direkta kostnader riskerar att osynliggöra de mänskliga rättigheterna och de långsiktiga kostnader som uppstår för individ och samhälle när tillgängligheten brister.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -1.0,
+      "quote": "Att montera ned byggreglerna innebär också i praktiken att montera ned rätten till ett självständigt liv (art. 19 Funktionsrättskonventionen).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": -0.5,
+      "quote": "Personer med funktionsnedsättning har dokumenterat lägre inkomster, och redan i dag är merkostnadsprincipen för LSSbostäder urholkad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.2,
+      "quote": "En skola som problematiserar barnet istället för att utveckla tillgängliga skol- och lärmiljöer undergräver på sikt både individens möjligheter och hela samhällets innovationskraft och humankapital.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": -0.2,
+      "quote": "Om digitaliseringen inte är tillgänglig för alla skapas nya former av utanförskap som i sig är djupt ineffektiva för samhället.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec507",
+      "sentiment": -0.5,
+      "quote": "Inom kommunsektorn ser vi en risk med att inordna riktade statsbidrag för utbildning och hälsa i generella sektorsbidrag, då mindre grupper med stora behov riskerar att trängas undan.",
+      "quote_type": "grund"
+    }
+  ]
+}

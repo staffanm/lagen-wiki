@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/svenska-lakaresallskapet": "6804e186f0243347ab50d021f996fec76e368e0b115562bb167853479c5e5305",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T07:35:48+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25141,
+      "completion_tokens": 4051,
+      "ended": "2026-09-02T07:38:07+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "66607bc28a5c9a0a336340645025aaad37356817a92da3230b463d5430584b9b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Med ett alltför ensidigt affärsoch produktionsfokus finns en risk att utredningens förslag kan leda oss längre bort från en jämlik vård med patienten i centrum.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "Hälso- och sjukvård är i sig en komplex verksamhet med många perspektiv som ska samsas - det individuella kontra det kollektiva, patienternas hälsa och välmående, vårdpersonalens arbetsmiljö, patientsäkerhet, utveckling, forskning, undervisning, uppföljning, kostnadsmedvetenhet… Vi ser det därför som viktigt att man hittar rätt perspektivträngsel att åtgärda.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/naturvardsverket": "8e0da854f90db4c5f99164283c4fe15cf52d936fc0febd43d372e12e3b2d92cd",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:27:01+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22224,
+      "completion_tokens": 3877,
+      "ended": "2026-09-02T05:29:08+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "17a619dcc77e2c6147c578e9016ae3b97de66f96b188255b26cc9d2025b374b9"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Naturvårdsverket är positiv till produktivitetskommissionens systemövergripande angreppssätt, men ser flera problem med de bedömningar och förslag som kommissionen presenterat.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.5,
+      "quote": "Skälen till detta är att de förslag som lämnas i Miljötillståndsutredningen vilar på mer omfattande analyser av tillståndsprocesserna och de problemställningar som kan uppstå vid förändringar i dessa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec254",
+      "sentiment": 0.0,
+      "quote": "Däremot motsätter vi oss en ventil så som det beskrivs i förslaget då det är oklart hur en sådan ska kunna fungera på ett förutsägbart sätt, samtidigt som skyddet av nationellt viktiga värden kan bestå långsiktigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec256",
+      "sentiment": -0.5,
+      "quote": "Undantaget för byggande av ledningar med ledningskoncession finns redan vad gäller strandskydd i 16 § 4 miljöbalken, sedan den 1 juli 2024.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.12",
+      "sentiment": -1.0,
+      "quote": "Vi anser inte att det är lämpligt att föreslå ändringar i strandskyddsbestämmelserna samtidigt som en översyn nyligen gjorts, och en ny strandskyddsutredning pågår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.1",
+      "sentiment": 1.0,
+      "quote": "En ökad samordning inom statsrådsberedningen skulle stärka förutsättningarna för att samverkan mellan myndigheter, och andra aktörer, leder till önskade förflyttningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

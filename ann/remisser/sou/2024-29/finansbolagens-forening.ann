@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/finansbolagens-forening": "a16cd655fbb3a06573fa01fd1ca3b893586d9cc49902ffdd8ec366a2cbcb5578",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T03:03:38+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19049,
+      "completion_tokens": 2996,
+      "ended": "2026-09-02T03:05:28+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f9ecb61bc076411a3872713bdeb6cae11d01066fa759576532910130077059ab"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Finansbolagens delar kommissionens uppfattning att regelförenkling är ett område med stor potential utifrån ett produktivitetsperspektiv och ställer sig generellt positiv till de förbättringar inom området som föreslås.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.5,
+      "quote": "regelförenkling är ett område med stor potential utifrån ett produktivitetsperspektiv",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec82",
+      "sentiment": -1.0,
+      "quote": "sådana krav på portabilitet riskerar att medföra betydande kostnader som kan överstiga de potentiella vinsterna av ökad konkurrens",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec82",
+      "sentiment": -1.0,
+      "quote": "Det är viktigt att stärka konkurrensen genom att öka transparensen men förbud är inte rätt väg att gå",
+      "quote_type": "grund"
+    }
+  ]
+}

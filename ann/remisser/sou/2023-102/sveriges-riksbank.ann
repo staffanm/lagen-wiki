@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/sveriges-riksbank": "5c9f9d21f1fcb65dd2f0555d09ea2ad715511110a361a56d3faadfb608b1ba92",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T17:04:17+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 11374,
+      "completion_tokens": 2218,
+      "ended": "2026-09-01T17:05:22+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "483e6739695b4341ca8f69b9f52adfd1cb2927e6d67128ba6be5795d47421d87"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Riksbanken tillstyrker förslagen rörande anpassningar i svensk lagstiftning till följd av EU:s s.k. DLT-förordning .",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4",
+      "sentiment": 1.0,
+      "quote": "Riksbanken tillstyrker förslagen rörande anpassningar i svensk lagstiftning till följd av EU:s s.k. DLT-förordning .",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 1.0,
+      "quote": "Riksbanken tillstyrker även anpassningen i svensk lagstiftning för att förenkla implementerandet av tillbörliga standarder i efterhandelsprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.0,
+      "quote": "Riksbanken avstår från att yttra sig över förslagen rörande möjligheten att i vissa fall avsluta ett avstämningskonto med okänd ägare.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

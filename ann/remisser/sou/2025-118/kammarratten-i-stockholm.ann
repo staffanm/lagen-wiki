@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/kammarratten-i-stockholm": "a52f6b1473cd43091654d013023b556b5df076496d238fee4ce2d38a2e1ecec8",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:00:44+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12441,
+      "completion_tokens": 2713,
+      "ended": "2026-09-01T15:02:05+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "dab459fc4ea466fc193cb4057140090162bafcd665b60c3b59384d2c9e29da12"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarrätten tillstyrker förslaget med följande kommentarer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.5.2",
+      "sentiment": -0.2,
+      "quote": "Det finns risk för kollision mellan PTS:s och IMY:s ansvarsområden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec108",
+      "sentiment": 0.5,
+      "quote": "Det är positivt att det i överklagandebestämmelsen tydliggörs att en berörd myndighet får överklaga behörig myndighets (PTS) beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.4",
+      "sentiment": -0.2,
+      "quote": "Det finns en risk att detsamma kan komma att gälla för PTS:s beslut efter klagomål från enskilda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.5,
+      "quote": "hur det ska säkerställas att sådana aktörer finns och kan certifieras framgår inte av betänkandet.",
+      "quote_type": "grund"
+    }
+  ]
+}

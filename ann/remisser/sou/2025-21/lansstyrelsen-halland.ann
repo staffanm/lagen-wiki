@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-halland": "8037234b878d79e6379b0c3bcd997bead5a9ca86f5c4451f524a479ec9d106e7",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T18:31:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 68843,
+      "completion_tokens": 12188,
+      "ended": "2026-09-01T18:38:35+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e56589592d3b7bc6d1ffe3e29d7c58985fd54a59da9135050c35cb3f6b3215c5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Beredningens förslag bidrar till att Sverige i viss utsträckning kan nå åtaganden inom EU och internationellt för biologisk mångfald, och bidra till LULUCF-åtagandena.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "För att uppnå effekten för ökad informationsspridning samt öka åtgärdssamordningen lokalt och regionalt kommer det krävas betydande resurser både inom myndighetsutförandet samt för utbetalningar av bidrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker miljömålsberedningens förslag på att vidga inriktningen för åtgärdssamordningen så att det innefattar både åtgärder kopplat till biologisk mångfald och kolinlagring",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.5,
+      "quote": "Dock anser inte Länsstyrelsen att förändringar av förordningen (2009:381) om Lokala naturvårdssatsningen (LONA) kring att ta bort åtgärder kopplade till återvätning av dränerad torvmark samt våtmarksåtgärder i syfte att gynna biologisk mångfald är till fördel för en ny förordning om våtmarksstöd",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen välkomnar förslaget om att inrätta en ny indikator, upptag och utsläpp från markanvändningssektorn, för uppföljning av miljökvalitetsmålet begränsad klimatpåverkan",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Eftersom effekten av ökat koldioxidupptag riskerar att påverka andra miljömål negativt, bedömer vi att det är rimligt att det här förslaget (80–120 milj. kr/år) utgår till förmån för mer tydligt positiva åtgärder i beredningens förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": 1.0,
+      "quote": "En riktad informationssatsning för att öka den offentliga upphandlingen av naturbeteskött och viltkött antas bidra till ökad areal naturbetesmarker genom ökad produktion och avsättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": 0.5,
+      "quote": "Detta riskerar dock att ytterligare minska intresset av att låta beta de mer svårtillgängliga naturbetesmarker vilka är viktiga områden för biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": 1.0,
+      "quote": "Ur ett energi- och klimatperspektiv välkomnar Länsstyrelsen förslaget att Energimyndighetens biogasstöd även ska omfatta vall.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.2.5",
+      "sentiment": 1.0,
+      "quote": "Förslaget skulle innebära att det går att ha både träd och buskar i åkermarken med stöd, ett förslag som är gynnsamt och dessutom enkelt och tydligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen menar att fjärrvärme är en energibärare av stor strategisk betydelse i det svenska energisystemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker det Miljömålsberedningen skriver om behovet av stabil och långsiktig finansiering för våtmarksåtgärder.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": 0.5,
+      "quote": "Dock ska det beaktas vilka risker som medförs när tidigare krav på tillståndsprövning förändras och hur en ändring kan misstolkas till fördel för åtgärderna utan tydlig förankring kring påverkan på enskilda intressen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker miljömålsberedningens förslag att precisera miljökvalitetsmålet Myllrande våtmarker.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget om att Sverige i sitt arbete med att skydda natur ska prioritera områden med naturtyp enligt restaureringsförordningen och områden med livsmiljöer som kräver bevarande för hotade arter enligt art- och habitatdirektivet och fågeldirektivet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget om två nya anslag, ett vardera för Skogsstyrelsen och Naturvårdsverket, för intrångsersättningar till fastighetsägare för skydd av skog (utgiftsområde 23 Areella näringar, landsbygd och livsmedel) och för skydd av värdefull natur (utgiftsområde 20 Klimat, miljö och natur).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.13",
+      "sentiment": 0.5,
+      "quote": "Förslaget i avsnitt 13.1.13 kan därför endast tillstyrkas om tillräckliga resurser tilldelas för såväl det föreslagna nya uppdraget som för andra delar i länsstyrelsernas arbete med biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3.7",
+      "sentiment": -0.2,
+      "quote": "Mot den bakgrunden ser Länsstyrelsen med oro på att Miljömålsberedningen inte föreslagit ett mer aktivt myndighetsarbete gällande de skogstyper som omfattas av ickeförsämringskravet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.5,
+      "quote": "Utredningen använder en alltför snäv definition av gammal skog – den bör harmoniera med hur begreppet tolkas i andra EU-länder",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.4",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget om ersättning vid skydd av urskog och gammal skog.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1",
+      "sentiment": 0.8,
+      "quote": "Länsstyrelsen delar i stort Miljömålsberedningens analys och bedömning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen välkomnar att ersättningen för skötsel av betesmarker med särskilda värden ska höjas för att täcka merkostnaden för skötseln av dessa marker, ett bra förslag som kan motverka minskning av arealen naturbetesmark.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen delar synen på att brynmiljöer alltför ofta växer igen och riskerar att försvinna och är därför positiva till att återbeskogningsplikten närmast jordbruksmark avskaffas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.2",
+      "sentiment": 0.5,
+      "quote": "Det är viktigt att förslaget förtydligas så att det framgår att en fröbank aldrig kan ersätta livskraftiga naturliga populationer och fungerande naturliga ekosystem och att det inte heller är syftet.",
+      "quote_type": "grund"
+    }
+  ]
+}

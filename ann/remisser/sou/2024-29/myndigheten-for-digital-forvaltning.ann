@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/myndigheten-for-digital-forvaltning": "4eb356194fb6e5f70879401abc1ac256f452da4d3b956484a18b0ecfda2bfe05",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:16:33+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26951,
+      "completion_tokens": 3950,
+      "ended": "2026-09-02T05:18:52+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d68ffee3e59beb9dc7b0e93300d8c6c06f4e56232282bfd1ce0f9a9076760a1e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Digg delar Produktivitetskommissionens slutsatser att digitaliseringen är det enskilda område som har störst potential att öka produktiviteten i den offentliga sektorn, att Sveriges offentliga sektor i detta avseende utvecklas långsammare än andra jämförbara länder och att digitaliseringen av den offentliga sektorn därför behöver öka.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": -0.2,
+      "quote": "Även om kommissionen förordar en proportionalitetsprincip finns en risk att detta blir administrativt tungt, långsamt och skapar oklar ansvarsfördelning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.10",
+      "sentiment": 0.8,
+      "quote": "En primär källa från vilken data kan konsumeras innebär i förlängningen att uppgiftslämnarbördan minskar för alla och rättssäkerheten ökar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.2",
+      "sentiment": 0.5,
+      "quote": "Om kommitté får det breda uppdrag som föreslås riskerar dock uppdraget att bli för oprecist och omfattande.",
+      "quote_type": "grund"
+    }
+  ]
+}

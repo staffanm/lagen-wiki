@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/sveriges-kommuner-och-regioner": "ef8f169d2ad421c3981352102de6ed83bd5fa312d8a0f0fc12ce7ed84fd2b52b",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:45:22+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 58798,
+      "completion_tokens": 8022,
+      "ended": "2026-09-02T00:50:21+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "a0b8229e0756b2826a9095c16e932c3b581d6d20c69a23b8275112bb8a51a429"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sveriges Kommuner och Regioner (SKR) ser det som angeläget att fortsätta arbetet för att Sverige ska kunna leva upp till EU:s åtaganden inom biologisk mångfald respektive nettoupptag av växthusgaser från markanvändningssektorn (LULUCF).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.8,
+      "quote": "Med hänsyn till att många av förslagen i betänkandet bygger på frivillighet är en utökad satsning på information och rådgivning en förutsättning för att Sveriges åtaganden inom området ska kunna uppnås.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.5,
+      "quote": "Detta förutsätter dock samtidigt att de tillgängliga medlen inom LONA ökar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.5,
+      "quote": "Det är därför positivt att staten föreslås ta ett större ansvar för skogsrådgivning och information.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.5.3",
+      "sentiment": -1.0,
+      "quote": "SKR avstyrker Miljömålsberedningens förslag om att införa avtal om förlängda omloppstider.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "Ett sådant verktyg kan vara ett stöd vid avvägningen mellan olika intressen vid exploatering och planläggning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -1.0,
+      "quote": "Förslaget framstår inte som färdigberett och konsekvenserna av förslaget, exempelvis på planering och byggande, har inte belysts.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 0.5,
+      "quote": "Det är också positivt att Boverket får i uppdrag att främja återbruk av byggmaterial, inklusive långlivade träprodukter, eftersom frågan om återbruk i byggsektorn idag är förenad med stora osäkerheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 1.0,
+      "quote": "SKR tillstyrker förslaget om ett nytt och utökat anslag för finansiering av restaurering och anläggande av våtmarker, inklusive återvätning av torvmarker.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": 0.8,
+      "quote": "Med hänsyn till återvätningens stora potential att öka nettoupptaget av koldioxid är det positivt att tillståndsprocessen underlättas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": 0.5,
+      "quote": "För områden där andra skyddsformer inte är möjliga skulle avgränsning och rapportering som OECM i viss mån kunna bidra till att bevara och utveckla den biologisk mångfalden på ett ändamålsenligt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.12",
+      "sentiment": -0.5,
+      "quote": "SKR har inga principiella invändningar mot förslaget men anser att beredningen kraftigt underskattar det arbete som kommuner kan behöva lägga ned på rapporteringen, särskilt i ett inledande skede när det saknas en tydlig process och vägledning för arbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1",
+      "sentiment": -0.2,
+      "quote": "Enligt förslaget tillförs medel till Naturvårdsverket och länsstyrelserna men inte till de kommuner som förväntas utföra samma arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.1",
+      "sentiment": -1.0,
+      "quote": "Att formulera riktade uppdrag till kommunerna med stöd av miljömålen kan innebära att finansieringsprincipen åsidosätts i det fall kommuner uppfattar uppgifterna som obligatoriska.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": -1.0,
+      "quote": "• SKR avstyrker Miljömålsberedningens förslag att formellt skydda ytterligare skogsarealer innan finansiering och skötseln av befintligt skyddade områden säkerställts på ett ändamålsenligt sätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

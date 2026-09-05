@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/linkoping-universitet": "e20920562f345d94668b9c2f10cd2d990beea9df53b17b42b183f234cb00f630",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:38:28+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27244,
+      "completion_tokens": 4489,
+      "ended": "2026-09-02T04:41:06+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "415dedb6ee3f189ca505766196b5e6decaa097aeeb696414ea44a6df32500037"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sammanfattningsvis har LiU följande synpunkter på betänkandet Fler möjligheter till ökat välstånd (SOU 2025:96)",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": 0.5,
+      "quote": "Fördelarna skulle vara en mer ändamålsenlig dimensionering av högre utbildning och mer kvalificerade studenter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 0.2,
+      "quote": "Detta riskerar att öka den sociala snedrekryteringen och utestänga vissa grupper från högre utbildning samt att fler blir beroende av att arbeta parallellt med studierna, vilket kan inverka menligt på genomströmningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": 1.0,
+      "quote": "LiU stödjer samtliga förslag som innebär att tidiga och adekvata insatser ska vidtas för att fler ska klara grundskolan och anser att en försöksverksamhet med utvidgad undervisningstid, dvs. något förkortat sommarlov, skulle vara värt att testa.",
+      "quote_type": "grund"
+    }
+  ]
+}

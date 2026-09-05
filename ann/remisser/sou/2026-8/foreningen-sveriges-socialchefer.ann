@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/foreningen-sveriges-socialchefer": "9100680dcb2d6d4353c12a7f61280feed4304f201e8aff384a506aa726f146d6",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:26:32+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19261,
+      "completion_tokens": 3189,
+      "ended": "2026-09-01T13:28:31+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d955ea1ebd92dde3744fda83d5e12e1fb6d33cc41cb48ebfb5dde310d556191e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslagen bedöms stärka barnrättsperspektivet, rättssäkerheten och likvärdigheten i tillämpningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7",
+      "sentiment": 0.5,
+      "quote": "Sakkunniga bör vara ett stöd till socialtjänsten, inte ersätta professionella bedömningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9",
+      "sentiment": -1.0,
+      "quote": "Förslaget riskerar att skapa otydlighet i ansvarsfördelning och påverka tilliten till socialtjänsten negativt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.7",
+      "sentiment": 0.5,
+      "quote": "Det är positivt att barnets bästa tydligare anges som grund för beslut om umgänge.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.7",
+      "sentiment": 0.2,
+      "quote": "Testning bör ske när det är motiverat och proportionerligt, men inte utgöra en generell obligatorisk åtgärd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 1.0,
+      "quote": "Detta stärker möjligheterna att upptäcka kvarstående behov av stöd och skydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": 1.0,
+      "quote": "Det är viktigt att syskon inkluderas i skyddsbedömningar och att rättssäkerheten stärks vid placering på särskilda ungdomshem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 1.0,
+      "quote": "Det är viktigt att syskon inkluderas i skyddsbedömningar och att rättssäkerheten stärks vid placering på särskilda ungdomshem.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/smhi": "0f0ff44344696e1c306fd33045b1b07d3920aae927642fcba4efcbbd23905558",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:40:25+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26804,
+      "completion_tokens": 4251,
+      "ended": "2026-09-01T23:43:11+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "04143aaaaa1e4a3ebdc2a4f96ac1a64eab9a3f62eecc6bfd95a5a65224f26b7b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "SMHI anser därmed att det är av största vikt att Sverige vidtar nödvändiga åtgärder för att leva upp till EU:s åtagande om växthusgaser från markanvändningssektorn (LULUCF).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec104",
+      "sentiment": 0.0,
+      "quote": "SMHI anser att utgångspunkten i analysen, både vad gäller åtagandena inom biologisk mångfald och LULUCF, därför måste vara att dessa behöver ses i ljuset av att vi går mot ett allt varmare framtida klimat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec29",
+      "sentiment": -0.2,
+      "quote": "SMHI menar att denna formulering kan upplevas otydlig då damm används i dubbla men närliggande betydelser - både för att beteckna en mindre anlagd vattensamling, och för att beteckna en dammkonstruktion/fördämning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.5.2",
+      "sentiment": -0.5,
+      "quote": "Förslaget om att ge ersättning till stöd för ökad skogsgödsling riskerar att ytterligare förvärra situationen och utgör ett potentiellt hot mot den biologiska mångfalden i Östersjön.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.2,
+      "quote": "SMHI menar därför att försiktighet bör iakttas så att våtmarkernas potential i detta sammanhang inte överskattas.",
+      "quote_type": "grund"
+    }
+  ]
+}

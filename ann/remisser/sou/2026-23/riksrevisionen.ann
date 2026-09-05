@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/riksrevisionen": "09e9c47455287e05db5ebd8b75178f307f1f166de3ffd1a5295f127286a2b909",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:40:45+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19000,
+      "completion_tokens": 697,
+      "ended": "2026-09-01T12:41:09+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "6cb313e3a322eaeea2a1d99e44e428292099af67a4d69e325d10cc62f1cba898"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Riksrevisionen avstår från att yttra sig.",
+    "quote_type": "standpunkt"
+  },
+  "segments": []
+}

@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/svenskt-friluftsliv": "bb6e94758054abfcc6deae5c68189cba395cf6819acf9d3ee2121e6a2bd359ae",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:22:29+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 28865,
+      "completion_tokens": 3693,
+      "ended": "2026-09-02T00:25:00+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "cb0b596bed97ffee6fc68fb24c4c37554f2578bcfa19774c65a03782e02a6a9e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "förslag som gynnar biologisk mångfald är generellt viktiga för ett hållbart friluftsliv.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19.12.1",
+      "sentiment": 1.0,
+      "quote": "Svenskt Friluftsliv ser positivt på den ambitionen och menar att den föreslagna ökningen är en absolut nödvändighet för en positiv utveckling på området framöver.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.2",
+      "sentiment": 1.0,
+      "quote": "För många av friluftsrörelsens verksamheter och människors friluftsutövande är förekomsten av urskog, naturskog, gammal skog och äldre träd en mycket viktig ingrediens (Skogstyrelsen, Skogens rekreationsvärden 2023:08).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 0.5,
+      "quote": "Forskning visar att blandskog och förekomst av lövträd upplevs positivt av friluftsutövare/besökare, liksom av att skogliga miljöer varken är för tät eller för gles.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.12.2",
+      "sentiment": 0.2,
+      "quote": "Svenskt Friluftsliv vill lyfta fram att revideringar av skötselplaner också behöver fokusera på hållbara besök i naturen av individer, grupper och föreningar för att värna den biologiska mångfalden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.2,
+      "quote": "Svenskt Friluftsliv har uppmärksammat ett stort behov av att friluftsrörelsen inkluderas i detta samverkansuppdrag vid behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.5",
+      "sentiment": 1.0,
+      "quote": "Svenskt Friluftsliv är positiva till och tillstyrker förslaget då det även kan gynna det lokala och regionala friluftslivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 1.0,
+      "quote": "Svenskt Friluftsliv tillstyrker förslaget om en utvidgning av aktörer som kan få ersättning med stöd av LONA, vilket naturligtvis ska omfatta friluftsrörelsens organisationer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.1",
+      "sentiment": 1.0,
+      "quote": "Svenskt Friluftsliv tillstyrker förslagen om ett aktivt jordbruk som främjar kolinlagring och biologisk mångfald då sådana miljöer och odlingslandskap, inklusive ängs- och betesmarker, även kan vara positivt för friluftslivet och kulturmiljöer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.1.2",
+      "sentiment": 1.0,
+      "quote": "Svenskt Friluftsliv tillstyrker beredningens förslag om en ny skyddsform, biotopskyddsområde, för urskogar och naturskogar och som innebär ett förbud mot skogsbruk i kvarvarande urskogar och naturskogar i Sverige.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 1.0,
+      "quote": "Eftersom staten har rådighet över Sveaskogs mark, och Sveaskog är en mycket stor skogsägare, kan staten och Sveaskog bidra till att främja ett mer hållbart skogsbruk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.5",
+      "sentiment": 0.5,
+      "quote": "Vi vill emellertid påpeka att det inte bara är naturturism, till exempel utländsk turism, som genererar lokal och regional utveckling och arbetstillfällen relaterat till skog och natur i Sverige.",
+      "quote_type": "grund"
+    }
+  ]
+}

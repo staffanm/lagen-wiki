@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/kungl-ingenjorvetenskapsakademien-iva": "8229088ca01f55cd8141a45e60e3bd6dbda24cd5eb1e1bfda1c5de2fc9727b19",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:30:11+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23793,
+      "completion_tokens": 3750,
+      "ended": "2026-09-02T04:32:17+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "18ba577da570057594d783771e4237ac9a8ef7dfc0165da1c6d2948ad7fdb5cb"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "IVA välkomnar kommissionens huvudsakliga analys och övergripande inriktning och instämmer i att produktivitetstillväxten är avgörande för Sveriges långsiktiga välstånd, konkurrenskraft och förmåga att möta stora samhällsomställningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.1.1",
+      "sentiment": 0.8,
+      "quote": "kompetensförsörjning måste ses som en sammanhängande kedja.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5.4",
+      "sentiment": 0.8,
+      "quote": "digitaliseringen sannolikt är det enskilda område som har störst möjlighet att öka produktiviteten i offentlig sektor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5.3",
+      "sentiment": 0.8,
+      "quote": "administrativa uppgifter riskerar att tränga undan kärnverksamheten, bland annat genom ökade juridiskt komplexa krav (t.ex. informationssäkerhet, personuppgifter och upphandling) samt externa mål och målsättningar som ökar kravhanteringskapaciteten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.1.1",
+      "sentiment": 0.8,
+      "quote": "ökade administrativa kostnader ofta drivs av ökad regelbörda, komplexitet och omfattande tillståndsprocesser, vilket riskerar att hindra innovation och implementering av ny teknik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.1",
+      "sentiment": 0.8,
+      "quote": "samordning och parallelliserade processer kan bidra till snabbare processer och högre produktivitetstillväxt.",
+      "quote_type": "grund"
+    }
+  ]
+}

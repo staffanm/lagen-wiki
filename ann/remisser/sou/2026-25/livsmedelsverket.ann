@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/livsmedelsverket": "f1c961909c8da6c0e5e6a4049fed1f519814f81849f53191162ecee50ce79ff0",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:28:37+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19955,
+      "completion_tokens": 3818,
+      "ended": "2026-09-01T15:30:37+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "494e1da7fb39e936751f0d44d14a22cc9e193bb1b3cdf2e5dc6bf403936f8ee9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Livsmedelsverket tillstyrker förslaget till ändring av 1 kap 6 § om förslag till ändring i livsmedelslagen (2006:804) samt 1 kap 13 § om förslag om ändring i livsmedelsförordningen (2006:813).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.6",
+      "sentiment": 1.0,
+      "quote": "Livsmedelsverket tillstyrker förslaget till ändring av 1 kap 6 § om förslag till ändring i livsmedelslagen (2006:804) samt 1 kap 13 § om förslag om ändring i livsmedelsförordningen (2006:813).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.13",
+      "sentiment": 1.0,
+      "quote": "Livsmedelsverket tillstyrker förslaget till ändring av 1 kap 6 § om förslag till ändring i livsmedelslagen (2006:804) samt 1 kap 13 § om förslag om ändring i livsmedelsförordningen (2006:813).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.3.8",
+      "sentiment": 0.0,
+      "quote": "noterar att det förslag som ges gällande att smittskyddsläkarens benämning bör ändras till regional smittskyddsläkare även innebär en förändring av 4 § Livsmedelsverkets föreskrifter (LIVSFS 2005:7) om epidemiologisk utredning av livsmedelsburna utbrott.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11",
+      "sentiment": 0.0,
+      "quote": "i kap VIII, punkt 2 i bilaga II till förordning (EG) 852/2004 finns det en skyldighet för arbetstagare att informera arbetsgivaren/livsmedelsföretaget om arbetstagaren lider eller är bärare av en sjukdom som kan överföras via livsmedel eller som till exempel har infekterade sår, hudinfektioner, andra sår eller diarré får inte tillåtas att hantera livsmedel eller vistas på en arbetsplats där livsmedel hanteras om det finns risk för direkt eller indirekt kontaminering.",
+      "quote_type": "grund"
+    }
+  ]
+}

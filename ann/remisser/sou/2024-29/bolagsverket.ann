@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/bolagsverket": "b1231d3576865c4553759b791066c4c0867eb61dafb55abaa49b539d80b2ab9f",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:09:21+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22112,
+      "completion_tokens": 1983,
+      "ended": "2026-09-02T02:10:44+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "dcd921bf6848b2f9c3b480c3ffe47bd1bb3ef26e773d968a5055c9a35546f83d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vissa av kommissionens förslag behöver mer utförliga problembeskrivningar och mer utförliga beskrivningar av detaljer i förslagen för att det ska vara möjligt att ta ställning till dem.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.10",
+      "sentiment": 0.5,
+      "quote": "Bolagsverket har i enlighet med sitt regleringsbrev för 2024 fortsatt att sprida kunskap om SSBTGO för att öka anslutningsgraden.",
+      "quote_type": "grund"
+    }
+  ]
+}

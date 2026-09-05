@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/forvaltningsratten-i-malmo": "28407243d3a8619e4f8f486ca0a12af541ccb8e7e1642f052d85b2863ddabf38",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:43:36+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19327,
+      "completion_tokens": 3569,
+      "ended": "2026-09-01T13:45:48+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "9fc72148a296edb7e1d8f18c79e42d865becd13abbc5a8e05e0b858122f0a86f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förslagen innebär i flera delar förbättringar i fråga om struktur och tydlighet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.4.2",
+      "sentiment": -0.2,
+      "quote": "Förvaltningsrätten ser vidare en risk för tillämpningssvårigheter vad gäller unga som omhändertagits för vård med stöd av både 2 och 3 §§ LVU.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9.2",
+      "sentiment": 1.0,
+      "quote": "främst då det inte framkommit något tydligt behov av införandet av en sådan subsidiär befogenhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.9",
+      "sentiment": 0.5,
+      "quote": "Att därefter upprepa barnets bästa i några paragrafer, eller som i detta fall ändra rekvisitet med hänsyn till ändamålet med vården till barnets bästa, riskerar att skapa förvirring snarare än att understryka just vikten av denna centrala princip.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.7",
+      "sentiment": 0.5,
+      "quote": "En försvårande faktor är emellertid tidsaspekten för en sådan domstolsprövning i förhållande till när ett umgänge ska ske samt att prövningen även torde innebära svårare etiska överväganden för domstolen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.4",
+      "sentiment": -0.2,
+      "quote": "Detta då målen med yrkande om att inhämta yttrande eller höra sakkunnig sannolikt kommer att ta längre tid i anspråk och medföra en mer komplex handläggning.",
+      "quote_type": "grund"
+    }
+  ]
+}

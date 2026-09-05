@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/skogssallskapet": "0676ba2094c81ec904023d64c2217b3810fb5cdaaa39f4360f8ec7b33f12c5f3",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:31:38+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26377,
+      "completion_tokens": 3602,
+      "ended": "2026-09-01T23:34:02+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "9d4482086b8aa1d203ebf174bdf4aa0762d0ed4933a7b8a5a92b28b8796a3cbd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Skogssällskapet stöder det övergripande arbetet inom EU och Sverige att begränsa klimatförändringarna och bevara och skapa resilienta ekosystem.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "Det är dock av högsta vikt att information och eventuella ekonomiska styrmedel är tydliga och begripliga även för de mindre markägarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.2,
+      "quote": "det är något tveksamt att alla föreslagna teman verkligen bidrar till ökad klimatnytta och/eller biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Förslaget om kolinlagringsavtal riskerar dels att sabotera den befintliga, framväxande kommersiella marknaden och framförallt bidra till minskad tillgång på skogsråvara på marknaden utan att ge större långsiktiga fördelar för klimatet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 1.0,
+      "quote": "Skogssällskapet stöder intentionen och förslagen i utredningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": -0.2,
+      "quote": "Skogssällskapet ställer sig något frågande till att det är realistiskt att öka återvätningen i den utsträckning och inom den tidsram som utredningen föreslår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": 0.5,
+      "quote": "anser att detta bör göras i samverkan med berörda markägare i första hand.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.2,
+      "quote": "innan det finns andra fullgoda alternativ bör det finnas en möjlighet att använda torv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": 0.5,
+      "quote": "vill betona vikten av att bevaka arbetet med en nationell plan för restaureringsförordningen för att undvika dubbelarbete och otydligheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.2,
+      "quote": "Skogssällskapet anser att detta måste utredas vidare för att spegla den ursprungliga betydelsen av begreppet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": 1.0,
+      "quote": "det finns en samhällsvinst i att utveckla och bevara identifierade naturvärden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": -1.0,
+      "quote": "Den typ av medborgarforskning som Artportalen får anses utgöra ett exempel innehåller en stor bias och kommer aldrig att kunna vara tillräckligt rättssäkert för att utgöra ett underlag för myndighetsutövning.",
+      "quote_type": "grund"
+    }
+  ]
+}

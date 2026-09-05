@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/uppsala-universitet-juridiska-fakulteten": "fddea351b10e408712276a9b145d74b030cef5be702b6c359e2105e8ed826334",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T13:19:39+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20388,
+      "completion_tokens": 3520,
+      "ended": "2026-09-01T13:21:36+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8b58061c7b186c5b7520a2f508c552695106e8d10f93e155346e4f9cc5f57afb"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Mot denna bakgrund bedömer Juridiska fakultetsnämnden att utredningen inte presenterar ett tillräckligt underlag för att bedöma förslagets konsekvenser för rättssäkerheten, myndigheternas verksamhet eller skyddet mot diskriminering.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec405",
+      "sentiment": 0.2,
+      "quote": "Det går dock inte att utesluta att enskilda hos vissa myndigheter och i vissa ärendetyper kommer att behöva betala många tolkavgifter till följd av att den enskilde har flera parallella eller återkommande ärenden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 0.5,
+      "quote": "Förslaget är därmed otydligt i denna del, vilket riskerar att leda till varierande tillämpning mellan myndigheter och därmed minska förutsebarheten för enskilda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.8.3",
+      "sentiment": 0.5,
+      "quote": "Mot denna bakgrund vore det rimligt att en tolkavgift som uppkommer vid kontakter med andra myndigheter bör kunna betraktas som en sådan kostnad för livsföringen i övrigt som ekonomiskt bistånd kan lämnas för.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec76",
+      "sentiment": -0.5,
+      "quote": "Att i stället reglera detta i lag skulle ha flera fördelar, främst genom att göra det tydligare för såväl rättstillämpare som enskilda om vad som gäller.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.8",
+      "sentiment": -0.5,
+      "quote": "Fakultetsnämnden föreslår därför att även ärenden som rör LSS undantas på motsvarande sätt som ärenden som rör socialtjänst.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 0.5,
+      "quote": "Juridiska fakultetsnämnden tillstyrker förslaget om lag om förbud mot att använda barn som tolk som sammanfattningsvis är ett angeläget steg i genomförandet av barns rättigheter enligt barnkonventionen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec549",
+      "sentiment": -0.2,
+      "quote": "Den valda formuleringen är dock inte så tydlig som utredningen har eftersträvat.",
+      "quote_type": "grund"
+    }
+  ]
+}

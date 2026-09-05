@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/region-kalmar": "66cce82a0d3f76c3dc300ad5610ae00afa6c109ea4ea320c908e43a2ea7b25d0",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:20:51+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22459,
+      "completion_tokens": 2883,
+      "ended": "2026-09-01T16:22:27+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "bac13e08a3101b0114a252be0e5e2401e51068f7f021645bbb4aac0c18059979"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Kalmar län välkomnar utredningens ambition att modernisera smittskyddet och att skapa förutsättningar för en mer flexibel, ändamålsenlig och individanpassad tillämpning av lagstiftningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": -0.5,
+      "quote": "Regionernas organisatoriska förutsättningar och ledningsstrukturer skiljer sig åt, varför organisatorisk flexibilitet måste finnas även fortsättningsvis.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 0.5,
+      "quote": "Det finns särskilda fördelar med en stärkt nationell samordning i form av ökad likvärdighet, gemensamma kunskapsunderlag, snabbare spridning av erfarenheter och metodutveckling samt förbättrade möjligheter till samordnat stöd till regioner och kommuner.",
+      "quote_type": "grund"
+    }
+  ]
+}

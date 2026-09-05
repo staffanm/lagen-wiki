@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:38/riksforbundet-fub": "ba1256553f5eb586f211218f155c27f7bf8c9bf6770e6c919814b42e86ee0b41",
+      "artifact:forarbete/sou/2026-38": "fd8bad64f971d0c3ce1e5d4fe759bbc0f6677602b49a43dce6da382708e9c7b7"
+    },
+    "run": {
+      "started": "2026-09-01T14:36:36+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23295,
+      "completion_tokens": 4751,
+      "ended": "2026-09-01T14:39:35+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "158b2550edab1873abfc1e2191ee7754e91bd388f37d7992d3c466602bcf4e72"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "FUB anser att utredningens förslag kan bidra till förbättrad tillgänglighet i hälso- och sjukvården men att reformen behöver kompletteras för att säkerställa att personer med IF omfattas fullt ut.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": 0.2,
+      "quote": "FUB anser därför att begreppet behovsstyrd vård behöver ges en bredare innebörd där även patientens förutsättningar att faktiskt få tillgång till vården ingår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.2,
+      "quote": "En vårdgaranti som endast mäts i antal dagar riskerar att osynliggöra de patienter som behöver längre tid, anpassad kommunikation eller särskilda insatser för att vårdbehovet ska kunna bedömas korrekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.2",
+      "sentiment": 0.5,
+      "quote": "Informationen måste vara begriplig och anpassad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.1",
+      "sentiment": 0.2,
+      "quote": "FUB vill uppmärksamma risken för så kallad diagnostisk överskuggning där symtom felaktigt förklaras med personens funktionsnedsättning i stället för att utredas medicinskt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 0.5,
+      "quote": "För personer med IF är kontinuitet inte enbart en fråga om trygghet utan ofta en förutsättning för att vården ska kunna genomföras på ett säkert sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.8.5",
+      "sentiment": 0.2,
+      "quote": "Digitala system behöver vara utformade enligt principerna om universell utformning och kompletteras med alternativa kontaktvägar då många personer med IF befinner sig i ett digitalt utanförskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4.2",
+      "sentiment": -0.5,
+      "quote": "FUB saknar en tydligare analys av vilken kompetens som krävs hos hälso- och sjukvårdens personal för att den föreslagna utvecklingen av vården ska komma personer med IF till del.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": 0.2,
+      "quote": "FUB föreslår att det tydliggörs att vårdens arbetssätt ska möjliggöra att patienten får det stöd som behövs för att kunna: • förstå information, • uttrycka sin vilja, • delta i beslut, • följa behandlingsplaner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5",
+      "sentiment": -0.2,
+      "quote": "FUB anser att utredningens förslag behöver kompletteras med ett tydligare krav på uppföljning ur ett funktionshindersperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": -0.2,
+      "quote": "FUB anser att utredningens konsekvensanalys behöver förstärkas när det gäller personer med funktionsnedsättning.",
+      "quote_type": "grund"
+    }
+  ]
+}

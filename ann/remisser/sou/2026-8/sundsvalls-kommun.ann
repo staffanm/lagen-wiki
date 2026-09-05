@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/sundsvalls-kommun": "7ff546d93f7b8c50b3fde339ca415fef681abe8339690d1eb46df7b397c21fd6",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T14:11:25+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20129,
+      "completion_tokens": 5344,
+      "ended": "2026-09-01T14:14:21+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2dbaad7047fa8794685c59e3404165cb344a5a44a32e8ba29c6d17831e337e0e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Samtidigt vill vi också vara tydliga med att vi ser och uppskattar att flertalet förslag sannolikt kommer att leda till en ökad rättssäkerhet för barn, unga och deras familjer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": 1.0,
+      "quote": "Vi är positiva till att tillgången på sakkunskap förbättras, både för socialsekreterare inom socialtjänsten och för domstolarna i ärenden där expertbedömningar behöver göras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9.2",
+      "sentiment": 1.0,
+      "quote": "Förslaget om utökade befogenheter för åklagare riskerar leda till bristande kvalitet i bedömningsunderlaget eftersom åklagare saknar kunskap och utbildning som en socionom har i dessa situationer, åklagaren saknar dessutom tillgång till socialnämndens bakgrundskunskap i ärenden och har inte heller möjlighet att inhämta uppgifter från socialtjänstens journaler som kan behövas vid bedömning av vårdbehov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.5,
+      "quote": "Man kanske bör överväga att införa någon form av ytterligare bedömning i ärenden där vård inte kunnat verkställas inom en viss tid och ställa krav på verkställighetsprövning när ett beslut verkställs senare än inom t.ex sex månader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.2,
+      "quote": "Men det finns samtidigt en uppenbar risk för ökad administrativ börda, både för socialtjänsten men framför allt för Förvaltningsrätterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.2,
+      "quote": "Samtidigt finns det en påtaglig risk för att det blir väldigt många personer från socialtjänsten inblandade i varje ärende – en handläggare för vårdnadshavare, en för barnet och en för familjehemmet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.5,
+      "quote": "Att syskon och andra närstående ska kunna överklaga beslut om begränsning av umgänge kommer sannolikt att medföra mer administration och kräva mer resurser av nämnden, men även för Förvaltningsrätterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 0.5,
+      "quote": "Däremot uppfattar vi att beskrivningen av en förälders skyldighet att lämna drogtest blir motsägelsefull eftersom det saknas medel att genomdriva ett beslut från nämnden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.2,
+      "quote": "Våra farhågor är att det kan bli otydligt vad som ska följas upp om insatsen ska pågå så länge som ett år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": 0.8,
+      "quote": "Samtidigt uppfattas det som positivt att det görs ett förtydligande om denna skyldighet vilket säkerställer en mer likvärdig hantering av dessa ärenden över landet.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/centrala-studiestodsnamnden": "b1eff7e6c8d13d491d9a0e4b6b58ec6218e36026ae366c81b64cabb438cff348",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:32:20+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25691,
+      "completion_tokens": 4082,
+      "ended": "2026-09-02T02:34:58+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "3714262dc7e4c837a4512b9986cc04290c80ea1c247d7ac1f2f3827cdf0db0b7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Eftersom merparten av Produktivitetskommissionens förslag är på en övergripande nivå är det dock inte möjligt för CSN att fullt ut bedöma förslagens konsekvenser och möjliga effekter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.1",
+      "sentiment": 1.0,
+      "quote": "CSN delar Produktivitetskommissionens bedömning att det är av stor vikt med en välfungerande regelgivningsprocess för att det svenska samhället ska vara konkurrenskraftigt och produktivt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": -1.0,
+      "quote": "Sammantaget anser dock CSN att det saknas tungt vägande skäl för att utvidga den granskande funktionen till att omfatta samtliga konsekvensutredningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.5",
+      "sentiment": -1.0,
+      "quote": "Detta eftersom en del effekter av nya föreskrifter inte låter sig utvärderas inom den tidsgräns som utredningen bedömer vara lämplig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8.1",
+      "sentiment": 1.0,
+      "quote": "CSN instämmer i Produktivitetskommissionens bedömning att de föreslagna kraven på regelgivningsprocessen leder till ökade kostnader för myndigheterna, vilket behöver finansieras med nya anslagsmedel genom tilldelning i den årliga statsbudgetprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": -0.5,
+      "quote": "Det står dock klart att åtgärderna skulle innebära behov av kostsamma anpassningar i CSN:s IT-system och i delar också resurskrävande manuell hantering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": -0.2,
+      "quote": "Om en termin däremot ska kunna förlängas in i juli månad uppstår kostnader för CSN för såväl systemutveckling som för ökad administration.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": -0.2,
+      "quote": "CSN konstaterar att detta då även kommer leda till ökade kostnader för CSN i form av ökad administration och ett ökat utflöde av studiehjälp.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5.1",
+      "sentiment": -0.5,
+      "quote": "Förslagen gällande att prioritera de personer som bedöms ha störst nytta av stödet medför krav på omfattande förändringar av det maskinella handläggningsstöd som CSN har ägnat de senaste åren åt att utveckla.",
+      "quote_type": "grund"
+    }
+  ]
+}

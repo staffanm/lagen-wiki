@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:48/svensk-handel": "f1d3b538ce75af04b7c98dfda730d3c0f9213bcf6f2a9c257a369b252ba99c52",
+      "artifact:forarbete/sou/2026-48": "9ce7e78523245ce4144c09e4e95af6cdaed0b691f88fe4c21f5a2a78628d3d31"
+    },
+    "run": {
+      "started": "2026-09-01T14:34:17+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 9256,
+      "completion_tokens": 2915,
+      "ended": "2026-09-01T14:35:51+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2e535f39831a8c6a99b4b966ac2bce09a2049ed57c817bb7f1ddf89ed9f2a67d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslagen innebär på flera centrala områden tydliga förbättringar jämfört med dagens ordning och möter i betydande utsträckning de brister som Svensk Handel återkommande har uppmärksammat.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3.4",
+      "sentiment": 1.0,
+      "quote": "Den föreslagna ordningen, där den som begått ett relevant brott i eller i anslutning till butikslokalen som utgångspunkt ska meddelas tillträdesförbud om inte särskilda skäl talar emot det, är därför en väsentlig förbättring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.5",
+      "sentiment": 1.0,
+      "quote": "Tillträdesförbudets preventiva funktion försvagas om verksamheten först måste utsättas för upprepade incidenter innan samhället kan ingripa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.8",
+      "sentiment": 1.0,
+      "quote": "Utredningens förslag går i detta avseende i rätt riktning och innebär att ett tillfälligt förbud i klara fall ska kunna meddelas redan i samband med polisens ingripande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.2.4",
+      "sentiment": 0.5,
+      "quote": "Svensk Handel anser att det även fortsättningsvis bör följas upp att beslut innehåller tillräckligt individualiserade och klargörande skäl.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.3",
+      "sentiment": -0.5,
+      "quote": "För personer som systematiskt begår brott mot handelsföretag kan ett förbud begränsat till en enskild butik innebära att brottsligheten endast flyttas till en annan närliggande butik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.3",
+      "sentiment": -0.2,
+      "quote": "Samtidigt kvarstår det praktiska problemet med personer som begår brott eller trakasserar personal i flera verksamheter inom samma handelsplats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.6",
+      "sentiment": -0.5,
+      "quote": "För den utsatta verksamheten och dess medarbetare är behovet av att kunna freda butikslokalen av yttersta vikt, oavsett gärningspersonens ålder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3.9",
+      "sentiment": -0.2,
+      "quote": "Svensk Handel vidhåller att återkommande och medvetna överträdelser måste mötas av en tillräckligt kännbar reaktion.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/riksbanken": "0cb095ebb553ae36387bfb413481b23db3fe34abe261bd582a88391684b612a2",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:41:52+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22349,
+      "completion_tokens": 3911,
+      "ended": "2026-09-02T06:44:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f20607b0f5041749e2108a81152be4ec8ced5820bde4a221eabd8f2a69048eaa"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Riksbanken bedömer att de förslag som kommissionen lägger i många fall kan förbättra produktivitetsutvecklingen och effektiviteten i den svenska ekonomin.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.5,
+      "quote": "Riksbanken anser som ovan konstaterats att utbildning, dess omfattning och kvalitet, är en av de mest fundamentala faktorerna för den långsiktiga produktivitetsutvecklingen och tillstyrker därför generellt sett inriktningen på förslagen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 1.0,
+      "quote": "Riksbanken delar till fullo kommissionens syn att det är avgörande för Sveriges framtida produktivitetstillväxt att kapitalmarknaderna är välfungerande och att regleringen av dem är ändamålsenlig",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.1",
+      "sentiment": 1.0,
+      "quote": "Det gäller också kommissionens bedömning att offentlig finansiering via riskkapital och lån bör inriktas mot områden där privat finansiering underleverar, i syfte att undvika utträngning",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.4",
+      "sentiment": 0.2,
+      "quote": "Riksbanken vill här påtala att det finns en viktig avvägning då banker och andra finansiella institut bara långsiktigt kan bidra till ekonomiskt välstånd om de är starka och välkapitaliserade.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": 1.0,
+      "quote": "Riksbanken delar kommissionens bedömning och menar att en mer heterogen investerarbas, med fler såväl lång- som kortsiktiga investerare skulle förbättra marknadens funktionsförmåga vid stress.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.3",
+      "sentiment": 0.0,
+      "quote": "Riksbanken menar att konkurrensen på bankmarknaden behöver öka, men avstår från att ta ställning till de konkreta förslag som lämnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 0.5,
+      "quote": "Enligt Riksbankens bedömning kan kommissionens förslag i flera fall bidra till en bättre fungerande bostadsmarknad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.8",
+      "sentiment": 1.0,
+      "quote": "En omfördelning av skatteuttaget från skatter som är mer skadliga för tillväxten till skatter som är mindre snedvridande – inbegripet beskattningen av fastigheter – borde gynna tillväxten.",
+      "quote_type": "grund"
+    }
+  ]
+}

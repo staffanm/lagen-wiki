@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/lakemedelsindustriforeningen-lif-": "7fd15eb999041c06281ef85f8c4eebabe8e3b3997c92448eebc5d587ae26a719",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:45:43+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22528,
+      "completion_tokens": 4236,
+      "ended": "2026-09-02T04:48:03+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "61b62860c854247013ec8bbd1c94ef165e65e5c0189e435f3ee29565dc07eba9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Lif delar i stort Produktivitetskommissionens analys av dagens ekonomiska och samhälleliga utmaningar på de områden som berör de forskande läkemedelsföretagen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.5.7",
+      "sentiment": 1.0,
+      "quote": "Lif delar kommissionens bild att det finns behov av att förstärka incitamenten för FoU-investeringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec75",
+      "sentiment": -0.2,
+      "quote": "För läkemedel är robust och förutsägbar immaterialrätt en direkt förutsättning för FoUinvesteringar, givet långa utvecklingstider, hög risk och stora kapitalbehov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2",
+      "sentiment": 0.5,
+      "quote": "Det är dock avgörande att inte alltför snävt avgränsa uppdraget till sådana forskningsinstitut givet den höga graden av konvergens mellan olika sektorer, inte minst teknik och medicin.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec182",
+      "sentiment": 1.0,
+      "quote": "betonar att dessa bör utformas med faktiska life science-tillämpningar i åtanke.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec79",
+      "sentiment": 0.5,
+      "quote": "ett tydligare fokus på klinisk forskning och prövningsgenomförande bör inkluderas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec507",
+      "sentiment": 1.0,
+      "quote": "Vår bedömning är likt Vårdansvarskommitténs förslag (SOU 2025:62) att staten bör utöka sitt ansvar även till rekvisitionsläkemedel och vacciner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": 1.0,
+      "quote": "frånvaron av statlig finansiering kan leda till regleringsmisslyckanden med negativ påverkan på produktivitetsutvecklingen i ekonomin och på effektiviteten i hälso- och sjukvården.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec203",
+      "sentiment": 1.0,
+      "quote": "Sverige bör kunna använda sina unika register och datakällor mer strategiskt för klinisk forskning, införande av nya läkemedel och life science-investeringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec181",
+      "sentiment": 1.0,
+      "quote": "fragmenterade lösningar utgör ett konkret hinder för multicenterstudier, registerforskning och implementering av nya behandlingar.",
+      "quote_type": "grund"
+    }
+  ]
+}

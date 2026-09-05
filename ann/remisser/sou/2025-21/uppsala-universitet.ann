@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/uppsala-universitet": "8f71f687f3661a039c4ee54963c101b4ffa60fb891c6510850cb3cfd29d39c3d",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T01:06:37+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 28231,
+      "completion_tokens": 2790,
+      "ended": "2026-09-02T01:08:37+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f52e517824d59b263d74e3e50b364029240505e4cf529d1b023e86f40dd58926"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Sammantaget är en konsekvens av detta att om Sverige skulle misslyckas med att uppnå relevanta EU-rättsliga krav finns ingen möjlighet att med grund i de åtgärder beredningen föreslår hävda att Sverige vidtagit alla nödvändiga åtgärder för att nå kraven.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 0.5,
+      "quote": "Det är samtidigt värt att understryka att förslagets praktiska tillämpning liksom kravet på rättssäkerhet förutsätter att såväl verksamhetsutövare som berörda myndigheter har tillgång till tillförlitliga metoder för att beräkna de ökade utsläpp av växthusgaser som en planerad exploatering av torvmark kan förväntas medföra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "Vi ser en risk att det föreslagna tillägget av ”eller kompensera” i 6 kap. 11 och 35 §§ miljöbalken kan missleda verksamhetsutövare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec170",
+      "sentiment": -0.5,
+      "quote": "Eftersom utvecklingen av skogens naturvärden är negativ och det finns uppenbara problem med effektiviteten i sektorsansvaret går det inte att förutsätta att frivilliga åtgärder ska komplettera lagstiftningen i tillräcklig utsträckning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.5,
+      "quote": "Förslaget gynnar ett mer långsiktigt skydd för värdefulla områden och bidrar till att de medel som läggs på att betala ersättningar genererar så stor nytta som möjligt.",
+      "quote_type": "grund"
+    }
+  ]
+}

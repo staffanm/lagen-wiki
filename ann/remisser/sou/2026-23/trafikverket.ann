@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/trafikverket": "0d34a66fca31c4a926cdf548e65a4ecd5bb4b024b97f6ac91528629e6543658f",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:41:09+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18115,
+      "completion_tokens": 3781,
+      "ended": "2026-09-01T12:43:10+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "04aa97ab9eda5b050470398beed3ac73b02767aefa979728bed21cd564a344d8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Trafikverket är i huvudsak positivt till utredningens förslag om tolkavgift och ger nedan sina synpunkter",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec18",
+      "sentiment": 0.2,
+      "quote": "Trafikverket anser att det behöver tydliggöras vad som definierar ett ärende och när ärenden anses vara parallella, liksom hur uttag av tolkavgift ska hanteras när flera myndigheter handlägger olika delar i ett sammanhängande ärende eller när en myndighet utför uppdrag åt en annan myndighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec378",
+      "sentiment": 0.5,
+      "quote": "Samtidigt bör det tydliggöras att införandet förutsätter att uppgiften kan hämtas och användas utan omfattande systemanpassningar hos de mottagande myndigheterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec76",
+      "sentiment": 0.5,
+      "quote": "Förtydliganden krävs emellertid: • att det krävs att individen lyfter åberopande om undantag tidigt i ärendeprocessen, för att eliminera risken att individen reagerar först efter att debitering skett.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 0.0,
+      "quote": "Utredningens slutsats att ingen tolkavgift ska tas ut i ärenden som direkt rör barn, uppfattar Trafikverket som att t ex ett bilstödsärende som är föranlett av ett barns funktionsnedsättning inte ska debiteras någon tolkavgift.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 1.0,
+      "quote": "Avseende utredningens förslag om förbud mot barntolkning har Trafikverket inga synpunkter.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

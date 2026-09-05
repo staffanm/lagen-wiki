@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-vasterbotten": "5bba13293a5b5158199848f0ba2f0f85c2caa117d2d49b7d36348ccf3acee8ef",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T21:54:58+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 64368,
+      "completion_tokens": 11737,
+      "ended": "2026-09-01T22:02:17+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "87d257df224fdb93f94d507c8ccf557eea24c9022dd1039f6d48c768f1e3c5b4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Länsstyrelsen anser dock att förslagen inte är i proportion till det allvarliga utgångsläget.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 1.0,
+      "quote": "De förslag som Länsstyrelsen menar är angelägna och bör kunna genomföras utan ytterligare utredningsinsatser är: • utvidgning av vilka aktörer som kan få LONA-bidrag, • utfasning av torvutvinning, • resursförstärkning till skötsel av skyddad natur, • utökad bemyndiganderam för upphandlingar inom arbetet med skötsel av skyddad natur, • höjd miljöersättningnivå för att beta naturbetesmarker, • slopad återbeskogningsplikt i skogsmark inom 25 meter från jordbruksmark.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 1.0,
+      "quote": "De förslag som Länsstyrelsen menar är angelägna och bör kunna genomföras utan ytterligare utredningsinsatser är: • utvidgning av vilka aktörer som kan få LONA-bidrag, • utfasning av torvutvinning, • resursförstärkning till skötsel av skyddad natur, • utökad bemyndiganderam för upphandlingar inom arbetet med skötsel av skyddad natur, • höjd miljöersättningnivå för att beta naturbetesmarker, • slopad återbeskogningsplikt i skogsmark inom 25 meter från jordbruksmark.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 1.0,
+      "quote": "De förslag som Länsstyrelsen menar är angelägna och bör kunna genomföras utan ytterligare utredningsinsatser är: • utvidgning av vilka aktörer som kan få LONA-bidrag, • utfasning av torvutvinning, • resursförstärkning till skötsel av skyddad natur, • utökad bemyndiganderam för upphandlingar inom arbetet med skötsel av skyddad natur, • höjd miljöersättningnivå för att beta naturbetesmarker, • slopad återbeskogningsplikt i skogsmark inom 25 meter från jordbruksmark.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "Följande förslag kan endast tillstyrkas om tillräckliga resurser tilldelas såväl för dessa som för andra delar i myndigheternas arbete som har betydelse för att nå de mål som förslagen syftar till: • riktade informations- och rådgivningsinsatser för kolinlagring och biologisk mångfald,",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.13",
+      "sentiment": 0.5,
+      "quote": "Förslaget i avsnitt 13.1.13 kan därför endast tillstyrkas om tillräckliga resurser tilldelas för såväl det föreslagna nya uppdraget som för andra delar i länsstyrelsernas arbete med biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.5",
+      "sentiment": 0.5,
+      "quote": "Det föreslagna uppdraget till länsstyrelserna att genomföra och samordna rådgivning om naturrestaurering under perioden 2026– 2030 (16.1.5) kan dock endast tillstyrkas om tillräckliga resurser tilldelas, då Länsstyrelsen inte delar bedömningen i konsekvensutredningen (s. 585) att de ökade förvaltningsutgifterna kan finansieras genom minskning av andra anslag till myndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -1.0,
+      "quote": "Därför bör våtmarks-LONA behålla sin konstruktion att kunna användas för de syften som ingår idag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen avstyrker förslaget om bidrag för ökad kvävegödsling av skog (8.2.2), då det skulle motverka miljökvalitetsmålet Ingen övergödning, ha negativ påverkan på biologisk mångfald och den långsiktiga nyttan för kolinbindning är tveksam.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen avstyrker förslaget om undantag från krav på omprövning eller avveckling av markavvattningsföretag, när en återvätning genomförs för att minska utsläppen av växthusgaser (avsnitt 12.4.2), då det kan ifrågasättas ur rättssäkerhetssynpunkt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.1",
+      "sentiment": 1.0,
+      "quote": "De föreslagna etappmålen för skötsel och restaurering i skyddade områden, restaurering av naturtyper och vilda pollinatörer går väl i linje med kraven för Naturrestaureringsförordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om att lyfta in indikatorer för växthusgasupptag och -utsläpp från markanvändningssektorn i miljömålen Begränsad klimatpåverkan, Levande skogar och Ett rikt odlingslandskap.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget om att torvmark endast får tas i anspråk för väsentliga samhällsintressen och att utsläppen av växthusgaser då ska kompenseras.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen gör bedömningen att ytterligare åtgärder krävs för att säkerställa att den ökade efterfrågan inte motverkar arbetet med att nå målen i LULUCF-förordningen eller leder till koldioxidläckage till följd av ökad import av skogsråvara",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen tillstyrker förslagen i kapitel 14, men anser att utredningen använder en alltför snäv definition av gammal skog – den bör harmoniera med hur begreppet tolkas i andra EU-länder",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/statens-skolinspektion": "953864f53d9528f46bd8b4f72695c47d2101634fdb80d3bd052c1054beb02d1f",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T07:05:30+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21994,
+      "completion_tokens": 4626,
+      "ended": "2026-09-02T07:08:02+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e3f322942fd9aefe9bfd5d51006291de579f88676444835ee2d2df3b0efdb3d2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Skolinspektionen kommenterar i yttrandet de förslag myndigheten tar ställning till eller har synpunkter på.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": 1.0,
+      "quote": "Skolinspektionen tillstyrkte i sitt yttrande (SI 2025:3337) över det betänkandet dess förslag om en meritvärdeskalibreringsmodell för grund- och gymnasieskolan samt inom komvux på gymnasial nivå.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec406",
+      "sentiment": 0.2,
+      "quote": "Skolinspektionen instämmer alltjämt i att skolvalshantering bör ske efter tydliga och gemensamma principer och tar inte heller nu ställning till var ansvaret för önskemål och beslut om skola ska ligga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 1.0,
+      "quote": "Skolinspektionen har i sitt yttrande (SI 2025:7776) över det betänkandet tillstyrkt förslaget om att skollagen ska kompletteras med att kommunen från grundbeloppet till enskilda huvudmän ska dra av för merkostnaden för ansvaret att erbjuda utbildning (utbudsansvaret).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.3.3",
+      "sentiment": 1.0,
+      "quote": "Skolinspektionen ser sammantaget positivt på det lagförslag som regeringen gått vidare med.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec432",
+      "sentiment": 0.0,
+      "quote": "Mot bakgrund av att förslaget om försöksverksamhet med förkortat sommarlov baseras på ett begränsat utredningsunderlag avstår Skolinspektionen från att lämna synpunkter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec433",
+      "sentiment": 0.5,
+      "quote": "Av Skolinspektionens yttrande över SOU 2022:61 framgår att myndigheten anser att allmänt fritidshem bör införas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec434",
+      "sentiment": 0.8,
+      "quote": "Eftersom användandet av legitimerade och behöriga lärare är en central del av skolsystemet och granskningen av detta är viktig ser Skolinspektionen positivt på om de undantag som eventuellt kan behöva finnas kvar regelbundet skulle utvärderas i syfte att avgöra om de alltjämt är motiverade och lätta att tillämpa.",
+      "quote_type": "grund"
+    }
+  ]
+}

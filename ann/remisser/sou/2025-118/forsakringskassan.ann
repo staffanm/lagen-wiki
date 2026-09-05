@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/forsakringskassan": "e98193ddd62822e27ced8892b175510b62b20cc93534e987a65ef964c1de8cf1",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T14:57:00+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12077,
+      "completion_tokens": 1516,
+      "ended": "2026-09-01T14:57:46+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "14acd1b7efdc5df6f133629d46c1f2f25fc7f277204d1044ddd0608c5efa9bd0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Försäkringskassan har inte några synpunkter på förslagen i övrigt.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.11.5",
+      "sentiment": -0.2,
+      "quote": "Försäkringskassan vill framhålla att myndigheten i nuläget inte kan bedöma kostnaderna för denna utredning, som ska rymmas inom ordinarie budget, och att det därmed, om utredningen blir omfattande, finns en risk för att den kan komma att påverka budgeten.",
+      "quote_type": "grund"
+    }
+  ]
+}

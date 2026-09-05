@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/region-vastmanland": "af883c67bacb3c9606f2f1ef25f00fcb4fdcddb8b2dcba8b998d6db401be8fdd",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:29:30+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 41067,
+      "completion_tokens": 8895,
+      "ended": "2026-09-02T06:35:27+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b5c03611f4b1a11971c76e89003dd366edda2b3da4b2ab773af3b668516df6d3"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Betä nkändet identifierär pä ett tydligt sä tt de systemutmäningär som pä verkär bä de regionäl utveckling och den offentligä verksämheten.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/kammarratten-i-stockholm": "a62a125c12a141c76659d93782299054be03987d87fa180d9dabeb5a681815d7",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:47:22+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 40245,
+      "completion_tokens": 7057,
+      "ended": "2026-09-01T13:51:12+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "600af35d9c6631f77f5f2fb0210d9d778ef2f38c9b15e8fac331bd1a62c66667"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Det är otydligt hur förslagen i betänkandet förhåller sig till de förslag som finns i propositionen och det är därför svårt att få en överblick över förslagens innebörd och konsekvenser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec165",
+      "sentiment": -1.0,
+      "quote": "det är redan enligt den allmänna bestämmelsen i förvaltningsprocesslagen möjligt för domstolarna att hämta in ett yttrande från en sakkunnig eller höra en sakkunnig vid muntlig förhandling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec176",
+      "sentiment": 1.0,
+      "quote": "En sådan ordning skulle underlätta förfarandet med att anlita en sakkunnig vilket skulle kunna förbättra beslutsunderlaget i mer komplicerade ärenden och därmed även rättssäkerheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec225",
+      "sentiment": -1.0,
+      "quote": "Det finns inte ett tydligt behov av en sådan ordning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec272",
+      "sentiment": -0.5,
+      "quote": "Det finns därför en risk att ett omhändertagande för vård verkställs utifrån omständigheter och förhållanden som inte är aktuella.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec338",
+      "sentiment": 0.2,
+      "quote": "Även om det enligt kammarrättens uppfattning är tydligt hur prövningen av när vården inte längre behövs ska göras är det ur rättssäkerhetssynpunkt positivt med en förtydligande reglering för vad som krävs för att ett omhändertagande för vård ska upphöra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec357",
+      "sentiment": -1.0,
+      "quote": "Det riskerar dessutom att leda till parallella processer, exempelvis om en begäran om vårdens upphörande aktualiseras samtidigt som nämndens beslut ska underställas förvaltningsrätten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec469",
+      "sentiment": 1.0,
+      "quote": "Förslaget bidrar till att säkerställa att svensk lagstiftning uppfyller de åtaganden som följer av Europakonventionen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec499",
+      "sentiment": 1.0,
+      "quote": "Som utredningen redovisar är obligatoriska drogtester inte heller förenliga med regeringsformen och Europakonventionen.",
+      "quote_type": "grund"
+    }
+  ]
+}

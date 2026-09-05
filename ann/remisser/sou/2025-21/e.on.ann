@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/e.on": "5f30c8106a73a3d7acf5ffa13542dc7245d4e8df792c99d389b8c4c567198c48",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:13:05+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26116,
+      "completion_tokens": 3096,
+      "ended": "2026-09-01T17:15:12+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "9118e3ee5f80e29551609077409ea52d9d5708005dee63ae2dca4a6509e0a067"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "E.ON står bakom Energiföretagens yttrande men vill göra några tillägg.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.2,
+      "quote": "Vi anser därför att det är angeläget att det vidtas åtgärder som balanserar de parallella målen om ökade kolsänkor med behovet av ett ökat hållbart uttag av biobränslen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec190",
+      "sentiment": -0.5,
+      "quote": "Vår bedömning är att den rekommendation om återföring av aska som finns idag inte är tillräcklig, utan det är viktigt med mer kraftfulla styrmedel i form av ersättning till skogsägare och andra aktörer samt tydligare krav kring askåterföring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": 1.0,
+      "quote": "E.ON ser positivt på att villkoren för inhemskt producerad biogas förbättras i och med biogasstödet utvidgas för att inkludera vall.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec319",
+      "sentiment": -0.5,
+      "quote": "E.ON äger sällan marken inom ledningsgatorna, vilket innebär att E.ON av praktiska och juridiska skäl inte kan genomföra förslaget.",
+      "quote_type": "grund"
+    }
+  ]
+}

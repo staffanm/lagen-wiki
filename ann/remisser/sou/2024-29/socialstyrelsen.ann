@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/socialstyrelsen": "0ae62165cc54eefcb48dc6501cf9767c9faa5876f102e9873333467a1ca70c1e",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:54:16+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26041,
+      "completion_tokens": 4650,
+      "ended": "2026-09-02T06:56:57+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "20725ce0159870b46a3367c1b809d108dad371e74d401c00ca65976ff0538f4c"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Sammantaget bör dessa risker övervägas noggrant mot de potentiella fördelarna vid utformningen av statliga regelförändringar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": -0.2,
+      "quote": "Socialstyrelsen bedömer att andra åtgärder som till exempel utvecklat metodstöd till myndigheterna kan övervägas i stället vilket bör kunna komma till stånd med sådan förstärkt kompetens och möjlighet till stöd hos Ekonomistyrningsverket (ESV) som utredningen föreslår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec175",
+      "sentiment": -0.5,
+      "quote": "Om även de kortsiktiga positiva effekterna måste överstiga de negativa medför det att en myndighet inte kan ta fram föreskrifter som har positiva effekter först på lång sikt som brukar vara fallet vid exempelvis förebyggande åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec178",
+      "sentiment": -0.5,
+      "quote": "Socialstyrelsen ser en risk för att en redogörelse av nämnda arbete i en konsekvensutredning blir resurskrävande och därmed riskerar att utan proportionerlig nytta ta resurser från författningsarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec184",
+      "sentiment": -0.5,
+      "quote": "Kravet på att myndigheterna ska skicka en konsekvensutredning för godkännande till ESV riskerar att förlänga tidsåtgången för föreskriftsarbetet på ett oproportionerligt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.5",
+      "sentiment": -1.0,
+      "quote": "Ett krav på att alla konsekvensutredningar ska uppdateras efter tre år riskerar inte bara att bli kostsamt utan även att ta resurser från Socialstyrelsens arbete med analyser av befintliga föreskrifter samt efterfrågade uppdateringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8.1",
+      "sentiment": -0.5,
+      "quote": "För att kunna uppnå de föreslagna kraven kommer Socialstyrelsen därmed att behöva anställa minst fyra hälsoekonomer som endast jobbar med konsekvensutredningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec407",
+      "sentiment": 0.5,
+      "quote": "Socialstyrelsen föreslår därför att direktiven uttryckligen säkerställer att ökad tillgänglighet vägs emot komplexiteten i arbetet i vård och omsorg och vikten av att den som antas till dessa program också har förutsättningar att klara studierna och i förlängningen arbetet i vård och omsorg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.3",
+      "sentiment": 0.2,
+      "quote": "Det finns en risk att processen för att ta fram och besluta nya författningar blir mer tidskrävande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.1",
+      "sentiment": -0.5,
+      "quote": "Socialstyrelsen saknar en konsekvensanalys av hur det föreslagna kommunal- och regionalekonomiska rådet ska förhålla sig till redan existerande expertmyndigheter inom respektive sakområde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.2",
+      "sentiment": 1.0,
+      "quote": "Socialstyrelsen anser att det vid utformningen av statsbidrag krävs en avvägning och anpassning utifrån huvudmännens förutsättningar och behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec507",
+      "sentiment": 0.5,
+      "quote": "Socialstyrelsen tillstyrker förslaget och vill belysa att det är en svår avvägning att utöva kontroll och uppföljning, samtidigt som man behöver ta hänsyn till den administrativa bördan för kommuner och andra bidragsmottagare.",
+      "quote_type": "grund"
+    }
+  ]
+}

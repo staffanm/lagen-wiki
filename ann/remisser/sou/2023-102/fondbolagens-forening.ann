@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/fondbolagens-forening": "49571140de71ec9c5711bb7a864890f099a5980df148ee695fb37d5551517418",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:40:46+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 13777,
+      "completion_tokens": 3376,
+      "ended": "2026-09-01T16:42:31+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "947c42762e7dff6876449bf40891838dbd7bdeb9632eda9b3c540e1297bbac34"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "föreningen instämmer i utredningens bedömning att i det här läget inte genomföra alltför långtgående lagändringar givet förordningens tidsbegränsade natur.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1",
+      "sentiment": 0.5,
+      "quote": "föreningen instämmer i utredningens bedömning att i det här läget inte genomföra alltför långtgående lagändringar givet förordningens tidsbegränsade natur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec331",
+      "sentiment": -0.5,
+      "quote": "Enligt föreningen vore det otillfredsställande om lagstiftningen konstrueras på så sätt att möjligheten att avsluta en affärsförbindelse med en okänd kund och låta försälja fondandelar avgörs av hur fondandelen är kontoförd och vem som för andelsägarregistret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec319",
+      "sentiment": -0.2,
+      "quote": "Föreningen menar därför att lagtexten i stället bör utformas så att kravet är att den som för andelsägarregistret eller den som är registrerad för förvaltning ska kunna fullgöra sina förpliktelser enligt lag, och då inte begränsar denna skyldighet till penningtvättslagen.",
+      "quote_type": "grund"
+    }
+  ]
+}

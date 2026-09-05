@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/malmo-kommun": "4c15a27e70305df0096e27fb3836e1152b2004109cedb70ab64bf19058969694",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:51:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 38678,
+      "completion_tokens": 5556,
+      "ended": "2026-09-01T13:54:13+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "673608cb0c9acc1e02c179e363364849e946c1f5a592d36540241b8f2e81381f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Flera av betänkandets förslag medför en risk för att förtroendet för socialtjänsten skadas samt ökade svårigheter att samarbeta med vårdnadshavare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": -0.5,
+      "quote": "Malmö stad ser en risk att ökad betoning på att tillfråga sakkunniga innebär att dessa tillmäts en oproportionerligt stor betydelse och att förtroendet för socialtjänstens och socialarbetarnas profession och kompetens undermineras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4",
+      "sentiment": 1.0,
+      "quote": "Malmö stad instämmer i utredningens avrådan.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": -0.5,
+      "quote": "Malmö stad bedömer att det inte är rimligt att barnet ska riskera att stå utan vård i en sådan situation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6-2",
+      "sentiment": -0.5,
+      "quote": "Det finns en risk att vårdnadshavare motverkar att barnet knyter an till familjehemmet utifrån rädsla att en återförening inte blir möjlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec357",
+      "sentiment": -0.5,
+      "quote": "Förslaget att beslutet om vård enligt § 3 ska underställas rätten var sjätte månad innebär, enligt Malmö stad, en risk att barn kommer att befinna sig i ständiga rättsprocesser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec477",
+      "sentiment": -0.2,
+      "quote": "Malmö stad bedömer att formuleringen andra närstående är ett brett begrepp vilket kan medföra svårigheter att definiera vilka som avses.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.4",
+      "sentiment": -0.5,
+      "quote": "Sådant material kan innehålla mycket integritetskänsliga uppgifter om barnet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec476",
+      "sentiment": -0.5,
+      "quote": "Vissa vårdnadshavare överklagar återkommande nämndens beslut och det finns en risk för ökad instabilitet i vården när fler personer i barnets nätverk får samma möjlighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.5,
+      "quote": "I fråga om förslaget kring beslut om uppföljning efter oplanerade avslut av strukturerade öppenvårdsinsatser finns det en risk att barns situation inte följs upp i de situationer som lagstiftaren eftersträvar.",
+      "quote_type": "grund"
+    }
+  ]
+}

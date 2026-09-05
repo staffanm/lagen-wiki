@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/kommissionen-for-innovativa-sarlakemedel": "9e796c64e3cc9e69cbadd7d50b021bd4907636fb76f2dd211ef423bfdd4f2096",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:18:09+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21988,
+      "completion_tokens": 1604,
+      "ended": "2026-09-02T04:19:03+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f3014b4efac08a0f7424c0bbad40d2023e8bda40bdbc8e9e8b94fcf2304f4983"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Effektiv och jämlik tillgång till läkemedel – inklusive nya och innovativa behandlingar – är en central förutsättning för att öka produktiviteten både inom vården och i samhället i stort.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/boverket": "ab8a7aa792dc9f099430519d53421a36945c77ce0ceccdfc5e1a82bbf0628a5f",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:12:55+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21678,
+      "completion_tokens": 3538,
+      "ended": "2026-09-02T02:15:07+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ba7d9edc66d9e7c17ee394af5d3f281a7e38d27191ed77e4072bf8c4b1572044"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Boverket delar Produktivitetskommissionens bedömning om att ett större analys- och reformarbete inom bostadspolitiken behövs för att förbättra marknadsförutsättningarna för bostadsbyggandet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 1.0,
+      "quote": "Boverket tillstyrker förslaget om att ta fram en mål- och inriktningsproposition där målsättningen fastslås samtidigt som propositionen innehåller konkreta inriktningar för ett kommande reformarbete.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": -0.5,
+      "quote": "Boverket bedömer att insatsen är betydligt större än 2 årsarbetskrafter över 2 år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.10",
+      "sentiment": 1.0,
+      "quote": "Återrapporteringskrav om ledtider är en uppgift för Boverket inom ramen för myndighetens ansvar att följa upp PBL.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.10",
+      "sentiment": 0.5,
+      "quote": "Boverkets erfarenheter av att arbeta med analyser visar dock att det krävs betydligt mer resurser för att bygga upp och upprätthålla en kompetens som arbetar långsiktigt och som även ska kunna leverera åtgärdsförslag utifrån analyserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.11",
+      "sentiment": -0.5,
+      "quote": "Regeringen föreslår i en lagrådsremiss att certifierade byggprojekteringsföretag så kallade byggbedömare ska kunna bedöma byggnaders krav genom hela byggprojekt, vilket väntas ge mer förutsägbara och effektiva byggprocesser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.12",
+      "sentiment": -0.5,
+      "quote": "Boverket avstyrker förslaget om ett hållbart strandskydd mot bakgrund av de förändringar som genomförts och det utredningsarbete som pågår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": 0.5,
+      "quote": "Boverket anser att det finns anledning att närmare utvärdera och ompröva hur dagens hyressättningssystem kan utvecklas för att i högre utsträckning reflektera och beakta hyresgästernas värderingar av olika boendekvaliteter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": 1.0,
+      "quote": "Boverket tillstyrker förslaget om att förenkla ändringar av en byggnads användningsområde och lämnar följande kommentarer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.5.8",
+      "sentiment": -0.5,
+      "quote": "ROT-avdraget infördes av konjunkturella skäl och bidrar till att motverka svartarbete.",
+      "quote_type": "grund"
+    }
+  ]
+}

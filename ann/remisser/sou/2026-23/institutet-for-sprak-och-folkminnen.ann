@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/institutet-for-sprak-och-folkminnen": "ab82f387cfbd5885adcb16b950cf8a506d040de31c661ab099a8e20a6cec6844",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T13:10:32+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21821,
+      "completion_tokens": 3667,
+      "ended": "2026-09-01T13:12:37+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c2a075093c60a431daf683db98c6700870c3c7501a82e921c43ebea3d303eb31"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Isof motsätter sig förslaget till lag och förordning om tolkavgift eftersom det saknas språkvetenskapligt stöd för att tolkavgifter bidrar till det integrationspolitiska målet om att kunskaperna i svenska språket ska öka hos utrikes födda kvinnor och män samt flickor och pojkar med utländsk bakgrund.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -1.0,
+      "quote": "Det saknas språkvetenskapligt stöd för att tolkavgifter bidrar till det integrationspolitiska målet om ökade kunskaper i svenska språket hos personer med utländsk bakgrund.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 1.0,
+      "quote": "Isof instämmer i förslaget om förbud mot att använda barn som tolk eftersom både forskning och praktiker vittnar om att barntolkning leder till negativa konsekvenser för barnet, myndigheterna och de personer som barn tolkar åt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 1.0,
+      "quote": "Isof instämmer i utredningens förslag att tolkavgift inte ska tas ut vid teckenspråkstolkning med hänvisning till språklagens (2009:600) skrivelser om det allmännas särskilda ansvar att skydda och främja det svenska teckenspråket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.5",
+      "sentiment": -1.0,
+      "quote": "Isof motsätter sig förslaget om att en tolkavgift ska tas ut efter en period om sex år eftersom det inte på vetenskaplig grund går att säga något generellt om hur lång tid det tar för en vuxen andraspråkinlärare att tillägna sig ett språk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.10",
+      "sentiment": 0.5,
+      "quote": "Isof instämmer i förslaget om att undanta de nordiska språken från tolkavgift, men anser att Sveriges internationella åtaganden gör gällande att undantaget även ska gälla grönländska, färöiska och de samiska språken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.11",
+      "sentiment": 0.5,
+      "quote": "Isof instämmer i förslaget men anser att undantaget, i enlighet med lagen om nationella minoriteter och minoritetsspråk (2009:724), bör gälla Sveriges fem nationella minoritetsspråk.",
+      "quote_type": "grund"
+    }
+  ]
+}

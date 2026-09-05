@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/uppsala-tingsratt": "1f5b45c727f1f2252ebc31e40739ba4f89d03ee6cc782520cd980244bc6fe1b7",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:32:24+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20002,
+      "completion_tokens": 2755,
+      "ended": "2026-09-01T16:33:50+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1a6afb6b9efef3e185f20d85346ccbf8b1e3f6e11965b43a2eb79b0f2fe57d3f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Tingsrätten har i huvudsak ingen erinran mot de förslag som har lämnats.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.11",
+      "sentiment": 0.2,
+      "quote": "Utredningens förslag om att genom ändringar i 2 kap. 2 § och 4 kap. 2 § smittskyddslagen ta bort informationsplikten respektive begränsa möjligheten att besluta om förhållningsregler innebär inte nödvändigtvis någon större straffrättslig förändring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 0.2,
+      "quote": "Utredningens förslag om att genom ändringar i 2 kap. 2 § och 4 kap. 2 § smittskyddslagen ta bort informationsplikten respektive begränsa möjligheten att besluta om förhållningsregler innebär inte nödvändigtvis någon större straffrättslig förändring.",
+      "quote_type": "grund"
+    }
+  ]
+}

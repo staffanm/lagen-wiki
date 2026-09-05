@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/tillvaxtverket": "d9a75dfde96e0633f8a6d449639b348a4a9ad5550f66ec9c2fb1a81b82dda1b3",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:13:57+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12384,
+      "completion_tokens": 3919,
+      "ended": "2026-09-01T15:15:53+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0d71ec96e679e6275c84a02df7c0e4bc515340502a98a91f9f6619cf48760c81"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Tillväxtverket är sammanfattningsvis positivt till förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.11",
+      "sentiment": 0.2,
+      "quote": "Med utgångspunkt i kapitel 7.11 om åtgärder för att underlätta datadelning i krissituationer anser Tillväxtverket att det kan förtydligas hur ansvarsfördelningen mellan berörda myndigheter ska fungera i operativa situationer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.5",
+      "sentiment": 0.2,
+      "quote": "Tillväxtverket ser som sektorsansvarig myndighet för industri, byggande och handel att det behöver förtydligas hur datadelning ska fungera vid cyberstörningar och andra liknande förhållanden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.5",
+      "sentiment": 0.2,
+      "quote": "Det vore också önskvärt att de sektorsansvariga myndigheternas kartläggningsuppdrag konkretiseras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.1",
+      "sentiment": 0.2,
+      "quote": "Ur ett dataskyddsperspektiv behövs det tydlig vägledning i kompletterande nationella regelverk kring gränsdragning mellan dataförordningen och dataskyddsförordningen (GDPR) i de situationer där datamängder som delas av företag eller offentliga organ även innehåller personuppgifter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.5.1",
+      "sentiment": 0.2,
+      "quote": "För att minska risken för de administrativa hinder som utredningen lyfter, bör det tydligt framgå att dataförordningen inte utgör rättslig grund enligt GDPR.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5.2",
+      "sentiment": 0.2,
+      "quote": "Det bör även framgå att all behandling av personuppgifter fortsatt måste uppfylla kraven i dataskyddsförordningen, samt att principerna om dataminimering och ändamålsbegränsning beaktas vid begäran av data även vid krissituationer.",
+      "quote_type": "grund"
+    }
+  ]
+}

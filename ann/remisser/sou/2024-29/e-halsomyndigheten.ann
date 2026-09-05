@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/e-halsomyndigheten": "8a69f72d6abbeb976b102ab02d962617f6a61ded944cba69bf988716a6aa68ae",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:34:58+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20260,
+      "completion_tokens": 2267,
+      "ended": "2026-09-02T02:36:28+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7298ff8203bf2e0b4dd34faf4223e3ae2fc58dced7c9fce0ea57f09c17699779"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I detta tillstyrker myndigheten i huvudsak utredningens förslag, men anser att ett antal av förslagen behöver konkretiseras och utredas ytterligare.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

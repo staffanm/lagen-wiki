@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/region-jonkopings-lan": "860ff7115f8536a701911980a2a4defdfcb9c50bbde22d45b6315090df9b4909",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:00:31+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22071,
+      "completion_tokens": 3854,
+      "ended": "2026-09-02T06:02:37+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "4dc1c2f871821141de71d602d0d62f0ab36f8395a25244400fbc5b09426ab01d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Jönköpings län delar i stort de bedömningar, förslag och slutsatser som berör regionernas verksamhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.4",
+      "sentiment": -0.2,
+      "quote": "Det finns annars risk för otydlig ansvarsfördelning och överlappning med regionernas lagstadgade uppdrag som regionalt utvecklingsansvariga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.3",
+      "sentiment": 0.2,
+      "quote": "Samhällsekonomiska analyser är viktiga, men måste kompletteras med regional kunskap om arbetsmarknad, pendling och näringslivets behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.1",
+      "sentiment": 0.5,
+      "quote": "Samtidigt behöver beslutsfattandet kunna väga in bredare samhällsnytta, exempelvis regional utveckling, socioekonomiska effekter, fördelningspolitiska konsekvenser, tillgänglighet, robusthet och beredskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": 0.2,
+      "quote": "Många brister kräver nyinvesteringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec502",
+      "sentiment": -0.2,
+      "quote": "Det finns redan etablerade samverkans- och lärandestrukturer, bland annat genom SKR.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/sveaskog": "a331888696214e0edc677677d17f08047e66c98b0c1092fa6673b3625aa56fec",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:57:23+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27160,
+      "completion_tokens": 5187,
+      "ended": "2026-09-02T00:00:42+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8d121170dfd6eb9b0d43c5f77a4e5aaeed7a2c650e8029ecd5a5d9cef9bb1c15"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Sveaskog anser att miljömålsberedningens analyser och bedömningar över lag är väl genomarbetade och att många intressanta förslag lagts på bordet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.8,
+      "quote": "Sveaskog tycker att alla de förslag som läggs om nya etappmål, indikatorer och preciseringar för miljökvalitetsmålen är rimliga och bidrar till att i en nationell kontext tydliggöra de internationella åtaganden som Sverige har att följa inom biologisk mångfald och kolinlagring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.8,
+      "quote": "Sveaskog instämmer i bedömningen i kapitel 8 att såväl användning av skogsråvara för substitution av fossila produkter som kolinlagring är viktiga delar i skogens nytta för att begränsa klimatförändringarna och att det är lämpligt att även kolinlagring i skogsmark och i långlivade träprodukter ingår i sektorsansvaret och därmed ska ingå i Skogsstyrelsens rådgivning, information och uppföljning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec172",
+      "sentiment": 0.2,
+      "quote": "Sveaskog noterar uppmaningen och ämnar utreda vad dagens mål med effektiv skogsskötsel, tillväxthöjande åtgärder och balanserade avverkningsnivåer betyder för nettoupptaget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec180",
+      "sentiment": 0.8,
+      "quote": "Sveaskog ser naturnära skogsbruk som ett medel för att nå mål för biologisk mångfald, rekreation och andra ekosystemtjänster.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.8,
+      "quote": "Sveaskog ser även positivt på förslagen om kunskapsuppbyggnad och rådgivning från Skogsstyrelsens och Naturvårdsverkets sida så att Sveaskog, och andra aktörer, utifrån bästa tillgängliga kunskap kan prioritera rätt våtmarker för återvätning och utföra återvätningen på det ett kostnadseffektivt sätt för att nå en så positiv effekt som möjligt för biologisk mångfald och kolinlagring utifrån använd krona.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1.3",
+      "sentiment": 0.8,
+      "quote": "Sveaskog anser tvärtom att det är rimligt och kostnadseffektiv naturvård att bevara sådana skogar med höga naturvärden som avses i EU:s strategi för biologisk mångfald och naturrestaureringsförordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": 0.8,
+      "quote": "Sveaskog ser det som positivt att utveckla naturskyddet genom att använda begreppet ”andra effektiva områdesbaserade bevarandeåtgärder” (OECM) så som föreslås i kapitel 13.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a20.2.4",
+      "sentiment": 0.8,
+      "quote": "Sveaskog anser inte att det är kostnadseffektiv naturvård att använda Sveaskogs skogsmark som ersättningsmark för skyddsvärd natur, särskilt vad gäller till andra skogsbolag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.2",
+      "sentiment": 0.8,
+      "quote": "Sveaskog ser positivt på att höja anslagen till förvaltning av formellt skyddad natur så att de naturvärden de avser att skydda bevaras långsiktigt genom naturvårdande skötsel och så att restaurering till naturtyp enligt restaureringsförordningens krav i första hand görs i redan skyddade områden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 0.8,
+      "quote": "Därmed skapas en möjlighet att skapa brynmiljöer mellan skogs- och jordbruksmark som är viktiga för biologisk mångfald såsom många olika pollinatörer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 0.8,
+      "quote": "Sveaskog anser att arbetet med branschvisa färdplaner med en nationell samordnare inom fossilfritt Sverige varit effektivt och att arbetssättet kan vara värt att pröva även för biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.8,
+      "quote": "Det ökar möjligheten till samverkan mellan Sveaskog och myndigheterna och Sveaskogs möjligheter att ta del av myndigheternas syn på vilka åtgärder som är effektiva för att nå mål inom biologisk mångfald och kolinlagring.",
+      "quote_type": "grund"
+    }
+  ]
+}

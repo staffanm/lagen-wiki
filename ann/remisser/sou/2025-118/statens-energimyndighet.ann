@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/statens-energimyndighet": "3626b6546b0f2240ea03afe14ca0f944fa5225adeed237839530f54674ee4ca5",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:11:42+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12074,
+      "completion_tokens": 1849,
+      "ended": "2026-09-01T15:12:37+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "995e62df1aad648435a89026a9a696eca132d3e99c19e27ee591471db72d2766"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Energimyndigheten tillstyrker förslaget men vill framföra följande kommentarer.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.5",
+      "sentiment": -0.5,
+      "quote": "Statistikproduktion bör inte behandlas som ett undantagsfall av exceptionellt behov enligt artikel 15.1 b, utan som ett särskilt rättsligt spår med egen reglering och egna förutsättningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11",
+      "sentiment": 0.2,
+      "quote": "Energimyndigheten vill gärna lyfta fram Statistiska centralbyråns goda erfarenheter av att hantera stora datamängder och att deras kompetens bör kunna användas av såväl Myndigheten för civilt försvar i deras roll som stöd till offentliga organ som avser att begära data vid exceptionella behov som av de sektorsansvariga beredskapsmyndigheter som ska kunna begära, ta emot och använda data.",
+      "quote_type": "grund"
+    }
+  ]
+}

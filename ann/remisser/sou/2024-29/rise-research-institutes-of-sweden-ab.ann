@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/rise-research-institutes-of-sweden-ab": "f5b48b561f794fe01e5fab50e528ab42a3640861c43d2ccdf30d254492c310ee",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:45:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20300,
+      "completion_tokens": 2797,
+      "ended": "2026-09-02T06:46:44+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "dfc8c94e2d8c5f5e29e994c3af0a189a3cd1ed8b42e03756f0b919aeb2b6c6fb"
+    }
+  },
+  "overall": {
+    "sentiment": -0.6,
+    "quote": "Dock vill RISE poängtera att dessa två förslag förefaller illa beredda och genomarbetade, och hoppas att de inte är indikativa för den stora mängd förslag som framförs i betänkandet i övrigt.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

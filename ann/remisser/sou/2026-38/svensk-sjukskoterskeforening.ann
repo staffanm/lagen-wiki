@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:38/svensk-sjukskoterskeforening": "da5c69fdf16e5844eeda2f0158d2a7dab4cc67b7148b8da7f43cabd84c2892bd",
+      "artifact:forarbete/sou/2026-38": "fd8bad64f971d0c3ce1e5d4fe759bbc0f6677602b49a43dce6da382708e9c7b7"
+    },
+    "run": {
+      "started": "2026-09-01T14:39:35+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20162,
+      "completion_tokens": 1950,
+      "ended": "2026-09-01T14:40:56+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7f637b0a417e77cf5c4745768b36bb0623b35cfd3888fdd3ceec06f39b09b97e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammanfattningsvis bedöms förslagen i utredningen utgöra ett viktigt steg mot en mer personcentrerad, jämlik, säker och kunskapsbaserad vård, förutsatt att även omvårdnadsperspektivet och sjuksköterskans kompetens tydligt integreras i såväl genomförande som uppföljning av dess förslag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.3.1",
+      "sentiment": 0.8,
+      "quote": "Svensk sjuksköterskeförening ser positivt på fortsatt utveckling och implementering av en nationell vårdförmedling då detta bör bidra till en nationellt mer jämlik vård med kortare väntetid för den enskilde patienten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.8,
+      "quote": "Svensk sjuksköterskeförening delar bedömningen att hälso- och sjukvårdens tillgänglighet bör utgå från patientens vårdbehov och en situationsspecifik kompetens snarare än enbart från tillgång till en viss yrkesprofession.",
+      "quote_type": "grund"
+    }
+  ]
+}

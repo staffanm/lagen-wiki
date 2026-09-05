@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/lansstyrelsen-i-hallands-lan": "b1d9c4d7546f8d23035b24bb40535bc773ec9a0473f9b9c7bb55c64ce94e2523",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:04:04+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12065,
+      "completion_tokens": 2326,
+      "ended": "2026-09-01T15:05:12+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "160a5f51a0abd44cc8c385719bc336d00ec3c8c1ffade87dd4628ffbea399302"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Länsstyrelsen Halland begränsar sitt yttrande till kapitel 7 i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.11.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen Halland delar utredningens bedömning att offentliga organ som kan begära data med stöd av kapitel V i dataförordningen behöver tillgång till stöd för att vara förberedda på att kunna begära samt använda data för att hantera ett allmänt nödläge.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.4",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen Halland tillstyrker utredningens förslag att Myndigheten för civilt försvar ska få i uppdrag att ge stöd till svenska offentliga organ i deras arbete med att förbereda för att vid behov begära, ta emot och använda data med stöd av kapitel V i dataförordningen för att ta hantera allmänna nödlägen.",
+      "quote_type": "grund"
+    }
+  ]
+}

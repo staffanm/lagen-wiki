@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/skatteverket": "37f8f8d82ed34527352384e074b01818bc218fb9fa836399053d96d4efd54aaa",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:53:49+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12791,
+      "completion_tokens": 2422,
+      "ended": "2026-09-01T16:55:04+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "dabdecea6375a6bfda6aa06dc69fb2c6851c29d42868c89a0fd45e83b535f7d6"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Skatteverket lämnar dock vissa synpunkter på förslagen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": -0.2,
+      "quote": "I annat fall blir det svårt för Skatteverket att känna till vilka parter som är s.k. godkända förvaltare och som därmed har övertagit ansvaret för att innehålla, redovisa och inbetala kupongskatten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.12",
+      "sentiment": -0.2,
+      "quote": "Det är för Skatteverket inte tydligt att det tillägg som gjorts i 1 kap. 10 a § ABL avseende värdepapperscentral också får genomslag i Aktiebolagsförordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.15",
+      "sentiment": -0.2,
+      "quote": "Det är för Skatteverket inte tydligt att de tillägg som gjorts i 10 kap. 22 § SFL och i 23 kap. 8 5 SFL avseende operatörer av DLT-SS-system eller DLT-TSS-system också får genomslag i SFF.",
+      "quote_type": "grund"
+    }
+  ]
+}

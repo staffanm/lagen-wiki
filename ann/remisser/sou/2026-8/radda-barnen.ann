@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/radda-barnen": "25ba2db155f9f2d3f6aa654dc66900e1b49b434de84f474cd63c037cf3c29b3b",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T14:03:42+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20017,
+      "completion_tokens": 4373,
+      "ended": "2026-09-01T14:06:06+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ed1d2ecbf659b723d49fdf8c02df2c0948bfdd384d9c90d08534cafa83461ccc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Rädda Barnen välkomnar alla åtgärder som kan bidra till en tvångsvård med ökad transparens, rättssäkerhet och förutsägbarhet – och som dessutom stärker barn som självständiga rättighetsbärare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 0.5,
+      "quote": "Många barn som är aktuella för tvångsvård enligt LVU har en livssituation som är komplex och som påverkas av många olika faktorer – en enskild profession har därmed svårt att ha en fullständig kunskap om barnets hela livssituation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.4",
+      "sentiment": 0.5,
+      "quote": "Barn som är föremål för tvångsvård har, som ovan nämnts, ofta en komplex och multisystemisk problembild.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9.2",
+      "sentiment": 1.0,
+      "quote": "Rädda Barnen delar utredningens bedömning att genom att ge åklagare denna befogenhet riskerar det att leda till att beslut om omhändertagande fattas på felaktiga grunder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec17",
+      "sentiment": -1.0,
+      "quote": "Rädda Barnen avstyrker detta, utifrån samma resonemang som utredningen själv för.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.4.2",
+      "sentiment": 0.5,
+      "quote": "Sammantaget är Rädda Barnen positiva till den förslagna ordningen, som innebär ökade krav på tydlighet och transparens.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.3",
+      "sentiment": 0.5,
+      "quote": "Rädda Barnen bedömer det som positivt att det ställs ökade krav hos socialnämnden på transparens och tydlighet gentemot vårdnadshavare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec469",
+      "sentiment": 1.0,
+      "quote": "Relationen med syskon och andra närstående är för många barn lika viktiga som föräldrar och vårdnadshavare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec417",
+      "sentiment": 1.0,
+      "quote": "Särskilt vid beslut om umgängesbegränsning så är det inte ovanligt att bedömning av barnets bästa helt saknas, något exempelvis även JO konstaterat .",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec476",
+      "sentiment": -0.2,
+      "quote": "finns en risk att förslaget medför att barnet sätts in i ytterligare flera rättsprocesser och överklaganden kopplat till beslut om umgängesbegränsning.",
+      "quote_type": "grund"
+    }
+  ]
+}

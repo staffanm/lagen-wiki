@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/skogsindustrierna": "6ea1d9b3e827c620528a11de6a683f01d92e0da7ae7b8b0c3435eac9b42e9868",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:14:34+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 33458,
+      "completion_tokens": 6667,
+      "ended": "2026-09-01T23:19:00+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "03b2ca4d8e47f7d94a9fe1b0a713eb82db3522b69c69564e75e50d784b4d27f1"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Skogsindustrierna avstyrker däremot förslaget om s.k. kolinlagringsavtal, vilka riskerar att motverka möjligheten till omställning genom att det leder till en betydande minskning av råvara till i första hand sågverksindustrin.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 1.0,
+      "quote": "Skogsindustrierna tillstyrker förslaget att myndigheter får i uppdrag att genomföra riktade informationsoch rådgivningsinsatser.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": -0.2,
+      "quote": "Nyttan med en sådan åtgärd kan ifrågasättas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": -0.5,
+      "quote": "Förslaget är överflödigt, och dessutom otydligt då det inte framgår vilken referens som ska användas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.5,
+      "quote": "Skogsindustrierna anser att miljömålet Begränsad klimatpåverkan bör kompletteras med uppföljning och redovisning av den substitutionsnytta som uppnås genom användningen av olika biobaserade materialoch energislag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 1.0,
+      "quote": "Förslaget är i allt väsentligt i linje med den satsning som branschen sedan tidigare efterfrågat i flera sammanhang.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 0.5,
+      "quote": "Inom ramen för klimatpolitiken kan därför en tidsbegränsad satsning för att stimulera en ökad gödsling vara motiverad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "Förslaget leder till en betydande minskning av tillgänglig råvara till främst sågverksindustrin, och motverkar därmed möjligheten att få fram förnybart byggmaterial med mera.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.4",
+      "sentiment": -1.0,
+      "quote": "De skogliga konsekvensanalyserna bör i stället användas för att bedöma realistiska eventuella framtida åtaganden inom LULUCF.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": -1.0,
+      "quote": "av samma skäl som vi avstyrker förslaget om kollagringsavtal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 0.5,
+      "quote": "Mängden kol i långlivade byggprodukter kan och bör räknas in i klimatdeklarationens gränsvärde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1.2",
+      "sentiment": 1.0,
+      "quote": "Förslaget ligger väl i linje med Skogsindustriernas framtidslöfte om att skogsindustrins produkter 2040 ska vara fossilfria och återvinningsbara och att träprodukter ska vara återbrukbara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1.3",
+      "sentiment": -1.0,
+      "quote": "Vilka produkter som tillverkas beror inte på skötselmetoder utan på faktorer som marknadens efterfrågan och industristruktur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.8.4",
+      "sentiment": 1.0,
+      "quote": "en nationell samordnare för lövträ bör knytas nära Svenskt Trä som är en del av Skogsindustrierna, och som också har en kommitté för lövträsågverken i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -1.0,
+      "quote": "Torv är en viktig råvara som behövs för produktionen av bland annat skogsplantor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.10",
+      "sentiment": 0.5,
+      "quote": "Frivilliga avsättningar (hänsynsområden> 0,5 ha) är en viktig del av markägares bidrag till att värna och utveckla biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.11",
+      "sentiment": 0.5,
+      "quote": "alla impediment är skyddade genom skogsvårdslagens förbud mot skogsbruk inom dessa områden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.9",
+      "sentiment": 0.5,
+      "quote": "Skogsindustrierna anser att områden som omfattas av naturvårdsavtal om återvätning av torvmarker bör redovisas som skyddad natur.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": 0.5,
+      "quote": "Sverige har därmed ett åtagande att skydda återstående urskogar och gammal skog – inte naturskog.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.2",
+      "sentiment": 1.0,
+      "quote": "Skogsindustrierna tillstyrker förslaget att Skogsstyrelsen, i samråd med Naturvårdsverket och SLU, får i uppdrag att kartlägga urskog och gammal skog genom fältinventering av de skogar som har en förhöjd sannolikhet att utgöra urskogar och gammal skog.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a14.1.3",
+      "sentiment": 1.0,
+      "quote": "Skogsindustrierna tillstyrker förslag att icke kartlagd urskog och gammal skog upptäcks vid avverkningsanmälning och anmälning om samråd enligt 12 kap. 6 § miljöbalken och då kan kartläggas och skyddas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a14.1.4",
+      "sentiment": 1.0,
+      "quote": "Skogsindustrierna tillstyrker förslaget att privata fastighetsägare, inkl. aktiebolag, som innehar kända urskogar och/eller gammal skog, så långt möjligt, ska få välja mellan formellt skydd – genom inrättande av naturreservat eller beslutat biotopskyddsområde – och bevarande genom fastighetsägarens försorg utan ersättning från staten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1",
+      "sentiment": 1.0,
+      "quote": "Det är angeläget att säkra att skyddade områden inte förlorar, utan utvecklar, naturvärden de syftar till att bevara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 1.0,
+      "quote": "Skogsindustrierna tillstyrker förslaget att avskaffa återbeskogningsplikt i en zon 25 meter mot jordbruksmark.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": -1.0,
+      "quote": "Uppdraget att inventera skogars naturvärden samt att identifiera urskogar och gamla skogar är och måste förbli myndigheters uppgift.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/statens-veterinarmedicinska-anstalt-sva": "433ebb4266cb89a19040985bd467e11c274597a0d412c5eb3fe730f134dee919",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:50:40+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20306,
+      "completion_tokens": 2933,
+      "ended": "2026-09-01T15:52:13+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "243390660365e4d9022cc136bcfa32b5ada9010713e07d5f3dc66292099ed60f"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "SVA stöder de förslag som berör myndigheten och har inga synpunkter på övriga föreslagna förändringar av smittskyddslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": 0.5,
+      "quote": "Det gäller en diskrepans mellan smittskyddslagen och zoonoslagen gällande till vem/vilken instans en veterinär är skyldig att rappo11era en smitthändelse och föreslår en ändring i smittskyddslagen för att få överensstämmelse mellan lagtexterna.",
+      "quote_type": "grund"
+    }
+  ]
+}

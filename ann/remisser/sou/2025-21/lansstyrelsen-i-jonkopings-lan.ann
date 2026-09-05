@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-i-jonkopings-lan": "a3d625714094d91563b8eb20e02b9faeb95d7f8bc31930492f7852082849cb06",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T18:38:35+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 37115,
+      "completion_tokens": 10535,
+      "ended": "2026-09-01T18:45:11+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "91d47a7ac7a8542f63f0f8e51b0d2866bfdc3fac30da1e0e122f9c9993f84015"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen ser beredningens förslag som ett viktigt steg för att öka takten i arbetet med att nå såväl regionala, som nationella och internationella mål för att bevara den biologiska mångfalden och motverka klimatförändringarna som hotar grunden för våra samhällen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.2,
+      "quote": "Det är generellt viktigt att informations- och rådgivningsinsatserna är målgruppsanpassade och att de åtgärder som föreslås är trovärdiga, välbeprövade med beaktande av ett framtida förändrat klimat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen tillstyrker ett inrättande av en övergripande åtgärdssamordnare, särskilt om denna utgår ifrån Länsstyrelsen och samordnar olika aktörer, kompetenser och tillgängliga åtgärdsmedel för att sedan ska kunna arbeta gemensamt utan att det blir dubbelarbete i ett landskapsperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.5,
+      "quote": "Det vore önskvärt att indikatorn kan användas för miljömålsuppföljning på regional nivå (länsnivå) samt att den även ingår i Nationella emissionsdatabasen (som förvaltas av SMHI med Naturvårdsverket som uppdragsgivare).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 0.5,
+      "quote": "Rådgivningen bör balansera värden knutna till såväl produktion, kolbindning som biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.8,
+      "quote": "Att ge statliga bidrag till produktionshöjande åtgärder i skogsbruket är troligen en mycket tveksam investering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 0.5,
+      "quote": "För att öka åtgärdens kostnadseffektivitet föreslår Länsstyrelsen att rekommenderad slutavverkningsålder ska ha uppnåtts när avtalet ingås, istället för att den ska uppnås innan avtalet går ut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 1.0,
+      "quote": "Detta genom att ta ett proportionerligt ansvar och bidra substantiellt till att Sverige lever upp till sina åtaganden vad gäller biologisk mångfald och kolinlagring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen efterfrågar även ytterligare åtgärder inom området då den privata konsumtionen av kött är väldigt stor och fortsätter priset på naturbeteskött vara högre kommer konsumenter i stor utsträckning fortfarande välja icke-svenskt eller icke-naturbeteskött.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": 0.5,
+      "quote": "Ökad vall till både foder och biogas stärker robustheten eftersom det minskar behovet av importerade proteinfoder, exempelvis inom mjölkproduktion, vilket är en näring som är stor i Jönköpings län samt minskar behovet av importerad naturgas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen delar utredningens bedömning att det finns potential att minska utsläpp i samband med exploatering och att det behövs styrmedel som ger incitament, samt bättre verktyg för att mäta utsläppseffekterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 1.0,
+      "quote": "Att stimulera ökat byggande i trä är viktigt även för att stödja fortsatt efterfrågan, forskning och utveckling av fossilfria produkter från restströmmar inom skogs- och träindustrin för en grön omställning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.2,
+      "quote": "För att förslagen ska bli genomförda måste det finnas starka ekonomiska incitament som ger full täckning för inkomstbortfall för markägare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.5,
+      "quote": "För att säkerställa att åtgärderna verkligen ger klimatnytta och krävs både bra underlag samt att medel finns för uppföljning av olika typer av åtgärder och utföranden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 1.0,
+      "quote": "så att återvätningsarbetet för alla olika aktörer styrs i samma riktning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": 1.0,
+      "quote": "Att det tillkommer en anmälningspunkt om restaurering tydliggör för såväl myndighet som verksamhetsutövare hur en återvätning ska prövas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -0.8,
+      "quote": "Länsstyrelsen avstyrker förslaget om ett undantag från krav på omprövning eller avveckling av markavvattningsföretag då det kan innebära ett arbetssätt som inte är rättssäkert.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 0.5,
+      "quote": "Utfasningen är befogad och angelägen, eftersom klimatnyttan skulle bli mycket stor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": 0.2,
+      "quote": "Det kommer behövas en tydlig riktlinje för vilken nivå av biologiska värden som krävs av ett område för att det ska kvalificera som OECM.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.7",
+      "sentiment": 0.5,
+      "quote": "förutsatt att det uppfyller definitionen av OECM och följs upp kontinuerligt och att markägarperspektivet beaktas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.13",
+      "sentiment": -0.2,
+      "quote": "ställer sig frågande till vilka resurser som ska användas till detta och hur ett sådant system skulle se ut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.8,
+      "quote": "Länsstyrelsen ställer sig negativ till att använda begreppet urskog med den föreslagna definitionen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.2",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser det problematiskt att Life pekas ut som en viktig finansieringskälla, men att det inte kan användas för restaurering av en stor andel av länets skyddade områden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.4",
+      "sentiment": 0.5,
+      "quote": "anser också att det bör finnas en separat post för uppdatering av bevarandeplaner samt att till behovet av uppdatering av planerna tillkommer ajourhållning av berörda system, vilket medför kostnaderna som bör ingå i beräkningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.3",
+      "sentiment": 1.0,
+      "quote": "Det är bra att restaurering av naturtyper kan komma att ingå i ÅGP då det finns stor kunskap och erfarenhet av arbetssättet på länsstyrelserna, särskilt inom dialog och samverkan vilket är basen inom frivilligt åtgärdsarbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.5",
+      "sentiment": 0.5,
+      "quote": "förutsatt att tillräckliga resurser avsätts.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen tillstyrker förslaget om ökning av anslaget 1:3, men upplever det otydligt om det är de nationella stöden som avses omfattas av ökningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen håller med om beredningens bedömning om att det inte finns ett tillräckligt effektivt regelverk som kan motverka förlust av områden med stor betydelse för biologisk mångfald och tillstyrker flera av förslagen inom avsnitt 17 som är en bra ansats, även om det är högst tveksamt om förslagen är tillräckliga för att stävja förlusten av biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.1",
+      "sentiment": 0.2,
+      "quote": "saknar landskapsperspektivet och vikten av konnektivitet samt kvalitet av grönska.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": 0.2,
+      "quote": "kompensation behöver genomföras med rätt villkor och utföras på ett sätt som i slutändan ger en nettovinst för den biologiska mångfalden med landskapsperspektivet i åtanke.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsens bedömning är att en nationell samordnare kan underlätta och inspirera företag att öka sitt medvetande och vidta åtgärder.",
+      "quote_type": "grund"
+    }
+  ]
+}

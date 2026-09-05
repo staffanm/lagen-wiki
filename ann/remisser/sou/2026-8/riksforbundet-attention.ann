@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/riksforbundet-attention": "0a9c0ee6d24b0cc69f1f0cfaeff9936fa00bff43e95c6e16e1b7ec29cc886364",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:59:57+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19924,
+      "completion_tokens": 4098,
+      "ended": "2026-09-01T14:02:12+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c49f2bbc30e810ecae1aba386b44c837b0a25335e7bcaf5b823c51fdae195ab4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "När samhället tar över ansvaret för vård och omsorg för ett barn måste det också säkerställas att de får rätt stöd, vård och omsorg utifrån deras behov.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 0.5,
+      "quote": "En sådan ordning ökar förutsättningarna för att barnets behov och barnets bästa bedöms utifrån en samlad och korrekt förståelse av barnets situation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.4",
+      "sentiment": 0.8,
+      "quote": "I mål som rör barn med neuropsykiatriska funktionsnedsättningar, psykisk ohälsa eller komplex samsjuklighet krävs ofta specialistkunskap för att domstolen fullt ut ska kunna förstå hur funktionsnedsättningen påverkar barnets situation, riskbild och behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec169",
+      "sentiment": -0.2,
+      "quote": "I och med att vi anser att kunskapen om NPF varierar inom Sveriges domstolar finns det en risk att de själva inte vet att de skulle kunna behöva specialistkompetens i målet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": -0.5,
+      "quote": "eftersom kommunernas ekonomiska förutsättningar varierar, vilket innebär att tillgången till specialistkompetens riskerar att bli ojämlik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec357",
+      "sentiment": 1.0,
+      "quote": "Vi är mycket positiva till utredningens förslag om att det bör införas en obligatorisk domstolsprövning av beslut om fortsatt vård enligt 3 § LVU var sjätte månad.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec365",
+      "sentiment": 1.0,
+      "quote": "För familjer där barnet eller en förälder har NPF är det särskilt viktigt att detta stöd utformas utifrån individuella behov och bygger på kunskap om hur funktionsnedsättningen påverkar vardagsfungerande och föräldraförmåga.",
+      "quote_type": "grund"
+    }
+  ]
+}

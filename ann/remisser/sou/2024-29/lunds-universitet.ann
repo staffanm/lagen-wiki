@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/lunds-universitet": "816f92704858ce0f44ea31e61dbe1410b99abd90918726db46f9ad9fc9531b18",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:43:42+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25086,
+      "completion_tokens": 3511,
+      "ended": "2026-09-02T04:45:43+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b10e48d17a8afe96940afdf1a832d04afb49af2b9d4ff14dd0685ee8017590f7"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Lunds universitet bedömer att förslagen för universitet och högskolor sammantaget riskerar att ytterligare öka den politiska styrningen och försvagar lärosätenas självbestämmande och särart.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": 1.0,
+      "quote": "Att Sverige har en högre utbildning som står sig väl i en internationell jämförelse, både vad gäller ekonomiska förutsättningar och kvalitet, är en helt avgörande faktor för landets produktivitetsutveckling och möjlighet till konkurrenskraft.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": -0.2,
+      "quote": "En höjning av betygsnivå kan i praktiken leda till att utbildningar får för få sökande och inte blir ekonomiskt bärkraftiga för ett lärosäte och att utbildningarna därmed läggs ned.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 0.0,
+      "quote": "Lunds universitet ser det som helt grundläggande att ersättningen per student höjs för att lärosätena ska kunna garantera en fortsatt hög kvalitet och internationell konkurrenskraft.",
+      "quote_type": "grund"
+    }
+  ]
+}

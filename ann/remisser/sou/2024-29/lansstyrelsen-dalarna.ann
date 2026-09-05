@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/lansstyrelsen-dalarna": "f6f985f3a449cdae47604e38592904258da2b1c31dfc3f45327b6556857070be",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:49:19+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23276,
+      "completion_tokens": 6057,
+      "ended": "2026-09-02T04:52:39+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "157d00fabeba2b9b95da555c4a6929ec9c0889572042b0725a0b4c6bc072b37f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Fler av de förslag som läggs fram av produktivitetskommissionen har tagits om hand på annat sätt samt att vissa förslag som ges behöver analyseras och konsekvensbedöms ytterligare innan synpunkter kan lämnas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec189",
+      "sentiment": 1.0,
+      "quote": "Kravet på utvärdering samt påföljande process bör stadgas i lag, vilket är viktigt för tydligheten av genomförandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec245",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen har inga synpunkter på förslaget att staten måste samordna sitt arbete med tillståndsprocesser och i och med inrättandet av en miljöprövningsmyndighet så ligger förslaget i linje med beslutad förändring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec256",
+      "sentiment": -0.2,
+      "quote": "bör ha i åtanke att markförlagda ledningar kan vara fördelaktiga inom vissa geografiska områden samt vid överväganden om tryggad elförsörjning vid händelse av naturolyckor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec280",
+      "sentiment": -0.2,
+      "quote": "Det behöver även beaktas att planläggning i redan planlagda och exploaterade strukturer i kombination med många mindre lagändringar leder till mer komplicerade planförhållanden och processer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": 0.5,
+      "quote": "Att se över regeringens mål för bostadspolitiken och se över lagstiftning behöver också anpassas utifrån att hela landets bostadsmarknad ska vara väl fungerande, även i samhällen med demografiska utmaningar och krympande befolkningsutveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": 0.0,
+      "quote": "Det behövs en mer ingående genomlysning och en mer omfattande utredning för att bedöma om beslutsfattandet av planläggning för markanvändning helt eller delvis bör flytta beslutsfattandet från kommunal nivå till regional och/eller statlig nivå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.4",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen ser positivt på en utvärdering av flytten av det regionala utvecklingsansvaret från Länsstyrelsen till regionen och ser framför sig ett tydliggörande över respektives myndighets roll i det regionala utvecklingsansvaret.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.6",
+      "sentiment": -0.5,
+      "quote": "Att begränsa möjligheten för kommunen att ha åsikter om detaljerad gestaltning och utseende i vanliga bostadsbyggnadsprojekt begränsar möjligheterna för kommunerna att hantera nationella målen om gestaltad livsmiljö.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.8",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen ser farhåga i att förslaget riskerar att få motsatt effekt än det utredningen förväntar sig eftersom det kan innebära att det ställs alltför höga utredningskrav inledningsvis för att inte riskera att missa något längre fram.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": 1.0,
+      "quote": "Bägge förslagen har förts fram i nyligen remitterade nationell transportinfrastrukturplan och Länsstyrelsen förde fram det som vällovligt.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen är tveksam till att förslaget om en ändrad hyresreglering kan påverka identifierat efterfrågeöverskott på hyresmarknaden.",
+      "quote_type": "grund"
+    }
+  ]
+}

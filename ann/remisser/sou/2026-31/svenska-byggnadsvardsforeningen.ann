@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:31/svenska-byggnadsvardsforeningen": "b8eba40e9967a6edc3348dfaca671c4e376593017edf73960a1bc8002c809f37",
+      "artifact:forarbete/sou/2026-31": "ef8245175db904b978b38991033b6a379ee8f9594f3915e25592bd1d486ddcbd"
+    },
+    "run": {
+      "started": "2026-09-01T14:40:56+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 9094,
+      "completion_tokens": 3827,
+      "ended": "2026-09-01T14:42:57+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8bc4e89ccd1e6395d8823d1bdd117f8516b9a8eab212391d5401c4b94240e75b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslaget är ett viktigt steg mot ett mer pluralistiskt finansieringssystem och kan bidra till att stärka civilsamhällets, stiftelsernas, företagens och enskilda givares roll i kulturlivet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": -0.2,
+      "quote": "Utredningen redovisar flera internationella modeller som är relevanta ur kulturarvs- och kulturmiljöperspektiv, men drar inte tillräckligt långtgående slutsatser av dem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.5,
+      "quote": "Det byggda kulturarvet skiljer sig från många andra kulturverksamheter genom att behoven ofta är långsiktiga, materiella och underhållsrelaterade.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.2",
+      "sentiment": -0.2,
+      "quote": "Samtidigt finns en risk att privata gåvor till offentliga verksamheter absorberas i den ordinarie budgeten och därmed inte blir ett verkligt tillskott.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": 0.2,
+      "quote": "Kulturmiljövård kräver ofta långsiktighet, sakkunskap och återkommande underhåll, snarare än korta projektlogiker.",
+      "quote_type": "grund"
+    }
+  ]
+}

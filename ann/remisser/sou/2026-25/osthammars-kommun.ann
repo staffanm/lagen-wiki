@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/osthammars-kommun": "c83a9900c34f6573e4d42ede66b0a58bfa02d5e37c8821ca4bd45175fe1c3508",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:54:33+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19787,
+      "completion_tokens": 855,
+      "ended": "2026-09-01T15:55:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0835f3db7a9a206278829af1f31b27f582d85142ab964c9c29ad2605e6137485"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Vård- och omsorgsnämndens arbetsutskott beslutar att inte besvara remiss av slutbetänkande Ett smittskydd för framtiden (SOU 2026:25).",
+    "quote_type": "standpunkt"
+  },
+  "segments": []
+}

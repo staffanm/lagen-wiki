@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/svenskt-naringsliv": "5f0849f391f4ae1c4ad9189994ffe49ea369bb2959ca8cf07edaa98ee55ce1cf",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:25:00+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 65195,
+      "completion_tokens": 9888,
+      "ended": "2026-09-02T00:31:15+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0d0c4dbab927f1d90f782d29d4e2c420309f313019393431a64084d183d01467"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Svenskt Näringsliv ser positivt på att Miljömålsberedningen betonar vikten av långsiktighet, samverkan mellan klimat- och miljömål, samt behovet av att stärka den biologiska mångfalden parallellt med att uppnå klimatmålen inom LULUCF-förordningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.2,
+      "quote": "Detta riskerar att skapa förvirring om vilka åtgärder som är beslutade och ska implementeras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 1.0,
+      "quote": "Svenskt Näringsliv tillstryker förslaget om utökad information och rådgivning till skogsägare som ett viktigt verktyg för att öka kunskapen och skapa förutsättningar för ett mer hållbart brukande av skogsmark.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 0.5,
+      "quote": "Sådana avtal kan påverka tillgången på skogsråvara, med möjliga följdeffekter på sysselsättning och industriella investeringar, särskilt i landsbygdsregioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": 0.5,
+      "quote": "om EU har beslutat om kolinlagring i mark är det centralt att använda denna fond för att stödja lagstiftningarna och inte skapa ytterligare belastning på de nationella statsbudgetarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.5,
+      "quote": "Att automatiskt förbjuda exploatering på jordbruksmark eller torvmark utan att ta hänsyn till den specifika markens värde, eller alternativkostnaden att inte bebygga, är inte förenligt med en hållbar markanvändning och samhällsutveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": -0.2,
+      "quote": "Även om Boverkets regeringsuppdrag utgår från klimatpåverkan och Miljömålsberedningens från LULUCF, anser Svenskt Näringsliv att Boverkets pågående uppdrag bör slutföras och utvärderas innan nya åtgärdsförslag övervägs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1.2",
+      "sentiment": 0.8,
+      "quote": "Återbruk är en viktig del av framtidens byggande, och att införa åtgärder som underlättar för spårbarhet och ökad kunskap om återbruks-potentialen kan leda till vinster både för klimatet och för resurseffektiviteten inom byggbranschen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1.3",
+      "sentiment": -0.2,
+      "quote": "Svenskt Näringsliv tveksamma till om det finns specifika skötselmetoder just för långlivade träprodukter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": 0.8,
+      "quote": "Det möjliggör en mer flexibel och verklighetsförankrad syn på bevarande, där områden som förvaltas aktivt för att bevara biologisk mångfald även om de inte omfattas av traditionella skyddsinstrument kan erkännas som viktiga bidrag till måluppfyllelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec373",
+      "sentiment": -0.5,
+      "quote": "Det är därför svårt att se varför strandskydd inte skulle kunna räknas in som en effektiv bevarandeåtgärd, särskilt i ljuset av att OECM-begreppet syftar till att omfatta även sådana områden som bidrar till bevarandemål utan att ha ett formellt skydd och även omfatta fall där naturvärden bibehålls och gynnas som ett sekundärt syfte eller en bieffekt",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": 0.5,
+      "quote": "Att införa ett generellt skydd utan föregående kartläggning skapar osäkerhet för markägare och riskerar att underminera förtroendet för processen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1",
+      "sentiment": 0.8,
+      "quote": "Det är positivt att resurser föreslås för konkreta åtgärder i dessa områden vilket är en förutsättning för att skyddet ska ge faktisk effekt för biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1",
+      "sentiment": 0.0,
+      "quote": "En översyn av rapporteringen pågår just nu och resultat från den behöver inväntas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": -0.5,
+      "quote": "Ett sådant system riskerar att fungera på ett sätt som påminner om Artportalen, där data som samlats in av privatpersoner i praktiken skulle kunna få stor påverkan på myndigheters beslut i tillståndsprocesser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": -0.2,
+      "quote": "Inom området finns principen om att kompensera ”lika för lika” vilket Svenskt Näringsliv anser bör helst överges eller att det åtminstone tillåtas mer flexibilitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 0.8,
+      "quote": "Det är viktigt att strukturera upp de synergier som finns mellan sektorer samt visa upp allt som sker och görs inom näringslivet i detta område.",
+      "quote_type": "grund"
+    }
+  ]
+}

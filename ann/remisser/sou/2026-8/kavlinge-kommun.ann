@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/kavlinge-kommun": "24dc9b47fe146c852e21cb2ac5a7998833eae190d644c6e5f7e28b04f3398d3f",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T14:29:57+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18842,
+      "completion_tokens": 4457,
+      "ended": "2026-09-01T14:32:21+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8b91f9d612464341d98e353596bda8c920a9e31e057e687422c86b06575cd8f2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kävlinge kommun tillstyrker huvuddelen av utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec165",
+      "sentiment": 0.5,
+      "quote": "Förslaget bedöms kunna bidra till mer rättssäkra och välgrundade bedömningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec404",
+      "sentiment": 1.0,
+      "quote": "Kommunen bedömer att förslaget stärker socialnämndens möjligheter att få tillgång till relevanta uppgifter och därmed bidrar till mer rättssäkra och välgrundade bedömningar av vårdens genomförande, umgänge och vårdens upphörande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec581",
+      "sentiment": 1.0,
+      "quote": "En sådan reglering skulle innebära ett mer långtgående intrång i den enskildes integritet och bedöms inte stå i proportion till syftet med uppföljningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec225",
+      "sentiment": -1.0,
+      "quote": "Kommunen delar utredningens bedömning att en sådan ordning riskerar att försvaga LVU karaktär som skyddslagstiftning och skapa otydlighet i ansvarsfördelningen mellan berörda myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec251",
+      "sentiment": 0.5,
+      "quote": "Förslagen bedöms minska risken för att vårdbeslut förfaller när barn eller unga håller sig undan samt skapa bättre förutsättningar för verkställighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec338",
+      "sentiment": 0.2,
+      "quote": "Kommunen ser positivt på att barnets bästa ges en mer framträdande betydelse i bedömningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec359",
+      "sentiment": 0.5,
+      "quote": "Kommunen anser att automatisk domstolsprövning vid vård enligt 3 § LVU stärker rättssäkerhetsperspektivet, men vill framhålla att förslaget medför ökade administrativa och ekonomiska konsekvenser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec367",
+      "sentiment": 0.5,
+      "quote": "En tydligare vårdplan och en särskilt utsedd socialsekreterare för vårdnadshavare bedöms kunna stärka delaktighet och förutsättningarna för återförening.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec469",
+      "sentiment": 0.2,
+      "quote": "Kommunen vill samtidigt uppmärksamma att barns möjligheter att överklaga beslut om umgängesbegränsningar är begränsade samt att förslaget kan leda till fler domstolsprocesser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec505",
+      "sentiment": 0.5,
+      "quote": "Förslagen kan bidra till tryggare och mer rättssäkra bedömningar i frågor om umgänge och vårdens upphörande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec576",
+      "sentiment": 0.2,
+      "quote": "Kommunen anser dock att begreppet omfattande insatser bör definieras tydligare för att minska risken för olika tillämpning mellan kommuner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec596",
+      "sentiment": 0.5,
+      "quote": "Förslaget stärker skyddet för barn som kan befinna sig i en utsatt situation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec601",
+      "sentiment": 1.0,
+      "quote": "Kommunen anser att frågan om placering på särskilda ungdomshem behöver utredas vidare innan ytterligare lagstiftningsåtgärder övervägs.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/naturskyddsforeningnen_appendix": "899d08fda23f3f980fff02244ad7a12beb06807c8b0a9d34b3f283dd614326c0",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T22:31:33+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26980,
+      "completion_tokens": 3077,
+      "ended": "2026-09-01T22:33:41+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "72f92cd8d76884dac60cf690ca9e9b84502f8d3b486996ceec79146b5f3e489e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Här är detaljer för uträkningar som Naturskyddsföreningen gjort på åtgärder för kolinlagring som föreslås av Miljömålsberedningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec186",
+      "sentiment": -1.0,
+      "quote": "Naturskyddsföreningen stödjer inte förslaget om gödsling och har därför inte räknat i detalj på inlagrad mängd koldioxid.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a19.5.3",
+      "sentiment": -0.2,
+      "quote": "En stor del av den kolinlagrande effekten av stöden 2026–2030 försvinner redan i perioden 2031–2035 när 5-åriga avtal avslutas och en betydande del av de skogar som ingått kan förväntas slutavverkas, även om det säkert finns en del markägare som vill teckna nya avtal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": -0.2,
+      "quote": "Miljömålsberedningen redovisar inte siffror som kan utgöra beräkningsunderlag för den extra kolinlagringen som ett sådant stöd kan innebära.",
+      "quote_type": "grund"
+    }
+  ]
+}

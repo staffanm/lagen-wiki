@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/bodens-kommun": "6bac56f76aef39620acd8e7e73241eb5f7c84d0439d1349af04ef77841b91629",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T13:04:06+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19382,
+      "completion_tokens": 6518,
+      "ended": "2026-09-01T13:07:39+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "81804b76ca7bdb03f986838b4b87eb04c6c0d99f84c920652de16711a16cd938"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Bodens kommun tillstyrker förslaget om förbud mot barntolk i sin helhet. Bodens kommun avstyrker däremot införandet av tolkavgift i dess nuvarande utformning.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 1.0,
+      "quote": "Bodens kommun delar utredningens bedömning att barn inte ska bära ansvar för kommunikation mellan vuxna och myndigheter och att barns rätt till trygghet, integritet och en egen barndom ska värnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -1.0,
+      "quote": "Bodens kommun bedömer att förslaget riskerar att motverka flera samhällspolitiska mål som samtidigt eftersträvas av staten, däribland ökad jämställdhet, förbättrad integration, stärkt myndighetssamverkan, ökad tillgänglighet för personer med funktionsnedsättning samt en effektiv och förebyggande välfärd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": -0.5,
+      "quote": "Bodens kommun ser en risk att myndigheter och kommuner behöver lägga betydande resurser på att bedöma om ett ärende omfattas av avgiftsplikt eller undantag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.11",
+      "sentiment": -0.2,
+      "quote": "Om LSS inte uttryckligen omfattas av undantaget finns en risk för olika tolkningar mellan huvudmän och myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a22.2.4",
+      "sentiment": -0.5,
+      "quote": "För vissa kvinnor kan även social isolering eller hedersrelaterade normer begränsa möjligheterna att delta i utbildning, arbetsliv och samhällsliv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec427",
+      "sentiment": -0.2,
+      "quote": "Om de vanligaste kontaktytorna samtidigt undantas från avgift framstår det som osäkert om reformen i praktiken kommer att utgöra ett tillräckligt starkt incitament för ökad språkinlärning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a22.2.7",
+      "sentiment": -0.5,
+      "quote": "Om vissa verksamheter omfattas av avgift medan andra omfattas av undantag uppstår risk för oklarheter kring ansvar, kostnader och hantering av tolkinsatser.",
+      "quote_type": "grund"
+    }
+  ]
+}

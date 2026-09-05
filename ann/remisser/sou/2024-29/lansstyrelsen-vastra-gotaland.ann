@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/lansstyrelsen-vastra-gotaland": "1899962d4646fe24e63ed37d8c7f88d187e953a9388f459a51729fd6ff0bd0d1",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:02:48+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25262,
+      "completion_tokens": 4425,
+      "ended": "2026-09-02T05:05:19+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f8621b8e6f6b26ad78e057f656f1560dd295fbcdea1fb422ce1eb753889445fb"
+    }
+  },
+  "overall": {
+    "sentiment": 0.3,
+    "quote": "Länsstyrelsen har redan med goda resultat genomfört centrala delar av den reformlinje som föreslås, med tidiga samråd, tät dialog och tydliga tidsplaner.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.8,
+      "quote": "De resultat som vi redan har uppnått visar att snabbare processer och god miljöhänsyn är fullt förenliga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.0,
+      "quote": "Länsstyrelsen delar bedömningen att regelmassan inom bostadsområdet och den fysiska planeringen är omfattande och komplex.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": 0.5,
+      "quote": "Det samlade greppet bör enligt Länsstyrelsen ha bred politisk förankring, vara genomförbart och långsiktigt hållbart.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.4",
+      "sentiment": 0.8,
+      "quote": "Länsstyrelserna har vid åtskilliga tillfällen framfört till regeringen att de saknar resurser och verktyg för aktivt delta i det regionala utvecklingsarbetet och fullgöra sin roll som statlig samordnare och främjare av samarbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.6",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen vill erinra om att en god gestaltning är ett medel för att nå flera nationella och internationella åtaganden, exempelvis Agenda 2030, FN:s New Urban Agenda och de för Sverige uppsatta målen för kultur- och miljöpolitiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.7",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen anser däremot att strikta tidsgränser inte är motiverade, då olika projekt är olika beroende av komplexa samband.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.8",
+      "sentiment": -0.2,
+      "quote": "Dock kan en begränsning av att begära ytterligare utredningar under processen leda till svåröverblickbara konsekvenser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.5,
+      "quote": "Vi menar samtidigt att de modeller som Trafikverket använder för beräkning av samhällsekonomisk lönsamhet behöver utvecklas för att bli mer transparenta och tydligare styra mot uppsatta mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": -0.2,
+      "quote": "En hög diskonteringsränta blir således oförenlig med långsiktigt hållbar utveckling (och tillväxt) om den leder till att åtgärder som är nödvändiga för att nå en sådan hållbarhet väljs bort.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": 1.0,
+      "quote": "Att förvalta det vi har är ett effektivt sätt att använda våra resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.8",
+      "sentiment": 1.0,
+      "quote": "Det gäller inte minst järnvägsunderhållet, där det finns behov av att stärka arbetet med innovation och utveckling för att komma i kapp med det omfattade eftersatta underhållet.",
+      "quote_type": "grund"
+    }
+  ]
+}

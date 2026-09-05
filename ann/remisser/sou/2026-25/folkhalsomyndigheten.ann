@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/folkhalsomyndigheten": "a811f1d67213c9f7d62b519a56eb0ab17d8edd0918ead058bce9ad0034ceab52",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:23:28+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22922,
+      "completion_tokens": 3858,
+      "ended": "2026-09-01T15:25:39+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "5e7d46e4f3dbcfa431aefdbda6991fc2b97762019613a73bc12cf865863391ab"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Folkhälsomyndigheten tillstyrker utredningens samtliga förslag med följande kommentarer samt ett kompletterande förslag till utredningens förslag i avsnitt 7.1.8.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2.1",
+      "sentiment": 1.0,
+      "quote": "Myndigheten bedömer att kostnadsfrihet är en effektiv och ändamålsenlig smittskyddsåtgärd då det skapar incitament för den smittade att söka vård och behandling, vilket i sin tur minskar risken för smittspridning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3.1",
+      "sentiment": 0.5,
+      "quote": "Myndigheten vill dock påtala behovet av att ett sådant uppdrag behöver inkludera arbetet med implementeringen av Europarlamentets och rådets förordning (EU) 2022/2371 av den 23 november 2022 om allvarliga gränsöverskridande hot mot människors hälsa och om upphävande av beslut nr. 1082/2013/EU (hälsohotsförordningen).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 1.0,
+      "quote": "Informationsplikten som smittskyddsåtgärd vid sexuellt överförbara sjukdomar kan inge en falsk trygghet som uppfattas som att avsaknad av information innebär avsaknad av risk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5-2",
+      "sentiment": 1.0,
+      "quote": "Folkhälsomyndigheten anser att utredningens förslag innebär att den enskildas rättigheter och skyldigheter förtydligas och bidrar till stärkt rättssäkerhet för enskilda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 1.0,
+      "quote": "Myndigheten anser därför att utredningens förslag är väl avvägt och tydligare utgår ifrån de grundläggande principerna om frivillighet som utgångspunkt och att tvångsåtgärder endast ska vidtas när andra möjligheter saknas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11",
+      "sentiment": 1.0,
+      "quote": "Forskning om hiv, som epidemiologiskt har annorlunda förutsättningarna än övriga sexuellt överförbara infektioner, visar att effekten av informationsplikt vid hiv gentemot sexpartners sannolikt är mycket marginell i förhållande till intrånget i den enskildes privatliv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Ett upphävande av regleringen om rikskod kommer avsevärt att förbättra och effektivisera Folkhälsomyndighetens epidemiologiska övervakning av de sjukdomar som omfattas av rikskod.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.1",
+      "sentiment": 1.0,
+      "quote": "Folkhälsomyndigheten har redan god kompetens på plats samt etablerade strukturer och kommunikationskanaler med för vårdhygien relevanta aktörer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3.1",
+      "sentiment": -0.5,
+      "quote": "Om detta uppdrag ska genomföras inom myndighetens förvaltningsanslag uppstår det en risk för undanträngningseffekter av myndighetens beredskap för att hantera utbrott och andra särskilda händelser på smittskyddsområdet.",
+      "quote_type": "grund"
+    }
+  ]
+}

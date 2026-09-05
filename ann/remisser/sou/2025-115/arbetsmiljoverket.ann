@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:115/arbetsmiljoverket": "597d07a770ecd4d2a74ddd8d5511aa1473d5fecea988a0695a9122010fa005a5",
+      "artifact:forarbete/sou/2025-115": "50cbc3c864f69257f8103132f14491d026fad44ad03b823eb2e0cdb79aaddcbc"
+    },
+    "run": {
+      "started": "2026-09-01T15:18:24+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22057,
+      "completion_tokens": 2752,
+      "ended": "2026-09-01T15:20:15+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1f8d08847430fe696e169b3cf25b4b27b07e5ef09b6c07bc6c28123b4f1c3967"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Arbetsmiljöverket tillstyrker majoriteten av förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec51",
+      "sentiment": -0.5,
+      "quote": "Vi har identifierat att det är oklart hur sanktionsavgifter kan tas ut i de fall då det är möjligt att utkräva sanktionsavgift enligt flera tillämpliga regelverk, som till exempel AI-förordningen och cyberresiliensförordningen .",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec51",
+      "sentiment": -0.5,
+      "quote": "Arbetsmiljöverket vill istället att regleringen av sanktionsavgifter utformas med samma lydelser som föreslås i genomförandet av AI-förordningen, se SOU 2025:101 Anpassningar till AI-förordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": -0.5,
+      "quote": "En alltför begränsande bestämmelse om preskription skulle innebära att sanktionsavgifter inte kommer kunna användas i majoriteten av ärendena.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.2",
+      "sentiment": 0.5,
+      "quote": "Vi bör därför inte begränsa oss till att använda myndighet med hänvisning till en analys av innebörden utifrån svensk lagstiftning, då detta annars kan ge oönskad följdverkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec47",
+      "sentiment": -0.5,
+      "quote": "Arbetsmiljöverket vill att föreskriftmandatet endast tilldelas en utpekad myndighet, förslagsvis Post- och telestyrelsen, då vi bedömer att ett sådant förfarande skulle förenkla både tillämpning och regelutveckling.",
+      "quote_type": "grund"
+    }
+  ]
+}

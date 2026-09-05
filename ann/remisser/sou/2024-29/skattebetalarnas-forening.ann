@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/skattebetalarnas-forening": "7998b3bfe52b55b635f8a59dcdcaffb223c606ecd023682c04904d1842c8ed37",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:52:21+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21938,
+      "completion_tokens": 3495,
+      "ended": "2026-09-02T06:54:16+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ce6468d0d7f7d93fdf3f22fc57b7e4e22e270865044f955d0cf3fcc3ee26db05"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Därför fokuserar vi i vårt remissvar på en rad områden där vi från Skattebetalarnas Förening anser det angeläget att gå vidare med reformer, och där vi tillstyrker eller avstyrker kommissionens förslag eller anser att kommissionen missat väsentligheter som regeringen bör komplettera.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec502",
+      "sentiment": 0.5,
+      "quote": "arbetet riskerar att bli tandlöst om det ska ske genom frivilligt deltagande från kommuner och regioner",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.1",
+      "sentiment": 0.5,
+      "quote": "Det skulle öka incitamenten att arbeta och självfinansieringsgraden av en sådan reform är hög.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.3",
+      "sentiment": -0.2,
+      "quote": "Om den statliga inkomstskatten inte slopas skulle en nedjustering kunna få negativa konsekvenser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.8",
+      "sentiment": -1.0,
+      "quote": "ett återinförande skulle inte bara riskera att slå hårt och orättvist mot enskilda, det skulle dessutom riskera att kraftigt erodera förtroendet för skattesystemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.2",
+      "sentiment": -1.0,
+      "quote": "Reseavdraget är viktigt för att möjliggöra arbetspendling och fyller därmed en viktig funktion för att säkerställa att arbetsmarknaden fungerar bättre.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": 0.2,
+      "quote": "Det enskilt största problemet är den reglerade hyresmarknad vi lever med, som snedvrider såväl bostadsproduktion som hushållens investeringsbeslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.4",
+      "sentiment": 0.5,
+      "quote": "det vore önskvärt med förbättrade prognoser där man tar hänsyn till dynamiska effekter inför budgetbeslut.",
+      "quote_type": "grund"
+    }
+  ]
+}

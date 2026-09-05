@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/statens-institutionsstyrelse": "9588a0d742dd7c705cfd29c68e77cd61b8b35417dcaad507f83a13d275dc10e0",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T07:02:05+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19806,
+      "completion_tokens": 2940,
+      "ended": "2026-09-02T07:03:38+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b7c941719a87e6db06080e07d5f6d52c4bed0e78c4f8a866626cf9c60d2cf49e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "SiS lämnar i det följande synpunkter på de förslag och bedömningar som bedöms kunna få en påverkan på myndighetens verksamhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": 0.8,
+      "quote": "SiS anser att de exempel som utredningen ger förslag på, dvs. att reformera den skarpa godkändgränsen för betyget E och dess förhållande till betyget F samt att förändra antagningskraven för nationella yrkesprogram skulle kunna gynna de barn och unga som är placerade vid SiS och underlätta för dem att lära sig ett yrke, vilket i sig är positivt.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/svenska-botaniska-foreningen": "1298c878e74f86e08153fef2eaf266f89da307910be657803cbee6f62c3d27ce",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:05:32+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 68583,
+      "completion_tokens": 15155,
+      "ended": "2026-09-02T00:15:02+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "88c322d856efec39de08ca289ebeda406ab2c8ebcdf202b05be1e37383d08b64"
+    }
+  },
+  "overall": {
+    "sentiment": -0.3,
+    "quote": "SBF konstaterar att förslaget till skydd av kvarvarande naturskog lämnar majoriteten av dessa skogar utan skydd och att miljömålsberedningens förslag därmed inte lever upp till EU:s krav för biologisk mångfald.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "Föreningen anser att negativa konsekvenser av kvävenedfall ses i skogarna idag och ytterligare skogsgödsling skulle få negativ påverkan på skogens biologiska mångfald och riskera ökat näringsläckage som kan bidra till övergödning av sjöar och vattendrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 1.0,
+      "quote": "SBF stöder beredningens förslag till att begränsningar av när torvmark får tas i anspråk för exploatering införs i miljöbalken.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.5,
+      "quote": "Många av dagens hotade växt- och djurarter är knutna till våtmarker och skulle direkt gynnas av denna åtgärd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.1",
+      "sentiment": 0.5,
+      "quote": "SBF anser att de uppsatta målen med god status mest effektivt nås med ickeförsämring av befintlig naturtyp och att fokus i skydd av natur måste ligga på skötsel, restaurering och undvikande av exploatering av de naturtyper som finns.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.1",
+      "sentiment": 0.5,
+      "quote": "aktuell forskning visar på att det för den biologiska mångfalden är viktigare med något färre större områden än fler mindre områden i ett landskap och att man därefter kan man jobba vidare med konnektiviteten av naturtyper.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.1",
+      "sentiment": 1.0,
+      "quote": "SBF stödjer Miljömålsberedningens bedömning att Sverige i sin rapportering av skydd av natur ska följa de riktlinjer som tillämpas inom EU och internationellt för vilka bevarandeformer som kan ingå för att leva upp till målet om 30 procent skydd av landytan.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.1",
+      "sentiment": -0.2,
+      "quote": "Vi begränsade resurser anser SBF att formell skydd och skötsel av skyddade områden alltid ska prioriteras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": 1.0,
+      "quote": "SBF stödjer miljömålsberedningens bedömning att urskogar och gammal skog bäst bevaras genom strikt skydd.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.1",
+      "sentiment": -0.5,
+      "quote": "SBF anser att formellt skydd även bör övervägas i dessa miljöer för att långsiktigt säkra en ändamålsenlig skötsel och ett långsiktigt bevarande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.1",
+      "sentiment": 1.0,
+      "quote": "SBF stödjer att Sverige i sitt naturvårdsarbete med att skydda natur till 2030 ska prioritera områden med naturtyp enligt restaureringsförordningen och områden med livsmiljöer som kräver bevarande för hotade arter enligt art- och habitatdirektivet och fågeldirektivet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.3",
+      "sentiment": -0.5,
+      "quote": "SBF anser att obrutna fjäll bör få formellt skydd i större utsträckning än förslaget om att enbart rapportera oskyddade områden som OECM.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.7",
+      "sentiment": -0.5,
+      "quote": "Föreningen anser att det viktigt att den långsiktiga skötseln är anpassad och säkrad för de naturtyper och arter som förekommer på marken vilket det inte är idag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.10",
+      "sentiment": -0.5,
+      "quote": "SBF är kritiska till att Naturvårdsverket ska kunna rapportera de avgränsade frivilliga avsättningar med förvaltningsmål i en skötselplan som OECM när markägaren frivilligt har rapporterat dessa till Naturvårdsverket.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.11",
+      "sentiment": -0.5,
+      "quote": "SBF ser att skogliga impediment riskerar att tas bort och bör lämnas utanför OECM.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.12",
+      "sentiment": -0.5,
+      "quote": "SBF är kritiska till att artrika rekreationsområden och stadsgrönska skulle kunna räknas som OECM utan ser i så fall att dessa områden utreds för formellt områdesskydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.13",
+      "sentiment": -0.2,
+      "quote": "SBF anser att de områden som har högst naturvärden med en hög andel biologisk mångfald alltid bör prioriteras för skydd och att förslaget inte bör lyfta OECM där dessa kan konkurrera om statliga resurser för områdesskydd på länsstyrelserna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2.1",
+      "sentiment": -0.5,
+      "quote": "SBF ser en risk med att om tillräckligt många frivilliga avsättningar med låg kvalitet rapporteras och räknas in som OECM, kan värdefullare områden lämnas utan skydd och försämras för att i värst fall försvinna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -1.0,
+      "quote": "Ett sådant ålderkriterium utesluter de flesta naturskogar med höga naturvärden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -1.0,
+      "quote": "SBF anser att det borde vara självklart att miljöberedningen utmynnar i ett förslag som visar hur Sveriges beting från EU kan uppnås i sin helhet, inte till en tredjedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": 1.0,
+      "quote": "SBF stöder däremot det förslag om skydd av urskogar och naturskogar som formulerats i ett tidigare skede i sekretariatets arbete (alternativ 1).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1.1",
+      "sentiment": 1.0,
+      "quote": "SBF ser positivt på förslagen om nya etappmål för naturvårdande skötsel inom alla skyddade områden samt om restaurering till naturtyp på all mark inom statligt skyddade områden.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1.2",
+      "sentiment": 0.5,
+      "quote": "Föreningen ser däremot att behovet av skötsel av skyddade områden kommer att vara fortsatt högt, framför allt eftersom nya arealer av naturtyper restaurerats, och anser att det ökade anslaget bör permanentas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.3",
+      "sentiment": 0.5,
+      "quote": "SBF ser positivt på förslaget om nya anslagsposter inom 1:3 åtgärder för värdefull natur i utgiftsområde 20 Klimat, miljö och natur samt inom 1:2 insatser för skogsbruket i utgiftsområde 23 Areella näringar, landsbygd och livsmedel, under förutsättning att finansieringen inte påverkar anslaget för skydd och skötsel av natur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.4",
+      "sentiment": 1.0,
+      "quote": "Många av landets planer har idag en förlegad syn på ändamålsenlig skötsel som inte bidrar till att skydda och utveckla de värden som områdets skyddats för.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.5",
+      "sentiment": 0.5,
+      "quote": "SBF ser även att det behöver förtydligas att Naturvårdsverket i sina instruktioner även behöver följa upp restaurerings- och skötselinsatser i skyddade områden för återrapportering till regeringen och EU.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.6",
+      "sentiment": 0.5,
+      "quote": "Föreningen vill dock påpeka att det måste lämnas utrymme för adaptiv förvaltning och inkorporering av ny kunskap från forskning etc.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.7",
+      "sentiment": 1.0,
+      "quote": "SBF ser att ökad tillgänglighet även ökar möjligheterna för medborgarforskning ’Citizen science’ såsom det nationella floraväkteriet som bidrar till övervakning av hotade kärlväxter vilket är ett kostnadseffektivt sätt att följa upp de insatser som förvaltningen genomför, men också en långsiktig övervakning av floran i hela landskapet som bland annat ger uppgifter till den biogeografiska uppföljningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 0.5,
+      "quote": "Föreningen vill påpeka att denna höjning inte får gå ut över den nödvändiga skötseln av befintlig natur, vilket är innebörden i ickeförsämringskravet under 17.3.1.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 0.2,
+      "quote": "Vi anser att en översyn av betesregimen med svagare sommarbete kompletterat med bete under vinterhalvåret, hela eller delar, kan bidra till att fler marker hävdas med bete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 0.5,
+      "quote": "Föreningen vill återigen påpeka att befintliga marker som hävdas inte får försämras i konkurrens om ekonomiska resurser med nyrestaurerade myrar, hamlade träd och bränning av ljunghedar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 1.0,
+      "quote": "SBF ser att det är av stor betydelse för den biologiska mångfalden att vi frångår synsättet med ett ”antingen-eller-landskap” som präglas av skarpa övergångar mellan jordbruksoch skogsmark.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1.3",
+      "sentiment": -1.0,
+      "quote": "SBF anser att försämringar är oacceptabla och alla former av alternativ till exploateringar måste utreda nogsamt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.2",
+      "sentiment": 1.0,
+      "quote": "Föreningen ser att behovet av svenskt frömaterial och lokala provenienser kommer att öka avsevärt när natur ska återställas och restaureras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": 1.0,
+      "quote": "Föreningen stödjer även transparensen i förslaget om att det är bättre om kunskap om höga naturvärden upptäcks och finns tillgänglig i ett tidigare skede än i samband med exploatering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": 0.5,
+      "quote": "Föreningen anser däremot att ekologisk kompensation alltid ska vara en sista utväg när alla konsekvenser av alternativa lösningar har utretts och att förslaget ska vara tydligt med detta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.3.1",
+      "sentiment": -0.5,
+      "quote": "Oavsett nyansskillnaden mellan språkversionerna har restaureringsförordningen tydliga mål om vad som ska uppnås.",
+      "quote_type": "grund"
+    }
+  ]
+}

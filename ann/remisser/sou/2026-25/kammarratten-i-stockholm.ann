@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/kammarratten-i-stockholm": "6de43cbd27b5cb9dcb0b6abe17ee949e9bcf8881a9b8d44a0cffd850b2bacb1c",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:59:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20554,
+      "completion_tokens": 3362,
+      "ended": "2026-09-01T16:01:00+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "4ed80af40ad590317e169429ec758fac4c83cee992d792eae0a2b4a4b30b9615"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "betänkandet framstår som mycket genomarbetat och att förslagen framstår som väl motiverade och väl avvägda ur ett vetenskapligt perspektiv.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": 1.0,
+      "quote": "Det är, som utredningen konstaterar, av stor vikt att en enskild som påförs ett betungande beslut får möjlighet att förstå beslutet och sina möjligheter att få det överprövat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.2",
+      "sentiment": 0.2,
+      "quote": "anser att det i det fortsatta lagstiftningsarbetet bör betonas att råden ska utformas på ett så tydligt sätt att de kan ligga till grund för bedömningen av rätten till smittbärarpenning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": -0.2,
+      "quote": "Kammarrätten anser att det efter ikraftträdandet av nuvarande smittskyddslag har skett en sådan utveckling vad gäller de grundläggande fri- och rättigheterna att det finns skäl att fördjupa analysen i denna del.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/nag-vardhygien": "00b4f21f6a97ab722c7396f487ce54811e38c2671f5b39975164f0a2dbc6e516",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:16:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20266,
+      "completion_tokens": 3561,
+      "ended": "2026-09-01T16:18:05+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b83310aa8c070ee985b279789b5be7e2f0a4ec0273ba013e6e2f82fc307b28f4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Att kommunal hälso- och sjukvård samt omsorg betonas särskilt i författningsförslaget samt att tandvårdens inkludering berörs i utredningen, ser vi som positivt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.15",
+      "sentiment": -0.2,
+      "quote": "Dagens osäkerhet gällande ansvarsfördelning mellan Socialstyrelsen och Folkhälsomyndigheten riskerar annars att bestå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.15",
+      "sentiment": -0.2,
+      "quote": "För att Folkhälsomyndigheten ska nå framgång inom sitt nya uppdrag tror vi att det behöver göras en ny bedömning av vilket resurstillskott som krävs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.15",
+      "sentiment": -0.5,
+      "quote": "I en ny pandemisituation finns det risk för att smittskyddsläkaren i vissa regioner återigen får ta emot vårdhygienfrågor från kommuner som saknar avtal med vårdhygienisk expertis.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.15",
+      "sentiment": -0.5,
+      "quote": "Vi anser att det krävs en central placering, högt upp i regionens organisation för att ett effektivt arbete med vårdhygieniska frågor och infektionsprevention ska kunna bedrivas.",
+      "quote_type": "grund"
+    }
+  ]
+}

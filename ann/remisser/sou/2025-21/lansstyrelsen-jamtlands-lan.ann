@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-jamtlands-lan": "9efdff2f1d85575301e91536816257a8b2ab739b1a3a6ee0c0cc7382c97e15d0",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T19:27:02+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 32955,
+      "completion_tokens": 4800,
+      "ended": "2026-09-01T19:29:58+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "215b11abec8389efecbdbe48d96b6125aacfc4c78a671398fa6592c0b4575316"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Länsstyrelsen konstaterar att Miljömålsberedningen inte fullt ut har fullgjort den del av uppdraget som handlar om att föreslå hur Sverige ska nå sin del av EU:s klimatmål samt målet för biologisk mångfald i skog.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec6",
+      "sentiment": 0.8,
+      "quote": "De föreslagna etappmålen för skötsel och restaurering i skyddade områden, restaurering av naturtyper och vilda pollinatörer går väl i linje med kraven för Naturrestaureringsförordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec186",
+      "sentiment": -0.5,
+      "quote": "Men det finns dock flera outredda risker med skogsgödslingens som kan påverka vattenstatusen i ytvattenmiljöer inom tillrinningsområdet och den biologiska mångfalden i marken, inte minst vad gäller mykorrhizasvampar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 0.8,
+      "quote": "Länsstyrelsen ser positivt på att det föreslås att utvinningen av torv ska fasas ut eftersom det delvis kan ses som en fossil energikälla.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec11",
+      "sentiment": 0.8,
+      "quote": "Förenklad hantering av markavvattningsföretag i samband med restaurering av våtmarker och andra återvätningsåtgärder välkomnas och kommer även kunna öka åtgärdstakten inom det samlade vattenförvaltningsarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec31",
+      "sentiment": 0.5,
+      "quote": "För att uppnå en så stor samlad miljönytta som möjligt utifrån klimat och biologisk mångfald bör dock dessa medel även användas med ett avrinningsområdesperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec265",
+      "sentiment": 0.8,
+      "quote": "Restaurering av våtmarker är en viktig del i restaureringsförordningen och restaureringstakten behöver öka.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": -0.5,
+      "quote": "Eftersom det råder oklara förutsättningar för att uppfylla de krav som ställs på dessa för att kunna räknas in som ”skyddad” natur behöver utredningen kompletteras med ökad satsning på långsiktigt områdesskydd som gynnar såväl kolinlagring, bevarande av kollager och biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec424",
+      "sentiment": -0.5,
+      "quote": "Utredningen använder en alltför snäv definition av gammal skog – den bör harmoniera med hur begreppet tolkas i andra EU-länder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.12.1",
+      "sentiment": 0.8,
+      "quote": "Naturvårdande skötsel är ett långsiktigt arbete där långa tidshorisonter krävs för att uppnå tillfredställande resultat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 1.0,
+      "quote": "Viktigt att det finns tillgängliga data för att kunna följa indikatorn under längre tid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.5.3",
+      "sentiment": 0.5,
+      "quote": "Dock är detta ett kortsiktigt förslag som innebär att man skjuter upp utsläppen.",
+      "quote_type": "grund"
+    }
+  ]
+}

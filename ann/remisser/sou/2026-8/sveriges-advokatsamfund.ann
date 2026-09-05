@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/sveriges-advokatsamfund": "21919b630682bfeda104af681b4032d766c68e07f90c49aaa75a865f98420335",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T14:19:08+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17764,
+      "completion_tokens": 2484,
+      "ended": "2026-09-01T14:20:25+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "322932a4c78db3ce8c7505807bdb83ab6d1f1843ad9e457ca722ea619ea00e9c"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Advokatsamfundet välkomnar de föreslagna åtgärder som syftar till att åstadkomma en modern, tydlig och överskådlig lagstiftning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": 0.8,
+      "quote": "Detta eftersom det skapar större förutsägbarhet och rättssäkerhet för barn och unga samt deras familjer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec25",
+      "sentiment": 0.8,
+      "quote": "För att underlätta detta krävs att barn och unga samt deras föräldrar har kännedom om vad som krävs av dem för att detta ska kunna förverkligas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec36",
+      "sentiment": 0.8,
+      "quote": "Att inte kräva finansiering av den enskilde ger en reell möjlighet att genomföra drogtester.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec39",
+      "sentiment": 0.8,
+      "quote": "Advokatsamfundet är positivt till åtgärder som skapar större trygghet och förslaget aktualiserar viktiga frågor om förutsägbarhet och rättssäkerhet.",
+      "quote_type": "grund"
+    }
+  ]
+}

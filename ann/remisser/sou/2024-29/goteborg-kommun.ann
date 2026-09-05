@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/goteborg-kommun": "6ea274402d174c7738caf58520f7306374bb3a775e9971644709c646195a1938",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T03:40:30+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 36348,
+      "completion_tokens": 7232,
+      "ended": "2026-09-02T03:45:09+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "3867857292644b2c019f236b15cf4273980cd0d3e3a831ae605224055091a431"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Analyser och konsekvensbedömningar av förslagen i betänkandet är i vissa fall alltför kortfattade och översiktliga för att det ska vara möjligt att göra en rimlig bedömning och ett ställningstagande till förslagen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec208",
+      "sentiment": -0.5,
+      "quote": "Förvaltningslagens bestämmelser om att en myndighet ska se till att kontakterna med enskilda blir smidiga och enkla är tillräckliga och gäller kommuner i lika hög grad som andra myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2.3",
+      "sentiment": 0.2,
+      "quote": "Att vissa ärenden ibland tar längre tid beror många gånger på miljöprövningars komplexitet och miljökrav på verksamheter där kraven ofta härrör från EU-rätten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec245",
+      "sentiment": 1.0,
+      "quote": "En tillståndsprocess som löper parallellt genom flera myndigheter är bättre än en sekventiell prövning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec248",
+      "sentiment": -0.2,
+      "quote": "Värdet av närhet och lokalkännedom kan inte överskattas i de avvägningar och bedömningar som ligger till grund för olika tillstånd och beslut till exempel enligt plan- och bygglagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec254",
+      "sentiment": 0.5,
+      "quote": "Byggande av bostäder är av stort allmänt intresse och angeläget för stadens utveckling och det uppstår återkommande konflikter med riksintressen som begränsar eller hindrar bostadsprojekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad anser att det finns goda skäl att utreda och omarbeta plan- och bygglagen i grunden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.11",
+      "sentiment": 0.2,
+      "quote": "Det finns dock en risk om fokus på tid, kostnad eller kvantitet står över kvalitet, helhetsperspektiv och hållbarhetskrav.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": -1.0,
+      "quote": "Göteborgs Stad avvisar ett sådant förslag och menar att detta skulle innebära att en enskild får fatta myndighetsbeslut mot sig själv, ett förfarande som skulle kunna strida mot legalitetsprincipen i regeringsformen och förvaltningslagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec309",
+      "sentiment": -0.5,
+      "quote": "Det är bättre att investera i Boverket för att kunna fortsätta vara expertisen i frågorna och arbeta vidare med att utveckla PBL Kunskapsbanken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec310",
+      "sentiment": -0.5,
+      "quote": "Göteborgs Stad avstyrker förslaget och menar att det vore bättre att Länsstyrelsen stärker sin tillsyn över kommunernas plan- och bygglovverksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec313",
+      "sentiment": 0.2,
+      "quote": "Däremot är det inte möjligt att placera ett sådant hus var som helst då utformningen kan behöva anpassas till platsen och omgivningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": -1.0,
+      "quote": "Att flytta besluten om användningen av kommunens mark- och vattenområden till en nivå utanför kommunen är en kraftig inskränkning av det kommunala självstyret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.5",
+      "sentiment": -0.5,
+      "quote": "Det finns en risk att den som har ett berättigat intresse av att få sin sak prövad avstår detta av ekonomiska skäl.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.6",
+      "sentiment": -0.2,
+      "quote": "Kommunen har en skyldighet enligt plan- och bygglagen att bland annat främja en estetiskt tilltalande utformning av bebyggelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.7",
+      "sentiment": -0.5,
+      "quote": "Att införa en strikt tidsgräns för detaljplanearbetet innebär att kommunen görs ansvarig för åtgärder som ligger utanför kommunens kontroll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.8",
+      "sentiment": -0.2,
+      "quote": "Att lägga kostnaden för dessa nya utredningar på kommunen och skattebetalarna i stället för på den part som har nyttan av byggprojektet är principiellt felaktigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.12",
+      "sentiment": -0.5,
+      "quote": "Det skulle kunna innebära att enkla sjöbodar ersätts med bostäder vilket, förutom de praktiska svårigheterna att lösa vatten och avlopp med mera, innebär att strandzonen inte blir tillgänglig på grund av den hemfridszon som en bostad innebär.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec432",
+      "sentiment": 0.5,
+      "quote": "En förutsättning för att genomföra försöksverksamheten på gymnasial nivå, på liknande sätt som för grundskolan, är därför att det finns fastställda timplaner även för gymnasiet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec502",
+      "sentiment": -0.5,
+      "quote": "Att då införa effektiviseringspolitiska råd kan få till följd att den administrativa bördan ökar utan att effektiviteten i verksamheten nödvändigtvis påverkas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec511",
+      "sentiment": 1.0,
+      "quote": "De riktade statsbidragen är många till antalet och innebär i många fall ett omfattande administrativt arbete både vad gäller ansökningsförfarandet och redovisning av hur bidraget har använts.",
+      "quote_type": "grund"
+    }
+  ]
+}

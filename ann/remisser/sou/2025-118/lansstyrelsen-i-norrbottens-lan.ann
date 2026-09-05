@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/lansstyrelsen-i-norrbottens-lan": "9cecc003ac863728a08571e27f6ac7c8297d3d5010bc8ca03164bcd6d4222a14",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:05:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12173,
+      "completion_tokens": 1669,
+      "ended": "2026-09-01T15:06:02+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c5710ad4b0ba829d18743e148587156cfe94d0876b914603433d908422afb481"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Norrbottens län instämmer i stort med betänkandet, med undantag för nedanstående avsnitt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen i Norrbottens län motsätter sig införandet av denna bestämmelse då det får anses gå emot gällande praxis.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen i Norrbottens län motsätter sig införandet av denna bestämmelse då det får anses gå emot gällande praxis.",
+      "quote_type": "grund"
+    }
+  ]
+}

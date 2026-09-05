@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/svensk-torv": "1b904a1ac52dd34a54f1766481c83ae76d8a38c21b9063a7e248fe5f4c85ae4e",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:00:42+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 28188,
+      "completion_tokens": 2763,
+      "ended": "2026-09-02T00:02:42+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8f8c62e59ba1d3ce25fb27e68cecb4366d4c05925c59155e488aa9d19186d6d4"
+    }
+  },
+  "overall": {
+    "sentiment": -0.7,
+    "quote": "Vi är emellertid mycket besvikna över hur utredningen verkar ha utsett Svensk Torvs medlemmar, företagare i torvbranschen och andra företagare beroende av torv, till syndabockar i frågan om vem som skall bära huvudbördan när det gäller att minska Sveriges utsläpp av växthusgaser från markanvändningssektorn (LULUCF).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -1.0,
+      "quote": "Lantbruk och skogsmarksägare och brukare får förtroendet att agera enligt frivillighetsprincipen medan odlingstorvbranschen förbjuds.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec270",
+      "sentiment": -0.2,
+      "quote": "Precis som energimyndigheterna påpekar innebär detta dock att det även måste finnas en fullt fungerande infrastruktur för produktion av energitorv även dagligdags, alltså utanför eventuella krissituationer.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-i-orebro-lan": "5bcd2219f3a7dfff2799a55d160e0edd927f2e35e74b9bd52894bb842b3e2457",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T19:16:55+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 73248,
+      "completion_tokens": 16474,
+      "ended": "2026-09-01T19:27:02+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "3f9602babc5e45afc4a4e31d2dc10bfb76e105c3ba51a33e3bbaadbf3c108a93"
+    }
+  },
+  "overall": {
+    "sentiment": 0.3,
+    "quote": "Länsstyrelsen i Örebro län välkomnar beredningens arbete som ett viktigt steg att öka takten i arbetet med att nå såväl regionala, som nationella och internationella mål för att bevara den biologiska mångfalden och motverka klimatförändringarna som hotar grunden för våra samhällen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": -0.2,
+      "quote": "Som förslaget är utformat finns frågetecken kring gränsdragningen för när åtgärder är anmälnings- eller tillståndspliktiga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1.4",
+      "sentiment": 0.5,
+      "quote": "Sammanfattningsvis bör därför det föreslagna tillägget i 12 kap. 6 § MB kunna införas och verka parallellt med det tidigare föreslagna tillägget, i SOU 2024:91, utan någon regelkonflikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län bejakar förslagen i 6.1 och 6.2 i sin helhet",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län bejakar förslagen i 6.1 och 6.2 i sin helhet",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.5,
+      "quote": "Behåll VåtmarksLONA - ett effektivt verktyg för tätortsnära naturvård, klimatinsatser och rekreation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län bejakar förslagen i 7.1 och 7.2.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län bejakar förslagen i 7.1 och 7.2.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -1.0,
+      "quote": "Skogsgödsling kommer att försvaga de naturliga ekosystemprocesserna i skogarna: biologisk mångfald över och under mark, inbindning av långsiktigt stabilt kol i mark och trädens motståndskraft mot klimatstress, insektsangrepp, mm.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.2,
+      "quote": "Förslaget om kolinlagringsavtal (8.2.3) behöver utformas annorlunda för att leda till ökad kolinlagring, menar Länsstyrelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.4",
+      "sentiment": 1.0,
+      "quote": "Förslaget om hållbara avverkningsnivåer i enlighet med LULUCF-betinget (8.2.4) välkomnas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen i Örebro län anser att staten genom Sveaskog bör gå före och ta ett större ansvar än vad som föreslås.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län tillstyrker samtliga förslag i kapitel 9",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län tillstyrker båda förslagen om upptag och utsläpp av växthusgaser på bebyggd mark i kapitel 10 (10.1 och 10.2)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 0.2,
+      "quote": "En precisering om vilken mark som avses behövs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län tillstyrker förslagen om uppdrag till Boverket att främja återbruk av byggmaterial (avsnitt 11.1.2), att Skogsstyrelsen i information och rådgivning inkluderar skogsskötselmetoder som leder till långlivade träprodukter (avsnitt 11.1.3), och en nationell samordnare som stöd till marknadsaktörer som arbetar med långlivade träprodukter av lövträ (avsnitt 11.1.4).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.1.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län tillstyrker förslagen om uppdrag till Boverket att främja återbruk av byggmaterial (avsnitt 11.1.2), att Skogsstyrelsen i information och rådgivning inkluderar skogsskötselmetoder som leder till långlivade träprodukter (avsnitt 11.1.3), och en nationell samordnare som stöd till marknadsaktörer som arbetar med långlivade träprodukter av lövträ (avsnitt 11.1.4).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län bejakar intentionen att återväta dränerade torvmarker för att bidra till Sveriges åtagande enligt LULUCF-förordningen (12.1).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.1.1",
+      "sentiment": 1.0,
+      "quote": "Vidare tillstyrker länsstyrelsen förslagen i avsnitten 12.1.1, 12.1.2, 12.2, 12.4, 12.5 och 12.6.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": 1.0,
+      "quote": "Vidare tillstyrker länsstyrelsen förslagen i avsnitten 12.1.1, 12.1.2, 12.2, 12.4, 12.5 och 12.6.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 1.0,
+      "quote": "Vidare tillstyrker länsstyrelsen förslagen i avsnitten 12.1.1, 12.1.2, 12.2, 12.4, 12.5 och 12.6.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.6",
+      "sentiment": 1.0,
+      "quote": "Vidare tillstyrker länsstyrelsen förslagen i avsnitten 12.1.1, 12.1.2, 12.2, 12.4, 12.5 och 12.6.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län tillstyrker 13.1.1 och 13.1.2.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län tillstyrker 13.1.1 och 13.1.2.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": 0.5,
+      "quote": "Vidare tillstyrks förslagen i avsnitten 13.1.4-13.1.6, under förutsättning att ansvariga aktörer klarar den ökade administrationen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen i Örebro län vill se en bredare definition av gammal skog för att säkerställa att det som är skyddsvärt verkligen täcks in.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.2",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen instämmer i miljömålsberedningens slutsats i avsnitt 14.1.2 kartläggning av urskogar och gammal skog, men menar att kartläggningen måste utvecklas i enlighet med de definitioner, kriterier och indikatorer som EU-kommissionens riktlinjer beslutat/förfäktar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.3",
+      "sentiment": -1.0,
+      "quote": "Risken att naturvärden som inte är kartlagda kommer att hotas vid avverkningar är påtaglig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län tillstyrker förslag om ett nytt etappmål för skötsel och restaurering (15.1.1)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen i Örebro län tillstyrker förslag om ett nytt etappmål för skötsel och restaurering (15.1.1), samt tillstyrker förslagen i avsnitten 15.1.2.-15.1.4 med några bifogade synpunkter.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1.5",
+      "sentiment": 0.0,
+      "quote": "Förslag 15.1.5. ställer sig Länsstyrelsen neutral till.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1.6",
+      "sentiment": -1.0,
+      "quote": "Om dessa delbeslut alltid ska inkludera en komplett skötselplan skulle det leda till en orimligt hög arbetsbelastning, varför en ändamålsenlig skötselplan bör finnas först när reservatet är fullständigt skyddat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.7",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslag 15.1.7",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om etappmål för restaurering (16.1.1) och vilda pollinatörer (16.1.2), samt 16.1.3 och 16.1.5.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om etappmål för restaurering (16.1.1) och vilda pollinatörer (16.1.2), samt 16.1.3 och 16.1.5.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om etappmål för restaurering (16.1.1) och vilda pollinatörer (16.1.2), samt 16.1.3 och 16.1.5.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.5",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om etappmål för restaurering (16.1.1) och vilda pollinatörer (16.1.2), samt 16.1.3 och 16.1.5.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker även förslagen om restaurering och hävd av ängs- och betesmarker (16.1.6)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker även förslagen om restaurering och hävd av ängs- och betesmarker (16.1.6), stöd för landskapselement i CAP (16.1.7) och borttagande av återbeskogningsplikt nära jordbruksmark (16.1.8).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Örebro län tillstyrker de förslag som beredningen lämnar under kapitel 17 för att minimera förlust av biologisk mångfald; förslagen i avsnitten 17.2.1-17.2.6",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

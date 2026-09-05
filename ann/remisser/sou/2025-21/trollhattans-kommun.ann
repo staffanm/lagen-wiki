@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/trollhattans-kommun": "5dbe9bc4b2c69b9e894af990914752117d034c42b22f24c12610d647e839bcda",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T01:02:32+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25596,
+      "completion_tokens": 1821,
+      "ended": "2026-09-02T01:03:56+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2c6100a332828a2ad17bbff5c21a78e77e83b9c3397b04b19093182c4d1b41bc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Miljömålsberedningen har översänt en omfattande remiss, med ett stort antal förslag i syfte att uppnå EU:s åtaganden och förslagen bedöms sammantaget leda i rätt riktning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "Ett stöd till kommunerna för att inrätta biologisk mångfaldsrådgivning på samma sätt som det befintliga stödet för energi- och klimatrådgivning rekommenderas och skulle kunna medföra betydande positiva effekter i arbetet för att uppnå EU:s åtaganden kopplat till biologisk mångfald.",
+      "quote_type": "grund"
+    }
+  ]
+}

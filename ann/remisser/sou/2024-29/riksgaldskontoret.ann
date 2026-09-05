@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/riksgaldskontoret": "cf204164139d1691640bece41db151a56d714348fd9f2f313c15b381fd1d0762",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:44:01+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19555,
+      "completion_tokens": 2379,
+      "ended": "2026-09-02T06:45:15+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0096b20ccb87a7d74ec3751d4ab01443410ba7b23b9606650c2d106ae3c300ed"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Riksgälden har följande synpunkter på Produktivitetskommissionens betänkanden.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": -1.0,
+      "quote": "Riksgäldens uppgifter innefattar generellt inte att genomföra samhällsekonomiska analyser.",
+      "quote_type": "grund"
+    }
+  ]
+}

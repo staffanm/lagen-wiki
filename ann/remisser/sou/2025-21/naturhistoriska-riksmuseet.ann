@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/naturhistoriska-riksmuseet": "bea778fd43f75a6bbfabc4f931c5cc7f0fb34775f53546163c40e4447521dd5f",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T22:22:53+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26536,
+      "completion_tokens": 2287,
+      "ended": "2026-09-01T22:24:34+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "30fa227c16f018444ed11b9dfd7ce1ea9736b74f1c72ed4a4384d536fa40f558"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Naturhistoriska riksmuseet ser det därför som en viktig uppgift att värna biologisk mångfald och de naturmiljöer som stödjer den.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": 1.0,
+      "quote": "Framförallt menar Naturhistoriska riksmuseet att den effekt som restaurering och återvätning av våtmarker skulle ha på den biologiska mångfalden blir speciellt viktig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": 0.5,
+      "quote": "Men om målet är att, i enlighet med Kunming-Montrealramverkets åtgärdsmål 1, ”senast 2030 minska förlusten av områden som har stor betydelse för den biologiska mångfalden, inklusive ekosystem med hög ekologisk integritet, till nära noll så måste detta arbete påbörjas nu.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": 1.0,
+      "quote": "Naturhistoriska riksmuseet har redan i dagsläget en stor mängd av den data som ligger till grund för en sådan bedömning.",
+      "quote_type": "grund"
+    }
+  ]
+}

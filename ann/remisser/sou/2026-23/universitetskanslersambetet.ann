@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/universitetskanslersambetet": "98369c8f7698176df8e68c4a1f5cde981bac9a4289b03dbf908d65a75177a824",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:44:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17391,
+      "completion_tokens": 765,
+      "ended": "2026-09-01T12:44:39+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "6310f747e21eca44c2f5c1417000f08fe1c88a8a9340a1c054bdf5b3ca6aa3d7"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "UKÄ, som begränsar sitt remissvar till sådant som faller inom myndighetens uppdrag och verksamhet, har inga synpunkter på förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": []
+}

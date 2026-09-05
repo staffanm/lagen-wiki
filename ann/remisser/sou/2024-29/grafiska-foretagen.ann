@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/grafiska-foretagen": "6f02eddb4a7e9cdc20ff876cee62e332c0c065af831e89111271991aa1238f61",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T03:37:18+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22433,
+      "completion_tokens": 5843,
+      "ended": "2026-09-02T03:40:30+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e7fa82d10647e1d1983d8ff2332777cf04e74029bdca100aaa31dea37aded95f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Vi delar kommissionens övergripande analys att Sveriges produktivitetstillväxt behöver stärkas för att säkra vårt framtida välstånd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": 1.0,
+      "quote": "Det är avgörande att den samlade samhällsekonomiska effekten och de administrativa kostnaderna för företagen analyseras noggrant innan nya regler införs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec169",
+      "sentiment": 0.8,
+      "quote": "En central funktion som kan granska, utvärdera och stödja andra myndigheter i deras arbete med regelförenkling skulle skapa ett välbehövligt tryck i frågan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.8,
+      "quote": "Långa och oförutsägbara tillståndsprocesser hämmar investeringar och utveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec249",
+      "sentiment": 1.0,
+      "quote": "Principen om att ändringstillstånd ska vara huvudregel vid förändring av befintlig verksamhet är särskilt viktig för att underlätta för företag som vill utvecklas och moderniseras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec405",
+      "sentiment": 0.5,
+      "quote": "Grafiska Företagen är i grunden positiva till betygsutredningens förslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec406",
+      "sentiment": 1.0,
+      "quote": "Grafiska Företagen har inget att erinra i frågan.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec407",
+      "sentiment": -0.2,
+      "quote": "Grafiska Företagen delar ambitionen men inte kommissionens bedömning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec408",
+      "sentiment": 0.8,
+      "quote": "Det finns mycket som tyder på att de generella behörighetsreglerna inte motsvarar de förkunskaper som krävs på många utbildningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec410",
+      "sentiment": 0.5,
+      "quote": "Grafiska Företagen har inget att erinra om förslaget, men ser samtidigt är det viktigt att säkerställa en kvalitativ mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec411",
+      "sentiment": 0.5,
+      "quote": "De publicerade planeringsunderlagen pekar på en kraftig överdimensionering av framför allt samhällsprogrammet och det ekonomiska programmet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec412",
+      "sentiment": 1.0,
+      "quote": "Grafiska Företagen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec413",
+      "sentiment": 1.0,
+      "quote": "Grafiska Företagen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec414",
+      "sentiment": 1.0,
+      "quote": "Grafiska Företagen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec415",
+      "sentiment": 1.0,
+      "quote": "Grafiska Företagen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.3.3",
+      "sentiment": 0.2,
+      "quote": "En generell uppfattning är dock att en mer kvalitetsinriktad uppföljning oavsett huvudman skulle ha en större effekt på utbildningskvaliteten än insatser endast riktade mot enskilda huvudmän.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec431",
+      "sentiment": 0.2,
+      "quote": "Grafiska Företagen delar bedömningen, men uppfattar att ambitionen inte är tillräcklig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec432",
+      "sentiment": 0.5,
+      "quote": "Vi ser samtidigt att nuvarande regler om undervisningstid och läsårstider även har oönskade effekter i bland annat gymnasieutbildningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

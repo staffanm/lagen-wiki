@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/vattenfall": "b163102be4fb61d66ceba56db8b6e8ae09e021e6f7d7140671d5b53612d8fa9d",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T01:08:37+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27447,
+      "completion_tokens": 2690,
+      "ended": "2026-09-02T01:10:32+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ff60cacbf890139f3eb2ee737345367b21caa747f618d193be890a478ba04df7"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Att särskilja enskilda bolag, särskilt genom statlig styrning på det sätt som föreslås, strider mot svensk praxis och skulle riskera att påverka bolagets affärsmässighet.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/formas": "eae43f5cc7045544228c5e848518c0079e65833ad91b1ce8ceb5549aaba478b8",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:26:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26486,
+      "completion_tokens": 2169,
+      "ended": "2026-09-01T17:27:48+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "25f440bc98d66944296e8e51c011283dc501bd018a99f7658fbc9c2be309a982"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Formas bedömning är att den huvudsakliga orsaken till att förslagen beskrivs som otillräckliga har sitt ursprung i hur direktiven har formulerats (vilka åtgärder som varit möjliga att undersöka och föreslå), samt de avvägningar mellan olika samhällsmål som gjorts i den parlamentariska processen inom ramen för utredningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6",
+      "sentiment": 1.0,
+      "quote": "instämmer Formas i att mer forskning och kunskap om markkol behövs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 1.0,
+      "quote": "med målsättningen att bygga en ännu bättre kunskapsgrund till stöd för en ökad rådgivning på området, såsom förslås i betänkandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": 0.5,
+      "quote": "Sammanställningen visade att effekten är störst vid långliggande vall.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 1.0,
+      "quote": "instämmer i betydelsen av att forskning och utveckling av material som kan ersätta odlingstorv fortsätter",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.2",
+      "sentiment": 1.0,
+      "quote": "En sådan fröbank och inrättandet av den infrastruktur som omger fröbanken, kan utgöra en betydande resurs för forskning och innovation.",
+      "quote_type": "grund"
+    }
+  ]
+}

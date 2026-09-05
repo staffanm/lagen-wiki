@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-norrbotten": "9fe7f2dc167751307e95c110b8a15df18435fd69608f883b9e02c6f8b3785873",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T19:36:26+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 89323,
+      "completion_tokens": 10782,
+      "ended": "2026-09-01T19:43:39+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "63dbf442a25d936bb603650d38c827f88179013048c3d21f40ad930a9e91cf08"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Länsstyrelsen anser att förslagen för att uppnå Sveriges åtaganden inom biologisk mångfald respektive nettoupptag av växthusgaser från markanvändningssektorn är otillräckliga för att nå målen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.5,
+      "quote": "vi vill påpeka att det är viktigt att data till den nya indikatorn är lättillgänglig för att möjliggöra att indikatorn används och följs upp under längre tid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "De negativa konsekvenserna av gödsling tillsammans med kunskapsbristen om hur ekosystemet påverkas på längre sikt, gör att Länsstyrelsen inte anser att det är lämpligt att nu föreslå en satsning på skogsgödsling i större skala.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 0.2,
+      "quote": "tveksam till att det är ett tillräckligt effektivt instrument för ökat kolupptag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen anser det är oklart vilken effekt förslaget i praktiken kan få.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.5,
+      "quote": "anser att det inte lämpar sig ha strikta kategorier av syften såsom de tre anslagsposterna Miljömålsberedningen föreslår eftersom våtmarker är multifunktionella.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.5,
+      "quote": "I de flesta fall kommer inte en våtmark att gå från en naturtyp till en annan vid en återvätning eller restaurering men det bidrar så gott som alltid till en bättre bevarandestatus genom att man återställer de hydrologiska förhållandena",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget att Naturvårdsverket får i uppdrag att inrätta ett nationellt återvätningsråd och att länsstyrelsen, Jordbruksverket och Skogsstyrelsen får i uppdrag att bistå rådet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": 0.5,
+      "quote": "Undantaget borde även inkludera utrivning av markavvattningsanläggning då syftet är att återställa livsmiljöer för skyddade arter, den biologiska mångfalden",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen föreslår att man borde utreda om det går att återväta de torvtäkter som redan har efterbehandlats under tidigare år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.13",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen delar inte utredningens bedömning att denna uppgift bör kunna hanteras inom ramen för länsstyrelsens befintliga uppgift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -1.0,
+      "quote": "eftersom förslaget inte tar någon hänsyn till de naturskogar som är i behov av formellt skydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.2",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelserna har kontinuerligt kartlagt, fältbedömt och avgränsat skogar med höga naturvärden inom arbetet med formellt reservatsskydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.3",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen avstyrker förslaget eftersom Skogsstyrelsens har för lite tid och resurser för att hinna med detta arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.2",
+      "sentiment": 0.5,
+      "quote": "Det som kan ifrågasättas är om den tidsplan som föreslagits är möjlig att leva upptill.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1.4",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen vill dock understryka att det krävs resurser för detta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.5",
+      "sentiment": 1.0,
+      "quote": "Tydlighet är bra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.6",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1.7",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen i Norrbotten ser positivt på och tillstyrker förslaget att ersättning för myrslåtter återinförs i den innevarande och kommande strategiska planen till CAP.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen menar att det redan idag finns en hel del kunskap och tillräckligt användbara karttjänster och databaser som hanterar denna typ av information.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": -1.0,
+      "quote": "Vi befarar att ändringen kommer påskynda förlusten av biologisk mångfald då biotoper med höga naturvärden, som till exempel gammal skog eller större våtmarksområden, tar oerhört lång tid att återskapa och inte går att kompensera för fullt ut.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/sametinget": "961e4dde86f952373a7990b58441855eeeb6519eb52b1ea36724653a9de360c3",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:10:55+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27616,
+      "completion_tokens": 2785,
+      "ended": "2026-09-01T23:12:54+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "62d806a8d5b47457bc9ae576c1985c8f0f9511f6a20dd069c1c5578de1017e77"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Sametinget anser inte att förslaget till strategin hur Sverige ska leva upp till EU:s åtaganden inom biologisk mångfald respektive nettoupptag av växthusgaser från markanvändningssektorn (LULUCF) är tillräckligt för att stoppa och vända förlusten av biologisk mångfald.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.5,
+      "quote": "Sametinget menar att åtaganden om rådgivning och information inte är tillräckligt med tanke på den rätt samerna har samt att den samiska kulturen, den samiska renskötseln och den traditionella kunskapen har präglat skogslandskapet genom sin fysiska närvaro under lång tid, och har ett stort värde i förvaltningen av landskapet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Ett exempel är förslaget om lägre gallringsintensitet som en åtgärd för ökad kolinlagring, det kan ge negativa konsekvenser för renskötseln.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2.4",
+      "sentiment": -0.5,
+      "quote": "Ett annat exempel är förslaget om ersättningsmark i renskötselområdet som ersättning för skydd av urskogar och naturskogar vilket också kan ge negativa konsekvenser för renskötseln.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": -0.2,
+      "quote": "Risken finns att Sverige genom en sådan användning inte lika aktivt jobbar för att skydda fler nya områden.",
+      "quote_type": "grund"
+    }
+  ]
+}

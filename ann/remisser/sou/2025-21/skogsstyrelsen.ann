@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/skogsstyrelsen": "20839dfd94ed1720544d666a2999cb288c5b122c1e2bd007bc2a6c45ab8e3db5",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:19:00+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 102723,
+      "completion_tokens": 17561,
+      "ended": "2026-09-01T23:31:35+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8afdf66d03bb7ad77cd1a8ddc4063bd362116bdf3b20ebc72760ebf6955ab516"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Skogsstyrelsen bedömer dock att Miljömålsberedningens förslag är otillräckliga för att Sverige ska uppfylla sina åtaganden inom EU och internationellt för naturvård och biologisk mångfald.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "För att vara ett effektivt styrmedel måste rådgivningsbudskapen vara i linje med skogsägarens egna värderingar och mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": -1.0,
+      "quote": "Det bedöms vara en alltför omfattande uppgift för en samordnare att samordna alla aktiviteter gällande såväl kolinlagring som bevarande av biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": -1.0,
+      "quote": "Preciseringar till miljökvalitetsmål är i regel långsiktiga och Skogsstyrelsen anser att förslaget behöver ses över utifrån ett längre perspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen förordar generellt samstämmiga mål och uppföljningsmetodik på internationell, EU och nationell nivå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 0.5,
+      "quote": "Skogsstyrelsen kommer att ha svårigheter att växla upp rådgivningsverksamheten med 100 miljoner kronor redan nästa år och ser att en successiv ökning är nödvändig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 0.5,
+      "quote": "ett direkt ekonomiskt stöd, för att vara kostnadseffektivt, i första hand bör riktas mot privatskogsbruket och då som en tillfällig åtgärd för att kompensera för ett större behov av samordning och gemensam planering, samt den högre ekonomiska risk som gödsling innebär för mindre markägare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "Det är mycket osäkert om avtal för förlängd omloppstid verkligen leder till minskad avverkning totalt sett i landet på det sätt som Miljömålsberedningen bedömt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.4",
+      "sentiment": -1.0,
+      "quote": "Skogsstyrelsen anser inte att det är skogsbrukets ansvar att specifikt nå LULUCF-åtagandet, utan statens.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.5,
+      "quote": "Nyanläggning alternativt underhåll av skogsbilvägar med passager över torvmark kan dock vara en förutsättning för att göra skogen tillgänglig för åtgärder inom skogsbruket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1.1",
+      "sentiment": 0.2,
+      "quote": "Det är inte realistiskt att minska utsläppen från dränerad organogen mark till 2030 i den omfattning som beredningen föreslår, se även avsnitt 12.2.1.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.5,
+      "quote": "Det är dock otydligt huruvida det nya anslaget ska disponeras av Skogsstyrelsen och/eller länsstyrelsen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 0.2,
+      "quote": "Möjligen skulle dock inrättande av en riktad forskningsfond vara mer effektivt och bättre bidra till en gemensam bild av den samlade forskningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.2",
+      "sentiment": 0.5,
+      "quote": "Genom att skilja ut ersättningar som Skogsstyrelsen har rådighet över från intrångsersättningar som är mer händelsestyrda, skulle möjligheterna till ett mer strategiskt arbete med formellt skydd öka.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.9",
+      "sentiment": -1.0,
+      "quote": "Återvätningsavtal saknar förvaltningsmål för områdets naturvärden och skötselplan upprättas inte för de områden som återvätningsavtalen tecknas för, vilket är kriterium för att områden ska kunna rapporteras som ett OECM.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.10",
+      "sentiment": 0.5,
+      "quote": "Det är därför mest ändamålsenligt och effektivt att även insamling av markägares frivilliga avsättningar som kan rapporteras som OECM sker via Skogsstyrelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.11",
+      "sentiment": 0.2,
+      "quote": "Det är tveksamt om det finns incitament för markägare att rapportera dessa områden som OECM.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.12",
+      "sentiment": 0.5,
+      "quote": "Det är därför mest ändamålsenligt och effektivt att även insamling av markägares frivilliga avsättningar som kan rapporteras som OECM sker via Skogsstyrelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": 0.2,
+      "quote": "Det bedöms vara mycket svårt att rekrytera och utbilda personal i så snabb takt att målet kan nås till 2030.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.2",
+      "sentiment": 0.2,
+      "quote": "Att slutföra en inventering av denna omfattning före 2030 skulle dock, ur flera aspekter, vara mycket svårt att genomföra inom den tidsram som anges.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.3",
+      "sentiment": 0.2,
+      "quote": "Genom utökade kontroller och fältbesök skulle det gå att öka sannolikheten för att sådana skogar upptäcks.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.4",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a15.1.1",
+      "sentiment": 0.2,
+      "quote": "Svårigheten med att nå etappmålet beror dels på praktiska aspekter, som behovet av kapacitetsuppbyggnad och tillgång till både egen personal och entreprenörer med rätt kompetens, dels på ekonomiska aspekter",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.2",
+      "sentiment": 0.5,
+      "quote": "bedömer att det är mycket svårt att nyttja en så kraftig ökning redan från 2026",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.3",
+      "sentiment": -1.0,
+      "quote": "Motivet till att inte en särskild anslagspost bör anges för naturvårdande skötsel är att Skogsstyrelsen är väl lämpad att fördela medlen mellan de olika verksamheterna",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.4",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen tillstyrker att länsstyrelserna och Naturvårdsverket får i uppdrag att uppdatera inaktuella skötselplaner och bevarandeplaner.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 0.5,
+      "quote": "Med beaktande av den från jordbruksmarken avtagande naturvårdsmässiga kvaliteten i skogsbryn mot jordbruksmark och de virkesvolymer som potentiellt kan produceras i kanter mot jordbruksmark gör Skogsstyrelsen fortfarande bedömningen att 15 meter vore en lämplig zonbredd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.1",
+      "sentiment": 1.0,
+      "quote": "kommunala grönplaner är ett lämpligt verktyg för att belysa och förstärka arbetet med stadsgrönska och tätortsnära natur, inklusive dessas positiva synergier med folkhälsa, rekreation, friluftsliv och klimatanpassning med tillhörande mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.2",
+      "sentiment": 0.5,
+      "quote": "Utredningen bör bl a adressera biologiska, genetiska, operativa, administrativa, juridiska och resursmässiga aspekter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": -1.0,
+      "quote": "Vid den här typen av allmän insamling av uppgifter kan det vara svårt med systematik i insamlandet, svårt att få tillräcklig kvalitet och inte minst att det riskerar att bli otydligt vad ett sådant material har för status.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": 1.0,
+      "quote": "Skogsstyrelsen tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.2.5",
+      "sentiment": 1.0,
+      "quote": "investeringar i rekreation och friluftsliv kan bidra till att göra naturområden både attraktiva för närboende/besökare och en möjlig inkomstkälla för markägare och småföretagare på landsbygden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 0.5,
+      "quote": "För att en sådan roll och ett sådant arbete ska fungera och bli framgångsrikt måste rollen ha legitimitet och det behöver finnas brett stöd för arbetet hos de berörda.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lantmateriet": "3043bff2c2652d5bafe109ffd4b7d8612e72a5653bc1d14f5cdf6cde40f66e89",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T18:10:23+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 28213,
+      "completion_tokens": 5138,
+      "ended": "2026-09-01T18:13:18+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "872581a2534fa810b1c81073b6758c5fe064978d63133d7304c352f86db96974"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Lantmäteriet instämmer i miljörådsberedningens förslag att utveckla miljökvalitetsmålen samt utarbetandet av en strategi som bidrar till Sveriges åtaganden inom EU och internationellt för naturvård och biologisk mångfald samt upptag och utsläpp av växthusgaser inom markanvändningssektorn.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.5,
+      "quote": "För en helhetssyn avseende vad en fastighet berörs av med avseende på exempelvis naturvård och biologisk mångfald så behövs information från fastighetsregistret i kombination med information från andra myndigheter samt kännedom om avtal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.2,
+      "quote": "det kan vara av vikt att notera att även Lantmäteriet skulle kunna komplettera med viss ytterligare information på exempelvis sin hemsida – kopplat till myndighetens roll avseende exempelvis planer och bestämmelser i fastighetsregistret samt geodata i klimatanpassningsarbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.0,
+      "quote": "Detta är frågor som skulle kunna komma att beröra specifikationer för informationsmängder i den nationella geodataplattformen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": 0.8,
+      "quote": "Lantmäteriet instämmer i detta då reglerna idag är svårtillämpade och redovisningen bristfällig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": 0.0,
+      "quote": "En fråga som ytterligare bör belysas är hantering av område under kraftledningsgata, i relation till rätt till kraftledning samt fastighetsägarens rätt till mark under ledningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.4",
+      "sentiment": -0.5,
+      "quote": "Från ett fastighetsbildningsmässigt perspektiv kan nämnas att denna möjlighet troligen är minimal.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.4",
+      "sentiment": 0.0,
+      "quote": "En uppdatering av skötselplaner torde dock inte påverka Lantmäteriet då det inte är fråga om ett nytt ellet ändrat beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": 0.0,
+      "quote": "Här kan noteras pågående arbete med specifikation för översiktsplan för tillgängliggörande av informationsmängden via den nationella geodataplattformen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.2,
+      "quote": "Lantmäteriet kan här bland annat se behovet av ytterligare utredningsåtgärder vid fastighetsbildning vilket i sin kan medföra längre handläggningstider och ökade kostnader för sakägare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20",
+      "sentiment": -0.2,
+      "quote": "Det kan noteras att vissa av förslagen kan försvåra för bildandet av fastigheter i och med att vissfragmentering kan uppstå.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-skane": "ecc01d44039e1e056ad1e8f1c6897c37958fb7a22daa72847c822e8595930a04",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T21:29:58+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 44122,
+      "completion_tokens": 7630,
+      "ended": "2026-09-01T21:35:35+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d8e46128f069495b6443289e08014aa043e3958af747a11068383d87ef3fa6b7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen i Skåne län (nedan Länsstyrelsen) tillstyrker många av förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "Förslaget i avsnitt 6.1 kan därför endast tillstyrkas om tillräckliga resurser tilldelas för såväl den föreslagna informationssatsningen som för andra delar i myndigheternas arbete som har betydelse för att nå de mål som förslaget syftar till.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen ser positivt på förslaget om åtgärdssamordnare för frivilligt lokalt åtgärdsarbete som bidrar till kolinlagring och biologisk mångfald (avsnitt 6.2), men anser att all åtgärdssamordning bör samlas inom samma stödform och förordning för att kunna dra nytta av synergieffekter när åtgärdssamordnare arbetar mot flera olika syften samtidigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.5,
+      "quote": "Det kan tolkas som att ”vanliga arter” inte ingår i punkt 5 vilket är olyckligt då det är av stor vikt att även arter som är lite vanligare ska kunna gynnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Förslaget om bidrag för att öka kvävegödslingen av skog (avsnitt 8.2.2) avstyrks, eftersom det bland annat skulle motverka miljökvalitetsmålet Ingen övergödning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": 0.2,
+      "quote": "Det föreslagna uppdraget till Upphandlingsmyndigheten om en informations- och rådgivningsinsats om upphandling av naturbeteskött, renkött och viltkött (9.2.1) kan med fördel breddas till en informations- och rådgivningsinsats om upphandling av mat med positiva effekter på kolinlagring, andra klimataspekter och biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 0.2,
+      "quote": "Det är bättre att en tydlig avgränsning görs från början i lag eller förordning, än att domstolar ska behöva tolka vaga lagformuleringar och etablera en praxis.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": -0.2,
+      "quote": "Administrationen ökar om olika delar av en våtmark ska söka finansiering från olika stödformer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen anser att förslaget om att lägga till restaurering av våtmark (utan arealbegränsning) till sådant som kan anmälas som vattenverksamhet är mycket bra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen avstyrker denna punkt med hänvisning till att statens rådighet inte bryter igenom tillståndens rättskraft.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 1.0,
+      "quote": "Samtidigt är klimatnyttan av att fasa ut torvbrytningen mycket stor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.13",
+      "sentiment": 0.5,
+      "quote": "Förslaget i avsnitt 13.1.13 kan därför endast tillstyrkas om tillräckliga resurser tilldelas för såväl det föreslagna nya uppdraget som för andra delar i länsstyrelsernas arbete med biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.2,
+      "quote": "Att i fält mäta och kartlägga beståndsålder på alla skogar som potentiellt kan uppfylla definitionen skulle vara ett omfattande och tidskrävande arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.2",
+      "sentiment": 1.0,
+      "quote": "Att i huvudsak behöva jobba med ett- eller tvååriga avtal, på grund av otillräcklig bemyndiganderam, skapar mycket merarbete för Länsstyrelsen och sämre planeringsförhållanden för entreprenörer som utför praktiskt naturvårdsarbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i Miljömålsberedningens bedömning att beloppen för skötsel av skyddad natur behöver höjas kraftigt och ligga på en hög nivå under fem år för att komma i kapp med akuta skötselbehov (sid 466).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.3",
+      "sentiment": 1.0,
+      "quote": "det är positivt att det skalas upp eftersom verksamheten bidrar till restaurering i hela landskapet och bidrar dessutom till ökat antal årsarbetskrafter på landsbygden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.5",
+      "sentiment": 0.5,
+      "quote": "Förslaget i avsnitt 16.1.5 kan därför endast tillstyrkas om tillräckliga resurser tilldelas för såväl det föreslagna nya uppdraget som för andra delar i länsstyrelsernas arbete med biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen ser positivt på att ersättningsnivån för bete på naturbetesmarker höjs och att investeringsstödet till djurstallar prioriteras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen stödjer förslaget om att ta bort återbeskogningsplikten närmast jordbruksmark vilket möjliggör att viktiga brynmiljöer bibehålls och kan utvecklas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.1.2",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen ser en stor risk att de önskade åtgärderna antingen inte kan prioriteras eller tränger ut andra viktiga verksamheter och minska strategins genomslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

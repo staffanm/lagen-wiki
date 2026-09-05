@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/region-halland": "6fc3ee2f496c59b43df97bb3e2a74f99f3e2b1906075fb304c26513b49c782d9",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:53:37+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 63600,
+      "completion_tokens": 7048,
+      "ended": "2026-09-02T05:57:54+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "25849e9b9ad227e916f277a39e1c6b47a76af01b6d5da83b43633331726b0d56"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förslagen är i grunden väl avvägda, men vi ser behov av justeringar för att säkerställa regional fördelning samt att säkerställa inkludering av små och medelstora företag (SME).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": -0.5,
+      "quote": "Värt att poängtera är också att kommunen har ansvar att beakta fler aspekter, intressen och behöver göra avvägningar kring nybyggnation än den enskilda exploatören vilket inte ska förringas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.4",
+      "sentiment": -0.2,
+      "quote": "Regionernas bedömning är att länsstyrelsens roll inom regional utveckling inte behöver stärkas generellt, med däremot tydliggöras i vissa specifika steg och hur det förhåller sig till det huvudansvar som regionerna har i sitt regionala utvecklingsuppdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.6",
+      "sentiment": -0.5,
+      "quote": "Genom att som kommun även hantera gestaltningsfrågor kan en attraktivitet uppnås, behållas och utvecklas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.1",
+      "sentiment": 0.5,
+      "quote": "Det är därför viktigt att de samhällsekonomiska bedömningarna inte enbart räknar på en enskild investering eller åtgärd utan också räknar in de positiva och/eller negativa systemeffekter som en åtgärd innebär.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": -0.2,
+      "quote": "Region Halland ställer sig frågande till hur föreslagen flytt av ansvar att sätta kalkylräntan för infrastrukturinvesteringar skulle komma att påverka infrastrukturinvesteringarna i sin helhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": 1.0,
+      "quote": "Att prioritera underhåll är, utöver nya investeringar i transportinfrastrukturen, av stor vikt för den regionala utvecklingen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec411",
+      "sentiment": -0.5,
+      "quote": "Region Halland menar att uppföljning och utvärdering av dimensioneringsreformen behöver göras först för att se om implementerade förslag bidrar till avsedd effekt innan regeringen går vidare med ytterligare förändringar.",
+      "quote_type": "grund"
+    }
+  ]
+}

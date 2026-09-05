@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/lysekils-kommun": "d186b11d40560a13dc76d285541b529b08fafdfacd20d989b9e0d4a415e98183",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:02:05+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12014,
+      "completion_tokens": 1907,
+      "ended": "2026-09-01T15:03:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "bcc4cf9d82cc641035b4bdfd77f61921eb2a159e6b8f94c430dccccfa7ea8cdd"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sammanfattningsvis behöver kommunerna central utbildning, gemensamma verktyg och en standardiserad arkitektur för datadelning för att effektivt möta dataförordningens krav.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6.7",
+      "sentiment": 0.8,
+      "quote": "det är ineffektivt att varje kommun själv försöker tolka regelverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.10",
+      "sentiment": 0.2,
+      "quote": "särskilt då antalet berörda leverantörer är oklart.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": -0.2,
+      "quote": "för många olika lösningar blir dyrt och komplicerat att hantera.",
+      "quote_type": "grund"
+    }
+  ]
+}

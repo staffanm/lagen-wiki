@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/jamstalldhetsmyndigheten": "3a411b0c8ff644d0ae92533a1e628ab7d9bd05eb980b2533dc83f89bc163ba03",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:44:39+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18297,
+      "completion_tokens": 2892,
+      "ended": "2026-09-01T12:46:12+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "def0d27a9b9d4e385eea28907d4c7cc6460ae43c4633c63f2f9394dacfe1c459"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Det begränsade kunskapsunderlaget innebär att det inte fullt ut går att bedöma om förslaget kan få olika konsekvenser för kvinnor och män eller för olika grupper av kvinnor och män.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -1.0,
+      "quote": "Det begränsade kunskapsunderlaget innebär att det inte fullt ut går att bedöma om förslaget kan få olika konsekvenser för kvinnor och män eller för olika grupper av kvinnor och män.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec26",
+      "sentiment": 1.0,
+      "quote": "Förslaget stärker barns rättigheter och minskar risken för att barn ges ett ansvar som inte är förenligt med deras ålder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2.3",
+      "sentiment": 0.5,
+      "quote": "Ur ett jämställdhetsperspektiv kan användningen av närstående som tolkar påverka möjligheten att kommunicera självständigt med myndigheter, särskilt i situationer som präglas av ekonomiskt eller socialt beroende.",
+      "quote_type": "grund"
+    }
+  ]
+}

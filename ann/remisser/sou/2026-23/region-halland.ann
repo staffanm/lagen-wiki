@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/region-halland": "b8a117014abd4dda60ae0944fcc3acfb3547d1721783f23a1e592a3ce5866b2d",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:51:37+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17720,
+      "completion_tokens": 3122,
+      "ended": "2026-09-01T12:53:17+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "095f7fc9e7860877ecd3e202e30083878060f5b8812bb153effb215a538269e5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Region Halland har tagit del av remissen och avser att lämna synpunkter gällande förslag till lag om tolkavgift och förslag till förbud mot att använda barn som tolk.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.7.2",
+      "sentiment": -0.5,
+      "quote": "Vid ett införande av tolkavgift kan det finnas en risk att patienter avstår från tidiga kontakter eller försöker hantera ärenden utan tolk, vilket i sin tur kan leda till att vårdkontakt försenas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.1",
+      "sentiment": -0.2,
+      "quote": "Region Halland ser en risk i att hälso- och sjukvårdsverksamheten kan komma att behöva göra de bedömningar som krävs för utfärdande av intyg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.1",
+      "sentiment": -0.2,
+      "quote": "Region Hallands bedömning är vidare att det inte tydligt framgår av utredningen hur angränsande lagstiftning, såsom lag (1995:831) om transplantation, lag (2003:460) om etikprövning av forskning som avser människor och biobankslag (2023:38), har beaktats vid utformningen av undantagsbestämmelsen i 4 §.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.7.1",
+      "sentiment": 1.0,
+      "quote": "Region Halland ser positivt på utredningens förslag till lag om förbud mot att använda barn som tolk, då detta stärker patientsäkerheten, barnets rättigheter samt kvaliteten i vårdmötet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec548",
+      "sentiment": 1.0,
+      "quote": "Region Halland stödjer att tolkning ska kunna ske i nödsituationer, fara för liv och hälsa, vilket är en förutsättning för ett patientsäkert förfarande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec548",
+      "sentiment": 0.2,
+      "quote": "Det finns därför behov av tydligare vägledning kring ansvar och tillämning.",
+      "quote_type": "grund"
+    }
+  ]
+}

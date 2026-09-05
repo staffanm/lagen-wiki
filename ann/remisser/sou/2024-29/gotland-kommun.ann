@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/gotland-kommun": "b88e0de7aa5a9019eb2baa42a9d3d6afd25c3a83ebeec25c1756a8dd38dfd33b",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T03:31:55+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 38903,
+      "completion_tokens": 8167,
+      "ended": "2026-09-02T03:37:17+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "9d6c38f4fdc694db8cf0c492e160f2792d4a5c06284d4230d86501edcc75d574"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Region Gotland anser att de förslag som läggs av Produktivitetskommissionen behöver analyseras utifrån den påverkan de får i olika geografier, särskilt för öar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": -0.2,
+      "quote": "Region Gotland vill påtala att vid en ännu starkare koncentration av forskningsmiljöer ökar avståndet ytterligare mellan dessa och externa aktörer, såväl näringsliv som offentlig sektor, i de perifera geografierna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 0.5,
+      "quote": "Region Gotland föreslår att ett av dessa forskningsinstitut byggs upp på Gotland, enligt modellen för den amerikanska forskningsfinansiären Defense Advanced Reserach Projects Agency (DARPA), och med fokus på forskning med dubbla användningsområden i linje med de satsningar som görs i EU:s nästa ramprogram för forskning och innovation (FP10).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5.4",
+      "sentiment": 0.5,
+      "quote": "Region Gotland vill särskilt understryka behovet av generella ramvillkor framför selektiva AI-stöd samt fokus på komplementära investeringar i arbetssätt, kompetens och data.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec715",
+      "sentiment": 0.2,
+      "quote": "När det gäller interoperabilitetslag vill Region Gotland peka på vikten av tydliga, bindande föreskrifter och profiler (semantik, API, katalogtjänster, loggning och spårbarhet) men även behovet av finansiering för lokalt grundarbete (datakvalitet, masterdata, metadata, API-lager).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.1",
+      "sentiment": 0.5,
+      "quote": "Region Gotland tillstyrker förslaget om behov av AIkompetenscentrum men vill se en modell med regionala noder/AI motorer för att säkra både bredd och spetskompetens i hela landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 0.5,
+      "quote": "För ett ö-läge är det särskilt intressant att det möjliggör en större åtkomst till högre utbildning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": -0.2,
+      "quote": "I ett ö-läge med begränsad arbetsmarknad, begränsad interkommunal samverkan och ansträngd APL-kapacitet riskerar brister i utformning och resurssättning att få särskilt stora konsekvenser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": 0.5,
+      "quote": "För en öregion med ett geografiskt avgränsat arbetsmarknadsområde är tillgången till en volymmässigt tillräcklig och träffsäker arbetsmarknadsutbildning av strategisk betydelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.1",
+      "sentiment": 0.5,
+      "quote": "Priset är dock ett viktigt incitament för att fasa ut de fossila bränslena.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.1",
+      "sentiment": 1.0,
+      "quote": "Region Gotland stödjer förslaget och ser fram emot att frågor om samexistens mellan försvar och havsbaserad kommer att lösas till ömsesidig nytta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": 0.2,
+      "quote": "Det är dock synnerligen viktigt att en övergång sker på ett sätt så att inte grupper med lägre inkomster drabbas och tvingas flytta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.2",
+      "sentiment": -0.2,
+      "quote": "Region Gotland anser att en indexering av de generella statsbidragen är ett bättre alternativ, än en statlig garantimodell, för att inte riskera urholkning av bidragen och möjliggöra en jämlik välfärd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.1",
+      "sentiment": 1.0,
+      "quote": "Tydlighet och ökad transparens skulle ge ett bättre helhetsperspektiv för att bedöma de konsekvenser som eventuella förändringar medför.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5.3",
+      "sentiment": 0.2,
+      "quote": "Region Gotlands bedömning är därmed att måttet om 1100 listade patienter per allmänspecialist är ett bättre mål för att uppnå förflyttning än att se på ekonomisk fördelning mellan primär- och specialistvård.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.1",
+      "sentiment": -1.0,
+      "quote": "Region Gotland avstyrker förslag 175 då det bedöms innebära ett intrång i det kommunala självstyret.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.5.3",
+      "sentiment": -1.0,
+      "quote": "Region Gotland avstryker förslaget då ett sådant krav riskerar att försvåra tillgänglighet, inte vara ändamålsenligt och kräva en utbyggnad av primärvårdsjoursverksamhet vilket inte är förenligt Gotlands struktur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.3.1",
+      "sentiment": 0.5,
+      "quote": "Nuvarande ordning innebär betydande kostnader och begränsad kontroll över vårdutförandet där kvalitet och effekt inte kan säkerställas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.2",
+      "sentiment": 0.5,
+      "quote": "Region Gotland välkomnar förslaget om att ge Statskontoret uppdraget enligt ovan men med tillägget att det är viktigt att ESV hämtar kunskap från regional nivå där regelkrångel ofta uppdagas eller hanteras antingen av näringslivet eller av regionala eller lokala myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.4",
+      "sentiment": 0.5,
+      "quote": "Det är av stor vikt att den statliga nivån lägger mera kraft på att analysera, förstå och minimera målkonflikter genom riksintressen, lagar och regler.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.5",
+      "sentiment": 0.2,
+      "quote": "Det är dock olyckligt att kommissionen ej i sitt förslag tydligare pekar ut vilken myndighet som skulle kunna ha det sammanhållna utvärderingsuppdraget även om Statskontoret (ESV) pekas ut som utvecklingsansvarig för metodstöd och konsolidering av praxis.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.8",
+      "sentiment": 0.2,
+      "quote": "Region Gotland välkomnar förslaget men önskar se en starkare tyngdpunkt på synliggörande av, lärande om och ökade resultatredovisningar på myndigheter utifrån deras dubbla roller både som främjare och myndighetsutövare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.9",
+      "sentiment": 0.5,
+      "quote": "För att Sverige ska kunna bidra i arbetet inom EU med kvalitet och legitimitet måste vi som nation ha “sopat rent famför egen dörr”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.1",
+      "sentiment": 0.5,
+      "quote": "Region Gotland delar bedömningen att staten i högre grad bör samordna sitt arbete i tillståndsärenden, men tar inte ställning till om en samlad statlig tillståndsmyndighet är bästa lösningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec251",
+      "sentiment": 1.0,
+      "quote": "Region Gotland delar bedömningarna 29 och 30 ovan, som en möjlighet till effektivare processer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec254",
+      "sentiment": -0.2,
+      "quote": "På Gotland där motstridiga riksintressen och allmänna intressen ofta krockar, riskerar en “ventil” annars att urholka rättssystemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": 0.5,
+      "quote": "Inriktningarna är väl genomtänkta och kommer sannolikt att förändra och förbättra förutsättningarna till ett ökat bostadsbyggande och en väl fungerande bostadsmarknad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.4",
+      "sentiment": 0.5,
+      "quote": "Vi stödjer förslaget om att regionerna ska få ett starkare och mer formellt uppdrag i det regionala utvecklingsarbetet, men efterfrågar tydligare styrning mellan stat, länsstyrelser och regioner samt lokal nivå – med bibehållen flexibilitet och regionalt självstyre.",
+      "quote_type": "grund"
+    }
+  ]
+}

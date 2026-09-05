@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/affarsverket-svenska-kraftnat": "eb1afe6bf685b643481206fffcb686934363e9800a086af228f3dc08fbaafef4",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T01:49:40+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23452,
+      "completion_tokens": 4194,
+      "ended": "2026-09-02T01:52:17+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "4e7d82e733cc47c8b2e74b616f83a8de476d4ccf2264aba027a21005c04ce1a5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenska kraftnät ser positivt på förslag som syftar till att förenkla och effektivisera tillståndsprocessen och utbyggnaden av transmissionsnätet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.1",
+      "sentiment": -0.2,
+      "quote": "Skulle till exempel en verksamhet med brandfarlig eller explosiv vara placeras på ett sådant sätt att det strider mot elsäkerhetsregleringen och kan äventyra en kraftlednings el- och driftsäkerhet är det av avgörande vikt att Svenska kraftnät även i fortsättningen kan överklaga dessa beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": 0.2,
+      "quote": "Om en sådan ventil övervägs i miljöbalken anser Svenska kraftnät att det är av stor vikt att den inte utformas så att dessa riksintressens ställning och betydelse försvagas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.3",
+      "sentiment": 0.5,
+      "quote": "Svenska kraftnät vill dock notera att undantagen i miljöbalken enbart gäller för byggande och underhåll av ledningen och anser att det vore lämpligt att utreda om detta undantag även kan utsträckas till att även gälla åtgärder vid rivning av befintlig ledning.",
+      "quote_type": "grund"
+    }
+  ]
+}

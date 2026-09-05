@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/vaxjo-tingsratt-mark--och-miljodomstolen": "1f08b3be9da4056401342c43aa033e99d5c71acba8105842bfe2b18c018e17bf",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T01:17:18+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27362,
+      "completion_tokens": 3518,
+      "ended": "2026-09-02T01:19:41+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "83e28bb573ddfc89cd4361a716a63b990f802bd032be95dc7526e59a6485d057"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Mark- och miljödomstolen anser inte att miljömålsberedningens förslag och skrivningar bygger på en korrekt tolkning av gällande rätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.5,
+      "quote": "Mot bakgrund av att den föreslagna lydelsen i princip utgör en mycket stark tillåtlighetsregel på gränsen till stoppregel, vars konstruktion avviker från övriga hushållningsregler är det viktigt att det är förutsägbart vilka områden som omfattas och att befintliga och allmänt tillgängliga data kan användas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.2,
+      "quote": "Skrivningen angående att det även ska krävas att det bedöms nödvändigt för totalförsvarets behov av energitorv som beredskapsbränsle synes mer svårbedömbar för prövningsmyndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1.4",
+      "sentiment": -1.0,
+      "quote": "Tillägget medför ingen konkret rättsverkan för den som bedriver en sådan verksamhet som omfattas av anmälningsplikten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": -0.5,
+      "quote": "I vart fall bör arealgränsen om 5 ha även gälla restaurering av våtmarker och återvätning av torvmarker.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -0.8,
+      "quote": "Mark- och miljödomstolen anser inte att miljömålsberedningens förslag och skrivningar bygger på en korrekt tolkning av gällande rätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": -1.0,
+      "quote": "Den föreslagna formuleringen slår in öppna dörrar och leder inte till bättre skötselplaner.",
+      "quote_type": "grund"
+    }
+  ]
+}

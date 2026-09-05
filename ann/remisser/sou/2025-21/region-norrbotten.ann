@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/region-norrbotten": "55c8606eca4195277ec3feb355e8c548ad3c862e14d9af217095b5008286e75b",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T22:56:22+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27738,
+      "completion_tokens": 6169,
+      "ended": "2026-09-01T23:00:15+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0de6b240c84fb199c6c7bab3a3d011f45c77007a54bda62e6dc69abcab8a53f9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "ifrågasätter LULUCF-förordningens ensidiga syn på kolinlagring i skog, då minskat aktivt skogsbruk riskerar att minska kolinbindningen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.2,
+      "quote": "Att minska andelen aktivt skogsbruk riskerar att minska kolinbindningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3.8",
+      "sentiment": 0.5,
+      "quote": "anser att ytterligare steg bör tas för en likvärdig rapportering inom EU.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 1.0,
+      "quote": "det finns potential att öka nettoinlagringen av kol genom ökad användning av långlivade träprodukter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": 1.0,
+      "quote": "det vore olyckligt att samma term får olika definitioner i olika relaterade lagstiftningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.7",
+      "sentiment": 1.0,
+      "quote": "skyddade områden kan användas som en resurs för friluftslivet, besöksnäringen, folkhälsoarbetet och pedagogiken och skapa möjligheter till rekreation, estetiska och andliga värden, forskning, regional tillväxt och landsbygdsutveckling",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": 1.0,
+      "quote": "ligger i linje med Region Norrbottens folkhälsostrategi och Norrbottens livsmedelsstrategi Nära mat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": 1.0,
+      "quote": "detta ligger i linje med Region Norrbottens folkhälsostrategi och Norrbottens livsmedelsstrategi Nära mat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2",
+      "sentiment": 0.0,
+      "quote": "så att det genom detta återskapande inte uppstår målkonflikter i samband med EU:s avskogningsförordning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 1.0,
+      "quote": "för att skapa stabila förutsättningar för en långsiktig betesbaserad produktion, eftersom restaurering av betesmarker kräver fler betande djur och därmed fler djurstallar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "Detta innebär att skogsägare får stöd och vägledning utan att deras självbestämmande inskränks, vilket är avgörande för att upprätthålla förtroendet och engagemanget hos skogsägarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 0.0,
+      "quote": "tydligt behöver definiera vad som menas med ’väsentliga samhällsintressen’ och ’från allmän synpunkt tillfredsställande sätt genom att annan mark tas i anspråk’.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.5",
+      "sentiment": 1.0,
+      "quote": "förlänga investeringsstödet för att utveckla infrastrukturen för rekreation och turism i landsbygder",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

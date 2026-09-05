@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/konkurrensverket": "887f3026c058c7385089caa9fd7b3692d3ca87327d8262d76edb516ca2a9b0fb",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:24:35+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 48157,
+      "completion_tokens": 5436,
+      "ended": "2026-09-02T04:28:42+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f828cd2e41962498fa5fee74b0975a3b846a240a13f8e697d2dec546f1c4de84"
+    }
+  },
+  "overall": {
+    "sentiment": 0.6,
+    "quote": "Konkurrensverket anser att Produktivitetskommissionen har gjort ett omfattande och gediget arbete och att de båda betänkandena innehåller många intressanta och insiktsfulla analyser och förslag som Konkurrensverket till stora delar kan ställa sig bakom.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.9",
+      "sentiment": 0.2,
+      "quote": "Verket vill i stället framhålla att såväl tidpunkter för som utnyttjandet av möjligheterna till flexibilitet i samband med införandet av EU-lagstiftningar bör ta hänsyn till effekterna för företagens kostnader, produktivitet och konkurrenskraft och därför avgöras från fall till fall.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket har inga invändningar mot att en utredning ges i uppdrag att utreda förutsättningarna för en ny planlagstiftning där också systemet med riksintressen ingår.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.3.3",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket har inga invändningar mot Produktivitetskommissionens förslag att staten i högre grad bör samordna sitt arbete inom ramen för tillståndsprocesser och att regeringen bör ge berörda myndigheter relevanta instruktioner om att bidra i arbetet med att bygga ut energisystemet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": 0.0,
+      "quote": "Konkurrensverket anser dock att de förslag till lösningar som Produktivitetskommissionen resonerar om i vissa delar är mycket långtgående och att konsekvenserna är oklara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.10",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket instämmer i analysen kring produktivitetsutvecklingen inom byggsektorn och att det kan finnas behov av ökad transparens vad gäller exempelvis kommunernas ledtider i plan- och lovprocessen och i kommunernas planberedskap.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.11",
+      "sentiment": 0.5,
+      "quote": "Konkurrensverket har dock tidigare konstaterat att den föreslagna ordningen diskriminerar de aktörer som kan bygga kostnadseffektiva flerbostadshus som inte är seriebyggda, men som i övrigt är likvärdiga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.1",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket instämmer i att planprocessen bör ta större hänsyn till samhällsekonomisk effektivitet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.7.8",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket instämmer i Produktivitetskommissionens bedömning att det finns mer att önska av produktivitetsutvecklingen, även om vissa framsteg gjorts.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket instämmer i Produktivitetskommissionens slutsatser att en betygssättning som inte är likvärdig utgör ett allvarligt problem eftersom det snedvrider selektionen både till arbetsmarknad och till högre utbildning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 1.0,
+      "quote": "Konkurrensverket anser att skolor som huvudregel bör behandlas på ett transparent och likvärdigt sätt, oavsett om de drivs av en kommun eller av en enskild huvudman, och att skillnader i skolornas uppdrag och ansvar bör återspeglas bland annat vid beräkningen av ersättningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.3",
+      "sentiment": 0.0,
+      "quote": "Konkurrensverket vill även uppmärksamma att en ökad transparens mellan konkurrerande företag kan innebära negativa effekter för konkurrensen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.2",
+      "sentiment": 1.0,
+      "quote": "Att pröva affärsmodeller mot regelverk i en kontrollerad miljö skapar förutsättningar att utveckla och förenkla regelverken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.9",
+      "sentiment": 1.0,
+      "quote": "En sådan skulle minska konkurrenssnedvridningar och reducera såväl företags som myndigheters administrativa kostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

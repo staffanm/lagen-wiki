@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:34/region-stockholm": "ce4e70711fe146cdd3ffb3ff5ceba57251703594ee9c2eeb737fe2b6e20b271a",
+      "artifact:forarbete/sou/2026-34": "f097640e7ef0d53f1de0439712a8bdf7eeef4849ae0e58cd4ca96a1c924a73af"
+    },
+    "run": {
+      "started": "2026-09-01T14:35:51+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20161,
+      "completion_tokens": 775,
+      "ended": "2026-09-01T14:36:36+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "05e7db95102c51548ee57d996daa3eb412e48119b3ced371e3e1d8b8e61c1e96"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Region Stockholm tackar för remissen men avstår från yttrande över denna remiss med diarienummer Ju2026/01507.",
+    "quote_type": "standpunkt"
+  },
+  "segments": []
+}

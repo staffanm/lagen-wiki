@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/region-gotland": "d85607c467070254ce0331f2c5e68d9d429895529a247a31008b89d8b60194d7",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:18:05+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23098,
+      "completion_tokens": 5020,
+      "ended": "2026-09-01T16:20:51+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "3e109e332ca65aa5a4ccf2bf3c74946f0a5c36917143b9f5219bb1461a4f7db6"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Utredningen innehåller flera förslag som kan bidra till ett stärkt och mer effektivt smittskydd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3.1",
+      "sentiment": 1.0,
+      "quote": "Hälso- och sjukvårdsförvaltningen tillstyrker förslaget som bedöms ge en möjlighet till snabbare hantering och därmed bättre förutsättningar för en ändamålsenlig och proportionerlig klassificering av sjukdomarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.2",
+      "sentiment": 0.2,
+      "quote": "Förslaget innebär dock att kopplingen mellan sjukdomsklassificering och patientens rättigheter och skyldigheter blir mindre tydlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.3",
+      "sentiment": -0.5,
+      "quote": "En anmälan till smittskydd utan tillhörande informationsplikt riskerar att bli effektlös.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": -0.5,
+      "quote": "Det blir då viktigt att det finns en skyldighet att informera vid tillbud där det finns risk att någon har utsatts för smitta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": -0.5,
+      "quote": "Här finns en uppenbar risk att skapa otydlighet och leda till en ojämlik tillämpning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.7",
+      "sentiment": 1.0,
+      "quote": "Hälso- och sjukvårdsförvaltningen bedömer att förslaget innebär ett värdefullt förtydligande genom att det anges att förhållningsregler ska anpassas efter bland annat smittsamhet, personliga förhållanden och smittväg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Användningen av rikskod försvårar uppföljning och övervakning av smittsamma sjukdomar samt innebär risker ur ett patientsäkerhetsperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1.5",
+      "sentiment": 1.0,
+      "quote": "Hälso- och sjukvårdsförvaltningen instämmer i utredningens bedömning att det inte bör krävas att det sjukdomsalstrande smittämnet är fullständigt identifierat för att en sjukdom ska kunna omfattas av smittskyddslagens bestämmelser.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 1.0,
+      "quote": "Hälso- och sjukvårdsförvaltningen instämmer i utredningens bedömning att det finns behov av en nationell samordning av vårdhygienfrågor för att stärka det vårdhygieniska arbetet i hela landet, och att Folkhälsomyndigheten är en lämplig aktör för ett sådant samordningsansvar, eftersom vårdhygienfrågor har en nära koppling till smittskyddsarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": 0.2,
+      "quote": "Samtidigt är regionerna organiserade på olika sätt, vilket innebär att en detaljerad reglering av organisatorisk placering i lag riskerar att bli svår att tillämpa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.8",
+      "sentiment": -1.0,
+      "quote": "Genom att byta namn till regional smittskyddsläkare antyds att det finns smittskyddsläkare även på andra nivåer vilket inte är fallet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.7",
+      "sentiment": -0.5,
+      "quote": "Det skulle stärka smittskyddsverksamhetens robusthet, minska sårbarheten vid exempelvis längre frånvaro och bidra till en stärkt regional beredskap.",
+      "quote_type": "grund"
+    }
+  ]
+}

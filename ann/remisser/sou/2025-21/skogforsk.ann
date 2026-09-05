@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/skogforsk": "b399644ef82c27e9aeb291139104877bc35d1da89e706f17606c5cd8f5421d31",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:12:54+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26400,
+      "completion_tokens": 2272,
+      "ended": "2026-09-01T23:14:34+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ca235d414284ec37387fa93edafea1d29e667cd962241edeb467139d4ad0d71c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslag på incitament och styrmedel (exempelvis stöd till gödsling, ersättning för kolinlagring m.m.) måste vidare vägas noga – dels för att uppnå största nytta i förhållande till kostnaden, men också för att inte underminera eller omöjliggöra marknadslösningar som kan skapa värde från nya värdekedjor.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec13",
+      "sentiment": 1.0,
+      "quote": "Skogforsk anser att en konstruktiv väg framåt skulle vara att utveckla nya metoder för att identifiera dessa synergier, snarare än att fokusera på befintliga, välkända konflikter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "Rådgivningens effektivitet avgörs av hur väl den anpassas till olika skogsägares värderingar, drivkrafter och förutsättningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.8.4",
+      "sentiment": 1.0,
+      "quote": "Satsningar på en värdekedja för lövträ kan gynna svensk möbel- och inredningsindustri samt skapa förutsättningar för utveckling av andra långlivade produkter av lövträ.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/birdlife-sverige": "a27ba3109d1f932cbf1c47b04ac4be2dbd963362611f1077b34ba03392c7a87e",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:09:33+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 32161,
+      "completion_tokens": 5223,
+      "ended": "2026-09-01T17:13:05+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "dda4912cd92f747df9d523b5380580fb7f98e8efc33d226e5dcbdae07fc0d3d1"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Vi delar Naturskyddsföreningens ståndpunkt att delbetänkandet innehåller ett flertal goda förslag som innebär steg i rätt riktning, men på det hela taget är förslagen alltför otillräckliga och i flera fall kontraproduktiva.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.8,
+      "quote": "BirdLife Sverige ser positivt på beredningens förslag om satsningar på rådgivning och åtgärdssamordnare för stärkt biologisk mångfald samt förstärkningar av arbetet med skötsel och restaurering av skyddade områden.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.5,
+      "quote": "Även om vi kan stödja flera av beredningens förslag så är de är djupt otillräckliga för att åstadkomma den förändring som krävs för att svenskt skogsbruk ska bli hållbart.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.5,
+      "quote": "BirdLife Sverige konstaterar att Miljömålsberedningens politiska majoritet, även i detta avseende, har lagt fram förslag som är undermåliga avseende både biologisk mångfald och kolinlagring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": 0.8,
+      "quote": "BirdLife Sverige ställer sig bakom förslagen om miljöersättning för odling av vall och mellangröda",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": 0.8,
+      "quote": "BirdLife Sverige ställer sig bakom förslagen om miljöersättning för odling av vall och mellangröda",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.8,
+      "quote": "Bevarande och återvätning av torv- och våtmarker för att öka nettoinlagringen av koldioxid i markanvändningssektorn är onekligen en av de allra mest effektiva och kostnadsmotiverade åtgärder som Sverige kan tillämpa för att bidra till en bättre framtid för befolkningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": -0.5,
+      "quote": "Att försöka definiera impediment eller räkna in frivilligt avsatta områden som skyddad natur följer inte riktlinjerna från IUCN när det gäller effektivitet, redovisning och långsiktighet .",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.3",
+      "sentiment": -0.8,
+      "quote": "Kalfjällsmiljöer är redan idag kraftigt överrepresenterade i skyddade områden, med 44 % ovan den fjällnära gränsen skyddat som naturreservat eller nationalpark . Det finns vidare inget generellt hinder för skogsbruk inom de områden som utpekats som obrutna fjäll, vilket idag – vid sidan av klimatförändringarna – utgör det största hotet mot naturvärdena inom de obrutna fjällmiljöerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.11",
+      "sentiment": -0.8,
+      "quote": "Improduktiv skogsmark är redan idag kraftigt överrepresenterad i skyddade områden, då ca 24 % av den improduktiva skogsmarken är formellt skyddad, medan motsvarande siffra för den produktiva skogsmarken är 6 % . Att ytterligare öka andelen improduktiv skogsmark i det skydd som rapporteras till EEA skulle göra nätverket av skyddade områden ännu mindre representativt, och kan inte anses ligga i linje med Sveriges åtaganden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.8,
+      "quote": "Sådant förslag saknas emellertid bland de som Miljömålsberedningen slutligen har lagt fram, vilket är ett uppenbart bevis för att beredningens politiska majoritet har misslyckats med uppdraget att presentera förslag som lever upp till de krav som EU ställer på Sverige som medlemsland.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": 0.8,
+      "quote": "Förvaltning av skyddade områden har utgjort en alltmer eftersatt post i den svenska statsbudgeten och vi delar sekretariatets slutsats: ”För att Sverige ska uppnå sina internationella åtaganden för naturskydd och restaurering måste den naturvårdande skötseln öka i de skyddade områdena.”",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": -0.5,
+      "quote": "Det är en stor brist att Miljömålsberedningen har valt att avgränsa sitt uppdrag till frågor som inte hanteras i den nationella restaureringsplanen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 0.8,
+      "quote": "Detsamma gäller förslaget att slopa återbeskogningsplikten i en zon på 25 meter närmast jordbruksmark.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 0.8,
+      "quote": "Föreningen ställer sig bakom förslaget att tillsätta en statlig samordnare för näringslivets arbete med biologisk mångfald.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

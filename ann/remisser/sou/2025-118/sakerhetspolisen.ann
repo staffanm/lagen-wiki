@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/sakerhetspolisen": "31b88bcf39eb07ec89036e37cedd91ee0aeb87945357c850ab3a866daa71c0cb",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:12:37+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12174,
+      "completion_tokens": 2707,
+      "ended": "2026-09-01T15:13:57+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "52dd006a1920ca0525614b5786d9d998b15a096b668f775e53f11acc1a0a0477"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Säkerhetspolisen har i övrigt inga synpunkter på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.8.4",
+      "sentiment": 0.2,
+      "quote": "Säkerhetspolisen kan inte utifrån den mycket allmänt hållna redogörelsen i avsnitt 8.8.4 i betänkandet avgöra om Säkerhetspolisen skulle kunna vara en relevant myndighet att bedöma säkerhets- eller försvarsintressen inom ramen för artikel 32.3 i dataförordningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

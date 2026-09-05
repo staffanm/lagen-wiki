@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:125/sveriges-lantbruksuniversitet": "31d109363ee81a2e29a3760af8b4f1c4bc477c095f415b9bc8e02a6563b6bade",
+      "artifact:forarbete/sou/2025-125": "4284f61cf69e8f899a33937542da90995fd2e5f954e8979f851ddb43b36f6f8d"
+    },
+    "run": {
+      "started": "2026-09-01T14:51:46+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18270,
+      "completion_tokens": 6960,
+      "ended": "2026-09-01T14:55:47+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "524d60dade1db5f2eaa90d0e214c324ac15ff18a90f0b4fbff663b09b93f84c2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Sveriges lantbruksuniversitet (SLU) välkomnar översynen av viltförvaltningslagstiftningen som innebär ett tydligt skifte från en artbaserad reglering till en mer sammanhållen viltförvaltning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.2",
+      "sentiment": 1.0,
+      "quote": "SLU tillstyrker grundprincipen att viltförvaltningen ska sträva efter att vilt bevaras och kan brukas som resurs, samtidigt som negativa effekter begränsas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 0.2,
+      "quote": "SLU bedömer att det bör förtydligas att även jaktträning och jaktprov med hund, som omfattar moment som inte definieras som jakt eller avlivning, som användning av skrämselåtgärder och utsättning av vilt, omfattas av begreppet viltförvaltning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4",
+      "sentiment": 1.0,
+      "quote": "SLU tillstyrker det föreslagna förtydligandet av vad som utgör jakt, särskilt tilläggen om verksamhet som syftar till att döda eller fånga vilt som ofta är en del av viltforskningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.5",
+      "sentiment": 0.2,
+      "quote": "SLU bedömer att förslaget bör kompletteras med betydelsen av djurskyddsaspekter i samband med avlivningen, och att den som utför avlivningen har tillräcklig kompetens för att bedöma djurskyddsaspekter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8.2",
+      "sentiment": -1.0,
+      "quote": "SLU avstyrker förslaget att införa begreppet populationsreglerande jakt på det sätt som utredningen föreslår, eftersom det blir missvisande att använda begreppet populationsreglerande enbart för jakt på vilt där det krävs särskilda beslut med fastställda kvoter eller avskjutningsmål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8.5",
+      "sentiment": 1.0,
+      "quote": "SLU tillstyrker förslaget att införa begreppet Jakt av naturvårdsskäl, då det bedöms som ändamålsenligt, exempelvis för att kunna utföra förvaltningsmärkning av varg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": -0.5,
+      "quote": "SLU avstyrker förslaget att det strängare kriteriet för beslut om skyddsjakt ska tas bort när det handlar om att förstöra bävers dammbyggnad eller boplats under oktober till april, eftersom det bedöms orsaka betydande lidande och försämrad överlevnad för bävern.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.7",
+      "sentiment": 1.0,
+      "quote": "Detta förenklar genomförande av all jakt, inklusive jakt för forskningsändamål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.9.2",
+      "sentiment": 1.0,
+      "quote": "SLU tillstyrker lagstiftningens utformning som bedöms leda till att viltets lidande kan förkortas utan dröjsmål med beaktande av säkerheten, exempelvis i situationer där nuvarande begränsning till jakträttshavaren riskerar att fördröja eftersök och avlivning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.10",
+      "sentiment": -0.2,
+      "quote": "SLU bedömer att regleringen av skyddsjakt på myndighets initiativ skyndsamt bör kompletteras med krav på heltäckande systematisk rapportering och uppföljning av genomförd skyddsjakt på eget initiativ, både för att följa EU:s lagkrav och för en heltäckande rapportering som bidrar till kunskapsbaserad förvaltning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.14",
+      "sentiment": -0.2,
+      "quote": "SLU bedömer att länsstyrelsens villkor för tillstånd, eller anledning till återkallande av tillstånd, för vilthägn ska omfatta att viltet inte utsätts för onödigt lidande, i stället för utredningens förslag att sådana villkor får omfatta att viltet inte utsätts för onödigt lidande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 1.0,
+      "quote": "Detta ger likformighet och förenklar jaktbeslut, vilket även kan påverka jakt för forskningsändamål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3",
+      "sentiment": 1.0,
+      "quote": "SLU tillstyrker definitionen av vakt- respektive smygjakt, då den tydliggör när olika jaktmetoder får användas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.1",
+      "sentiment": 1.0,
+      "quote": "SLU:s viltforskning visar att tilliten till myndigheter och deras beslut är högre på regional än på nationell nivå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.2",
+      "sentiment": 1.0,
+      "quote": "SLU tillstyrker förslaget att undantaget för fångst och flytt av duvhök tas bort, då arten är rödlistad och populationen bedöms minska ytterligare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.6",
+      "sentiment": 1.0,
+      "quote": "Detta för att uppfylla Sveriges internationella åtaganden och möjliggöra uppföljning av mål och åtgärder inom en adaptiv förvaltning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7",
+      "sentiment": 1.0,
+      "quote": "Detta bedöms bidra till uppfyllelsen Sveriges internationella åtaganden och möjliggöra uppföljning av mål och åtgärder inom en adaptiv förvaltning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.8",
+      "sentiment": 1.0,
+      "quote": "Detta bedöms bidra till uppfyllelsen av Sveriges internationella åtaganden och möjliggör uppföljning av mål och åtgärder inom en adaptiv förvaltning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.9",
+      "sentiment": 0.2,
+      "quote": "SLU bedömer att det i en ny jaktlagstiftning bör anges att hänsyn till viltet även omfattar hur länge jaktträning eller jaktprov med hund pågår för att undvika onödig belastning på viltet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.11",
+      "sentiment": 1.0,
+      "quote": "SLU tillstyrker förslagen om forskningsjakt, då de bedöms koppla tydligare mot tolkningen av naturvårdsdirektiven än tidigare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.12",
+      "sentiment": -0.2,
+      "quote": "SLU bedömer att förslaget behöver kompletteras så att förvaltningsmärkning omfattas av krav på etisk prövning i enlighet med djurskyddslagstiftningen, vilket dels säkerställer god etik, dels möjliggör att data från förvaltningsmärkningar kan användas inom forskningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.13",
+      "sentiment": 0.2,
+      "quote": "SLU tillstyrker utredningens förslag om utsättning av vilt, men bedömer att utsättning av fågel för jakt bör regleras för att säkerställa god etik och acceptabla effekter på olika livsmiljöer som exempelvis våtmarker.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.14",
+      "sentiment": 0.2,
+      "quote": "SLU tillstyrker förslaget att Naturvårdsverket tar fram förvaltningsplaner för de stora rovdjuren, men bedömer att Naturvårdsverket även bör ta fram förvaltningsplanerna för gråsäl, knubbsäl och vikare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": -0.2,
+      "quote": "Generellt bedömer SLU att det kan finnas risker med att fler beslut avgörs i domstol, i stället för av myndigheter med sakansvar och kompetens inom viltförvaltning.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/lansstyrelsen-i-vastra-gotalands-lan": "81b902f2b030c3b4a8d9a560b0403ade2ec6f40ec9cb475f06b2f9be5012d28d",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:06:23+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12139,
+      "completion_tokens": 1491,
+      "ended": "2026-09-01T15:07:07+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c8294a34869f48f2881644fa4c41c0374d377bbe32b291266032700ebd4453af"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Västra Götaland tillstyrker utredningens förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.11",
+      "sentiment": -0.2,
+      "quote": "Regeringsuppdragen bör på ett tydligare sätt inkludera framtagande av processer för begäran av data i enlighet med kapitel V i dataförordningen, för datahantering samt för hur datamängders skyddsvärde kan bedömas likvärdigt hos offentliga organ och företag.",
+      "quote_type": "grund"
+    }
+  ]
+}

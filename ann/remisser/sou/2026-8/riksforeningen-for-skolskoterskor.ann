@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/riksforeningen-for-skolskoterskor": "4524c96110217b2bdde7b1250743f8c5abfba4b6c4fb3302b282b0d605bc0a00",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T14:02:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18171,
+      "completion_tokens": 2823,
+      "ended": "2026-09-01T14:03:42+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b46f9f25579588504e7ccf4b3eae4478dd9682ebaf24b12a135ff28c0dd0b456"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "tillstyrker utredningens huvudsakliga inriktning för att stärka barnrättsperspektivet och rättssäkerheten för våra barn och unga i samhällsvård, men önskar framföra några synpunkter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": 1.0,
+      "quote": "Beslut om tvångsvård innebär långtgående konsekvenser för barn och deras familjer och behöver därför vila på ett gediget och tvärprofessionellt underlag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec402",
+      "sentiment": -0.5,
+      "quote": "RFS saknar däremot ett resonemang om skolans och elevhälsans roll under tiden ett barn vårdas enligt LVU samt hur samverkan mellan socialtjänst och skola kan stärkas för att säkerställa barnets rätt till utbildning, hälsa och trygghet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec49",
+      "sentiment": 0.2,
+      "quote": "ett omhändertagande ofta påverkar barnets syskon, som kan uppleva oro, sorg och otrygghet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec158",
+      "sentiment": -0.2,
+      "quote": "Ett ökat inflöde av omfattande utlåtanden och informationsförfrågningar riskerar att påverka möjligheten att genomföra basuppdraget, såsom hälsobesök, vaccinationer och det förebyggande arbetet.",
+      "quote_type": "grund"
+    }
+  ]
+}

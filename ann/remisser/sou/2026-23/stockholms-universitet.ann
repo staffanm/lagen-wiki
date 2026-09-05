@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/stockholms-universitet": "d05aad01f09f913f22e741059b6937aa44ea3887e582cf0d888350b4e9ea8df4",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:55:06+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21311,
+      "completion_tokens": 4170,
+      "ended": "2026-09-01T12:57:26+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "12b3a36949530d0d93fdc61d1e4df498b4beb51c623b4c17c6f1b3bf97687d1b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Stockholms universitet avstyrker förslaget (avsnitt 11.1, s. 273) om att tolkavgift ska tas ut vid tolkning i talade språk.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec367",
+      "sentiment": -1.0,
+      "quote": "utredningen lyckas inte på ett trovärdigt sätt visa att införande av tolkavgifter faktiskt skulle innebära ett viktigt incitament för den enskilda att lära sig svenska.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec539",
+      "sentiment": 0.5,
+      "quote": "Förbudet mot tolkar under 18 år framstår dock inte som motiverat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec398",
+      "sentiment": 0.5,
+      "quote": "det begränsar de ekonomiska effekterna av en tolkavgift",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec479",
+      "sentiment": 1.0,
+      "quote": "många uppgifter som rör grunden för t.ex. undantag eller befrielse från tolkavgift är sådana som omfattas av sekretess med omvänt skaderekvisit i andra verksamheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

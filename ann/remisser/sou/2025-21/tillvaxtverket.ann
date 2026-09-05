@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/tillvaxtverket": "b566bd7b892037a35cc77dc27c4b08e37b178b82065ccfbf5e54bca03982c990",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:57:40+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 51719,
+      "completion_tokens": 4203,
+      "ended": "2026-09-02T01:00:21+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "6fae8ac3463086cbdd9484d07792da681728657599fde9ccae1554eb809a7baa"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Baserat på den senaste växthusgasinventeringen och scenarioanalysen bedöms Sverige inte uppfylla sina åtaganden för perioderna 2021–2025, 2026–2029 eller målet för 2030.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.2.5",
+      "sentiment": -0.2,
+      "quote": "Dock visar utvärderingen att effektiviteten har begränsats på grund av det regelverk som gäller för EU:s landsbygdsprogram och den administrativa börda",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.14.4",
+      "sentiment": -0.2,
+      "quote": "Dock visar utvärderingen att effektiviteten har begränsats på grund av det regelverk som gäller för EU:s landsbygdsprogram och den administrativa börda",
+      "quote_type": "grund"
+    }
+  ]
+}

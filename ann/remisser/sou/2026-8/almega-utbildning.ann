@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/almega-utbildning": "d5e3bb4506070c6b3912b37c86e894fbf9f48db65609bb21030e2e7ecdcf05f2",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:21:36+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17731,
+      "completion_tokens": 789,
+      "ended": "2026-09-01T13:22:19+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "167684610f72d172d2657fba14d23f7508e42a5c97cafea09f2841f5d484afe4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Då det inte finns några skarpa förslag på skolområdet avstår förbundet från att yttra sig över de befintliga förslagen.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

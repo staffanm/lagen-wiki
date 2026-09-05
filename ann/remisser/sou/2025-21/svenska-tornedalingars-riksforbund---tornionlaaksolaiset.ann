@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/svenska-tornedalingars-riksforbund---tornionlaaksolaiset": "245ffa0da6358753c10ddec2ab9af1ea7b4de77cd33176e20ffa160e1b2aa03d",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:19:31+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25851,
+      "completion_tokens": 2050,
+      "ended": "2026-09-02T00:21:02+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0bbff3a7731bf02b8383c355c9381875a7f880100192201ad35cc3becc69fb8f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "ställer sig positivt till ambitionerna för SOU 2025:21, och samtidigt är förbundet kritisk till att TKL:s kunskap och perspektiv inte finns representerat i materialet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.4.2",
+      "sentiment": -0.5,
+      "quote": "å ena sidan har värdefull sakkunskap förbisetts, å andra sidan kommer TKL att påverkas av strategi och förslag som inte beaktar dem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.3",
+      "sentiment": -0.5,
+      "quote": "Sverige har ytterligare ett urfolk som ännu inte är erkänt av svenska staten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 0.8,
+      "quote": "Vasikkavuoma, en av norra Europas största slåttermyr, är en del av TKL:s kulturarv och betydelsefull för den biologiska mångfalden, riskerar att växa igen i och med att de offentliga bidragen har dragits in.",
+      "quote_type": "grund"
+    }
+  ]
+}

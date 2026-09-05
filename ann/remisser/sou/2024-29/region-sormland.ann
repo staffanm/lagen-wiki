@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/region-sormland": "5f5dbde8812d3e34c9b80574941c293dd322ef3b8da5417726dad740f75cd4f9",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:12:06+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23309,
+      "completion_tokens": 3170,
+      "ended": "2026-09-02T06:13:52+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c8e347722ba4228547d5184135171d9a60ece5d9b24d8b7c377a32fd46e494d6"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "parallella utredningar som överlappar bör färdigställas och beredas och vägas i sin helhet innan färdiga förslag tas fram som påverkar de olika aktörerna i systemet",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

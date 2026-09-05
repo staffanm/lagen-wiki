@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/regelradet": "836caf388f5e743b90666af4efe241c955ed62b7876ae86e6750fa797697005a",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:48:54+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19913,
+      "completion_tokens": 2119,
+      "ended": "2026-09-02T05:50:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "89126be14eb649ba47243671c36fc02425c7bcbe5530b9ea6f4c94e628f19ad7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammantaget välkomnar vi Produktivitetskommissionens intresse för regelförenklingsfrågor och förslag till skarpare lösningar för att minska friktionen mellan statlig regelstyrning och näringslivets behov av långsiktiga och förutsägbara lösningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec184",
+      "sentiment": 1.0,
+      "quote": "I dagsläget är det upp till den utredande myndigheten om de vill ta till sig Regelrådets rekommendationer eller ej.",
+      "quote_type": "grund"
+    }
+  ]
+}

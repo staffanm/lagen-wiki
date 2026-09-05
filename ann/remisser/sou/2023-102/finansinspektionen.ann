@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/finansinspektionen": "226cba6711ae6d009b2624ac4112b7c7d2aaba136dddf767889b034310d048b0",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:38:55+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 15448,
+      "completion_tokens": 3446,
+      "ended": "2026-09-01T16:40:46+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "3e8e3cdaafefca6ea009614620edbe7993f667c48690214a003a8aaa6c046dde"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Finansinspektionen (FI) tillstyrker i huvudsak förslaget till lag med kompletterande bestämmelser till EU:s förordning om distribuerade liggare (kompletteringslagen till DLT-förordningen eller kompletteringslagen).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.16",
+      "sentiment": -0.5,
+      "quote": "Sammanfattningsvis anser FI att denna typ av dubbelreglering i fråga om tillsyn och ingripande skapar osäkerhet om vilket regelverk som inspektionen ska tillämpa vid en överträdelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec61",
+      "sentiment": -0.5,
+      "quote": "FI anser att skillnaderna mellan ingripandebestämmelserna i å ena sidan kontoföringslagen och å andra sidan lagen om värdepappersmarknaden och lagen om bank- och finansieringsrörelse talar emot att använda kontoföringslagen som förebild.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec53",
+      "sentiment": -0.2,
+      "quote": "FI anser att det i tillsynen finns behov av att kunna genomföra en platsundersökning hos ett företag till vilken en operatör av en DLT-marknadsinfrastruktur utkontrakterat sin verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec73",
+      "sentiment": -0.5,
+      "quote": "Utredningens förslag riskerar därför att skapa en omotiverad osäkerhet kring hur kontoföringslagen förhåller sig till penningtvättsregelverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.16",
+      "sentiment": -0.2,
+      "quote": "FI uppfattar inte att frågan om hur den avsedda begränsningen till periodisk rapportering förhåller sig till den föreslagna 6 kap. 2 § kompletteringslagen och den föreslagna ändringen i GDB-lagen har behandlats i utredningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "FI uppfattar att föreslagna 7 kap. 1 § första stycket andra meningen kompletteringslagen ska hänvisa till 5 kap. 3 § första stycket samma lag, inte till 6 kap. 3 §.",
+      "quote_type": "grund"
+    }
+  ]
+}

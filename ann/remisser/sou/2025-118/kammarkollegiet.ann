@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/kammarkollegiet": "e6abf70c40d4be6eb924b4e1090fc7ee6ace0c66d023dd3adc7454548784db08",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T14:58:57+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12074,
+      "completion_tokens": 3541,
+      "ended": "2026-09-01T15:00:44+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "eb50026544ef31d3f754abd2e7eca7adb08b5e8996ee06ccd54449a79825c4a8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kammarkollegiet har inga synpunkter på betänkandet, men önskar framhålla följande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": 1.0,
+      "quote": "Vi delar utredningens bedömning av förslag på certifierande myndighet och att det är av särskild vikt att den myndigheten besitter mycket god kunskap om tillgängliggörande av data.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5.7",
+      "sentiment": -0.2,
+      "quote": "Vi noterar dock att överväganden kring detta saknas i avsnitt 5.5.7 och har därför svårt att ta ställning till denna del av förslaget.",
+      "quote_type": "grund"
+    }
+  ]
+}

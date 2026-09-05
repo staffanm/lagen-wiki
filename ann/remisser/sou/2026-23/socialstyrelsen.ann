@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/socialstyrelsen": "ecf60eebd86598c743dc24918ace5142e4772d993aeca7dd687272b86687a4d7",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T13:15:26+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18023,
+      "completion_tokens": 4617,
+      "ended": "2026-09-01T13:17:54+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ad4719e8a2cef68690f5759480ab8d15ca316ee8bbe1b006515ab2026737a272"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Dessutom visar erfarenheterna från Danmark att kostnaderna för att driva in och administrera tolkavgifterna överstiger intäkterna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9",
+      "sentiment": 1.0,
+      "quote": "Att ha tillgång till tolk vid myndighetskontakter är ofta avgörande för att den enskilde ska kunna ta tillvara sina rättigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.11",
+      "sentiment": -1.0,
+      "quote": "För den som har ett annat förstaspråk än svenska kan detta innebära särskilda svårigheter att kommunicera sina behov och förstå information i kontakter som rör stöd och insatser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.7",
+      "sentiment": 0.2,
+      "quote": "För att det inte ska råda någon tvekan om att även personer som saknar rätt att vistas i landet omfattas av rätten till avgiftsfri tolk vid kontakter med hälso- och sjukvården, tandvården och socialtjänsten anser Socialstyrelsen att författningskommentaren, i den fortsatta beredningen av ärendet, bör kompletteras med skrivningar som tydliggör detta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.7",
+      "sentiment": 1.0,
+      "quote": "Förbudet skyddar barn från att bära det tunga ansvaret att förmedla information i komplexa, känsliga eller konfliktfyllda ärenden.",
+      "quote_type": "grund"
+    }
+  ]
+}

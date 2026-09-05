@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lantbrukarnas-riksforbund-lrf": "53724c3c3b85e6d6b1bc8e7a10f25f7eb22ebbd0ebcb6a1bfdec8a6b08ed28b8",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T18:08:21+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26539,
+      "completion_tokens": 3638,
+      "ended": "2026-09-01T18:10:23+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "32efeef053fbe280b61e5f20bde13bccc4e13a2aa322a736b0d66ac16872c911"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "LRF har fått Miljömålsberedningens betänkande på remiss och vill lämna nedanstående synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.2,
+      "quote": "De bör kunna få vara anställda inom lantbrukets rådgivningsorganisationer som exempelvis Hushållningssällskapet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": -0.2,
+      "quote": "LRF önskar att analysen fördjupas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.5,
+      "quote": "Här är det nödvändigt att säkerställa att tillräckligt med odlingstorv för exempelvis plantskolor och kommersiella trädgårdsodlingar kommer finnas tillgängligt så länge det inte finns andra likvärdiga alternativ som kan produceras i tillräcklig mängd i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -0.5,
+      "quote": "LRF tycker att det finns oklarheter om vilka konsekvenser en sådan ny princip kan få och det behövs en mer djupgående konsekvensutredning.",
+      "quote_type": "grund"
+    }
+  ]
+}

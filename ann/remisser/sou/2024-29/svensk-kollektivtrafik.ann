@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/svensk-kollektivtrafik": "d8e340e319a6d511bceb7badeb9894ac375d90efe5c9fb85c749227cec8d4c75",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T07:28:56+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 35804,
+      "completion_tokens": 6216,
+      "ended": "2026-09-02T07:32:57+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "cf6ba0aa4657cf11fba9bc566bf8ece61fa898e671974e068c8121fc91faf4df"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "En generell kritik som Svensk Kollektivtrafik vill rikta mot de två betänkandena är att förslag och bedömningar inte har analyserats och utretts ordentligt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.7.1",
+      "sentiment": -0.2,
+      "quote": "Svensk Kollektivtrafik delar inte Produktivitetskommissionens starka tro på samhällsekonomiska beräkningar på bland annat transportområdet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": -0.5,
+      "quote": "Förslagen att ansvaret för att sätta kalkylräntan för statens investeringar i infrastruktur bör flyttas från Trafikverket till Riksgäldskontoret och baseras på statens upplåningskostnad samt en riskkomponent inte har inte analyserat i betänkandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": 0.2,
+      "quote": "det kommer att leda till att underhållsåtgärder i ännu högre utsträckning än i dag kommer att anslås till väginfrastruktur och till järnvägsstråk med hög andel tjänsteresenärer",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.4",
+      "sentiment": 0.5,
+      "quote": "Riksrevisionen har under de senaste fem åren gjort flera granskningar där Trafikverkets arbete kritiserats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.5",
+      "sentiment": -0.2,
+      "quote": "Detta skulle i praktiken innebära att statens viktigaste myndighet på trafikområdet, Trafikverket, skulle överge de transportpolitiska målen som styrande mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.6",
+      "sentiment": 1.0,
+      "quote": "Många diskussioner kring att höja produktiviteten i upphandling och verksamhet faller i dag på att det saknas tillförlitliga data för att dra tydliga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.7",
+      "sentiment": 1.0,
+      "quote": "Detta föreslogs redan 2015 i betänkandet Koll på anläggningen (SOU 2015:42), men tyvärr har detta inte kommit på plats ännu.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.8",
+      "sentiment": 0.5,
+      "quote": "saknas det en analys av vilka upphandlingskrav som kan anses vara rimliga i betänkandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.9",
+      "sentiment": -1.0,
+      "quote": "För kollektivtrafikresenärerna skulle en harmonisering av dagens tre momssatser (6, 12 och 25 procent) till en enhetlig momsnivå innebära att skatten på resor med buss, tåg, spårvagn, tunnelbana och skärgårdsbåt höjs från 6 till cirka 25 procent.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/svenska-lakaresallskapets-sls": "e21b6429d872298e6f4f66957bf4ba97224395b17f0347c0a15f3143ab5658b9",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:28:39+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 30656,
+      "completion_tokens": 6177,
+      "ended": "2026-09-01T16:32:24+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "468b1b51716facc8bb9311aeb4727f29cae102e3b0e0096ae56bf8045cede7a4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Svenska Läkaresällskapet ställer sig i huvudsak positiv till utredningens förslag och bedömningar, men vill inkomma med några synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2.1",
+      "sentiment": 0.2,
+      "quote": "Baserat på erfarenheter kring nu gällande kostnadsfrihet en farhåga kring tydlighet, informationsinsatser, behov av stöd i journal- och bokningssystem samt kring hur regionerna skall ersättas för ytterligare förlorade patientintäkter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3.1",
+      "sentiment": 1.0,
+      "quote": "Det är mer ändamålsenligt att koppla åtgärder till respektive sjukdom än enbart till två huvudgrupper av smittsamma sjukdomar såsom allmänfarliga eller samhällsfarliga sjukdomar samt övriga smittsamma sjukdomar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3.2",
+      "sentiment": -0.2,
+      "quote": "SLS anser att kliniskt verksamma infektionsläkares kompetens behöver finnas med både i det inledande regeringsuppdraget och i den årliga översynen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 0.5,
+      "quote": "Vetenskapliga studier talar entydigt för att smittrisken är i stort sett obefintlig vid låga virusnivåer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.3",
+      "sentiment": 1.0,
+      "quote": "Det är önskvärt att förmedlingen av skyldigheter till den enskilda individens förtydligas, och även hur den enskilda patienten kan bestrida förmedlade skydligheter rent praktiskt i förekommande fall.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4",
+      "sentiment": 0.5,
+      "quote": "Det bör dock finnas tydliga vägledande underlag och rekommendationer för att den behandlande läkaren ska ha möjlighet att fatta beslut om när förhållningsregler ska ges.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 1.0,
+      "quote": "Den överensstämmer bättre med hur arbetet utförs i nuläget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.7",
+      "sentiment": 1.0,
+      "quote": "Individuellt utformade förhållningsregler bidrar till en mer effektiv begränsning av smittspridning då hänsyn tas till den enskilda individens specifika situation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": -0.2,
+      "quote": "Vid akuta infektioner går det ofta att uppskatta hur länge smittsamheten och behovet av förhållningsregler kvarstår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.9",
+      "sentiment": 0.2,
+      "quote": "Som utredningen visat, är det redan idag en allt för bristfällig dokumentation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.14",
+      "sentiment": -0.2,
+      "quote": "Det är stor skillnad i förutsättningar mellan de kliniker som vårdar ett stort antal patienter och de mindre.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.16",
+      "sentiment": 0.5,
+      "quote": "Här bör utarbetas rikstäckande mallar för de intyg som ska bifogas om de råd enligt smittskyddslagen som getts av den behandlande läkaren.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Vi instämmer i utredarens resonemang om rikskod inte längre är ändamålenlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1.5",
+      "sentiment": 1.0,
+      "quote": "Vi är positiva till den nya skrivningen att ett smittämne inte måste vara idenfierat för att det ska vara en smittsam sjukdom.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.1.7",
+      "sentiment": 1.0,
+      "quote": "Detsamma gäller det så kallade snabbförfarandet, att kunna klassa fler sjukdomar som samhällsfarliga i beredskapssyfte samt att Folkhälsomyndigheten ska kunna fatta beslut om extraordinära smittskyddsåtgärder redan innan en sjukdom klassificerats som samhällsfarlig.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 0.5,
+      "quote": "Detta bör åtföljas av ett reciprokt ansvar för andra berörda myndigheter att samverka med Folkhälsomyndigheten i dessa frågor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": 1.0,
+      "quote": "Vi ställer oss också bakom förslaget att smittskyddsläkaren ska vara direkt underställd regiondirektör eller hälso- och sjukvårdsdirektör.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.3.7",
+      "sentiment": -0.5,
+      "quote": "Vid större utbrott eller pandemier kan detta leda till svårhanterlig situation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.4",
+      "sentiment": -0.2,
+      "quote": "SLS anser att man bör förtydliga hur det operativa ansvaret ska fördelas mellan Folkhälsomyndigheten och berörda smittskyddsläkare, framför allt vid ﬂygplatser, hamnar och liknande eller vid händelser som berör ﬂera regioner när många smittskyddsenheter är i behov av stöd och det behövs nationell samordning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.1",
+      "sentiment": -0.5,
+      "quote": "SLS befarar att det kan öka arbetsbelastningen, framför allt om vanliga infektioner framöver blir smittspårningspliktiga utan att vara allmänfarliga.",
+      "quote_type": "grund"
+    }
+  ]
+}

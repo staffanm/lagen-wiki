@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/lansstyrelsen-i-jonkopings-lan": "d5c1579b1e2cc2312810ef0bd78d7e547c37bc67e2a71e4ac1a324581bff757e",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:49:41+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19071,
+      "completion_tokens": 3592,
+      "ended": "2026-09-01T12:51:37+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "88164c21a27f00f4d7714e30f4875605fbca9b7df36a454b9cf083f8bfe05eba"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "En avgift saknar stöd i forskning och riskerar att: • Minska användningen av tolk, vilket kan leda till misstolkningar, rättsosäkerhet och minskad tillit till myndigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -1.0,
+      "quote": "För personer med låg utbildning, språksvårigheter, funktionsnedsättning eller hög ålder blir en avgift ett direkt hinder för att få sina rättigheter tillgodosedda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.5,
+      "quote": "För att säkerställa rättssäkerhet och likabehandling bör undantagen även omfatta: • Utrikes födda kvinnor som varit föräldralediga och därmed inte kunnat delta i arbetsmarknadsförberedande insatser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2.1",
+      "sentiment": -1.0,
+      "quote": "Tung administrativ börda för staten, med risk för långa handläggningstider och ökade kostnader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.3",
+      "sentiment": 0.5,
+      "quote": "För att uppdraget ska bli effektivt och rättssäkert krävs dock: • Tydliga mål och resultatkrav för att säkerställa att informationen når fram till målgruppen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker utredningens förslag om ett förbud mot att använda barn som tolkar samt delar utrednings bedömning kring undantagsfallen.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

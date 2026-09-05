@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/haparanda-kommun": "4bd118bb6c1e430671dfed52de665e10b420c157fca8720cbf25ae1288f643dc",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:55:01+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21172,
+      "completion_tokens": 2281,
+      "ended": "2026-09-01T15:56:15+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "765e1d65e2847e8e195c6e0d486f6162106d0b1efb96804496843a2f5adee0f6"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Nämnden bedömer att förslagen kan bidra till ett mer kunskapsbaserat, rättssäkert och långsiktigt hållbart smittskydd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 1.0,
+      "quote": "En nationell samordning kan bidra till mer likvärdiga arbetssätt och kunskapsstöd över landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 0.8,
+      "quote": "Förslagen ligger väl i linje med hälso- och sjukvårdslagens och socialtjänstens grundprinciper om självbestämmande och integritet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": 0.8,
+      "quote": "en tydligare roll för den regionala smittskyddsläkaren kan skapa bättre förutsättningar för samverkan mellan kommunen, regionen och nationella myndigheter vid utbrott och andra smittskyddshändelser.",
+      "quote_type": "grund"
+    }
+  ]
+}

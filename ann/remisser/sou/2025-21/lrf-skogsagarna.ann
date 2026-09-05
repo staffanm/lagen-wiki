@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lrf-skogsagarna": "377377302a763a0e219faf1ebdaea7b071e5859086b09490a17ffc03813c5aa5",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T18:13:18+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 29545,
+      "completion_tokens": 3453,
+      "ended": "2026-09-01T18:15:20+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "51307828481f32fe46ea4e774193bdcb466e0e03cb99ab5d0d728dc2beea2ffd"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Totalt sett föreslår ändå miljömålsberedningen huvudsakligen tolkningar av våra internationella åtaganden som inte tvingar in Sverige i brukandebegränsningar vi inte åtagit oss.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec186",
+      "sentiment": 0.5,
+      "quote": "Åtgärder för att öka kollagret i skogen bör därför i första hand utgöras av tillväxthöjande insatser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec193",
+      "sentiment": 0.2,
+      "quote": "tror nyttan ur ett LULUCF-perspektiv är begränsad då samma virkesmängd riskerar att tas ut på andra platser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.5,
+      "quote": "Detta är ett problematiskt förslag som innebär en tydlig inskränkning i äganderätten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 0.5,
+      "quote": "LRF Skogsägarna stödjer i huvudsak förslagen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.5,
+      "quote": "Här är det nödvändigt att säkerställa att tillräckligt med odlingstorv för exempelvis plantskolor och kommersiella trädgårdsodlingar kommer finnas tillgängligt så länge det inte finns andra likvärdiga alternativ som kan produceras i tillräcklig mängd i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -0.5,
+      "quote": "LRF Skogsägarna anser att sådana generella undantag inte kan införas utan mer djupgående konsekvensutredning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": -0.5,
+      "quote": "Detta är en feltolkning av IUCN:s vägledning som står helt i strid med vad andra länder betraktar som skyddad natur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -0.5,
+      "quote": "det är uppenbart att samma typ av skog åsyftas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.1",
+      "sentiment": -1.0,
+      "quote": "I praktiken blir allt skydd strikt skydd med detta förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1",
+      "sentiment": -0.5,
+      "quote": "Kapitlet i betänkandet speglar en alltför statisk syn på förlust och bevarande av biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": -1.0,
+      "quote": "Förslaget skulle skapa mycket stor rättsosäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20",
+      "sentiment": -1.0,
+      "quote": "Förslagen innebär bland annat ett generellt skydd för ur- och naturskogar med en alltför vid definition.",
+      "quote_type": "grund"
+    }
+  ]
+}

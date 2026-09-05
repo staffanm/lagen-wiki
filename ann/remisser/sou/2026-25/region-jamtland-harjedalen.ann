@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/region-jamtland-harjedalen": "03432caf781ad11fcaf7f42dd517723a6b73b8e14488a91a7e9916a3b5e77c80",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:38:03+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19939,
+      "completion_tokens": 2566,
+      "ended": "2026-09-01T15:39:25+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e680c1bdabee20c77fe36aa382031e85efdad467d0acbd6ef8aac65d8c99c776"
+    }
+  },
+  "overall": {
+    "sentiment": 0.7,
+    "quote": "Förslagen bedöms sammantaget bidra till ett mer proaktivt och samordnat smittskydd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec8",
+      "sentiment": 1.0,
+      "quote": "Det är rimligt att inte behålla informationsplikten för hiv, givet de medicinska framsteg som gjorts.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.15",
+      "sentiment": 0.2,
+      "quote": "Önskemål om nationell dragning/utbildning om vad förändringen innebär i praktiken för landets infektionsläkare och andra behandlande läkare till patienter med diagnoser som idag klassas som allmänfarliga sjukdomar och är belagda med förhållningsregler.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 1.0,
+      "quote": "Bra att Fohm blir ensam samordnande funktion istället för att, som idag, ansvaret delas mellan Socialstyrelsen och Folhälsomyndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1.2",
+      "sentiment": 1.0,
+      "quote": "Förslagen bedöms sammantaget bidra till ett mer proaktivt och samordnat smittskydd.",
+      "quote_type": "grund"
+    }
+  ]
+}

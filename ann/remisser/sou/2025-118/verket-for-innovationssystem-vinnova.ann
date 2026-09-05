@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/verket-for-innovationssystem-vinnova": "1e8c36844418b0420942f494966bc36d4d0dc02718c3cc5f4579b10aef8c619c",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:16:36+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 25066,
+      "completion_tokens": 3654,
+      "ended": "2026-09-01T15:18:24+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7892febdf68845eaeb535da1eb97b2c199e30b626320d94802469ea36c123f1d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vinnova är positiv till de förslag som lämnas i betänkandet om svenska kompletterande bestämmelser till EU:s dataförordning och tillstyrker därför förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.1.1",
+      "sentiment": 1.0,
+      "quote": "En mer samlad myndighetsstruktur för digitaliseringsfrågor ger bättre förutsättningar för samordning och tydligare ansvar när det gäller frågor om bland annat datadelning, interoperabilitet och AI.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": 1.0,
+      "quote": "EU:s dataförordning är komplicerad och innehåller flera bestämmelser som är svåra att tolka och tillämpa i praktiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "Utan sådan vägledning finns en risk för osäkerhet både hos myndigheter och företag.",
+      "quote_type": "grund"
+    }
+  ]
+}

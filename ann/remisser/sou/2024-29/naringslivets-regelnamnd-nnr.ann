@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/naringslivets-regelnamnd-nnr": "999b8792d5f4e83b15943e56e41b11f540988ee2291950f828523bcead36aeb9",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:31:52+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 29611,
+      "completion_tokens": 4863,
+      "ended": "2026-09-02T05:34:48+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "4fe7a1bd8461b7dbf71b663f0a29d1c15bfa7735c5af1f2c4f1ab752ae524f40"
+    }
+  },
+  "overall": {
+    "sentiment": 0.7,
+    "quote": "NNR välkomnar utredningen och många av dess förslag, vilka är mycket positiva ur ett regelförbättringsperspektiv.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.1.2",
+      "sentiment": 1.0,
+      "quote": "En övergripande princip som Produktivitetskommissionen (5.1.2) tar upp, och som NNR fullt ut stöder, är att regler kontinuerligt behöver prövas och uppdateras.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.1.3",
+      "sentiment": 1.0,
+      "quote": "Detta då näringslivet står för den största delen av samhällets produktion, och därmed har störst betydelse för den samlade produktivitetsutvecklingen i ekonomin.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.4",
+      "sentiment": 0.8,
+      "quote": "NNR håller med Produktivitetskommissionen (avsnitt 5.4) om vikten av en väl fungerande regelgivningsprocess med krav på konsekvensutredning inför införandet av nya regelverk och att regelgivningsprocessen behöver stärkas",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5.1",
+      "sentiment": 1.0,
+      "quote": "NNR är helt enig med Produktivitetskommissionen om att Sverige i dag har otillräckliga ramverk och processer för regelförenkling, varför det krävs ett antal förbättringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.5.2",
+      "sentiment": 1.0,
+      "quote": "NNR menar att Förenklingsrådets bedriver ett långsiktigt och effektivt förenklingsarbete som är av stort värde för processen att hantera näringslivets inspel gällande förslag till regelförbättringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.2",
+      "sentiment": -0.2,
+      "quote": "Regelrådet behöver ha ett starkt oberoende såsom myndighet i sin egen rätt, eller eventuellt infogas i en verksamhet med liknande prioriteringar, för att kunna bli den blåslampa för förbättring som NNR menar att det finns potential för",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": 1.0,
+      "quote": "NNR tillstyrker detta.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6.4",
+      "sentiment": 1.0,
+      "quote": "kommunerna behöver involveras mer i regelförenklingsarbetet, inte bara för synpunkter utan också för åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.5",
+      "sentiment": 0.5,
+      "quote": "Ur NNRs perspektiv förefaller detta vara kraftigt i underkant.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.6",
+      "sentiment": 1.0,
+      "quote": "NNR tror att detta är ett avgörande krav för att det ska bli verklig verkstad i regelförbättringsarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.9",
+      "sentiment": 0.8,
+      "quote": "NNR ser positivt på förslaget men vill lägga till att regeringen bör driva på inte bara förenkling utan också regelförbättring i EU-samarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.10",
+      "sentiment": 1.0,
+      "quote": "NNR delar den bedömningen",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6.11",
+      "sentiment": 1.0,
+      "quote": "NNR menar att det för den nationella konkurrenskraften är helt avgörande att få in åtgärder som förenklar på den lokala nivån, där de allra flesta små och mellanstora företag har sina huvudsakliga myndighetskontakter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.7",
+      "sentiment": 0.5,
+      "quote": "NNR finner detta en intressant och relevant tanke utifrån behovet av en på totalen minskad regelbörda.",
+      "quote_type": "grund"
+    }
+  ]
+}

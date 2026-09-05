@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/jokkmokks-kommun": "c729144ec13ff251c79be2d26e4fa5abf809e10218d1a335d592504ed2b6966f",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:45:48+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17481,
+      "completion_tokens": 2466,
+      "ended": "2026-09-01T13:47:22+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c8a8527ff2752521612f1e4e292eb53407c039dc932569b10114fc54a211234c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Betänkandet och utredarnas svar visar på en rad förstärkningar som vi i Jokkmokks kommun ställer oss positiva till, men vi har några synpunkter som vi vill framföra",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec357",
+      "sentiment": -0.2,
+      "quote": "Gällande domstolsprövning av 3 § LVU var sjätte månad ställs frågor hos oss utifrån tidsaspekten och om domstolsverket verkligen har möjlighet att hinna med detta och om vad som händer vid eventuella tidsfördröjningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec174",
+      "sentiment": -0.2,
+      "quote": "Gällande sakkunniga hos Socialstyrelsen? Frågor ställs hos oss hur detta ska kunna utformas på ett rättssäkert sätt och även hur tidsaspekter ska kunna hållas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec223",
+      "sentiment": 1.0,
+      "quote": "Vi håller med utredningen om att åklagare ej ska ges möjlighet till att skyddsbedöma samt ta beslut om omedelbart omhändertagande, i stället bör fokus vara på att utveckla samverkan och arbetssätt mellan de inblandade myndigheterna.",
+      "quote_type": "grund"
+    }
+  ]
+}

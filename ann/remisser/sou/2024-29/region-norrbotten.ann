@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/region-norrbotten": "629a2fa212f6c7c57dc1ef8ee3d930f8190ccd86b6ffe245516859c752dabb59",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:04:19+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 46020,
+      "completion_tokens": 4136,
+      "ended": "2026-09-02T06:07:30+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "29e734a263bca8062e2503be1e80ff72c6c46e1bf12e47ad4c03f3ce1578cda9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utifrån detta perspektiv välkomnar Region Norrbotten stora delar av kommissionens analys, men bedömer att flera reformförslag behöver kompletteras med tydligare statligt ansvar, territoriell anpassning och konsekvensanalyser, särskilt avseende ekonomiska och administrativa effekter för kommuner och regioner.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.2,
+      "quote": "Generella tidsfrister och standardiserade processer kan därmed få ojämna effekter och i vissa fall leda till sämre beslutsunderlag, ökad konflikt och minskad legitimitet i genomförandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.2,
+      "quote": "Reformförslag som i huvudsak syftar till att öka utbudet där efterfrågan och betalningsviljan redan är hög får begränsad effekt i regioner där huvudproblemet är att projektkalkyler inte bär, trots stort samhällsekonomiskt behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.5,
+      "quote": "I norra Sverige är bristande robusthet och redundans inte en marginalfråga, utan ett grundläggande strukturellt hinder för produktivitet, konkurrenskraft och försörjningstrygghet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.5,
+      "quote": "Bristande utbildningskvalitet minskar andelen elever som blir behöriga till gymnasiets högskoleförberedande program och vidare till högre utbildning, vilket på sikt försvagar tillgången till kvalificerad arbetskraft i regioner som samtidigt är i stort behov av teknisk kompetens.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": -0.2,
+      "quote": "Kommuner och regioner får därmed bära en oproportionerligt stor del av de praktiska omställningskostnaderna, trots att värdeskapandet i hög grad sker lokalt.",
+      "quote_type": "grund"
+    }
+  ]
+}

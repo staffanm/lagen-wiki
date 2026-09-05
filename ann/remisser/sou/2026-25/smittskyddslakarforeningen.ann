@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/smittskyddslakarforeningen": "0fc12e23610b0fbbb53df424d824a0dc381b133a4d5bdaadfca4d62b23aadb43",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:08:29+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23868,
+      "completion_tokens": 4892,
+      "ended": "2026-09-01T16:11:14+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8262d5b0bfda34114bb348c61b042c5e351bc6e6e35065d3b96694e36c0e2757"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi ser därför ett behov av en genomtänkt omställningsperiod, nationellt stöd och realistiska förutsättningar för implementering, inte minst mot bakgrund av att flera av de kompetenser som reformen bygger på redan idag är begränsade resurser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3.2",
+      "sentiment": 1.0,
+      "quote": "då det ger en möjlighet att snabbare kunna ta bort eller lägga till sjukdomar från listan på allmänfarliga och/eller smittspårningspliktiga sjukdomar och därmed tillgodose att klassificeringen är ändamålsenlig och proportionerlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.1",
+      "sentiment": 1.0,
+      "quote": "Smittskyddsläkarföreningen delar utredningens bedömning att det är angeläget att behålla möjligheten till beslut om kostnadsfrihet för undersökning, vård och behandling för vissa sjukdomar, även om smittskyddslagens bestämmelser om allmänfarliga sjukdomar i övrigt inte bedöms vara nödvändiga.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.2.3",
+      "sentiment": 0.5,
+      "quote": "Detta kan försvåra smittskyddsläkarens utredningsarbete av sjukdomar som endast är smittspårningspliktiga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 0.5,
+      "quote": "Det kan dock finnas undantagssituationer där en sexualpartner kan utsättas för beaktansvärd risk för smitta och där information om smittan kan vara avgörande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 0.2,
+      "quote": "I värsta fall skulle en sådan bedömning kunna grunda sig på rena fördomar om olika grupper i samhället och leda till en ojämlik behandling där olika läkare gör olika bedömningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.10",
+      "sentiment": -0.2,
+      "quote": "Om läkaren istället behöver ge förhållningsregler efter att frivilliga råd och stöd misslyckats kan det bli svårt att genomföra för att det är svårt att få kontakt med patienten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.12",
+      "sentiment": 1.0,
+      "quote": "Smittskyddsläkarföreningen ser positivt på detta.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.9",
+      "sentiment": 1.0,
+      "quote": "Vi stöder även förslagen om ett antal förtydliganden i de fall förhållningsregler ges – att en bedömning av behovet ska värderas fortlöpande och minst en gång per år och att det ska dokumenteras i journalen både vilka förhållningsregler som är givna och när de upphör.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.11",
+      "sentiment": -0.2,
+      "quote": "Smittskyddsläkarföreningen anser att det är något oklart i vilka situationer en skyldighet att informera ska kunna ges som förhållningsregel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": -0.5,
+      "quote": "En majoritet av bladen har under de senaste åren genomgått omfattande revideringar som lett till förbättringar på de områden som pekas ut",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "då nuvarande ordning leder till flera svårigheter med risk för felaktigheter i övervakning och uppföljning på smittskydden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1.7",
+      "sentiment": 1.0,
+      "quote": "Smittskyddsläkarföreningen ställer sig positiva till dessa förslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 1.0,
+      "quote": "att en myndighet får det samlade ansvaret för vårdhygienfrågor och att detta blir Folkhälsomyndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": 1.0,
+      "quote": "erfarenheter från pandemin visade värdet av att smittskyddsläkaren är placerad centralt i regionen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.8",
+      "sentiment": -1.0,
+      "quote": "Beteckningen regional smittskyddsläkare kan tvärt om skapa en otydlighet och antyda att det även finns någon annan sorts smittskyddsläkare, vilket inte är fallet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.7",
+      "sentiment": -0.5,
+      "quote": "En ensam smittskyddsläkare innebär en stor sårbarhet både i normalläge och ännu mer i en situation med ökad arbetsbelastning som ett stort utbrott eller en pandemi.",
+      "quote_type": "grund"
+    }
+  ]
+}

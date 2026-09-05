@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/ecogain": "753b18000342cebb636e99348661bd817ace5c12f1f2333ef7aec3c4a2c300fc",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:15:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 31423,
+      "completion_tokens": 5683,
+      "ended": "2026-09-01T17:18:57+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2561a00f719faf218dae590b60b91752b7f528f0a94e2a9c8e097e85f59c9f78"
+    }
+  },
+  "overall": {
+    "sentiment": 0.7,
+    "quote": "Ecogain bedömer att förslaget har stor potential att tillhandahålla verktyg både för samhällets klimatomställning i allmänhet och de åtaganden Sverige gjort rörande artbevarande, skydd och restaurering av naturmiljöer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 1.0,
+      "quote": "En gemensam vision och målsättning ger gemensam kraft och riktning, vilket i sig ökar takten i omställningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": 0.5,
+      "quote": "För ökad förutsägbarhet och jämförbarhet förordar vi en fortsatt användning och vidareutveckling av CLIMB-metodiken som mätverktyg för att kvantifiera nuvärdet av biologisk mångfald inom ett avgränsat område och den framtida effekt olika insatser ger på densamma.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.1",
+      "sentiment": -0.2,
+      "quote": "Det gör det svårt att bedöma genomförbarheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": 1.0,
+      "quote": "Tillgång till data är en viktig del för att prioritera insatser där de gör bäst nytta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.2",
+      "sentiment": 1.0,
+      "quote": "ambitiöst och bra för att säkerställa välinformerade beslut om skydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.10",
+      "sentiment": 1.0,
+      "quote": "De stora skogsbolagens frivilliga naturvårdsavsättningar utgör ett betydande och högkvalitativt bidrag till skyddet av skogsmiljöer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": -0.2,
+      "quote": "Ecogain delar utredningens bedömning om att också skötsel av våtmarker är viktig och behöver finansieras",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 1.0,
+      "quote": "ett exempel på en förenkling med stor naturvårdspotential.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec186",
+      "sentiment": -0.2,
+      "quote": "viktigt att inte utföra detta i områden där gödslingen riskerar orsaka ett skifte från blåbär till lågörtsvegetation samt på ljung-lingonmarker som är viktiga för rennäringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec181",
+      "sentiment": -0.2,
+      "quote": "Vi anser dock att formuleringarna om hyggesfritt skogsbruk som skonsamt för skuggföredragande arter är för förenklade.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec424",
+      "sentiment": -0.5,
+      "quote": "Gränsen om 180 år för barrskog i Norrland eller 160 år i södra Sverige bedömer vi vara högt satt.",
+      "quote_type": "grund"
+    }
+  ]
+}

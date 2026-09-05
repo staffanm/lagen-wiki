@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/leyton-sverige-ab": "adf117be1a5d21195a3a6387e3881e3d7ae86c106571ae5173f1494330034a42",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:37:30+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19955,
+      "completion_tokens": 1833,
+      "ended": "2026-09-02T04:38:28+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b4ea19858d8ef6b34fc02d613c3edecf86c05debc65f446a495dbe865fef0aeb"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Genom dessa erfarenheter har vi en djup förståelse för den viktiga roll som skatteincitament för FoU har för ett lands produktivitet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.5.7",
+      "sentiment": 0.2,
+      "quote": "Denna åtgärd är dock i sig inte nödvändigtvis produktivitetshöjande, eftersom avdragets utformning exempelvis medför risken att företag omprioriterar sin arbetskraft för att maximera avdraget utan att nödvändigtvis öka sina FoU-insatser.",
+      "quote_type": "grund"
+    }
+  ]
+}

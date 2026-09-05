@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/rfsu--riksforbundet-for-sexuell-upplysning": "accbef1f4c2131df5215ea8a92e06cce5f241af84839cd88191451a6100ad864",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:26:50+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21047,
+      "completion_tokens": 3405,
+      "ended": "2026-09-01T16:28:39+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "26d48ac4cff033744eab372bd151f7b3648b998d14428e49143c0785d099f43a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.9,
+    "quote": "RFSU tillstyrker Förslag till lag om ändring i smittskyddslagen (2004:168) 4 kap, RFSU tillstyrker Förslag till lag om ändring i socialförsäkringsbalken, RFSU tillstyrker Förslag till förordning om ändring i smittskyddsförordningen (2004:255) som stärker och förtydligar Folkhälsomyndighetens roll, RFSU tillstyrker Förslag till förordning om ändring i förordningen (1994:1121), RFSU tillstyrker Förslag till förordning om ändring i förordningen (2013:412) om vårdavgifter m.m. för utlänningar som vistas i Sverige utan nödvändiga tillstånd, RFSU tillstyrker Förslag till förordning om ändring i förordningen (2021:248) med instruktion för Folkhälsomyndigheten.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.11",
+      "sentiment": 1.0,
+      "quote": "Hiv överförs i första hand av personer som ännu inte känner till att de lever med hiv, och som därför enligt dagens lagstiftning inte omfattas av någon informationsplikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.1",
+      "sentiment": 1.0,
+      "quote": "det bidrar till att minska överföring av såväl hiv som andra sexuellt överförbara infektioner.",
+      "quote_type": "grund"
+    }
+  ]
+}

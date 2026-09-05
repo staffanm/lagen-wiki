@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/region-sormland": "9bc97023de9681193a0e39cb23381e0a528e85d772a4e4b165a612799652fb61",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:53:17+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17380,
+      "completion_tokens": 3461,
+      "ended": "2026-09-01T12:55:06+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b0deb494158f79a19c923aa21fd962c37596c323ab22714d0cd882cf9e97db02"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Region Sörmland tillstyrker förslaget om förbud mot barntolkning och bedömer att förslaget stärker barnets rättigheter, barnets bästa och rättssäkerheten i myndighetskontakter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec53",
+      "sentiment": 1.0,
+      "quote": "förslaget stärker barnets rättigheter, barnets bästa och rättssäkerheten i myndighetskontakter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 0.8,
+      "quote": "Region Sörmland ser positivt på att hälso- och sjukvård, tandvård, socialtjänst och ärenden som direkt rör barn föreslås undantas från tolkavgift.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": 1.0,
+      "quote": "tillgång till professionell tolk är en viktig förutsättning för patientsäkerhet, delaktighet, jämlik vård och möjligheten att tillvarata sina rättigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 0.8,
+      "quote": "Region Sörmland ser positivt på att hälso- och sjukvård, tandvård, socialtjänst och ärenden som direkt rör barn föreslås undantas från tolkavgift.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-i-sodermanlands-lan": "59819fe817d7d8e8dbc9fb90aac2e348a32f92eb3559f0dc636db468eb55c6c5",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T19:00:30+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 78702,
+      "completion_tokens": 14679,
+      "ended": "2026-09-01T19:09:44+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "cf43a7fb18225d59aa5fcea232fbaa35ef722e8aa9c8884ccda78c6c5780c404"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sammantaget gör detta att förslagens omfattning inte framstår som tillräcklig för att Sverige ska uppfylla sina åtaganden enligt EU:s regelverk för markanvändning, förändrad markanvändning och skogsbruk.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": -0.2,
+      "quote": "De nya beräkningarna visar att gapet till att nå LULUCF-åtagandena är betydligt större än utgångspunkterna i delbetänkandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "Mot den bakgrunden kan Länsstyrelsen endast tillstyrka förslagen i avsnitt 6.1 under förutsättning att tillräckliga resurser tilldelas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 1.0,
+      "quote": "Ett särskilt stöd för samordningsinsatser är därför värdefullt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.0,
+      "quote": "Det är olämpligt att göra ändringar i LONA innan den nya förordningen har trätt i kraft och hunnit utvärderas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 1.0,
+      "quote": "Konkreta etappmål inom miljömålssystemet skulle ge tydlighet och grund för ett effektivt genomförande av arbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen anser att förslaget om rådgivning i huvudsak är bra, men är tveksam till om ökad kvävegödsling ska vara ett inslag för de insatser som föreslås.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen är tveksam till förslaget om att Skogsstyrelsen ska få i uppdrag att arbeta för att gödsla mer skog eftersom det motverkar miljökvalitetsmålet ”Ingen övergödning”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 1.0,
+      "quote": "Staten bör visa vägen och bedriva ett skogsbruk som främjar biologisk mångfald, binder mer kol och använder ett naturnära skogsbruk med en mångfald av skogsbruksmetoder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.5,
+      "quote": "Det finns en risk att föreslagen miljöersättning för vall kan leda till att djur som i dag betar naturbetesmarker flyttas över till vallar eller kommer att stå på stall (avsnitt 9.2.2).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen ser att effektberäkningen även kan användas för bedömning av möjlighet till kompensation inom den kommunala rådigheten för att motverka minskat nettoupptag vid exploatering",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 0.5,
+      "quote": "Nyttan med avverkning av skog ur ett kolinlagringsperspektiv bör dock vägas mot nyttan som uppnås genom kolinlagring när skogen står kvar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.0,
+      "quote": "Tidsramen är kort, medan klimatvinsterna från en återvätning ofta tar längre tid att realisera.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget om ett nationellt återvätningsråd (avsnitt 12.3)",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": 0.2,
+      "quote": "Förslaget om att restaurering av våtmark, inklusive återvätning av dränerad torvmark, inte ska vara tillståndspliktig utan i stället anmälningspliktig (avsnitt 12.4.1), skulle innebära en effektivisering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -0.5,
+      "quote": "Förslaget om undantag från krav på omprövning eller avveckling av markavvattningsföretag (avsnitt 12.4.2), väcker frågor ur rättssäkerhetssynpunkt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget om ett nationellt återvätningsråd (avsnitt 12.3), förslaget om utfasning av torvutvinning (avsnitt 12.5), samt förslagen om ändring av miljökvalitetsmålet Myllrande våtmarker och en av dess preciseringar (avsnitt 12.6).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.6",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget om ett nationellt återvätningsråd (avsnitt 12.3), förslaget om utfasning av torvutvinning (avsnitt 12.5), samt förslagen om ändring av miljökvalitetsmålet Myllrande våtmarker och en av dess preciseringar (avsnitt 12.6).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen delar inte Miljömålsberedningens bedömning att ”formellt skydd i normalfallet inte är ändamålsenligt för bevarandet av hävdade marker”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.13",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen delar inte utredningens bedömning att dessa ökade förvaltningskostnader skulle kunna finansieras genom omprioriteringar inom myndighetens nuvarande anslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec319",
+      "sentiment": 0.5,
+      "quote": "Om inte skötseln säkras riskerar naturvärdena att försämras, vilket i sin tur kan underminera områdets status som OECM.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser att utredningen använder en alltför snäv definition av begreppet gammal skog.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": 0.5,
+      "quote": "Förslaget om en kraftig anslagsökning under en femårsperiod, följt av en tillbakagång till lägre nivåer, bedöms inte vara det mest effektiva sättet att genomföra satsningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": 0.5,
+      "quote": "Förslaget i avsnitt 16.1.5 kan därför endast tillstyrkas om tillräckliga resurser tilldelas för det.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": 0.2,
+      "quote": "Däremot ser Länsstyrelsen inte att förslagen i avsnitt 17 är tillräckliga för att säkerställa att listade naturtyper inte försämras, vare sig genom aktiva ingrepp eller genom utebliven skötsel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.1",
+      "sentiment": 0.5,
+      "quote": "Men för att detta ska få en effekt på biologisk mångfald krävs det att kommunerna får ett tydligt ansvar att ta hänsyn till naturvård och biologisk mångfald i alla relevanta planeringsprocesser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.2",
+      "sentiment": 0.2,
+      "quote": "Länsstyrelsen anser att det är ett bra förslag att en nationell fröbank för inhemska växter upprättas, men vill påpeka att detta är en mycket dyr lösning för att bevara arter och ska ses som en sista utväg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": 0.2,
+      "quote": "Forskning visar att det både är dyrare och ger sämre resultat för den biologiska mångfalden att nyanlägga naturtyper jämfört med att bevara de som redan finns.",
+      "quote_type": "grund"
+    }
+  ]
+}

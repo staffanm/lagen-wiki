@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/center-for-wellbeing-welfare-and-happiness-vid-handelshogskolan-i-stockholm": "8d4d6be2c9494c0d4e803c50d79e2900d05a08a7117397fa63bed753a14dea3c",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:30:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25332,
+      "completion_tokens": 3209,
+      "ended": "2026-09-02T02:32:20+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f54a805dd209c9ab9c1b654707b750513b0395492a68cc456dc84147f3d6fbea"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Det saknas dock i betänkandena en diskussion som fångar bidraget till välstånd och svensk produktivitetstillväxt som genereras av välmåendetillväxt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.4.2",
+      "sentiment": -0.5,
+      "quote": "CWWH anser att resonemanget inte fångar det bredare bidraget från välmående till total faktorproduktivitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3",
+      "sentiment": 0.2,
+      "quote": "En sådan övergripande målsättning får på samma sätt som målsättningen om ekonomisk tillväxt ett kraftfullt signalvärde både inom landet och internationellt och gynnar Sverigebilden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.5,
+      "quote": "Utan systematisk uppföljning av välmående riskerar produktivitetsmätningar i utbildningssystemet att bli missvisande, då centrala kvalitetsdimensioner förbises.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4",
+      "sentiment": -0.2,
+      "quote": "Vi anser att det behövs kompletterande mått som visar hur välmående ökar förmågan att leverera kvalitet i vård, skola och omsorg.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/lansstyrelsen-stockholm": "d34119f93e3a223a94f9b1831f4d49a345d98af120f1c144eda0c69c0ca36aa9",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:55:18+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 44161,
+      "completion_tokens": 5686,
+      "ended": "2026-09-02T04:58:23+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "add4f2a3ee238218bdb372ee98b8f591644c4ab58f76ed93a375f62d0d3e5bfa"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Produktivitetstillväxt är en grundläggande förutsättning för långsiktigt välstånd, konkurrenskraft och finansieringen av välfärden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "offentlig sektor ligger efter i användandet av digitalisering internationellt sett, stora krafttag behövs för att vända utvecklingen och det är sannolikt det område som skulle gynna offentlig sektors produktivitet mest",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.4",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen förväntas bidra strategiskt till regional utveckling, men saknar ett tydligt uppdrag och i viss mån även resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.5,
+      "quote": "Förenklade regler och snabbare tillståndsprocesser kan göra det svårare för myndigheter att noggrant granska ägarförhållanden, finansiering samt om företag följer regler om skatt och arbetsvillkor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen anser att det därför är viktigt att utvärdera de lagändringar som har genomförts inom plan- och bygglagstiftning, strandskyddslagstiftning och lag om kommunernas bostadsförsörjningsansvar innan det fattas beslut om ytterligare förändringar i nämnd lagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec80",
+      "sentiment": 0.5,
+      "quote": "För att kunna attrahera högkvalificerad arbetskraft som väljer att etablera sig behöver kommissionens förslag kompletteras med insatser som underlättar för närstående och barn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.5,
+      "quote": "Det är dock viktigt att anpassa arbetsmarknadsutbildningar och förberedande utbildningar än mer än vad som redan görs till de kunskapsnivåer som potentiella elever har och beakta målgruppens behov och förutsättningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

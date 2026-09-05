@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/region-stockholm": "dee4f1ff7185df5bc2c38ca7ef605d5eec046b52846c1e4fcd9259b8d3377f0d",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:24:16+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 24133,
+      "completion_tokens": 4573,
+      "ended": "2026-09-01T16:26:50+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2b84f18cf5466bebbb33821f88d94f3ae69018d896c5a19794af793147d2144e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Stockholm anser över lag att utredningen är gedigen, välformulerad och att förslagen är genomförbara och angelägna.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 1.0,
+      "quote": "Mer än 95% av de personer som lever med känd hiv i Sverige är välbehandlade och därför inte smittsamma vid sex.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 0.2,
+      "quote": "Att ge förhållningsregler endast till vissa personer, i stället för som med nuvarande lagstiftning till alla med allmänfarlig sjukdom kan dock medföra utmaningar för behandlande läkare, då det kan vara svårt att bedöma personens inställning i förväg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.12",
+      "sentiment": 1.0,
+      "quote": "Vår bedömning är att de i avsnitt 5.12 föreslagna justeringarna av de moment som kan ges som förhållningsregler är möjliga att genomföra utan några negativa konsekvenser avseende smittspridning i landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec196",
+      "sentiment": 1.0,
+      "quote": "Exempel på situationer då skyddsplikten bör gälla är sticktillbud med risk för överföring av blodsmitta samt för personer med hepatit B om kondomen skulle gå sönder under samlag med en icke-immun sexualpartner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3.2",
+      "sentiment": 0.5,
+      "quote": "Region Stockholm önskar att man tar i beaktande att de regionala smittskydden bör vara en del under processen, och behöver tillskapa resurser för detta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1.7",
+      "sentiment": 1.0,
+      "quote": "Region Stockholm stödjer detta förslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": 1.0,
+      "quote": "Vi instämmer också i bedömningen att smittskyddsläkaren inte ska ha ett statligt huvudmannaskap utan ska verka regionalt, då det underlättar i den täta kontakten med regional sjukvård, kommunal omsorg och diagnostiska laboratorier.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.1",
+      "sentiment": 0.5,
+      "quote": "Region Stockholm ser mycket positivt på förslagen om att kostnadsfrihet inte enbart ska gälla allmänfarliga sjukdomar, men menar att man också behöver se över prissättning och hälsoekonomiska vinster även för läkemedel som förskrivs kostnadsfritt enligt smittskyddslagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 0.5,
+      "quote": "Regionala erfarenheter från pandemin stärker uppfattningen om att en gemensam myndighet för samordning av såväl smittskydds- som vårdhygienfrågor är väl behövlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Att ta bort rikskoden har länge efterfrågats av de regionala smittskyddsenheterna.",
+      "quote_type": "grund"
+    }
+  ]
+}

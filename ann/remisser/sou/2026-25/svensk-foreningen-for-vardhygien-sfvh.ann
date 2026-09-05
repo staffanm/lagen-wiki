@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/svensk-foreningen-for-vardhygien-sfvh": "e36d948ff7dd1c14ad43d4458a89193d34470816db534c687fd9f3840b864ef9",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:11:14+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20213,
+      "completion_tokens": 3026,
+      "ended": "2026-09-01T16:12:50+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "083091002f0328a74e609b906eb80e86692e8086a8ca90786cc8773a2c431aaa"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utredningens huvudförslag om att låta Folkhälsomyndigheten erhålla samordningsuppdraget för vårdhygienfrågor stöds av SFVH, men utredningen definierar inte klart vad det nationella samordningsansvaret innebär.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 0.5,
+      "quote": "I sak välkomnar vi att utredningen ger en tydlighet i att ett nationellt samordningsansvar för vårdhygienfrågor behövs, samt att Folkhälsomyndigheten enligt utredningen bör erhålla detta eftersom denna myndighet redan arbetar med samordning kring de sjukdomar/smittor som återfinns i smittskyddslagen, samt har det övergripande arbetet med antibiotikaresistens och vårdrelaterade infektioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": -0.5,
+      "quote": "Detta anser vi är något som behövs för att huvudförslaget ska få den förväntade effekten som utredningen beskriver.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": -0.5,
+      "quote": "Utredningen utelämnar även behovet av författningsändringar för att en enskild myndighet ska kunna ta hela ansvaret för de vårdhygieniska frågorna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3",
+      "sentiment": -0.2,
+      "quote": "Andra aspekter som utredningen inte nämner och som vi anser berör samordningsansvaret av vårdhygien på nationell nivå, är hur resurser och stöd till de regionala vårdhygieniska enheterna ska kunna säkras.",
+      "quote_type": "grund"
+    }
+  ]
+}

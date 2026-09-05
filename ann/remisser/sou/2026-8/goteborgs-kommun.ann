@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/goteborgs-kommun": "22828659e17b2ec6beb2c635bac6c6b4e4e580fe46fd8f62b4ef92e516657468",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T14:25:32+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27925,
+      "completion_tokens": 5138,
+      "ended": "2026-09-01T14:28:41+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "dff40148634c27ea9bd5b95aa771323b413e33fc918731d8cf7864ce3d322b81"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Göteborgs Stad bedömer att dessa förslag sammantaget har förutsättningar att bidra till att stärka rättigheterna för samhällets mest utsatta barn och unga, främja familjeåterförening och förbättra rättssäkerheten i ingripande myndighetsprocesser.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec417",
+      "sentiment": 0.5,
+      "quote": "Förslaget stärker barnrättsperspektivet och skapar bättre förutsättningar att låta barnets behov av trygghet, skydd och stabilitet vara vägledande vid bedömningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec17",
+      "sentiment": -1.0,
+      "quote": "Det finns därför en risk att beslut fattas på ett otillräckligt beslutsunderlag, vilket riskerar att skada tilliten till både socialtjänsten och rättsväsendet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec357",
+      "sentiment": -1.0,
+      "quote": "Göteborgs Stad bedömer att det finns en risk för att frekventa domstolsprövningar kan komma att påverka kontinuiteten och tryggheten i vården negativt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec165",
+      "sentiment": 0.5,
+      "quote": "Detta gäller framför allt kostnader för att anlita sakkunniga, inhämtande av kompletterande medicinska eller psykologiska bedömningar samt den ökade administration och handläggning som följer av ett större inslag av extern expertkunskap i LVU-processen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec367",
+      "sentiment": 0.2,
+      "quote": "Om familjehemssekreteraren även ska hantera kontakten med vårdnadshavare riskerar det att skapa otydlighet i roller och ansvarsfördelning, som i förlängningen kan leda till försämrad kvalitet i stödet till familjehemmet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec504",
+      "sentiment": 1.0,
+      "quote": "Därutöver bedömer Göteborgs Stad att dessa förslag är positiva",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec596",
+      "sentiment": 1.0,
+      "quote": "förslaget om att reglerna om omedelbar skyddsbedömning och förhandsbedömning ska omfatta även syskon eller andra barn i samma hem",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

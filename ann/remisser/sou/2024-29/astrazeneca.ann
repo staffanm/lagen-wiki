@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/astrazeneca": "ebf62395c93c61a6b905acafe1aaf3bb47ac18e35a65284d7920cb53419951fd",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:06:10+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21205,
+      "completion_tokens": 5394,
+      "ended": "2026-09-02T02:09:21+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "787978bf06bac68b557fcbb2c5cb232767bb6cfe07c05ac8c9aaece24def7201"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "AstraZeneca välkomnar att kommissionen lyfter såväl den potential som nya och befintliga läkemedel har att öka produktiviteten och effektiviteten i hälso- och sjukvården, som den strategiska betydelsen av en stark läkemedelsindustri i Sverige och EU.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec73",
+      "sentiment": 0.2,
+      "quote": "AstraZeneca anser att riktade stöd för forskning i samverkan mellan akademi och företag har en kompletterande roll i forsknings- och innovationssystemet för att främja näringslivets förnyelse, innovationsförmåga och produktivitet samt stimulerar företagens egna investeringar.",
+      "quote_type": "grund"
+    }
+  ]
+}

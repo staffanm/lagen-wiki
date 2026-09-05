@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/institutet-for-arbetsmarknads--och-utbildningspolitisk-utvardering-ifau": "ce360e9278617e2e80df120ca552453f957d6878a4d141c5967d44f9c1827a37",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:00:28+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 31257,
+      "completion_tokens": 7207,
+      "ended": "2026-09-02T04:04:50+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "cac5d242ece431b9124ab590267c54a3aed1b7236b28ccb2201cbc67e954265c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "IFAU har behandlat promemorian med utgångspunkt i vårt uppdrag att bland annat genomföra studier av arbetsmarknadens funktionssätt samt följa upp och utvärdera den arbetsmarknads- och utbildningspolitiska verksamheten.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec405",
+      "sentiment": 0.5,
+      "quote": "ett system med externt rättade prov sannolikt leder till att fler elever inte uppnår behörighet till nationella program.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec406",
+      "sentiment": 1.0,
+      "quote": "Ett sådant system underlättar för vårdnadshavare att göra val som speglar deras faktiska preferenser och bidrar till mer tillförlitliga skolvalsdata.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec408",
+      "sentiment": 0.0,
+      "quote": "det på förhand är svårt att bedöma om en eventuellt ökad genomströmning i högskolan uppväger risken med att färre ungdomar antas till föredragen utbildning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec410",
+      "sentiment": 1.0,
+      "quote": "IFAU tillstyrker förslaget att skolpengen ska återspegla det ansvar som olika huvudmän har och att kommuner vid beräkningen av ersättning till fristående huvudmän ska kunna göra avdrag för merkostnader i den egna verksamheten.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec412",
+      "sentiment": 0.0,
+      "quote": "Även om vissa utbildningar kan behöva styras efter arbetsmarknadens behov, låter sig inte alla yrken enkelt värderas monetärt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec413",
+      "sentiment": 0.0,
+      "quote": "Myndigheten delar bedömningen att dagens system riskerar att sänka kunskapskraven, men framhåller samtidigt att ett alltför starkt fokus på kvantitet kan ske på bekostnad av utbildningens kvalitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec414",
+      "sentiment": 0.0,
+      "quote": "Myndigheten delar bedömningen att högskoleutbildningens kvalitet pressas av försämrade förkunskaper hos studenter och sjunkande real ersättning per student, vilket talar för ett behov av stärkt finansiering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec415",
+      "sentiment": 0.5,
+      "quote": "betonar vikten av att åtgärderna utformas så att de kan utvärderas på ett trovärdigt sätt, både genom tydliga tilldelningsregler och genom systematisk datainsamling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec427",
+      "sentiment": 1.0,
+      "quote": "Detta är förenligt med svensk förvaltningstradition och säkerställer likvärdig insyn i både kommunala och fristående skolor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec432",
+      "sentiment": 1.0,
+      "quote": "den kan ge värdefull kunskap om vilka insatser som hjälper elever som har svårt att nå målen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec433",
+      "sentiment": 1.0,
+      "quote": "tillgången till fritidshemmens pedagogiska verksamhet inte bör bero på elevernas socioekonomiska bakgrund.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec434",
+      "sentiment": 0.5,
+      "quote": "Samtidigt krävs fortsatt utredning av hur systemen ska förbättras i praktiken, och implementering och datainsamling bör ske så att förändringar av verksamheten kan utvärderas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.1",
+      "sentiment": 1.0,
+      "quote": "Det är viktigt att offentliga resurser används på ett ändamålsenligt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.2",
+      "sentiment": 0.0,
+      "quote": "Den svepande beskrivningen är inte tillräcklig för att det ska vara möjligt att utvärdera fördelarna och nackdelarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.3",
+      "sentiment": 1.0,
+      "quote": "Då kan det vara lämpligt att en regelförändring i stället testas i vissa regionala områden, vilket gör det möjligt att utvärdera konsekvenserna av regelförändringen genom att jämföra med områden där förändringen inte testas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3.1",
+      "sentiment": -0.2,
+      "quote": "det saknas en grundläggande behovs- och kostnadsanalys.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3.2",
+      "sentiment": 0.0,
+      "quote": "det saknas en konsekvensanalys som väger eventuella fördelar med förslaget mot nackdelar i form av begränsningar av offentlighetsprincipen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.5.1",
+      "sentiment": -1.0,
+      "quote": "det saknas en väl underbyggd behovs- och kostnadsanalys.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.8",
+      "sentiment": -1.0,
+      "quote": "I den modell som föreslås beskattas en antagen normalavkastning på förmögenheten snarare än den faktiska avkastningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/munkfors-kommun": "0d3bdc8e3ae03425a81eb65b207ad9a01ad8f0dd2644292893a06642e0b2e051",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:07:07+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12222,
+      "completion_tokens": 1536,
+      "ended": "2026-09-01T15:07:52+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ff459b28af201d4baf5c3c8f3f9b7ff620bdfe4ffe7fee1cf891935cb65e1a60"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Förslagen i utredningen är av teknisk och juridisk karaktär och rör främst nationella myndigheter.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

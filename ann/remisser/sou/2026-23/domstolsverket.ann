@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/domstolsverket": "4389cca4c88e538caa4471458bf0263cd1cbbf966c9c8af26541c479bb3e9719",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:43:10+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17303,
+      "completion_tokens": 2049,
+      "ended": "2026-09-01T12:44:14+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7e8578f5aff0430c9420c14d7a6f112dded4b7bb9a70019a20d73d244266e29e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Domstolsverket har utifrån dessa aspekter inte några synpunkter på förslagen i sak.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec591",
+      "sentiment": -0.2,
+      "quote": "Kostnaderna för Sveriges Domstolar skulle därför kunna bli högre än vad utredningen uppskattat.",
+      "quote_type": "grund"
+    }
+  ]
+}

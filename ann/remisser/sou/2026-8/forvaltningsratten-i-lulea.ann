@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/forvaltningsratten-i-lulea": "9606ede4676f87c2cccc9939b0c4ac7ab11a5726d62fff740aa90d40a3336375",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:41:53+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17906,
+      "completion_tokens": 2776,
+      "ended": "2026-09-01T13:43:36+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e32b1024e7f9c175f290450513ad76e92c9ac9c2983d0f73351fbdacccc5a3da"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Detta gör att förslagen i betänkandet är svåra att ta ställning till utan att samtidigt ha kunskap om hur övriga förslagna förändringar av LVU-bestämmelserna slutligt kommer att bli",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec11",
+      "sentiment": 0.8,
+      "quote": "Det är av vikt att socialnämnderna i sina utredningar får tillgång till nödvändigt underlag från andra myndigheter och att ansökan till domstol innehåller såväl läkarintyg som andra intyg/yttranden som behövs för att bedöma den unges behov av vård.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec12",
+      "sentiment": -0.2,
+      "quote": "förvaltningsrätten har svårt att se att en särskild reglering härom kan överväga de kostnader och den tidsutdräkt i målen som detta med säkerhet kommer att innebära.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec24",
+      "sentiment": -0.8,
+      "quote": "Prövningen framstår som onödig m h t den möjlighet som redan idag finns att få till stånd en domstolsprövning av sådana beslut och skulle med säkerhet innebära en kraftig fördyring och en avsevärt ökad arbetsbörda för hanteringen av LVU-mål hos förvaltningsrätterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.3",
+      "sentiment": 1.0,
+      "quote": "Förvaltningsrätten instämmer i bedömningen att sakkunniga ledamöter inte bör införas i rätten och att åklagare inte bör kunna fatta beslut om omedelbart omhändertagande.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec16",
+      "sentiment": 1.0,
+      "quote": "Förvaltningsrätten instämmer i bedömningen att sakkunniga ledamöter inte bör införas i rätten och att åklagare inte bör kunna fatta beslut om omedelbart omhändertagande.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

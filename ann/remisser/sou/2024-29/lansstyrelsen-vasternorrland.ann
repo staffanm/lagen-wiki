@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/lansstyrelsen-vasternorrland": "44b9c24fd9dcb49db55ae9168107ca7ac780410bd39e6e08460dd77f290ee2da",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:00:00+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23475,
+      "completion_tokens": 5024,
+      "ended": "2026-09-02T05:02:48+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f4da65de47795244368f9de446e7519c4326bfc0789e1f29f76488396a453569"
+    }
+  },
+  "overall": {
+    "sentiment": -0.3,
+    "quote": "Länsstyrelsen Västernorrland instämmer i delar av Produktivitetskommissionens förslag men menar att förslagen också i delar missar målet då det saknas en helhetssyn och allt för stort fokus har lagts på storstadsregionerna och tillhörande problematik och föreslagna lösningar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "När det gäller tillståndsprocesser, och då särskilt miljöprövningsprocessen, har flertalet av de bedömningar/förslag som presenteras i betänkandet under den senaste tiden avvisats, vidareutvecklats alternativt redan införlivats i svensk lagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen avstyrker förslaget då det saknas en diskussion kring att mark och fastigheter inte är en vara som andra varor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen avstyrker förslaget då utredningen inte belyser frågan om bostadsförsörjning och bostadsbyggande för alla delar av landet på ett tillräckligt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen avstyrker förslaget då det kommunala planmonopolet inte kan anses vara ett hinder för ökat bostadsbyggande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.5",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen avstyrker förslaget då det finns risker utifrån ett demokratiperspektiv att införa en avgift för att överklaga beslut om detaljplaner och bygglov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.7",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen avstyrker förslaget då fler strikta tidsgränser för planprocessen inte bedöms ger de tidsvinster som utredningen önskar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.8",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen avstyrker förslaget då det inte är lämpligt att införa begränsningar i möjligheten att kräva ytterligare underlag under planprocessen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser inte att fri hyressättning kommer att minska boendekostnaden i attraktiva lägen och ser inga belägg för att fri hyressättning medför att boendekostnaden kommer att sjunka i några andra lägen heller.",
+      "quote_type": "grund"
+    }
+  ]
+}

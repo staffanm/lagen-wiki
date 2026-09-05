@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/linneuniversitetet": "72fc0fa8116c41f414e444854932d102be56a41582344f6a1fe08a4a396be2c6",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:41:07+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26305,
+      "completion_tokens": 4484,
+      "ended": "2026-09-02T04:43:42+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b3b0002d2e3d598252f4e71f754a7e837b9b4fd94e49e513edcf624ca7a0460b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Linnéuniversitetet ställer sig i stort sett positiv till många av förslagen, men vill samtidigt påpeka att konsekvenserna av flera av dem är betydligt mer långtgående än vad som framgår i de remitterande betänkandena.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": 1.0,
+      "quote": "Linnéuniversitetet instämmer i utredningens bedömning att urholkningen av resurstilldelningen av högre utbildning har fått negativa konsekvenser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec405",
+      "sentiment": 1.0,
+      "quote": "Skälen för att Linnéuniversitetet tillstyrker förslaget grundar sig i en delad problembeskrivning om att det nuvarande betygsystemet leder till incitament hos lärare och skolledning inom grund- och gymnasieskolan att ge oskäligt höga betyg, vilket i förlängningen skapar en osund betygsinflation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec408",
+      "sentiment": -0.2,
+      "quote": "Högskoleprovet har ingen kunskapsgrund på det sättet att det kan översättas till högskoleförordningens definition av särskild behörighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec412",
+      "sentiment": 0.0,
+      "quote": "En fundamental nackdel med ett system likt det danska, där större resurser tilldelas utbildningar vars nyexaminerade studenter i högre grad är i sysselsatta eller är registrerade för vidare studier, är att det är bakåtblickande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec420",
+      "sentiment": 0.5,
+      "quote": "Linnéuniversitetet är dock försiktigt positiv till förslaget då det bör öka förutsägbarheten i resurstilldelningen, vilket i förlängningen torde gynna kvaliteten i utbildningarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec425",
+      "sentiment": -0.2,
+      "quote": "Linnéuniversitetet bedömer att det inte finns tillräckligt underlag för att tillstyrka det sammantagna förslaget, men välkomnar samtidigt en grundligare utredning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec415",
+      "sentiment": -0.2,
+      "quote": "är negativ till förslag som innebär att studenter får bära en större del av kostnaden för sin utbildning då det sannolikt skulle öka snedrekryteringen till högskolan.",
+      "quote_type": "grund"
+    }
+  ]
+}

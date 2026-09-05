@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/nykoping-kommun-sou-2024_29": "d68ee1bd1d7ceeafe8cbfa084e8a4abe45a7417592f3e3ef93ac4111a92d1beb",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:29:08+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19093,
+      "completion_tokens": 1829,
+      "ended": "2026-09-02T05:30:05+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "756c1b2b4ddc63fbc56f179f2e5bbd42a19c5c0fe0bece474b4bde6c476bb577"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Nyköpings kommun instämmer med förslaget att införa beskriven försöksverksamhet men att läsåret förläggs till tre terminer i stället för att förlänga två terminer.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec432",
+      "sentiment": 0.5,
+      "quote": "Genom att fördela skolarbetet över tre terminer i stället för två kan belastningen bli mer balanserad för både elever och lärare.",
+      "quote_type": "grund"
+    }
+  ]
+}

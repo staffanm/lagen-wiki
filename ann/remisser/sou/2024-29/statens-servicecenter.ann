@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/statens-servicecenter": "86756db07d557b903bf51457d10a2c33404fd6f1d017b6f54af0413e88a193b2",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T07:03:38+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19385,
+      "completion_tokens": 3578,
+      "ended": "2026-09-02T07:05:30+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "124e56a03f5dbce8d67cfab05450715fdf73a9f1722ca6d555ab50fe8568f0b3"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Statens servicecenter ställer sig övergripande positivt till de förslag som Produktivitetskommissionen lägger fram i slutbetänkandet",
+    "quote_type": "standpunkt"
+  },
+  "segments": []
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/myndigheten-for-yrkeshogskolan": "1fa1900bc580271852b74111c65eeff03a1c7b5b53598e948b8aa30311be1a67",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:31:36+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17496,
+      "completion_tokens": 1414,
+      "ended": "2026-09-01T12:32:36+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ac01e9aabad3417fb22f01aa113d766857c9d7ff3f5b1defa7644d3025e0a64b"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Myndigheten för yrkeshögskolan (MYH) har inga synpunkter på förslagen men konstaterar att utredningens förslag kan få vissa indirekta effekter på kompetensförsörjningen inom tolkområdet.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

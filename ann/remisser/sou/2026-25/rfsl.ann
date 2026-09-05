@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/rfsl": "5ea01c75ba5dec6394c3ed785b6b8288751d62e2bdc59cf0d5cbbc7373e4d44a",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:41:53+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22880,
+      "completion_tokens": 3655,
+      "ended": "2026-09-01T15:43:54+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "5f3b8de7ccfcc44ab90838c5ab709e1d39416418af12a94661712116e51a0e8e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi delar utredningens uppfattning att förslagen om ett borttagande av informationsplikt, att en förhållningsregel om informationsplikt inte längre ska kunna ges vid sexuella kontakter, och ett förtydligande av patientens rätt till råd och stöd, bidrar till att öka likvärdigheten i förutsättningar för en god hälsa och god livskvalitet för personer som lever med hiv.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 1.0,
+      "quote": "Vi menar, som sagt, att informationsplikten för hiv aldrig har varit en effektiv eller ändamålsenlig åtgärd ur ett smittskydds- och preventionsperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11",
+      "sentiment": 1.0,
+      "quote": "ett alltför stor tilltro till information kan vara kontraproduktiv även för andra sjukdomar än hiv och att en lagstadgad skyldighet att informera om sin sjukdom också kan ses som ett alltför långtgående ingrepp i den enskildes privatliv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.14",
+      "sentiment": 1.0,
+      "quote": "RFSL välkomnar utredningens uttalade tillit till att den enskilde som bär på en smittsam sjukdom, baserat på adekvata råd från sin läkare, självmant vidtar de åtgärder som krävs för att inte föra smittan vidare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.7",
+      "sentiment": 1.0,
+      "quote": "Detta ställer vi oss positiva till.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": 1.0,
+      "quote": "Detta är vi positiva till.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.2.3",
+      "sentiment": -0.5,
+      "quote": "Smittspårning ses av vissa grupper som ett hinder för testning, med följden att människor istället går runt med en obehandlad infektion i onödan.",
+      "quote_type": "grund"
+    }
+  ]
+}

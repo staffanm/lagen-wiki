@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/nacka-tingsratt-mark--och-miljodomstolen": "9005757bbd1ead5b7a35e93f692c054463705c24960f8a8913c918690a2351b6",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T22:20:03+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26671,
+      "completion_tokens": 4379,
+      "ended": "2026-09-01T22:22:53+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "3193c0b3b2158a3abbb7cb15ba0e966ba766a81be395881db33f6be02df7f819"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Domstolen har, utifrån de intressen som domstolen har att bevaka, följande synpunkter på det remitterade förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.2,
+      "quote": "Begreppet verksamhetsutövare passar inte in i det sammanhanget då planläggning och bygglov många gånger inte förutsätter att någon verksamhet i miljöbalkens mening kommer att bedrivas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.5,
+      "quote": "Den nya paragrafen kan knappast hänvisa till förbudet avseende våtmarker som utgör värdefull natur- eller kulturmiljö när syftet är ett totalt förbud, och innebörden av den föreslagna paragrafen är alltför svår att förstå.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": -0.2,
+      "quote": "Domstolen förespråkar att frågan behandlas i det fortsatta lagstiftningsarbetet och att det föreslagna tillägget inte placeras i 12 kap. 6",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": 0.2,
+      "quote": "vill lyfta fram att tillståndet utgör ett skydd för den part som innehar tillståndet dvs. investerar i en våtmarksrestaurering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": -0.2,
+      "quote": "Enligt domstolens erfarenhet utgör majoriteten av de våtmarksanläggningar i jordbrukslandskapet som tillståndsprövats där det tidigare funnits en våtmark, av att dammvallar anläggs och alltså inte av återställning till tidigare skick.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": -0.2,
+      "quote": "Det förefaller oklart i vilken situation som länsstyrelsen i egenskap av tillsynsmyndighet skulle acceptera en anmäld verksamhet som påverkar en markavvattningssamfällighet utan att förordna om tillståndsplikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -0.5,
+      "quote": "Särregleringen skulle i detta läge ge företräde för återvätningen oaktat vilken skada en återvätning skulle ha på samfalligheten avseende hydrologisk påverkan och dess inverkan på frågan om en samfallighets fortsatta bestånd, kretsen av deltagare eller kostnadsfördelningen mellan dem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.8",
+      "sentiment": -0.2,
+      "quote": "Domstolen ifrågasätter att återinförsel av stenar och grus för att fördröja vattnets väg i landskapet kan räknas som restaurering av våtmark såsom det anges i avsnitt 12.8.",
+      "quote_type": "grund"
+    }
+  ]
+}

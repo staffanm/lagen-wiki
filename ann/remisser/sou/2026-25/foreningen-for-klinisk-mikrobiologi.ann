@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/foreningen-for-klinisk-mikrobiologi": "45b3cb02049ddc91d3ff20614f1b0c8da0dea91ac663f0dbc6e423beab78518a",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:25:39+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20123,
+      "completion_tokens": 2532,
+      "ended": "2026-09-01T15:27:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "796040b8676cd960ef7260681087b19d14832c8e477f3c6ab31aaaaf4ae48ce4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Föreningen anser i stort att utredningen är väl genomförd och att slutbetänkandet berör och belyser många för Sveriges smittskyddsarbete kritiska punkter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3.1",
+      "sentiment": 0.2,
+      "quote": "För att översyn av klassiﬁcering av smittsamma sjukdomar, och den årliga revisionen av densamma, ska kunna ske med uppdaterad mikrobiologisk expertis om aktuella smittämnen föreslår vi att SLIM i ett tidigt skede involveras i arbetet och att detta förtydligas i uppdraget till myndigheten",
+      "quote_type": "grund"
+    }
+  ]
+}

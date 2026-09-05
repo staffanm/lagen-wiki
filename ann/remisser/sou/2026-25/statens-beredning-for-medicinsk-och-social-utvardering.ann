@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/statens-beredning-for-medicinsk-och-social-utvardering": "ed331341319c0423abc49c446df094dad5ac7ab2f22bdcc080776af6ce83db23",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:21:45+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19683,
+      "completion_tokens": 2684,
+      "ended": "2026-09-01T15:23:28+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d7a6d87cafc2697f764ebbca9ff40f5ee5dbc1c5a21e8d6d2b9eac794ace5b4c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Utöver förslaget på nationell samordning av vårdhygienfrågor så är övriga förslag huvudsakligen administrativa och organisatoriska vilket ligger utanför SBU:s uppdrag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 1.0,
+      "quote": "Myndigheten tillstyrker förslaget att Folkhälsomyndigheten ska ansvara för nationell samordning av vårdhygienfrågorna.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

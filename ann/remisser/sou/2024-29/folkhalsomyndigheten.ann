@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/folkhalsomyndigheten": "1238a537ba1283c0fc44c72c198ea716ba888708c122ae13da05428bd7118221",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T03:09:00+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20476,
+      "completion_tokens": 4410,
+      "ended": "2026-09-02T03:11:20+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ba22b4fb71df1d359c0b7328ed189174b8b946a13bfb7c280d9b4a27f42f57ae"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Folkhälsomyndigheten tar enbart ställning till förslag och bedömningar som berör, eller är relevanta för, myndighetens uppdrag och verksamhetsområde.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.2",
+      "sentiment": 1.0,
+      "quote": "Folkhälsomyndigheten instämmer i förslaget att ge nuvarande Statskontoret i uppdrag att hålla samman arbetet med regelförenkling, konsekvensutredningar och utvärderingar av regelverk",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": -0.5,
+      "quote": "Folkhälsomyndigheten bedömer att förslaget riskerar att leda till betydligt ökad administration och därmed till att nya regler fördröjs",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.5",
+      "sentiment": -0.5,
+      "quote": "Folkhälsomyndigheten bedömer att förslaget riskerar att leda till betydligt ökad administration",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": 0.5,
+      "quote": "under förutsättning att inriktningarna inte leder till ett bostadsbyggande som förstärker den rådande ojämlikhet i hälsa som beror på boendemiljön",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": 0.5,
+      "quote": "under förutsättning att inriktningarna inte leder till ett bostadsbyggande som förstärker den rådande ojämlikhet i hälsa som beror på boendemiljön",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": 1.0,
+      "quote": "Folkhälsomyndigheten instämmer i förslaget om utökad rätt till utbildning i fritidshem",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

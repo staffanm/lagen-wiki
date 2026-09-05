@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/integritetsskyddsmyndigheten": "41911797fd072a6c57310291629d0c7fcfc1f970361301ec21b05db4cb6a911d",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T14:57:46+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12007,
+      "completion_tokens": 2344,
+      "ended": "2026-09-01T14:58:57+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e2add93a224116a87076f44705009cfa947967c2ff70af56d12ee80d4f360e43"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Integritetsskyddsmyndigheten (IMY) tillstyrker utredningens förslag och vill särskilt understryka följande.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.3",
+      "sentiment": 1.0,
+      "quote": "IMY instämmer i utredningens bedömning att det i de allra flesta fall inte bör finnas något behov av att utbyta uppgifter i enskilda ärenden och att det inte finns något behov av att införa sekretessbrytande bestämmelser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec263",
+      "sentiment": 1.0,
+      "quote": "IMY bedömer vidare att kravet på samarbete, enligt artikel 37.5 g i dataförordningen, kan uppfyllas med stöd av befintliga bestämmelser i förvaltningslagen (2017:900).",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/eskilstuna-kommun": "2eeed609ae399d61f32cc8eb488e33af25ebbad3aee1c45591930a9d3f521232",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:49:03+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21146,
+      "completion_tokens": 3709,
+      "ended": "2026-09-02T02:51:19+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "cbfa92987c27c564ec531f8d23b598ef8975e0ebdd049a73df556ffe2b0a5f83"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Kommissionens övergripande inriktning om ökad centralisering och statlig styrning anser Eskilstuna kommun vara fel väg att gå.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": 0.2,
+      "quote": "I det fortsatta reformarbetet inom detta område är det viktigt att det kommunala planmonopolet värnas och med detta kommunernas rätt att bestämma hur mark ska användas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.2,
+      "quote": "Detta arbete visar på möjligheterna för kommuner att på eget initiativ utveckla verksamheten utan ytterligare detaljerad statlig styrning av den lokala vuxenutbildningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": -0.5,
+      "quote": "Eskilstuna kommun ser en fara i flera av förslagen och menar att de regelförenklingar som föreslås i hög omfattning riskerar att motverkas av nya krav på rapportering och uppföljning, vilket i slutändan skapar en ytterligare ökning av administrationen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "staten för varje nytt krav på kontroll eller rapportering måste se till att det åtföljs av både kompetensstöd och verktyg för att teorin ska fungera i praktiken och för att göra arbetet praktiskt genomförbart för kommunerna.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/energiforetagen-i-sverige-sou-2025_96": "013d27a6cc64f6c5850e1cec9b698a61f26ea149b9842b26e16fd1aa8cc90eda",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:40:57+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 31453,
+      "completion_tokens": 5836,
+      "ended": "2026-09-02T02:44:49+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7ec0ac16a24a4bff9bf9113ade9e64008b39e501989bd644ea05ab4483966c0d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Energiföretagen instämmer i betänkandets bedömning att Sverige bör säkerställa samhällsekonomiskt ändamålsenliga ramvillkor som möjliggör en hållbar klimatomställning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.1",
+      "sentiment": -0.5,
+      "quote": "Energiföretagen avstyrker förslaget att harmonisera de svenska klimatmålen fullt ut med EU:s och anser istället att Sverige bör behålla de nationellt beslutade klimatmålen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.2",
+      "sentiment": -0.2,
+      "quote": "offentlig upphandling har potential att bättre samordnas och koordineras så att kravställningen likriktas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2",
+      "sentiment": 0.5,
+      "quote": "Det behövs också utökade medel för att i högre grad satsa på demonstrations- och pilotverksamheter som ett viktigt steg mellan forskning och marknadsimplementering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.6",
+      "sentiment": -0.5,
+      "quote": "Dagens ränteavdragsbegränsningsregler innebär att energibranschens mycket stora och långsiktiga investeringar som till största delen behöver lånefinansieras inte kan dras av fullt ut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": -0.2,
+      "quote": "Utredningens förslag om att införa en ny form av kortare yrkesutbildning på gymnasiet för ungdomar ser Energiföretagen behöver utredas mer i förhållande till vilka insatser som kan och bör ske i grundskolan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3.2",
+      "sentiment": -0.5,
+      "quote": "Industriklivet är viktig för att stödja den svenska industrins omställning till fossilfrihet för att uppnå Sveriges klimatmål om noll nettoutsläpp av växthusgaser till 2045.",
+      "quote_type": "grund"
+    }
+  ]
+}

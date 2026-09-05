@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/lansstyrelsen-vasterbotten": "b2872720212025971b240a320f797dbd42464fbd7caeccc363291c013e31db6f",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:58:23+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21979,
+      "completion_tokens": 2967,
+      "ended": "2026-09-02T05:00:00+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "00dd6d1af0a52e44a51f7d5dea64d110b2863a59e4146159bf4ee88d17da2b5d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen välkomnar särskilt kommissionens generella inriktning att vårda och utveckla de institutioner och system som historiskt har bidragit till Sveriges välstånd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen saknar en analys av de stora strukturella skillnader som finns mellan landets kommuner och hur det påverkar den offentliga verksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.5,
+      "quote": "För ett robustare transportsystem anser Länsstyrelsen att investeringstakten måste öka.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec79",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen saknar en analys av hur migrationslagstiftning, arbetsmarknad och kompetensförsörjning kan samspela för att öka produktiviteten i landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen anser att tillståndsprocesser är komplicerade och behöver ta tid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": -0.5,
+      "quote": "Produktivitetskommissionens förslag om en reformerad hyresmarknad är ensidigt fokuserad på effektivitet och produktivitet men saknar konsekvensanalyser och mer djupgående resonemang rörande de bostadssociala konsekvenser som en mer efterfrågebaserad hyressättning kan komma att innebära.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/svensk-vardepappersmarknad": "ea1b548e088ee4552f04a9e4e9ccfd432378c4d4d135383e6d0ad58f389bbb13",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:55:04+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 78866,
+      "completion_tokens": 10126,
+      "ended": "2026-09-01T17:02:04+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "684eefc46c553ea484dcb1e9c3ede76db932d4b386342fb3a33590914166e499"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Lagändringar ska inte göras i onödan, men om lagändringar behövs, eller kan underlätta, för att även fortsättningsvis ha effektiva efterhandelsprocesser och en välfungerande värdepappersmarknad är SVPM:s inställning att sådana lagändringar bör göras.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4",
+      "sentiment": 0.8,
+      "quote": "Sverige bör ligga i framkant när det gäller lagstiftningen på området, så att den ger god möjlighet för olika typer av marknadsaktörer att nyttja potentialen i tekniken utan att missgynnas i förhållande till emissioner, handel och avveckling som sker med hjälp av den traditionella tekniken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.14",
+      "sentiment": -0.2,
+      "quote": "SVPM:s uppfattning är dock att nämnda lagvalsbestämmelse har stor betydelse för förtroendet och investerarintresset för den svenska finansiella marknaden generellt samt för ett säkerställande av investerarskyddet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec280",
+      "sentiment": 1.0,
+      "quote": "SVPM instämmer i bedömningen att en sådan möjlighet behövs och tillstyrker att en sådan bestämmelse tas in i kontoföringslagen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": -0.5,
+      "quote": "Enligt vår mening är ett sådant synsätt också nödvändigt för att kunna säkerställa ovillkorligheten, oåterkalleligheten och rättsverkningarna av genomförd avveckling (finalitet), så att dessa regler ska kunna tillämpas på ett effektivt och rättssäkert sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec298",
+      "sentiment": -0.5,
+      "quote": "Det är enligt vår mening tydligt att det behövs en lagreglering för att det ska kunna finnas en sådan väloljad infrastruktur som är nödvändig för att standarden ska kunna följas, så att värdepapperscentralen och dess deltagare kan fullgöra sina åtaganden och så att investerare kan få den in- REMISSVAR formation som de har rätt till; efterlevnaden skulle bli mycket bättre med ett lagkrav.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec301",
+      "sentiment": -0.8,
+      "quote": "För att förhindra negativa skatterättsliga effekter är vår bedömning att det krävs en lagstiftningsåtgärd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec302",
+      "sentiment": -0.8,
+      "quote": "Vår bedömning är att så ingripande åtgärder som de som omfattas av standarden om återföring av avvecklade transaktioner för företagshändelser vare sig är möjliga eller lämpliga att hantera enbart genom avtalsreglering och vi motsätter oss att det lämnas till marknaden att hitta lösningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec303",
+      "sentiment": 0.0,
+      "quote": "SVPM anser att det vore rimligt att motsvarande principer som för aktier upptagna till handel på en reglerad marknad tillämpas också för aktier som handlas på en MTF.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.10",
+      "sentiment": -0.5,
+      "quote": "SVPM instämmer inte i utredningens bedömning",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.5,
+      "quote": "Om grunden för den föreslagna regleringen breddas på det sättet, görs lagstiftningen, enligt SVPM:s mening, både mer förståelig och mer legitim.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.2,
+      "quote": "SVPM anser att bestämmelsen, för att den ska bli ändamålsenlig, behöver omfatta även situationer då kontohavaren visserligen inte helt är okänd, men är okontaktbar på ett sätt som leder till att det kontoförande institutet inte kan genomföra en fullgod kundkännedomskontroll på det sätt som penningtvättslagstiftningen föreskriver.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.2,
+      "quote": "SVPM anser att det inte finns skäl att vänta så lång tid som ett år innan försäljningen eller avvecklingen av de finansiella instrumenten på kontot ska kunna påbörjas, och föreslår att det i REMISSVAR bestämmelsen istället anges att det kontoförande institutet får sälja de finansiella instrumenten som kontot omfattar när det gått sex månader sedan underrättelseskyldigheten fullgjorts.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -1.0,
+      "quote": "Föreningens medlemmar gör därför bedömningen att det, för att hantera de influtna medlen enligt utredningens förslag, skulle krävas systemutveckling som medför betydande kostnader.",
+      "quote_type": "grund"
+    }
+  ]
+}

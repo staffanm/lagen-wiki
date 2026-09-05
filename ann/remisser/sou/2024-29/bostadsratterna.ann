@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/bostadsratterna": "cdf6e497fa5c72b90e57c55cf1b8e58f1bcae51221b5d5f1a21f169771c27853",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:10:44+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20766,
+      "completion_tokens": 3563,
+      "ended": "2026-09-02T02:12:55+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7a5b11204aa523e6c174aebe9ad3525e6d365b78f23d890a16a35e2ec5701472"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Produktivitetskommissionen lämnar många och omfattande förslag i sina betänkanden och vi väljer här att kommentera några av dessa.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7",
+      "sentiment": 1.0,
+      "quote": "I avsnitt 7 Bostäder och byggande nämner kommissionen många angelägna reformer som vi ställer oss positiva till, bland annat att utreda det kommunala planmonopolet, överprövning av detaljplaner, effektivare bygglov, ökad produktivitet i byggsektorn samt ett mer flexibelt och hållbart strandskydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.4.5",
+      "sentiment": 1.0,
+      "quote": "Vi delar utredningens uppfattning om att dagens reavinstbeskattning är ett hinder för effektiva flyttkedjor och att bostadsbeståndet vid en reformering därmed skulle kunna användas effektivare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.8",
+      "sentiment": -1.0,
+      "quote": "Den kommer i stället att dra undan pengar från mångas sparande och konsumtion och kommer att tvinga bostadsägare att sälja sina hem trots att de önskar bo kvar.",
+      "quote_type": "grund"
+    }
+  ]
+}

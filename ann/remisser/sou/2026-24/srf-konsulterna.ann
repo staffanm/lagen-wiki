@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:24/srf-konsulterna": "087160911fa7760af75f4808fdf443c968dd0da53eff6d54cf30810090cce4ed",
+      "artifact:forarbete/sou/2026-24": "a8521a2a061cf90e52654207c489aed960c08427a06b6df2fc0e428c9d8d5d9a"
+    },
+    "run": {
+      "started": "2026-09-01T16:33:50+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19610,
+      "completion_tokens": 3357,
+      "ended": "2026-09-01T16:35:56+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "524657d354de0e4cd82d49f744adc3045c6f6eaae6ce3d40d6e33773cf46cd90"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Organisationen anser emellertid att utredningen är alltför försiktig när den avstår från att föreslå en mer generell möjlighet till frivillig beskattning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.10",
+      "sentiment": -0.5,
+      "quote": "Srf konsulterna anser att de administrativa kostnaderna med nuvarande regelverk underskattas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.3",
+      "sentiment": 0.0,
+      "quote": "Även om lagstiftningen lämnas oförändrad finns det därför skäl för Skatteverket att ytterligare utveckla sin vägledning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 0.5,
+      "quote": "Förslagen innebär på flera punkter en förbättrad systematik och ökad tydlighet jämfört med gällande rätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.9",
+      "sentiment": 1.0,
+      "quote": "Den skulle bland annat minska antalet felaktiga debiteringar av mervärdesskatt, förenkla företagens administrativa hantering, minska behovet av rättelser och kreditfakturor samt begränsa utrymmet för mervärdesskattebedrägerier.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.3.10",
+      "sentiment": 0.2,
+      "quote": "Samtidigt bör dokumentationskraven inte göras mer omfattande än vad kontrolländamålet kräver.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.2,
+      "quote": "Organisationen anser emellertid att de administrativa konsekvenserna för företag, rådgivare och myndigheter bör ges en större tyngd än vad som sker i utredningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

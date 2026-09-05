@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/lakemedelsverket": "bed123408316749a4ad408fce1c2c602461d9e614e76f50190b581b463865e32",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:01:00+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21385,
+      "completion_tokens": 2078,
+      "ended": "2026-09-01T16:02:09+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "484c608d3842323367e283b24e11e9cf9c33ab249212f7105f9abe59814d3bbb"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Betänkandet beskriver stärkt pandemiberedskap men behandlar i liten utsträckning hur tillgången till läkemedel och medicintekniska produkter påverkar möjligheten att genomföra smittskyddsåtgärder.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2.2",
+      "sentiment": 1.0,
+      "quote": "En mer flexibel ordning kan skapa bättre förutsättningar att anpassa smittskyddet till förändrat medicinskt kunskapsläge.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.5,
+      "quote": "Även om flera av de nya uppgifterna föreslås tilldelas Folkhälsomyndigheten, vilket är rimligt, kommer genomförandet att förutsätta fortsatt nära samverkan mellan berörda myndigheter, däribland Läkemedelsverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a2",
+      "sentiment": 1.0,
+      "quote": "Läkemedelsverket delar utredningens bedömning att regleringen av blodgivning och blodkomponenter som används för läkemedelstillverkning redan är väl reglerad genom blodsäkerhetslagstiftningen och Läkemedelsverkets föreskrifter.",
+      "quote_type": "grund"
+    }
+  ]
+}

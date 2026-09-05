@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/adda": "03c4f4a2a04d26d1a5c90fb8119fbee3d0dbd1bdeeef54a482d551f17fec4bbb",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T01:48:11+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20880,
+      "completion_tokens": 2196,
+      "ended": "2026-09-02T01:49:40+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "4d1944de3fc368ee58f5031ffe5bc6631d753486a9ac0d0f6a8ce5a14dd54618"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Syftet är att komplettera Produktivitetskommissionens bedömningar och förslag genom att synliggöra de mervärden som nationella inköpscentraler tillför effektiviteten i den offentliga sektorn och de fokusområden som lyfts i betänkandet.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

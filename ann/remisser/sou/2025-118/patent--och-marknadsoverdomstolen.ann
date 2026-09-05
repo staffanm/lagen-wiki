@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/patent--och-marknadsoverdomstolen": "135794f53b9c5ed8f58da2af84ff0bbc51e60d5bfd0c0bd42f93db5e83b5d47f",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:09:17+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12380,
+      "completion_tokens": 3306,
+      "ended": "2026-09-01T15:10:55+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "de08569b2ce6351b65643293e356ca65e5b37edb3403f64410253d3939d991bb"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Patent- och marknadsöverdomstolen har granskat författningsförslagen i betänkandet utifrån de intressen som domstolen har att bevaka och lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.5.6",
+      "sentiment": -0.2,
+      "quote": "Det kan ifrågasättas – särskilt i förhållande till artikel 4.10 i EU:s dataförordning – om det inte finns behov av att i den föreslagna 9 § kompletteringslagen reglera att ett åtal enligt företagshemlighetslagen också ska utgöra hinder mot att besluta om sanktionsavgift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec80",
+      "sentiment": -0.2,
+      "quote": "Enligt domstolen föreligger det vidare en språklig oegentlighet i uttrycket ”överträdelse av någon av sina skyldigheter” i den föreslagna 6 § kompletteringslagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec80",
+      "sentiment": -0.2,
+      "quote": "Inte heller bör formuleringen att en sanktionsavgift ”tas ut” användas i den föreslagna 9 § kompletteringslagen eftersom det inte är fråga om en avgift för en motprestation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec284",
+      "sentiment": 0.5,
+      "quote": "Enligt domstolen bör dock inte den aktuella artikeltexten återges i sin helhet i bestämmelsen.",
+      "quote_type": "grund"
+    }
+  ]
+}

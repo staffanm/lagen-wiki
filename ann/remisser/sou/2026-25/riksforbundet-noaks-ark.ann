@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/riksforbundet-noaks-ark": "1993f64b4e490db97d846bd85d3095414b09931fbc0a41c4e2a055ffee754ad0",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:43:54+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 48801,
+      "completion_tokens": 8930,
+      "ended": "2026-09-01T15:48:50+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "6e7d1ceeda96a52593d60da0aa4488d43d1f2bfa390e3821b93ab72ac6261379"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vi bedömer att utredningen presenterar förslag till ett modernt, kunskapsbaserat och proportionerligt smittskydd som bättre överensstämmer med dagens medicinska kunskap, mänskliga rättigheter och folkhälsomässiga behov.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.2",
+      "sentiment": 0.5,
+      "quote": "Noaks Ark välkomnar förslaget men vill lyfta att erfarenheter från hivområdet visar att kunskap, stöd och tillit är mer effektiva verktyg för långsiktig beteendeförändring än kontrollbaserade åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.1",
+      "sentiment": 0.8,
+      "quote": "Ekonomiska barriärer är ett välkänt hinder för testning och tidig diagnostik.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.2",
+      "sentiment": 0.8,
+      "quote": "Förslaget ger ett mer flexibelt system som bättre kan anpassas till framtida epidemiologiska förändringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.3.2",
+      "sentiment": 0.5,
+      "quote": "Översyner bör genomföras transparent och inkludera representanter från profession, forskning och civilsamhälle.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 1.0,
+      "quote": "Förslaget innebär en nödvändig anpassning av lagstiftningen till dagens vetenskapliga kunskap om hivbehandling och smittsamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 0.8,
+      "quote": "Tillstyrker",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.7",
+      "sentiment": 0.8,
+      "quote": "Stärker proportionalitet förhållningsregler och rättssäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.8",
+      "sentiment": 0.8,
+      "quote": "Förslagen stärker rättssäkerheten och minskar risken för oproportionerliga ingripanden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.9",
+      "sentiment": 0.8,
+      "quote": "Förslagen stärker rättssäkerheten och minskar risken för oproportionerliga ingripanden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.10",
+      "sentiment": 0.8,
+      "quote": "Förslagen stärker rättssäkerheten och minskar risken för oproportionerliga ingripanden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11",
+      "sentiment": 0.8,
+      "quote": "Vi delar bedömningen att individuella och riskbaserade bedömningar är mer ändamålsenliga än ett generellt krav.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.14",
+      "sentiment": 0.5,
+      "quote": "Vi anser att detta bör kompletteras med ett tydligare erkännande av civilsamhällets roll som stödgivare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 0.5,
+      "quote": "Förutsatt att integritetsskydd, epidemiologisk uppföljning och smittspårning säkerställs bedömer Noaks Ark att systemet kan avvecklas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": 0.5,
+      "quote": "Förutsatt att integritetsskydd, epidemiologisk uppföljning och smittspårning säkerställs bedömer Noaks Ark att systemet kan avvecklas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 1.0,
+      "quote": "Tillstyrker",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": 0.8,
+      "quote": "Noaks Ark bedömer att en tydligare organisatorisk placering av smittskyddsfunktionen under politisk nämnd i regionen också kan stärka samverkan mellan regioner, kommuner, civilsamhälle och andra aktörer inom prevention, smittspårning och beredskapsarbete.",
+      "quote_type": "grund"
+    }
+  ]
+}

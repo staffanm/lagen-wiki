@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/region-vastmanland": "454c50a5f8e0f8d567933bbbcb31b723be24effeaf6e679537746b9d177cb234",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:39:25+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20612,
+      "completion_tokens": 4601,
+      "ended": "2026-09-01T15:41:53+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2be4e1ae3fca13469b683ca18e1eb4612310b36f2e1d4564a9730679929fcdc4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Följer av förslagen i utredningen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2.1",
+      "sentiment": 1.0,
+      "quote": "Det är rimligt att de regler som gäller för kostnadsfrihet för läkemedel avsedda för allmänfarlig sjukdom också kan gälla för andra sjukdomar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.3",
+      "sentiment": 1.0,
+      "quote": "Region Västmanland har inga invändningar mot att smittskyddsläkarnas befogenheter vid vissa smittspårningspliktiga sjukdomar förstärks.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.3",
+      "sentiment": 1.0,
+      "quote": "Det finns absolut ett behov av att klassificeringen av sjukdomarna i smittskyddslagen ses över och att en löpande översyn görs i enlighet med utredningens förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 1.0,
+      "quote": "Förslaget är rimligt och väl förankrat i den medicinska utvecklingen där de allra flesta personer med HIV har en välbehandlad och väl inställd sjukdom som innebär att de har så låga virusnivåer att de inte smittar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": 1.0,
+      "quote": "Det är bra att reglerna kring förhållningsregler blir tydligare avseende hur länge de gäller samt hur de förmedlas etc.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 1.0,
+      "quote": "Det är tilltalande att förhållningsregler endast ges när detta är nödvändigt och där praktiska och medicinska råd inte är tillräckligt för att nå samförstånd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Det är stora patientsäkerhetsrisker förknippade med det system som idag råder eftersom det finns risk att blanda ihop patienter med samma rikskod.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 1.0,
+      "quote": "Det leder till en del oklarheter när ansvaret för de vårdhygieniska frågorna på nationell nivå är delat mellan Socialstyrelsen och Folkhälsomyndigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": -1.0,
+      "quote": "Det är dock inte rimligt att lagstifta om detta eftersom det inskränker det kommunala självstyret.",
+      "quote_type": "grund"
+    }
+  ]
+}

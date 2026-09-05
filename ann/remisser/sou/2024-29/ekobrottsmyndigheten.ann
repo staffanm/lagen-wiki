@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/ekobrottsmyndigheten": "d80ba4b88a785f8194d25a91b936573a089ec733c857ba79c0c76c577b4389fd",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:36:28+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23546,
+      "completion_tokens": 4514,
+      "ended": "2026-09-02T02:39:15+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "4f19286f79c7538ab41658a104af6da8d0453314917753660359e2ecd2cee4ce"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Yttrandet lämnas huvudsakligen mot bakgrund av myndighetens brottsförebyggande arbete.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.1",
+      "sentiment": 1.0,
+      "quote": "Myndigheten anser att genom att på förhand kunna ställa krav på och kontrollera företag inom hälso- och sjukvården minskar risken att aktörer som tidigare begått till exempel ekonomisk brottslighet eller på andra sätt visa sig vara olämpliga, får möjlighet att bedriva hälso- och sjukvårdsverksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2.4",
+      "sentiment": 1.0,
+      "quote": "Inom ramen för kvasimarknader saknas de självsanerande mekanismer som i större utsträckning finns på andra marknader där brister hos oseriösa aktörer upptäcks.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.1",
+      "sentiment": 1.0,
+      "quote": "Skärpt ansvar för kontroll och möjlighet att kunna ta ut en kontrolluppgift bedöms kunna leda till ökade och mer grundliga kontroller då kontrollerna blir mindre beroende av varje enskild kommuns budget.",
+      "quote_type": "grund"
+    }
+  ]
+}

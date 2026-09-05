@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/sveriges-kommuner-och-regioner": "0ca84abe54cf414bc1afcb1e5147a6640b0e5af10c3bbb1e09fbdf8a26093397",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T13:17:54+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19940,
+      "completion_tokens": 3181,
+      "ended": "2026-09-01T13:19:39+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "55fff48f826484bab7e151e98e35bfd8898b43742831ee3e8ff7027053dc3932"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "SKR anser att utredningen inte i tillräcklig utsträckning har belyst konsekvenser för kommuner och regioner.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "Det är anknytande verksamheter till socialtjänst och hälso- och sjukvård och SKR:s bedömning är att det finns motsvarande skäl för undantag från tolkavgift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3.4",
+      "sentiment": 1.0,
+      "quote": "Det skulle både vara administrativt ohanterligt och försvåra dialogen med medborgarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": -0.5,
+      "quote": "Den är en apart reglering i skollagen och tar fokus från behovet av flera olika insatser för att motivera till deltagande i sfi och utvecklingen av undervisningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": 1.0,
+      "quote": "SKR instämmer i utredningens bedömningar och förslag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a21.2",
+      "sentiment": 0.2,
+      "quote": "Utredningen konstaterar att tidig information om regelverket är viktig för att tolkavgift ska ge incitament att lära sig svenska.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a22.2.7",
+      "sentiment": -0.5,
+      "quote": "Det är otillfredsställande att utredningen inte närmare analyserat om det kan föreligga rätt till ekonomiskt bistånd från kommunen för enskildas kostnader för tolkavgift som beslutats av till exempel Arbetsförmedlingen eller Försäkringskassan.",
+      "quote_type": "grund"
+    }
+  ]
+}

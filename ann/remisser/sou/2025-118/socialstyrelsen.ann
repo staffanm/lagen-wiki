@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/socialstyrelsen": "4ce286e0623f6f6509534c181f6da8fbb5c01b1899e9294c760fc663bc709230",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:10:55+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12397,
+      "completion_tokens": 1587,
+      "ended": "2026-09-01T15:11:42+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "66bfca6d2553453eb2e73e6f28e31870a112024321386a2e8ab4b464f15cac6e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslagen kan förväntas bidra till att stärka offentliga organs förberedelser för att vid behov kunna begära, ta emot och använda data med stöd av kapitel V i dataförordningen för att hantera allmänna nödlägen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.11.4",
+      "sentiment": 1.0,
+      "quote": "Det föreslagna uppdraget till Myndigheten för samhällsskydd och beredskap, numera Myndigheten för civilt försvar, att ge stöd till offentliga organ utgör vidare en viktig förutsättning för kartläggningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.5",
+      "sentiment": 1.0,
+      "quote": "Socialstyrelsen anser att det föreslagna uppdraget till sektorsansvariga beredskapsmyndigheter att kartlägga tekniska och organisatoriska förutsättningar inom respektive beredskapssektor att begära, ta emot och använda data vid allmänt nödläge enligt kapitel V i dataförordningen är nödvändigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.3",
+      "sentiment": -0.2,
+      "quote": "Det är emellertid osäkert om, och i så fall i vilken utsträckning, Socialstyrelsen har möjlighet att hantera detta inom befintlig ram.",
+      "quote_type": "grund"
+    }
+  ]
+}

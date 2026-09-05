@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/gislaved-kommun": "4031c9ec7fa9f2e83388b803a51b4ab7c3ea4c2614c856e22a022dcc26545785",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T03:30:28+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19660,
+      "completion_tokens": 2719,
+      "ended": "2026-09-02T03:31:55+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "a7ed246807d2e5db86b4d9e50eff2bfe841012937783d88ced829657b4529750"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kommunen delar kommissionens bedömning att produktivitetstillväxt är avgörande för att säkra framtida välfärd och konkurrenskraft.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.5,
+      "quote": "För landsbygdskommuner med relativt låg utbildningsnivå är detta särskilt viktigt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "För mindre kommuner kan digitala lösningar och AI bidra till effektivare administration, förbättrad service och minskad sårbarhet vid personalbrist.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.5,
+      "quote": "Små företag på landsbygden har ofta begränsad administrativ kapacitet, och komplexa regelverk riskerar därför att hämma företagande och investeringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "Små företag på landsbygden har ofta begränsad administrativ kapacitet, och komplexa regelverk riskerar därför att hämma företagande och investeringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "För landsbygdskommuner med svag skattekraft och höga strukturella kostnader är detta avgörande för långsiktig planering och investeringsförmåga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.2",
+      "sentiment": 0.5,
+      "quote": "minskad administrativ börda och färre riktade statsbidrag kan bidra till ökad produktivitet och stärkt lokal handlingsfrihet.",
+      "quote_type": "grund"
+    }
+  ]
+}

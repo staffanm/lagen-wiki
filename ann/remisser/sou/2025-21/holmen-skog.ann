@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/holmen-skog": "b06fde498d124e40686351389532701dbf887281998ef7c95558322c0af670c4",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:52:10+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 28677,
+      "completion_tokens": 3904,
+      "ended": "2026-09-01T17:54:25+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f7a18c53b7a266179db4c6d177def9189efc7a1a4c6c5d293e0cfcb62f20efe4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Holmen ser positivt kring förslagen som bidrar till ökad skoglig tillväxt, då det har en stor positiv klimateffekt samtidigt som de gynnar samhällsekonomi och sysselsättning i hela landet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "Holmen Skog tillstyrker förslaget att Skogsstyrelsen med flera myndigheter får i uppdrag att genomföra riktade informations- och rådgivningsinsatser till fastighetsägare/brukare omfattande de åtgärdsförslag som slutgiltigt beslutas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.2,
+      "quote": "Holmen Skog anser att miljömålet Begränsad miljöpåverkan bör, utöver lagt förslag, kompletteras med mål och uppföljning av den substitutionsnytta som uppnås genom olika material- och energival.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 1.0,
+      "quote": "Rådgivning kring förbättrad skogsskötsel, snabbare återbeskogning, minskade viltskador, gödsling samt åtgärder som ökar skogens motståndskraft mot skogsskador är viktiga exempel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec186",
+      "sentiment": 1.0,
+      "quote": "Holmen Skog bifaller förslaget att Skogsstyrelsen under perioden 2026–2030 betalar ut stöd motsvarande 50 procent av den dokumenterade kostnaden till markägare som i enlighet med\n\nSkogsstyrelsens allmänna råd gödslar skogsmark.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec891",
+      "sentiment": -1.0,
+      "quote": "Förslaget kan leda till en betydande negativ påverkan på råvaruutbudet för särskilt sågverksindustrin.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 0.5,
+      "quote": "Holmen Skog menar dock att förslaget bör kompletteras med att kolinbindningen inte bör ökas genom att minska brukande utan i första hand genom tillväxthöjande åtgärder eller minska utsläpp från torvmarker.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.5,
+      "quote": "Detta då påverkan av sådan vägbyggnad över torvmark endast sker i ringa omfattning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 0.2,
+      "quote": "då båda dessa produktgrupper kan ersätta fossilbaserade produkter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": 1.0,
+      "quote": "Det måste förenklas avsevärt och förändringen måste ske skyndsamt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": -0.5,
+      "quote": "Detta har medfört att, trots att beredningen inkluderat flertal områdestyper i bedömningen, ett antal områdestyper hamnat utanför vad som räknas som skyddad natur eller i fel kategori (OECM i stället för strikt skydd).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": 0.5,
+      "quote": "Det är av största vikt att Sverige tillämpar en likalydande definition av old growth forest i alla sammanhang.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1",
+      "sentiment": 1.0,
+      "quote": "Det är utomordentligt viktigt att skötsel genomförs enligt uppdaterade skötselplaner så att naturvärden inte förloras utan utvecklas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": 1.0,
+      "quote": "Holmen Skog anser att det bra att möjligheter till ekologisk kompensation lyfts fram.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": -1.0,
+      "quote": "En databas som innehåller information utan kvalitetssäkring av de uppgifter som rapporterats in bedöms ge mycket begränsat värde, men kan däremot skapa stora problem för enskilda markägare.",
+      "quote_type": "grund"
+    }
+  ]
+}

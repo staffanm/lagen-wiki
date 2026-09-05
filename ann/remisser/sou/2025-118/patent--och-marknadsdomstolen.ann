@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/patent--och-marknadsdomstolen": "1153cfa12e9f77483d79c06da61d3e529c88e1fca7c2773c7236a5f3aa8ca488",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:07:52+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12334,
+      "completion_tokens": 2849,
+      "ended": "2026-09-01T15:09:17+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e98ab94ab541263a16898b78a353be097eefc55ea755db8be6c92a5a9967b62f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Patent- och marknadsdomstolen har granskat betänkandet med utgångspunkt i de intressen som domstolen har att beakta och lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.5.6",
+      "sentiment": -0.2,
+      "quote": "Mot bakgrund av hur bestämmelsen är formulerad kan det enligt domstolen finnas behov av att även reglera att ett åtal – t.ex. enligt straffbestämmelserna i lagen [2018:558] om företagshemligheter – ska utgöra ett hinder mot att ta ut en sanktionsavgift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.4.4",
+      "sentiment": -0.2,
+      "quote": "Domstolen erinrar om att sistnämnda lag reglerar att Patent- och marknadsdomstolen vid vite får förbjuda näringsidkare att ställa upp oskäliga avtalsvillkor, medan rättsverkan av artikel 13 i dataförordningen är civilrättslig ogiltighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec284",
+      "sentiment": 0.5,
+      "quote": "En neutral hänvisning till artikel 43 kan dock vara att föredra i stället för den föreslagna lydelsen (jfr t.ex. 9 kap. 2 § tredje stycket varumärkeslagen [2010:1877]).",
+      "quote_type": "grund"
+    }
+  ]
+}

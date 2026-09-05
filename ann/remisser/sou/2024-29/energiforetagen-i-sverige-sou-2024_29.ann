@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/energiforetagen-i-sverige-sou-2024_29": "07d1d17bd850232d230480396f24f4eb0497b28906aadcfb78e538b038105275",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:39:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20333,
+      "completion_tokens": 2670,
+      "ended": "2026-09-02T02:40:57+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e4a257232ac864721ebf71d6a215011ea5d6006f7c74c70025cb4abd040f832b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Energiföretagen instämmer i stort i Produktivitetskommissionens förslag och bedömningar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec245",
+      "sentiment": 1.0,
+      "quote": "Det ligger väl i linje med de synpunkter Energiföretagen har framfört i remissvar avseende Ds Ny myndighet för miljöprövning (Dnr KN2025/01878).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec407",
+      "sentiment": -0.5,
+      "quote": "Det riskerar att sänka statusen på dem samt leda till sämre kvalitet vilket kan skada näringslivets kompetensförsörjning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec412",
+      "sentiment": 1.0,
+      "quote": "Eftersom det är efterfrågade utbildningar av energibranschen, och etableringsgraden för både civil- och högskoleingenjörer över lag är väldigt god, hade energirelevanta ingenjörsutbildningar troligtvis stärkts av en arbetsmarknadskomponent i resurstilldelningssystemet och dimensioneringen av högre utbildning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec439",
+      "sentiment": -0.5,
+      "quote": "Även om det är positivt att utredningen lagt fram ett förslag om mer arbetsmarknadsanknytning i dimensionering och finansiering av högre utbildning (9.3.2) är det viktigt med ännu större koppling till arbetsmarknaden.",
+      "quote_type": "grund"
+    }
+  ]
+}

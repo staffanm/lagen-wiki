@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:29/landsorganisationen-i-sverige-lo_": "131feeee83636c17879f1795139335fcb60cd4e45d65060d729e4286c786af13",
+      "artifact:forarbete/sou/2025-29": "8c4cff8b1f8014c3c2debe48408968feb04f0cf07ef3e404a469028cffd8dbb5"
+    },
+    "run": {
+      "started": "2026-09-01T14:46:20+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22169,
+      "completion_tokens": 7386,
+      "ended": "2026-09-01T14:50:44+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "db0c5f8359431bf661ba86429ad443df349d1b3138e82edf5952b4835e038e3a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "LO är mycket kritisk till att LO inte har fått möjlighet att delta i utredningens arbete, bortsett från ett möte som initierades av oss själva.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": 1.0,
+      "quote": "LO tillstyrker också förslaget att Samhalls ägaranvisning bör förlängas med tio år.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.4.1",
+      "sentiment": -1.0,
+      "quote": "LO anser, vilket också är uppfattning som framförs i betänkandet, att det är en förlust för både individer och samhälle om funktionsnedsattas möjlighet till meningsfull sysselsättning minskar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec345",
+      "sentiment": 0.8,
+      "quote": "Som anges i betänkandet är behovet av trygga och stabila anställningsförhållanden stort hos de som är anställda hos Samhall och uppsägningar skulle få betydande negativa konsekvenser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5.1",
+      "sentiment": -1.0,
+      "quote": "Kollektivavtalsreglerade villkor, som exempelvis lön och möjlighet till introduktionsperiod är något som enbart kollektivavtalsparterna kan förfoga över, inte staten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5.3",
+      "sentiment": -1.0,
+      "quote": "LO därmed också avstyrker förslaget om att introduktionsperioden skulle förlängas vid återgång från annat arbete.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.6.1",
+      "sentiment": 0.8,
+      "quote": "LO anser att det är rimligt att mäta antal anställda i skyddat arbete som övergår till en anställning på den reguljära arbetsmarknaden som varar minst ett år och har inget att erinra mot att mäta minsta antalet övergångar från LFU och från skyddat arbete.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec361",
+      "sentiment": -0.2,
+      "quote": "LO ställer sig tveksam till att ändra begreppet övergång till ”utrekrytering” eftersom det kan uppfattas som att Samhalls verksamhet enbart syftar till bemanning eller rekryteringstjänster.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7.1",
+      "sentiment": 0.6,
+      "quote": "LO tillstyrker att dagens uppdragsmål avskaffas och ersättas av ett reviderat mått på sysselsättning som bortser från den tid då arbetarna, i Samhalls regi, går som extraresurser i kunduppdrag.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec369",
+      "sentiment": -0.2,
+      "quote": "Det kan ifrågasättas om ett minsta antal yrkesroller verkligen ger den önskade effekten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.8.1",
+      "sentiment": 1.0,
+      "quote": "LO instämmer till fullo att Samhalls merkostnadsersättning även fortsatt bör ha den utformning som den har i dag, då den utbetalas som en klumpsumma.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.8.2",
+      "sentiment": 1.0,
+      "quote": "Att de anslagsmedel som avser merkostnadsersättning till Samhall ska räknas upp årligen är också något som LO tillstyrker och som länge har efterfrågat.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.8.4",
+      "sentiment": 1.0,
+      "quote": "LO anser att Samhall på ett tillfredsställande sätt har skött och sköter kontrollen av hur den statliga merkostnadsersättningen används.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.9.1",
+      "sentiment": 0.5,
+      "quote": "Bristande språkkunskaper skapar i dag svårigheter att både skapa en meningsfull sysselsättning och är en säkerhetsfråga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.10.1",
+      "sentiment": -0.5,
+      "quote": "Mål om ett visst antal lönetimmar riskerar också att sätta press på att ”fylla timmar” snarare än att skapa meningsfull utveckling för individen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.10.2",
+      "sentiment": 0.5,
+      "quote": "En förutsättning för att Arbetsförmedlingen ska kunna klara sitt anvisningsuppdrag, att uppföljning och kontroll ska falla väl ut är att det också följer med erforderliga resurser för att kunna utföra det.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.11.1",
+      "sentiment": 0.5,
+      "quote": "LO anser att Arbetsförmedlingens förvaltningsanslag behöver höjas generellt dels för att täcka upp för de tidigare neddragningarna under de senaste åren, dels för de utökade uppdrag som föreslås kopplande till målgruppen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.11.3",
+      "sentiment": 0.2,
+      "quote": "Arbetsförmedlingens insatser för den här målgruppen ska ske i myndighetens regi.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.11.4",
+      "sentiment": 0.5,
+      "quote": "Tidigare insatser är särskilt viktigt för målgrupper med svagare ställning på arbetsmarknaden och en ökad samverkan mellan Arbetsförmedlingen och kommunsektorn är centralt för att minska risken att skoltiden övergår till arbetslöshet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.12.1",
+      "sentiment": 1.0,
+      "quote": "LO tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.12.2",
+      "sentiment": -1.0,
+      "quote": "Det finns alltså en stor risk att de som anvisas till sådan verksamhet inte kommer att få en meningsfull och anpassad sysselsättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.12.3",
+      "sentiment": -1.0,
+      "quote": "LO avstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.13.1",
+      "sentiment": 0.5,
+      "quote": "Rimligtvis bör utredningens ingång vara att brett analysera varför dagens ordning inte leder till fler deltagare i OSA.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.13.2",
+      "sentiment": 1.0,
+      "quote": "Det är en orimlig och inte försvarbar ordning att personer med funktionsnedsättning mer eller mindre parkeras hos Arbetsförmedlingen utan att få de stöd och insatser de behöver.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.14.1",
+      "sentiment": -1.0,
+      "quote": "LO avstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.15.1",
+      "sentiment": 0.2,
+      "quote": "Det har varit oförändrat under många år samtidigt som löner och generella kostnader har ökat.",
+      "quote_type": "grund"
+    }
+  ]
+}

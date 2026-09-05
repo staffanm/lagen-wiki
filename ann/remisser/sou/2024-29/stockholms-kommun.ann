@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/stockholms-kommun": "0dc104258011104bb6ed7fb50818a1b9ca02f128c4b705747a60c7b72d9e34fe",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T07:21:04+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 54419,
+      "completion_tokens": 11714,
+      "ended": "2026-09-02T07:27:45+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "613f57f220c4c3000207a0076ecf91b3b2efd6588ad2b886ece02ad2268f86de"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Nu blir analyser och konsekvensbedömningar så kortfattade och bristfälliga att det inte går att göra en rimlig bedömning eller ställningstagande till förslagen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": 0.5,
+      "quote": "under förutsättning att den innehåller konkreta förslag om ett ökat statligt åtagande avseende bostadsmarknadens funktionssätt och bostadsbyggande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": 0.2,
+      "quote": "Stadsledningskontoret delar bilden av att produktivitetsutvecklingen i branschen har varit för svag men vill samtidigt lyfta en oro för att en ökad industrialisering kan påverka kvalitet och långsiktig hållbarhet i byggandet på ett negativt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": -1.0,
+      "quote": "varken produktivitet, demokratisk förankring eller medborgerlig legitimitet skulle stärkas om frågor om markanvändning förflyttas från kommuner till stat eller region.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.4",
+      "sentiment": 0.5,
+      "quote": "I dag saknas ofta sammanvägda bedömningar från regionala och statliga aktörer i frågor som rör exempelvis samhällsplanering och investeringar, vilket leder till att enskilda kommuner får bära ett oproportionerligt stort ansvar för utredningar och samordning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.6",
+      "sentiment": -1.0,
+      "quote": "Särskilt gäller detta om man begränsar möjligheterna att påverka gestaltning av stadsrummet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": -1.0,
+      "quote": "då det inte i sig kommer leda varken till ökat byggande eller mer social hållbarhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": 0.5,
+      "quote": "betygsättningen i grund- och gymnasieskolan bör utformas för att ge så likvärdiga förutsättningar som möjligt",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec407",
+      "sentiment": 0.2,
+      "quote": "Förslagen kommer att ha påverkan på huvudmännens utbud och organisering samt kommer sannolikt att innebära ökade kostnader för berörd huvudman.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec410",
+      "sentiment": 0.5,
+      "quote": "under förutsättning att förslaget utformas så att det bidrar till en ökad likvärdighet mellan kommunala och enskilda huvudmän och att det bidrar till mer rimliga villkor för finansiering av skolverksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec427",
+      "sentiment": 0.5,
+      "quote": "Utredningen behöver dock kompletteras med en tydlig beskrivning av det tillkommande ansvaret för de olika skolaktörerna samt de kostnader som detta kommer att medföra för kommunerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": 0.5,
+      "quote": "Utöver frågan om finansiering är även bristen på behöriga lärare och svårigheter att rekrytera personal till verksamheterna en akut utmaning för samtliga huvudmän som behöver hanteras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec502",
+      "sentiment": 1.0,
+      "quote": "Att dela kunskap och erfarenheter är värdefullt för att utveckla den kommunala verksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.2",
+      "sentiment": 0.5,
+      "quote": "Stadsledningskontoret anser att statsbidrag i första hand bör vara generella och i de fall de är riktade, ska de utformas enligt tydliga och transparenta principer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.1",
+      "sentiment": -1.0,
+      "quote": "Att i det läget utan närmare analys föreslå förändringar som försvagar existerande skattebaser och ger skattesänkningar för de med högst inkomster framstår som oansvarigt",
+      "quote_type": "grund"
+    }
+  ]
+}

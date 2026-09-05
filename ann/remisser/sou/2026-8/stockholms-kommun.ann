@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/stockholms-kommun": "3aacd85421cf59314aaed163b8ba5e9f05d098045816460b43951ae67edfb2f0",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T14:06:06+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19457,
+      "completion_tokens": 4559,
+      "ended": "2026-09-01T14:08:34+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ffdecab6cdae5211151acf08024635b23621a26d6649ebc8cc0e30d9f4382121"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sammantaget innebär förslagen en tydlig ambitionshöjning, men för att de ska få verklig effekt krävs att landets kommuner tillförs mer resurser och förbättrat stöd från exempelvis socialstyrelsen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": -0.5,
+      "quote": "Det finns en risk att sakkunnigas utlåtanden får ett alltför stort genomslag, vilket kan försvaga socialnämndens och domstolens självständiga ansvar för bedömningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9.2",
+      "sentiment": 1.0,
+      "quote": "Stockholms stad tillstyrker utredningens bedömning att åklagare inte bör ges en generell rätt att fatta beslut om omedelbart omhändertagande, utan att identifierade brister i stället bör hanteras inom ramen för nuvarande system.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec251",
+      "sentiment": 1.0,
+      "quote": "En sådan tydligare reglering, tillsammans med ett uttryckligt lagstöd för undantag i situationer där verkställigheten annars riskeras, bedöms stärka rättssäkerheten och förutsebarheten i handläggningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec338",
+      "sentiment": 1.0,
+      "quote": "Den föreslagna stegvisa prövningsmodellen tydliggör vilka kriterier som ska ligga till grund för bedömningen och minskar risken för att otydliga begrepp, såsom kravet på ”varaktig och genomgripande förändring”, i praktiken får en alltför styrande betydelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec357",
+      "sentiment": -0.5,
+      "quote": "Den föreslagna ordningen riskerar att medföra ökad administrativ belastning och komplexitet i handläggningen, både för socialtjänst och domstolar, utan att tillföra ett tydligt mervärde i fråga om rättssäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec503",
+      "sentiment": 0.5,
+      "quote": "Sådana beslut ska dock endast fattas när mindre ingripande åtgärder inte är tillräckliga och när åtgärden är proportionerlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec512",
+      "sentiment": 1.0,
+      "quote": "Förslaget bedöms tydliggöra ansvarsfördelningen och minska nuvarande otydlighet, vilket kan motverka praktiska hinder såsom inställda umgängen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec367",
+      "sentiment": -0.5,
+      "quote": "det riskerar att leda till otydlig ansvarsfördelning och en fragmentisering av arbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec469",
+      "sentiment": -0.5,
+      "quote": "bedöms förslaget öka komplexiteten och risken för olika tolkningar snarare än att skapa ökad likvärdighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec564",
+      "sentiment": 1.0,
+      "quote": "Möjlighet till tidsbegränsad uppföljning, upp till ett år, bedöms skapa bättre förutsättningar att uppmärksamma kvarstående eller återkommande behov av stöd och skydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec584",
+      "sentiment": 1.0,
+      "quote": "Stockholms stad tillstyrker en tydligare reglering av ansvarsfördelningen mellan kommuner vid uppföljning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec596",
+      "sentiment": 1.0,
+      "quote": "Att skydds- och förhandsbedömningar även omfattar syskon och andra barn i samma hushåll är en viktig åtgärd för att säkerställa att inga barn förbises.",
+      "quote_type": "grund"
+    }
+  ]
+}

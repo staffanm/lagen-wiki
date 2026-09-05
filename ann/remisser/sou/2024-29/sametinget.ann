@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/sametinget": "0ba3a8e8f040e41c744460f2b012ac87d84af548203d48286cc54700029d633f",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:50:13+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19843,
+      "completion_tokens": 1854,
+      "ended": "2026-09-02T06:51:12+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "920989bc6437dd31ce9cf757e84c7eff776cf5135c96fa05ded18145a44bfe0a"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Sametinget vill understryka att om syftet med att skapa så kallade ventiler i miljöbalken och förenkla tillståndsprocesser, är att lättare kunna genomföra en grön naturresurskrävande omställning, kan det vara förödande för den samiska kulturen om den inte beaktas.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.2",
+      "sentiment": -0.5,
+      "quote": "Att exempelvis jämföra riksintressen ytmässigt/geografiskt och främst analysera dessa ur ett samhällsekonomiskt perspektiv, löser inte de målkonflikter som finns redan idag.",
+      "quote_type": "grund"
+    }
+  ]
+}

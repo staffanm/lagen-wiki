@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/famna": "5104fc513089b153d8ff13924a0b192b2cf38262f1219b4b3757b22eacbd5d8e",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:56:51+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 30855,
+      "completion_tokens": 4480,
+      "ended": "2026-09-02T02:59:54+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "acfd4d96651f7d775a98de3671e50fb6f9ed6033dfaed31e1bc9b9b217045405"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Även d e öka de administrativa kostnader na till följd av ökad regelbörda, tillståndsprocesser och rapporteringskrav är förödande för mångfalden i välfärden .",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.1",
+      "sentiment": 0.5,
+      "quote": "regelfrågorna har stora betydelse för förutsättningarna att driva verksamhet inom välfärden, att minska regelbörda och administrativa kostnader välkomnas av fristående aktörer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.2",
+      "sentiment": 1.0,
+      "quote": "Famna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": 0.8,
+      "quote": "det är av stor vikt att synliggör a konsekvenser vid regeländringar . Dels för att tydligt motivera och påvisa att regelverkets positiva effekter överstiger de negativa , dels för att bilda sig en uppfattning av konsekvenser för fristående aktörer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.4",
+      "sentiment": 0.8,
+      "quote": "det är viktigt att på ett systematiskt sätt involvera berörda parter och ge dem möjlighet att lämna synpunkter på både befintliga och kommande regler .",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec186",
+      "sentiment": 0.8,
+      "quote": "det är av vikt att berörda parter involveras på ett systematiskt sätt och som kommissionen föreslår bör i första hand företag ges en möjlighet att lämna synpunkter på regelverk i ett inledande utvecklingsskede.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec188",
+      "sentiment": 1.0,
+      "quote": "Famna tillstyrker kommissionens förslag .",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec189",
+      "sentiment": 0.8,
+      "quote": "det är viktigt att över tid säkerställa att regelverkets positiva effekter överstiger de negativa .",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec190",
+      "sentiment": 1.0,
+      "quote": "Famna delar bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6.8",
+      "sentiment": 1.0,
+      "quote": "Famna delar bedömning arna och tillstyrker förslage t.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6.10",
+      "sentiment": 0.8,
+      "quote": "det bör skapas ett system som samlar och förenklar företagens bild av vilka uppgiftskrav som gäller för deras verksamheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.1",
+      "sentiment": 0.5,
+      "quote": "det kan vara gynnsamt att utveckla metodstöd för försök i offentlig sektor i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.2",
+      "sentiment": 0.8,
+      "quote": "det krävs förbättra de möjlighete r att använda regulatoriska sandlådor, för att öka förmågan till experimenterande och innovation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.1",
+      "sentiment": 0.8,
+      "quote": "Komplexa samhällsutmaningar kräver ett strukturerat , tvärdisciplinärt och holistiskt förhållningsätt .",
+      "quote_type": "grund"
+    }
+  ]
+}

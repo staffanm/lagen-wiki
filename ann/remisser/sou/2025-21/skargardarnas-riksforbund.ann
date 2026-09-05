@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/skargardarnas-riksforbund": "223b2d2104e91ca01cdc887ab59373e9c4a02812586edfed9ecf5cdac08e4b38",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:36:03+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25604,
+      "completion_tokens": 1029,
+      "ended": "2026-09-01T23:37:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "61b61968c45d454ef8daad297002f18b19e77fa6832a8cca170040c0ede750a9"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Rapporten SOU 2025:21 förtjänar erkännande för sitt ambitiösa arbete med att integrera aspekter av biologisk mångfald och traditionell kunskap.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

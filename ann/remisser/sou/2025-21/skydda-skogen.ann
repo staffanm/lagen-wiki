@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/skydda-skogen": "71f147f875466d3fac52ee65e1894b6470821b11b07748abbf60b0c2f8b312c4",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:34:02+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27521,
+      "completion_tokens": 2836,
+      "ended": "2026-09-01T23:36:03+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "42a546d3296a9268a6439dd9812797b05a072258f2de5007f84cc10804947446"
+    }
+  },
+  "overall": {
+    "sentiment": -0.6,
+    "quote": "Flera av förslagen handlar alltså inte om att öka arealen skyddad natur eller genomföra åtgärder som får faktisk effekt på kolupptag eller biologisk mångfald; istället handlar det om att hitta fördelaktiga sätt att räkna på.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec186",
+      "sentiment": -0.8,
+      "quote": "Forskning visar på negativa effekter på marklevande lavar och trädens motståndskraft mot torka, samt förändring av artsammansättning i mark och fältskikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.4",
+      "sentiment": -0.6,
+      "quote": "Detta kan förvärra miljöproblemen: vi har under många år haft en negativ trend för biologisk mångfald knuten till olika skogstyper och de flesta av Sveriges skogstyper har idag inte så kallad god bevarandestatus.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1",
+      "sentiment": -0.2,
+      "quote": "Därför får inte restaurering ske till priset av att låta bli att skydda och sköta det vi redan har.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -0.9,
+      "quote": "Det är ett ensidigt och okunnigt perspektiv på naturskog; många arter är ju beroende av kontinuitet i livsmiljön och kan därför ha sin livsmiljö i, till exempel, en skog där man plockhuggit en del av de äldre träden och därmed sänkt beståndsåldern.",
+      "quote_type": "grund"
+    }
+  ]
+}

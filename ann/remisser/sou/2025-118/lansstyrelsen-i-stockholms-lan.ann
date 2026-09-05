@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/lansstyrelsen-i-stockholms-lan": "695ef18c9d1698e2ab950342c76f30e50406b15915ff110b366ed4812f7f4f93",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:06:02+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12002,
+      "completion_tokens": 694,
+      "ended": "2026-09-01T15:06:23+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8e7e470debd32bcd92d7e073856203ce85df900aa3016f3d08c84e0901c6445f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Länsstyrelsen i Stockholms län beslutar att avstå från att lämna synpunkter på betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": []
+}

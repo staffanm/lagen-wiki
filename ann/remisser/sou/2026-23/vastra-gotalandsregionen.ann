@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/vastra-gotalandsregionen": "04339419f47e04e07956366d07e9fc220f2f11128ef354c3f4fb4935ace5b04a",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:58:44+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20928,
+      "completion_tokens": 3743,
+      "ended": "2026-09-01T13:00:49+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "57c3067c8adaf7d0b58174e874db4df92b7911d8b9a7d6bc8731164a4e9272f3"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "VGR ser att ett införande av avgift för tolkning vid ärendehandläggning medför en påtaglig risk för ojämlik tillgång till offentliga tjänster inom samtliga myndigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": -1.0,
+      "quote": "VGR anser därför att screeningen bör omfattas av samma principer om undantag från tolkavgift som övrig hälso- och sjukvård.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.6",
+      "sentiment": 1.0,
+      "quote": "det riskerar att inverka negativt på flera av barnets rättigheter enligt barnkonventionen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.7",
+      "sentiment": 1.0,
+      "quote": "Utredningen lyfter flera anledningar till undantaget utifrån både juridiskt -, etiskt- och patientsäkerhetsperspektiv som VGR instämmer i.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.11",
+      "sentiment": -0.2,
+      "quote": "VGR anser att utredningen specifikt hade behövt analysera hur det här undantaget för personer med vissa funktionsnedsättningar ställer sig i relation till FN:s konvention om rättigheter för personer med funktionsnedsättning, samt utforma förslaget så att det är i linje med denna konvention.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.2,
+      "quote": "VGR anser att utredningen specifikt hade behövt analysera hur det här undantaget för personer med vissa funktionsnedsättningar ställer sig i relation till FN:s konvention om rättigheter för personer med funktionsnedsättning, samt utforma förslaget så att det är i linje med denna konvention.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.7",
+      "sentiment": -1.0,
+      "quote": "Mot denna bakgrund riskerar tolkavgifter att skapa ytterligare hinder för en grupp som redan har begränsade möjligheter att tillvarata sina rättigheter och tillgodogöra sig information från myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.11",
+      "sentiment": 0.5,
+      "quote": "bör ändå jiddisch och romani chib vara fråntagna tolkavgift då det är erkända minoritetsspråk med särskilda rättigheter att skyddas och främjas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 1.0,
+      "quote": "det skapar en tydlig gräns för vårdpersonal att inte involvera barn som tolkar vid behandling av deras närstående.",
+      "quote_type": "grund"
+    }
+  ]
+}

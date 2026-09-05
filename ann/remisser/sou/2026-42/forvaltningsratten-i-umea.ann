@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:42/forvaltningsratten-i-umea": "b3e5a853a668287cef20678006e80393efec9daf5a68bd0311bac4d6f90fa6aa",
+      "artifact:forarbete/sou/2026-42": "9b052e151cff40f631bb29415daf17e020b1c9102d6eb67eced8beb395d03f21"
+    },
+    "run": {
+      "started": "2026-09-01T14:32:22+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25142,
+      "completion_tokens": 2644,
+      "ended": "2026-09-01T14:34:16+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "5c560f87a109d80fe861626c023b1f1685a31d57a8c6b1f3d4eaafa9182bb04a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Förvaltningsrätten är osäker på om utredningen, när ställning tas till kostnader för de allmänna förvaltningsdomstolarna och finansiering av dessa, har föreställningen att dessa fördelas på fler än de högst två förvaltningsrätter som får målen som effekt av de forumregler som redovisats ovan.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.16",
+      "sentiment": 0.2,
+      "quote": "Vid genomläsning av betänkandet instämmer förvaltningsrätten i att förslagen för förvaltningsdomstolarnas del kan innebära en viss ökning av mer resurskrävande mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.7.6",
+      "sentiment": -0.2,
+      "quote": "Förvaltningsrätten är osäker på om utredningen, när ställning tas till kostnader för de allmänna förvaltningsdomstolarna och finansiering av dessa, har föreställningen att dessa fördelas på fler än de högst två förvaltningsrätter som får målen som effekt av de forumregler som redovisats ovan.",
+      "quote_type": "grund"
+    }
+  ]
+}

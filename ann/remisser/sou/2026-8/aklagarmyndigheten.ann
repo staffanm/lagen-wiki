@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/aklagarmyndigheten": "9b788e58e26a4a4ee83da906f58f54b5ed96e04a89517e6ab2b8aeca596754c1",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:36:55+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19904,
+      "completion_tokens": 2972,
+      "ended": "2026-09-01T13:38:49+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "07a58fdedc94df06b0ff56ef2919a5f084ede818b6388fd77e9809458b29d9c2"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Sammantaget kommer förslaget att få oproportionerliga konsekvenser och kostnader för Åklagarmyndighetens verksamhet sett till vilka utmaningar som befogenheten är avsedd att lösa.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec14",
+      "sentiment": -1.0,
+      "quote": "Utbildningen är således långtifrån tillräcklig för att åklagare ska kunna besluta om omedelbart omhändertagande enligt LVU.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9.2",
+      "sentiment": 1.0,
+      "quote": "Åklagarmyndigheten instämmer helt i utredningens bedömning att åklagare inte bör kunna fatta beslut om omedelbart omhändertagande enligt LVU.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.4.2",
+      "sentiment": -0.5,
+      "quote": "Utöver de uppskattade kostnader som anges i avsnitt 11.4.2 kommer det att tillkomma kostnader för att anpassa myndighetens it-stöd.",
+      "quote_type": "grund"
+    }
+  ]
+}

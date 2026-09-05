@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/foreningen-sveriges-socialchefer": "2453248059c310d967342f5b3ca4631f142e386b43ac24ea06f9f7b4ce0f38fe",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:20:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21751,
+      "completion_tokens": 2123,
+      "ended": "2026-09-01T15:21:45+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f9290c2d00a1ccc49766d78e4cd130121697e876e5895a462fed93f080a09e7b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "FSS bedömer att förslagen sammantaget stärker ett proportionerligt, individanpassat och rättssäkert smittskydd, samtidigt som samhällets beredskap och förmåga att hantera framtida smitthot förbättras.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 0.5,
+      "quote": "Ett samlat nationellt stöd, gemensamma riktlinjer, utbildningar och kunskapsstöd kan skapa större likvärdighet och underlätta kommunernas arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11",
+      "sentiment": -0.2,
+      "quote": "Samtidigt bör förändringar, exempelvis kopplade till informationsplikt, följas upp noggrant för att säkerställa att de får avsedd effekt och inte leder till otydlighet i verksamheterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4",
+      "sentiment": -0.5,
+      "quote": "Vi anser dock att utredningen i flera delar underskattar de praktiska och organisatoriska konsekvenserna för kommunerna.",
+      "quote_type": "grund"
+    }
+  ]
+}

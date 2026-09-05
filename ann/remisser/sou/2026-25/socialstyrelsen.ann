@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/socialstyrelsen": "df4fb30660ad1fe787ecbf91d3860ceea0cf14864d15c4f6934b0cdf51280a99",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:48:50+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23075,
+      "completion_tokens": 3256,
+      "ended": "2026-09-01T15:50:40+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c550abcd8d65d8dac0084835451e3fa222f0d6bc24e615613be2065f7be40c42"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Socialstyrelsen bedömer att utredningens överväganden om att utse Folkhälsomyndigheten till nationell samordnare för vårdhygien inte i tillräcklig utsträckning visar att syftet med samordningen skulle uppnås.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 1.0,
+      "quote": "En nationell samordning kan bidra till att skapa bättre förutsättningar för en sammanhållen utveckling av området, genom att stödja gemensamma arbetssätt, öka kunskapsöverföringen och främja en mer enhetlig tillämpning av den reglering som råder inom hälso- och sjukvården, tandvården och omsorgen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec446",
+      "sentiment": 1.0,
+      "quote": "Socialstyrelsen instämmer i den bedömning som utredningen gör, att syftet med ett nationellt samordningsansvar av vårdhygienfrågor bör vara att minska vårdrelaterade infektioner bland patienter och brukare och stärka det vårdhygieniska arbetet i hela landet.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": -1.0,
+      "quote": "Enligt myndighetens bedömning talar utredningens överväganden om patientsäkerhet och Socialstyrelsens roll i stället för att målen med en nationell samordning bättre skulle kunna uppnås om samordningsfunktionen inrättades vid Socialstyrelsen.",
+      "quote_type": "grund"
+    }
+  ]
+}

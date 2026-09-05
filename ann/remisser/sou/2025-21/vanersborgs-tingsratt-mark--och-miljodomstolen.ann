@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/vanersborgs-tingsratt-mark--och-miljodomstolen": "34eaa6ba8a6500f9d53713a84127eb725f10396632a75c6ea59505f7d5c8de1d",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T01:10:32+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26579,
+      "completion_tokens": 3358,
+      "ended": "2026-09-02T01:12:48+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8217c54c194706553110dfaec038801006dfd29dc7065354706060d3d16ac14f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Vänersborgs tingsrätt, Mark- och miljödomstolen, har granskat betänkandet utifrån de intressen som domstolen har anledning att bevaka och har med den utgångspunkten följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.2,
+      "quote": "Tingsrätten anser att begreppet torvmark behöver definieras på ett sådant sätt att det klart framgår vad som utgör en torvmark, t.ex. med avseende på yta och mäktighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": -0.2,
+      "quote": "Tingsrätten anser att formuleringen ”eller kompensera” skapar utrymme för feltolkning genom villfarelsen att alla steg i skadelindringshierarkin inte behöver följas utan att intrånget i stället kan kompenseras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.2,
+      "quote": "Tingsrätten saknar i det sammanhanget ett resonemang gällande avvägningen mellan miljökonsekvenserna av upphörd brytning och användning av alternativa produkter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1.4",
+      "sentiment": -1.0,
+      "quote": "Urvalet av vilka områden som ska prioriteras i bevarandearbetet enligt 7 kap. miljöbalken bör ske på andra grunder än utgången i 12:6-samåd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": -0.2,
+      "quote": "Tingsrätten anser att förhållningssättet behöver vara konsekvent för de olika typer av vattenverksamheter som listas i 19 § förordningen om vattenverksamheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": -1.0,
+      "quote": "Tingsrätten anser att förslaget är vagt formulerat och svårt att tillämpa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -0.2,
+      "quote": "Domstolen noterar dock att det inte finns något författningsförslag i denna del och saknar också en analys över hur förslaget förhåller sig till praxis (se t.ex. NJA 2012 s. 362).",
+      "quote_type": "grund"
+    }
+  ]
+}

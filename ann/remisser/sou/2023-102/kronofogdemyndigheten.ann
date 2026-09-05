@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/kronofogdemyndigheten": "4553bede9fbde27ebcb4e02ba0b7f6bd6e7f00e1ea7a26e5b364fd77f8d3e584",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:46:45+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 11438,
+      "completion_tokens": 3053,
+      "ended": "2026-09-01T16:48:17+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0c493677f451887b8387e38c258c34cc29143a58cd1e7aabb3259e9cb771e059"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Kronofogden har inga synpunkter på förslagen som rör myndighetens verksamhet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec52",
+      "sentiment": 1.0,
+      "quote": "Kronofogden bedömer att de viten och sanktionsavgifter som kan komma att lämnas till Kronofogden kommer få begränsad inverkan på myndighetens verksamhet då antalet ärenden bedöms vara få.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec60",
+      "sentiment": 1.0,
+      "quote": "Kronofogden bedömer att de viten och sanktionsavgifter som kan komma att lämnas till Kronofogden kommer få begränsad inverkan på myndighetens verksamhet då antalet ärenden bedöms vara få.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec62",
+      "sentiment": 1.0,
+      "quote": "Kronofogden bedömer att det inte kommer behöva genomföras några systemförändringar för att hantera mål om indrivning av viten eller sanktionsavgifter.",
+      "quote_type": "grund"
+    }
+  ]
+}

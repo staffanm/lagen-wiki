@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/mkb-fastighets-ab": "fddd3da7d97db93811f2d96fd94fd4fa705966c7c3516261c0a006db83be7e8a",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:12:17+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20970,
+      "completion_tokens": 3746,
+      "ended": "2026-09-02T05:14:18+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "40137c2424bc793178ebb2b5e90561aad34f54eb188a050db21dc3a0853e1852"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Det är MKB:s uppfattning att nya utredningar och reformerade regelverk inte är det som behövs för att lösa de knutar som utgör hinder för att bygga fler bostäder.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": -0.5,
+      "quote": "Det är MKB:s uppfattning att nya utredningar och reformerade regelverk inte är det som behövs för att lösa de knutar som utgör hinder för att bygga fler bostäder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": 0.0,
+      "quote": "MKB ser inte behov av en översyn av regelverk, utmaningarna finns i kommuners tillämpning av bestämmelserna, bland annat kopplat till gestaltning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.6",
+      "sentiment": 0.8,
+      "quote": "MKB delar bilden av att ökad förutsägbarhet vad gäller gestaltning och utseende i nyproduktion är avgörande för en mer effektiv byggprocess.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.7",
+      "sentiment": 0.5,
+      "quote": "Ledtider i planprocessen har direkt påverkan på kostnadsbilden vid nyproduktion och det är viktigt att kunna följa upp hur dessa utvecklas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.8",
+      "sentiment": 0.8,
+      "quote": "I linje med tidigare kommentarer är MKB positiva till förslag som syftar till att öka förutsägbarheten både vad gäller krav och kostnader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.11",
+      "sentiment": 0.8,
+      "quote": "Förslagen kan skapa möjligheter till ändamålsenligt och kostnadseffektivt bostadsbyggande när dessa former är lämpliga att använda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": -0.8,
+      "quote": "Det är nödvändigt för att lyckas bygga bort bostadsbristen i verklig mening, och innebär samtidigt en minskad affärsrisk.",
+      "quote_type": "grund"
+    }
+  ]
+}

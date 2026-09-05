@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/varldsnaturfonden-wwf": "f74b4ee5a3ce48f3952caa51d1fbf9c7255d2791cd7bb1c6e1fa81aff21de2f5",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T01:12:48+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 43078,
+      "completion_tokens": 5992,
+      "ended": "2026-09-02T01:17:18+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b2a49230b229ca0a10ed70dd4464ee6acbc1a722a1508e94853710ea2887c6c2"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Tyvärr kan vi konstatera att miljömålsberedningen har misslyckats med sitt uppdrag att föreslå hur Sverige ska leva upp till internationella åtaganden och EU-krav när det gäller såväl biologisk mångfald som klimat.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": -0.5,
+      "quote": "de förslag som presenterats långt ifrån tillräckliga för att leva upp till kraven i såväl det globala ramverket som i EU-strategin.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 1.0,
+      "quote": "Detta kommer öka möjligheten för att fler lokalt förankrade åtgärder ges stöd och kan genomföras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": -0.2,
+      "quote": "En sådan eventuell precisering hör hemma under miljökvalitetsmålet ”Begränsad klimatpåverkan”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.5,
+      "quote": "betänkandets förslag är långt ifrån tillräckliga och riskerar i vissa fall till och med försämra miljön i våra skogar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "Förslag som sannolikt strider mot internationella åtaganden då det har negativa konsekvenser för biologisk mångfald, vattendrag och skogens resiliens.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": 1.0,
+      "quote": "Certifierat naturbeteskött bidrar starkt till den biologiska mångfalden och ett ökat nyttjande av vildsvin som en livsmedelsresurs kan också bidra till balanserade populationsnivåer",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 0.5,
+      "quote": "Vi vill dessutom understryka att torvmark som planeras att tas i anspråk behöver undersökas för särskilda höga biologiska värden och om den är skyddsvärd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 1.0,
+      "quote": "för att säkerställa utsläppsminskningar från organogen mark.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.11",
+      "sentiment": -1.0,
+      "quote": "Skogliga impediment har generellt lägre betydelse för den biologiska mångfalden och uppfyller därmed svårligen kriteriet att vara av särskild betydelse för den biologiska mångfalden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -1.0,
+      "quote": "Det nu aktuella förslaget innebär en uppenbar risk att över en miljon hektar skyddsvärd skog kommer att avverkas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.1",
+      "sentiment": 1.0,
+      "quote": "Att alla skyddade områden förvaltas effektivt är avgörande för att långsiktigt skydda vår natur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 1.0,
+      "quote": "Även slopat krav på återbeskogningsplikt i en zon på 25 meter närmast jordbruksmark ställer vi oss positiva till.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.2.1",
+      "sentiment": -0.2,
+      "quote": "det som föreslås är allt för vagt formulerat och kan nog redan anses vara uppnått.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 1.0,
+      "quote": "Vi stödjer starkt förslaget om att tillsätta en nationell samordnare för näringslivets arbete med biologisk mångfald",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

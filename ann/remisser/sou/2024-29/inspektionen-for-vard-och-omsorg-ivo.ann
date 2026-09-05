@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/inspektionen-for-vard-och-omsorg-ivo": "f6db955466b23714b4bbdacd7f170d687f0eede950f757a6aa68afb35a5e567b",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T03:59:35+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19020,
+      "completion_tokens": 1655,
+      "ended": "2026-09-02T04:00:28+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "faf27ecca714d8ad9958d2ad27e2eaef892b1cca153e9e905a0ee63110cd7bd9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Utifrån IVO:s uppdrag att bedriva tillsyn och tillståndsprövning inom hälso- och sjukvården och socialtjänsten ser IVO positivt på inriktningen i del- och slutbetänkandet.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/malmo-universitet": "1eb6e950c7c7bb53e0ec2130c6b7dc4d8a7217d923591a2a0b84d7b1ff8a0b35",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:09:24+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 24646,
+      "completion_tokens": 2677,
+      "ended": "2026-09-02T05:10:58+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "9c70b6011ec429d4fa211cc7b360486cc70dec028b3bd10fce21578478ce3f06"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Universitetet anser att även om flera förslag och resonemang är intressanta och värda fortsatt diskussion och analys, så präglas kommissionens utredning av en tämligen avgränsad och instrumentell syn på den högre utbildning och forskning som bedrivs vid landets högskolor och universitet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.3.1",
+      "sentiment": -0.2,
+      "quote": "Malmö universitet ser att det finns såväl principiella som praktiska aspekter av förslaget som kräver ytterligare utredning och konsekvensanalys innan de övervägs närmare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 0.2,
+      "quote": "Det finns risker förknippade med förslaget om att fokusera för mycket på snabb genomströmning och examensfrekvens och att utbudet och dimensioneringen utgår i för hög grad från den befintliga efterfrågan på arbetsmarknaden.",
+      "quote_type": "grund"
+    }
+  ]
+}

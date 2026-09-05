@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/katrineholm-kommun": "a9a41463df68a9b6a61421e1e721f811c9c9fa7c2561e074bafda4197779b69f",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:11:21+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 48733,
+      "completion_tokens": 9092,
+      "ended": "2026-09-02T04:16:23+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "dbbfe0c7148b6f84b8450a8bc4d874b112c039df935175cdcb8fa812f315da69"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Katrineholms kommun har beretts möjlighet att yttra sig över Produktivitetskommissionens betänkanden Goda möjligheter till ökat välstånd (SOU 2024:29) och Fler möjligheter till ökat välstånd (SOU 2025:96).",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec313",
+      "sentiment": -1.0,
+      "quote": "Katrineholms kommun bedömer att detta förslag kommer att ge ett relativt lågt tillskott av bostäder och medföra att regelverket för bygglov upplevs än mer otydligt om det ska vara tillåtet att uppföra vissa typer av småhus bygglovsfritt, samtidigt som andra betydligt mindre åtgärder, t.ex. garage eller plan, fortfarande kommer kräva bygglov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": -1.0,
+      "quote": "Katrineholms kommun avstyrker kommissionens bedömning och förslag och menar att en flytt av beslutsnivån snarare kan få motsatt effekt samt öka avståndet mellan beslutsfattare och byggaktörer, som i regel för en landsbygdskommun utgörs av lokala byggherrar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec280",
+      "sentiment": 0.2,
+      "quote": "Den främsta anledningen till den ökade tidsåtgången, och kostnadsökningarna, bedöms dock bero på kraftigt ökade krav på diverse utredningar som har vuxit fram via praxis hos domstolarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7",
+      "sentiment": 0.5,
+      "quote": "Flera av de föreslagna åtgärderna är dock inte tillräckligt precisa och behöver kompletteras för att fungera i praktisk tillämpning och regional kontext.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.2",
+      "sentiment": 0.5,
+      "quote": "Kommissionens förslag om en översyn av kalkylräntan i beslut om infrastruktur behöver kompletteras med riskvärdering och vikten av att belysa regionala skillnader och klimatmål",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": 1.0,
+      "quote": "Ett eftersatt underhåll ökar kostnader på sikt och försämrar driftssäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.4",
+      "sentiment": 1.0,
+      "quote": "Förslaget om att tillsätta en utredning för att se över Trafikverkets och transportsektorns organisation, utvärdera sammanslagningen och överväga införande av institutionell konkurrens (8.7.4) bedömer Katrineholm kommun som angeläget och tillstyrks därmed.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.7.6",
+      "sentiment": 0.5,
+      "quote": "bättre data och uppföljning kan ge mer ändamålsenliga beslut varför insamlingen behöver innefatta lokala data och dialog behöver föras med kommunala aktörer för att spegla verklighetstrogna trafik- och resmönster.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec415",
+      "sentiment": 1.0,
+      "quote": "Katrineholms kommun tillstyrker förslaget om att möjliggöra kortare, mer intensiva och effektivare utbildningar för vissa yrkeskategorier genom att Myndigheten för yrkeshögskolan får bevilja stöd till utbildningar som i dagsläget helt eller delvis tillgodoses av universitet och högskolor (SOU 2025:96, 5.3.4).",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

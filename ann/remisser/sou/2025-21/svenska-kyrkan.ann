@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/svenska-kyrkan": "4370bd3180293c8d95e90c9d110bbfc15ccd466a9bcdfe025c2de002f4c025b6",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:17:04+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 52790,
+      "completion_tokens": 3715,
+      "ended": "2026-09-02T00:19:31+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "5344ddc0b3ca00ed08ca25363de29361493480739346872bfd79ffc0a46d4239"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Svenska kyrkan välkomnar att Miljömålsberedningens förslag bidrar till att Sverige ska uppfylla sina internationella åtaganden för ökad kolinlagring och biologisk mångfald och beklagar att förslagen inte uppfyller dessa åtaganden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.1.2",
+      "sentiment": 0.8,
+      "quote": "Ökat återbruk leder till ett mer effektivt nyttjande av skogens produkter och därmed bättre möjlighet att leverera en mångfald av nyttor från skogen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": 0.8,
+      "quote": "Svenska kyrkan är också positiv till beredningens förslag att regeringen ska återuppta arbete med förslag om ekologisk kompensation för att motverka nettoförluster av biologisk mångfald och ekosystemtjänster i samband med exploatering.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.13",
+      "sentiment": 0.8,
+      "quote": "Svenska kyrkans prästlönetillgångar omfattar områden som med ett administrativt extraarbete skulle kunna uppfylla kraven för rapportering som OECM (Other Effective Area-based Conservation Measures).",
+      "quote_type": "grund"
+    }
+  ]
+}

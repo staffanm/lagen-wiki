@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/myndigheten-for-tillvaxtpolitiska-utvarderingar-och-analyser-tillvaxtanalys": "c0ce700e971642e5227d3a1a8b0d0543525a9267c88dca686162b48f055b9e2c",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:18:52+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 37267,
+      "completion_tokens": 3358,
+      "ended": "2026-09-02T05:21:14+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0524927489321e9581a50b2395e7acc5aaac1e29f4844f6708593a1be6c69293"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Med över 1 200 sidor och 300 förslag och bedömningar anser Tillväxtanalys att Produktivitetskommissionens båda betänkanden utgör ett omfattande och gediget underlag för det fortsatta arbetet att förbättra svensk produktivitetstillväxt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.7.6",
+      "sentiment": 1.0,
+      "quote": "Bättre data skapar möjligheter att i framtiden genomföra studier på hur Trafikverket kan påverka produktiviteten på bygg- och anläggningsmarknaden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.2",
+      "sentiment": 0.5,
+      "quote": "Internationell och svensk forskning (bl.a. Tillväxtanalys 2023; Akwu 2024; Konkurrensverket 2023) visar att sandlådor ofta blir resurskrävande pilotsatsningar med begränsad systemeffekt, skapar risk för snedvridning av konkurrens och så kallad ”risk-washing”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.1",
+      "sentiment": 1.0,
+      "quote": "Tillväxtanalys (2024:05) har observerat att svensk förvaltning brister i systematik, proaktivitet och ansvarsfördelning vid hantering av “taktproblemet” mellan innovation och reglering",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3.1",
+      "sentiment": 1.0,
+      "quote": "Tillväxtanalys (2024:05) har observerat att svensk förvaltning brister i systematik, proaktivitet och ansvarsfördelning vid hantering av “taktproblemet” mellan innovation och reglering",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.2",
+      "sentiment": 1.0,
+      "quote": "Tillväxtanalys (2024:05) har observerat att svensk förvaltning brister i systematik, proaktivitet och ansvarsfördelning vid hantering av “taktproblemet” mellan innovation och reglering",
+      "quote_type": "grund"
+    }
+  ]
+}

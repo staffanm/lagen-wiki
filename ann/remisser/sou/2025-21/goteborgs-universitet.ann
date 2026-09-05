@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/goteborgs-universitet": "2931f9043be6e324fbd0238b706d831d3d1547f81eb2dbc43c5f22ab1e0e3875",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:44:10+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 30220,
+      "completion_tokens": 2490,
+      "ended": "2026-09-01T17:45:41+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d8dd2818c540d20278f7f5294cf9178410edee681766a44cc3905552ddb7b2fa"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Göteborgs universitet anser att förslaget på utsläppsminskningar är otillräckliga och små.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.1.1",
+      "sentiment": -0.5,
+      "quote": "till 2030 har utsläppen bara minskat 7% jämfört med nu, vilket är för lite i den klimatkris vi befinner oss i.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -1.0,
+      "quote": "Det behövs ett omedelbart stopp för all torvbrytning och därför är MMB’s förslag, att begränsa möjligheten att få nya och förlängda tillstånd från nästa år, helt otillräckligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec256",
+      "sentiment": -0.5,
+      "quote": "För jordbruksmarker borde fokus vara på att återväta nu brukad organogen jordbruksmark som är djupt dränerad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": 0.5,
+      "quote": "Det är bra att MMB lyfter det orimliga att det krävs tillstånd för att restaurera våtmarker.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6",
+      "sentiment": 0.2,
+      "quote": "Förslaget att bara ändra i texten för miljökvalitetsmålet blir då helt otillräckligt, eftersom miljökvalitetsmålen hittills inte visat sig vara ett starkt styrmedel med tvingande åtgärder som gör att vi uppnår målen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.7",
+      "sentiment": 0.8,
+      "quote": "Det är bra att MMB räknat med de mer uppdaterade och differentierade emissionsfaktorer för återvätning som vi tagit fram vid Göteborgs universitet och som är mer användbara än vad IPCC’s redovisade emissionsfaktorer från 2014 är.",
+      "quote_type": "grund"
+    }
+  ]
+}

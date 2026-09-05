@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/mullsjo-kommun": "9ec0235080ddd72f5cd1bed626bed2cdbeb732fdd0b3c309a6c1b57f70766a20",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:14:18+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21397,
+      "completion_tokens": 4163,
+      "ended": "2026-09-02T05:16:33+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "57a825c2ffee28607f669841c0052f49de6b0a8870ccad9d667dfb4c6501a0d4"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vårt remissyttrande fokuserar på att förtydliga vissa genomförandefrågor, i syfte att stärka utredningens möjligheter till praktisk tillämpning inom den kommunala och regionala verkligheten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Utredningen konstaterar vidare att offentlig sektor är en avgörande förutsättning för långsiktigt välstånd, men samtidigt riskerar att bli en bromskloss om arbetssätt och styrning inte förändras",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 0.5,
+      "quote": "detta förutsätter att de grundläggande administrativa delarna av den kommunala verksamheten – såsom ekonomi, personal, inköp, planering, tillgångar (fastigheter, maskiner m.m.) och uppföljning/analys – utvecklas och optimeras utifrån vad som idag är möjligt på ett samordnat vis.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec203",
+      "sentiment": 0.5,
+      "quote": "interoperabilitet i praktiken förutsätter gemensamma datamodeller som är implementerade i de bassystem som används i verksamheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec73",
+      "sentiment": 0.5,
+      "quote": "AI i offentlig sektor bör förstås som en samverkande arkitektur av flera olika AI-modeller, snarare än som enskilda, isolerade lösningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4",
+      "sentiment": 0.2,
+      "quote": "samverkan i första hand bör ske genom gemensamma standarder, datamodeller, processer och tekniska gränssnitt, snarare än genom nya organisatoriska konstruktioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.1",
+      "sentiment": 0.2,
+      "quote": "både verksamhetsutveckling och politisk styrning samtidigt kräver mer och bättre data än i dag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec507",
+      "sentiment": 0.5,
+      "quote": "För att detta ska vara genomförbart i praktiken behöver statsbidragens utformning möjliggöra automatisering baserad på homogen datamodell och interoperabel data, med utrymme för manuella inslag där kvalitativa uppgifter krävs som inte återfinns i den gemensamma datamodellen.",
+      "quote_type": "grund"
+    }
+  ]
+}

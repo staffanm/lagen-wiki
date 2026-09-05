@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/lansstyrelsen-i-dalarnas-lan": "f6624786757202dbb623e7bb629ea1c1f37976ed06c6d0f1a3936975707e8c99",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T15:03:01+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12207,
+      "completion_tokens": 2120,
+      "ended": "2026-09-01T15:04:04+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "9095fc5671319d33554e5ae41f4166770c9303f35b7772e2994fcda8babf25c7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Länsstyrelsen i Dalarnas län, hädanefter Länsstyrelsen, välkomnar i huvudsak betänkandet och dess ambition att främja ökad tillgång till data samt skapa rättvisa och konkurrensneutrala villkor i en datadriven ekonomi.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.11.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen delar utredningens bedömning att offentliga organ behöver tillgång till stöd för att kunna begära och använda data vid hantering av allmänna nödlägen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.11.4",
+      "sentiment": 1.0,
+      "quote": "Vidare tillstyrker Länsstyrelsen utredningens förslag att regeringen ska ge Myndigheten för civilt försvar i uppdrag att ge detta stöd till svenska offentliga organ.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

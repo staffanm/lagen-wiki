@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/saco-studentrad": "5c6e9e668ffa6f18139885a1a8cd2316f04a81fe045bef3766154b1dd3eefc04",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:48:06+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21188,
+      "completion_tokens": 3923,
+      "ended": "2026-09-02T06:50:13+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8008281e00d496c93e0baa113e2eede1df1505eb65ba59323ac2b177203d7e57"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Generellt sett ställer sig Saco studentråd sig positiva till översyn av dagens system, men har en del synpunkter kring konkreta reformförslag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec412",
+      "sentiment": 0.2,
+      "quote": "Om exempelvis etableringsgrad premieras finns det risk att gårdagens arbetsmarknad utformar dimensioneringen, samtidigt som vissa utbildningar missgynnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec413",
+      "sentiment": 1.0,
+      "quote": "Det skulle stärka lärosätenas finansiering, eftersom den skulle vara mindre beroende av studenters individuella Box 2206 prestationer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec414",
+      "sentiment": -0.2,
+      "quote": "Vissa mindre utbildningar, med få utbildningsplatser, skulle kunna få det svårt att gå ihop med minskade utbildningsplatser, även med högre ersättning per student.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec415",
+      "sentiment": -0.5,
+      "quote": "Vi motsätter oss försöksverksamheter där olika grupper av studenter ges olika studiemedelssystem, det är ett dåligt och ojämlikt sätt att testa reformförslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec416",
+      "sentiment": -0.5,
+      "quote": "Saco studentråd förespråkar en generell förlängning av maxtiden från dagens 240 veckor till 280 veckor (motsvarande från 12 till 14 terminer).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec417",
+      "sentiment": -0.5,
+      "quote": "En höjning till exempelvis 80% skulle innebära en i praktiken höjning till 100% på många utbildningar, vilket skulle sätta orimligt stor press på de individuella studenterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec418",
+      "sentiment": 1.0,
+      "quote": "För studenter som har dålig ekonomi men av olika skäl har utmaningar att arbeta extra (exempelvis pga föräldraskap eller tidskrävande utbildningar) kan utökade lån vara ett bra sätt att få högre inkomster under studietiden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec419",
+      "sentiment": 1.0,
+      "quote": "Alltför många studenter känner ett tvång att arbeta vid sidan av studierna för att få ekonomin att gå ihop.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec420",
+      "sentiment": -0.5,
+      "quote": "Den typen av åtgärder riskerar att drabba utsatta grupper som av olika skäl hamnar efter i studierna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec421",
+      "sentiment": -0.5,
+      "quote": "Om det exempelvis skulle vara högre lånedel på avancerad nivå riskerar det att avskräcka för vidare studier.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec422",
+      "sentiment": -0.5,
+      "quote": "Förslaget riskerar att få mycket dödviktskostnader, då det skulle bli en kostnad för ungefär 75 tusen studenter som tar examen varje år även utan examensbonus.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec423",
+      "sentiment": -0.5,
+      "quote": "Studiemedelssystemets roll har aldrig varit att få studenter att söka till utbildningar utifrån arbetsmarknadens behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec424",
+      "sentiment": -0.2,
+      "quote": "Generellt sett är det också äldre studenter som har sämre ekonomi än yngre studenter, så att utforma ett system som premierar yngre studenter skulle inte vara ändamålsenligt för att utjämna ojämlikheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

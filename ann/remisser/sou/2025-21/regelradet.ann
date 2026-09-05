@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/regelradet": "fb0634b2140453139b5d15584ae0a8f0b0d91a66abd208b2885060568af45101",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T22:49:43+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 35982,
+      "completion_tokens": 2850,
+      "ended": "2026-09-01T22:52:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c9fba34401beae98f7d03326b9919c171d4d9e5ed8ce88c532583e443e4c8950"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Regelrådet bedömer att konsekvensutredningen inte uppfyller kraven i 6 och 7 §§ förordningen (2007:1244) om konsekvensutredning vid regelgivning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1",
+      "sentiment": -0.5,
+      "quote": "Det finns, såvitt Regelrådet kan se, inte någon beskrivning av vilka skäl som föranleder valet av tidpunkt för ikraftträdande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.5,
+      "quote": "Regelrådet finner att även om det finns viss värdefull information är det alltför otydligt vad kostnadspåverkan skulle kunna bli för hela den population företag som berörs, av de förslag som lämnas som helhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20",
+      "sentiment": -0.5,
+      "quote": "Det är därför enligt Regelrådets uppfattning förhållandevis svårt att förstå och tolka det synsätt som utredningen har haft på de alternativa lösningarna och att följa det resonemang som har lett till att dessa har valts bort.",
+      "quote_type": "grund"
+    }
+  ]
+}

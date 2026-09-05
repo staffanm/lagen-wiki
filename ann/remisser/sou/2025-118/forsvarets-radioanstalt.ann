@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:118/forsvarets-radioanstalt": "0cb51e65761c40387733e855998dc641e00eb222c98dfe514ccb73fd7ee321d6",
+      "artifact:forarbete/sou/2025-118": "bc459326980f0a05480a1192ee3dfe0dbd10a04a79ae1787c2f61216840770bb"
+    },
+    "run": {
+      "started": "2026-09-01T14:55:47+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12208,
+      "completion_tokens": 2035,
+      "ended": "2026-09-01T14:57:00+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7934495d3c5311f72c8a5010d4c8bb1f1058a20a8c98f367f3f8eaa9c83fcbd9"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Försvarets radioanstalt (FRA) har från de utgångspunkter som myndigheten har att beakta inte några synpunkter på förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": []
+}

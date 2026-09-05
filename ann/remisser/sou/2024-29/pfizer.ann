@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/pfizer": "cc44049f37d2e3a6c9799f909b23ccbea1e260a02c42db09eacc87f1e6f19005",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:40:46+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25317,
+      "completion_tokens": 4270,
+      "ended": "2026-09-02T05:43:12+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "adb1cbc5618f8eacf47023af1a20897316a9e97476d6eb900d81456231ccef8d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.7,
+    "quote": "Att det särskilda statsbidraget för läkemedelsförmåner kvarstår är helt avgörande för att stärka Sveriges konkurrenskraft och möjlighet att attrahera fortsatta investeringar inom läkemedelsområdet på en global marknad som präglas av geopolitiskt turbulens och en hårdare konkurrens än någonsin tidigare.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

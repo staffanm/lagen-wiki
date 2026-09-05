@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lunds-universitet": "80015c9336fbb267e330a327d212eb0541c5e7d4f7403d7cacbec78b6f5552d9",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T18:15:20+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 30984,
+      "completion_tokens": 4969,
+      "ended": "2026-09-01T18:18:16+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8aa317b54ecc53f9abd8f5ff94bdd9ec9e6b767b71eb436193a778489da5938c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "MMB lägger fram en rad konkreta förslag som ligger i linje med den samlade och senaste forskningen, och som kan ge viktiga bidrag till målens uppfyllelse.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": -0.2,
+      "quote": "Det hade varit viktigt att diskutera behovet av och möjliga åtgärder vid andra tillväxtnivåer samt konkretisera hur lägre avverkningsnivåer hade kunnat bidra till möjligheterna att nå LULUCF-målen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "I avsaknad av annan styrning är det frivilligt vidtagna åtgärder som avgör om Sveriges nationella och internationella åtaganden kan uppfyllas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 1.0,
+      "quote": "Det skulle återspegla de viktiga kopplingarna som finns inom och mellan sektorerna, och bidra till underlag för hantering av eventuella målkonflikter och samordningsvinster.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": 1.0,
+      "quote": "I kombination med förstärkta resurser för Skogsstyrelsen för att bedöma avverkningsanmälningar, kan detta förhindra att brist på kunskap och resurser leder till att Sverige oavsiktligt bryter mot EU:s ambitioner att bevara biologisk mångfald inklusive naturrestaureringsförordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 1.0,
+      "quote": "Kolinlagringsavtal kan möjliggöra för skogsägare att förstärka kolsänkan utan negativ påverkan på deras ekonomi.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Det står i konflikt med biologisk mångfald, och dess faktiska klimatnytta kan ifrågasättas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 0.5,
+      "quote": "För att LULUCF-mål ska kunna eftersträvas borde detta mål på statens mark, jämfört med idag, dock sättas på minst den nivån som gäller för förstärkningen av kolsänkan på den nationella nivån.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.4",
+      "sentiment": 1.0,
+      "quote": "tidsenlig och återspeglar på ett relevant sätt utvecklingen i policylandskapet som är viktigt för dels skogen, dels klimatet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": -0.2,
+      "quote": "Det saknas dock en analys av i vilken mån ett sådant stöd skulle öka odlingen av vall och därmed ha någon additionell effekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": 0.5,
+      "quote": "det utöver kolinlagring och andra nyttor skulle stimulera innovativa tekniska lösningar för skörd av biomassa från mellangrödor efter brytningsdatum.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.1",
+      "sentiment": 1.0,
+      "quote": "höjning av miljöersättningsnivån för skötsel av naturbetesmarker samt utökad stöd till stallar vore nödvändigt för att bidra till detta mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": -0.2,
+      "quote": "MMB:s förslag innebär ändå en mycket snabb uppskalning av befintliga återvätningsåtgärder, och det är svårt att se om takten är möjlig ens med förstärkta styrmedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": -0.5,
+      "quote": "En överrapportering av OECM leder i praktiken till att ambitionen att bevara biologisk mångfald kommer att underskrida existerande åtaganden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -0.5,
+      "quote": "problematiskt att man använder sig av definitionen i Skogsstyrelsens uttolkning när man definierar vad gammal skog är, eftersom den inte följer EU-kommissionens vägledning.",
+      "quote_type": "grund"
+    }
+  ]
+}

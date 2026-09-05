@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/region-sormland": "d8c3c920012b8c4f355d3d7670db99fef3c20ef441b81e881e8b851d877caacd",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:04:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21325,
+      "completion_tokens": 3252,
+      "ended": "2026-09-01T16:06:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "a762cae872f2dc7ae221830c7deb3bb829d0a754260f9c0278f59a70c406b175"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslaget innebär en tydligare betoning av frivillighet, individuellt anpassade råd och stöd samt stärkt rättssäkerhet för den enskilde.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2",
+      "sentiment": 1.0,
+      "quote": "Detta är nödvändigt för att smittskyddet ska kunna anpassas till förändrade medicinska förutsättningar och nya smitthot.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.1",
+      "sentiment": 1.0,
+      "quote": "Det är positivt att kostnadsfrihet inte längre direkt knyts till om en sjukdom är allmänfarlig, vilket möjliggör en mer proportionerlig hantering av olika sjukdomar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 1.0,
+      "quote": "Den medicinska utvecklingen har väsentligt förändrat smittsamheten och nuvarande regler innebär att lagstiftningen inte speglar den faktiska smittrisken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 0.2,
+      "quote": "Det framgår inte tillräckligt när råd ska anses otillräckliga, vilket ger ett stort tolkningsutrymme för behandlande läkare och risk för variation i tillämpningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Ett avskaffande är rimligt för att förbättra möjligheterna till uppföljning och analys av dessa sjukdomar och därmed stärka det löpande smittskyddsarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": 1.0,
+      "quote": "En sådan placering finns redan i Region Sörmland och bedöms vara viktig för att ge funktionen tillräcklig tyngd och genomslag i smittskyddsarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 1.0,
+      "quote": "Detta är en naturlig utveckling med koppling till smittskydd och pandemiberedskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": 0.5,
+      "quote": "Detta är en viktig del i en modern pandemiberedskap, men ställer krav på tydlig ansvarsfördelning och vägledning.",
+      "quote_type": "grund"
+    }
+  ]
+}

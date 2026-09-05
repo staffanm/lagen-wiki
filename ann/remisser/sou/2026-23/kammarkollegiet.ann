@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/kammarkollegiet": "8a7ec719892cab72f19fb1d674f5723ff007c6afec2c3b9d566a47788bdbe76c",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:34:42+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17416,
+      "completion_tokens": 2870,
+      "ended": "2026-09-01T12:36:29+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ead718467a04524f257c47862174fa57c71d31c20e7376ea64a6bd754a50d04c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kammarkollegiet har i övrigt inga invändningar mot förslaget om tolkavgift.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3.5",
+      "sentiment": -0.2,
+      "quote": "Kammarkollegiet vill betona att det vore en olycklig utveckling om användningen av auktoriserade tolkar inom ramen för myndigheternas ärendehandläggning minskade.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 1.0,
+      "quote": "Kammarkollegiet tillstyrker förslaget om förbud mot att använda barn som tolk.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

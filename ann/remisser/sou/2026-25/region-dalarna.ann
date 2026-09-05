@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/region-dalarna": "b524cdc8fd17c75f4dcb914ffad9cbda1b7a576bef4fc60b6d62b95d732b197b",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:02:09+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21013,
+      "completion_tokens": 3914,
+      "ended": "2026-09-01T16:04:15+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0ca1f9a381de30268dbb7c06cbb0090dafef05d860a8f590d1342c55f5656292"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Dalarna välkomnar utredningen och stödjer flera av utredningens förslag för ett förbättrat smittskydd i Sverige.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2.3",
+      "sentiment": 1.0,
+      "quote": "Stödjer utökad kostnadsfrihet för sjukdomar som är smittspårningspliktiga men inte allmänfarliga.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.3",
+      "sentiment": 1.0,
+      "quote": "Stödjer Uppdrag till Folkhälsomyndigheten att systematiskt omklassificera de anmälningspliktiga sjukdomarna (s. 132).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.2,
+      "quote": "Om förhållningsregler nu i stället ska ges i särskilda fall där det finns behov, finns risken att detta missas för att behandlande läkare är ovana att tillämpa smittskyddslagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Stödjer avskaffande av rikskod (s. 275).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.3.8",
+      "sentiment": 0.0,
+      "quote": "Det är däremot ständigt återkommande att allmänhet/vårdpersonal/myndigheter inte vet att smittskyddsläkaren har ett myndighetsmandat beträffande smittskyddslagen och att det uppdraget gäller hela länet, inte bara den regionala organisationen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 0.5,
+      "quote": "Detta är viktigt både för det långsiktiga förebyggande arbetet och för att kunna agera så snabbt och effektivt som möjligt i händelse av utbrott (både vid olika typer av virusutbrott och utbrott av resistenta bakterier).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 1.0,
+      "quote": "Stödjer att Vårdhygien samordnas nationellt av Folkhälsomyndigheten (s. 389).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": -1.0,
+      "quote": "Det är dock inte rimligt att lagstifta om detta eftersom det inskränker det kommunala självstyret.",
+      "quote_type": "grund"
+    }
+  ]
+}

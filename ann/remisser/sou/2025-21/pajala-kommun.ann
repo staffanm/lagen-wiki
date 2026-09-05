@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/pajala-kommun": "1707e0f95e7689a7feb42d4264cb114278cf0ffdcd63cb237611f2f240f30009",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T22:47:37+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 29574,
+      "completion_tokens": 2850,
+      "ended": "2026-09-01T22:49:42+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1f380cea41ebebad5704e3c8ddbc40837a7e188dd547e583c4b8c08053e06209"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Formuleringar i paragrafer som är breda och visionära blir svåra att juridiskt applicera eftersom de saknar en kvantitativ identifiering om vilka kriterier som är tillräckliga etc.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.5,
+      "quote": "Det framgår inte hur målen i 1 kap. i praktiken ska värderas och vägas mot andra intressen vilket i sin tur kan medföra att tillämpningen blir inkonsekvent.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": -0.5,
+      "quote": "Sammantaget kan förslaget leda till att ytterligare krav ställs på skogsägare och svårigheter för dem att kunna orientera innehåll i nya bestämmelser, vilket i sin tur kan leda till negativa konsekvenser för enskilda markägare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": -0.4,
+      "quote": "Lagändringarna kan skapa svårtydbara gränsdragningar mellan vad som är vattenverksamhet alternativt markavvattning, vilket medför en viss rättsosäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.5",
+      "sentiment": -0.5,
+      "quote": "En definition av detta slag bör tas fram som annars riskerar leda till att skilda tolkningar mellan fastighetsägare och myndigheter görs, vilket i sin tur bidrar till ökad rättsosäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.6",
+      "sentiment": -0.8,
+      "quote": "I grund och botten medför detta ett indirekt implicit hot mot äganderätten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.7",
+      "sentiment": -0.5,
+      "quote": "Upplägget förefaller utifrån ett privaträttsligt perspektiv vara rättsosäkert och det finns risk att känslig information missbrukas på ”ett eller annat sätt”, särskilt med tanke på att gränsöverskridande information distribueras mellan olika nationer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.8",
+      "sentiment": -0.4,
+      "quote": "Svårigheter med samordning och identifiering av data kan leda till skiftande tolkningar av informationsunderlag som även kan omfattas av sekretess, vilket i sin tur kan äventyra rättssäkerheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.9",
+      "sentiment": -0.2,
+      "quote": "Det kan råda uppenbara intressekonflikter mellan rekreation kontra biologisk mångfald t.ex. kan det leda till att populära rekreationsområden inte längre kan förfogas av allmänheten när känsliga arter och/eller områden ska skyddas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": -0.5,
+      "quote": "Det råder brist på tillämpliga mätverktyg för att kunna mäta utsläppseffekter i samband med exploatering av områden, vilket i sin tur medför att rekommenderade styrmedel kan bli diffusa och subjektiva.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/forvaltningsratten-i-linkoping": "5cb6595b82c16a4225c4b1a7e44805a0005ff31bd56214b13ff00a4d8bffde93",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:38:49+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19597,
+      "completion_tokens": 5146,
+      "ended": "2026-09-01T13:41:52+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "9046bf257b67f197a498b0d0c28a2a79c76c8d84e13b5de7a8fe357d6dc4225e"
+    }
+  },
+  "overall": {
+    "sentiment": -0.3,
+    "quote": "Detta innebär att det i vissa avseende är svårt att överblicka konsekvenserna av förslagen i denna utredning, bland annat gällande de nya begrepp som används beträffande barn och unga och huruvida användningen är konsekvent.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec174",
+      "sentiment": 0.5,
+      "quote": "Förvaltningsrätten är dock positiv till förslaget att särskilda sakkunniga som socialnämnden och domstolarna ska kunna använda sig av ska förordnas av Socialstyrelsen",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec223",
+      "sentiment": 1.0,
+      "quote": "Förvaltningsrätten instämmer i utredningens uppfattning att det inte har framkommit något behov av att åklagare ska kunna fatta beslut om omedelbara omhändertaganden",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec357",
+      "sentiment": -1.0,
+      "quote": "Rätten befarar vidare att en halvårsvis prövning av domstol av om vården ska fortsätta, kan skapa oro och inverka menligt på vården i och med att detta tar fokus från den vård som bedrivs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec467",
+      "sentiment": -0.5,
+      "quote": "Utifrån skrivningarna på s. 320 och 444 skulle exempelvis nära vänner och andra personer utan släktskap som är viktiga för den unge kunna omfattas, vilket skulle medföra ett mycket långtgående ansvar för nämnden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec339",
+      "sentiment": 0.5,
+      "quote": "Förvaltningsrätten anser att det är positivt att förutsättningarna för upphörande av vård definieras tydligare i 21 § och välkomnar den uppdelning av bedömningen i flera led som förespråkas i utredningen.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

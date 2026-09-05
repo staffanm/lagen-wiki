@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/institutet-for-manskliga-rattigheter": "41de230b855e3fe295b49036c6ba65e36bfd8a2bb81242d5048fe6c278ed366d",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:31:02+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 24460,
+      "completion_tokens": 4247,
+      "ended": "2026-09-01T13:33:47+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "9703e2fe5fa823bd27b8f1ed096982f526591c28bf07e285d21c646edb48289f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Institutet ser positivt på betänkandets genomgående ambition att stärka principen om barnets bästa och rättssäkerhetens genomslag i LVU-processen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": 0.5,
+      "quote": "Institutet tillstyrker förslagen om ökad sakkunskap i processen och menar att det är en viktig förstärkning ur rättssäkerhetsperspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4",
+      "sentiment": -1.0,
+      "quote": "en sådan förändring innebär överhängande risker för såväl rättssäkerheten som för att barns omhändertagande kan komma att ske utifrån andra grunder än det enskilda barnets bästa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.2,
+      "quote": "införandet av en sådan frist har inte bevisats motiverad i relation till den ingripande inskränkning som det skulle innebära för den enskilde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.8,
+      "quote": "ser därför positivt på de processuella förstärkningarna i SOU 2026:8, inklusive obligatorisk sexmånadersprövning med stöd av 3 § LVU samt krav på namngiven socialsekreterare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.8,
+      "quote": "Skyldigheten att besluta om drogtest där anledning finns, med bibehållen proportionalitetsprövning, är rimlig.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 1.0,
+      "quote": "En systematisk uppföljning efter utskrivning skapar förutsättningar för att upptäcka och åtgärda situationer där barn riskerar att hamna i ett stödvakuum.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": -0.5,
+      "quote": "De statliga ungdomshemmens nuvarande utformning strider mot funktionsrättskonventionens krav på avinstitutionalisering, och betänkandets förslag adresserar inte detta strukturella problem.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/bolagsverket": "fe6692ad65aaac55cf5d2d23b63782202393ecd90b7d9936ea36e43fe8da6134",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:37:02+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 11402,
+      "completion_tokens": 1530,
+      "ended": "2026-09-01T16:37:59+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "99c6d3ee60cd00bbe135ca20616aba6364ef6a9476b6dc607345400daf57833e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Genomförs förslaget kommer det emellertid att innebära kostnader för verket som behöver finansieras.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.10.1",
+      "sentiment": -0.2,
+      "quote": "Detta primärt då definitionen av avstämningsbolag enligt utredningens förslag ska utvidgas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": -0.2,
+      "quote": "tiden till föreslaget ikrafträdandedatum kan anses som något snäv utifrån de åtgärder som verket kan komma att behöva genomföra.",
+      "quote_type": "grund"
+    }
+  ]
+}

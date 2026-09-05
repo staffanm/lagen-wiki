@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-blekinge": "323218f8139bcec74fe1e49530376b394a24d87f76136253d279966b2045c24b",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T18:18:16+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 29464,
+      "completion_tokens": 4205,
+      "ended": "2026-09-01T18:20:43+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "035b8652b38af09e4def06b1c9d4d68041dc08812f2699b40dbb0c51a0d7b5c9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen tillstyrker många av förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen ser dock att det behövs en högre bidragsnivå (förslagsvis 80-100% som i LOVA) om kommuner och ideella organisationer ska ha möjlighet att satsa på åtgärdssamordning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 1.0,
+      "quote": "Denna förändring bör kunna genomföras utan dröjsmål, genom att LONA-förordningen § 1 stycke 1 ändras så som utredningen föreslår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "eftersom det skulle motverka miljökvalitetsmålet Ingen övergödning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 0.5,
+      "quote": "behöver utformas annorlunda för att uppnå avsedd effekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.5,
+      "quote": "Markersättning kan vara en nyckel till att öka intresset bland markägare under förutsättning att ersättningsnivån är tillräckligt hög.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget att restaurering av våtmark, inklusive återvätning av dränerad torvmark, inte ska vara tillståndspliktig utan i stället anmälningspliktig (avsnitt 12.4.1).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.13",
+      "sentiment": 0.5,
+      "quote": "Förslaget i avsnitt 13.1.13 kan därför endast tillstyrkas om tillräckliga resurser tilldelas för såväl det föreslagna nya uppdraget som för andra delar i länsstyrelsernas arbete med biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.5,
+      "quote": "Länsstyrelsen anser att denna åldersbaserade definition är otillräcklig och svår att tillämpa, särskilt på naturskogar med lång ekologisk kontinuitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.2",
+      "sentiment": -0.5,
+      "quote": "En sådan lösning riskerar att skapa instabilitet och svårigheter i planering och genomförande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.4",
+      "sentiment": -0.2,
+      "quote": "ser det som orealistiskt att alla skötselplaner skulle kunna uppdateras till år 2030.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1",
+      "sentiment": -0.5,
+      "quote": "Vi delar inte utredningens bedömning att insatser i första hand bör fokusera på att skydda skog med höga naturvärden snarare än att restaurera.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.2",
+      "sentiment": -0.2,
+      "quote": "De föreslagna målen för vilda pollinatörer är otydliga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 0.5,
+      "quote": "Länsstyrelsen anser att det också bör gälla restaureringsstödet.",
+      "quote_type": "grund"
+    }
+  ]
+}

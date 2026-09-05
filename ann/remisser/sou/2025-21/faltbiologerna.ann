@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/faltbiologerna": "b19929ea6fbe9be0356dfcdeb8391f2e14991c2d56423d73f91736d5136613e7",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:34:25+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27332,
+      "completion_tokens": 3148,
+      "ended": "2026-09-01T17:36:12+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "a316400d355c380eee866e3dbdbe7a1185a43a58e0fb1f3f1fe53b8857bd78ee"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Däremot finner vi att det är oroväckande att utredningen inte presenterar en politik som möjliggör att Sverige kan nå internationella miljö- och klimatmål och lagstiftning om bevarande av biologisk mångfald.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -1.0,
+      "quote": "Detta representerar en ytterst liten andel av den svenska skogen, och tar ingen hänsyn till processen av ekologisk succession eller till vikten av en blandning av ålder i träd i ett skogligt ekosystem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "Med tunnare och magrare matjord, som vi ser allt oftare i de skogar vars tillväxt bedöms vara problematisk, ökar takten som näringsämnena från gödslingen rinner ut i vattendrag, där de bidrar till ökad övergödning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec190",
+      "sentiment": 1.0,
+      "quote": "Mot bakgrund av detta är vi mycket positiva till att Miljömålsberedningen diskuterar möjligheter till askåterföring till skog för att öka tillväxt, som beräknas skulle ha högre effekt än gödsling samt bidra till att minska försurning, som är vanligt särskilt i talldominerade skogar eller plantager.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec265",
+      "sentiment": 1.0,
+      "quote": "Fältbiologerna är positiva till Miljömålsberedningens förslag om återvätning av organogena jordar, och – som en förening som arbetar aktivt med restaurering av akvatiska och våtmarksmiljöer – ser särskilt positivt på förslaget att restaureringsåtgärder ska kräva anmälningsplikt istället för tillståndsplikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.1",
+      "sentiment": 0.2,
+      "quote": "Vi välkomnar satsningen på naturbete som är en ytterst viktig fråga men anser inte att beredningen lyfter vikten av konnektivitet av landskap tillräckligt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 1.0,
+      "quote": "Fältbiologerna är särskilt positiva till förslag om åtgärdssamordnare för biologisk mångfald, något som även kommer att gynna Sveriges arbete med naturrestaureringsförordningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

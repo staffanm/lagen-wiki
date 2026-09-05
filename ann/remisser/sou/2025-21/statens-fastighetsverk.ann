@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/statens-fastighetsverk": "b9a54d940a91fdac80c179c13aeeac85e8d4ccd8d4b4818f737473e7c62bb803",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:43:11+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 31814,
+      "completion_tokens": 3920,
+      "ended": "2026-09-01T23:45:57+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "3bc24a45f821e0423dec2265facf60b041d54e4e670683f2eafcebaec58a7eb5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "SFV tillstyrker och välkomnar många av utredningens förslag vilka syftar till att stärka Sveriges klimatarbete och biologiska mångfald.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.5",
+      "sentiment": -0.5,
+      "quote": "utredningens förslag kopplat till markanvändningssektorn och nettoupptag av växthusgaser inte är tillräckliga för att nå uppsatta mål",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.2",
+      "sentiment": -0.2,
+      "quote": "substitutionseffekten, där träråvaran användes till långlivade produkter, behöver ges större tyngd i det nationella klimatarbetet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.12",
+      "sentiment": 0.5,
+      "quote": "Den utökade mängd skyddsformer som föreslås inkluderas i OECM kan vara ett relevant och viktigt tillägg i Sveriges rapportering och kommer att bidra till att Sveriges nationella statistik över skyddade områden i högre grad speglas i den internationella rapporteringen och även följer internationell praxis.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.10",
+      "sentiment": 1.0,
+      "quote": "SFV anser att frivilligheten är en viktig faktor.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.2",
+      "sentiment": 0.8,
+      "quote": "Det är av yttersta vikt att kartläggningen inte endast sker via kartstudier och exempelvis kompletterande översiktliga inventeringar via helikopter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1",
+      "sentiment": -0.5,
+      "quote": "Resursbehoven är sannolikt avsevärt större än vad utredningen uppskattat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": 1.0,
+      "quote": "Bland annat har SFV upplevt att miljöprövningar inte är ensad över landet vilket ger svårigheter i våtmarksprojekten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.2,
+      "quote": "förslaget om ökad andel gödsling kräver noggrannare konsekvensanalyser för att säkerställa att nyttan överträffar riskerna där bland annat risk för övergödning och negativ påverkan på biologisk mångfald kan nämnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.2,
+      "quote": "SFV ställer sig tveksamma till att dessa rådgivnings- och informationsinsatser kommer att ge det resultat som krävs för att nå uppsatta mål.",
+      "quote_type": "grund"
+    }
+  ]
+}

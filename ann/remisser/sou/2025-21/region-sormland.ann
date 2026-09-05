@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/region-sormland": "7c37813da8b88c0526a1085a1378f691e3448062f94f0559e448240423b6c0d6",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:00:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25334,
+      "completion_tokens": 3484,
+      "ended": "2026-09-01T23:02:33+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c4191389ab77077b75fdea4f8eb23320030ca49412dee29bdd9461a218da0b99"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammanfattningsvis ställer sig Region Sörmland bakom betänkandes förslag och lämnar följande synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec424",
+      "sentiment": 1.0,
+      "quote": "Region Sörmland anser att ändringen av definitionen av gammal skog är bra och att det är viktigt att Sverige använder samma definition i båda regelverken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.4",
+      "sentiment": 0.2,
+      "quote": "Skydd av gammal skog måste ske i överenskommelse med markägaren och med full ersättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.3.8",
+      "sentiment": -0.5,
+      "quote": "Sverige behöver se över sitt sätt att rapportera då Sverige i dagsläget skyddar mycket mer skog än det som framstår.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 1.0,
+      "quote": "Region Sörmland vill betona att det är bra att det finns förslag om frivillighet och anslag för återvätning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": 0.2,
+      "quote": "Det föreslås flera åtgärder för att öka kolinlagringen i jordbruksmark bland annat stöd för bioraffinaderier som kan öka marknaden för vall.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.2",
+      "sentiment": -0.2,
+      "quote": "Detta kan på sikt påverka möjligheterna att ersätta fossilt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 1.0,
+      "quote": "Region Sörmland vill framföra att det är bra med en satsning på utbildning och en utökad satsning på lokala åtgärdssamordnare för biologisk mångfald.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

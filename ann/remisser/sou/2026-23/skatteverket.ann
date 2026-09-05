@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/skatteverket": "47c135070f6d9f88602b8fb4dfa26e512dc39a356835830b47a635f256d285ba",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T13:12:37+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20867,
+      "completion_tokens": 5084,
+      "ended": "2026-09-01T13:15:26+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "4bd3906e9267f9b649e51ac203200a1188907f62ec3a11c65f5b800068e379ce"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Skatteverket avstyrker förslaget om tolkavgift i nuvarande utformning eftersom förslaget medför betydande kostnader för systemutveckling och administration hos såväl Skatteverket som andra berörda myndigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 1.0,
+      "quote": "Skatteverket tillstyrker förslaget om förbud mot att använda barn som tolk.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "Utredningens definition om att en tolk är ”en person som tolkar i talade språk” blir till viss del ett cirkelresonemang.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.6",
+      "sentiment": -0.5,
+      "quote": "En anpassning av Navet för att tillgängliggöra sådana historiska folkbokföringsuppgifter medför utvecklingskostnader för Skatteverket.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -0.2,
+      "quote": "Den av utredningen föreslagna lydelsen kan dock skapa oklarhet, eftersom ordet medgivande kan ge intryck av att undantaget endast gäller när ett sådant medgivande lämnas av Skatteverket och inte när frågan prövas men ansökan avslås.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.5.2",
+      "sentiment": 0.5,
+      "quote": "Eftersom även sekretessmarkering kan avse personer med behov av skydd för sina personuppgifter talar systematiska och ändamålsmässiga skäl för att tolkavgift inte heller ska tas ut vid sådan hantering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3.4",
+      "sentiment": 0.0,
+      "quote": "Det framgår inte tydligt av motiven om sådana situationer är avsedda att omfattas eller om bestämmelsen endast tar sikte på fall där myndigheten anlitar en extern tolk för uppgiften.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.5",
+      "sentiment": 0.0,
+      "quote": "Skatteverket anser att det bör klargöras hur begränsningen ska tillämpas när flera ärenden handläggs parallellt eller samordnat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.7.5",
+      "sentiment": 0.0,
+      "quote": "Skatteverket anser att det bör klargöras vilka kontrollåtgärder en myndighet normalt förväntas vidta när det är oklart om den person som kan komma att användas som tolk är under 18 år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a22.2.6",
+      "sentiment": -1.0,
+      "quote": "Mot bakgrund av de betydande kostnaderna för systemutveckling och administration hos såväl Skatteverket som andra berörda myndigheter avstyrker Skatteverket förslaget om tolkavgift i nuvarande utformning.",
+      "quote_type": "grund"
+    }
+  ]
+}

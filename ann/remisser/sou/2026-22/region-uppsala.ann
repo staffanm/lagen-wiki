@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:22/region-uppsala": "d69303067d73aca3aaba8568b90d99ba4a50f26ba589544670fb072bfd2edb34",
+      "artifact:forarbete/sou/2026-22": "1cc8e1d0e1a75c60ac30f1ee9b082f44fc53fe67000176696176012a9fac8956"
+    },
+    "run": {
+      "started": "2026-09-01T14:44:27+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 14652,
+      "completion_tokens": 3271,
+      "ended": "2026-09-01T14:46:20+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "915c5babe7a1a4e7bb63b97659ecb8d6476e33f2a3dbafca5a92167bc330e324"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Sammanfattningsvis instämmer Region Uppsala utredningens förslag eftersom läkemedelsbrister är ett allvarligt problem som kan förväntas fortsätta i framtiden.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.5.1",
+      "sentiment": 0.8,
+      "quote": "Region Uppsala anser att det fördelaktigt att läkemedelsverket får möjlighet att fördela och omfördela läkemedel till dem som bäst behöver det om det inte går att lösa detta på frivillig väg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec12",
+      "sentiment": 0.8,
+      "quote": "Region Uppsala anser att det är viktigt att läkemedelsverket konsulterar berörda aktörer innan man fattar beslut om tvingande åtgärder om fördelning och omfördelning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec13",
+      "sentiment": 0.8,
+      "quote": "Region Uppsala anser att det är bra att man tydliggör att regioner och kommuner får hjälpa varandra med läkemedel i ett krisläge.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": 0.8,
+      "quote": "Region Uppsala bedömer att en inköpscentral för läkemedel kan vara en värdefull funktion i fall av svår brist på läkemedel och att det är bra att dess uppdrag är begränsat till svåra brister.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec16",
+      "sentiment": -0.5,
+      "quote": "Region Uppsala anseratt man bör överväga en annan placering av inköpscentralen än Socialstyrelsen eftersom Socialstyrelsen för närvarande saknar kompetens inom upphandling av läkemedel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec20",
+      "sentiment": 0.8,
+      "quote": "Region Uppsala ser inget skäl att finansiera läkemedel där det råder en bristsituation på något annat sätt än för andra läkemedel.",
+      "quote_type": "grund"
+    }
+  ]
+}

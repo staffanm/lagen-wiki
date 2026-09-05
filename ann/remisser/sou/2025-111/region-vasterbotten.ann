@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:111/region-vasterbotten": "8e1d3fb31d654b0819a90990c5d870a5007f4cce71ed578a669ef70eae3cc1e8",
+      "artifact:forarbete/sou/2025-111": "43b57ee3d893d142b0fa6635a3944a79d1b6e61d15c7ef781c2e5a32d5d7063b"
+    },
+    "run": {
+      "started": "2026-09-01T17:05:22+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20188,
+      "completion_tokens": 2741,
+      "ended": "2026-09-01T17:07:07+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "acc88e8ecd63fe52f6a6861e05e77efb159b1bfcc15a6e95fe5a5fd9d2d03368"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Regionen instämmer med förslaget i betänkandet om att införa en ny kostnadsreglering i förvaltningsprocesslagen (avsnitt 14.4.4).",
+    "quote_type": "standpunkt"
+  },
+  "segments": []
+}

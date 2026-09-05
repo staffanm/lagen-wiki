@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/fastighetsagarna-sverige": "c057d29ae36fc6010d28e0dcd23b1583ef2add21d9949b984c339f65f0919680",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:59:54+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 30178,
+      "completion_tokens": 5705,
+      "ended": "2026-09-02T03:03:38+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2fc70f2ea1b5d89d376704c6f2afe0d2acdc821714d5182967f1106d7c8940c5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kommissionens breda ansats är välkommen och Fastighetsägarna identifierar flera förslag inom flera områden som det finns goda skäl att ta vidare.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.2",
+      "sentiment": 1.0,
+      "quote": "Fastighetsägarna tillstyrker att en myndighet får uppdraget och nödvändiga resurser för att hålla samman arbetet inom staten med regelförenkling, konsekvensutredningar och utvärderingar av regelverk, samt att denna även ansvarar för inhämtning och bearbetning av synpunkter och förslag från företag och andra berörda.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.1.1",
+      "sentiment": 1.0,
+      "quote": "dagens tillståndsprocesser är en betydande flaskhals för investeringar och produktivitetsutveckling i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": 1.0,
+      "quote": "Avsaknaden av en gemensam och tydlig målbild för bostadsmarknaden – inte enbart för bostadsbyggandet – bidrar i dag till mål- och intressekonflikter, även inom och mellan myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": 1.0,
+      "quote": "Dagens krav är i stor utsträckning utformade för en annan tid och speglar ett regelideal präglat av social ingenjörskonst, snarare än dagens behov av innovation, produktivitetsökning och industrialiserade byggprocesser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec308",
+      "sentiment": 1.0,
+      "quote": "Ett mer systematiskt samhällsekonomiskt perspektiv kan bidra till bättre markanvändning, stärka sambanden mellan olika bebyggelsefunktioner och underlätta en mer balanserad och långsiktigt hållbar stadsutveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec310",
+      "sentiment": 1.0,
+      "quote": "Lokala särkrav medför onödiga kostnader, minskar konkurrensen och försvårar utvecklingen av industrialiserade bygglösningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": 0.2,
+      "quote": "kommunal passivitet kan få betydande samhällsekonomiska konsekvenser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.4",
+      "sentiment": 1.0,
+      "quote": "I sådana fall kan en statlig eller regional process öka förutsebarheten, minska risken för lokalt betingad passivitet och säkerställa att nationella mål får genomslag i planeringskedjan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.7",
+      "sentiment": 1.0,
+      "quote": "Onödigt långa ledtider skapar osäkerhet och driver kostnader i byggprojekt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.8",
+      "sentiment": 1.0,
+      "quote": "sena och oproportionerliga utredningskrav är en av de främsta orsakerna till att ledtiderna har ökat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.5",
+      "sentiment": 1.0,
+      "quote": "Sverige har en generös talerätt, vilket i grunden stärker rättssäkerheten. Samtidigt leder kombinationen av en bred talerätt, möjligheten till överklaganden i flera instanser, långa handläggningstider och omfattande kompletteringskrav till att även mindre invändningar kan få stor tidsmässig påverkan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.6",
+      "sentiment": 1.0,
+      "quote": "En sådan gestaltningsstyrning är ofta kostnadsdrivande och hämmar industrialisering och standardisering inom byggandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.11",
+      "sentiment": 1.0,
+      "quote": "All teknisk prövning bör ske centralt, gärna digitalt och enhetligt, och inte lämnas till enskilda bygglovshandläggare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.12",
+      "sentiment": 1.0,
+      "quote": "strandskyddet behöver moderniseras och bli mer differentierat, samtidigt som viktiga naturvärden fortsatt värnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": 1.0,
+      "quote": "Inget av dagens sätt att bestämma nyproduktionshyra ger den trygghet som en friare hyressättning vid nyproduktion skulle medge.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/lessebo-kommun": "f05c20eac87a05c99ae65e74a8132aab7e42fe642190c3b261c93268366f3f70",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:48:34+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17436,
+      "completion_tokens": 2085,
+      "ended": "2026-09-01T12:49:41+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d28b929c206b6cdc9478e4383ed6b6706a65200043d0ccae40de69af02011082"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kommunstyrelsen beslutar att Lessebo kommun ställer sig positiva till förbud mot barntolkning och att i övrigt inte lämna synpunkter på den delen i betänkandet som handlar om tolkavgifter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec26",
+      "sentiment": 1.0,
+      "quote": "Kommunstyrelsen beslutar att Lessebo kommun ställer sig positiva till förbud mot barntolkning",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/foretagarna": "21dfefe8114d537e901b0f46334c649f34581937a1a79fbd90b62ba525dbfe9e",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T03:19:58+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 106690,
+      "completion_tokens": 14609,
+      "ended": "2026-09-02T03:30:28+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "cc1a69541c7b8d00c9062cdfef1a9850b244de92e35c0370674b93fa1a2419cc"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Företagarna tillstyrker den generella inriktningen i förslagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec148",
+      "sentiment": 0.8,
+      "quote": "då det på marginalen kan antas leda till en mer ordnad budgetprocess och gör det demokratiska ansvarsutkrävandet enklare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec148",
+      "sentiment": 0.8,
+      "quote": "då det skapar förutsättningar för en mer förutsägbar ekonomisk politik, där förslag som följer av budgetens rambeslut i högre grad kan förväntas godkännas av riksdagen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 0.5,
+      "quote": "Företagarna tillstyrker den generella inriktningen i förslagen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec169",
+      "sentiment": -0.2,
+      "quote": "Vi förordar att i stället slå samman de befintliga Regelrådet, Förenklingsrådet och Implementeringsrådet och att placera det sammanslagna rådet inom Regeringskansliet, förslagsvis under Statsrådsberedningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec175",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec181",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec184",
+      "sentiment": 0.5,
+      "quote": "anser att den bör tillfalla det sammansatta råd som förordas ovan, samt även innefatta konsekvensutredningar i förslag från regeringen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec177",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6.4",
+      "sentiment": 0.5,
+      "quote": "med förbehållet att uppdraget kan läggas på annan instans än ESV.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec189",
+      "sentiment": 0.2,
+      "quote": "ställer oss frågande till vad det förväntas göra för skillnad i sak.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.6",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6.9",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker överlag förslagen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec195",
+      "sentiment": 1.0,
+      "quote": "Företagarna har inga invändningar.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec196",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslagen och noterar att de är i linje med Implementeringsrådets uppdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec198",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec245",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec249",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec251",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec252",
+      "sentiment": 0.2,
+      "quote": "vill framhålla att besked bör kunna överklagas/begäras omprövning för.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec254",
+      "sentiment": 0.5,
+      "quote": "vill påpeka att det är viktigt hur eventuella vetopunkter i ventilen utformas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec260",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.1",
+      "sentiment": 0.5,
+      "quote": "Företagarna tillstyrker överlag inriktningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec308",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec310",
+      "sentiment": 0.5,
+      "quote": "om de statliga reglerna blir mer tillåtande än lokala särkrav som finns idag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec312",
+      "sentiment": 0.2,
+      "quote": "noterar att det är aningen diffust.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker överlag bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.5",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.6",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.7",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.8",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.10",
+      "sentiment": 0.5,
+      "quote": "lämnar det öppet om Boverket är bäst lämpat som instans.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.12",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": 0.5,
+      "quote": "anser att hyressättningen bör övergå till att vara fri även i befintligt bestånd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.1",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.7.8",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec408",
+      "sentiment": 0.5,
+      "quote": "anser att lärosätena för ges möjlighet att bestämma om detta i högre grad själva.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec410",
+      "sentiment": -1.0,
+      "quote": "Alla elever ska likvärdig skolpeng (med undantag för förhöjd skolpeng vid särskilda behov o dyl.).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec411",
+      "sentiment": -0.2,
+      "quote": "Regelverket för etablering för fristående skolaktörer bör vara förutsebart.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec412",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec415",
+      "sentiment": 0.5,
+      "quote": "anser att detta bör integreras i resurstilldelningssystemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec427",
+      "sentiment": -1.0,
+      "quote": "Det är alltför betungande för mindre fristående huvudmän.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec428",
+      "sentiment": 0.2,
+      "quote": "så länge det inte innebär ökade trösklar för etablering för nya aktörer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec429",
+      "sentiment": 0.2,
+      "quote": "Företagarna anser bedömningen godtagbar, men även illa fungerande kommunala skolor ska kunna stängas eller förvaltas av statlig myndighet under övergångsperiod.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec432",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec434",
+      "sentiment": -0.2,
+      "quote": "Ur kompetensförsörjningsperspektiv behövs tillgång till engelskspråkiga skolor för barn till utländska experter som arbetar i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.1",
+      "sentiment": 0.2,
+      "quote": "även kommuner bör få ta initiativ till andra förfaranden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.1",
+      "sentiment": 0.2,
+      "quote": "att Regeringskansliet bör fortsatt få organisera sig självt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.2",
+      "sentiment": -0.5,
+      "quote": "som vi ser riskerar ökad byråkratisk centralism.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.5.1",
+      "sentiment": 0.2,
+      "quote": "svårt att kombinera med myndigheternas självständiga roll.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec502",
+      "sentiment": 0.5,
+      "quote": "utgör ett komplement eller alternativ till det arbete som i dag görs av SKR.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.1",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec512",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker bedömningen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.5.1",
+      "sentiment": 0.2,
+      "quote": "anser att den statliga inkomstskatten bör avskaffas helt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.4",
+      "sentiment": 0.2,
+      "quote": "anser att regelverket bör utvecklas i takt med förändringar i viktiga konkurrentländer för att säkra Sveriges konkurrenskraft.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.5",
+      "sentiment": -0.2,
+      "quote": "beroende på vad syftet är med de föreslagna förändringarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.6",
+      "sentiment": -0.2,
+      "quote": "beroende på vad syftet är med de föreslagna förändringarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.6",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker denna bedömning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.5.7",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker denna bedömning och anser att föreslagna förändringar i utredningsbetänkandena bör genomföras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.9",
+      "sentiment": 1.0,
+      "quote": "Företagarna tillstyrker denna bedömning.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

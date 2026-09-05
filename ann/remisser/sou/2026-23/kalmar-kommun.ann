@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/kalmar-kommun": "858e129d593e1b5f34886be0a54d2db631ed25be82e40b824201ee12cfb76d48",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:46:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20499,
+      "completion_tokens": 4276,
+      "ended": "2026-09-01T12:48:34+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "735423dee257fddb0e18d3653f8e91397305c394988f4cdfa38cfb135ae4de4d"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Kommunen bedömer att förslaget om tolkavgift medför: • betydande administrativa och ekonomiska konsekvenser, • betydande risk för minskad kontakt med invånare, • otydlig gränsdragning mellan undantagna och avgiftspliktiga verksamheter inom kommunal verksamhet, • risk för försämrad rättssäkerhet genom ökad användning av anhörigtolkning och otydlig tillämpning av avgiftsreglerna samt • risk för ojämn påverkan mellan olika grupper.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -1.0,
+      "quote": "Kalmar kommun avstyrker införandet av tolkavgift.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": 1.0,
+      "quote": "Tillgång till professionell tolk inom dessa verksamheter är avgörande för rättssäkerhet, patientsäkerhet, god kvalitet och likvärdig tillgång till stöd, vård och omsorg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 1.0,
+      "quote": "Tillgång till professionell tolk inom dessa verksamheter är avgörande för rättssäkerhet, patientsäkerhet, god kvalitet och likvärdig tillgång till stöd, vård och omsorg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 0.5,
+      "quote": "Kommunen bedömer att förbud mot barntolkning stärker barns rättigheter och minskar risken för att barn ges ett ansvar som inte är förenligt med barnets bästa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec601",
+      "sentiment": -0.5,
+      "quote": "Detta riskerar att skapa en administrativ apparat som är oproportionerligt stor i förhållande till de intäkter kommunen faktiskt får in, särskilt eftersom stora kommunala verksamhetsområden samtidigt är undantagna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec604",
+      "sentiment": -0.2,
+      "quote": "Det bör tydliggöras hur detta ska finansieras och hur staten ska stödja kommunerna i informationsuppdraget.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": -0.2,
+      "quote": "Här efterfrågar Kalmar kommun tydligare stöd kring rättslig grund, registerfrågor, sekretessgränser och praktisk tillämpning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.3.4",
+      "sentiment": -0.5,
+      "quote": "Den otydliga gränsdragningen riskerar att påverka rättssäkerheten både genom varierande myndighetsutövning och genom att enskilda får olika förutsättningar beroende på hur reglerna tolkas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20.2.3",
+      "sentiment": -0.5,
+      "quote": "Reformen riskerar att öka trycket på anhörigtolkning, vilket kan försämra kvalitet, självbestämmande och skyddet för utsatta personer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a22.2.3",
+      "sentiment": -0.5,
+      "quote": "Mot bakgrund av de administrativa, rättssäkerhetsmässiga och sociala risker som identifierats anser kommunen att nyttan av reformen inte har visats på ett tillräckligt tydligt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.7.6",
+      "sentiment": 0.2,
+      "quote": "Kalmar kommun ser behov av tydligare vägledning kring hur verksamheter ska agera i undantagssituationer, exempelvis vid akuta ärenden eller när professionell tolk inte kan tillhandahållas inom rimlig tid, samt av ett förtydligande av vad som avses med \"uppgifter av enbart administrativ karaktär\".",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/region-uppsala": "0b5f69467d220568cc2844d48a8fcf0b2eaed15903a5328b8db57bb22abe34dc",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:06:01+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20629,
+      "completion_tokens": 4607,
+      "ended": "2026-09-01T16:08:29+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c3570d4d80ec6a38881b6816ae5bb187c50f0ac963f7896fa48e68cf390b4aff"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Uppsala är i huvudsak positiva till utredningens förslag, men vill lämna några synpunkter.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.2",
+      "sentiment": 0.5,
+      "quote": "Region Uppsala instämmer i förslagen om en mer flexibel ordning för hur smittsamma sjukdomar klassificeras och möjlighet för regeringen att föreskriva vilka anmälningspliktiga sjukdomar som kan omfattas av kostnadsfrihet, smittbärarpenning eller reseersättning utöver de allmänfarliga, när det bedöms minska smittrisken.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.3",
+      "sentiment": 1.0,
+      "quote": "Listan över hur olika smittsamma sjukdomar ska hanteras behöver kunna justeras på ett enklare och snabbare sätt eftersom kunskapsläge och förutsättningar för utredning, behandling och smittspridning löpande förändras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 1.0,
+      "quote": "Region Uppsala uppfattar det ändamålsenligt ur flera aspekter att alla allmänfarliga sjukdomar i detta hänseende hanteras likartat och att inte en särskild hantering finns för ett enskilt smittämne som hiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.11",
+      "sentiment": 1.0,
+      "quote": "Region Uppsala uppfattar det ändamålsenligt ur flera aspekter att alla allmänfarliga sjukdomar i detta hänseende hanteras likartat och att inte en särskild hantering finns för ett enskilt smittämne som hiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.12",
+      "sentiment": 1.0,
+      "quote": "Region Uppsala uppfattar det ändamålsenligt ur flera aspekter att alla allmänfarliga sjukdomar i detta hänseende hanteras likartat och att inte en särskild hantering finns för ett enskilt smittämne som hiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": -0.2,
+      "quote": "Däremot ser Region Uppsala en risk att meddelandet om förhållningsregler i praktiken inte kommer fylla någon funktion för att minska smittspridningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Region Uppsala instämmer i förslaget att rikskoden tas bort.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.3",
+      "sentiment": -0.2,
+      "quote": "Placeringen behöver följa övrig regional organisationsutveckling, därför ställer sig regionen tveksam till att lagstadga en exakt organisationsplacering.",
+      "quote_type": "grund"
+    }
+  ]
+}

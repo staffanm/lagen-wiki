@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/hyresgastforeningen": "8607352bcc4028deb88570efc7936d2e876dd4a0b210e9ad2e0ba3b1abb2855a",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T03:47:14+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 49615,
+      "completion_tokens": 5416,
+      "ended": "2026-09-02T03:50:17+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "5a79e149437aea98aed42ce8d7adb525d34083e952b344a909f55a1aaec36f05"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Hyresgästföreningen bedömer att Produktivitetskommissionens analys av det befintliga bostadsbeståndet i flera avseenden vilar på förenklade antaganden och bristande empiriskt stöd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.2",
+      "sentiment": -0.5,
+      "quote": "Bygglovsfri småhusproduktion (7.4.2) kan hota både infrastruktur, stadsbild och miljö.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.3",
+      "sentiment": -1.0,
+      "quote": "Staten bör formulera krav i dialog med kommuner och regioner, inte ta över beslutsfattandet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.5",
+      "sentiment": 0.5,
+      "quote": "Vi ser positivt på ambitionen om att minska förekomsten av slentrianmässiga överklaganden (7.4.5).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.6",
+      "sentiment": -0.2,
+      "quote": "Det skulle flytta handläggningstid från ett skede till ett annat i processen, öka den administrativa bördan och riskera mer svåröverskådliga detaljplaner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.7",
+      "sentiment": -1.0,
+      "quote": "Tvång riskerar att leda till att regler följs formellt men kringgås i praktiken, exempelvis som att flytta handläggningstid till utanför det som följs upp, att man ger godtyckliga avslag eller på annat sätt fördröjer på ett sätt som inte fångas upp av regelsystemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.8",
+      "sentiment": -0.2,
+      "quote": "finns det utmaningar i att göra en nationell standardisering då platsförutsättningar skiljer sig mycket åt och nya frågor som ej kunde förutses kan uppkomma under processens gång.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.10",
+      "sentiment": -0.5,
+      "quote": "Det saknas belägg för att bristande produktivitet är ett problem som härrör ur entreprenadsidan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.13",
+      "sentiment": -1.0,
+      "quote": "Antagandet att fri hyressättning ökar byggande och produktivitet saknar empiriskt stöd.",
+      "quote_type": "grund"
+    }
+  ]
+}

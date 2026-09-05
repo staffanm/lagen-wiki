@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/statskontoret": "e563fd51fab06f844aef25729907f8292ea7dea75f8a49ee5e35fcc170c274d5",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:45:57+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 52979,
+      "completion_tokens": 3752,
+      "ended": "2026-09-01T23:48:26+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "97af17bf2455c76441bc4702cbf14d9e790557a8384624906854c9a669c00b70"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Det finns en tydlig argumentation och väl underbyggd problembild i utredningen som understödjer behovet av detta.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a15.1.4",
+      "sentiment": 0.5,
+      "quote": "I översynen av världsarvet Laponia menar Statskontoret att det finns ett behov av att världsarvets förvaltnings- och skötselplaner uppdateras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.6",
+      "sentiment": 0.5,
+      "quote": "Som nämnts ovan menar Statskontoret att förvaltnings- och skötselplanerna för världsarvet Laponia behöver renodlas för att bli mer ändamålsenliga.",
+      "quote_type": "grund"
+    }
+  ]
+}

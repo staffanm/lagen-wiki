@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/svenska-kraftnat": "3711952b835bcd1a8fba8034bbc5b11537d69b00a4ce0914e375b93cfc55c8d3",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:15:02+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 29457,
+      "completion_tokens": 2750,
+      "ended": "2026-09-02T00:17:04+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "09ab96f984b93c12e52577643031bedfbe143689f1db62428e4055b0857df90f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Svenska kraftnät ser positivt på att verkets arbete med artrika gräsmarker i kraftledningsgator har uppmärksammats som ett bidrag till Sveriges åtaganden inom EU och internationell avseende biologisk mångfald.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec321",
+      "sentiment": -0.5,
+      "quote": "Svenska kraftnät avstyrker att ett eventuellt uppdrag till verket ska avse ett fast antal områden då detta inte är förenligt med elnätets föränderlighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec326",
+      "sentiment": -0.2,
+      "quote": "Svenska kraftnät önskar förtydligande av den juridiska grunden för att ingå inomstatliga överenskommelser för områden där Svenska kraftnät inte äger fastigheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.2,
+      "quote": "Svenska kraftnät anser att det finns behov av vägledning kring detta och hur kompensationsåtgärderna ska bedömas.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/regelradet": "24a9b449e0c3f37880bc7d500729855ce45d6367ad9b5691b1f2a139bd63e048",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:50:26+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18257,
+      "completion_tokens": 4083,
+      "ended": "2026-09-01T16:52:43+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ae48ce2cb27d5cc008c69b71a3d53863d0a2e5393f8b493e95755a0bb2873da8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Samtliga övriga avsnitt i konsekvensutredningen redovisas på ett godtagbart sätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.2,
+      "quote": "Regelrådet finner att redovisningen av berörda företag utifrån storlek är bristfällig.",
+      "quote_type": "grund"
+    }
+  ]
+}

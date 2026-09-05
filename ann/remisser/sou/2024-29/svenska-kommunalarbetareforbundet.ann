@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/svenska-kommunalarbetareforbundet": "eaa321a7e3f6959e9e575d51370a82c6a8536e2858f8bde4f97ac690c180e16d",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T07:32:57+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23434,
+      "completion_tokens": 5135,
+      "ended": "2026-09-02T07:35:48+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "114023213375dd5fa4081578e40ac4a959acc27498e3a64c799c896e1ff03c25"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "En god produktivitetsutveckling är avgörande för att branscherna där medlemmarna i Kommunal arbetar, som i princip uteslutande finansieras via skatter, ska kunna erbjuda hög kvalitet, god arbetsmiljö samt bra löneutveckling och villkor.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.4.2",
+      "sentiment": 0.5,
+      "quote": "Produktivitet är att få ut så mycket kvalitet som möjligt för pengarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.4",
+      "sentiment": 0.5,
+      "quote": "Strukturomvandling är den enskilt mest avgörande faktorn för ökad produktivitet på lång sikt och för att denna typ av processer ska vinna folklig acceptans är det avgörande att individer som drabbas erbjuds vägar framåt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.1",
+      "sentiment": -1.0,
+      "quote": "konstruktionen med höga marginalskatter inte oproblematisk och Kommunal förespråkar därför en total översyn av skattesystemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.2",
+      "sentiment": -0.5,
+      "quote": "Kommuner behöver rimliga planeringsförutsättningar i budgetarbetet.",
+      "quote_type": "grund"
+    }
+  ]
+}

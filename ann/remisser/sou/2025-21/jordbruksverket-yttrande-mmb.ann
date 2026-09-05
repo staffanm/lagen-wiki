@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/jordbruksverket-yttrande-mmb": "b571798f32b3be7d7250646bb0f1579b2033d85ecd493593a97984bdd53ede89",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:54:25+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 39606,
+      "completion_tokens": 7309,
+      "ended": "2026-09-01T17:59:10+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "256ea3d0a979482ddeb48669ae46091775207a8574d37fb593768dee34b8a88e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Sammantaget anser Jordbruksverket att många av beredningens förslag har potential att bidra till ökad klimat- och miljönytta, men vill understryka behovet av balans mellan klimatnytta, produktion och rättssäker hantering.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": -1.0,
+      "quote": "Vi anser att detta strider mot syftet med anmälningsplikten, som är avsedd för mindre vattenverksamheter med begränsad påverkan, och att miljöprövningen bör baseras på påverkan, inte på åtgärdens syfte.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.7",
+      "sentiment": 1.0,
+      "quote": "Jordbruksverket har ingen erinran om att den förslagna ändringen införs.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "Ytterligare satsningar på rådgivning har potential att bidra till ökad klimat- och miljönytta på ett kostnadseffektivt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.5,
+      "quote": "Åtgärdssamordning kan även bidra till ett ökat genomslag för grön infrastruktur och stimulera samverkan mellan markägare, arrendatorer och andra markförvaltare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": -0.2,
+      "quote": "bedömer vi att mervärdet med att följa upp kolinlagringen är mycket begränsat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": -0.2,
+      "quote": "Jordbruksverket anser att eftersom rapporteringen sker inom andra processer, tillför en parallell uppföljning och rapportering inom miljökvalitetssystemet begränsat mervärde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": -0.5,
+      "quote": "En förhöjd miljöersättning till vall samt en utökning av biogasstödet till att omfatta vall, kan sammantaget leda till snedvridning av konkurrens mellan olika jordbruksregioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": -0.2,
+      "quote": "Vår bedömning är att det är kan bli svårt att utöka odlingen av mellangrödor med ytterligare 120 000 hektar och nå 300 000 hektar till 2030.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": -1.0,
+      "quote": "Vi noterar att ett stöd för att använda grönmassa från vallodling till produktion av biogas kan leda till mindre produktion av livsmedel och foder, där både spannmålsodlingen i slättbygd och nötköttsproduktionen i skogsbygd kan minska.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.5",
+      "sentiment": 0.0,
+      "quote": "De praktiska och ekonomiska utmaningarna med att öka arealen är mycket stora.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1.1",
+      "sentiment": 1.0,
+      "quote": "Jordbruksverket delar Miljömålsberedningens bedömning att återvätning av torvmarker är en effektiv åtgärd för att minska växthusgasutsläppen inom markanvändningssektorn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 1.0,
+      "quote": "Vi ser ett stort värde i att samla och stärka kunskapsutbyte och samverkan kring återvätning och restaurering av våtmarker.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": -1.0,
+      "quote": "Att ge möjlighet till anmälan utan storleksbegränsning anser vi strida mot syftet med bestämmelsen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -1.0,
+      "quote": "Jordbruksverket anser att utredningens förslag om ett undantag från omprövning och avveckling av markavvattningsföretag för att underlätta för återvätning skulle få orimliga konsekvenser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.2,
+      "quote": "Jordbruksverket anser att förslaget behöver konsekvensutredas så att det inte får negativa konsekvenser för svensk växthusproduktion och djurhållning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.7",
+      "sentiment": 0.2,
+      "quote": "För att inkludera andra marker med höga naturvärden, d.v.s. alvarbete, skogsbete, mosaikbete och gräsfattig mark, bör skrivningen ändras till ”betesmarker och slåtterängar med särskild skötsel”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.1",
+      "sentiment": 1.0,
+      "quote": "Jordbruksverket bedömer att det finns ett behov av ett kvantifierat åtagande för restaurering av natur i form av ett etappmål inom miljömålssystemet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.2",
+      "sentiment": 1.0,
+      "quote": "Jordbruksverket anser att förslaget om att införa ett etappmål för att förbättra mångfalden och vända populationstrenderna för vilda pollinatörer behövs för att samla miljömålsarbetet i frågan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.3",
+      "sentiment": 1.0,
+      "quote": "Ett förstärkt arbete med åtgärdsprogram för hotade arter är nödvändigt för att bevara biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.6",
+      "sentiment": 0.5,
+      "quote": "Jordbruksverket delar bedömningen att en förstärkning av arbetet med restaurering och hävd av ängs- och betesmarker är nödvändig för att nå nationella och internationella miljömål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 1.0,
+      "quote": "Jordbruksverket stödjer förslaget och anser att det är en bra justering av skogsvårdslagen i syfte att skapa förutsättningar för biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.2",
+      "sentiment": -0.2,
+      "quote": "resurserna i första hand bör användas till att skydda växterna där de lever idag genom att bevara deras livsmiljöer.",
+      "quote_type": "grund"
+    }
+  ]
+}

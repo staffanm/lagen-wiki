@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/falkopings-kommun": "96ab3004331836c7cb08540a10716bb5f512279bcae314d0190605a0648d735a",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:30:09+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19346,
+      "completion_tokens": 2120,
+      "ended": "2026-09-01T12:31:36+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ebc9bb8123da6cd26f4d5939422601304b2df83811ce141a6480f7f18f4e6ea2"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslaget bedöms få mycket begränsade konsekvenser för Falköpings kommun, då de kommunala verksamheter som använder tolk mest inte omfattas av avgiftssystemet och den enda tydliga nya uppgiften blir att informera om reglerna inom SFI och samhällsorientering.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 0.2,
+      "quote": "Förvaltningen har inga synpunkter på förslaget om tolkavgift då det anses påverka den kommunala organisationen minimalt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec26",
+      "sentiment": 1.0,
+      "quote": "Att barn ska behöva hamna i situationer som kräver att de ska tolka känsliga uppgifter för närstående innebär ohållbara situationer som barn inte ska sättas i.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec31",
+      "sentiment": 1.0,
+      "quote": "Att förslaget ändå innehåller undantag för akuta ärenden ses också som positivt, då det fortfarande kan behövas i akuta och livräddande situationer.",
+      "quote_type": "grund"
+    }
+  ]
+}

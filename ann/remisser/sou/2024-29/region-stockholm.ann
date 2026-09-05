@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/region-stockholm": "82f59d26ad51d7bc9df6910103a48eecb0735a1d024ed2a9e965540a0e4ffccc",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:10:06+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25830,
+      "completion_tokens": 3401,
+      "ended": "2026-09-02T06:12:06+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1a7e90760bc124ce2e8fc70bd8e6ef51b705f7e6261174790bd4917a4c426639"
+    }
+  },
+  "overall": {
+    "sentiment": 0.6,
+    "quote": "Region Stockholm ser huvudsakligen positivt på kommissionens arbete och lämnar synpunkter på ett urval områden, med fokus på de områden och förslag som tydligast påverkar Region Stockholms förutsättningar att utföra sitt uppdrag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5",
+      "sentiment": 0.5,
+      "quote": "vill betona att även den kommunala sektorn behöver inkluderas när synpunkter ska inhämtas i syfte att identifiera möjligheter till regelförenkling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6",
+      "sentiment": 1.0,
+      "quote": "För Region Stockholm är frågan av betydelse både i samband med egna investeringar i kollektivtrafik och vårdfastigheter, och i relation till hur tillståndsprocesserna påverkar utvecklingen för näringslivet och övriga aktörer i Stockholmsregionen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4.4",
+      "sentiment": -0.5,
+      "quote": "Mot bakgrund av att lagstiftningen redan placerar huvudansvaret för detta hos regionerna, som har den närhet och kunskap som krävs för platsbaserad utveckling, anser Region Stockholm att ansvaret för regional utveckling tydligt bör tillfalla regionerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.1",
+      "sentiment": 0.5,
+      "quote": "Samtidigt vill Region Stockholm understryka att nyinvesteringar också krävs, inte minst där de ger betydande restidsvinster och positiva regionalekonomiska effekter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.3",
+      "sentiment": 0.2,
+      "quote": "Eftersom pendeltågen delar spår med både fjärr-, regional- och godståg på stora delar av nätet, får brister i den statliga infrastrukturen stora konsekvenser för tusentals kollektivtrafikresenärer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec511",
+      "sentiment": 1.0,
+      "quote": "I nuläget karakteriseras de riktade statsbidragen av spretighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/delegationen-for-migrationsstudier": "235ebc169c60a6b263318454928f568dae8408589c0c0097a5374bc49692d251",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:38:29+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19599,
+      "completion_tokens": 4132,
+      "ended": "2026-09-01T12:40:45+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "cb7f940401744d0c22d0cb95502dd3b7f18ad5bd062c4406bd72251ad5a5fccd"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Det forskningsunderlag som finns ger inte tillräckligt stöd för antagandet att en tolkavgift leder till faktisk förbättring av språkkunskaper.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.12",
+      "sentiment": 1.0,
+      "quote": "Delmi ser positivt på att Migrationsverkets handläggning av asylärenden enligt asylprocedurförordningen kommer undantas från tolkavgift i enlighet med asylrättsliga direktiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": -0.5,
+      "quote": "Detta förutsätter att individen fullt ut förstår de omständigheter som ligger till grund för beslutet och vilka rättigheter och skyldigheter de har i sådana ärenden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 1.0,
+      "quote": "Delmi tillstyrker utredningens förslag att inte införa tolkavgift i ärenden som direkt rör barn och övriga undantag som listas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 1.0,
+      "quote": "Utredningen konstaterar att barntolkning kan leda till sämre kvalitet i ärendehandläggning och bristfälliga underlag för myndighetsbeslut. Delmi ställer sig bakom denna analys",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.5",
+      "sentiment": -0.5,
+      "quote": "Detta innebär att ett kvarstående behov av tolk efter sex års folkbokföring inte kan betraktas som indikator på bristande vilja eller otillräcklig ansträngning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2.5",
+      "sentiment": -0.5,
+      "quote": "Utredningen konstaterar själv att personer med begränsade inkomster kan drabbas av ekonomisk stress och skuldsättningsproblem.",
+      "quote_type": "grund"
+    }
+  ]
+}

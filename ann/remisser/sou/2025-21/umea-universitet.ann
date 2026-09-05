@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/umea-universitet": "27f8e33ce3ece5f83c48ba20c2aa3d89633ad297891e0acce114f38b4cfdbaba",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T01:03:56+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 29482,
+      "completion_tokens": 3930,
+      "ended": "2026-09-02T01:06:37+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "a0e6d7bb6f32179fbaeca7ef494175d978580c909322e856a5588efb451bf3a8"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Överlag finns goda ambitioner i miljömålsberedningens förslag, men det finns också en brist på koppling till vetenskapliga underlag, framför allt vad gäller skydd av biologisk mångfald och hållbart brukande av skog.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.2",
+      "sentiment": -0.2,
+      "quote": "Med andra ord, fokus borde ligga på åtgärder som mest troligt ger resultat, inte på att med minsta möjliga medel uppfylla specifika krav.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": 0.5,
+      "quote": "Detta är ett bra förslag på precisering av miljömålet Levande skogar, eftersom det syftar till att öka skogarnas nettoupptag (det vill säga, inklusive kolinlagring i mark och annan vegetation än träd) av växthusgaser och detta kräver åtgärder som ofta går hand i hand med att skydda och bevara biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.5,
+      "quote": "Föreslagna åtgärdar med syfte att öka skogens tillväxt och därmed nettoinlagring av växthusgaser kommer mest troligt att leda till ökat produktionsbortfall på grund av skador på skogen (Seidl et al. 2011, Patacca et al. 2023, Wolf et al. 2023, Laudon et al. 2024, Jonsson et al. 2024).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Utredningen föreslår att ökad klimatnytta inom skogsbruket ska nås genom ökad skogsgödsling, men det kan sannolikt enbart marginellt öka upptaget kortsiktigt, medan den mer långvariga potentiella kolinlagringen av skogsgödsling ifrågasatts (Jämtgård et al. 2023).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec193",
+      "sentiment": 0.2,
+      "quote": "För att över tid behålla marknadsvärdet bör utredaren överväga att inrätta någon form av periodiserad ersättning över tid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": -0.2,
+      "quote": "Det är viktigt att tänka på att ett redan avsatt områdes förmåga att skydda och (på större skala) gynna biologisk mångfald försämras om kvaliteten på det ej skyddade omkringliggande habitat försämras (till exempel genom intensifierat jord- eller skogsbruk).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": 0.5,
+      "quote": "I diskussionen kring definitioner av olika skogstyper kopplat till naturvärden och biologisk mångfald bör man även ta hänsyn till redan vetenskapligt framtagna definitioner, som i till exempel Buchwald (2005).",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/intressegruppen-for-assistansberattigade-ifa": "f9739e57fcd3b4c7aa8e1903798d3f69c654ed78cb465edae4bb85022f6615d4",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:04:50+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 20605,
+      "completion_tokens": 1379,
+      "ended": "2026-09-02T04:05:36+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "441f778cab2bcfe6d9f525fbef7979baf54070bf16031eadacdd5eccb7e4b4d3"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "En strukturell förändring där assistansen endast utförs i offentlig regi vore oproportionerlig, otillräckligt analyserad och i grunden skadlig för de personer som reformen är till för.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/svenska-turistforeningen": "5bc83982c761053124b236c68962af6471197b438a8864c14ee3279a50368ec3",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:21:02+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26436,
+      "completion_tokens": 1862,
+      "ended": "2026-09-02T00:22:29+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "d3aa8e4aaf0ff165b299dce26f1b1bf0e046f2b4614b3d6bba0eef3732497d71"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Svenska Turistföreningen välkomnar utifrån denna situation att Miljömålsberedningen i sitt delbetänkande identifierar detta problem och föreslår en kraftigt höjd budget för ändamålet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a19.12.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelser i hela landet rapporterar att de inte längre kan utföra den skötsel, det underhåll och de investeringar man behöver göra för att tillgängliggöra den skyddade naturen för friluftslivet då tilldelade anslag från Naturvårdsverket i princip har halverats.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.7",
+      "sentiment": 1.0,
+      "quote": "STF välkomnar att Miljömålsberedningen ser betydande potentiella synergieffekter genom att tillgängliggöra formellt skyddad natur och uppnå andra samhällsmål.",
+      "quote_type": "grund"
+    }
+  ]
+}

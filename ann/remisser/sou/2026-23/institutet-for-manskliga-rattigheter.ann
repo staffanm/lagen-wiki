@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/institutet-for-manskliga-rattigheter": "23a21014bac9cbbdc15a0a84f49dda70beada62d603551c117a301f7f51a3c7e",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T13:09:01+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23065,
+      "completion_tokens": 2564,
+      "ended": "2026-09-01T13:10:32+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0eb8c70a39f9c9dd90a1275d8c349213311f684b642912ca45b8367c7a6e47bd"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Institutet för mänskliga rättigheter avstyrker förslaget om att införa tolkavgift och bedömer att avgifterna riskerar att begränsa människors faktiska tillgång till mänskliga rättigheter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a11.2.5",
+      "sentiment": -1.0,
+      "quote": "Införandet av en tolkavgift enligt förslaget riskerar att medföra hinder för den enskilde att tillgodogöra sig sina mänskliga rättigheter så som rätten till en tillfredsställande levnadsstandard och rätten att söka asyl.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.7",
+      "sentiment": -1.0,
+      "quote": "Migrationsstatus bör inte i sig medföra sämre tillgång till tolk, särskilt inte för en grupp som redan befinner sig i en social och ekonomisk utsatt situation.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": -0.5,
+      "quote": "En förutsättning för att denna process ska vara rättssäker är att den enskilde kan förstå den information som lämnas och själv göra sig förstådd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.5,
+      "quote": "Vi är kritiska till att förslaget utgår från en alltför snäv förståelse av funktionsnedsättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.7",
+      "sentiment": 1.0,
+      "quote": "Att barn används som tolkar kan innebära att de ges ett ansvar som inte är förenligt med deras ställning som barn och riskerar att påverka flera av deras mänskliga rättigheter, däribland rätten till utbildning, rätten till bästa möjliga hälsa och principen om barnets bästa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.7.6",
+      "sentiment": -0.2,
+      "quote": "Institutet för mänskliga rättigheter bedömer att ett sådant undantag riskerar att tillämpas alltför brett och därmed undergräva syftet med förbudet mot att använda barn som tolk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a22",
+      "sentiment": -0.2,
+      "quote": "Institutet saknar också konsekvensutredning utifrån de nämnda konventionerna samt barnkonventionen.",
+      "quote_type": "grund"
+    }
+  ]
+}

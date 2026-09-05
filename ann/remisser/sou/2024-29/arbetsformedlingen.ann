@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/arbetsformedlingen": "d280a3f3c6bd7027d555d55097440f6a168de52f2da5f61f21fe30f393602816",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T01:59:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27108,
+      "completion_tokens": 6916,
+      "ended": "2026-09-02T02:03:32+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ff8a4651f2bdacefe1c73c1428dcc2f21756de9d66a43598a5b7a5186b711972"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Arbetsförmedlingen har i sitt yttrande fokuserat på de förslag som berör myndigheten eller kan få konsekvenser för arbetsmarknadens funktionssätt och i den mån myndigheten har några synpunkter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.2",
+      "sentiment": 1.0,
+      "quote": "Huvudsaken är att det införs ett samlat ansvar för utveckling och stöd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": 0.0,
+      "quote": "Att föreskrifter inte ska få beslutas förrän ESV har godkänt konsekvensutredningen innebär fördröjningar och ytterligare administration som inte tillför något i sak.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec188",
+      "sentiment": 0.2,
+      "quote": "Likt ovan menar Arbetsförmedlingen emellertid att ESV bör fokusera på att ge stöd till myndigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec189",
+      "sentiment": 0.5,
+      "quote": "Det kan emellertid noteras att det i många sammanhang kan vara svårt att genomföra effektutvärderingar med kontrollgrupper skapade t.ex. genom regelutformningen eller randomisering, då det kan innebära avsteg från likabehandling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 0.7,
+      "quote": "Förslaget kan bidra till förbättrad kompetensförsörjning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.1",
+      "sentiment": 1.0,
+      "quote": "Försöksverksamhet, när så är möjligt, bidrar till ett mer evidensbaserat arbetssätt inom offentlig sektor.",
+      "quote_type": "grund"
+    }
+  ]
+}

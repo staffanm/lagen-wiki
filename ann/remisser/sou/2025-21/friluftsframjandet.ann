@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/friluftsframjandet": "8aaa471f8515e71833fd6c42da90538c3e52d8bf5018171bb3c868ee4f1012f4",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:28:41+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 70869,
+      "completion_tokens": 9407,
+      "ended": "2026-09-01T17:34:25+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8474935607c04e041d6dfdfc176b60e0e49f6a6538013b7a009e85aae01c8990"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vi står helt eller delvis bakom många av de förslag som presenterats, då de flesta utgör ett steg framåt jämfört med nuvarande politik.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.5,
+      "quote": "Friluftsfrämjandet ser positivt på förslaget, men saknar en koppling till de friluftspolitiska målen i LONA-förordningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": 0.2,
+      "quote": "Friluftsfrämjandet är positiv till att Miljömålsberedningen föreslår nya indikatorer till miljökvalitetsmålen Levande skogar och Ett rikt odlingslandskap, men saknar nya etappmål för ökat nettoupptag för växthusgaser i markanvändningssektorn.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 0.5,
+      "quote": "Friluftsfrämjandet tillstyrker naturvårdsavtal om förlängda omloppstider, men ambitionerna bör höjas",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 1.0,
+      "quote": "Friluftsfrämjandet tillstyrker förslagen om rådgivning och information, förslag om att uppmana Sveaskog att öka nettoupptaget på sina marker och förslag om naturvårdsavtal för att förlänga omloppstider.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec186",
+      "sentiment": -1.0,
+      "quote": "Friluftsfrämjandet avstyrker ersättning för gödsling av skog, då ger skogar som är dåligt rustade för ökade störningar med ändrat klimat, bland annat värre stormskador, torka och insektsangrepp.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Friluftsfrämjandet tillstyrker att SLU får i uppdrag att tillsammans med Boverket, Naturvårdsverket och Trafikverket skyndsamt vidareutveckla ett gemensamt verktyg med standardiserade metoder för att mäta vilken effekt förändrad markanvändning vid exploatering får på nettoupptaget av koldioxid.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 1.0,
+      "quote": "Friluftsfrämjandet tillstyrker alla Miljömålsberedningen föreslag på området.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": 1.0,
+      "quote": "Det är bra att prioritera den tätortsnära naturen, då det där finns stora ekosystemvärden i form av biologisk mångfald (se Skogsstyrelsens statistik över tätortsnära natur), klimatanpassning (natur som hanterar stora nederbördsmängder och är avkylande vid extremvärme), rekreation och folkhälsa (57 procent av allt friluftsliv görs tätortsnära).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -0.5,
+      "quote": "Friluftsfrämjandet är därför kritisk till förslaget att begränsa skyddet av skogar till urskog och sådan ”gammal skog” som avses i den föreslagna svenska definitionen av vad som avses i förnybartdirektivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1",
+      "sentiment": 1.0,
+      "quote": "De skyddade områdena är ryggraden i naturvårdsarbetet och har stor betydelse för friluftslivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.5",
+      "sentiment": 1.0,
+      "quote": "Friluftsfrämjandet tillstyrker förslagen: - att länsstyrelserna får i uppdrag att genomföra och samordna rådgivning om naturrestaurering under perioden 2026–2030.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.8",
+      "sentiment": 1.0,
+      "quote": "att slopa återbeskogningsplikten i en zon på 25 meter närmast jordbruksmark.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.2.1",
+      "sentiment": 0.5,
+      "quote": "Friluftsfrämjandet tillstyrker förslaget om etappmål för integrering av stadsgrönska och ekosystemtjänster i urbana miljöer.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.2.5",
+      "sentiment": 1.0,
+      "quote": "Dessa stöd har även haft betydelse för att utveckla goda förutsättningar för friluftslivet.",
+      "quote_type": "grund"
+    }
+  ]
+}

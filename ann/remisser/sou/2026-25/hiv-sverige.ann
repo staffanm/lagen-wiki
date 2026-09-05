@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/hiv-sverige": "ca00f8c663cfac15ab71fc1619d05d609e6e029a40c8a638a8b7d7e09811f36e",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:56:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21440,
+      "completion_tokens": 2876,
+      "ended": "2026-09-01T15:57:50+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1dab38aac57a239f84ae1851a454dbe7b4686692b068f9910391b57560b7f29d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Hiv-Sverige tillstyrker i huvudsak utredningens förslag och ser positivt på den modernisering av smittskyddsarbetet som utredningen föreslår.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 1.0,
+      "quote": "Hiv-Sverige instämmer i utredningens bedömning och tillstyrker förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": 0.5,
+      "quote": "Hiv-Sverige saknar ett tydligare beaktande av individuella förutsättningar att förstå, bearbeta och agera utifrån den information och de råd som ges.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.7",
+      "sentiment": 0.5,
+      "quote": "Hiv-Sverige saknar ett tydligare beaktande av individuella förutsättningar att förstå, bearbeta och agera utifrån den information och de råd som ges.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.14",
+      "sentiment": 0.2,
+      "quote": "Hiv-Sverige anser att denna formulering riskerar att skapa en alltför ojämlik tillgång till stöd, och att ett erbjudande om och tillgång till stöd i praktiken blir beroende av vårdpersonalens individuella bedömningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Att avskaffa särreglering kring hiv och andra sexuellt överförbara infektioner kan på sikt bidra till minskat stigma och en normalisering av hiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.5",
+      "sentiment": 0.2,
+      "quote": "Mot bakgrund av de regionala skillnader som finns inom hälso- och sjukvården vill Hiv-Sverige understryka vikten av att de förändringar i regelverk och arbetssätt som utredningen föreslår får ett enhetligt genomslag i hela landet.",
+      "quote_type": "grund"
+    }
+  ]
+}

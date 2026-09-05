@@ -1,0 +1,246 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-varmland": "2ae497b68b2472d31c7f648dfea05939b69016b769407aef0273ca71a2d9b120",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T21:42:27+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 84856,
+      "completion_tokens": 18763,
+      "ended": "2026-09-01T21:54:57+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "76a7b8d175c24e6f9aa85d1e38ce3a5f63ed3648bcb11070cc3e2a3d63f5a6d3"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Länsstyrelsen tillstyrker många av förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "Förslaget i avsnitt 6.1 kan därför endast tillstyrkas om tillräckliga resurser tilldelas för såväl den föreslagna informationssatsningen som för andra delar i myndigheternas arbete som har betydelse för att nå de mål som förslaget syftar till.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.2,
+      "quote": "Om det statliga bidraget bara blir 50 procent, så finns risk att endast få kommuner och nästan inga ideella organisationer anser sig ha råd att satsa på åtgärdssamordnare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.5,
+      "quote": "Den föreslagna förändringen i 1 § första stycket 1 i LONA-förordningen öppnar positiva möjligheter för de föreningarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen menar att det är fördelaktigt att ta vara på detta intresse som nu finns i många kommuner, och då är det bra om Våtmarks-LONA behåller sin flexibilitet att kunna användas för alla de syften som ingår idag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker Miljömålsberedningens förslag om ny indikator till miljökvalitetsmålet Begränsad klimatpåverkan och ny precisering till miljökvalitetsmålen Levande skogar och Ett rikt odlingslandskap.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "Förslaget om bidrag för att öka kvävegödslingen av skog (8.2.2) avstyrks, eftersom det skulle motverka miljökvalitetsmålet Ingen övergödning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.2,
+      "quote": "Att betala en ersättning för att skogen ska få stå tills den uppnått rekommenderad slutavverkningsålder, innebär en stor risk att ersättningar huvudsakligen går till skogsägare som ändå inte hade tänkt avverka tidigare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.4",
+      "sentiment": 1.0,
+      "quote": "Förslagen om att Skogsstyrelsen ska räkna fram hållbara avverkningsnivåer där åtagande om ett ökat kolupptag ingår (8.2.4) och att uppmana Sveaskog att öka nettoupptaget på sina marker (8.2.5) tillstyrks.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 1.0,
+      "quote": "Förslagen om att Skogsstyrelsen ska räkna fram hållbara avverkningsnivåer där åtagande om ett ökat kolupptag ingår (8.2.4) och att uppmana Sveaskog att öka nettoupptaget på sina marker (8.2.5) tillstyrks.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": 0.5,
+      "quote": "Det föreslagna uppdraget till Upphandlingsmyndigheten om en informations- och rådgivningsinsats om upphandling av naturbeteskött, renkött och viltkött (9.2.1) kan med fördel breddas till en informations- och rådgivningsinsats om upphandling av mat med positiva effekter på kolinlagring, andra klimataspekter och biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker Miljömålsberedningens förslag gällande miljöersättning för vallodling (9.2.2), ersättning för odling av mellangröda (9.2.3), att biogasstöd även ska omfatta vall (9.2.4), respektive breddad definition av trädjordbruk (9.2.5).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.2.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker Miljömålsberedningens förslag gällande miljöersättning för vallodling (9.2.2), ersättning för odling av mellangröda (9.2.3), att biogasstöd även ska omfatta vall (9.2.4), respektive breddad definition av trädjordbruk (9.2.5).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker Miljömålsberedningens förslag gällande miljöersättning för vallodling (9.2.2), ersättning för odling av mellangröda (9.2.3), att biogasstöd även ska omfatta vall (9.2.4), respektive breddad definition av trädjordbruk (9.2.5).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9.2.5",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker Miljömålsberedningens förslag gällande miljöersättning för vallodling (9.2.2), ersättning för odling av mellangröda (9.2.3), att biogasstöd även ska omfatta vall (9.2.4), respektive breddad definition av trädjordbruk (9.2.5).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker att SLU får i uppdrag att utveckla verktyg för att mäta effekter av exploatering på nettoupptaget av växthusgaser (10.1).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 0.5,
+      "quote": "En förutsättning är dock att det tydligare preciseras vilken mark en sådan bestämmelse avser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen ställer sig tveksam till kostnadseffektiviteten i att inrätta ytterligare nationella samordnare för olika ändamål, exempelvis för stöd till marknadsaktörer som arbetar med långlivade träprodukter av lövträ (11.4).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om uppdrag till Boverket att utöka klimatdeklarationen för nya byggnader (11.1), uppdrag till Boverket att främja återbruk av byggmaterial (11.2), och att Skogsstyrelsen i information och rådgivning inkluderar skogsskötselmetoder som leder till långlivade träprodukter (11.3).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.1.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om uppdrag till Boverket att utöka klimatdeklarationen för nya byggnader (11.1), uppdrag till Boverket att främja återbruk av byggmaterial (11.2), och att Skogsstyrelsen i information och rådgivning inkluderar skogsskötselmetoder som leder till långlivade träprodukter (11.3).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.1.3",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om uppdrag till Boverket att utöka klimatdeklarationen för nya byggnader (11.1), uppdrag till Boverket att främja återbruk av byggmaterial (11.2), och att Skogsstyrelsen i information och rådgivning inkluderar skogsskötselmetoder som leder till långlivade träprodukter (11.3).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.5,
+      "quote": "Indelningen skapar oklarhet om var öppna myrmarker, som påverkas av gamla dikningsförsök men som inte blivit skogsbevuxna, passar in, då de varken är jordbruksmark eller skogsmark.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.1",
+      "sentiment": -0.2,
+      "quote": "I detta fall finns dock – även om förslaget kan innebära en önskvärd effektivisering – frågeställningar som gör att Länsstyrelsen ställer sig tveksam till förslaget, och menar att det åtminstone krävs en fördjupad rättslig analys innan det kan bli aktuellt att genomföra.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen bedömer att förslaget är tveksamt ur rättssäkerhetssynpunkt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3",
+      "sentiment": 1.0,
+      "quote": "Förslagen om ett nationellt återvätningsråd (12.3), om utfasning av torvutvinning (12.5), och om ändring av miljökvalitetsmålet Myllrande våtmarker och en av dess preciseringar (12.6) tillstyrks.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 1.0,
+      "quote": "Förslagen om ett nationellt återvätningsråd (12.3), om utfasning av torvutvinning (12.5), och om ändring av miljökvalitetsmålet Myllrande våtmarker och en av dess preciseringar (12.6) tillstyrks.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.6",
+      "sentiment": 1.0,
+      "quote": "Förslagen om ett nationellt återvätningsråd (12.3), om utfasning av torvutvinning (12.5), och om ändring av miljökvalitetsmålet Myllrande våtmarker och en av dess preciseringar (12.6) tillstyrks.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.13",
+      "sentiment": 0.5,
+      "quote": "Förslaget i avsnitt 13.1.13 kan därför endast tillstyrkas om tillräckliga resurser tilldelas för såväl det föreslagna nya uppdraget som för andra delar i länsstyrelsernas arbete med biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslaget om att Sverige i sitt arbete med att skydda natur ska prioritera områden med naturtyp enligt EU:s restaureringsförordning och områden med livsmiljöer som kräver bevarande för hotade arter enligt art- och habitatdirektivet och fågeldirektivet (13.1.1).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a13.1.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen instämmer i Miljömålsberedningens bedömning att det är viktigt att riksdagen årligen anvisar anslag med tillräckliga belopp för betalning av sådan intrångsersättning som fastighetsägare har författningsreglerad rätt till, så att den som har rätt till ersättning inte behöver invänta framtida statsbudgetar för utbetalning av ersättningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.3",
+      "sentiment": 1.0,
+      "quote": "Den formalisering av bevarandet som OECM innebär, synliggör naturvärdet av olika slags frivilliga avsättningar, och gör det i princip möjligt att följa upp bevarandet och naturvärdena i dessa, om eller när resurser för sådan uppföljning kommer att finnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -0.2,
+      "quote": "Risken är stor att en sådan ambition tränger undan det viktiga arbetet med att kartlägga skogar som omfattas av restaureringsförordningens icke-försämringskrav.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om nytt etappmål (15.1.1), förstärkningar av anslaget 1:3 i utgiftsområde 20 och anslaget 1:2 i utgiftsområde 23 (15.1.2 och 15.1.7), nya anslagsposter för skötsel av skyddad natur (15.1.3), uppdrag om att uppdatera inaktuella skötselplaner och inaktuella bevarandeplaner samt ta fram skötselplaner där sådana saknas (15.1.4), och kompletteringar i Naturvårdsverkets instruktion (15.1.5) och i förordningen om områdesskydd (15.1.6).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.5",
+      "sentiment": 0.5,
+      "quote": "Förslaget i avsnitt 16.1.5 kan därför endast tillstyrkas om tillräckliga resurser tilldelas för såväl det föreslagna nya uppdraget som för andra delar i länsstyrelsernas arbete med biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om nya etappmål om restaurering (16.1.1) och om pollinatörer (16.1.2), uppdrag till Naturvårdsverket att inkludera restaurering av naturtyper i arbetet med åtgärdsprogram för hotade arter och naturtyper (16.1.3), satsning på restaurering och hävd av ängs- och betesmarker, inkluderande förstärkning av anslaget 1:3 i utgiftsområde 20, höjd miljöersättningsnivå för att beta naturbetesmarker i CAP, prioritering av investeringsstöd till djurstallar i CAP, samt återinförda ersättningar för myrslåtter, hamling och ljunghedsbränning i CAP (16.1.6), införande i CAP av ersättning för anläggning och skötsel av landskapselement som gynnar hög biologisk mångfald i odlingslandskapet (16.1.7), och borttagande av återbeskogningsplikten i skogsmark inom 25 meter från jordbruksmark för att underlätta skapande av brynmiljöer (16.1.8).",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen ställer sig tveksam till kostnadseffektiviteten i att inrätta ytterligare nationella samordnare för olika ändamål, exempelvis för näringslivets arbete med biologisk mångfald (17.2.6).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2",
+      "sentiment": 1.0,
+      "quote": "Länsstyrelsen tillstyrker förslagen om ändrat etappmål om grönplaner (17.2.1), nationell fröbank för inhemska vilda växter (17.2.2), nytt system för inrapportering och sökning av områden med höga naturvärden (17.2.3), tillägg i 6 kap. miljöbalken om ekologisk kompensation och fortsatt arbete med tidigare utredningars förslag om ekologisk kompensation (17.2.4), och investeringsstöd till naturturism (17.2.5).",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

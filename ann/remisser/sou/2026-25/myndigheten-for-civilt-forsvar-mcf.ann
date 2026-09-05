@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/myndigheten-for-civilt-forsvar-mcf": "ce134c5b82765f3a26c2999a426e6933ce7b658316051b4693eb88679b17a94a",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:30:37+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19970,
+      "completion_tokens": 2047,
+      "ended": "2026-09-01T15:31:42+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "b63d3f1d5b059a819ac68605b7939331cfeff139b9272225952d250378069836"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Vidare anser vi att detta slutbetänkande, tillsammans med deltänkandet SOU 2025:48, ger förutsättningar som kommer bidra till att förebygga och begränsa konsekvenserna av en pandemi eller annan omfattande eller allvarlig smittspridning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.1.6",
+      "sentiment": 1.0,
+      "quote": "Detta menar vi kommer stärka förutsättningarna för ett snabbare beslutsfattande, vilket stärker vår beredskap.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 1.0,
+      "quote": "Vidare anser vi det klokt att samla frågor som rör vårdhygien under en ansvarig myndighet.",
+      "quote_type": "grund"
+    }
+  ]
+}

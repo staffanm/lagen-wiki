@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/slu": "ff77c4b01d18ad79150f789d7da9bdba6e791aec97377cbe34c9e77641dc76b6",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:37:01+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 28338,
+      "completion_tokens": 5281,
+      "ended": "2026-09-01T23:40:25+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1e20fabfab9ff1d4ec113c78c7f663eba713693d0dac41010f5f0b9969508c0f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "SLU:s samlade bedömning är att förslagen inte är tillräckliga för att nå åtagandena för biologisk mångfald eller LULUCF.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "bedömer det som viktigt att markägare och brukare får tillgång till ökad rådgivning som leder till uppsatta mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 0.2,
+      "quote": "bedömer att kopplingen mellan de nya preciseringarna och miljömålens formulering behöver förtydligas, och preciseringens ambitionsnivå höjas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 0.2,
+      "quote": "bedömer att ytterligare styrmedel utöver rådgivning behövs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "SLU:s bedömning utgår ifrån de miljömässiga och EU-juridiska osäkerheter som beredningen anför och målkonflikten med bevarandet av biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.2,
+      "quote": "bedömer att ytterligare och mer långtgående förslag för ökat naturbete med krav på viss andel certifierat naturbeteskött i offentlig sektor och informationsinsatser i hela värdekedjan behövs.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "bedömer dock att det behövs mer tid än till 2027 för den metodutveckling, samordning och förankring som krävs för att ta fram ett robust och brett tillämpbart verktyg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": 0.8,
+      "quote": "SLU bedömer att ökad nettoinlagring av kol i träprodukter är en viktig del i det hållbara samhällsbyggandet och att tillämpningen bör följa produktionsprincipen, samt att nettoinlagring bör beräknas utifrån träprodukter som kommer från inhemsk råvara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.8,
+      "quote": "SLU bedömer att återvätning av djupt dikade och gödslade marker ger störst effekt och bedömer även återvätning av näringsfattiga och icke-produktiva dränerade torvmarker som fortfarande innehåller mycket kol som fördelaktiga för att uppnå åtagandena inom LULUCF.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 0.2,
+      "quote": "bedömer att en utfasning innan 2030 riskerar brist på livsmedel som odlas i växthus med torv som planteringsjord eller odlingssubstrat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": -1.0,
+      "quote": "En frivillig avsättning inom en skogsbruksplan ska ha bevarandet som sitt främsta syfte, det vill säga det ska klassas som NS (naturvård skötsel) eller NO (naturvård orört).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": 0.2,
+      "quote": "bedömer det som inte tillräckligt för att motsvara kraven i EU:s strategi för biologisk mångfald och i EU:s naturrestaureringsförordning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": 1.0,
+      "quote": "SLU tillstyrker förslagen i kapitel 15.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": 0.2,
+      "quote": "delar bedömningen att dagens regelverk är otillräcklig, men bedömer att det behövs konkreta förslag på ändringar eller förslag på en process för att åstadkomma ändringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": 0.2,
+      "quote": "Otydlighet kring definitionen kan leda till osäkerhet bland användarna och en slumpmässighet i inrapporteringen, vilket kan leda till att rapporteringen ifrågasätts.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": 0.5,
+      "quote": "att det behövs en tydlig definition, där bevarande av befintliga värden inte ska räknas som kompensation, för att undvika att begreppet urvattnas.",
+      "quote_type": "grund"
+    }
+  ]
+}

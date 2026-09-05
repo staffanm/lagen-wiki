@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/region-dalarna": "26ec0be30c5d8edb538f922ec06c04bdc4a27fd410697ad88d20f60a86435dc7",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:50:01+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26524,
+      "completion_tokens": 3923,
+      "ended": "2026-09-02T05:52:19+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ee72a268f53a42c58e1dce75933c6f26511dacfa22f87a3ed63c36ae9e25a327"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "RD uttrycker oro för att staten ska styra och centralisera mer, vilket återkommer i deras synpunkter på flera förslag och bedömningar.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

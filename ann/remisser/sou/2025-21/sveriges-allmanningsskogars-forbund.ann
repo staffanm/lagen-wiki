@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/sveriges-allmanningsskogars-forbund": "1712def37e3dcfd8a08fadffc99c2b062173d9f402a1876faa8177ccec141ca2",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:31:15+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 28040,
+      "completion_tokens": 4150,
+      "ended": "2026-09-02T00:34:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "4a99474f042f7e9c2c6d29e7fe0474f7585edeb092fa64f6a2c1aff59f195ca5"
+    }
+  },
+  "overall": {
+    "sentiment": -0.3,
+    "quote": "Att påverka och ytterligare reglera vårt skogsbruk medför betydande risker, såsom minskad tillgång på förnybara material, ekonomiska förluster och påverkan på glesbygdens arbetstillfällen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec174",
+      "sentiment": 0.5,
+      "quote": "rådgivningen bör anpassas till frivilliga åtaganden från markägarens sida och dessutom bör berörda myndigheter vara idel öron för markägares olika förutsättningar inför aktuell rådgivning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec196",
+      "sentiment": -0.2,
+      "quote": "Dock låter ersättningsnivån låg med sina 400 kr/ton inlagrad CO om man jämför med Naturvårdsverkets statistik på genomsnittspris på auktionerade utsläppsrätter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 0.0,
+      "quote": "vi vill även varna för att all form av råvaruuttagsbegränsning kommer direkt påverka våra industrier och reducera mängden arbetstillfällen och på sikt minskar dessa begränsningar skogens tillväxt och dess förmåga att binda växthusgaser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec186",
+      "sentiment": 0.8,
+      "quote": "Gällande ökad skogsgödsling (där så är lämpligt) för att binda mer atmosfäriskt kol genom ökad tillväxt av skog är tillsammans med optimerade skötselstrategier kanske de viktigaste punkterna att fokusera på om man vill göra allvar av intentionen att binda mer kol.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.2.2",
+      "sentiment": -0.7,
+      "quote": "Genom att inte inkludera de skyddsformer som redan skyddas via lagstiftning, hanteras denna fråga felaktigt, inte minst i internationella jämförelser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -0.6,
+      "quote": "Eftersom våra medlemmar skjuter upp sin avverkning i genomsnitt 30 år längre än rikssnittet är skulle en lågt satt ålder för gammal skog eller bristande övriga indikatorer omöjliggöra denna form av skogsbruk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.4",
+      "sentiment": -0.5,
+      "quote": "Dock är vår erfarenhet att Länsstyrelsernas identifiering av områden för formellt skydd sällan följs av lika ambitiös planering då det gäller ersättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.2",
+      "sentiment": -1.0,
+      "quote": "Detta kardinalfel är inte bara en snedvriden hantering av natur- och miljöskydd i internationella jämförelser, utan även grundorsaken till varför vi inte når många av de mål som sätts upp.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.8,
+      "quote": "Den konsekvensanalys som inkluderas är påfallande tunn i förhållande till de förslag som Miljömålsberedningen ger.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.8.4",
+      "sentiment": 0.8,
+      "quote": "incitament till lövträdodling saknas till stor del i dag.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/region-kalmar-lan": "8655ff3b6487054092fc5281f935f5dc24a22ca9cd19ba4d2732cdb47a37d70a",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:02:37+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21931,
+      "completion_tokens": 3096,
+      "ended": "2026-09-02T06:04:19+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "57e52716dc849b8bfae19d33da344bf17475a44d1b54ec2f846106edbd5b9979"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Region Kalmar län välkomnar förslag som innebär att tydligare och mer strukturerade konsekvensutredningar görs.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.2.3",
+      "sentiment": -0.5,
+      "quote": "Systemet för samhällsekonomiska bedömningar behöver justeras så att landsbygdslän har möjlighet att agera på samma villkor som områden med högre befolkningstäthet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.3.2",
+      "sentiment": 0.5,
+      "quote": "Region Kalmar län ställer sig bakom förslaget men förordar att en översyn göras av befintliga riktade statsbidrag för att bedöma i vilken mån de lever upp till den godkända principen.",
+      "quote_type": "grund"
+    }
+  ]
+}

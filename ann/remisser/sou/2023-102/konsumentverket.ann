@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/konsumentverket": "8a7a88c8d314409285eb74d0fb5b3913aca6163dde49f96b979f7a20f9e67bab",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:45:48+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 11622,
+      "completion_tokens": 1902,
+      "ended": "2026-09-01T16:46:45+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "5a3bdbdfdce58e0dd77e1cbc2dfc1412380b454ea932e8e1e7ef0f7c03db927c"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "I övrigt har Konsumentverket inga synpunkter på förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": -0.5,
+      "quote": "Risk föreligger istället för att konsumenter drabbas negativt genom att de utan samtycke får sitt avstämningskonto uppsagt.",
+      "quote_type": "grund"
+    }
+  ]
+}

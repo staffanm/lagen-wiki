@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/energiforetagen-sverige": "0ba7ca499c21c809930159b12bcf74fa5bdb43cdb5a8b766c2bbf4d5c3c932d0",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:18:57+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 29501,
+      "completion_tokens": 4309,
+      "ended": "2026-09-01T17:21:51+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "fbdf5bdf794964af1eea20f2785f9d627555c061a551e34e64e77b77fe09a3f7"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Energiföretagen konstaterar att konsekvensutredningen saknar en analys av hur ett tillfälligt minskat virkesuttag under perioden 2026–2030 påverkar kraft- och fjärrvärmesektorn.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 0.5,
+      "quote": "Vi anser att det under vissa förhållanden behöver tillåtas torvutvinning även under normala förhållanden för att upprätthålla en beredskapsförmåga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": -1.0,
+      "quote": "detta skulle skapa praktiska problem inom ramen för koncessionsprövning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec319",
+      "sentiment": -0.5,
+      "quote": "Våra medlemsföretag äger sällan marken inom ledningsgatorna, vilket försvårar möjligheten att teckna avtal och skapa långsiktig rådighet över förvaltningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 1.0,
+      "quote": "samordning kan bidra till att tydliggöra och förstärka synergier mellan naturvård och energiinfrastruktur, där olika aktörer tillsammans kan hitta lösningar som både gynnar biologisk mångfald och underlättar samhällsviktig drift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.2",
+      "sentiment": -0.2,
+      "quote": "Avsaknaden av sådana underlag riskerar att försvåra Sveriges möjligheter att ta en ledande roll inom bio-CCS (BECCS).",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec190",
+      "sentiment": 0.5,
+      "quote": "Detta beror bland annat på bristande lönsamhet, ett begränsat antal aktörer på marknaden samt svaga incitament för skogsägare.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/kiruna-kommun": "65b02101a29aca32a91929b399262cf5b1486550f3aa700c0ecfcf082cbc2deb",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T18:00:22+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26149,
+      "completion_tokens": 4793,
+      "ended": "2026-09-01T18:03:00+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "bf18ec0dc5acf26d251078716e80b8d12034ba7ce74fc5169288697e592b2065"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Kiruna kommun ser positivt på att denna strategi tas fram för att genom ett nationellt gemensamt grepp arbeta mot att uppfylla våra åtaganden inom biologisk mångfald.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6",
+      "sentiment": 0.5,
+      "quote": "denna kompetens oftast inte finns i kommunal regi",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.5,
+      "quote": "det ökar våra möjligheter till att kunna bidra i arbetet",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": 1.0,
+      "quote": "Kiruna kommun ser positivt på ändringsförslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8",
+      "sentiment": 1.0,
+      "quote": "Kiruna kommun ser positivt på förslaget.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a9",
+      "sentiment": 0.5,
+      "quote": "I Kiruna kommun är flertalet samebyar verksamma och vi ser som kommun mycket positivt på hur renbete fortsatt ska främjas för en gynnad biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "det i dagsläget saknas kunskaper inom kommuner för dessa frågor inom stadsplanering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "Särskilt eftersom den utgör en stor del av kommunens natur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": 0.5,
+      "quote": "Det behövs generellt sett ett ökat skydd av natur och särskilt stadsnära natur, som kan vara den enda möjlighet till naturupplevelser för människor med fysiska, sociala, eller ekonomiska begränsningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": 0.5,
+      "quote": "Förslaget om skydd av urskogar och naturskogar ses som ett viktigt steg för att bevara biologisk mångfald och ekosystemtjänster.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15",
+      "sentiment": 0.5,
+      "quote": "Förslaget om att Länsstyrelser ges i uppdrag att informera, rådge och stödja kommuner är också oerhört viktigt i denna fråga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": 0.5,
+      "quote": "Det är viktigt för såväl Länsstyrelser som kommuner att få det stöd som behövs för att arbeta med bekämpningen av invasiva arter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": 0.5,
+      "quote": "Vi har en kortare växtsäsong i Kiruna kommun, jämfört med andra kommuner som är belägna längre söderut, och därför blir den urbana naturmiljön extra viktig, särskilt för trivseln och folkhälsan i allmänhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 0.5,
+      "quote": "det kan vara svårt som egen företagare att navigera i dessa frågor.",
+      "quote_type": "grund"
+    }
+  ]
+}

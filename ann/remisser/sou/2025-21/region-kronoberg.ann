@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/region-kronoberg": "9a1af55377454d5a755e74c0fe6e612fef8952fa147379c7568db384a904931f",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T22:52:01+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 55033,
+      "completion_tokens": 7069,
+      "ended": "2026-09-01T22:56:22+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0c8e55dc0a5169fa0bd0c5b20c439defa909be3b9e746903956135598be7648f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Region Kronoberg anser att höga eller snabbt skiftande mål för kolinlagring i LULUCF kommer få stora negativa effekter på skogsbruket och förädlingskedjorna av skoglig råvara.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.6",
+      "sentiment": -0.5,
+      "quote": "Region Kronoberg anser att höga eller snabbt skiftande mål för kolinlagring i LULUCF kommer få stora negativa effekter på skogsbruket och förädlingskedjorna av skoglig råvara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.2,
+      "quote": "Insatser i föryngringsfasen har avgörande betydelse för att korta tidsperioden med nettoutsläpp efter avverkning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.5,
+      "quote": "Region Kronoberg anser att det är rimligt att återvätning av dikade våtmarker, askåterföring och överhållning av skog till övervägande del sker i Götaland där återvätningen bedöms ge störst effekt och att den högre skogstillväxten ger högre inlagring per ytenhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Region Kronoberg anser att statlig arealersättning för återvätning och att överhålla skog kan inverka konkurrerande på etableringen av kommersiella system för kolkrediter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": -0.2,
+      "quote": "Region Kronoberg anser att rådgivningsinsatser för att realisera milömålberedningens förslag bör lämpligen kunna utföras även av andra organisationer än Skogsstyrelsen för att öka genomslag och omfattning på kort tid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.2",
+      "sentiment": -0.5,
+      "quote": "Region Kronoberg anser att det visserligen finns behov av ökande djurbestånd ur beredskapssynpunkt men att en kraftig ökning av vall och naturbetesmark sannolikt fordrar en överproduktion av djur, vilket skulle medföra stora marknadsstörningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -0.2,
+      "quote": "Region Kronoberg anser att skyddade urskogar och gamla skogar bör ha en nedre arealgräns som är tillräckligt stor för att minska risken för skador.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -0.2,
+      "quote": "Skyddet av gammal skog bör därför utformas så att det finns möjlighet att ta ut en mindre mängd träd för att användas till att bevara vårt kulturarv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.10",
+      "sentiment": 0.2,
+      "quote": "Sverige har mycket områden som skulle kunna registreras som OECM men Region Kronoberg anser att det behövs både rådgivning och ekonomiska incitament till markägare och verksamhetsutövare för att stimulera till att registrera områden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.8.4",
+      "sentiment": 0.5,
+      "quote": "Region Kronoberg anser att en nationell samordnare för lövträ lämpligen placeras på Svenskt trä, som arbetar med att stimulera användningen av trä i Sverige och på våra viktigaste exportmarknader.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 1.0,
+      "quote": "Förslaget att LONA ska kunna användas av fler typer av aktörer",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

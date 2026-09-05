@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:22/lakemedelshandlarna": "0741b6106ed093f805a38d8442869333401c8e87adf7c31c8fcfb6b44c75edbd",
+      "artifact:forarbete/sou/2026-22": "1cc8e1d0e1a75c60ac30f1ee9b082f44fc53fe67000176696176012a9fac8956"
+    },
+    "run": {
+      "started": "2026-09-01T14:42:57+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 16101,
+      "completion_tokens": 2408,
+      "ended": "2026-09-01T14:44:27+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "47aadd3b9fadcc7c0dfa2334198465c02dd002870fc01ca2153c6a8843be7b9e"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I stort tillstyrker Läkemedelshandlarna utredningens förslag, men befarar att förslagen kan möta utmaningar vid implementeringen.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.5.3",
+      "sentiment": 0.5,
+      "quote": "Läkemedelshandlarna anser dock att utredningen förbisett möjligheten med vilande försäljningstillstånd som skulle göra tillståndsgivningen säkrare och snabbare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.1",
+      "sentiment": -0.2,
+      "quote": "Läkemedelshandlarna bedömer därför att utredningens förslag om tvingade returer kan få svåra utmaningar i att förverkligas i en krissituation eftersom dagens returhantering från apoteken har svåra brister.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.5,
+      "quote": "Det är djupt olyckligt om det förslag om nationell inköpscentral och hur den hanteras återupprepar regionernas misslyckande i att tillvarata oberoende distributörers förmåga i att underlätta läkemedelsförsörjningen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.5",
+      "sentiment": 1.0,
+      "quote": "Genom den föreslagna åtgärden kan oberoende distributörer agera snabbare och i samarbete med Socialstyrelsens inköpscentral för att säkra tillgången på läkemedel som är i brist eller riskerar att gå i brist.",
+      "quote_type": "grund"
+    }
+  ]
+}

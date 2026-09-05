@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/konkurrensverket": "38025dfeb924b62c061bd51450f78e8dba1386bab29905ceb01a58815c1dbeb6",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:44:06+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12850,
+      "completion_tokens": 3288,
+      "ended": "2026-09-01T16:45:48+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "76b23929025a064f5012ee23b0a509e253c11d826feee5117747c2cbf54b243a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "I övrigt har Konkurrensverket inga invändningar mot förslagen i betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4.8.4",
+      "sentiment": -0.5,
+      "quote": "Då en möjlighet för aktiebolag att emittera enbart en del av aktierna i DLTbaserad form troligen skulle medge ökad flexibilitet, och möjligen öka sannolikheten för att aktörer testar detta under pilotordningen, anser Konkurrensverket att utredningens ställningstagande bör analyseras utifrån ett konkurrensperspektiv",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec172",
+      "sentiment": -0.5,
+      "quote": "Då en möjlighet för aktiebolag att emittera enbart en del av aktierna i DLTbaserad form troligen skulle medge ökad flexibilitet, och möjligen öka sannolikheten för att aktörer testar detta under pilotordningen, anser Konkurrensverket att utredningens ställningstagande bör analyseras utifrån ett konkurrensperspektiv",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9",
+      "sentiment": -0.2,
+      "quote": "Det är enligt Konkurrensverkets uppfattning inte tydligt vad utredningens påpekanden om s.k. börshandlade fonder (eller ETF:er efter engelskans exchange traded funds) innebär.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.2,
+      "quote": "Det borde som utgångspunkt vara positivt för konkurrensen om tröskeln är så låg som möjligt för aktörer att emittera finansiella instrument baserat på DLT-teknik, eftersom det borde öka möjligheterna för operatörer av DLT-marknadsinfrastrukturer att etablera verksamhet i Sverige.",
+      "quote_type": "grund"
+    }
+  ]
+}

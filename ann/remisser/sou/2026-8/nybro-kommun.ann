@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/nybro-kommun": "44a12991b34e26403151969eed33fbddd2826d30f03408e1dc05ab6b1f0f170e",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:56:16+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21826,
+      "completion_tokens": 3201,
+      "ended": "2026-09-01T13:58:05+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "6deb2b8d1b4759dbebbc019b58d48cec138f862b654c4dd5c8df213b8f7b9d5d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Kommunen delar utredningens ambition att stärka rättssäkerheten och barnrättsperspektivet inom samhällsvården.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec9",
+      "sentiment": 0.5,
+      "quote": "Kommunen delar utredningens bedömning att ökad tillgång till medicinsk, psykologisk och annan specialistkompetens kan bidra till mer välgrundade bedömningar och stärkt rättssäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec14",
+      "sentiment": -1.0,
+      "quote": "Kommunen bedömer att akuta beslut om omedelbart omhändertagande kräver god kännedom om barnets situation, familjens förhållanden, tidigare dokumentation och möjliga skyddsplaneringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec26",
+      "sentiment": 0.5,
+      "quote": "Kommunen bedömer att det är viktigt att barns behov av umgänge med föräldrar och vårdnadshavare tillgodoses så långt det är möjligt och förenligt med barnets bästa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec32",
+      "sentiment": 0.5,
+      "quote": "Drogtester kan vara ett relevant underlag i vissa situationer, men resultatet behöver alltid bedömas tillsammans med övriga omständigheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec20",
+      "sentiment": 0.5,
+      "quote": "Kommunen bedömer att vårdnadshavare tidigt behöver få konkret, begriplig och löpande information om vilka förändringar som behöver ske, hur dessa förändringar ska uppnås och på vilket sätt utvecklingen kommer att följas upp inför bedömningen av vårdens upphörande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec37",
+      "sentiment": -0.2,
+      "quote": "Ett obligatoriskt krav riskerar att bli mindre träffsäkert och kan innebära att resurser binds upp även i ärenden där behovet av lång uppföljning inte är lika stort.",
+      "quote_type": "grund"
+    }
+  ]
+}

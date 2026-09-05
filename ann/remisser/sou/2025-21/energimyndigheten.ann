@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/energimyndigheten": "6e8864b7b85bbfbd2e105fbeb21e45e65cd05d1728bfcb9ccf2bdf2e04bd9db4",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T20:58:50+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 29177,
+      "completion_tokens": 2749,
+      "ended": "2026-09-01T21:00:51+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "8eec427346f2b7a2f919266797cd1e43ea456a22bcab0d846e967211705b2903"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Myndigheten är därför positiv till ansatsen, men kan i nuläget inte tillstyrka förslagen utan en mer heltäckande analys av deras systemeffekter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Förslaget riskerar att påverka energisektorn negativt, och Energimyndigheten efterfrågar därför en konsekvensanalys av hur ett minskat virkesuttag kan slå mot energisektorn och andra relevanta sektorer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": 0.0,
+      "quote": "Energimyndigheten ser inget behov av att ändra i Förordning (2022:225) om statligt stöd till produktion av viss biogas då vall redan i dagsläget är berättigat till biogasstödet genom uppgraderingspremien och de olika stödpremierna har olika syften.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": 0.5,
+      "quote": "Myndigheten är därför positiv till förslagen som minskar risken för att våtmarker ställs om till jord- eller skogsbruk samt skyddar torvmarker från att dräneras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec270",
+      "sentiment": 0.5,
+      "quote": "Torven har flera styrkor som beredskapsbränsle, exempelvis dess relativt långa lagringstid.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": 0.5,
+      "quote": "Myndigheten är också positiv till förslaget att skydda urskogar och gammal skog enligt den föreslagna svenska definitionen av vad som avses i förnybartdirektivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": 0.0,
+      "quote": "Energimyndigheten delar bedömningen om att det finns stora osäkerheter relaterat till tillgängliga krediter.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

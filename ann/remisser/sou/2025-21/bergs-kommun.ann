@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/bergs-kommun": "486d5d3656d92a64b4694829ab230e09bf18024679b631c5d83d648daebe0241",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:07:07+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25932,
+      "completion_tokens": 3652,
+      "ended": "2026-09-01T17:09:33+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "dcc9396e172c1355581dfc988b15f7740c59bb88082535f28e5b02fe4f204cd6"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Vi ser strategin som ett steg i rätt riktning, men bedömer att den behöver justeras för att bli mer rättvis, socialt förankrad och praktiskt genomförbar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8",
+      "sentiment": -0.5,
+      "quote": "Vi ser med oro på att strategin innehåller flera förslag som riskerar att öka regleringen och minska avverkningsmöjligheten utan tillräcklig konsekvensanalys för skogsbruk, industri och sysselsättning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.15.1",
+      "sentiment": -0.2,
+      "quote": "Kommunal självbestämmanderätt måste värnas, särskilt i fysisk planering och näringslivsutveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.1.1",
+      "sentiment": -0.2,
+      "quote": "Kompenseras ekonomiskt till berörda markägare och verksamheter.",
+      "quote_type": "grund"
+    }
+  ]
+}

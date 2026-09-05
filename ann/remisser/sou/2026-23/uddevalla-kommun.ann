@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/uddevalla-kommun": "d7d0af662debe1c8213215d69564f7d55d8c3113416b5db2c7640070bf41bdec",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:57:27+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18517,
+      "completion_tokens": 2272,
+      "ended": "2026-09-01T12:58:44+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "336625163ed2d2ecb3fc2b0a064b97f71ed5794e60ce0133fac5a748a48221af"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förslaget om förbud mot barntolkning följer i stora delar redan etablerad praxis inom berörda kommunala förvaltningar och kommunen stödjer därför utredningens förslag.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec7",
+      "sentiment": 0.2,
+      "quote": "Då merparten av den kommunala verksamheten enligt föreslaget ska undantas från tolkavgift bedöms det endast ha försumbara konsekvenser för kommunen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec26",
+      "sentiment": 1.0,
+      "quote": "Förslaget om förbud mot barntolkning följer i stora delar redan etablerad praxis inom berörda kommunala förvaltningar och kommunen stödjer därför utredningens förslag.",
+      "quote_type": "grund"
+    }
+  ]
+}

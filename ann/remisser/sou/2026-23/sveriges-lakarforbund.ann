@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/sveriges-lakarforbund": "f6ed382c6022b7c054825753454ece32756e0dc8b6b4a3d4cce2164a23766d7d",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:36:29+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18320,
+      "completion_tokens": 3754,
+      "ended": "2026-09-01T12:38:29+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ca30db50a7a8dd5481a0924c8a4fba8a0703d9b21722179be3fe1e291296ad56"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Läkarförbundet tillstyrker förslaget att undanta hälso- och sjukvården och socialtjänsten från den föreslagna tolkavgiften. Förbundet tillstyrker även förslaget om förbud mot att använda barn som tolk.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.4",
+      "sentiment": 1.0,
+      "quote": "Införande av tolkavgift inom hälso- och sjukvården skulle, enligt Läkarförbundets uppfattning, strida mot grundläggande hälso- och sjukvårdsjuridiska och etiska principer och riskera att försämra åtkomsten till vård för personer med annat språk än svenska.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 1.0,
+      "quote": "En tolkavgift skulle strida mot kravet på att socialtjänsten ska vara lätt tillgänglig och riskera att motverka socialtjänstens förebyggande arbete.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec7",
+      "sentiment": -0.2,
+      "quote": "Läkarförbundet vill även ifrågasätta om den, såvitt förbundet kan bedöma, relativt begränsade ekonomiska besparingen av att införa tolkavgift enligt utredningens förslag verkligen väger upp för den ökade administration som avgiften medför.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.2",
+      "sentiment": 1.0,
+      "quote": "Barn ska inte behöva bära ansvar för att förmedla viktig information eller tolka i samtal som kan vara känslomässigt svåra eller få stor betydelse för den enskilde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.7.6",
+      "sentiment": 1.0,
+      "quote": "De undantag från förbudet som föreslås – nödsituationer och uppgifter av administrativ karaktär – framstår som rimliga.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a20.2.3",
+      "sentiment": 0.0,
+      "quote": "Anhöriga kan, medvetet eller omedvetet, utelämna eller förändra information, inte minst när det finns konflikter eller beroendeförhållanden inom familjen/närståendekretsen.",
+      "quote_type": "grund"
+    }
+  ]
+}

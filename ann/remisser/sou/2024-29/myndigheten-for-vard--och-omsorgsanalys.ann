@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/myndigheten-for-vard--och-omsorgsanalys": "ad30de43aff02bc9433de594cbbf1764e6fd0789944c3cf6fa66757893cfcfa1",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:21:14+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 24563,
+      "completion_tokens": 2664,
+      "ended": "2026-09-02T05:22:47+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7d0ff10389f10abeaf8faa35c1be529b92680e167c6ba4da847062296b4a2e23"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Men förslagen pekar ofta i rätt riktning, och många är värda att arbeta vidare med.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

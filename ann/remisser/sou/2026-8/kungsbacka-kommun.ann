@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/kungsbacka-kommun": "e4dc48365fca02ec73f16a71103a2b72bdb1e78393c5e884b6c17ec983a1dc21",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T14:28:41+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19026,
+      "completion_tokens": 2316,
+      "ended": "2026-09-01T14:29:57+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2ba623540154ce0f162536e5896b3ef0cacbc80bde4655e8eb856f128ec5f7bf"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Kungsbacka kommun tillstyrker förslagen i stort.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.4",
+      "sentiment": 0.8,
+      "quote": "sakkunniga, utsedda av Socialstyrelsen, väsentligt kan bidra till att rätten kan få ett bättre underlag inför domstolens beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9.2",
+      "sentiment": -0.8,
+      "quote": "det riskerar att försvaga rättssäkerheten och förändra synen på LVU som en skyddslagstiftning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.3",
+      "sentiment": 0.2,
+      "quote": "Kommunen anser att denna ordning kan komma att skapa förvirring och oförutsägbarhet för vårdnadshavare på motsvarande sätt som om det i vårdplanen inte tydligt framgår vilken förändring som krävs av vårdnadshavarna för upphörande av vård enligt 2 § LVU",
+      "quote_type": "grund"
+    }
+  ]
+}

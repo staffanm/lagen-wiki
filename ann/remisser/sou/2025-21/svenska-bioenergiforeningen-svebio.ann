@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/svenska-bioenergiforeningen-svebio": "e481a0043fb9218d527fd42caca648f430873d0809f4690b8d9f40a6df984927",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:02:42+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 30420,
+      "completion_tokens": 4126,
+      "ended": "2026-09-02T00:05:32+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "3357a86e63db68c1cffa46ec514b71c629d1aaece6b11a0d002a61fd3c59c57d"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Svebio konstaterar att konsekvensutredningen helt saknar beskrivning av konsekvenser för kraft- och fjärrvärmeverksamheter och i vilken mån de påverkas av ett tillfälligt minskat virkesuttag perioden 2026–2030.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": 0.5,
+      "quote": "Åtgärder för att öka kollagret i skogen bör därför i första hand utgöras av tillväxthöjande insatser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.5,
+      "quote": "Detta är ett problematiskt förslag som innebär en tydlig inskränkning i äganderätten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.2,
+      "quote": "Svebio anser att det är viktigt att säkerställa att tillräckligt med odlingstorv som används som substrat i exempelvis plantskolor och kommersiella trädgårdsodlingar kommer finnas tillgängligt så länge det inte finns andra likvärdiga alternativ som kan produceras i tillräcklig mängd i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": -0.2,
+      "quote": "Detta innebär att Sverige framställs i ett sämre ljus.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": -0.2,
+      "quote": "Svebio anser att det är olämpligt att Miljömålsberedningen skiljer på ”naturskog” enligt EU:s biodiversitetsstrategi och ”gammal skog” som den definieras i förnybartdirektivet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1",
+      "sentiment": -0.2,
+      "quote": "Detta förslag speglar en mycket restriktiv syn på vad som är skyddad natur och en syn som står i konflikt med uppdelningen i EU:s biodiversitetsstrategi mellan ”strikt” och ”icke strikt skydd”.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": -1.0,
+      "quote": "Förslaget riskerar att skapa stor rättsosäkerhet då vad som är höga naturvärden handlar om subjektiva bedömningar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 1.0,
+      "quote": "Det finns ett värde i samordning som kan bidra till att tydliggöra och förstärka synergier mellan naturvård och energiinfrastruktur, där olika aktörer tillsammans kan hitta lösningar som både gynnar biologisk mångfald och underlättar samhällsviktig drift.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a20",
+      "sentiment": 0.5,
+      "quote": "Detta riskerar att ge negativa effekter på rättssäkerheten eftersom det skulle vara svårt att avgöra vilken skog som uppfyller kriterierna.",
+      "quote_type": "grund"
+    }
+  ]
+}

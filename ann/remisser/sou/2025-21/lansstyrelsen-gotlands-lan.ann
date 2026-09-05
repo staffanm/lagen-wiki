@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/lansstyrelsen-gotlands-lan": "d87a5db8887655712f3fa9f4e824918bfb092f97600f56cca4d88a38ea15f66b",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T18:20:43+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 34369,
+      "completion_tokens": 4379,
+      "ended": "2026-09-01T18:23:27+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "bb2064c7076bdb039b86acc999b34b02c089c5b86037afce0526c4ebe7e9760f"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Länsstyrelsen i Gotlands län ser i huvudsak positivt på förslagen i remissen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.1",
+      "sentiment": 0.5,
+      "quote": "Det förutsätter att det finns en långsiktig och väl anpassad finansiering samt att de regionala förutsättningarna för samordning och samarbete tas till vara för att modellen ska fungera i hela landet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.2,
+      "quote": "Utifrån ett markägarperspektiv är det risk att det blir otydligt och krångligt om uppdragen inte samordnas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": -0.5,
+      "quote": "Om syftena stryks riskerar det att sakta ner takten i våtmarksarbetet och försvåra för kommunerna att genomföra åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": 0.8,
+      "quote": "Det är positivt att markägare får stöd ifrån Skogsstyrelsen gällande hur biologisk mångfald kan värnas genom exempelvis anpassat brukande i bestånd med höga naturvärden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -1.0,
+      "quote": "Länsstyrelsen är negativ till skogsgödsling då myndigheten är tveksam till om nyttan överväger riskerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.2,
+      "quote": "Bestämmelsen reglerar inte vilka kompensationsåtgärder som är godtagbara.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": -0.2,
+      "quote": "Genom att införa ytterligare ett stöd riskerar man att öka den administrativa bördan för Länsstyrelsen och göra det än mer otydligt för markägarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.4.2",
+      "sentiment": -0.8,
+      "quote": "Detta för att underhållsskyldigheten för en befintlig markavvattningsanläggning då inte upphör och att eventuella nya anläggningar som endast prövas inom ramen för en anmälan inte får rättskraft till skillnad från tillståndsprövade verksamheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.2",
+      "sentiment": 0.5,
+      "quote": "en ökning av skötselmedlen med 1,6 miljarder kronor från nivån 400 mkr kan innebära att dels de personella resurserna på länsstyrelserna måste öka snabbt dels att entreprenörer som utför skötselåtgärder riskerar att inte räcka till.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.4",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen anser att kostnadsuppskattningen för framtagandet av en ny skötselplan eller revideringen av en gammal skötselplan är underskattad.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": 0.8,
+      "quote": "I länet finns en stor andel skötselkrävande natur, både ifråga om restaurering, hantering av invasiva arter samt kulturpräglad natur.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1.1",
+      "sentiment": -0.2,
+      "quote": "Länsstyrelsen bedömer att det med lagda förslag inte finns förutsättningar att leva upp till restaureringsförordningens ickeförsämringskrav vad gäller den administrativa hanteringen av avverkningsanmälningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

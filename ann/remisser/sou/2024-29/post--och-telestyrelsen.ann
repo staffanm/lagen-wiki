@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/post--och-telestyrelsen": "2335f98e030dab5a262f621563cfe362f9dea620d729748f4e702f7c8194d9f0",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:45:32+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 24644,
+      "completion_tokens": 3849,
+      "ended": "2026-09-02T05:47:43+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "5824c4350b8fc3ca1419a7aa6822f2be04fa4e50a427b041eebc3301773791b5"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Bland annat tillstyrker PTS förslaget att regeringen ger i uppdrag till ett antal myndigheter att utreda förutsättningarna för s.k. regulatoriska sandlådor inom sina verksamhetsamhetsområden och delar kommissionens bedömning att data är en grundläggande förutsättning för digitalisering och AI.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.1",
+      "sentiment": 1.0,
+      "quote": "PTS delar bedömningen att regelgivningsprocessen behöver förbättras och vill särskilt trycka på behovet av bättre konsekvensutredningar ex ante och uppföljning ex post.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.2",
+      "sentiment": -0.2,
+      "quote": "ESV kan få ansvar för att ta fram metodstöd och ge stöd till myndigheter, men granskning och godkännande av konsekvensutredningar bör ligga hos en myndighet närmare de faktiska utmaningarna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": -0.5,
+      "quote": "Hänvisningen till en proportionalitetsprincip är positiv, men inte tillräcklig och kan dessutom skapa otydlighet och osäkerhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.5",
+      "sentiment": -0.5,
+      "quote": "I den vidare handläggningen måste nyttan och konsekvenserna av att konsekvensutredningen inte godkänns av ESV utredas och förtydligas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.9",
+      "sentiment": 1.0,
+      "quote": "Det är viktigt att regelverken fortsätter att utformas efter att förordning eller direktiv är beslutat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.2.2",
+      "sentiment": 1.0,
+      "quote": "Då PTS är av AI-utredningen föreslagen som myndighet med ansvar för den obligatoriska regulatoriska sandlådan i enlighet med AI-förordningen anser vi att PTS bör vara en av de myndigheter som ingår i ett sådant uppdrag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.4.2",
+      "sentiment": -0.5,
+      "quote": "En separat kommitté riskerar att skapa otydlighet i ansvar, överlapp och dubbelarbete.",
+      "quote_type": "grund"
+    }
+  ]
+}

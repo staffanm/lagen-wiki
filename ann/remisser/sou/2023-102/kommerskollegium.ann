@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/kommerskollegium": "d4c914006d518f65106ee866a5277171befa82c97da10edc01907f194cadf602",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:43:23+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12406,
+      "completion_tokens": 1399,
+      "ended": "2026-09-01T16:44:06+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "764529d38656550322f35baed661338d61f5d6a035ff770adcd17e3c1dd2f412"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "I betänkandet görs en väl genomarbetad översyn av reglerna om kontoföring av finansiella instrument och anslutande regelverk mot bakgrund av den tekniska utvecklingen och den ökade integreringen av Europas värdepappersmarknader.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a8.5",
+      "sentiment": 0.5,
+      "quote": "Även om analysen är mycket kortfattad, så ser vi ändå positivt på att betänkandet innehåller en mening om hur förslagen bedöms förhålla sig till EU-rätten",
+      "quote_type": "grund"
+    }
+  ]
+}

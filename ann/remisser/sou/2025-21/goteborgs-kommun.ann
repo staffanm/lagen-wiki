@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/goteborgs-kommun": "3369d0958ad21bd8d442def4072d090b4d4f6eda4980aadf18de65ddec615383",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T17:36:12+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 40401,
+      "completion_tokens": 12296,
+      "ended": "2026-09-01T17:44:09+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1ef0055b6a594be07a93feccda041c54c0ffc1ca5c107cf7c0fdddc7f31b3372"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Göteborgs Stad är generellt positiv till att en strategi tas fram med etappmål, styrmedel och åtgärder som bidrar till Sveriges åtaganden inom EU och internationellt för naturvård och biologisk mångfald samt upptag och utsläpp av växthusgaser inom markanvändningssektorn (LULUCF).",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": 0.2,
+      "quote": "Tidsaspekten innebär dock att det är tveksamt om många kommuner och kommunalförbund kommer att anställa lokala åtgärdssamordnare eftersom det bara är drygt fyra år till 2030.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.3",
+      "sentiment": 0.5,
+      "quote": "LONA-bidrag är av avgörande betydelse för att finansiera och uppmuntra lokala naturvårdsåtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": 0.2,
+      "quote": "En brist i förslaget är att det inte indikerar hur mycket nettoupptaget ska öka, vilket minskar sannolikheten att målen bidrar till motivation till förbättring samt gör det svårare att förhålla sig till vid till exempel planering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 1.0,
+      "quote": "Staden kan dra nytta av en sådan indikator och dess anknutna data i sin planläggning och hantering av markanvändning i kommunen, särskilt inom översiktsplanering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.2,
+      "quote": "Detta riskerar att ske om nya främmande trädslag introduceras, särskilt sådana som inte härstammar från Europa.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.5.2",
+      "sentiment": -0.5,
+      "quote": "Kvävegödsling bidrar dock även till att öka kvävehalten i marken, vilket kan bidra till att öka övergödning i vattendrag, sjöar och hav och påverkar den biologiska mångfalden och skogens rotsystem.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": 1.0,
+      "quote": "längre omloppstider är en effektiv metod för kolinlagring, då äldre skog lagrar kol effektivt och bör premieras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.5.3",
+      "sentiment": -0.5,
+      "quote": "Avtalen behöver gälla längre för att ha någon reell betydelse.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.1",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad ser förslaget som intressant och bedömer att det kan inspirera till nya kreativa idéer ute i storköken och öka delaktigheten i miljöarbetet till fler målgrupper.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 1.0,
+      "quote": "Staden instämmer i beredningens bedömning att det över tid finns potential att minska utsläppen i samband med exploatering och att det behövs bättre utvecklade verktyg för att mäta utsläppseffekterna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1",
+      "sentiment": 0.5,
+      "quote": "Staden anser dock att det endast ska vara kolsänkor i långlivade konstruktionsdelar som får ingå i klimatdeklarationen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19.8.1",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad är därför positiv till förslaget om att utöka klimatdeklarationen med en separat redovisning av mängden kol i långlivade produkter som byggts in i byggnaden med tillägget att också lyfta möjligheten till att räkna in biogent kol kopplat till jordbruksprodukter som är möjliga att förädla till långlivade byggprodukter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1.2",
+      "sentiment": 1.0,
+      "quote": "Vidare är staden positiv till förslaget om att främja ökad återanvändning av träprodukter och vill särskilt trycka på förslaget om att Boverket ska genomföra åtgärder som underlättar för spårbarhet av material för återbruk.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11.1.3",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad är positiv till förslaget om att Skogsstyrelsen ger råd om skogsskötsel som leder till långlivade produkter.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.1.5",
+      "sentiment": -0.2,
+      "quote": "Göteborgs Stad anser att fokus bör ligga på ökad förädling och kvalitet snarare än ökad avverkning och förespråkar därför en hårdare styrning mot långlivade produkter framför en ökad avverkningsvolym.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12",
+      "sentiment": -0.2,
+      "quote": "tillståndsprocesserna tar lång tid och att fönstret då det är tillåtet att utföra åtgärder i vatten är litet, vilket gör att det är svårt att snabba på takten i restaureringsarbetet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.6",
+      "sentiment": 1.0,
+      "quote": "Förslaget om ändringar i miljökvalitetsmålet ”Myllrande våtmarker” (kap. 12.6) kan bidra som stöd genom synliggörande av miljökvalitetsmålets vikt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13",
+      "sentiment": -0.5,
+      "quote": "Göteborgs Stad ställer sig frågande till miljömålsberedningens bedömning om att formellt skydd för urban grönska inte är ändamålsenlig för bevarande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.1",
+      "sentiment": 1.0,
+      "quote": "Förslaget om att prioritera områden med en särskild naturtyp (kap. 13.1.1) kan eventuellt bidra till förenklad prioritering vid val av områden att skydda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.12",
+      "sentiment": 0.2,
+      "quote": "Staden ställer sig kritisk till den oprecisa definitionen av \"långsiktigt bevarande\" för OECM.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14",
+      "sentiment": -0.5,
+      "quote": "Staden bedömer att definitionen enligt förnybarhetsdirektivet inte är lika träffsäker när det gäller att bedöma den biologiska mångfaldens värde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.1",
+      "sentiment": 0.5,
+      "quote": "De nya etappmålen för skötsel och restaurering i skyddade områden är positiva ur ett ekologiskt perspektiv men staden ser ett behov av att även införa ett etappmål gällande uppföljning av gamla skötselplaner för såväl statliga som kommunala skyddade områden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.4",
+      "sentiment": 1.0,
+      "quote": "Stöd från länsstyrelsen kan komma att förenkla processen vilket är positivt och av stor vikt både ur ett ekonomiskt och ekologiskt perspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.6",
+      "sentiment": 1.0,
+      "quote": "Staden anser att förslaget till ändring i förordningen om områdesskydd enligt miljöbalken med mera, som innebär en precisering i skötselplanernas innehåll är positivt och bidrar till att skötselplaner är bättre platsspecifikt anpassade.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad instämmer i bedömningen och efterfrågar särskilt de hanteringsplaner för redan spridda invasiva arter som meddelats ska tas fram.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.1.5",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad anser att miljömålsberedningen förslag att länsstyrelserna får i uppdrag att genomföra och samordna rådgivning om naturrestaurering är viktigt.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a17",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad bedömer att den föreslagna förändringen i förordningen stärker stadens möjligheter att bevara, skydda, utveckla och sköta områden med höga naturvärden, i syfte att bevara och stärka den biologiska mångfalden.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1.3",
+      "sentiment": 0.2,
+      "quote": "Staden anser att det behöver kompletteras med exemplet upphörd hävd och igenväxning - då staden ser att det är ett vanligare hot.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.1",
+      "sentiment": 0.5,
+      "quote": "För att etappmålet ska bli tydligare och mer lika för samtliga kommuner anser staden att föreslaget etappmål skulle kunna förenas med en typ av vägledning eller riktlinje och att förtydligande görs gällande grönplaner som verktyg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": 1.0,
+      "quote": "Förslaget om att SLU ska ta fram ett system för inrapportering och sökning av områden med höga naturvärden (kap. 17.2.3) gynnar Göteborgs Stad såväl ekonomiskt som ekologiskt och socialt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": 0.5,
+      "quote": "För att kompensationsåtgärder bara ska göras i de fall andra alternativ är omöjliga anser staden att förslaget bör revideras så att lagtexten även belyser vikten av skadelindringshierarkin.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.5",
+      "sentiment": 0.2,
+      "quote": "staden anser att miljömålsberedningens förslag saknar en tydlig koppling till biologisk mångfald.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 1.0,
+      "quote": "Förslaget till en nationell samordnare för näringslivets arbete med biologisk mångfald är positivt ur ett ekologiskt perspektiv.",
+      "quote_type": "grund"
+    }
+  ]
+}

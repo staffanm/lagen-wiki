@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/aklagarmyndigheten": "ee31959994ff3ae616b3c4f7e891cec4e6724109c261ef9a6038f7bcbb1aa654",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T13:01:56+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17312,
+      "completion_tokens": 4130,
+      "ended": "2026-09-01T13:04:06+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "837a398a7dce9e90c12a678ab76fc894e331d14a291bd4020490a980d94656ff"
+    }
+  },
+  "overall": {
+    "sentiment": 1.0,
+    "quote": "Åklagarmyndigheten har i övrigt inga synpunkter på betänkandet.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a9.5.1",
+      "sentiment": 1.0,
+      "quote": "delar utredningens bedömning att tolkavgift inte ska tas ut när tolk har använts i ärenden om kontaktförbud",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.13",
+      "sentiment": 1.0,
+      "quote": "delar utredningens bedömning att tolkavgift inte ska tas ut när tolk har använts i ärenden om kontaktförbud, vid straffrättsliga förfaranden eller i samband med brottsoffers medverkan vid straffrättsliga förfaranden.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a12.14",
+      "sentiment": 1.0,
+      "quote": "delar utredningens bedömning att tolkavgift inte ska tas ut när tolk har använts i ärenden om kontaktförbud, vid straffrättsliga förfaranden eller i samband med brottsoffers medverkan vid straffrättsliga förfaranden.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 1.0,
+      "quote": "delar utredningens bedömning att barn inte – annat än undantagsvis – ska få användas som tolkar vid bl.a. myndighetskontakter.",
+      "quote_type": "grund"
+    }
+  ]
+}

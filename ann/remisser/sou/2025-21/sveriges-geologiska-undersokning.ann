@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/sveriges-geologiska-undersokning": "0d0e33f9d9a1d6aa472d5765529b6a505726bac0e844c048d5af19aaf2eed568",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-02T00:34:01+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27860,
+      "completion_tokens": 4323,
+      "ended": "2026-09-02T00:36:52+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "eaf58fa0806f332df8076a78413e15ae131a35cfe1c5da3f1ae806b50273bf7d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "SGU tillstyrker utredningens förslag om att begränsa utbyggnaden på torvmark, anser att det vore positivt om bedömningar av klimatpåverkan i samband med exploatering av torvmark kan ingå som en del i miljökonsekvensbedömningar i framtiden, tillstyrker utredningens förslag om att utse en nationell samordnare för näringslivets arbete med biologisk mångfald, anser att en utfasning av torvutvinning för odlingstorv är befogad eftersom det leder till minskade emissioner av växthusgaser",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": 1.0,
+      "quote": "Det skulle då vara möjligt att kvantifiera hur den förändrade markanvändningen kan komma att påverka utsläppen av växthusgaser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.6",
+      "sentiment": 1.0,
+      "quote": "En sådan samordnare skulle kunna bidra till näringslivets insatser avseende till exempel stärkt, eller mindre påverkan på, biologisk mångfald, och uppnå vissa synergieffekter genom samordning av näringslivets pågående och framtida insatser samt minska risken för potentiella målkonflikter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.2,
+      "quote": "En utfasning av torv utan tillgängliga alternativ riskerar medföra negativ påverkan på dessa verksamheter, till exempel genom ökade priser och initialt begränsad tillgång på de alternativa materialen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec31",
+      "sentiment": 0.5,
+      "quote": "SGU befarar att det kan bli svårt för länsstyrelserna (som ska besluta om bidrag) att rutinmässigt göra en bedömning i varje enskilt fall hur kostnadseffektiv varje återvätning kommer att bli på lång sikt.",
+      "quote_type": "grund"
+    }
+  ]
+}

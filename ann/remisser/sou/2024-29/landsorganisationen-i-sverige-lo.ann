@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/landsorganisationen-i-sverige-lo": "74a032d9fe4e7b31063f6078533c53aba6ac3587a7a4037b1a362258b2f867c2",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T04:34:28+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 19906,
+      "completion_tokens": 3671,
+      "ended": "2026-09-02T04:36:24+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "ffd254508980543668cc54d515f4cd14e94f069ea7db5b0f1b4024d8aaa75fec"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "LO kan konstatera att flera väsentliga perspektiv för svensk produktivitet inte belyses i kommissionens rapporter.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a4",
+      "sentiment": -0.8,
+      "quote": "Skrivningarna kring det finanspolitiska ramverket är pamflettartade utan förankring i teori och empiri.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.5,
+      "quote": "LO delar kommissionens bedömning att välfärdskriminalitet utgör ett allvarligt hot mot svensk produktivitetstillväxt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.2.5",
+      "sentiment": 0.5,
+      "quote": "LO håller med kommissionen om att konkurrensutsättningen av välfärdsverksamhet riskerar att leda till marknads- och regleringsmisslyckanden som försämrar förutsättningarna för en kostnadseffektiv och behovsstyrd välfärd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec410",
+      "sentiment": 0.5,
+      "quote": "skolpengen ska avspegla det skilda ansvar som åligger kommunala respektive fristående skolor",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec411",
+      "sentiment": 0.5,
+      "quote": "reglerna kring skoletableringar bör reformeras i enlighet med icke implementerade förslag i Dimensioneringsutredningen",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec433",
+      "sentiment": 0.5,
+      "quote": "LO ser gärna att förslaget om ökad tillgång till utbildning i fritidshem tas vidare för att stärka likvärdigheten i utbildningen.",
+      "quote_type": "grund"
+    }
+  ]
+}

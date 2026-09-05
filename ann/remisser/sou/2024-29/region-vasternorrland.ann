@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/region-vasternorrland": "e1f531b7872a00b7ddf73212e4c7aea5d47c8d0ca96be35932aa9d1360f83773",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T06:26:46+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 27112,
+      "completion_tokens": 4650,
+      "ended": "2026-09-02T06:29:30+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "0d9db213133e508c1840a53655f9f864bd9e12ffe679efd493d9264a3b708a41"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Även om utredningen innehåller många bra förslag, vilka var för sig kan bidra till en ökad produktivitet, finns det problem med otillräckligt beaktande av andra utredningar, bristande anpassning till glesa regioner och otillräcklig hänsyn till helheten.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": -0.5,
+      "quote": "Att försämra villkoren för bostadsbyggande i dessa områden skulle därför skada möjligheten till kompetensförsörjning för de nya industrierna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.1",
+      "sentiment": -0.5,
+      "quote": "När prioritering av investeringar baseras på högst beräknade nettonuvärderskvot tas dock inte tillräcklig hänsyn till dessa etableringars behov av transporter, trots att dessa industriers val av lokalisering sker ur ett globalt perspektiv.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.7.4",
+      "sentiment": -0.2,
+      "quote": "Enligt statistik från Platform of Rail Infrastructure Managers in Europe (PRIME) har Finland låga kostnader för förvaltning och samtidigt goda resultat för punktlighet för person- och godståg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec511",
+      "sentiment": 0.5,
+      "quote": "Dessa förändringar kommer att ge rimligare planeringsförutsättningar och mer likvärdiga förutsättningar för kommuner och regioner.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec512",
+      "sentiment": 0.8,
+      "quote": "Region Västernorrlands bedömning är att de utökade funktionerna kommer att bidra till en effektivare administration, en bättre överblick och ett mer kvalitetssäkrat genomslag för de riktade statsbidragen.",
+      "quote_type": "grund"
+    }
+  ]
+}

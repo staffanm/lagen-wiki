@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/svea-hovratt-mark-och-miljooverdomstolen": "5e7809155b6a3e55e33cfb27dc0b557518800b7db275ff5c0086868fb3469ce9",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:55:17+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26952,
+      "completion_tokens": 3041,
+      "ended": "2026-09-01T23:57:23+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "bb5cb16496ead4acc1176095887619c9bb41504b95eda143971031d468efee10"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Svea hovrätt, Mark- och miljööverdomstolen, har utifrån de utgångspunkter som domstolen har att beakta, följande synpunkter på förslaget.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10.2",
+      "sentiment": -0.2,
+      "quote": "Praxis avseende 3 kap. 4 & miljöbalken ger dock ingen ledning i bedömningen om vad som ska anses utgöra torvmark och därmed vilken mark som ska omfattas av den nya paragrafen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": 0.5,
+      "quote": "För att tydliggöra att det i princip råder ett förbud mot nya tillstånd till torvtäkt kan bestämmelsen utformas enligt följande:",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.4",
+      "sentiment": -0.2,
+      "quote": "Den föreslagna ändringen kan dock tolkas som att verksamhetsutövaren kan välja mellan att lämna uppgifter om kompensationsåtgärder eller uppgifter om åtgärder som planeras för att förebygga, hindra, motverka eller avhjälpa negativa miljöeffekter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.1.4",
+      "sentiment": -0.8,
+      "quote": "Det framstår som främmande att i denna bestämmelse ålägga tillsynsmyndigheten att aktivt verka för inrättande av ett områdesskydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.4",
+      "sentiment": -0.2,
+      "quote": "Då verksamheterna, i vart fall teoretiskt sett, kan tänkas bli mycket stora frångår det förordningens generella systematik som, utifrån verksamhetens omfattning, på olika sätt begränsar vilka vattenverksamheter som enbart behöver anmälas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a1.3",
+      "sentiment": -0.2,
+      "quote": "Innan förordningen införs bör det därför övervägas om överklagandeförbudet är förenligt med EKMR.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/statens-skolverk": "42692a88a9ae9c1beabf78133f818cec71f8955b49ef755db60c6fcfe9a3df61",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T07:08:02+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 31388,
+      "completion_tokens": 7381,
+      "ended": "2026-09-02T07:12:32+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e7cbe58712f5080069b6b4f427351ff19b4b37c9f27081d4395747e5678b6393"
+    }
+  },
+  "overall": {
+    "sentiment": 0.0,
+    "quote": "Skolverket delar flera av Produktivitetskommissionens bedömningar och tillstyrker flera produktivitetshöjande förslag på utbildningsområdet, bland annat normering av betygssättningen på gruppnivå, en skolpeng som avspeglar huvudmannens ansvar, att offentlighetsprincipen bör gälla inom svensk skola, utökad rätt till utbildning i fritidshem och snabb validering och krav på behörighet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a5.6.1",
+      "sentiment": -0.2,
+      "quote": "Ett för ensidigt fokus på förenkling kan innebära en risk för att andra aspekter, som överensstämmelse med begrepp i annan lagstiftning eller vikten av att uttrycka sig korrekt, får stå tillbaka i alltför stor utsträckning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.2",
+      "sentiment": -0.5,
+      "quote": "Skolverket avstyrker dock att ESV, här fortsatt refererat till som Statskontoret, ska ha granskningsuppgifter gällande myndigheters regelgivning.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": -0.5,
+      "quote": "Skolverket betonar vikten av bra konsekvensutredningar men anser att de nu gällande kraven är tillräckliga.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.3",
+      "sentiment": -1.0,
+      "quote": "Den föreslagna ordningen skulle innebära en administrativ börda som inte är rimlig och inte skulle vara genomförbar i praktiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.5",
+      "sentiment": -0.5,
+      "quote": "I de fall det saknas behov av uppdatering ser myndigheten inte anledning till att det skulle göras med automatik var tredje år.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6.8",
+      "sentiment": -0.5,
+      "quote": "Ett för starkt fokus på företagens intressen i konsekvensutredningar kan ha en negativ inverkan på barn och elevers rättigheter och på kvaliteten i skolväsendet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec405",
+      "sentiment": 0.5,
+      "quote": "Skolverket vill poängtera att om beslut om införandet av reformen fattas innan samtliga modeller, och konsekvenser av dessa, är systematiskt utvärderade så innebär det risker för möjligheterna att framgångsrikt följa planen för införande och ikraftträdande.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec406",
+      "sentiment": 0.0,
+      "quote": "Skolverket delar målsättningen men ser behov av ytterligare utredningsarbete innan myndigheten kan ta ställning till förslag om att införa ett skolval som är gemensamt för alla aktuella huvudmän för valet till förskoleklass, grundskola och anpassad grundskola.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec407",
+      "sentiment": 1.0,
+      "quote": "Skolverket delar bedömningen om att det ska bli enklare för elever som i dag är obehöriga att studera på nationella gymnasiala yrkesprogram och hänvisar till att myndigheten i tidigare yttrande har tillstyrkt att den skarpa gränsen för godkänt tas bort, vilket medför en ändring av meritvärderingen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec410",
+      "sentiment": 0.5,
+      "quote": "Skolverket konstaterar i sin lägesbedömning från 2023 att det finns brister i den ekonomiska styrningen av skolan.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec411",
+      "sentiment": -0.2,
+      "quote": "Skolverket bedömer att det skulle vara lämpligt att i stället undersöka förutsättningarna för en reglering av existerande system som inte skulle innebära en så genomgående förändring som de föreslagna nya yrkesprogrammen.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec427",
+      "sentiment": 1.0,
+      "quote": "Skolverket anser att offentlighetsprincipen är ett beprövat regelverk med etablerad rättspraxis och kända rättsliga begrepp som innebär en långsiktig lösning för informationsförsörjningen även om en förändring initialt är förenad med viss omställning för enskilda huvudmän.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec429",
+      "sentiment": 1.0,
+      "quote": "Skolverket anser att en anmälan inför planerad skolnedläggning ger kommunerna förbättrade möjligheter att planera antalet utbildningsplatser och minimera störningar för eleverna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec431",
+      "sentiment": 1.0,
+      "quote": "Skolverket instämmer i vikten av att elever som riskerar att hamna efter i sitt lärande får tidiga insatser.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec432",
+      "sentiment": -1.0,
+      "quote": "Avstyrkandet för grundskolan utgår från att en sådan försöksverksamhet där undervisningstiden i grundskolan utökas genom att terminerna förlängs och sommarlovet förkortas behöver utredas grundligare.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec433",
+      "sentiment": 1.0,
+      "quote": "Skolverket tillstyrker fortsatt de förslagen.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec434",
+      "sentiment": 0.5,
+      "quote": "Det är dock angeläget att eventuella förändringar noga övervägs så att de inte leder till en försämrad kvalitet eller att legitimationens legitimitet urholkas.",
+      "quote_type": "grund"
+    }
+  ]
+}

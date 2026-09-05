@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/maskrosbarn": "750f31160049267217aca56c5a41dfdfdb8f42c60dfe2a2cb77ba5582c56fbe7",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:54:13+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25232,
+      "completion_tokens": 3430,
+      "ended": "2026-09-01T13:56:16+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "3da69ccf588338b1a16cfd7cb26c7a3aa2c1afec34eb3bc8ca0aaee99f81354d"
+    }
+  },
+  "overall": {
+    "sentiment": 0.4,
+    "quote": "Vi tillstyrker i huvudsak de förslag som syftar till att stärka barnrättsperspektivet, öka rättssäkerheten och skapa en mer förutsebar process för barn och unga inom samhällsvården.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 0.8,
+      "quote": "Maskrosbarn delar utredningens bedömning att det finns ett påtagligt behov av ett större inslag av sakkunskap i socialnämndens LVU-processer för att stärka barns möjligheter att få sina rättigheter tillgodosedda.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.4",
+      "sentiment": 0.9,
+      "quote": "Vi bedömer att utredningens förslag är ett viktigt steg för att öka rättssäkerheten och stärka barnrättsperspektivet i LVU-mål.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.9.2",
+      "sentiment": -0.7,
+      "quote": "Trots dessa snäva kriterier avstyrker vi förslaget då vi ser en risk för otydlighet och att unga kan komma att omhändertas på felaktiga grunder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.2",
+      "sentiment": 0.7,
+      "quote": "Att prövningen delas upp i tre tydliga led ökar förutsebarheten och rättssäkerheten för barnet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec417",
+      "sentiment": 0.8,
+      "quote": "Det föreslagna perspektivskiftet är ett efterlängtat och nödvändigt steg för att säkerställa att umgänget anpassas efter barnets reella behov av trygghet och läkning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.9",
+      "sentiment": 0.9,
+      "quote": "Baserat på de erfarenheter och perspektiv som organisationens målgrupp förmedlar, bedömer vi det som mycket angeläget att utredningen väljer att definiera detta som en rätt till ett umgänge som barnet önskar ha, snarare än som en möjlighet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.4",
+      "sentiment": 0.6,
+      "quote": "Att behålla behovs- och proportionalitetsbedömningen, men samtidigt införa en tydlig beslutsbörda för myndigheten, är ett stort framsteg.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": 0.9,
+      "quote": "Det föreslagna tillägget är därför av avgörande betydelse, inte bara för att säkerställa skydd för de kvarvarande syskonen, utan också för att sänka tröskeln för att barn ska våga berätta om sin hemsituation.",
+      "quote_type": "grund"
+    }
+  ]
+}

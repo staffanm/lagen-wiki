@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:23/goteborgs-kommun": "3193fc865e6896bce05cce67301ca42f5e173782969f5d2515b98f9d8d89e414",
+      "artifact:forarbete/sou/2026-23": "a20ebd9b310c8e9fc6735d4c754a7b0f2b819d8d7cec91b2254c19b532578a48"
+    },
+    "run": {
+      "started": "2026-09-01T12:32:36+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18264,
+      "completion_tokens": 3428,
+      "ended": "2026-09-01T12:34:42+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e4eb50c4dcb1c842fd0c68e0eb6424232fa7d0e3dfa4e00741e9d5f9268c1d51"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Göteborgs Stad tillstyrker de undantag som utredningen föreslår och lämnar följande synpunkter på tolkavgift som inte är undantagen.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a12.5",
+      "sentiment": -0.5,
+      "quote": "Det blir krångligt om olika regler för tolkavgift ska gälla och det blir svårt att förstå för den enskilde.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad tillstyrker utredningens förslag om information om gällande tolkavgift.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.2.2",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad delar utredningens bedömning om att informationen bör inkluderas i Skolverkets nationella kursplan för samhällsorientering i det fall förslagen beslutas.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a19.5",
+      "sentiment": 1.0,
+      "quote": "Göteborgs Stad tillstyrker utredningens förslag om förbud mot barntolkning.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

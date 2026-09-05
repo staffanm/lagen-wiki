@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:98/kiruna-kommun": "1dee06517dfe31afdffcef28175cb22dcad48bd25912aa510f49005a80055768",
+      "artifact:forarbete/sou/2025-98": "2226999652bb600219f37c71d392d2579f63ed1dffb5cc4c1a20da55d1639d5e"
+    },
+    "run": {
+      "started": "2026-09-02T01:29:29+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 2,
+      "prompt_tokens": 34604,
+      "completion_tokens": 9148,
+      "ended": "2026-09-02T01:34:27+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "f93cd301b5f1f4d9b42ff86f06b707d0a0951e2284e1ddbcdb025ade58c1f0c5"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Kommunen anser att motverkar en effektiv sammanhållen",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2-5",
+      "sentiment": -0.5,
+      "quote": "LM ska kunna delta och bidra till en effektiv planprocess.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.4.1",
+      "sentiment": 0.5,
+      "quote": "Kommunen ställer sig positiv till att en skälighetsbedömning av för",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a16.4.3",
+      "sentiment": 0.5,
+      "quote": "lantmäteriförrättningar införs och även till möjligheten med fasta priser.",
+      "quote_type": "standpunkt"
+    }
+  ]
+}

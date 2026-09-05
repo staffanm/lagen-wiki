@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/region-stockholm": "19fa755a582acab957a9557c7dd285e31e8aec5d205507e1058288a4cf0b00f8",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:58:05+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 17881,
+      "completion_tokens": 3507,
+      "ended": "2026-09-01T13:59:57+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7814c5c62fa33f7317f3e6e6b5e4903f2867e3487ef3facb006432b035105ef9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Region Stockholm ställer sig tveksamma till utredningens förslag att socialnämnderna i kommunerna ska utbildas i provtagning och tolkning av provsvar.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "sec499",
+      "sentiment": 1.0,
+      "quote": "Det vore inte rimligt att ha ett brett obligatorium gällande så pass ingripande åtgärder.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec512",
+      "sentiment": 1.0,
+      "quote": "Det är även rimligt socialnämnden står för den kostnaden eftersom de beslutar omfattningen av provtagningen samt vilka prover som skall tas.",
+      "quote_type": "grund"
+    }
+  ]
+}

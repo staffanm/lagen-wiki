@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/vardforbundet": "ea7eb9d270ebd9decbc48c99bb4bd229fc3c6c473d5b00130bdcaf843c81fc7f",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T15:52:13+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 22029,
+      "completion_tokens": 4247,
+      "ended": "2026-09-01T15:54:33+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "141eabe0fe6237945c3de2df4c17b8209f8238c9e12295d907e425e74604add0"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Förbundet ser positivt på utredningens förslag och bedömningar som syftar till att skapa ett mer modernt, flexibelt och rättssäkert smittskydd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a2.2",
+      "sentiment": 1.0,
+      "quote": "Detta ligger i linje med förbundets arbete för en personcentrerad och jämlik vård.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.7",
+      "sentiment": 1.0,
+      "quote": "Förbundet delar bedömningen att detta stärker rättssäkerheten.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3",
+      "sentiment": 0.5,
+      "quote": "Förbundet delar bedömningen att detta kan bidra till att fler söker vård i tid och därmed begränsa smittspridning.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 0.5,
+      "quote": "Vårdförbundet tillstyrker förslaget att ge Folkhälsomyndigheten ett nationellt samordningsansvar för vårdhygien och delar bedömningen att arbetet med att förebygga vårdrelaterade infektioner behöver stärkas.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.2.3",
+      "sentiment": 1.0,
+      "quote": "Detta speglar i högre grad hur smittspårning redan bedrivs i praktiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": 1.0,
+      "quote": "Förbundet delar bedömningen att detta kan bidra till ökad tydlighet i ansvar och stärkt samordning.",
+      "quote_type": "grund"
+    }
+  ]
+}

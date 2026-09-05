@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/scb": "24b724cd5a336e41761cc0dc790e4d08c7ccdf8c7c6aa230efbb1300827914b1",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:52:43+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12518,
+      "completion_tokens": 2085,
+      "ended": "2026-09-01T16:53:49+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "7a414faf9a12b84a2290d2033773827ad1be4db4cec2161ac953e0b45430aeb0"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "SCB:s bedömning är att begränsningen avseende periodisk rapportering är viktig för att säkerställa att uppgifter som rör ett särskilt fall vid en granskning av ett enskilt företag inte ska hanteras i GDB.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.16",
+      "sentiment": -0.5,
+      "quote": "SCB:s bedömning är att begränsningen avseende periodisk rapportering är viktig för att säkerställa att uppgifter som rör ett särskilt fall vid en granskning av ett enskilt företag inte ska hanteras i GDB.",
+      "quote_type": "grund"
+    }
+  ]
+}

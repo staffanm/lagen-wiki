@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/fysioterapeuterna": "d229daf85c90afdf225a4e1f0bd331de5afdd11b07f2db616e734f98bf12c957",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T03:17:16+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25572,
+      "completion_tokens": 4729,
+      "ended": "2026-09-02T03:19:58+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "e930e55404fcb2562c403b20530b21dde97f610978f250a869a01fec8806a26f"
+    }
+  },
+  "overall": {
+    "sentiment": -0.5,
+    "quote": "Fysioterapeuterna anser att det måste säkerställas att förslag och förändringar inte leder till försämrad tillgänglighet eller kompetensförsörjning.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a10",
+      "sentiment": 0.2,
+      "quote": "Att fokusera på produktivitetsmått utan att först säkerställa grundläggande förutsättningar – såsom kompetensförsörjning, rimliga arbetsvillkor och stabila ersättningsmodeller – riskerar inte bara att underminera kvaliteten, utan även att försämra tillgängligheten och i förlängningen öka de totala kostnaderna för hälso- och sjukvården.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a10.4.2",
+      "sentiment": 0.5,
+      "quote": "Fysioterapeuterna tycker förslaget att SCB ges i uppdrag att ta fram och utveckla metoder och mått för kvalitetsjusterade produktionsvolymer, samt att kontinuerligt hålla dessa mått uppdaterade i tidsserier är bra, men vill tillägga att när det gäller hälso- och sjukvård bör dessa kvalitetsjusterade mått tas fram i samarbete med Socialstyrelsen och professionerna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.2",
+      "sentiment": -0.2,
+      "quote": "Det har visat sig att små företag har mycket svårt konkurrera med stora vårdkoncerner.",
+      "quote_type": "grund"
+    }
+  ]
+}

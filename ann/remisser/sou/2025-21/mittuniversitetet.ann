@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/mittuniversitetet": "00546bf1e8e80fa55a41619c1fda3b1a7c9e4169ce98b0083c3f103c2c3a6ab8",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T22:19:02+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 25610,
+      "completion_tokens": 1123,
+      "ended": "2026-09-01T22:20:03+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "30d3f8ce728e0722872dada0dacf37f262bd1cea0dc127f4388cb3cc3bad2c21"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Förslaget riskerar Sveriges anseende inom miljöområdet samt i förlängningen att bryta mot centrala EU-direktiv.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

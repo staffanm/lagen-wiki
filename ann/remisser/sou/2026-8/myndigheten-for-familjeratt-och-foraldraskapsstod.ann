@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/myndigheten-for-familjeratt-och-foraldraskapsstod": "87a28771db15c43728f4d74699152b7202566c23587823343df54af711a5a6be",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:35:33+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18109,
+      "completion_tokens": 2066,
+      "ended": "2026-09-01T13:36:55+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "401c1535b64254851b799c516420a7e0dcbcf497672f6dba05f41e057529a0af"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "MFoF ser positivt på utredningens förslag men har ett par synpunkter som vi önskar att utredningen tar i beaktande",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 1.0,
+      "quote": "Liksom utredningen så delar MFoF uppfattningen att socialsekreterare har svårt att veta vilken sakkunnig de kan vända sig till och hur olika experters kompetens ska kunna kvalitetssäkras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.4",
+      "sentiment": 0.5,
+      "quote": "Domare som MFoF varit i kontakt med beskriver svårigheter med att finna sakkunniga psykologer som domstolen kan vända sig till.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec417",
+      "sentiment": 1.0,
+      "quote": "De grunder för bedömningen som föreslås i utredningen harmoniserar väl med föräldrabalkens formuleringar om barnets bästa vid bedömning av umgänge, vilket gynnar såväl samsyn inom socialnämnden som familjerna bedömningarna avser.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/naturvetarna": "5f8ee4b18a12e3e9fd6ee5215d81480fb6e100ae77047f832bb0a9003cc83faf",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:24:27+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21978,
+      "completion_tokens": 4740,
+      "ended": "2026-09-02T05:27:01+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "90f0054a49983292062fc4198eba08be45d472b5ec5124c415c40ace54399de9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Naturvetarna delar i huvudsak Produktivitetskommissionens bild av nuläget och väljer att kommentera ett urval punkter som är särskilt viktiga för våra medlemmar.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a13.5.7",
+      "sentiment": 1.0,
+      "quote": "Ett bredare och förenklat FoU-avdraget ligger i linje med vad övriga Europa erbjuder, och blir förhoppningsvis mer tillgängligt för små företag som befinner sig i en uppstartsfas och därför inte har lika mycket resurser.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.4.2",
+      "sentiment": -1.0,
+      "quote": "Rätt använt kan offentliga upphandlingar främja grön omställning.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/stora-enso": "3685205e3cdb035b2c5809de2f64516b540677a66dce863cd4c29ea12d016931",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T23:51:10+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 32143,
+      "completion_tokens": 6230,
+      "ended": "2026-09-01T23:55:17+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "c5338d8ad3beeaf51faa601e787d24c698e5f88ed15b8d974aff06d20d241710"
+    }
+  },
+  "overall": {
+    "sentiment": -0.2,
+    "quote": "Vi har särskilt betonat vikten av att de förslag som läggs fram inte riskerar möjligheterna att även framöver bedriva ett aktivt, hållbart och lönsamt skogsbruk i Sverige.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a6.2",
+      "sentiment": -0.2,
+      "quote": "Vi är dock något tveksamma över mervärdet med åtgärdssamordnare hos kommuner och hos ideella sammanslutningar, utan ser framför allt länsnivån som lämplig för denna typ av aktivitet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7",
+      "sentiment": -0.5,
+      "quote": "Den avgörande klimatnyttan från skogen - den förnybara råvaran form av biobaserade produkter som ersätter fossilbaserade alternativ – riskerar därmed att osynliggöras.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.1",
+      "sentiment": -0.2,
+      "quote": "Vi ställer oss frågande till denna formulering då gallring leder per definition till ett lägre virkesförråd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.5,
+      "quote": "Angående statligt finansierade kolinlagringsavtal finns en farhåga att de skulle kunna leda till ett mer passivt skogsbruk i Sverige.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": -0.5,
+      "quote": "Detta skulle inte bara påverka Sveaskog utan riskerar att minska tillgången på råvara ytterligare på marknaden, vilket leder till ökade kostnader för råvaran och skulle hämma den inhemska industrin.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec233",
+      "sentiment": 1.0,
+      "quote": "För det första skulle det bidra till att Sverige når sina klimatmål genom att främja byggnader som en viktig mekanism för koldioxidlagring.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": 0.8,
+      "quote": "Vi välkomnar därför att Miljömålsberedningen föreslår att även fortsatt satsa på återvätning även för att främja biologisk mångfald, inte bara klimat.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1",
+      "sentiment": 1.0,
+      "quote": "Det är ett mycket positivt och välkommet steg att Sveriges insatser för naturskydd ges större erkännande och blir mer jämförbara med andra länders rapportering.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.1.2",
+      "sentiment": 0.5,
+      "quote": "Om detta förslag kan leda till en förenklad process är det mycket positivt både från skogsägarens perspektiv och för att skapa ekonomiska incitament för att främja bevarande av biologisk mångfald och sådana ekosystemtjänster som kräver ingen eller särskilt utformad skogsskötsel.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a14.1.1",
+      "sentiment": 0.5,
+      "quote": "Därför borde dessa skogstyper prioriteras för formellt skydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1",
+      "sentiment": 1.0,
+      "quote": "Det är mycket negativt att natur som skyddas riskerar förlora naturvärden, eftersom den inte sköts på rätt sätt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a15.1.1",
+      "sentiment": -0.2,
+      "quote": "Att restaurera all statligt skyddad mark som är ”möjlig att restaurera till naturtyp” verkar emellertid svårt och kostsamt.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a16.1.1",
+      "sentiment": 1.0,
+      "quote": "De nya etappmål som föreslås ligger i linje med vad som redan överenskommits i EU:s naturrestaureringslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a17.2.3",
+      "sentiment": -0.5,
+      "quote": "Information bör också alltid kontrolleras och bekräftas av en myndighet innan den används som underlag för myndigheters beslut eller publiceras på ett sådant sätt att den kan framstå som fakta.",
+      "quote_type": "grund"
+    }
+  ]
+}

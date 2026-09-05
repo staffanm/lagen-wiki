@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2025:21/konjunkturinstitutet": "0229d69a1297618d469c41cb1e0617dc09396dd9f5c0ddc318065a6ab35c7a3f",
+      "artifact:forarbete/sou/2025-21": "7c2ae0a05f892b792e161e148397f55fcb3734e39a37a8e7a435b67dd6ce05f0"
+    },
+    "run": {
+      "started": "2026-09-01T18:03:00+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 26677,
+      "completion_tokens": 4644,
+      "ended": "2026-09-01T18:05:35+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "5dbb093bf2f5848f9502654e43d306f68b463454a7033efb7976448508df3fac"
+    }
+  },
+  "overall": {
+    "sentiment": -0.4,
+    "quote": "Betänkandet redovisar inte några uppskattningar av de olika förslagens samhällsekonomiska marginal- eller styckkostnader varför Konjunkturinstitutet finner det svårt att bedöma om den föreslagna mixen av styrmedel och åtgärder och dess finansiering kan sägas vara kostnadseffektiv eller inte.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.5.3",
+      "sentiment": 0.8,
+      "quote": "Konjunkturinstitutet uppfattar detta val som rimligt.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a3.6.5",
+      "sentiment": -0.5,
+      "quote": "då det även råder osäkerhet kring de föreslagna styrmedlens och åtgärdernas verkan så vore det bra riskhantering att hålla alla dörrar öppna.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2",
+      "sentiment": 1.0,
+      "quote": "Konjunkturinstitutet tillstyrker förslaget att addera en indikator till miljökvalitetsmålet Begränsad klimatpåverkan, nämligen en om upptag och utsläpp från markanvändningssektorn.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a7.1",
+      "sentiment": -0.2,
+      "quote": "Myndigheten ställer sig dock frågande till behovet av de föreslagna preciseringarna av miljökvalitetsmålen Levande skogar och Ett rikt odlingslandskap.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a8.2",
+      "sentiment": -0.2,
+      "quote": "Konjunkturinstitutet finner det svårt att bedöma additionaliteten i flera av de föreslagna bidragen/ersättningarna, det vill säga i vilken utsträckning de går till aktiviteter som annars inte skulle ha utförts.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec188",
+      "sentiment": 1.0,
+      "quote": "Konjunkturinstitutet tillstyrker därför förslaget att Havs- och vattenmyndigheten får i uppdrag att utvärdera gödslingens effekter.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "sec570",
+      "sentiment": -0.5,
+      "quote": "Varken den svenska koldioxidskatten eller priset på utsläppsrätter inom EU ETS, som beredningen hänvisar till, utgör relevanta storheter i detta sammanhang.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.4",
+      "sentiment": 0.0,
+      "quote": "Möjligheten till handel med LULUCF-certifikat mellan medlemsländer innebär dock att det inte finns något enkelt samband mellan LULUCF-åtagandet och avverkningsnivåer.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a8.2.5",
+      "sentiment": -0.2,
+      "quote": "Konjunkturinstitutet saknar en konsekvensanalys av detta förslag.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a11",
+      "sentiment": -0.2,
+      "quote": "Konjunkturinstitutet bedömer att ökat nettoupptag i långlivade träprodukter på sikt har stor potential, men ser svårigheter i att söka realisera denna potential enbart genom informationsinsatser och/eller detaljregleringar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a12.1",
+      "sentiment": -0.2,
+      "quote": "Konjunkturinstitutet har svårt att bedöma kostnadseffektiviteten i den föreslagna satsningen på återvätning och restaurering av våtmarker.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a19",
+      "sentiment": -0.5,
+      "quote": "Betänkandet redovisar inte några uppskattningar av de olika förslagens samhällsekonomiska marginal- eller styckkostnader varför Konjunkturinstitutet finner det svårt att bedöma om den föreslagna mixen av styrmedel och åtgärder och dess finansiering kan sägas vara kostnadseffektiv eller inte.",
+      "quote_type": "grund"
+    }
+  ]
+}

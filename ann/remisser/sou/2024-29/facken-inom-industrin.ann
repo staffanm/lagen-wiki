@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/facken-inom-industrin": "7891143597b1e367415db23741c9de627734696f62b9f39756bc02bd3615b3bc",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T02:51:19+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21385,
+      "completion_tokens": 1386,
+      "ended": "2026-09-02T02:52:23+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1aa0d8b711a79f555386e45225e09607652ff1a25e1de138500e9ca648290e72"
+    }
+  },
+  "overall": {
+    "sentiment": -1.0,
+    "quote": "Facken inom industrin ser stora risker för den väl fungerande lönebildningsmodellen och i förlängningen samhällsekonomin med att som utredningen diskuterar ge staten en större roll i lönebildningen.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

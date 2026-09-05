@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:8/myndigheten-for-delaktighet": "01b1ec7198dfefece0c649fdb95e0589f949d725e037c0e8feaae82ff1434f4d",
+      "artifact:forarbete/sou/2026-8": "ab815349841c8f2a62cac655fec22689ab73251cf00055a948bc6171395cad04"
+    },
+    "run": {
+      "started": "2026-09-01T13:33:47+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 18928,
+      "completion_tokens": 2821,
+      "ended": "2026-09-01T13:35:33+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "1343bdacba11622f478bf66ffb2f91bbea5140db8109a39db160978f1587caf6"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "MFD bedömer samtidigt att funktionshindersperspektivet är otillräckligt analyserat.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.7.3",
+      "sentiment": 0.5,
+      "quote": "MFD tillstyrker förslagen eftersom ökad tillgång till generell sakkunskap och kunskap om det enskilda barnet kan bidra till mer välgrundade beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a3.7.4",
+      "sentiment": 0.5,
+      "quote": "MFD tillstyrker förslagen eftersom ökad tillgång till generell sakkunskap och kunskap om det enskilda barnet kan bidra till mer välgrundade beslut.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.2",
+      "sentiment": 0.5,
+      "quote": "MFD tillstyrker förslagen eftersom tydligare kriterier kan bidra till ökad förutsebarhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4.3",
+      "sentiment": 0.5,
+      "quote": "MFD tillstyrker förslagen eftersom tydligare kriterier kan bidra till ökad förutsebarhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.7",
+      "sentiment": 0.5,
+      "quote": "MFD tillstyrker förslagen eftersom de kan stärka barns och ungas trygghet, rättssäkerhet och delaktighet vid umgänge och när vård enligt LVU upphör.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.2.4",
+      "sentiment": 1.0,
+      "quote": "Förslaget är särskilt angeläget ur ett funktionshindersperspektiv, eftersom barn med funktionsnedsättning kan ha svårare att själva signalera behov av skydd.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 0.2,
+      "quote": "Om denna aspekt inte beaktas finns en risk för att barn och unga med funktionsnedsättning utsätts för oproportionerliga inskränkningar eller inte får sina behov tillgodosedda.",
+      "quote_type": "grund"
+    }
+  ]
+}

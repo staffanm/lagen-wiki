@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/patent--och-registreringsverket": "e6c87be5c248f8cfa664c34b54b158357b2a1d0185540ffe0ef2fb0ea7390e79",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:37:09+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 24079,
+      "completion_tokens": 4070,
+      "ended": "2026-09-02T05:39:26+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2861a1094efe1ffb7321832bc45df77fd1cbc1696a8c6565760a5400e774105b"
+    }
+  },
+  "overall": {
+    "sentiment": 0.6,
+    "quote": "PRV:s utgångspunkt vid besvarandet av den aktuella remissen är den starka koppling som finns mellan immaterialrättigheter, tillväxt och produktivitet.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3.3.3",
+      "sentiment": 0.0,
+      "quote": "Erfarenheter visar att grundläggande forskningsgenombrott i vissa fall snabbt får praktiska tillämpningar där immaterialrättsliga verktyg möjliggör kontrollerad vidareutveckling och samhällelig nytta.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a13.5.7",
+      "sentiment": 0.5,
+      "quote": "Ett tydligare och mer inkluderande regelverk för FoU-avdrag kan göra det enklare för företag att planera och genomföra FoU-verksamhet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec715",
+      "sentiment": 1.0,
+      "quote": "PRV tillstyrker förslagen att underlätta tillgängliggörande av öppna data genom att genomföra förslagen i interoperabilietsutredningen (SOU 2023:96) samt därtill att ge KB i uppdrag att utveckla AI-modeller för svensk offentlig sektor.",
+      "quote_type": "standpunkt"
+    },
+    {
+      "forarbete_id": "a11.6.1",
+      "sentiment": 0.8,
+      "quote": "PRV ser därför positivt på förslag att tilldelas ytterligare resurser och möjligheter för att bidra i än högre grad till att kunskaperna om immaterialrätten höjs i samhället, särskilt på områden där utvecklingen skapat nya och akuta behov.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "sec82",
+      "sentiment": 0.8,
+      "quote": "PRV delar denna analys och bedömer att bristande struktur kring skydd, äganderätt och strategisk användning av immateriella tillgångar kan bidra till att investeringar hålls tillbaka, trots goda innovationsförutsättningar.",
+      "quote_type": "grund"
+    }
+  ]
+}

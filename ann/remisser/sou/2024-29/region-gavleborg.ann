@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-02",
+    "inputs": {
+      "artifact:remisser/sou/2024:29/region-gavleborg": "cb4546e7d1ec47873660b84e2dc9308cbe3e387efec37496c363081b4f9c8c40",
+      "artifact:forarbete/sou/2024-29": "236265db219f638d30533c21cea4ffc4b514d5fbd46634628f5fd28af08f3e7c"
+    },
+    "run": {
+      "started": "2026-09-02T05:52:19+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 23577,
+      "completion_tokens": 2287,
+      "ended": "2026-09-02T05:53:37+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "a45df665cd0e6ad2dd6792dd0898e4c0c3fb50b2a88664d38811cf90df63da6a"
+    }
+  },
+  "overall": {
+    "sentiment": 0.2,
+    "quote": "Region Gävleborg har i första hand valt att kommentera de delar i utredningen som berör de egna kompetens- och verksamhetsområdena, med fokus på Produktivitetskommissionens bedömningar och förslag.",
+    "quote_type": "standpunkt"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a7.4.4",
+      "sentiment": -1.0,
+      "quote": "Regeringen har tillsatt en särskild utredning som behandlar regional utvecklingspolitik och landsbygdspolitik; SVESAM – Utredningen för Sveriges sammanhållna utveckling.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a9.3.2",
+      "sentiment": 0.5,
+      "quote": "bedömer att reformerade regler för skoletableringar är en förutsättning för att dimensioneringsuppdraget ska få avsedd effekt.",
+      "quote_type": "grund"
+    }
+  ]
+}

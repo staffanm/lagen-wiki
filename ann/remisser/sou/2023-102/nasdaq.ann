@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/nasdaq": "d34ca149fe94349495eaaca168d7cfc708cb679b4bd7babd20bd731697f768b0",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:48:17+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 12794,
+      "completion_tokens": 4187,
+      "ended": "2026-09-01T16:50:26+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "3e513a3d4ad2cc28f78b33c74a401f6dc149cbdcdfa725518a4920de38a793c6"
+    }
+  },
+  "overall": {
+    "sentiment": 0.8,
+    "quote": "Genom dessa förtydliganden stärks förutsebarheten och de praktiska förutsättningarna för en effektiv och kommersiellt attraktiv tillämpning av DLT‑förordningen under svensk rätt.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a1.1",
+      "sentiment": 0.8,
+      "quote": "Genom dessa förtydliganden stärks förutsebarheten och de praktiska förutsättningarna för en effektiv och kommersiellt attraktiv tillämpning av DLT‑förordningen under svensk rätt.",
+      "quote_type": "grund"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2023:102/forvaltningsratten-i-stockholm": "0985bc4acced7739adcce38e6bf7aef33e6b99e7dc53d6890140eb09d836f68f",
+      "artifact:forarbete/sou/2023-102": "085f855f86736fe4a40edbda7db5a02a6332179163241f9d07b87d708f05da07"
+    },
+    "run": {
+      "started": "2026-09-01T16:42:31+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 11345,
+      "completion_tokens": 1089,
+      "ended": "2026-09-01T16:43:04+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "384c50272c70df713fd64d04b8181aee076218cd8a85cf98e9d260d937a01de9"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Domstolarna måste därför garanteras nödvändiga medel för att kunna hantera den ökade regleringen och förväntad ökad måltillströmning på finansmarknadsområdet.",
+    "quote_type": "grund"
+  },
+  "segments": []
+}

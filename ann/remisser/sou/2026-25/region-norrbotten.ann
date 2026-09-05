@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "status": "generated",
+    "model": "gemma4-31b-it-qat",
+    "generated": "2026-09-01",
+    "inputs": {
+      "artifact:remisser/sou/2026:25/region-norrbotten": "11a34fca7f4ede67db0a619d213220a55e927d8abff3b752ac143c562555a440",
+      "artifact:forarbete/sou/2026-25": "b8948314381c979845a82c126c2767d4cc5981daebed67463c9f1031ae00ad15"
+    },
+    "run": {
+      "started": "2026-09-01T16:22:27+00:00",
+      "temperature": 1.0,
+      "top_p": 0.95,
+      "calls": 1,
+      "prompt_tokens": 21170,
+      "completion_tokens": 3384,
+      "ended": "2026-09-01T16:24:16+00:00",
+      "host": "127.0.0.1",
+      "model": "gemma4-31b-it-qat",
+      "prompt_sha": "2fafe2f4e6de20d7257224aa15a519a5ef639e13bc364aeb689b44affcd99015"
+    }
+  },
+  "overall": {
+    "sentiment": 0.5,
+    "quote": "Region Norrbotten tillstyrker huvuddelen av utredningens förslag och bedömer att de sammantaget bidrar till ett mer flexibelt, ändamålsenligt och robust smittskydd.",
+    "quote_type": "grund"
+  },
+  "segments": [
+    {
+      "forarbete_id": "a3",
+      "sentiment": 1.0,
+      "quote": "Regionen är även positiv till en återkommande översyn av sjukdomsklassificeringarna, vilket bedöms skapa bättre förutsättningar för ett kunskapsbaserat och ändamålsenligt smittskydd",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a4.6",
+      "sentiment": 0.0,
+      "quote": "Det kan därför ifrågasättas vilket praktiskt behov den föreslagna lagändringen svarar mot.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a5.6",
+      "sentiment": -0.2,
+      "quote": "Förslaget medför ett betydande ansvar för behandlande läkare att avgöra när gränsen mellan rådgivning och bindande förhållningsregler är passerad, vilket kan leda till varierande tillämpning mellan olika verksamheter.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a6.4",
+      "sentiment": 1.0,
+      "quote": "Förslaget bedöms förbättra datakvaliteten och den epidemiologiska uppföljningen samt bidra till att minska stigmatiseringen av hiv och andra sexuellt överförbara infektioner genom att dessa hanteras på samma sätt som andra anmälningspliktiga sjukdomar.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.1.7",
+      "sentiment": 1.0,
+      "quote": "Regionen bedömer att förslagen kan bidra till en mer ändamålsenlig och effektiv hantering i ett tidigt skede av ett utbrott.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.2.11",
+      "sentiment": 0.5,
+      "quote": "Regionen anser dock att det behöver tydliggöras vilka konkreta uppgifter som följer av ansvaret samt hur ansvarsfördelningen mellan Folkhälsomyndigheten, Socialstyrelsen, regionernas smittskyddsenheter och vårdhygieniska verksamheter ska fungera i praktiken.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.6",
+      "sentiment": 1.0,
+      "quote": "Regionen bedömer att detta stärker förutsättningarna för smittskyddsläkaren att fullgöra sitt självständiga lagstadgade uppdrag och att påverka regionens strategiska beslut inom smittskyddsområdet.",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.7",
+      "sentiment": 1.0,
+      "quote": "Regionen delar denna bedömning och anser att funktionen är av stor betydelse för att säkerställa en robust smittskyddsorganisation",
+      "quote_type": "grund"
+    },
+    {
+      "forarbete_id": "a7.3.8",
+      "sentiment": -0.2,
+      "quote": "Regionen bedömer att den föreslagna benämningen främst betonar den geografiska tillhörigheten och inte i sig tydliggör funktionens särskilda ansvar eller myndighetsutövande uppdrag.",
+      "quote_type": "grund"
+    }
+  ]
+}
