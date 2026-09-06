@@ -1,6 +1,12 @@
 ---
 title: Nyheter om lagen.nu
 ---
+## 2026-09-06 21:55:00 Nya versionen är nu lanserad
+
+Efter sommarens testperiod är den nya versionen av lagen.nu nu den officiella och ligger på [lagen.nu](https://lagen.nu/). Se vad som är nytt under [Vad är nytt?](https://lagen.nu/om/nytt)
+
+Den gamla versionen finns tills vidare kvar på [old.lagen.nu](https://old.lagen.nu/).
+
 ## 2026-07-20 16:28:00 Ny testversion tillgänglig
 
 Efter några års tystnad har arbetet återupptagits under sommarlovet. På https://ferenda.lagen.nu/ finns nu en ny version av tjänsten, nu med EU-rätt och många andra nya källor.

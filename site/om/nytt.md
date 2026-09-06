@@ -8,7 +8,7 @@ mest på att det finns mer material, och på att materialet är tätare
 sammanlänkat.
 
 Sammanlagt finns nu drygt 250 000 dokument och över 13 miljoner hänvisningar
-mellan dem. På [Korpuset i siffror](/statistik/) finns mätningar av materialet --
+mellan dem. På [Statistik](/statistik/) finns mätningar av materialet --
 de längsta lagarna, de mest hänvisade paragraferna, hur lång tid det tar från
 förslag till lag, och en del annat.
 
