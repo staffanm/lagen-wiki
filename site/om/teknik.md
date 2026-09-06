@@ -60,8 +60,7 @@ levereras från samma server, och det finns varken mätverktyg eller inbäddat
 innehåll utifrån.
 
 Kommentarerna och begreppsförklaringarna skrivs som versionshanterad markdown i
-ett separat innehållsförråd, och kan även redigeras direkt på sajten av inloggade
-skribenter.
+ett separat innehållsförråd.
 
 ## Maskinellt utläst material
 

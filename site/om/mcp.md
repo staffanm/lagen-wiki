@@ -15,21 +15,18 @@ citeringsgrafen finns inte i löptexten någonstans, den är uträknad.
 ## Adress
 
 ```
-https://ferenda.lagen.nu/mcp
+https://lagen.nu/mcp
 ```
 
 Transport är **Streamable HTTP**. Gränssnittet är öppet, kräver ingen nyckel och
 kan bara läsa -- det finns inget verktyg som ändrar något.
-
-(Adressen är `ferenda.lagen.nu`, inte `lagen.nu`. Det är den nya versionen av
-tjänsten, och den ligger tills vidare på den adressen.)
 
 ## Koppla in det
 
 **Claude Code:**
 
 ```sh
-claude mcp add --transport http lagen-nu https://ferenda.lagen.nu/mcp
+claude mcp add --transport http lagen-nu https://lagen.nu/mcp
 ```
 
 **Claude (webb och skrivbordsapp):** Inställningar → Kopplingar (*Connectors*) →

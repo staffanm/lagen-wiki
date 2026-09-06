@@ -14,4 +14,18 @@ Internet förändrar vårt förhållningssätt till kunskap. Information som tid
 
 Min förhoppning är att lagen.nu ska vara en sån byggsten.
 
+## Därför är materialet öppet
+
+Lagtext och myndighetsbeslut är inte upphovsrättsskyddade. Det som lagen.nu
+lägger till -- kopplingarna, begreppen, kommentarerna -- lämnas fritt ändå,
+via [API och bulkfiler](/om/api). Sidorna laddar inget från tredje part:
+inga typsnitt, skript eller mätverktyg utifrån.
+
+## Tack
+
+Lagen.nu drivs sedan 2020 på servrar och nät som datorföreningen
+[Lysator](https://www.lysator.liu.se/) vid Linköpings universitet står för.
+Före dem gjorde företaget Kodapan detsamma under många år. Utan dem hade
+tjänsten inte funnits.
+
 Staffan Malmgren, staffan.malmgren@gmail.com

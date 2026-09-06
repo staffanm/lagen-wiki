@@ -2,7 +2,7 @@
 title: lagen.nu
 ---
 
-Välkommen till lagen.nu! Här hittar du alla gällande svenska lagar, EU-rättsakter, rättsfall och förarbeten. Nedan är ett urval av centrala lagar ordnade efter livs- och verksamhetsområde — de som står i **fetstil** är kommenterade med förklaringar och exempel. [Läs mer om tjänsten](/om/) eller [bläddra i den fullständiga förteckningen](/index/).
+Välkommen till lagen.nu! Här hittar du alla gällande svenska lagar, EU-rättsakter, rättsfall och förarbeten. Nedan är ett urval av centrala lagar ordnade efter livs- och verksamhetsområde — de som står i **fetstil** är kommenterade med förklaringar och exempel. [Läs mer om tjänsten](/om/) eller [bläddra i den fullständiga förteckningen](/sfs/).
 
 ## Vanliga ingångar
 

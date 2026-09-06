@@ -7,7 +7,7 @@ lagtext och myndighetsbeslut omfattas inte av upphovsrätt; rättsfallsreferat f
 återges fritt med angivande av källan (Domstolsverket). Vi uppmuntrar
 återanvändning.
 
-Det finns fyra sätt att komma åt innehållet:
+Det finns fem sätt att komma åt innehållet:
 
 - **Länka** till läsvyer med de permanenta adresserna -- se
   [Hur man länkar till lagen.nu](/om/lankning).
@@ -18,9 +18,15 @@ Det finns fyra sätt att komma åt innehållet:
   dokument.
 - **MCP** för AI-verktyg, så att en chatbot kan slå upp gällande lagtext och
   följa citeringsgrafen istället för att svara ur minnet.
+- **Git-repositorier** med lagtexten som versionshistorik:
+  [github.com/staffanm/sfs](https://github.com/staffanm/sfs) och
+  [github.com/staffanm/eurlex](https://github.com/staffanm/eurlex). En fil
+  per författning eller rättsakt, en commit per ändring, författad av den
+  som undertecknat propositionen. `git log` och `git blame` på svensk lag.
 
-De två första beskrivs närmare under [API och bulkdata](/om/api), det sista
-under [lagen.nu i AI-verktyg](/om/mcp).
+REST-API och bulknedladdning beskrivs närmare under [API och
+bulkdata](/om/api), MCP under [lagen.nu i AI-verktyg](/om/mcp).
+[Korpuset i siffror](/statistik/) visar vad materialet innehåller, mätt.
 
 Varje dokument identifieras överallt med sin kanoniska `https://lagen.nu/…`-adress
 -- samma sträng är API-nyckel, rad-id i bulkdumparna och id i sökindexet.
@@ -30,6 +36,10 @@ byggas om ur artefakterna.
 API:et ligger under `/api/v1`. Ett maskinläsbart schema serveras på
 [`/openapi.json`](/openapi.json) och interaktiv dokumentation på
 [`/docs`](/docs).
+
+[paraGRAF](https://para-graf.tomtebo.org/) är ett exempel på vad någon annan
+kan bygga på API:et: en fristående app som ritar citeringsgrafen runt ett
+dokument.
 
 Plattformen bakom lagen.nu är öppen källkod och kan återanvändas för att bygga
 andra tjänster som hanterar liknande informationssamlingar. Läs mer om

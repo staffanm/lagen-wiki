@@ -36,6 +36,8 @@ sökvägen -- lagen.nu-adresser innehåller både `:` och `/`.
 | hämta ett dokument | `GET /api/v1/document?uri=…` |
 | **se vilka som hänvisar hit** | `GET /api/v1/document/inbound?uri=…` |
 | se vad ett dokument hänvisar till | `GET /api/v1/document/outbound?uri=…` |
+| hämta grannskapet i citeringsgrafen | `GET /api/v1/graph?uri=…` |
+| hitta kortaste kedjan mellan två dokument | `GET /api/v1/path?from=…&to=…` |
 | lista tidigare lydelser | `GET /api/v1/document/versions?uri=…` |
 | jämföra två lydelser | `GET /api/v1/document/diff?uri=…&from=…` |
 | hämta en faksimilsida (PNG) | `GET /api/v1/facsimile?uri=…&sid=N` |
@@ -57,7 +59,7 @@ lagen som helhet.
 
 För att bearbeta hela korpusen är det bättre att hämta bulkfilerna än att
 bläddra igenom API:et. De ligger under
-[`/dumps/`](https://ferenda.lagen.nu/dumps/), en fil per källa, och
+[`/dumps/`](https://lagen.nu/dumps/), en fil per källa, och
 `GET /api/v1/dumps` listar dem med filnamn och storlek.
 
 Filerna är stora -- hela uppsättningen är ca 4,5 GB, varav förarbetena ensamma

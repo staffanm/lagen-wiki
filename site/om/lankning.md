@@ -71,6 +71,16 @@ https://lagen.nu/celex/32016R0679#6
 - En definition (t.ex. artikel 2.21): `#2.21`
 - Skäl 15: `#recital-15`
 
+## Subdomänerna
+
+Några författningar går också att nå på en adress som är lätt att säga högt:
+`avtals.lagen.nu` är [avtalslagen](/1915:218), `dataskydds.lagen.nu` är
+[dataskyddslagen](/2018:218) och `dataskydds.förordningen.nu` är
+[dataskyddsförordningen](/celex/32016R0679). `samtyckes.lagen.nu` leder till
+en enskild bestämmelse, [6 kap. 1 § brottsbalken](/1962:700#K6P1). De finns
+för de författningar som har ett vedertaget kortnamn. Den vanliga adressen är
+den som gäller, och den du ska länka till.
+
 ## Länkarna håller
 
 Adresserna är en dokumenterad del av tjänstens gränssnitt och ändras inte. En
