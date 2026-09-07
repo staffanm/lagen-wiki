@@ -1,0 +1,68 @@
+# Tell ferenda that the content changed, and which files.
+#
+# This repo holds the editorial half of lagen.nu -- news and about pages,
+# commentary, concepts, text patches and annotation layers. A push here changes
+# published pages without changing a line of ferenda, and until now nothing
+# noticed: the checkout on the production box was pulled by hand.
+#
+# All this workflow does is name the changed files. The work happens in
+# ferenda's `publish-wiki` workflow, on the self-hosted runner that lives on the
+# box with the corpus -- that runner is registered to ferenda only (a
+# personal-account runner serves one repository), so a dispatch is how the two
+# meet.
+#
+# It sends the paths of every commit in the push, not just the tip: ferenda
+# works out which documents they re-staled, and a file changed in the middle of
+# a five-commit push has re-staled its page just the same.
+name: publish
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # the whole history, or `git diff <before>..<after>` cannot resolve
+          # the far end of a push that lands more than one commit
+          fetch-depth: 0
+
+      - name: Send the changed paths to ferenda
+        env:
+          # a fine-grained PAT with Contents: read and write on staffanm/ferenda
+          # -- repository_dispatch is a write to that repo
+          TOKEN: ${{ secrets.FERENDA_DISPATCH_TOKEN }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.event.after }}
+        run: |
+          set -euo pipefail
+          # A branch's first push, and a force-push over a rewritten history,
+          # report an all-zero `before` that resolves to nothing. Diffing the
+          # tip commit alone would then silently under-report; naming the whole
+          # tree is the safe answer, and ferenda narrows it from there.
+          if [ "$BEFORE" = "0000000000000000000000000000000000000000" ] \
+             || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            echo "no usable base commit -- sending the whole tree" >&2
+            paths="$(git ls-files)"
+          else
+            paths="$(git diff --name-only "$BEFORE" "$AFTER")"
+          fi
+          if [ -z "$paths" ]; then
+            echo "nothing changed"
+            exit 0
+          fi
+          echo "$paths"
+          # jq builds the JSON, so a filename with a quote or a newline in it
+          # cannot break out of the payload
+          payload="$(printf '%s\n' "$paths" \
+            | jq -R -s -c 'split("\n") | map(select(length > 0))
+                           | {event_type: "wiki-push", client_payload: {paths: .}}')"
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/staffanm/ferenda/dispatches \
+            -d "$payload"
