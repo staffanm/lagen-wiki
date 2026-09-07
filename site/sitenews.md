@@ -1,7 +1,7 @@
 ---
 title: Nyheter om lagen.nu
 ---
-## 2026-09-06 21:55:00 Nya versionen är nu lanserad
+## 2026-09-06 21:55:02 Nya versionen är nu lanserad
 
 Efter sommarens testperiod är den nya versionen av lagen.nu nu den officiella och ligger på [lagen.nu](https://lagen.nu/). Se vad som är nytt under [Vad är nytt?](https://lagen.nu/om/nytt)
 

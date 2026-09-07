@@ -34,17 +34,19 @@ lägg till en egen koppling, med namn `lagen.nu` och adressen ovan. I ett Team-
 eller Enterprise-konto kan det behöva göras av en administratör för hela
 organisationen.
 
-**ChatGPT:** Inställningar → Kopplingar (*Connectors*), lägg till en egen
-MCP-server med adressen ovan. Egna kopplingar är i skrivande stund begränsade
-till betalkonton, och i Business- och Enterprise-konton läggs de till av en
-administratör.
+**ChatGPT (webben):** Gå till Inställningar → Säkerhet och inloggning
+(*Security and login*) och slå på *Developer mode*. Gå sedan till Inställningar
+→ Plugins och klicka på plusknappen. Välj *Server URL*, ange `lagen.nu` som
+namn och adressen ovan som URL. Välj ingen autentisering, bekräfta varningen om
+en egen MCP-server och klicka på *Create*. Klicka sedan på *Connect* i rutan
+som visas.
 
 **Andra verktyg:** allt som talar MCP över Streamable HTTP fungerar -- ange
 adressen ovan, ingen autentisering. Verktyg som bara klarar den äldre
 stdio-transporten behöver en brygga (t.ex. `mcpo` eller `mcp-remote`).
 
 Menyerna i de här produkterna ändras ofta. Hittar du inte rätt, leta efter
-"Connectors", "MCP" eller "Verktyg" i inställningarna.
+"Plugins", "Developer mode", "MCP" eller "Verktyg" i inställningarna.
 
 ## Vad verktygen kan
 
