@@ -1,6 +1,10 @@
 ---
 title: Nyheter om lagen.nu
 ---
+## 2026-09-29 15:23:17 Kammarrätternas domar i upphandlingsmål
+
+Arbetar du med offentlig upphandling? Nu finns över 1 100 domar från kammarrätterna i upphandlingsmål på lagen.nu, från 2016 och framåt. Du ser direkt vid varje paragraf i till exempel [lagen om offentlig upphandling](https://lagen.nu/2016:1145) hur kammarrätterna har tillämpat den. Tack till Konkurrensverket, vars [domstolsdatabas](https://information.konkurrensverket.se/domar/domar.asp) är källan.
+
 ## 2026-09-06 21:55:02 Nya versionen är nu lanserad
 
 Efter sommarens testperiod är den nya versionen av lagen.nu nu den officiella och ligger på [lagen.nu](https://lagen.nu/). Se vad som är nytt under [Vad är nytt?](https://lagen.nu/om/nytt)
