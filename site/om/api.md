@@ -59,11 +59,12 @@ lagen som helhet.
 
 För att bearbeta hela korpusen är det bättre att hämta bulkfilerna än att
 bläddra igenom API:et. De ligger under
-[`/dumps/`](https://lagen.nu/dumps/), en fil per källa, och
-`GET /api/v1/dumps` listar dem med filnamn och storlek.
+[`/dumps/`](https://lagen.nu/dumps/), en fil per källa (samt
+`sfs-versions.ndjson.gz` och `eurlex-versions.ndjson.gz` för arkiverade äldre
+lydelser), och `GET /api/v1/dumps` listar dem med filnamn och storlek.
 
-Filerna är stora -- hela uppsättningen är ca 4,5 GB, varav förarbetena ensamma
-är ca 3,5 GB. De serveras med stöd för delhämtning, så ett avbrutet nedladdande
+Filerna är stora -- hela uppsättningen är ca 5,5 GB, varav förarbetena ensamma
+är ca 3,8 GB. De serveras med stöd för delhämtning, så ett avbrutet nedladdande
 går att återuppta.
 
 Varje fil är gzippad NDJSON: en artefakt per rad, oförändrad -- samma objekt som
@@ -77,6 +78,11 @@ zcat sfs.ndjson.gz | head -1
 
 Filerna byggs om tillsammans med resten av materialet, så de följer med när
 korpusen uppdateras.
+
+För den som vill hålla en lokal kopia av de tolkade artefakterna (`artifact/`)
+eller det nedladdade råmaterialet (`downloaded/`) löpande synkroniserad över
+tid finns även en läsbehörig `rsync`-ändpunkt mot `lagen.nu`. [Kontakta
+mig](/om/kontakt) om du vill ha inloggningsuppgifter för `rsync`.
 
 ## Villkor
 
